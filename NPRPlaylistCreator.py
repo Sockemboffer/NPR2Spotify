@@ -47,7 +47,7 @@ class CreatePlaylist:
             "description": "NPRTestDay - Songs from a pages day.",
             "public": False})
 
-        query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_client_id)
+        query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_client_id) 
         response = requests.post(
             query,
             data=request_body,
