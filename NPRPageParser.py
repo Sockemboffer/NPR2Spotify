@@ -64,6 +64,8 @@ def InterludeRequest(interlude):
     artistData = dict()
     artistData['Interlude Artist'] = interlude.xpath('.//span[@class="song-meta-artist"]/text()').get()
     artistData['Interlude Song']  = interlude.xpath('.//span[@class="song-meta-title"]/text()').get()
+    artistData['Spotify URI'] = None
+    artistData['Last Checked'] = None
     print('---- Song Info')
     return artistData
 

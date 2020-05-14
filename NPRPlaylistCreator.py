@@ -5,6 +5,7 @@ from secrets import spotify_token, spotify_client_id
 from urllib import parse
 import re
 from string import Template
+import datetime
 # note: Playlists can have a maximum of 10,000 tracks each.
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 
@@ -27,9 +28,9 @@ class CreatePlaylist:
         self.all_uri_info = list()
 
     def get_json_data(self):
-        jsonList = list()
-        with open('NPRPageParser.json') as json_file:
+        with open('NPRPageParser.json', "r") as json_file:
             data = json.load(json_file)
+            json_file.close()
             return data
 
     def get_artist_data(self, jsonData):
@@ -37,7 +38,7 @@ class CreatePlaylist:
             for value in entry:
                 if isinstance(value, dict):
                     self.all_song_info.append(value)
-        #print(self.all_song_info)
+        # print(self.all_song_info)
         return self.all_song_info
 
     def create_playlist(self, jsonData):
@@ -61,7 +62,7 @@ class CreatePlaylist:
         #print(response_json["id"])
         return response_json["id"]
 
-    def get_spotify_uri(self, artistList):
+    def get_spotify_uri(self, jsonData, artistList):
         # building uri list to use later in playlist fill-up
         foundTracks = list()
         multipleArtists = ""
@@ -100,10 +101,48 @@ class CreatePlaylist:
             if response_json["tracks"]["total"] != 0:
                 print(" Track: " + track + ", By: " + ", ".join(artists))
                 self.all_uri_info.append(response_json["tracks"]["items"][0]["uri"])
+                # insert track uri back into jsonData
+                with open('NPRPageParser.json', 'w') as json_file:
+                    for entry in jsonData:
+                        for value in entry:
+                            if isinstance(value, dict):
+                                #print(value)
+                                for k, v in value.items():
+                                    if v == track:
+                                        # print(k)
+                                        for k, v in value.items():
+                                            if k == "Spotify URI":
+                                                v = response_json["tracks"]["items"][0]["uri"]
+                                                value[k] = v
+                                                #print(k)
+                                            if k == "Last Checked":
+                                                dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                                v = dt
+                                                value[k] = v
+                                                #print(k)
+                                        
+                    #print(jsonData)
+                    json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+                    json_file.close()
             else:
                 print("!Track: " + track + ", By: " + ", ".join(artists))
-
-        #print(self.all_uri_info)
+                # insert last checked back into json file
+                with open('NPRPageParser.json', 'w') as json_file:
+                    for entry in jsonData:
+                        for value in entry:
+                            if isinstance(value, dict):
+                                #print(value)
+                                for k, v in value.items():
+                                    if v == track:
+                                        # print(k)
+                                        for k, v in value.items():
+                                            if k == "Last Checked":
+                                                dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                                v = dt
+                                                value[k] = v
+                                                #print(k)
+                    json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+                    json_file.close()
         return self.all_uri_info
 
     def add_song_to_playlist(self, playListID, uriList):
@@ -131,10 +170,10 @@ class CreatePlaylist:
 newPlaylistCreator = CreatePlaylist()
 jsonData = newPlaylistCreator.get_json_data()
 #print(json.dumps(jsonData, indent=4, sort_keys=False))
-newPlaylist = newPlaylistCreator.create_playlist(jsonData)
 dayInterludeList = newPlaylistCreator.get_artist_data(jsonData)
+newPlaylist = newPlaylistCreator.create_playlist(jsonData)
 #print(json.dumps(dayInterludeList, indent=4, sort_keys=False))
-spotifyURIs = newPlaylistCreator.get_spotify_uri(dayInterludeList)
+spotifyURIs = newPlaylistCreator.get_spotify_uri(jsonData, dayInterludeList)
 #print(spotifyURIs)
 spotifyResponse = newPlaylistCreator.add_song_to_playlist(newPlaylist, spotifyURIs)
 print(json.dumps(spotifyResponse, indent=4))
