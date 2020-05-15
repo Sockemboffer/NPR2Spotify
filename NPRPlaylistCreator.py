@@ -26,6 +26,10 @@ class CreatePlaylist:
     def __init__(self):
         self.all_song_info = list()
         self.all_uri_info = list()
+        self.songLastChecked = ""
+        self.playListID = ""
+        self.nprPageLink = ""
+        self.playListDescription = ""
 
     def get_json_data(self):
         with open('NPRPageParser.json', "r") as json_file:
@@ -41,11 +45,20 @@ class CreatePlaylist:
         # print(self.all_song_info)
         return self.all_song_info
 
-    def create_playlist(self, jsonData):
+    def create_playlist(self):
+        jsonData = self.get_json_data()
+        for dic in jsonData:
+            if "Day" in dic:
+                dayText = str(dic.get("Day"))
+            if "Date Text" in dic:
+                dateText = str(dic.get("Date Text"))
+            if "Page Link" in dic:
+                self.nprPageLink = str(dic.get("Page Link"))
+            if "Edition" in dic:
+                editionText = str(dic.get("Edition"))
         # Create A New Playlist that we can fill up with interlude songs
         request_body = json.dumps({
-            "name": "NPRTestDay",
-            "description": "NPRTestDay - Songs from a pages day.",
+            "name": editionText + " for " + dayText + ", " + dateText,
             "public": False})
 
         query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_client_id) 
@@ -60,6 +73,7 @@ class CreatePlaylist:
 
         # playlist id
         #print(response_json["id"])
+        self.playListID = response_json["id"]
         return response_json["id"]
 
     def get_spotify_uri(self, jsonData, artistList):
@@ -116,9 +130,8 @@ class CreatePlaylist:
                                                 value[k] = v
                                                 #print(k)
                                             if k == "Last Checked":
-                                                dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-                                                v = dt
-                                                value[k] = v
+                                                self.songLastChecked = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                                value[k] = self.songLastChecked
                                                 #print(k)
                                         
                     #print(jsonData)
@@ -141,6 +154,16 @@ class CreatePlaylist:
                                                 v = dt
                                                 value[k] = v
                                                 #print(k)
+                    request_body = json.dumps({
+                        "description": self.nprPageLink + " | " + "Missing Track: '" + track + "' | " + "By: '" + ", ".join(artists) + "' | " + "Last Checked: " + self.songLastChecked,})
+                    query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
+                    response = requests.put(
+                        query,
+                        data=request_body,
+                        headers={
+                            "Content-Type": "application/json",
+                            "Authorization": "Bearer {}".format(spotify_token)})
+                    print(response)
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
         return self.all_uri_info
@@ -171,7 +194,7 @@ newPlaylistCreator = CreatePlaylist()
 jsonData = newPlaylistCreator.get_json_data()
 #print(json.dumps(jsonData, indent=4, sort_keys=False))
 dayInterludeList = newPlaylistCreator.get_artist_data(jsonData)
-newPlaylist = newPlaylistCreator.create_playlist(jsonData)
+newPlaylist = newPlaylistCreator.create_playlist()
 #print(json.dumps(dayInterludeList, indent=4, sort_keys=False))
 spotifyURIs = newPlaylistCreator.get_spotify_uri(jsonData, dayInterludeList)
 #print(spotifyURIs)
