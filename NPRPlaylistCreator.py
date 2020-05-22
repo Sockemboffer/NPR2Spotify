@@ -16,8 +16,6 @@ import base64
 # todo: create search types to help narrow down a track when none found on default search
 # todo: notify when previously not found track is found
 
-# fix: validate json file before parsing, throw warning if not
-
 class CreatePlaylist:
     def __init__(self):
         self.all_song_info = list()
@@ -31,9 +29,11 @@ class CreatePlaylist:
 
     def get_json_data(self):
         with open('NPRPageParser.json', "r") as json_file:
-            data = json.load(json_file)
-            json_file.close()
-            return data
+            try:
+                return json.load(json_file)
+            except ValueError as e:
+                print('invalid json: %s' % e)
+                return None # or: raise
 
     def get_artist_data(self):
         jsonData = self.get_json_data()
