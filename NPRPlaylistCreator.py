@@ -107,7 +107,7 @@ class CreatePlaylist:
                         "Content-Type": "image/jpeg"})
                 #editionImage.close()
                 #response_json = response.json()
-                print(response)
+                #print(response)
         elif (self.articleDay != "Sunday"):
             with open("npr_we_sat.jpg", "rb") as im:
                 encoded_string = base64.b64encode(im.read())
@@ -121,7 +121,7 @@ class CreatePlaylist:
                         "Content-Type": "image/jpeg"})
                 #editionImage.close()
                 #response_json = response.json()
-                print(response)
+                #print(response)
         else:
             with open("npr_we_sun.jpg", "rb") as im:
                 encoded_string = base64.b64encode(im.read())
@@ -135,7 +135,7 @@ class CreatePlaylist:
                         "Content-Type": "image/jpeg"})
                 #editionImage.close()
                 #response_json = response.json()
-                print(response)
+                #print(response)
 
         #print(response_json)
         # playlist id
@@ -205,7 +205,7 @@ class CreatePlaylist:
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
             else:
-                missedTrack = "> " + "Missing Track: " + track + " " + "By: " + ", ".join(artists)
+                missedTrack = "••••••>" + "MISSING: " + track + " " + "by: " + ", ".join(artists)
                 print(missedTrack)
                 self.missedTracksList.append(missedTrack) 
                 #print(self.missedTracksList)
@@ -226,7 +226,7 @@ class CreatePlaylist:
                                                 value[k] = v
                                                 #print(k)
                     request_body = json.dumps({"description": self.nprPageLink + " " + " ".join(self.missedTracksList)
-                        + " >>> Last Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")),})
+                        + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]",})
                     query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
                     response = requests.put(
                         query,
@@ -234,7 +234,7 @@ class CreatePlaylist:
                         headers={
                             "Content-Type": "application/json",
                             "Authorization": "Bearer {}".format(spotipyUserToken)})
-                    print(response)
+                    #print(response)
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
         return self.all_uri_info
