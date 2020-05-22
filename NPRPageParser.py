@@ -4,6 +4,7 @@ import json
 from string import punctuation
 from parsel import Selector
 import datetime
+import re
 
 # note: earlist npr page with songs (it seems) Wednesday, July 26, 2000
 # note: https://www.npr.org/programs/morning-edition/2000/07/26/12988271/?showDate=2000-07-26
@@ -63,8 +64,9 @@ def ArticleRequest(article):
 
 def InterludeRequest(interlude):
     artistData = dict()
-    artistData['Interlude Artist'] = interlude.xpath('.//span[@class="song-meta-artist"]/text()').get()
-    artistData['Interlude Song']  = interlude.xpath('.//span[@class="song-meta-title"]/text()').get()
+    # gross trim leading/trailing then duplicate spaces
+    artistData['Interlude Artist'] = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())) 
+    artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
     artistData['Spotify URI'] = None
     artistData['Last Checked'] = None
     print('---- Song Info')

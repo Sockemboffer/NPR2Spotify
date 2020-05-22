@@ -151,7 +151,7 @@ class CreatePlaylist:
         for dic in artistList:
             if "Interlude Artist" in dic:
                 artists = list()
-                artists = str(dic.get("Interlude Artist")).split(" & ")
+                artists = str.strip((dic.get("Interlude Artist")).split(" & ")
                 #print(len(artists))
             if "Interlude Song" in dic:
                 track = dic.get("Interlude Song")
