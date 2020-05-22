@@ -198,7 +198,7 @@ class CreatePlaylist:
                                                 value[k] = v
                                                 #print(k)
                                             if k == "Last Checked":
-                                                self.songLastChecked = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                                self.songLastChecked = str(datetime.datetime.now().__format__("%Y-%m-%d"))
                                                 value[k] = self.songLastChecked
                                                 #print(k)
                                         
