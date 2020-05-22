@@ -45,6 +45,8 @@ def PageRequest(pageSelector):
     pageData['Day'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
     dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
     pageData['Scanned Date'] = dt
+    pageData['Playlist Link'] = None
+    pageData['Playlist URI'] = None
     return pageData
 
 def ArticleByLineRequest(article):
@@ -68,5 +70,5 @@ def InterludeRequest(interlude):
     print('---- Song Info')
     return artistData
 
-nprURL = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/weekend-edition-sunday-for-may-10-2020"
+nprURL = "https://www.npr.org/programs/morning-edition/2000/07/26/12988271/"
 NPRStoryParser(nprURL)

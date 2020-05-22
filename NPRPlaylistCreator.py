@@ -15,10 +15,10 @@ import base64
     # check if playlist exsists
 # todo: create search types to help narrow down a track when none found on default search
 # todo: notify when previously not found track is found
-# todo: read/write and store created playlists in json file
-    # added to page data playlist uri
+
 # fix: missing tracks are stomping eachother, only last result gets added to playlist details
 # fix: last checked date only in description (cut off time-stamp, noisey)
+# fix: validate json file before parsing, throw warning if not
 
 class CreatePlaylist:
     def __init__(self):
@@ -36,7 +36,8 @@ class CreatePlaylist:
             json_file.close()
             return data
 
-    def get_artist_data(self, jsonData):
+    def get_artist_data(self):
+        jsonData = self.get_json_data()
         for entry in jsonData:
             for value in entry:
                 if isinstance(value, dict):
@@ -69,6 +70,29 @@ class CreatePlaylist:
                 "Content-Type": "application/json",
                 "Authorization": "Bearer {}".format(spotipyUserToken)})
         response_json = response.json()
+        #print("in file open ===============")
+        with open('NPRPageParser.json', 'w') as json_file:
+            #print(jsonData)
+            for dicInJson in jsonData:
+                if isinstance(dicInJson, dict):
+                    for kDicData, vDicData in dicInJson.items():
+                        if kDicData == "Playlist Link":
+                            #print(json.dumps(response_json))
+                            for kRes, vRes in response_json.items():
+                                #print(k)
+                                if isinstance(vRes, dict) and ("spotify" in vRes):
+                                    dicInJson[kDicData] = vRes["spotify"]
+                                    #print(kDicData)
+                        elif kDicData == "Playlist URI":
+                            #print(json.dumps(response_json))
+                            for kRes, vRes in response_json.items():
+                                #print(k)
+                                if kRes == "uri":
+                                    dicInJson[kDicData] = vRes
+                                    #print(kDicData)
+            #print(json.dumps(jsonData))
+            json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+            json_file.close()
         #print(response_json)
         self.playListID = response_json["id"]
         if (self.articleDay != "Saturday") and (self.articleDay != "Sunday"):
@@ -119,8 +143,9 @@ class CreatePlaylist:
         #print(response_json["id"])
         return self.playListID
 
-    def get_spotify_uri(self, jsonData, artistList):
+    def get_spotify_uri(self, artistList):
         # building uri list to use later in playlist fill-up
+        jsonData = self.get_json_data()
         foundTracks = list()
         multipleArtists = ""
         query = ""
@@ -214,9 +239,7 @@ class CreatePlaylist:
 
     def add_song_to_playlist(self, playListID, uriList):
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playListID)
-
         request_data = json.dumps(uriList)
-
         response = requests.post(
             query,
             data=request_data,
@@ -234,8 +257,7 @@ class CreatePlaylist:
             return response_json
 
 newPlaylistCreator = CreatePlaylist()
-jsonData = newPlaylistCreator.get_json_data()
-dayInterludeList = newPlaylistCreator.get_artist_data(jsonData)
+dayInterludeList = newPlaylistCreator.get_artist_data()
 newPlaylist = newPlaylistCreator.create_playlist()
-spotifyURIs = newPlaylistCreator.get_spotify_uri(jsonData, dayInterludeList)
+spotifyURIs = newPlaylistCreator.get_spotify_uri(dayInterludeList)
 spotifyResponse = newPlaylistCreator.add_song_to_playlist(newPlaylist, spotifyURIs)
