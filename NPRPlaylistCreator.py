@@ -17,7 +17,6 @@ import base64
 # todo: notify when previously not found track is found
 
 # fix: missing tracks are stomping eachother, only last result gets added to playlist details
-# fix: last checked date only in description (cut off time-stamp, noisey)
 # fix: validate json file before parsing, throw warning if not
 
 class CreatePlaylist:
@@ -198,7 +197,7 @@ class CreatePlaylist:
                                                 value[k] = v
                                                 #print(k)
                                             if k == "Last Checked":
-                                                self.songLastChecked = str(datetime.datetime.now().__format__("%Y-%m-%d"))
+                                                self.songLastChecked = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
                                                 value[k] = self.songLastChecked
                                                 #print(k)
                                         
@@ -224,7 +223,7 @@ class CreatePlaylist:
                                                 #print(k)
                     request_body = json.dumps({"description": self.nprPageLink 
                         + " | " + "Missing Track: '" + track + "' | " + "By: '" 
-                        + ", ".join(artists) + "' | " + "Last Checked: " + self.songLastChecked,})
+                        + ", ".join(artists) + "' | " + "Last Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")),})
                     query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
                     response = requests.put(
                         query,

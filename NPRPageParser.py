@@ -70,5 +70,5 @@ def InterludeRequest(interlude):
     print('---- Song Info')
     return artistData
 
-nprURL = "https://www.npr.org/programs/morning-edition/2000/07/26/12988271/"
+nprURL = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/"
 NPRStoryParser(nprURL)
