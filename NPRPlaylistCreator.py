@@ -1,25 +1,22 @@
 import json
 import requests
 from exceptions import ResponseException
-from secrets import spotify_token, spotify_client_id
+from secrets import spotify_user_id, spotipyUserToken
 from urllib import parse
 import re
 from string import Template
 import datetime
+from PIL import Image
+import base64
 # note: Playlists can have a maximum of 10,000 tracks each.
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 
-# todo: generate playlist title from npr pages
-# todo: generate playlist descriptions from npr pages
-# todo: upload playlist image from npr pages (credit photographer)
+# todo: generate playlist title from multiple npr pages
+# todo: grab and upload playlist image from npr pages (credit photographer)
     # todo: watermark images?
 # todo: create search types to aid with quicker human verification
-# todo: store found uri's into parsed npr json file
-# todo: store used uri vs. additional uri's for later human verification
-# todo: read/write to json about no track or artist found during search
-    # todo: notify when previously not found track is found
-    # todo: read/write and store created playlists in json file
-# todo: add missing tracks to playlist info, last time checked date, up-coming check date
+# todo: notify when previously not found track is found
+# todo: read/write and store created playlists in json file
 # todo: handle invalid token check
 
 class CreatePlaylist:
@@ -56,25 +53,39 @@ class CreatePlaylist:
                 self.nprPageLink = str(dic.get("Page Link"))
             if "Edition" in dic:
                 editionText = str(dic.get("Edition"))
+
         # Create A New Playlist that we can fill up with interlude songs
         request_body = json.dumps({
-            "name": editionText + " for " + dayText + ", " + dateText,
+            "name": dayText + ", " + dateText + " for NPR " + editionText,
             "public": False})
 
-        query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_client_id) 
+        query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id) 
         response = requests.post(
             query,
             data=request_body,
             headers={
                 "Content-Type": "application/json",
-                "Authorization": "Bearer {}".format(spotify_token)})
+                "Authorization": "Bearer {}".format(spotipyUserToken)})
         response_json = response.json()
         #print(response_json)
-
+        self.playListID = response_json["id"]
+        with open("npr_we_sun.jpg", "rb") as im:
+            encoded_string = base64.b64encode(im.read())
+            #print(im)
+            query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
+            response = requests.put(
+                query,
+                encoded_string,
+                headers={
+                    "Authorization": "Bearer {}".format(spotipyUserToken),
+                    "Content-Type": "image/jpeg"})
+            #editionImage.close()
+            #response_json = response.json()
+            print(response)
+        #print(response_json)
         # playlist id
         #print(response_json["id"])
-        self.playListID = response_json["id"]
-        return response_json["id"]
+        return self.playListID
 
     def get_spotify_uri(self, jsonData, artistList):
         # building uri list to use later in playlist fill-up
@@ -107,7 +118,7 @@ class CreatePlaylist:
                 query,
                 headers={
                     "Content-Type": "application/json",
-                    "Authorization": "Bearer {}".format(spotify_token)})
+                    "Authorization": "Bearer {}".format(spotipyUserToken)})
 
             response_json = response.json()
             #print(json.dumps(response_json, indent=4))
@@ -154,15 +165,16 @@ class CreatePlaylist:
                                                 v = dt
                                                 value[k] = v
                                                 #print(k)
-                    request_body = json.dumps({
-                        "description": self.nprPageLink + " | " + "Missing Track: '" + track + "' | " + "By: '" + ", ".join(artists) + "' | " + "Last Checked: " + self.songLastChecked,})
+                    request_body = json.dumps({"description": self.nprPageLink 
+                        + " | " + "Missing Track: '" + track + "' | " + "By: '" 
+                        + ", ".join(artists) + "' | " + "Last Checked: " + self.songLastChecked,})
                     query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
                     response = requests.put(
                         query,
                         data=request_body,
                         headers={
                             "Content-Type": "application/json",
-                            "Authorization": "Bearer {}".format(spotify_token)})
+                            "Authorization": "Bearer {}".format(spotipyUserToken)})
                     print(response)
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
@@ -178,25 +190,20 @@ class CreatePlaylist:
             data=request_data,
             headers={
                 "Content-Type": "application/json",
-                "Authorization": "Bearer {}".format(spotify_token)})
+                "Authorization": "Bearer {}".format(spotipyUserToken)})
 
         # check for valid response status
         if response.status_code != 200 or response.status_code != 201:
-            myResponse = "<==^_^==>"
-            return myResponse
+            print(response)
+            return response
         else:
             raise ResponseException(response.status_code)
+            print(response_json)
             return response_json
-
-        #response_json = response.json()
 
 newPlaylistCreator = CreatePlaylist()
 jsonData = newPlaylistCreator.get_json_data()
-#print(json.dumps(jsonData, indent=4, sort_keys=False))
 dayInterludeList = newPlaylistCreator.get_artist_data(jsonData)
 newPlaylist = newPlaylistCreator.create_playlist()
-#print(json.dumps(dayInterludeList, indent=4, sort_keys=False))
 spotifyURIs = newPlaylistCreator.get_spotify_uri(jsonData, dayInterludeList)
-#print(spotifyURIs)
 spotifyResponse = newPlaylistCreator.add_song_to_playlist(newPlaylist, spotifyURIs)
-print(json.dumps(spotifyResponse, indent=4))

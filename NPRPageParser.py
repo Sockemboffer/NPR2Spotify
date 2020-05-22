@@ -10,9 +10,7 @@ import datetime
 
 # todo: generate valid npr page urls for morning and weekend edition
 # todo: create timer to gate page scanning
-# todo: grab page article image for spotify playlist use
-    # todo: grab image photographer for crediting
-# todo: 
+# todo: Organize into folders in some way
 
 nprURL = ""
 
