@@ -12,12 +12,13 @@ import base64
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 
 # todo: generate playlist title from multiple npr pages
-# todo: grab and upload playlist image from npr pages (credit photographer)
-    # todo: watermark images?
-# todo: create search types to aid with quicker human verification
+    # check if playlist exsists
+# todo: create search types to help narrow down a track when none found on default search
 # todo: notify when previously not found track is found
 # todo: read/write and store created playlists in json file
-# todo: handle invalid token check
+    # added to page data playlist uri
+# fix: missing tracks are stomping eachother, only last result gets added to playlist details
+# fix: last checked date only in description (cut off time-stamp, noisey)
 
 class CreatePlaylist:
     def __init__(self):
@@ -27,6 +28,7 @@ class CreatePlaylist:
         self.playListID = ""
         self.nprPageLink = ""
         self.playListDescription = ""
+        self.articleDay = ""
 
     def get_json_data(self):
         with open('NPRPageParser.json', "r") as json_file:
@@ -46,7 +48,7 @@ class CreatePlaylist:
         jsonData = self.get_json_data()
         for dic in jsonData:
             if "Day" in dic:
-                dayText = str(dic.get("Day"))
+                self.articleDay = str(dic.get("Day"))
             if "Date Text" in dic:
                 dateText = str(dic.get("Date Text"))
             if "Page Link" in dic:
@@ -56,7 +58,7 @@ class CreatePlaylist:
 
         # Create A New Playlist that we can fill up with interlude songs
         request_body = json.dumps({
-            "name": dayText + ", " + dateText + " for NPR " + editionText,
+            "name": self.articleDay + ", " + dateText + " for NPR " + editionText,
             "public": False})
 
         query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id) 
@@ -69,19 +71,49 @@ class CreatePlaylist:
         response_json = response.json()
         #print(response_json)
         self.playListID = response_json["id"]
-        with open("npr_we_sun.jpg", "rb") as im:
-            encoded_string = base64.b64encode(im.read())
-            #print(im)
-            query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
-            response = requests.put(
-                query,
-                encoded_string,
-                headers={
-                    "Authorization": "Bearer {}".format(spotipyUserToken),
-                    "Content-Type": "image/jpeg"})
-            #editionImage.close()
-            #response_json = response.json()
-            print(response)
+        if (self.articleDay != "Saturday") and (self.articleDay != "Sunday"):
+            with open("npr_me.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                #print(im)
+                query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
+                response = requests.put(
+                    query,
+                    encoded_string,
+                    headers={
+                        "Authorization": "Bearer {}".format(spotipyUserToken),
+                        "Content-Type": "image/jpeg"})
+                #editionImage.close()
+                #response_json = response.json()
+                print(response)
+        elif (self.articleDay != "Sunday"):
+            with open("npr_we_sat.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                #print(im)
+                query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
+                response = requests.put(
+                    query,
+                    encoded_string,
+                    headers={
+                        "Authorization": "Bearer {}".format(spotipyUserToken),
+                        "Content-Type": "image/jpeg"})
+                #editionImage.close()
+                #response_json = response.json()
+                print(response)
+        else:
+            with open("npr_we_sun.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                #print(im)
+                query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
+                response = requests.put(
+                    query,
+                    encoded_string,
+                    headers={
+                        "Authorization": "Bearer {}".format(spotipyUserToken),
+                        "Content-Type": "image/jpeg"})
+                #editionImage.close()
+                #response_json = response.json()
+                print(response)
+
         #print(response_json)
         # playlist id
         #print(response_json["id"])
