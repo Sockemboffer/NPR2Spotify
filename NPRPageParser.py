@@ -20,7 +20,7 @@ def RequestURL(URL):
 
 def NPRStoryParser(nprURL):
     selector = Selector(text=RequestURL(nprURL))
-    with open('NPRPageParser.json', 'w') as json_file:
+    with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
         newPageData = list()
         newPageData.append(PageRequest(selector))
         print('- Page Info')

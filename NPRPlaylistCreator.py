@@ -28,7 +28,7 @@ class CreatePlaylist:
         self.missedTracksList = list()
 
     def get_json_data(self):
-        with open('NPRPageParser.json', "r") as json_file:
+        with open('NPRPageParser.json', "r", encoding='utf-8') as json_file:
             try:
                 return json.load(json_file)
             except ValueError as e:
@@ -70,7 +70,7 @@ class CreatePlaylist:
                 "Authorization": "Bearer {}".format(spotipyUserToken)})
         response_json = response.json()
         #print("in file open ===============")
-        with open('NPRPageParser.json', 'w') as json_file:
+        with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
             #print(jsonData)
             for dicInJson in jsonData:
                 if isinstance(dicInJson, dict):
@@ -183,7 +183,7 @@ class CreatePlaylist:
                 print("| Found Track: " + track + ", By: " + ", ".join(artists))
                 self.all_uri_info.append(response_json["tracks"]["items"][0]["uri"])
                 # insert track uri back into jsonData
-                with open('NPRPageParser.json', 'w') as json_file:
+                with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
                     for entry in jsonData:
                         for value in entry:
                             if isinstance(value, dict):
@@ -205,13 +205,13 @@ class CreatePlaylist:
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
             else:
-                missedTrack = "| " + "Missing Track: '" + track + " " + "By: '" + ", ".join(artists)
+                missedTrack = "| " + "Missing Track: '" + track + "' " + "By: '" + ", ".join(artists) +"'"
                 print(missedTrack)
                 self.missedTracksList.append(missedTrack) 
                 #print(self.missedTracksList)
 
                 # insert last checked back into json file
-                with open('NPRPageParser.json', 'w') as json_file:
+                with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
                     for entry in jsonData:
                         for value in entry:
                             if isinstance(value, dict):
