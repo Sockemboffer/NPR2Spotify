@@ -65,7 +65,7 @@ def ArticleRequest(article):
 def InterludeRequest(interlude):
     artistData = dict()
     # gross trim leading/trailing then duplicate spaces
-    artistData['Interlude Artist'] = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())) 
+    artistData['Interlude Artist'] = str.strip(re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get()))).split(" & ")
     artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
     artistData['Spotify URI'] = None
     artistData['Last Checked'] = None

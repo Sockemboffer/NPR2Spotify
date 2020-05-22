@@ -151,7 +151,7 @@ class CreatePlaylist:
         for dic in artistList:
             if "Interlude Artist" in dic:
                 artists = list()
-                artists = str.strip((dic.get("Interlude Artist")).split(" & ")
+                artists = dic.get("Interlude Artist")
                 #print(len(artists))
             if "Interlude Song" in dic:
                 track = dic.get("Interlude Song")
@@ -180,7 +180,7 @@ class CreatePlaylist:
             #print(json.dumps(response_json, indent=4))
 
             if response_json["tracks"]["total"] != 0:
-                print("| Found Track: " + track + ", By: " + ", ".join(artists))
+                #print("| Found Track: " + track + ", By: " + ", ".join(artists))
                 self.all_uri_info.append(response_json["tracks"]["items"][0]["uri"])
                 # insert track uri back into jsonData
                 with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
@@ -205,7 +205,7 @@ class CreatePlaylist:
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
             else:
-                missedTrack = "| " + "Missing Track: '" + track + "' " + "By: '" + ", ".join(artists) +"'"
+                missedTrack = "> " + "Missing Track: " + track + " " + "By: " + ", ".join(artists)
                 print(missedTrack)
                 self.missedTracksList.append(missedTrack) 
                 #print(self.missedTracksList)
