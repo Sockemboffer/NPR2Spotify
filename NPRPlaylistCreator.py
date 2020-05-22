@@ -16,7 +16,6 @@ import base64
 # todo: create search types to help narrow down a track when none found on default search
 # todo: notify when previously not found track is found
 
-# fix: missing tracks are stomping eachother, only last result gets added to playlist details
 # fix: validate json file before parsing, throw warning if not
 
 class CreatePlaylist:
@@ -28,6 +27,7 @@ class CreatePlaylist:
         self.nprPageLink = ""
         self.playListDescription = ""
         self.articleDay = ""
+        self.missedTracksList = list()
 
     def get_json_data(self):
         with open('NPRPageParser.json', "r") as json_file:
@@ -180,7 +180,7 @@ class CreatePlaylist:
             #print(json.dumps(response_json, indent=4))
 
             if response_json["tracks"]["total"] != 0:
-                print(" Track: " + track + ", By: " + ", ".join(artists))
+                print("| Found Track: " + track + ", By: " + ", ".join(artists))
                 self.all_uri_info.append(response_json["tracks"]["items"][0]["uri"])
                 # insert track uri back into jsonData
                 with open('NPRPageParser.json', 'w') as json_file:
@@ -205,7 +205,11 @@ class CreatePlaylist:
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
             else:
-                print("!Track: " + track + ", By: " + ", ".join(artists))
+                missedTrack = "| " + "Missing Track: '" + track + " " + "By: '" + ", ".join(artists)
+                print(missedTrack)
+                self.missedTracksList.append(missedTrack) 
+                #print(self.missedTracksList)
+
                 # insert last checked back into json file
                 with open('NPRPageParser.json', 'w') as json_file:
                     for entry in jsonData:
@@ -221,9 +225,8 @@ class CreatePlaylist:
                                                 v = dt
                                                 value[k] = v
                                                 #print(k)
-                    request_body = json.dumps({"description": self.nprPageLink 
-                        + " | " + "Missing Track: '" + track + "' | " + "By: '" 
-                        + ", ".join(artists) + "' | " + "Last Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")),})
+                    request_body = json.dumps({"description": self.nprPageLink + " " + " ".join(self.missedTracksList)
+                        + " >>> Last Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")),})
                     query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
                     response = requests.put(
                         query,
