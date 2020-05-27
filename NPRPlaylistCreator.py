@@ -15,6 +15,7 @@ import base64
     # check if playlist exsists
 # todo: create search types to help narrow down a track when none found on default search
 # todo: notify when previously not found track is found
+# todo: playlist description confirms if all were found
 
 class CreatePlaylist:
     def __init__(self):
@@ -150,7 +151,6 @@ class CreatePlaylist:
         query = ""
         for dic in artistList:
             if "Interlude Artist" in dic:
-                artists = list()
                 artists = dic.get("Interlude Artist")
                 #print(len(artists))
             if "Interlude Song" in dic:
@@ -161,26 +161,78 @@ class CreatePlaylist:
             # 1, 2, or 3 common word names will return multiple hits where the 1st match is likely not it
             # Unique names more likely a match but small chance composer broadway/orchistra aren't artist name
             # who performed the version found on npr page
-            if len(artists) > 1:
-                query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(
-                        parse.quote('track:' + '"' + track + '"' + " " + '"' + '" AND "'.join(artists) + '"'))
-                #print(query)
-            else:
-                query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(
-                        parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:' + '"' + " ".join(artists) + '"'))
-                #print(query)
+            # try literal artist + literal track search
+            # try each artist + literal track search
+            # try stripping character names
+            # try stripping: feat., featuring, etc. from song names
+            # try cutting/split out text found in: (), []
+            #if len(artists) > 1:
+            query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(
+                    parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artists[0] + '"'))
+            print(track + " by: " + artists[0])
+            # else:
+            #     query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(
+            #             parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artists[0][1] + '"'))
+            #     print(query)
             
             response = requests.get(
                 query,
                 headers={
                     "Content-Type": "application/json",
                     "Authorization": "Bearer {}".format(spotipyUserToken)})
-
             response_json = response.json()
-            #print(json.dumps(response_json, indent=4))
+            #print("=====================================" + json.dumps(response_json, indent=4) + r'\n')
+
+            if response_json["tracks"]["total"] == 0:
+                # strip [] from track names and research literal & WITH artist search
+                trackNoBrackets = track.translate({ord(i): None for i in '[]'})
+                #print("TrackNoBrackets: " + trackNoBrackets)
+                query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(
+                        parse.quote('track:' + '"' + trackNoBrackets + '"' + ' ' + 'artist:"' + artists[0] + '"'))
+                print(trackNoBrackets + " by: " + artists[0])
+                response = requests.get(
+                query,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer {}".format(spotipyUserToken)})
+                response_json = response.json()
+                #print(response_json)
+                #print(response_json)
+                #print("NO BRACKETS: " + json.dumps(response_json, indent=4) + '\n')
+
+            if response_json["tracks"]["total"] == 0:
+                # strip [] from track names and research literal & WITHOUT artist search
+                query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=5".format(
+                        parse.quote('track:' + '"' + trackNoBrackets + '"'))
+                print(trackNoBrackets + " By: None")
+                response = requests.get(
+                query,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer {}".format(spotipyUserToken)})
+                response_json = response.json()
+                #print(response_json)
+                #print("NO BRACKETS AND NO ARTIST: " + json.dumps(response_json, indent=4) + '\n')
+
+            if response_json["tracks"]["total"] == 0:
+                # strip [] from track names, split at "(", with artists
+                trackNoBracketsAndSplit = re.split('[(]', trackNoBrackets)
+                query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(
+                        parse.quote('track:' + '"' + trackNoBracketsAndSplit[0] + '"' + ' ' + 'artist:"' + artists[0] + '"'))
+                print(trackNoBracketsAndSplit[0] + " by: " + artists[0])
+                response = requests.get(
+                query,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer {}".format(spotipyUserToken)})
+                response_json = response.json()
+                #print(response_json)
+                #print(response_json)
+                #print("NoBracketsAndSplit: " + json.dumps(response_json, indent=4) + '\n')
 
             if response_json["tracks"]["total"] != 0:
-                #print("| Found Track: " + track + ", By: " + ", ".join(artists))
+                print("| Found Track: " + str(response_json["tracks"]["items"][0]["name"])  + ", By: "
+                    + response_json["tracks"]["items"][0]["artists"][0]["name"] + '\n')
                 self.all_uri_info.append(response_json["tracks"]["items"][0]["uri"])
                 # insert track uri back into jsonData
                 with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
@@ -209,7 +261,6 @@ class CreatePlaylist:
                 print(missedTrack)
                 self.missedTracksList.append(missedTrack) 
                 #print(self.missedTracksList)
-
                 # insert last checked back into json file
                 with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
                     for entry in jsonData:
@@ -225,18 +276,19 @@ class CreatePlaylist:
                                                 v = dt
                                                 value[k] = v
                                                 #print(k)
-                    request_body = json.dumps({"description": self.nprPageLink + " " + " ".join(self.missedTracksList)
-                        + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]",})
-                    query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
-                    response = requests.put(
-                        query,
-                        data=request_body,
-                        headers={
-                            "Content-Type": "application/json",
-                            "Authorization": "Bearer {}".format(spotipyUserToken)})
                     #print(response)
                     json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
                     json_file.close()
+            # Update playlist description        
+            request_body = json.dumps({"description": self.nprPageLink + " " + " ".join(self.missedTracksList)
+                    + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]",})
+            query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
+            response = requests.put(
+                query,
+                data=request_body,
+                headers={
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer {}".format(spotipyUserToken)})
         return self.all_uri_info
 
     def add_song_to_playlist(self, playListID, uriList):

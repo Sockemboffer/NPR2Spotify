@@ -5,13 +5,13 @@ from string import punctuation
 from parsel import Selector
 import datetime
 import re
-
 # note: earlist npr page with songs (it seems) Wednesday, July 26, 2000
 # note: https://www.npr.org/programs/morning-edition/2000/07/26/12988271/?showDate=2000-07-26
-
 # todo: generate valid npr page urls for morning and weekend edition
 # todo: create timer to gate page scanning
 # todo: Organize into folders in some way
+# todo: create json file name as playlist name?
+# todo: construct playlist name here rather than PlaylistCreator script
 
 nprURL = ""
 
@@ -64,8 +64,9 @@ def ArticleRequest(article):
 
 def InterludeRequest(interlude):
     artistData = dict()
-    # gross trim leading/trailing then duplicate spaces also removing "&" seperated artists
-    artistData['Interlude Artist'] = str.strip(re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get()))).split(" & ")
+    # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
+    artistData['Interlude Artist'] = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+    print(artistData['Interlude Artist'])
     artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
     artistData['Spotify URI'] = None
     artistData['Last Checked'] = None
