@@ -46,6 +46,11 @@ def PageRequest(pageSelector):
     pageData['Day'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
     dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
     pageData['Scanned Date'] = dt
+    if (pageData['Day'] == 'Saturday') or (pageData['Day'] == 'Sunday'):
+        pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition']
+    else:
+        pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition'] + " " + pageData['Day']
+    print(pageData['Playlist Name'])
     pageData['Playlist Link'] = None
     pageData['Playlist URI'] = None
     return pageData
@@ -66,7 +71,6 @@ def InterludeRequest(interlude):
     artistData = dict()
     # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
     artistData['Interlude Artist'] = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
-    print(artistData['Interlude Artist'])
     artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
     artistData['Spotify URI'] = None
     artistData['Last Checked'] = None
