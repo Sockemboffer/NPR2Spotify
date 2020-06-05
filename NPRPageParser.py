@@ -13,84 +13,96 @@ import re
 # todo: create json file name as playlist name?
 # todo: construct playlist name here rather than PlaylistCreator script
 
-nprURL = ""
+class NPRPageParser:
+    def __init__(self):
+        self.nprurl = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/"
 
-def RequestURL(self, nprurl):
-    request = requests.get(nprurl)
-    return request.text
+    # Generate a valid date to insert into an npr link
+    #def CreateURLDate(self):
 
-def NPRStoryParser(self, nprURL):
-    selector = Selector(text=RequestURL(nprURL))
-    with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
-        newPageData = list()
-        newPageData.append(PageRequest(selector))
-        print('- Page Info')
-        for item in selector.xpath('.//div[@id="story-list"]/*'):
-            if item.attrib['class'] == 'rundown-segment':
-                newArticleData = ArticleRequest(item)
-                newPageData.append(newArticleData)
-            elif item.attrib['class'] == 'music-interlude responsive-rundown':
-                newInterludeInfo = list()
-                for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
-                    newInterludeInfo.append(InterludeRequest(artist))
-                newPageData.append(newInterludeInfo)
-        json.dump(newPageData, json_file, ensure_ascii=False, indent=4)
-    print('- Done')
+    # Request the html at link address
+    def RequestURL(self):
+        request = requests.get(self.nprurl)
+        return request.text
 
-def PageRequest(pageSelector):
-    pageData = dict()
-    pageData['Page Link'] = nprURL
-    pageData['Edition'] = pageSelector.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
-    pageData['Date Text'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
-    pageData['Date Numbered'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
-    pageData['Day'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
-    dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-    pageData['Scanned Date'] = dt
-    if (pageData['Day'] == 'Saturday') or (pageData['Day'] == 'Sunday'):
-        pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition']
-    else:
-        pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition'] + " " + pageData['Day']
-    print(pageData['Playlist Name'])
-    pageData['Playlist Link'] = None
-    pageData['Playlist URI'] = None
-    return pageData
+    # Grab the Story block of an npr page to parse article and interulde data into a json file
+    def StoryParser(self, pagehtml):
+        selector = Selector(text=pagehtml)
+        with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
+            newPageData = list()
+            newPageData.append(self.PageRequest(selector))
+            print('- Page Info')
+            for item in selector.xpath('.//div[@id="story-list"]/*'):
+                if item.attrib['class'] == 'rundown-segment':
+                    newArticleData = self.ArticleRequest(item)
+                    newPageData.append(newArticleData)
+                elif item.attrib['class'] == 'music-interlude responsive-rundown':
+                    newInterludeInfo = list()
+                    for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
+                        newInterludeInfo.append(self.InterludeRequest(artist))
+                    newPageData.append(newInterludeInfo)
+            json.dump(newPageData, json_file, ensure_ascii=False, indent=4)
+        print('- Done')
 
-def ArticleByLineRequest(article):
-    return article.xpath('.//span[@class="byline byline--inline"]/text()').getall()
-                
-def ArticleRequest(article):
-    articleData = dict()
-    articleData['Article'] = article.xpath('./div/h3[@class="rundown-segment__title"]/a/text()').get()
-    articleData['Link'] = article.xpath('./div/h3[@class="rundown-segment__title"]/a/@href').get()
-    articleData['Slug'] = article.xpath('./div/h4[@class="rundown-segment__slug"]/a/text()').get()
-    articleData['By'] = ArticleByLineRequest(article)
-    print('-- Article Info')
-    return articleData
+    # Grab various info about the whole NPR article for that date
+    def PageRequest(self, pageSelector):
+        pageData = dict()
+        pageData['Page Link'] = self.nprurl
+        pageData['Edition'] = pageSelector.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
+        pageData['Date Text'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
+        pageData['Date Numbered'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
+        pageData['Day'] = pageSelector.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
+        dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+        pageData['Scanned Date'] = dt
+        if (pageData['Day'] == 'Saturday') or (pageData['Day'] == 'Sunday'):
+            pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition']
+        else:
+            pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition'] + " " + pageData['Day']
+        print(pageData['Playlist Name'])
+        pageData['Playlist Link'] = None
+        pageData['Playlist URI'] = None
+        return pageData
 
-def InterludeRequest(interlude):
-    artistData = dict()
-    # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
-    artistData['Interlude Artist'] = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
-    artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
-    artistData['Spotify URI'] = None
-    artistData['Last Checked'] = None
-    print('---- Song Info')
-    return artistData
+    # Grab multiple by-line authors
+    def ArticleByLineRequest(self, article):
+        return article.xpath('.//span[@class="byline byline--inline"]/text()').getall()
 
-# function to fetch data to hand-off
-def get_json_data(self, filename):
-    with open(filename, "r", encoding='utf-8') as json_file:
-        try:
-            return json.load(json_file)
-        except ValueError as e:
-            print('invalid json: %s' % e)
-            return None # or: raise
+    # Grab data about each article         
+    def ArticleRequest(self, article):
+        articleData = dict()
+        articleData['Article'] = article.xpath('./div/h3[@class="rundown-segment__title"]/a/text()').get()
+        articleData['Link'] = article.xpath('./div/h3[@class="rundown-segment__title"]/a/@href').get()
+        articleData['Slug'] = article.xpath('./div/h4[@class="rundown-segment__slug"]/a/text()').get()
+        articleData['By'] = self.ArticleByLineRequest(article)
+        print('-- Article Info')
+        return articleData
 
-# Update function to pass new data into json file
-def update_json_data(self, filename, jsonData):
-    with open(filename, 'w', encoding='utf-8') as json_file:
-        json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
-        json_file.close()
+    # Grab data about each interlude
+    def InterludeRequest(self, interlude):
+        artistData = dict()
+        # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
+        artistData['Interlude Artist'] = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+        artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
+        artistData['Spotify URI'] = None
+        artistData['Last Checked'] = None
+        print('---- Song Info')
+        return artistData
 
-nprURL = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/"
-NPRStoryParser(nprURL)
+    # Load json file data, check to ensure it's valid first
+    def get_json_data(self, filename):
+        with open(filename, "r", encoding='utf-8') as json_file:
+            try:
+                return json.load(json_file)
+            except ValueError as e:
+                print('invalid json: %s' % e)
+                return None # or: raise
+
+    # Insert(?) new data into json file
+    def update_json_data(self, filename, jsonData):
+        with open(filename, 'w', encoding='utf-8') as json_file:
+            json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+            json_file.close()
+
+pageParser = NPRPageParser() # Instance of this class
+pageHTML = pageParser.RequestURL()
+pageParser.StoryParser(pageHTML)
