@@ -44,6 +44,7 @@ class CreatePlaylist:
                 "Content-Type": "application/json",
                 "Authorization": "Bearer {}".format(spotipyUserToken)})
         response_json = response.json()
+        handleResponse(response)
         #print(response_json)
         self.playListID = response_json["id"]
         return self.playListID
@@ -67,32 +68,57 @@ class CreatePlaylist:
             headers={
                 "Content-Type": "application/json",
                 "Authorization": "Bearer {}".format(spotipyUserToken)})
+        handleResponse(response)
+
+
+    def handleRespone(self, response):
         # check for valid response status
         if response.status_code != 200 or response.status_code != 201:
             print(response)
-            return response
         else:
             raise ResponseException(response.status_code)
-            print(response_json)
-            return response_json
+            print(response)
 
-# function to Update playlist description 
-self.result = "" # gross
-if (len(self.missedTracksList) > 0):
-    request_body = json.dumps({"description": self.nprPageLink + " [:(MISSING TRACK(S): "
-    + str(len(self.missedTracksList)) + "] " + " ".join(self.missedTracksList) + " [LASTCHECKED: " 
-    + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS: addy@something.com]"})
-else:
-    request_body = json.dumps({"description": self.nprPageLink + " [ALL TRACKS FOUND!] "
-    + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" 
-    + " [CORRECTIONS(it's not perfect): addy@something.com]"})
-query = "https://api.spotify.com/v1/playlists/{}".format(self.playListID) 
-response = requests.put(
-    query,
-    data=request_body,
-    headers={
-        "Content-Type": "application/json",
-        "Authorization": "Bearer {}".format(spotipyUserToken)})
+# function to update key,value pair?
+    for dicInJson in jsonData:
+        if isinstance(dicInJson, dict):
+            for kDicData, vDicData in dicInJson.items():
+                if kDicData == "Playlist Link":
+                    #print(json.dumps(response_json))
+                    for kRes, vRes in response_json.items():
+                        #print(k)
+                        if isinstance(vRes, dict) and ("spotify" in vRes):
+                            dicInJson[kDicData] = vRes["spotify"]
+                            #print(kDicData)
+                elif kDicData == "Playlist URI":
+                    #print(json.dumps(response_json))
+                    for kRes, vRes in response_json.items():
+                        #print(k)
+                        if kRes == "uri":
+                            dicInJson[kDicData] = vRes
+                            #print(kDicData)
+
+# Process found and missing artists function?
+    self.result = "" # gross
+    if (len(self.missedTracksList) > 0):
+        request_body = json.dumps({"description": self.nprPageLink + " [:(MISSING TRACK(S): "
+        + str(len(self.missedTracksList)) + "] " + " ".join(self.missedTracksList) + " [LASTCHECKED: " 
+        + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS: addy@something.com]"})
+    else:
+        request_body = json.dumps({"description": self.nprPageLink + " [ALL TRACKS FOUND!] "
+        + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" 
+        + " [CORRECTIONS(it's not perfect): addy@something.com]"})
+
+# function to Update playlist description
+    def updatePlaylistDescription(self, playlistID, description)
+        query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
+        response = requests.put(
+            query,
+            data=description,
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": "Bearer {}".format(spotipyUserToken)})
+        handleResponse(response)
 
 newPlaylistCreator = CreatePlaylist()
 dayInterludeList = newPlaylistCreator.get_artist_data()

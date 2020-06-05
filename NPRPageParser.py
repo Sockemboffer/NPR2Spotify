@@ -15,11 +15,11 @@ import re
 
 nprURL = ""
 
-def RequestURL(URL):
-    request = requests.get(URL)
+def RequestURL(self, nprurl):
+    request = requests.get(nprurl)
     return request.text
 
-def NPRStoryParser(nprURL):
+def NPRStoryParser(self, nprURL):
     selector = Selector(text=RequestURL(nprURL))
     with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
         newPageData = list()
@@ -78,8 +78,8 @@ def InterludeRequest(interlude):
     return artistData
 
 # function to fetch data to hand-off
-def get_json_data(self):
-    with open('NPRPageParser.json', "r", encoding='utf-8') as json_file:
+def get_json_data(self, filename):
+    with open(filename, "r", encoding='utf-8') as json_file:
         try:
             return json.load(json_file)
         except ValueError as e:
@@ -87,28 +87,10 @@ def get_json_data(self):
             return None # or: raise
 
 # Update function to pass new data into json file
-with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
-    #print(jsonData)
-    for dicInJson in jsonData:
-        if isinstance(dicInJson, dict):
-            for kDicData, vDicData in dicInJson.items():
-                if kDicData == "Playlist Link":
-                    #print(json.dumps(response_json))
-                    for kRes, vRes in response_json.items():
-                        #print(k)
-                        if isinstance(vRes, dict) and ("spotify" in vRes):
-                            dicInJson[kDicData] = vRes["spotify"]
-                            #print(kDicData)
-                elif kDicData == "Playlist URI":
-                    #print(json.dumps(response_json))
-                    for kRes, vRes in response_json.items():
-                        #print(k)
-                        if kRes == "uri":
-                            dicInJson[kDicData] = vRes
-                            #print(kDicData)
-    #print(json.dumps(jsonData))
-    json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
-    json_file.close()
+def update_json_data(self, filename, jsonData):
+    with open(filename, 'w', encoding='utf-8') as json_file:
+        json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+        json_file.close()
 
 nprURL = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/"
 NPRStoryParser(nprURL)
