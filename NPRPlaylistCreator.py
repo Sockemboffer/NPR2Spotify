@@ -79,25 +79,6 @@ class CreatePlaylist:
             raise ResponseException(response.status_code)
             print(response)
 
-# function to update key,value pair?
-    for dicInJson in jsonData:
-        if isinstance(dicInJson, dict):
-            for kDicData, vDicData in dicInJson.items():
-                if kDicData == "Playlist Link":
-                    #print(json.dumps(response_json))
-                    for kRes, vRes in response_json.items():
-                        #print(k)
-                        if isinstance(vRes, dict) and ("spotify" in vRes):
-                            dicInJson[kDicData] = vRes["spotify"]
-                            #print(kDicData)
-                elif kDicData == "Playlist URI":
-                    #print(json.dumps(response_json))
-                    for kRes, vRes in response_json.items():
-                        #print(k)
-                        if kRes == "uri":
-                            dicInJson[kDicData] = vRes
-                            #print(kDicData)
-
 # Process found and missing artists function?
     self.result = "" # gross
     if (len(self.missedTracksList) > 0):

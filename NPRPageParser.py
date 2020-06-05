@@ -18,7 +18,8 @@ class NPRPageParser:
         self.nprurl = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/"
 
     # Generate a valid date to insert into an npr link
-    #def CreateURLDate(self):
+    def CreateURLDate(self):
+        return
 
     # Request the html at link address
     def RequestURL(self):
@@ -41,8 +42,9 @@ class NPRPageParser:
                     for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
                         newInterludeInfo.append(self.InterludeRequest(artist))
                     newPageData.append(newInterludeInfo)
-            json.dump(newPageData, json_file, ensure_ascii=False, indent=4)
+            #json.dump(newPageData, json_file, ensure_ascii=False, indent=4)
         print('- Done')
+        return newPageData
 
     # Grab various info about the whole NPR article for that date
     def PageRequest(self, pageSelector):
@@ -89,7 +91,7 @@ class NPRPageParser:
         return artistData
 
     # Load json file data, check to ensure it's valid first
-    def get_json_data(self, filename):
+    def GetJsonData(self, filename):
         with open(filename, "r", encoding='utf-8') as json_file:
             try:
                 return json.load(json_file)
@@ -98,11 +100,42 @@ class NPRPageParser:
                 return None # or: raise
 
     # Insert(?) new data into json file
-    def update_json_data(self, filename, jsonData):
-        with open(filename, 'w', encoding='utf-8') as json_file:
-            json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+    def UpdateJsonDictData(self, filename, jsonData, artist, song):
+        with open(filename, 'w', encoding='utf-8') as json_file: 
+            for page in jsonData: # page itself is a list of item(s)
+                for item in page: # looking for interlude dictionary items
+                    if isinstance(item, dict): # checking it's a dictionary
+                        for k in item.items(): # loop over each found dictionary
+                            if song in k.items(): # see if we're in right dict by looking for song
+                                print(k)
+                                
+
+                                        
+                                    
+
+                                
+                        # for k, v in item.items():
+                        #     if isinstance(v, list):
+                        #         if v[0] == artist:
+                                    
+                            # if kDicData == "Playlist Link":
+                            #     #print(json.dumps(response_json))
+                            #     for kRes, vRes in response_json.items():
+                            #         #print(k)
+                            #         if isinstance(vRes, dict) and ("spotify" in vRes):
+                            #             dicInJson[kDicData] = vRes["spotify"]
+                            #             #print(kDicData)
+                            # elif kDicData == "Playlist URI":
+                            #     #print(json.dumps(response_json))
+                            #     for kRes, vRes in response_json.items():
+                            #         #print(k)
+                            #         if kRes == "uri":
+                            #             dicInJson[kDicData] = vRes
+                            #             #print(kDicData)
+            #json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
             json_file.close()
 
 pageParser = NPRPageParser() # Instance of this class
 pageHTML = pageParser.RequestURL()
-pageParser.StoryParser(pageHTML)
+pageData = pageParser.StoryParser(pageHTML)
+pageParser.UpdateJsonDictData("NPRPageParser.json", pageData, "Nassau", "Long Arc")
