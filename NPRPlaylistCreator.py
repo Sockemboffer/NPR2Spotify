@@ -74,18 +74,19 @@ class NPRPlaylistCreator:
             print(response)
 
 # Process found and missing artists function?
-    self.result = "" # gross
-    if (len(self.missedTracksList) > 0):
-        request_body = json.dumps({"description": self.nprPageLink + " [:(MISSING TRACK(S): "
-        + str(len(self.missedTracksList)) + "] " + " ".join(self.missedTracksList) + " [LASTCHECKED: " 
-        + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS: addy@something.com]"})
-    else:
-        request_body = json.dumps({"description": self.nprPageLink + " [ALL TRACKS FOUND!] "
-        + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" 
-        + " [CORRECTIONS(it's not perfect): addy@something.com]"})
+    def constructPlaylistDescription(self):
+        self.result = "" # gross
+        if (len(self.missedTracksList) > 0):
+            request_body = json.dumps({"description": self.nprPageLink + " [:(MISSING TRACK(S): "
+            + str(len(self.missedTracksList)) + "] " + " ".join(self.missedTracksList) + " [LASTCHECKED: " 
+            + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS: addy@something.com]"})
+        else:
+            request_body = json.dumps({"description": self.nprPageLink + " [ALL TRACKS FOUND!] "
+            + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" 
+            + " [CORRECTIONS(it's not perfect): addy@something.com]"})
 
 # function to Update playlist description
-    def updatePlaylistDescription(self, playlistID, description)
+    def updatePlaylistDescription(self, playlistID, description):
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
         response = requests.put(
             query,
