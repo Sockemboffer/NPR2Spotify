@@ -15,7 +15,7 @@ import re
 
 class NPRPageParser:
     def __init__(self):
-        self.nprurl = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/"
+        self.nprurl = ""
 
     # Generate a valid date to insert into an npr link
     def CreateURLDate(self):
@@ -42,7 +42,7 @@ class NPRPageParser:
                     for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
                         newInterludeInfo.append(self.InterludeRequest(artist))
                     newPageData.append(newInterludeInfo)
-            #json.dump(newPageData, json_file, ensure_ascii=False, indent=4)
+            json.dump(newPageData, json_file, ensure_ascii=False, indent=4)
         print('- Done')
         return newPageData
 
@@ -100,24 +100,18 @@ class NPRPageParser:
                 return None # or: raise
 
     # Insert(?) new data into json file
-    def UpdateJsonDictData(self, filename, jsonData, artist, song):
+    def UpdateInterlude(self, filename, jsonData, artist, song, trackSearchResponse):
         with open(filename, 'w', encoding='utf-8') as json_file: 
             for page in jsonData: # page itself is a list of item(s)
-                for item in page: # looking for interlude dictionary items
-                    if isinstance(item, dict): # checking it's a dictionary
-                        for k in item.items(): # loop over each found dictionary
-                            if song in k.items(): # see if we're in right dict by looking for song
-                                print(k)
-                                
-
-                                        
-                                    
-
-                                
-                        # for k, v in item.items():
-                        #     if isinstance(v, list):
-                        #         if v[0] == artist:
-                                    
+                for interlude in page: # looking for interlude dictionary items
+                    if isinstance(interlude, dict): # checking it's a interlude dictionary
+                        for k, v in interlude.items(): # loop over each found interlude looking for song to update
+                            if v == song: # see if we found matching song
+                                print(interlude)
+                                for k, v in interlude.items():
+                                    interlude['Spotify URI'] = "33" # response uri
+                                    interlude['Last Checked'] = "felkjf"
+                                print(interlude)
                             # if kDicData == "Playlist Link":
                             #     #print(json.dumps(response_json))
                             #     for kRes, vRes in response_json.items():
@@ -134,8 +128,3 @@ class NPRPageParser:
                             #             #print(kDicData)
             #json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
             json_file.close()
-
-pageParser = NPRPageParser() # Instance of this class
-pageHTML = pageParser.RequestURL()
-pageData = pageParser.StoryParser(pageHTML)
-pageParser.UpdateJsonDictData("NPRPageParser.json", pageData, "Nassau", "Long Arc")

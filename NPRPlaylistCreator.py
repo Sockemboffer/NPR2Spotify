@@ -8,6 +8,7 @@ from string import Template
 import datetime
 from PIL import Image
 import base64
+from NPRPageParser import NPRPageParser
 # note: Playlists can have a maximum of 10,000 tracks each.
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 # todo: function to recheck missing songs
@@ -22,11 +23,12 @@ class CreatePlaylist:
         self.missedTracksList = list()
         self.foundTracksList = list()
         self.result = ""
+        self.fileName = ""
+        self.jsonData = NPRPageParser.GetJsonData(self.fileName)
 
     def create_playlist(self):
         # Create A New Playlist
-        jsonData = self.get_json_data()
-        for dic in jsonData:
+        for dic in self.jsonData:
             if "Playlist Name" in dic:
                 playlistName = str(dic.get("Playlist Name"))
             if "Page Link" in dic:
@@ -43,23 +45,22 @@ class CreatePlaylist:
             headers={
                 "Content-Type": "application/json",
                 "Authorization": "Bearer {}".format(spotipyUserToken)})
-        response_json = response.json()
         handleResponse(response)
+        response_json = response.json()
         #print(response_json)
         self.playListID = response_json["id"]
         return self.playListID
 
     def get_artist_data(self):
         # request/fetch artist data from json file
-        jsonData = self.get_json_data()
-        for entry in jsonData:
+        for entry in self.jsonData:
             for value in entry:
                 if isinstance(value, dict):
                     self.all_song_info.append(value)
         # print(self.all_song_info)
         return self.all_song_info
 
-    def add_song_to_playlist(self, playListID, uriList):
+    def add_song_to_playlist(self, playListID, songList):
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playListID)
         request_data = json.dumps(uriList)
         response = requests.post(
@@ -68,13 +69,14 @@ class CreatePlaylist:
             headers={
                 "Content-Type": "application/json",
                 "Authorization": "Bearer {}".format(spotipyUserToken)})
-        handleResponse(response)
+        return handleResponse(response)
 
 
     def handleRespone(self, response):
         # check for valid response status
         if response.status_code != 200 or response.status_code != 201:
             print(response)
+            return response
         else:
             raise ResponseException(response.status_code)
             print(response)
