@@ -18,30 +18,13 @@ class NPRPlaylistCreator:
         self.fileName = ""
         self.jsonData = NPRPageParser.GetJsonData(self.fileName)
 
-    def create_playlist(self):
-        # Create A New Playlist
-        for dic in self.jsonData:
-            if "Playlist Name" in dic:
-                playlistName = str(dic.get("Playlist Name"))
-            if "Page Link" in dic:
-                self.nprPageLink = str(dic.get("Page Link"))
-            if "Day" in dic:
-                self.articleDay = str(dic.get("Day"))
-        request_body = json.dumps({
-            "name": playlistName,
-            "public": False})
+    def create_playlist(self, playlistName):
+        request_body = json.dumps({"name": playlistName, "public": False})
         query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id)
-        response = requests.post(
-            query,
-            data=request_body,
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = requests.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         handleResponse(response)
         response_json = response.json()
-        #print(response_json)
         self.playListID = response_json["id"]
-        return self.playListID
 
     def get_artist_data(self):
         # request/fetch artist data from json file
@@ -49,18 +32,12 @@ class NPRPlaylistCreator:
             for value in entry:
                 if isinstance(value, dict):
                     self.all_song_info.append(value)
-        # print(self.all_song_info)
         return self.all_song_info
 
     def add_song_to_playlist(self, playListID, songList):
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playListID)
         request_data = json.dumps(uriList)
-        response = requests.post(
-            query,
-            data=request_data,
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = requests.post(query, data=request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         return handleResponse(response)
 
 
@@ -75,23 +52,16 @@ class NPRPlaylistCreator:
 
 # Process found and missing artists function?
     def constructPlaylistDescription(self):
-        self.result = "" # gross
+        for dic in self.jsonData:
+            if "Page Link" in dic:
+                self.nprPageLink = str(dic.get("Page Link"))
         if (len(self.missedTracksList) > 0):
-            request_body = json.dumps({"description": self.nprPageLink + " [:(MISSING TRACK(S): "
-            + str(len(self.missedTracksList)) + "] " + " ".join(self.missedTracksList) + " [LASTCHECKED: " 
-            + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS: addy@something.com]"})
+            request_body = json.dumps({"description": self.nprPageLink + " [:(MISSING TRACK(S): " + str(len(self.missedTracksList)) + "] " + " ".join(self.missedTracksList) + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS: addy@something.com]"})
         else:
-            request_body = json.dumps({"description": self.nprPageLink + " [ALL TRACKS FOUND!] "
-            + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" 
-            + " [CORRECTIONS(it's not perfect): addy@something.com]"})
+            request_body = json.dumps({"description": self.nprPageLink + " [ALL TRACKS FOUND!] " + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS(it's not perfect): addy@something.com]"})
 
 # function to Update playlist description
     def updatePlaylistDescription(self, playlistID, description):
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
-        response = requests.put(
-            query,
-            data=description,
-            headers={
-                "Content-Type": "application/json",
-                "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = requests.put(query, data=description, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         handleResponse(response)
