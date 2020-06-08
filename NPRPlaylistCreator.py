@@ -4,25 +4,17 @@ from exceptions import ResponseException
 from secrets import spotify_user_id, spotipyUserToken
 from urllib import parse
 import re
-from string import Template
 import datetime
-from PIL import Image
-import base64
 from NPRPageParser import NPRPageParser
 # note: Playlists can have a maximum of 10,000 tracks each.
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 # todo: function to recheck missing songs
-class CreatePlaylist:
+class NPRPlaylistCreator:
     def __init__(self):
         self.all_song_info = list()
-        self.all_uri_info = list()
-        self.songLastChecked = ""
         self.playListID = ""
         self.nprPageLink = ""
         self.articleDay = ""
-        self.missedTracksList = list()
-        self.foundTracksList = list()
-        self.result = ""
         self.fileName = ""
         self.jsonData = NPRPageParser.GetJsonData(self.fileName)
 
@@ -102,9 +94,3 @@ class CreatePlaylist:
                 "Content-Type": "application/json",
                 "Authorization": "Bearer {}".format(spotipyUserToken)})
         handleResponse(response)
-
-newPlaylistCreator = CreatePlaylist()
-dayInterludeList = newPlaylistCreator.get_artist_data()
-newPlaylist = newPlaylistCreator.create_playlist()
-spotifyURIs = newPlaylistCreator.get_spotify_uri(dayInterludeList)
-spotifyResponse = newPlaylistCreator.add_song_to_playlist(newPlaylist, spotifyURIs)

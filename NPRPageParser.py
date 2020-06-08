@@ -11,7 +11,6 @@ import re
 # todo: create timer to gate page scanning
 # todo: Organize into folders in some way
 # todo: create json file name as playlist name?
-# todo: construct playlist name here rather than PlaylistCreator script
 
 class NPRPageParser:
     def __init__(self):

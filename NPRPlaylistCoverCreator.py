@@ -1,3 +1,5 @@
+from PIL import Image
+import base64
 # todo: function to update cover art on already made playlist
     # todo: bake special "All tracks found!", "Missing tracks!" into art?
 
