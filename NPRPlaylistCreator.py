@@ -14,9 +14,6 @@ class NPRPlaylistCreator:
         self.all_song_info = list()
         self.playListID = ""
         self.nprPageLink = ""
-        self.articleDay = ""
-        self.fileName = ""
-        self.jsonData = NPRPageParser.GetJsonData(self.fileName)
 
     def create_playlist(self, playlistName):
         request_body = json.dumps({"name": playlistName, "public": False})
@@ -26,33 +23,30 @@ class NPRPlaylistCreator:
         response_json = response.json()
         self.playListID = response_json["id"]
 
-    def get_artist_data(self):
+    def get_artist_data(self, jsonData):
         # request/fetch artist data from json file
-        for entry in self.jsonData:
+        for entry in jsonData:
             for value in entry:
                 if isinstance(value, dict):
                     self.all_song_info.append(value)
-        return self.all_song_info
 
     def add_song_to_playlist(self, playListID, songList):
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playListID)
         request_data = json.dumps(uriList)
         response = requests.post(query, data=request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        return handleResponse(response)
+        handleResponse(response)
 
 
     def handleRespone(self, response):
         # check for valid response status
         if response.status_code != 200 or response.status_code != 201:
             print(response)
-            return response
         else:
             raise ResponseException(response.status_code)
-            print(response)
 
 # Process found and missing artists function?
-    def constructPlaylistDescription(self):
-        for dic in self.jsonData:
+    def constructPlaylistDescription(self, jsonData):
+        for dic in jsonData:
             if "Page Link" in dic:
                 self.nprPageLink = str(dic.get("Page Link"))
         if (len(self.missedTracksList) > 0):
