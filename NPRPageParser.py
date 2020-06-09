@@ -25,24 +25,23 @@ class NPRPageParser:
         return request.text
 
     # Grab the Story block of an npr page to parse article and interulde data into a json file
-    def StoryParser(self, pagehtml):
+    def StoryParser(self, pagehtml, filename):
         selector = Selector(text=pagehtml)
-        with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
-            newPageData = list()
-            newPageData.append(self.PageRequest(selector))
+        with open(filename, 'w', encoding='utf-8') as json_file:
+            pageData = list()
+            pageData.append(self.PageRequest(selector))
             print('- Page Info')
             for item in selector.xpath('.//div[@id="story-list"]/*'):
                 if item.attrib['class'] == 'rundown-segment':
                     newArticleData = self.ArticleRequest(item)
-                    newPageData.append(newArticleData)
+                    pageData.append(newArticleData)
                 elif item.attrib['class'] == 'music-interlude responsive-rundown':
                     newInterludeInfo = list()
                     for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
                         newInterludeInfo.append(self.InterludeRequest(artist))
-                    newPageData.append(newInterludeInfo)
-            json.dump(newPageData, json_file, ensure_ascii=False, indent=4)
+                    pageData.append(newInterludeInfo)
+            json.dump(pageData, json_file, ensure_ascii=False, indent=4)
         print('- Done')
-        return newPageData
 
     # Grab various info about the whole NPR article for that date
     def PageRequest(self, pageSelector):
@@ -97,6 +96,15 @@ class NPRPageParser:
                 print('invalid json: %s' % e)
                 return None # or: raise
 
+    def get_artist_data(self, jsonData):
+        # request/fetch artist data from json file
+        interludeArtists = list()
+        for entry in jsonData:
+            for value in entry:
+                if isinstance(value, dict):
+                    interludeArtists.append(value)
+        return interludeArtists
+
     # Insert(?) new data into json file
     def UpdateInterlude(self, filename, jsonData, artist, song, trackSearchResponse):
         with open(filename, 'w', encoding='utf-8') as json_file: 
@@ -126,3 +134,53 @@ class NPRPageParser:
                             #             #print(kDicData)
             #json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
             json_file.close()
+    def addTrackStatus(self, track, uri):
+        # Added missed track scan date check back into json
+        # No more search configurations left
+        if (response_json["tracks"]["total"] == 0) or (response_json["tracks"]["items"][0]["artists"][0]["name"] != artists[0]):
+            missedTrack = " ••••••> " + "MISSING: " + track + " by: " + ", ".join(artists) + '\n'
+            self.missedTracksList.append(missedTrack)
+            print(missedTrack)
+            with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
+                for entry in jsonData:
+                    for value in entry:
+                        if isinstance(value, dict):
+                            #print(value)
+                            for k, v in value.items():
+                                if v == track:
+                                    # print(k)
+                                    for k, v in value.items():
+                                        if k == "Last Checked":
+                                            dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                            v = dt
+                                            value[k] = v
+                                            #print(k)
+                #print(response)
+                json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+                json_file.close()
+            #print("NoBracketsAndSplit: " + json.dumps(response_json, indent=4) + '\n')
+        else:
+            # found artist and need to put it's uri back into json file
+            print("| Found Track: " + str(response_json["tracks"]["items"][0]["name"])  + ", by: " + response_json["tracks"]["items"][0]["artists"][0]["name"] + '\n')
+            self.all_uri_info.append(response_json["tracks"]["items"][0]["uri"])
+            with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
+                for entry in jsonData:
+                    for value in entry:
+                        if isinstance(value, dict):
+                            #print(value)
+                            for k, v in value.items():
+                                if v == track:
+                                    # print(k)
+                                    for k, v in value.items():
+                                        if k == "Spotify URI":
+                                            v = response_json["tracks"]["items"][0]["uri"]
+                                            value[k] = v
+                                            #print(k)
+                                        if k == "Last Checked":
+                                            self.songLastChecked = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                            value[k] = self.songLastChecked
+                                            #print(k)
+                                    
+                #print(jsonData)
+                json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+                json_file.close()

@@ -6,36 +6,34 @@ from urllib import parse
 import re
 import datetime
 from NPRPageParser import NPRPageParser
+from NPRPlaylistCoverCreator import NPRPlaylistCoverCreator
 # note: Playlists can have a maximum of 10,000 tracks each.
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 # todo: function to recheck missing songs
 class NPRPlaylistCreator:
     def __init__(self):
-        self.all_song_info = list()
         self.playListID = ""
         self.nprPageLink = ""
 
-    def create_playlist(self, playlistName):
+    def CreatePlaylist(self, playlistName):
         request_body = json.dumps({"name": playlistName, "public": False})
         query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id)
         response = requests.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         handleResponse(response)
         response_json = response.json()
-        self.playListID = response_json["id"]
+        return response_json["id"]
 
-    def get_artist_data(self, jsonData):
-        # request/fetch artist data from json file
-        for entry in jsonData:
-            for value in entry:
-                if isinstance(value, dict):
-                    self.all_song_info.append(value)
-
-    def add_song_to_playlist(self, playListID, songList):
-        query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playListID)
+    def add_song_to_playlist(self, songList, playlistID):
+        query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playlistID)
         request_data = json.dumps(uriList)
         response = requests.post(query, data=request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         handleResponse(response)
 
+    def addCoverArtToPlaylist(self, day, playlistID):
+        encoded_string = NPRPlaylistCoverCreator.getNewCover(day)
+        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, playlistID) 
+        response = requests.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
+        handleRespone(response)
 
     def handleRespone(self, response):
         # check for valid response status

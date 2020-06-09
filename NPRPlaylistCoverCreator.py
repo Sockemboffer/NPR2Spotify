@@ -1,25 +1,20 @@
 from PIL import Image
 import base64
-# todo: function to update cover art on already made playlist
-    # todo: bake special "All tracks found!", "Missing tracks!" into art?
+# todo: bake special "All tracks found!" or checkmark?, "Missing tracks!" into art?
 
 # Create functions to check and pass correct cover art to new playlist
-for dic in self.jsonData:
-    if "Day" in dic:
-        self.articleDay = str(dic.get("Day"))
-
-if (self.articleDay != "Saturday") and (self.articleDay != "Sunday"):
-    with open("npr_me.jpg", "rb") as im:
-        encoded_string = base64.b64encode(im.read())
-        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
-        response = requests.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
-elif (self.articleDay != "Sunday"):
-    with open("npr_we_sat.jpg", "rb") as im:
-        encoded_string = base64.b64encode(im.read())
-        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
-        response = requests.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
-else:
-    with open("npr_we_sun.jpg", "rb") as im:
-        encoded_string = base64.b64encode(im.read())
-        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, self.playListID) 
-        response = requests.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
+class NPRPlaylistCoverCreator:
+    
+    def getNewCover(self, day):
+        if (day != "Saturday") and (day != "Sunday"):
+            with open("npr_me.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                return encoded_string    
+        elif (day != "Sunday"):
+            with open("npr_we_sat.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                return encoded_string
+        else:
+            with open("npr_we_sun.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                return encoded_string
