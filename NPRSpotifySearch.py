@@ -6,10 +6,8 @@ from ResponsesHandle import ResponseHandle
 class NPRSpotifySearch:
 
     def __init__(self):
-        self.query = ""
-        self.responseList = list()
-        self.originalTrack = ""
-        self.originalArtists = list()
+        self.nprTrackName = ""
+        self.nprArtistsName = list()
         self.track = ""
         self.artists = list()
         self.ResponseHandle = ResponseHandle()
@@ -18,22 +16,28 @@ class NPRSpotifySearch:
         # building uri list to use later in playlist fill-up
         for dic in artistList:
             if "Interlude Artist" in dic:
-                self.originalArtists = dic.get("Interlude Artist")
+                self.nprArtistsName = dic.get("Interlude Artist")
                 self.artists = dic.get("Interlude Artist")
             if "Interlude Song" in dic:
-                self.originalTrack = dic.get("Interlude Song")
+                self.nprTrackName = dic.get("Interlude Song")
                 self.track = dic.get("Interlude Song")
-            # todo: call to NPRSpotifySearch
-            self.SearchExplicitTrackAndArtist(self.track, self.artists[0])
+            # get spotify responses and convert to json
+            responsesJSON = list()
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
             self.RemoveBrackets(self.track)
-            self.SearchExplicitTrackAndArtist(self.track, self.artists[0])
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
             self.RemoveParenthesis(self.track)
-            self.SearchExplicitTrackAndArtist(self.track, self.artists[0])
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
             self.RemoveCommonPhrases(self.track)
-            self.SearchExplicitTrackAndArtist(self.track, self.artists[0])
-            self.SearchImplicitTrackExplicitArtist(self.track, self.artists[0])
-            self.SearchImplicitTrackNoArtist(self.track)
-            self.CompareResponses(self.responseList, self.originalTrack, self.originalArtists[0])
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
+            responsesJSON.append(self.SearchImplicitTrackExplicitArtist(self.track, self.artists[0]))
+            responsesJSON.append(self.SearchImplicitTrackNoArtist(self.track))
+            # parse responses
+            parsedResponses = list()
+            for response in responsesJSON:
+                parsedResponses.append(self.ParseResponseJSON(response))
+            # compare responses
+
         return artistURIs
 
     def RemoveBrackets(self, track):
@@ -43,7 +47,7 @@ class NPRSpotifySearch:
         return trackNoBrackets.translate({ord(i): None for i in '()'})
 
     def RemoveCommonPhrases(self, track):
-        stopwords = ['feat.','original','edit','featuring','feature']
+        stopwords = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature']
         result  = [word for word in track if word.lower() not in stopwords]
         return ' '.join(result)
 
@@ -51,32 +55,57 @@ class NPRSpotifySearch:
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artists + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         self.ResponseHandle.HandleRespone(response)
-        self.responseList.append(response.json())
+        return response.json()
     
     def SearchImplicitTrackExplicitArtist(self, track, artists):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artists + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         self.ResponseHandle.HandleRespone(response)
-        self.responseList.append(response.json())
+        return response.json()
     
     def SearchImplicitTrackNoArtist(self, track):
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=1".format(parse.quote('"' + track + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         self.ResponseHandle.HandleRespone(response)
-        self.responseList.append(response.json())
+        return response.json()
 
-    def CompareResponses(self, responseList, originalTrack, originalArtist):
-        numberOfResponses = len(responseList)
-        for response in responseList:
-            missedCount = 0
-            foundCount = 0
-            if response["tracks"]["total"] != 0:
-                #thing
-                foundCount+=1
+    def ParseResponseJSON(self, responseJSON):
+        if responseJSON["tracks"]["total"] == 0:
+            parsed["Track Name"] = None
+            parsed["Track URI"] = None
+            parsed["Artist Name"] = None
+            return parsed
+        else:
+            parsed["Track Name"] = responseJSON["tracks"]["items"][0]["name"]
+            parsed["Track URI"] = responseJSON["tracks"]["items"][0]["uri"]
+            parsed["Artist Name"] = responseJSON["tracks"]["items"][0]["artists"][0]["name"]
+            return parsed
+
+    def CompareParsedResponses(self, parsedResponsesJSON)
+        parsedResponsesCount = len(ParseResponseJSON)
+        foundScore = 0.0
+        noHit = list()
+        hitExactMatch = list()
+        hitPartialMatch = list()
+        hitButNoMatch = list()
+        for response in parsedResponsesJSON:
+            if response["Track Name"] == None:
+                # no track found at all from spotify
+                noHit.append(response)
+                foundScore+=(-2.0)
+            elif (response["Track Name"] == self.nprTrackName) and (response["Artist Name"] == self.nprArtistsName):
+                # hit exact match found to what npr had
+                hitExactMatch.append(response)
+                foundScore+=1.0
+            elif response["Artist Name"] == self.originalArtists:
+                # hit but song name may be slightly different than what npr has
+                hitPartialMatch.append(response)
+                foundScore+=0.5
             else:
-                missedCount+=1
-            if (foundCount == numberOfResponses) or (missedCount == numberOfResponses)
-                return 0
+                # hit but matches neither the track or artist exactly
+                hitButNoMatch.append(response)
+                foundScore+=(-1.0)
+            return 0
 
         # if hit total 0
             # remove response from list
@@ -99,14 +128,13 @@ class NPRSpotifySearch:
                     # missing track (medium confidence)
 
         # When no artist used, double check found track's artist matches npr page artist
-        if response_json["tracks"]["total"] == 0:
-            if (response_json["tracks"]["total"] == 0):
-                print(trackNoBracketsAndBraces + ' ' + 'by: None')
-            else:
-                print("<!check!> " + response_json["tracks"]["items"][0]["name"] + " by: " + response_json["tracks"]["items"][0]["artists"][0]["name"] + " <=?=> " + trackNoBracketsAndBraces + " by: " + artists[0])
-        # When no artist used, double check found track's artist matches npr page artist
-        if response_json["tracks"]["total"] == 0:
-            if (response_json["tracks"]["total"] == 0):
-                print(self.result + ' ' + 'by: None')
-            else:
-                print("<!check!> " + response_json["tracks"]["items"][0]["name"] + " by: " + response_json["tracks"]["items"][0]["artists"][0]["name"] + " <=?=> " + self.result+ " by: " + artists[0])
+        # if response_json["tracks"]["total"] == 0:
+        #     if (response_json["tracks"]["total"] == 0):
+        #         print(trackNoBracketsAndBraces + ' ' + 'by: None')
+        #     else:
+        #         print("<!check!> " + response_json["tracks"]["items"][0]["name"] + " by: " + response_json["tracks"]["items"][0]["artists"][0]["name"] + " <=?=> " + trackNoBracketsAndBraces + " by: " + artists[0])
+        # if response_json["tracks"]["total"] == 0:
+        #     if (response_json["tracks"]["total"] == 0):
+        #         print(self.result + ' ' + 'by: None')
+        #     else:
+        #         print("<!check!> " + response_json["tracks"]["items"][0]["name"] + " by: " + response_json["tracks"]["items"][0]["artists"][0]["name"] + " <=?=> " + self.result+ " by: " + artists[0])
