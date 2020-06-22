@@ -6,15 +6,16 @@ from urllib import parse
 import re
 import datetime
 from NPRPageParser import NPRPageParser
-from NPRPlaylistCoverCreator import NPRPlaylistCoverCreator
 from ResponsesHandle import ResponseHandle
+from PIL import Image
+import base64
 # note: Playlists can have a maximum of 10,000 tracks each.
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 # todo: function to recheck missing songs
+# Create functions to check and pass correct cover art to new playlist
+# todo: bake special "All tracks found!" or checkmark?, "Missing tracks!" into art?
 class NPRPlaylistCreator:
     def __init__(self):
-        self.playListID = ""
-        self.nprPageLink = ""
         self.ResponseHandle = ResponseHandle()
 
     def CreatePlaylist(self, playlistName):
@@ -25,30 +26,65 @@ class NPRPlaylistCreator:
         response_json = response.json()
         return response_json["id"]
 
-    def add_song_to_playlist(self, songList, playlistID):
+    def AddTracksToPlaylist(self, searchedTracks, playlistID):
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playlistID)
-        request_data = json.dumps(uriList)
+        request_data = json.dumps(searchedTracks)
         response = requests.post(query, data=request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         self.ResponseHandle.HandleRespone(response)
 
-    def AddCoverArtToPlaylist(self, day, playlistID):
-        encoded_string = NPRPlaylistCoverCreator.getNewCover(day)
+    def AddCoverArtToPlaylist(self, searchedTracks, day, playlistID):
+        encoded_string = self.GetNewCover(searchedTracks, day)
         query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, playlistID) 
         response = requests.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
         self.ResponseHandle.HandleRespone(response)
 
-# Process found and missing artists function?
-    def ConstructPlaylistDescription(self, jsonData):
-        for dic in jsonData:
-            if "Page Link" in dic:
-                self.nprPageLink = str(dic.get("Page Link"))
-        if (len(self.missedTracksList) > 0):
-            request_body = json.dumps({"description": self.nprPageLink + " [:(MISSING TRACK(S): " + str(len(self.missedTracksList)) + "] " + " ".join(self.missedTracksList) + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS: addy@something.com]"})
+    # Process found and missing artists function?
+    def UpdatePlaylistDescription(self, searchedTracks, playlistID, nprURL):
+        missedTracksList = list()
+        for response in searchedTracks:
+            if (response["Found Match Type"] == "NoHit") or (response["Found Match Type"] = "HitButNoMatch"):
+                # no track found at all from spotify or hit but with neithermatching track or artist
+                # count each of these as a miss to be added to playlist descriptions for others to know
+                missedTracksList.append(response)
+        if len(missedTracksList) > 0):
+            newDescription = dict()
+            newDescription["description"] = nprURL + " [:(MISSING TRACK(S): " + str(len(missedTracksList)
+            for missedTrack in missedTracksList:
+                newDescription["description"] += "] " + missedTrack["NPR Track Name"] + " by: " + " ".join(missedTrack["NPR Artist Name"])
+                newDescription["description"] += " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
+            request_body = json.dumps(newDescription)
         else:
-            request_body = json.dumps({"description": self.nprPageLink + " [ALL TRACKS FOUND!] " + " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "]" + " [CORRECTIONS(it's not perfect): addy@something.com]"})
-
-# function to Update playlist description
-    def UpdatePlaylistDescription(self, playlistID, description):
+            newDescription = dict()
+            newDescription["description"] = nprURL + " [ALL TRACKS FOUND!] [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
+            request_body = json.dumps()
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
         response = requests.put(query, data=description, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         self.ResponseHandle.HandleRespone(response)
+
+    def GetNewCover(self, searchedTracks, day):
+        for tracks in searchedTracks:
+            for track in tracks:
+                if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch")
+                    # should include hitbutnomatch?
+                    missingTrack = True
+                    break
+        if missingTrack == True:
+            # Missing tracks cover art used instead
+            # Create missing cover art
+        else:
+            # Every track has an entry (though should verified)
+            # Create found all tracks cover art
+            if (day != "Saturday") and (day != "Sunday"):
+                with open("npr_me.jpg", "rb") as im:
+                    encoded_string = base64.b64encode(im.read())
+                    return encoded_string    
+            elif (day != "Sunday"):
+                with open("npr_we_sat.jpg", "rb") as im:
+                    encoded_string = base64.b64encode(im.read())
+                    return encoded_string
+            else:
+                with open("npr_we_sun.jpg", "rb") as im:
+                    encoded_string = base64.b64encode(im.read())
+                    return encoded_string
+
+
