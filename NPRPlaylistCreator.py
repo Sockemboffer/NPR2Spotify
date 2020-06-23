@@ -27,8 +27,12 @@ class NPRPlaylistCreator:
         return response_json["id"]
 
     def AddTracksToPlaylist(self, searchedTracks, playlistID):
+        tracksURIs = list()
+        for trackList in searchedTracks:
+            if (trackList[0]["Found Match Type"] == "HitExactMatch") or (trackList[0]["Found Match Type"] ==  "HitPartialMatch"):
+                tracksURIs.append(trackList[0]["Found Track URI"])
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playlistID)
-        request_data = json.dumps(searchedTracks)
+        request_data = json.dumps(tracksURIs)
         response = requests.post(query, data=request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         self.ResponseHandle.HandleRespone(response)
 
@@ -62,6 +66,7 @@ class NPRPlaylistCreator:
         self.ResponseHandle.HandleRespone(response)
 
     def GetNewCover(self, searchedTracks, day):
+        missingTrack = False
         for tracks in searchedTracks:
             for track in tracks:
                 if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch")
@@ -71,6 +76,18 @@ class NPRPlaylistCreator:
         if missingTrack == True:
             # Missing tracks cover art used instead
             # Create missing cover art
+            if (day != "Saturday") and (day != "Sunday"):
+                with open("npr_me.jpg", "rb") as im:
+                    encoded_string = base64.b64encode(im.read())
+                    return encoded_string    
+            elif (day != "Sunday"):
+                with open("npr_we_sat.jpg", "rb") as im:
+                    encoded_string = base64.b64encode(im.read())
+                    return encoded_string
+            else:
+                with open("npr_we_sun.jpg", "rb") as im:
+                    encoded_string = base64.b64encode(im.read())
+                    return encoded_string
         else:
             # Every track has an entry (though should verified)
             # Create found all tracks cover art

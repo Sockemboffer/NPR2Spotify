@@ -2,7 +2,6 @@ from ResponsesHandle import ResponseHandle
 # todo: re-check parsed page for missing tracks to research
     # todo: check if playlist exsists
     # todo: notify when previously not found track is found
-# todo: organize queries
 class NPRSpotifySearch:
 
     def __init__(self):
@@ -133,23 +132,3 @@ class NPRSpotifySearch:
             return hitPartialMatch
         else:
             return hitButNoMatch
-
-        # if hit total 0
-            # remove response from list
-            # missed response +1 (increased missed confidence or maybe lower found confidence?)
-            # if response list 0
-                # missed track (high confidence)
-        # if hit and hit is exact match to original
-            # How many exact matches across all responses
-                # if 2 or more
-                    # found track (high confidence)
-                # else 1
-                    # found track (medium confidence)
-        # if hit and not exact match
-            # How many hits match the original artist
-                # if 2 or more
-                    # found track (high confidence)
-                # elif 1
-                    # found track (medium confidence)
-                # else
-                    # missing track (medium confidence)

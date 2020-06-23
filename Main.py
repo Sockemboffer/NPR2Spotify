@@ -13,6 +13,8 @@ interludes = NPRPageParser.GetInterludes(jsonFromFile)
 playlistCreator = NPRPlaylistCreator()
 playlistURI = playlistCreator.CreatePlaylist(jsonFromFile.get("Playlist Name"))
 
+
+
 NPRSpotifySearch = NPRSpotifySearch()
 searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
 # How/what should I do with the responses with rechecking in the future

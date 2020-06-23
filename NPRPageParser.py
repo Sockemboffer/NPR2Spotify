@@ -91,7 +91,9 @@ class NPRPageParser:
     def GetJsonData(self, filename):
         with open(filename, "r", encoding='utf-8') as json_file:
             try:
-                return json.load(json_file)
+                loadedJson = json.load(json_file)
+                json_file.close()
+                return loadedJson
             except ValueError as e:
                 print('invalid json: %s' % e)
                 return None # or: raise
@@ -134,7 +136,8 @@ class NPRPageParser:
                         #             #print(kDicData)
         #json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
         json_file.close()
-    def AddTrackStatus(self, track, uri):
+
+    def UpdateTrackStatus(self, track, uri):
         # Added missed track scan date check back into json
         # No more search configurations left
         if (response_json["tracks"]["total"] == 0) or (response_json["tracks"]["items"][0]["artists"][0]["name"] != artists[0]):
