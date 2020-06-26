@@ -10,8 +10,8 @@ NPRPageParser.StoryParser(pageHTML, fileName) # outputs the file
 jsonFromFile = NPRPageParser.GetJsonData(fileName) # loading from file itself
 interludes = NPRPageParser.GetInterludes(jsonFromFile)
 
-# playlistCreator = NPRPlaylistCreator()
-# playlistURI = playlistCreator.CreatePlaylist(jsonFromFile.get("Playlist Name"))
+playlistCreator = NPRPlaylistCreator()
+playlistURI = playlistCreator.CreatePlaylist(jsonFromFile.get("Playlist Name"))
 
 # NPRSpotifySearch = NPRSpotifySearch()
 # searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
