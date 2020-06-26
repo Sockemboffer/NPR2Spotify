@@ -10,14 +10,12 @@ NPRPageParser.StoryParser(pageHTML, fileName) # outputs the file
 jsonFromFile = NPRPageParser.GetJsonData(fileName) # loading from file itself
 interludes = NPRPageParser.GetInterludes(jsonFromFile)
 
-playlistCreator = NPRPlaylistCreator()
-playlistURI = playlistCreator.CreatePlaylist(jsonFromFile.get("Playlist Name"))
+# playlistCreator = NPRPlaylistCreator()
+# playlistURI = playlistCreator.CreatePlaylist(jsonFromFile.get("Playlist Name"))
 
-
-
-NPRSpotifySearch = NPRSpotifySearch()
-searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
-# How/what should I do with the responses with rechecking in the future
-playlistCreator.UpdatePlaylistDescription(searchedTracks, playlistURI, NPRPageParser.nprurl)
-playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile.get("Day"), playlistURI)
-playlistCreator.AddTracksToPlaylist(searchedTracks, playlistURI)
+# NPRSpotifySearch = NPRSpotifySearch()
+# searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
+# # How/what should I do with the responses with rechecking in the future
+# playlistCreator.UpdatePlaylistDescription(searchedTracks, playlistURI, NPRPageParser.nprurl)
+# playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile.get("Day"), playlistURI)
+# playlistCreator.AddTracksToPlaylist(searchedTracks, playlistURI)

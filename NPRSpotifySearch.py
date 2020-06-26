@@ -121,7 +121,7 @@ class NPRSpotifySearch:
                 hitExactMatch.append(response)
             elif response["Found Match Type"] ==  "HitPartialMatch":
                 hitPartialMatch.append(response)
-            else response["Found Match Type"] == "HitButNoMatch":
+            else:
                 hitButNoMatch.append(response)
         # Not sure how best to "grade" my results
         if (len(noHit) == len(parsedResponsesList)):

@@ -46,13 +46,13 @@ class NPRPlaylistCreator:
     def UpdatePlaylistDescription(self, searchedTracks, playlistID, nprURL):
         missedTracksList = list()
         for response in searchedTracks:
-            if (response["Found Match Type"] == "NoHit") or (response["Found Match Type"] = "HitButNoMatch"):
+            if (response["Found Match Type"] == "NoHit") or (response["Found Match Type"] == "HitButNoMatch"):
                 # no track found at all from spotify or hit but with neithermatching track or artist
                 # count each of these as a miss to be added to playlist descriptions for others to know
                 missedTracksList.append(response)
-        if len(missedTracksList) > 0):
+        if missedTracksList != None:
             newDescription = dict()
-            newDescription["description"] = nprURL + " [:(MISSING TRACK(S): " + str(len(missedTracksList)
+            newDescription["description"] = str(nprURL) + " [:(MISSING TRACK(S): " + str(len(missedTracksList))
             for missedTrack in missedTracksList:
                 newDescription["description"] += "] " + missedTrack["NPR Track Name"] + " by: " + " ".join(missedTrack["NPR Artist Name"])
                 newDescription["description"] += " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
@@ -69,7 +69,7 @@ class NPRPlaylistCreator:
         missingTrack = False
         for tracks in searchedTracks:
             for track in tracks:
-                if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch")
+                if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch"):
                     # should include hitbutnomatch?
                     missingTrack = True
                     break
