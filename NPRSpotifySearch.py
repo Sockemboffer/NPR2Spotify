@@ -1,4 +1,7 @@
 from ResponsesHandle import ResponseHandle
+from urllib import parse
+import requests
+from secrets import spotify_user_id, spotipyUserToken
 # todo: re-check parsed page for missing tracks to research
     # todo: check if playlist exsists
     # todo: notify when previously not found track is found
@@ -47,7 +50,7 @@ class NPRSpotifySearch:
         return track.translate({ord(i): None for i in '[]'})
     
     def RemoveParenthesis(self, track):
-        return trackNoBrackets.translate({ord(i): None for i in '()'})
+        return track.translate({ord(i): None for i in '()'})
 
     def RemoveCommonPhrases(self, track):
         stopwords = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature']
@@ -101,7 +104,7 @@ class NPRSpotifySearch:
                 # hit exact match found to what npr had
                 # should I use global var or key when comparing to original?
                 response["Found Match Type"] = "HitExactMatch"
-            elif response["Found Artist Name"] == self.originalArtists:
+            elif response["Found Artist Name"] == self.nprArtistsName:
                 # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
                 response["Found Match Type"] = "HitPartialMatch"
             else:

@@ -45,11 +45,12 @@ class NPRPlaylistCreator:
     # Process found and missing artists function?
     def UpdatePlaylistDescription(self, searchedTracks, playlistID, nprURL):
         missedTracksList = list()
-        for response in searchedTracks:
-            if (response["Found Match Type"] == "NoHit") or (response["Found Match Type"] == "HitButNoMatch"):
-                # no track found at all from spotify or hit but with neithermatching track or artist
-                # count each of these as a miss to be added to playlist descriptions for others to know
-                missedTracksList.append(response)
+        for track in searchedTracks:
+            for matchType in track:
+                if (matchType["Found Match Type"] == "NoHit") or (matchType["Found Match Type"] == "HitButNoMatch"):
+                    # no track found at all from spotify or hit but with neithermatching track or artist
+                    # count each of these as a miss to be added to playlist descriptions for others to know
+                    missedTracksList.append(matchType)
         if missedTracksList != None:
             newDescription = dict()
             newDescription["description"] = str(nprURL) + " [:(MISSING TRACK(S): " + str(len(missedTracksList))
@@ -60,9 +61,9 @@ class NPRPlaylistCreator:
         else:
             newDescription = dict()
             newDescription["description"] = nprURL + " [ALL TRACKS FOUND!] [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
-            request_body = json.dumps()
+            request_body = json.dumps(newDescription)
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
-        response = requests.put(query, data=description, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = requests.put(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         self.ResponseHandle.HandleRespone(response)
 
     def GetNewCover(self, searchedTracks, day):
