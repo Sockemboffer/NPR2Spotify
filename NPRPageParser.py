@@ -30,7 +30,6 @@ class NPRPageParser:
         with open(filename, 'w', encoding='utf-8') as json_file:
             pageData = list()
             pageData.append(self.PageRequest(selector))
-            print('- Page Info')
             for item in selector.xpath('.//div[@id="story-list"]/*'):
                 if item.attrib['class'] == 'rundown-segment':
                     newArticleData = self.ArticleRequest(item)
@@ -41,7 +40,7 @@ class NPRPageParser:
                         newInterludeInfo.append(self.InterludeRequest(artist))
                     pageData.append(newInterludeInfo)
             json.dump(pageData, json_file, ensure_ascii=False, indent=4)
-        print('- Done')
+        print("-- NPR Page file created.")
 
     # Grab various info about the whole NPR article for that date
     def PageRequest(self, pageSelector):
@@ -57,7 +56,6 @@ class NPRPageParser:
             pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition']
         else:
             pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition'] + " " + pageData['Day']
-        print(pageData['Playlist Name'])
         pageData['Playlist Link'] = None
         pageData['Playlist URI'] = None
         return pageData
@@ -73,7 +71,6 @@ class NPRPageParser:
         articleData['Link'] = article.xpath('./div/h3[@class="rundown-segment__title"]/a/@href').get()
         articleData['Slug'] = article.xpath('./div/h4[@class="rundown-segment__slug"]/a/text()').get()
         articleData['By'] = self.ArticleByLineRequest(article)
-        print('-- Article Info')
         return articleData
 
     # Grab data about each interlude
@@ -84,7 +81,6 @@ class NPRPageParser:
         artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
         artistData['Spotify URI'] = None
         artistData['Last Checked'] = None
-        print('---- Song Info')
         return artistData
 
     # Load json file data, check to ensure it's valid first

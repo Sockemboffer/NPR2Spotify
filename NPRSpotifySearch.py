@@ -1,4 +1,4 @@
-from ResponsesHandle import ResponseHandle
+from ResponsesHandle import ResponseException
 from urllib import parse
 import requests
 from secrets import spotify_user_id, spotipyUserToken
@@ -12,7 +12,6 @@ class NPRSpotifySearch:
         self.nprArtistsName = list()
         self.track = ""
         self.artists = list()
-        self.ResponseHandle = ResponseHandle()
 
     # GetTrackURIs transforms the data I send in, is that confusing to a user they get back different data?
     def GetTrackURIs(self, artistList):
@@ -60,19 +59,28 @@ class NPRSpotifySearch:
     def SearchExplicitTrackAndArtist(self, track, artists):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artists + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        self.ResponseHandle.HandleRespone(response)
+        # check for valid response status
+        if response.status_code != 200:
+            raise ResponseException(response.status_code)
+        print(">> Explicit Track and Artist search finished.")
         return response.json()
     
     def SearchImplicitTrackExplicitArtist(self, track, artists):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artists + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        self.ResponseHandle.HandleRespone(response)
+        # check for valid response status
+        if response.status_code != 200:
+            raise ResponseException(response.status_code)
+        print(">> Implicit Track and Explicit Artist search finished.")
         return response.json()
     
     def SearchImplicitTrackNoArtist(self, track):
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=1".format(parse.quote('"' + track + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        self.ResponseHandle.HandleRespone(response)
+        # check for valid response status
+        if response.status_code != 200:
+            raise ResponseException(response.status_code)
+        print(">> Implicit Track and No Artist search finished.")
         return response.json()
 
     def ParseResponseJSON(self, responseJSON):
