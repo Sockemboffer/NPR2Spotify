@@ -16,6 +16,7 @@ import base64
 class NPRPlaylistCreator:
 
     def CreatePlaylist(self, playlistName):
+        # Playlist max character name limit is 100
         request_body = json.dumps({"name": playlistName, "public": False})
         query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id)
         response = requests.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
@@ -53,40 +54,25 @@ class NPRPlaylistCreator:
 
     # Process found and missing artists function?
     def UpdatePlaylistDescription(self, searchedTracks, playlistID, nprURL):
-        # Some sort of character limit returns response ok but no description will be made
+        # 300 character limit returns response ok if over limit, but no description will be made.
         missedTracksList = list()
-        missedDuplicatesRemoved = list()
-        missedTrackCount = 0
-        for track in searchedTracks:
-            duplicateNameCheck = track[0]["NPR Track Name"]
-            for matchType in track:
-                # no track found at all from spotify or hit but with neithermatching track or artist
-                # count each of these as a miss to be added to playlist descriptions for others to know
-                if matchType["NPR Track Name"] == duplicateNameCheck:
-                    # don't add duplicate to missed list
-                elif matchType["NPR Track Name"] != duplicateNameCheck:
-                    if matchType["Found Match Type"] == "NoHit":
-                        missedTracksList.append(matchType)
-                    elif matchType["Found Match Type"] == "HitButNoMatch":
-                        missedTracksList.append(matchType)
-        print(missedTracksList)
-
+        for missedTrack in searchedTracks:
+            missedTracksList.append(missedTrack[0])
         if missedTracksList != None:
             newDescription = dict()
-            newDescription["description"] = str(nprURL) + " [MISSING: " + str(missedTrackCount) + "]"
-            for missedTrack in missedTracksList:
-                 newDescription["description"] += " [TRACK: " + missedTrack["NPR Track Name"] + " by: " + " ".join(missedTrack["NPR Artist Name"]) + "]"
-            newDescription["description"] += " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " <CORRECTIONS: addy@something.com>]"
+            newDescription["description"] = str(nprURL) + " [MISSING: " + str(len(missedTracksList)) + "]"
+            for track in missedTracksList:
+                newDescription["description"] += " [TRACK: " #+ track["NPR Track Name"] + ", by: " + " ".join(track["NPR Artist Name"]) + "]"
+            newDescription["description"] += " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
         else:
             newDescription = dict()
             newDescription["description"] = nprURL + " [ALL TRACKS FOUND!] [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
-        print(json.dumps(newDescription, ensure_ascii=False))
+        #print(json.dumps(newDescription, ensure_ascii=False, indent=4))
         response = requests.put(query, json.dumps(newDescription, ensure_ascii=False), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         # check for valid response status
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        print(response.status_code)
         print("-- Playlist description updated.")
 
     def GetNewCover(self, searchedTracks, day):
