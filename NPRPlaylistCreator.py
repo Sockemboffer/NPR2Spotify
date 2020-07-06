@@ -33,12 +33,12 @@ class NPRPlaylistCreator:
             if (trackList[0]["Found Match Type"] == "HitExactMatch") or (trackList[0]["Found Match Type"] ==  "HitPartialMatch"):
                 tracksURIs.append(trackList[0]["Found Track URI"])
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playlistID)
-        print(tracksURIs)
+        #print(tracksURIs)
         request_data = json.dumps(tracksURIs)
-        print(request_data)
+        #print(request_data)
         response = requests.post(query, data=request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         # check for valid response status
-        print(response)
+        #print(response)
         if response.status_code != 400:
             raise ResponseException(response.status_code)
         print("-- Playlist tracks added.")
