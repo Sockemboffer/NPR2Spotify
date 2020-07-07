@@ -7,6 +7,9 @@ from collections import Counter
 # todo: re-check parsed page for missing tracks to research
     # todo: check if playlist exsists
     # todo: notify when previously not found track is found
+# todo: when searching, push all track and artist names to lowercase
+# fix: double-quotes are have dangling escape slash in string from response?
+# todo: add additional search for each artist found
 class NPRSpotifySearch:
 
     def __init__(self):
@@ -21,11 +24,13 @@ class NPRSpotifySearch:
         choosenResponseForTracks = list()
         for dic in artistList:
             if "Interlude Artist" in dic:
-                self.nprArtistsName = dic["Interlude Artist"][0]
-                self.artists = dic.get("Interlude Artist")
+                self.nprArtistsName = dic["Interlude Artist"]
+                self.artists = str(dic.get("Interlude Artist")).lower()
+                #print(self.artists)
             if "Interlude Song" in dic:
                 self.nprTrackName = dic.get("Interlude Song")
-                self.track = dic.get("Interlude Song")
+                self.track = str(dic.get("Interlude Song")).lower()
+                #print(self.track)
             # get spotify responses and convert to json
             responsesJSON = list()
             responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
@@ -49,25 +54,28 @@ class NPRSpotifySearch:
             # Categorize responses
             self.IdentifyResponses(parsedResponses)
             # compare responses
+            # ======================================= are my choosen response lists correct?
             choosenResponseForTracks.append(self.CompareResponses(parsedResponses))
-            #print(choosenResponseForTracks)
+            print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
+        print(json.dumps(choosenResponseForTracks, ensure_ascii=False, indent=4))
+        #print(str(len(choosenResponseForTracks)) + " songs parsed.")
         return choosenResponseForTracks
 
     def RemoveBrackets(self, track):
         newTrack = track.translate({ord(i): None for i in '[]'})
-        print("!! Removed brackets: " + newTrack)
+        #print("!! Removed brackets: " + newTrack)
         return newTrack
     
     def RemoveParenthesis(self, track):
         newTrack = track.translate({ord(i): None for i in '()'})
-        print("!! Removed parenthesis: " + newTrack)
+        #print("!! Removed parenthesis: " + newTrack)
         return newTrack
 
     def RemoveCommonPhrases(self, track):
         stop_words = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature']
         stopwords_dict = Counter(stop_words)
         result = ' '.join([word for word in track.split() if word not in stopwords_dict])
-        print("!! Removed common Phrases: " + result)
+        #print("!! Removed common Phrases: " + result)
         return result
 
     def SearchExplicitTrackAndArtist(self, track, artist):
@@ -77,7 +85,7 @@ class NPRSpotifySearch:
         # check for valid response status
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        print(">> Explicit Track and Artist search finished.")
+        #print(">> Explicit Track and Artist search finished.")
         return response.json()
     
     def SearchImplicitTrackExplicitArtist(self, track, artist):
@@ -86,7 +94,7 @@ class NPRSpotifySearch:
         # check for valid response status
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        print(">> Implicit Track and Explicit Artist search finished.")
+        #print(">> Implicit Track and Explicit Artist search finished.")
         return response.json()
     
     def SearchImplicitTrackNoArtist(self, track):
@@ -95,7 +103,7 @@ class NPRSpotifySearch:
         # check for valid response status
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        print(">> Implicit Track and No Artist search finished.")
+        #print(">> Implicit Track and No Artist search finished.")
         return response.json()
 
     def ParseResponseJSON(self, responseJSON):
@@ -123,11 +131,11 @@ class NPRSpotifySearch:
             if response["Found Track Name"] == None:
                 # no track found at all from spotify (Not sure if None is used when no track)
                 response["Found Match Type"] = "NoHit"
-            elif response["Found Track Name"] == self.nprTrackName and response["Found Artist Name"] == self.nprArtistsName:
+            elif response["Found Track Name"].lower() == self.nprTrackName.lower() and response["Found Artist Name"][0].lower() == self.nprArtistsName[0].lower():
                 # hit exact match found to what npr had
                 # should I use global var or key when comparing to original?
                 response["Found Match Type"] = "HitExactMatch"
-            elif response["Found Track Name"] != self.nprTrackName and response["Found Artist Name"] == self.nprArtistsName:
+            elif response["Found Track Name"].lower() != self.nprTrackName.lower() and response["Found Artist Name"][0].lower() == self.nprArtistsName[0].lower():
                 # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
                 response["Found Match Type"] = "HitPartialMatch"
             else:
@@ -151,21 +159,25 @@ class NPRSpotifySearch:
             else:
                 hitButNoMatch.append(response)
         # print("++++++++ No Hit")
-        # print(noHit)
+        # print(json.dumps(noHit, ensure_ascii=False, indent=4))
         # print("++++++++ Hit Exact Match")
-        # print(hitExactMatch)
+        # print(json.dumps(hitExactMatch, ensure_ascii=False, indent=4))
         # print("++++++++ Hit Partial Match")
-        # print(hitPartialMatch)
+        # print(json.dumps(hitPartialMatch, ensure_ascii=False, indent=4))
         # print("++++++++ Hit But No Match")
-        # print(hitButNoMatch)
+        # print(json.dumps(hitButNoMatch, ensure_ascii=False, indent=4))
         # Not sure how best to "grade" my results
-        print(len(noHit))
-        print(len(parsedResponsesList))
+        # print(len(noHit))
+        # print(len(parsedResponsesList))
         if len(noHit) == len(parsedResponsesList):
-            return noHit
+            print("no hit " + str(noHit[0]))
+            return noHit[0]
         elif len(hitExactMatch) > 0:
-            return hitExactMatch
+            print("hit exact match " + str(hitExactMatch[0]))
+            return hitExactMatch[0]
         elif len(hitPartialMatch) >= len(hitButNoMatch):
-            return hitPartialMatch
+            print("hit partial match " + str(hitPartialMatch[0]))
+            return hitPartialMatch[0]
         else:
-            return hitButNoMatch
+            print("hit but no match " + str(hitButNoMatch[0]))
+            return hitButNoMatch[0]

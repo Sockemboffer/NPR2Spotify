@@ -77,7 +77,13 @@ class NPRPageParser:
     def InterludeRequest(self, interlude):
         artistData = dict()
         # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
-        artistData['Interlude Artist'] = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+        artistDataList = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+        strippedArtistList = list()
+        for artist in artistDataList:
+            strippedArtist = artist.strip()
+            strippedArtistList.append(strippedArtist)
+        #print(strippedArtistList)
+        artistData['Interlude Artist'] = strippedArtistList
         artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
         artistData['Spotify URI'] = None
         artistData['Last Checked'] = None

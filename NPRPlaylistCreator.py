@@ -57,18 +57,20 @@ class NPRPlaylistCreator:
         # 300 character limit returns response ok if over limit, but no description will be made.
         missedTracksList = list()
         for missedTrack in searchedTracks:
-            missedTracksList.append(missedTrack[0])
+            if missedTrack["Found Match Type"] == "NoHit" or missedTrack["Found Match Type"] == "HitButNoMatch":
+                print(missedTrack)
+                missedTracksList.append(missedTrack)
         if missedTracksList != None:
             newDescription = dict()
             newDescription["description"] = str(nprURL) + " [MISSING: " + str(len(missedTracksList)) + "]"
             for track in missedTracksList:
-                newDescription["description"] += " [TRACK: " #+ track["NPR Track Name"] + ", by: " + " ".join(track["NPR Artist Name"]) + "]"
+                newDescription["description"] += " [TRACK: " + track["NPR Track Name"] + ", by: " + ", ".join(track["NPR Artist Name"]) + "]"
             newDescription["description"] += " [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
         else:
             newDescription = dict()
             newDescription["description"] = nprURL + " [ALL TRACKS FOUND!] [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
-        #print(json.dumps(newDescription, ensure_ascii=False, indent=4))
+        print(json.dumps(newDescription, ensure_ascii=False, indent=4))
         response = requests.put(query, json.dumps(newDescription, ensure_ascii=False), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         # check for valid response status
         if response.status_code != 200:
