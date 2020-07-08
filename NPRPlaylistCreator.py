@@ -58,7 +58,7 @@ class NPRPlaylistCreator:
         missedTracksList = list()
         for missedTrack in searchedTracks:
             if missedTrack["Found Match Type"] == "NoHit" or missedTrack["Found Match Type"] == "HitButNoMatch":
-                print(missedTrack)
+                #print(missedTrack)
                 missedTracksList.append(missedTrack)
         if missedTracksList != None:
             newDescription = dict()

@@ -53,11 +53,13 @@ class NPRSpotifySearch:
                 parsedResponses.append(self.ParseResponseJSON(response))
             # Categorize responses
             self.IdentifyResponses(parsedResponses)
+            #print(parsedResponses)
+            #print(" ")
             # compare responses
             # ======================================= are my choosen response lists correct?
             choosenResponseForTracks.append(self.CompareResponses(parsedResponses))
-            print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
-        print(json.dumps(choosenResponseForTracks, ensure_ascii=False, indent=4))
+            #print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
+        #print(json.dumps(choosenResponseForTracks, ensure_ascii=False, indent=4))
         #print(str(len(choosenResponseForTracks)) + " songs parsed.")
         return choosenResponseForTracks
 
@@ -128,23 +130,36 @@ class NPRSpotifySearch:
     # ==============================================double check compared responses
     def IdentifyResponses(self, parsedResponsesJSON):
         for response in parsedResponsesJSON:
-            if response["Found Track Name"] == None:
+            identifiedResponses = list()
+            print(str(response["Found Track Name"]).lower())
+            print(self.nprTrackName.lower())
+            print(str(response["Found Artist Name"]).lower())
+            print(self.nprArtistsName[0].lower())
+            print(" ")
+            if response["Found Track Name"] is None:
                 # no track found at all from spotify (Not sure if None is used when no track)
                 response["Found Match Type"] = "NoHit"
-            elif response["Found Track Name"].lower() == self.nprTrackName.lower() and response["Found Artist Name"][0].lower() == self.nprArtistsName[0].lower():
+                identifiedResponses.append(response)
+            elif (str(response["Found Track Name"]).lower() == self.nprTrackName.lower()) and (str(response["Found Artist Name"][0]).lower() == self.nprArtistsName[0].lower()):
                 # hit exact match found to what npr had
                 # should I use global var or key when comparing to original?
                 response["Found Match Type"] = "HitExactMatch"
-            elif response["Found Track Name"].lower() != self.nprTrackName.lower() and response["Found Artist Name"][0].lower() == self.nprArtistsName[0].lower():
+                identifiedResponses.append(response)
+            elif (str(response["Found Track Name"]).lower() != self.nprTrackName.lower()) and (str(response["Found Artist Name"][0]).lower() == self.nprArtistsName[0].lower()):
                 # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
                 response["Found Match Type"] = "HitPartialMatch"
+                identifiedResponses.append(response)
             else:
                 # hit but matches neither the track or artist exactly as npr had it
                 response["Found Match Type"] = "HitButNoMatch"
+                identifiedResponses.append(response)
             #print(json.dumps(response, ensure_ascii=False, indent=4))
-        return parsedResponsesJSON
+        print(identifiedResponses)
+        print(" ")
+        return identifiedResponses
     # Isn't returning correctly created list ####################################################
     def CompareResponses(self, parsedResponsesList):
+        #print(parsedResponsesList)
         noHit = list()
         hitExactMatch = list()
         hitPartialMatch = list()
@@ -159,25 +174,25 @@ class NPRSpotifySearch:
             else:
                 hitButNoMatch.append(response)
         # print("++++++++ No Hit")
-        # print(json.dumps(noHit, ensure_ascii=False, indent=4))
+        # print(str(len(noHit)))
         # print("++++++++ Hit Exact Match")
-        # print(json.dumps(hitExactMatch, ensure_ascii=False, indent=4))
+        # print(str(len(hitExactMatch)))
         # print("++++++++ Hit Partial Match")
-        # print(json.dumps(hitPartialMatch, ensure_ascii=False, indent=4))
+        # print(str(len(hitPartialMatch)))
         # print("++++++++ Hit But No Match")
-        # print(json.dumps(hitButNoMatch, ensure_ascii=False, indent=4))
+        # print(str(len(hitButNoMatch)))
         # Not sure how best to "grade" my results
         # print(len(noHit))
         # print(len(parsedResponsesList))
         if len(noHit) == len(parsedResponsesList):
-            print("no hit " + str(noHit[0]))
+            #print("no hit " + str(noHit[0]))
             return noHit[0]
         elif len(hitExactMatch) > 0:
-            print("hit exact match " + str(hitExactMatch[0]))
+            #print("hit exact match " + str(hitExactMatch[0]))
             return hitExactMatch[0]
         elif len(hitPartialMatch) >= len(hitButNoMatch):
-            print("hit partial match " + str(hitPartialMatch[0]))
+            #print("hit partial match " + str(hitPartialMatch[0]))
             return hitPartialMatch[0]
         else:
-            print("hit but no match " + str(hitButNoMatch[0]))
+            #print("hit but no match " + str(hitButNoMatch[0]))
             return hitButNoMatch[0]
