@@ -29,17 +29,18 @@ class NPRPlaylistCreator:
 
     def AddTracksToPlaylist(self, searchedTracks, playlistID):
         tracksURIs = list()
-        for trackList in searchedTracks:
-            if (trackList[0]["Found Match Type"] == "HitExactMatch") or (trackList[0]["Found Match Type"] ==  "HitPartialMatch"):
-                tracksURIs.append(trackList[0]["Found Track URI"])
+        urisData = dict()
+        for track in searchedTracks:
+            if (track["Found Match Type"] == "HitExactMatch") or (track["Found Match Type"] ==  "HitPartialMatch"):
+                tracksURIs.append(track["Found Track URI"])
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playlistID)
-        #print(tracksURIs)
-        request_data = json.dumps(tracksURIs)
+        urisData["uris"] = tracksURIs
+        request_data = json.dumps(urisData)
         #print(request_data)
-        response = requests.post(query, data=request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = requests.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         # check for valid response status
         #print(response)
-        if response.status_code != 400:
+        if response.status_code != 201:
             raise ResponseException(response.status_code)
         print("-- Playlist tracks added.")
 
@@ -70,7 +71,7 @@ class NPRPlaylistCreator:
             newDescription = dict()
             newDescription["description"] = nprURL + " [ALL TRACKS FOUND!] [LASTCHECKED: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "] <CORRECTIONS: addy@something.com>"
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID) 
-        print(json.dumps(newDescription, ensure_ascii=False, indent=4))
+        #print(json.dumps(newDescription, ensure_ascii=False, indent=4))
         response = requests.put(query, json.dumps(newDescription, ensure_ascii=False), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         # check for valid response status
         if response.status_code != 200:
@@ -79,7 +80,7 @@ class NPRPlaylistCreator:
 
     def GetNewCover(self, searchedTracks, day):
         missingTrack = False
-        print(searchedTracks)
+        # print(searchedTracks)
         for track in searchedTracks:
             if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch"):
                 # should include hitbutnomatch?
