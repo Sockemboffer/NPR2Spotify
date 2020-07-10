@@ -8,10 +8,9 @@ from NPRPageParser import NPRPageParser
 from ResponsesHandle import ResponseException
 from PIL import Image
 import base64
-# note: Playlists can have a maximum of 10,000 tracks each.
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 # todo: function to recheck missing songs
-# Create functions to check and pass correct cover art to new playlist
+# todo: functions to check and pass correct cover art to new playlist
 # todo: bake special "All tracks found!" or checkmark?, "Missing tracks!" into art?
 class NPRPlaylistCreator:
 
