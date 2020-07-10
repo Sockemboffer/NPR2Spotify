@@ -34,19 +34,19 @@ class NPRSpotifySearch:
                 #print(self.track)
             # get spotify responses and convert to json
             responsesJSON = list()
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
-            self.track = self.RemoveBrackets(self.track)
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
-            self.track = self.RemoveParenthesis(self.track)
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
-            self.track = self.RemoveCommonPhrases(self.track)
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
-            responsesJSON.append(self.SearchImplicitTrackExplicitArtist(self.track, unidecode(self.artists[0])))
-            responsesJSON.append(self.SearchImplicitTrackNoArtist(self.track))
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.nprTrackName.split("(")[0], unidecode(self.artists[0])))
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.nprTrackName.split("[")[0], unidecode(self.artists[0])))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
+            self.track = self.RemoveBrackets(unidecode(self.track))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
+            self.track = self.RemoveParenthesis(unidecode(self.track))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
+            self.track = self.RemoveCommonPhrases(unidecode(self.track))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
+            responsesJSON.append(self.SearchImplicitTrackExplicitArtist(unidecode(self.track), unidecode(self.artists[0])))
+            responsesJSON.append(self.SearchImplicitTrackNoArtist(unidecode(self.track)))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.nprTrackName.split("(")[0]), unidecode(self.artists[0])))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.nprTrackName.split("[")[0]), unidecode(self.artists[0])))
             # hail marry
-            responsesJSON.append(self.SearchImplicitTrackNoArtist(self.nprTrackName))
+            responsesJSON.append(self.SearchImplicitTrackNoArtist(unidecode(self.nprTrackName)))
             # parse responses
             # should I pass a list to the function or keep the list out here?
             parsedResponses = list()
@@ -149,12 +149,12 @@ class NPRSpotifySearch:
                 # no track found at all from spotify (Not sure if None is used when no track)
                 response["Found Match Type"] = "NoHit"
                 identifiedResponses.append(response)
-            elif str(response["Found Track Name"]).lower() == self.nprTrackName.lower() and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
+            elif unidecode(str(response["Found Track Name"]).lower()) == unidecode(self.nprTrackName.lower()) and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
                 # hit exact match found to what npr had
                 # should I use global var or key when comparing to original?
                 response["Found Match Type"] = "HitExactMatch"
                 identifiedResponses.append(response)
-            elif str(response["Found Track Name"]).lower() != self.nprTrackName.lower() and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
+            elif unidecode(str(response["Found Track Name"]).lower()) != unidecode(self.nprTrackName.lower()) and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
                     # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
                     response["Found Match Type"] = "HitPartialMatch"
                     identifiedResponses.append(response)
