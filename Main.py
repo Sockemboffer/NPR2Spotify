@@ -18,5 +18,5 @@ searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
 #print(searchedTracks)
 # How/what should I do with the responses with rechecking in the future
 playlistCreator.UpdatePlaylistDescription(searchedTracks, playlistURI, NPRPageParser.nprurl) #'''trying to reduce missed list'''
-# playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistURI)
+playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistURI)
 # playlistCreator.AddTracksToPlaylist(searchedTracks, playlistURI)

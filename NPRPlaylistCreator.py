@@ -79,15 +79,16 @@ class NPRPlaylistCreator:
 
     def GetNewCover(self, searchedTracks, day):
         missingTrack = False
-        for tracks in searchedTracks:
-            for track in tracks:
-                if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch"):
-                    # should include hitbutnomatch?
-                    missingTrack = True
-                    break
+        print(searchedTracks)
+        for track in searchedTracks:
+            if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch"):
+                # should include hitbutnomatch?
+                missingTrack = True
+                break
         if missingTrack == True:
             # Missing tracks cover art used instead
             # Create missing cover art
+            print("-- Missing Tracks jpg selected.")
             if (day != "Saturday") and (day != "Sunday"):
                 with open("npr_me.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
@@ -103,6 +104,7 @@ class NPRPlaylistCreator:
         else:
             # Every track has an entry (though should verified)
             # Create found all tracks cover art
+            print("-- All Tracks found jpg selected.")
             if (day != "Saturday") and (day != "Sunday"):
                 with open("npr_me.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())

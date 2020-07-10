@@ -162,9 +162,9 @@ class NPRSpotifySearch:
                 response["Found Match Type"] = "HitButNoMatch"
                 identifiedResponses.append(response)
             #print(json.dumps(response, ensure_ascii=False, indent=4))
-        print(identifiedResponses)
-        print(len(identifiedResponses))
-        print(" ")
+        # print(identifiedResponses)
+        # print(len(identifiedResponses))
+        print("-- Responses identified.")
         return identifiedResponses
     # Isn't returning correctly created list ####################################################
     def CompareResponses(self, parsedResponsesList):
