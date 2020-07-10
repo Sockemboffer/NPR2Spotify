@@ -4,6 +4,7 @@ import requests
 from secrets import spotify_user_id, spotipyUserToken
 import json
 from collections import Counter
+from unidecode import unidecode
 # todo: re-check parsed page for missing tracks to research
     # todo: check if playlist exsists
     # todo: notify when previously not found track is found
@@ -25,25 +26,25 @@ class NPRSpotifySearch:
         for dic in artistList:
             if "Interlude Artist" in dic:
                 self.nprArtistsName = dic["Interlude Artist"]
-                self.artists = str(dic.get("Interlude Artist")).lower()
+                self.artists = dic.get("Interlude Artist")
                 #print(self.artists)
             if "Interlude Song" in dic:
                 self.nprTrackName = dic.get("Interlude Song")
-                self.track = str(dic.get("Interlude Song")).lower()
+                self.track = dic.get("Interlude Song")
                 #print(self.track)
             # get spotify responses and convert to json
             responsesJSON = list()
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
             self.track = self.RemoveBrackets(self.track)
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
             self.track = self.RemoveParenthesis(self.track)
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
             self.track = self.RemoveCommonPhrases(self.track)
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, self.artists[0]))
-            responsesJSON.append(self.SearchImplicitTrackExplicitArtist(self.track, self.artists[0]))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.track, unidecode(self.artists[0])))
+            responsesJSON.append(self.SearchImplicitTrackExplicitArtist(self.track, unidecode(self.artists[0])))
             responsesJSON.append(self.SearchImplicitTrackNoArtist(self.track))
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.nprTrackName.split("(")[0], self.artists[0]))
-            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.nprTrackName.split("[")[0], self.artists[0]))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.nprTrackName.split("(")[0], unidecode(self.artists[0])))
+            responsesJSON.append(self.SearchExplicitTrackAndArtist(self.nprTrackName.split("[")[0], unidecode(self.artists[0])))
             # hail marry
             responsesJSON.append(self.SearchImplicitTrackNoArtist(self.nprTrackName))
             # parse responses
@@ -148,12 +149,12 @@ class NPRSpotifySearch:
                 # no track found at all from spotify (Not sure if None is used when no track)
                 response["Found Match Type"] = "NoHit"
                 identifiedResponses.append(response)
-            elif str(response["Found Track Name"]).lower() == self.nprTrackName.lower() and str(response["Found Artist Name"]).lower() == self.nprArtistsName[0].lower():
+            elif str(response["Found Track Name"]).lower() == self.nprTrackName.lower() and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
                 # hit exact match found to what npr had
                 # should I use global var or key when comparing to original?
                 response["Found Match Type"] = "HitExactMatch"
                 identifiedResponses.append(response)
-            elif str(response["Found Track Name"]).lower() != self.nprTrackName.lower() and str(response["Found Artist Name"]).lower() == self.nprArtistsName[0].lower():
+            elif str(response["Found Track Name"]).lower() != self.nprTrackName.lower() and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
                     # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
                     response["Found Match Type"] = "HitPartialMatch"
                     identifiedResponses.append(response)
@@ -183,15 +184,14 @@ class NPRSpotifySearch:
             else:
                 hitButNoMatch.append(response)
         # ============
-        if len(noHit) == len(parsedResponsesList):
-            #print("no hit " + str(noHit[0]))
-            return noHit[0]
-        elif len(hitExactMatch) > 0:
+        if len(hitExactMatch) > 0:
             #print("hit exact match " + str(hitExactMatch[0]))
             return hitExactMatch[0]
         elif len(hitPartialMatch) > 0:
             #print("hit partial match " + str(hitPartialMatch[0]))
             return hitPartialMatch[0]
-        else:
+        elif len(hitButNoMatch) > 0:
             #print("hit but no match " + str(hitButNoMatch[0]))
             return hitButNoMatch[0]
+        else:
+            return noHit[0]
