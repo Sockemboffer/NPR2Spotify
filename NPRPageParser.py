@@ -10,7 +10,6 @@ import re
 # todo: create timer to gate page scanning
 # todo: Organize into folders in some way
 # todo: create json file name as playlist name?
-
 class NPRPageParser:
     def __init__(self):
         self.nprurl = ""
@@ -82,7 +81,6 @@ class NPRPageParser:
         for artist in artistDataList:
             strippedArtist = artist.strip()
             strippedArtistList.append(strippedArtist)
-        #print(strippedArtistList)
         artistData['Interlude Artist'] = strippedArtistList
         artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
         artistData['Spotify URI'] = None
@@ -99,18 +97,9 @@ class NPRPageParser:
             except ValueError as e:
                 print('invalid json: %s' % e)
                 return None # or: raise
-    
-    # def UpdateJsonData(self, filename):
-    #     with open(filename, "w", encoding='utf-8') as json_file:
-    #         try:
-    #             loadedJson = json.load(json_file)
-    #             return loadedJson
-    #         except ValueError as e:
-    #             print('invalid json: %s' % e)
-    #             return None # or: raise
 
+    # request/fetch artist data from json file
     def GetInterludes(self, jsonData):
-        # request/fetch artist data from json file
         interludes = list()
         for entry in jsonData:
             for value in entry:
@@ -118,29 +107,19 @@ class NPRPageParser:
                     interludes.append(value)
         return interludes
 
-    # Insert(?) new data into json file
     def UpdateInterludeStatuses(self, filename, playlistDetails, searchedTracks):
         jsonData = self.GetJsonData(filename)
         with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
-            #for track in searchedTracks: # each track needs to be updated with uri (if it has one) and track last scan time
             for pageItem in jsonData: # pageItem has keys and lists
-                #for item in pageItem: # loop over key
-                #print(pageItem)
-                if isinstance(pageItem, dict):
+                if isinstance(pageItem, dict): #for item in pageItem: # loop over key
                     for pageItemKey, pageItemValue in pageItem.items():
-                        #print(pageItemKey)
                         if pageItemKey == "Playlist Link":
-                            #print(pageItemValue)
-                            #print(playlistDetails["external_urls"]["spotify"])
                             pageItem["Playlist Link"] = playlistDetails["external_urls"]["spotify"]
-                            #print(pageItemValue)
                         if pageItemKey == "Playlist URI":
                             pageItem["Playlist URI"] = playlistDetails["uri"]
-                    print(pageItem)
             for pageItemKey in jsonData:
                 if isinstance(pageItemKey, list): # confirm we are in a pageItemKey that has an interlude list
                     for searchedTrack in searchedTracks: # Now loop over our searchedTracks looking for a matching interlude
-                        #print(pageItemKey)
                         for interlude in pageItemKey: # loop over each interlude track
                             if interlude["Interlude Song"] == searchedTrack["NPR Track Name"]: # we have a match to update
                                 if searchedTrack["Found Match Type"] == "HitExactMatch" or searchedTrack["Found Match Type"] == "HitPartialMatch":
@@ -148,57 +127,5 @@ class NPRPageParser:
                                     interlude['Last Checked'] = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
                                 else:
                                     interlude['Last Checked'] = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-                                #print(interlude)
             json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
             json_file.close()
-
-    def UpdateTrackStatus(self, track, uri):
-        # Added missed track scan date check back into json
-        # No more search configurations left
-        if (response_json["tracks"]["total"] == 0) or (response_json["tracks"]["items"][0]["artists"][0]["name"] != artists[0]):
-            missedTrack = " ••••••> " + "MISSING: " + track + " by: " + ", ".join(artists) + '\n'
-            self.missedTracksList.append(missedTrack)
-            print(missedTrack)
-            with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
-                for entry in jsonData:
-                    for value in entry:
-                        if isinstance(value, dict):
-                            #print(value)
-                            for k, v in value.items():
-                                if v == track:
-                                    # print(k)
-                                    for k, v in value.items():
-                                        if k == "Last Checked":
-                                            dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-                                            v = dt
-                                            value[k] = v
-                                            #print(k)
-                #print(response)
-                json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
-                json_file.close()
-            #print("NoBracketsAndSplit: " + json.dumps(response_json, indent=4) + '\n')
-        else:
-            # found artist and need to put it's uri back into json file
-            print("| Found Track: " + str(response_json["tracks"]["items"][0]["name"])  + ", by: " + response_json["tracks"]["items"][0]["artists"][0]["name"] + '\n')
-            self.all_uri_info.append(response_json["tracks"]["items"][0]["uri"])
-            with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
-                for entry in jsonData:
-                    for value in entry:
-                        if isinstance(value, dict):
-                            #print(value)
-                            for k, v in value.items():
-                                if v == track:
-                                    # print(k)
-                                    for k, v in value.items():
-                                        if k == "Spotify URI":
-                                            v = response_json["tracks"]["items"][0]["uri"]
-                                            value[k] = v
-                                            #print(k)
-                                        if k == "Last Checked":
-                                            self.songLastChecked = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-                                            value[k] = self.songLastChecked
-                                            #print(k)
-                                    
-                #print(jsonData)
-                json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
-                json_file.close()

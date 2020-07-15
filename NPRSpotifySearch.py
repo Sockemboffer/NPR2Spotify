@@ -7,7 +7,7 @@ from collections import Counter
 from unidecode import unidecode
 # todo: re-check parsed page for missing tracks to research
     # todo: check if playlist exsists
-    # todo: notify when previously not found track is found
+    # todo: notify when previously missing track is found
 # fix: double-quotes are have dangling escape slash in string from response?
 # todo: add additional search for each artist found
 class NPRSpotifySearch:
@@ -20,17 +20,14 @@ class NPRSpotifySearch:
 
     # GetTrackURIs transforms the data I send in, is that confusing to a user they get back different data?
     def GetTrackURIs(self, artistList):
-        # building uri list to use later in playlist fill-up
         choosenResponseForTracks = list()
         for dic in artistList:
             if "Interlude Artist" in dic:
                 self.nprArtistsName = dic["Interlude Artist"]
                 self.artists = dic.get("Interlude Artist")
-                #print(self.artists)
             if "Interlude Song" in dic:
                 self.nprTrackName = dic.get("Interlude Song")
                 self.track = dic.get("Interlude Song")
-                #print(self.track)
             # get spotify responses and convert to json
             responsesJSON = list()
             responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
@@ -53,57 +50,43 @@ class NPRSpotifySearch:
                 parsedResponses.append(self.ParseResponseJSON(response))
             # Categorize responses
             self.IdentifyResponses(parsedResponses)
-            #print(parsedResponses)
-            #print(" ")
             choosenResponseForTracks.append(self.CompareResponses(parsedResponses))
-            #print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
-        #print(json.dumps(choosenResponseForTracks, ensure_ascii=False, indent=4))
-        #print(str(len(choosenResponseForTracks)) + " songs parsed.")
+            print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
         return choosenResponseForTracks
 
     def RemoveBrackets(self, track):
         newTrack = track.translate({ord(i): None for i in '[]'})
-        #print("!! Removed brackets: " + newTrack)
         return newTrack
     
     def RemoveParenthesis(self, track):
         newTrack = track.translate({ord(i): None for i in '()'})
-        #print("!! Removed parenthesis: " + newTrack)
         return newTrack
 
     def RemoveCommonPhrases(self, track):
         stop_words = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature']
         stopwords_dict = Counter(stop_words)
         result = ' '.join([word for word in track.split() if word not in stopwords_dict])
-        #print("!! Removed common Phrases: " + result)
         return result
 
     def SearchExplicitTrackAndArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        #print(json.dumps(response.json(), ensure_ascii=False, indent=4))
-        # check for valid response status
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        #print(">> Explicit Track and Artist search finished.")
         return response.json()
     
     def SearchImplicitTrackExplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # check for valid response status
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        #print(">> Implicit Track and Explicit Artist search finished.")
         return response.json()
     
     def SearchImplicitTrackNoArtist(self, track):
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=1".format(parse.quote('"' + track + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # check for valid response status
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        #print(">> Implicit Track and No Artist search finished.")
         return response.json()
 
     def ParseResponseJSON(self, responseJSON):
@@ -130,7 +113,6 @@ class NPRSpotifySearch:
         identifiedResponses = list()
         for response in parsedResponsesJSON:
             if response["Found Track Name"] is None:
-                # no track found at all from spotify (Not sure if None is used when no track)
                 response["Found Match Type"] = "NoHit"
                 identifiedResponses.append(response)
             elif unidecode(str(response["Found Track Name"]).lower()) == unidecode(self.nprTrackName.lower()) and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
@@ -144,16 +126,13 @@ class NPRSpotifySearch:
                     identifiedResponses.append(response)
             else:
                 # hit but matches neither the track or artist exactly as npr had it
+                # stored but we'll count as a missed track later
                 response["Found Match Type"] = "HitButNoMatch"
                 identifiedResponses.append(response)
-            #print(json.dumps(response, ensure_ascii=False, indent=4))
-        # print(identifiedResponses)
-        # print(len(identifiedResponses))
         print("-- Responses identified.")
         return identifiedResponses
 
     def CompareResponses(self, parsedResponsesList):
-        #print(parsedResponsesList)
         noHit = list()
         hitExactMatch = list()
         hitPartialMatch = list()
@@ -167,15 +146,11 @@ class NPRSpotifySearch:
                 hitPartialMatch.append(response)
             else:
                 hitButNoMatch.append(response)
-
         if len(hitExactMatch) > 0:
-            #print("hit exact match " + str(hitExactMatch[0]))
             return hitExactMatch[0]
         elif len(hitPartialMatch) > 0:
-            #print("hit partial match " + str(hitPartialMatch[0]))
             return hitPartialMatch[0]
         elif len(hitButNoMatch) > 0:
-            #print("hit but no match " + str(hitButNoMatch[0]))
             return hitButNoMatch[0]
         else:
             return noHit[0]
