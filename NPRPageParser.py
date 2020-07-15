@@ -1,9 +1,8 @@
-import requests
-import json
-from string import punctuation
-from parsel import Selector
-import datetime
 import re
+import json
+import requests
+import datetime
+from parsel import Selector
 # note: earlist npr page with songs (it seems) Wednesday, July 26, 2000
 # note: https://www.npr.org/programs/morning-edition/2000/07/26/12988271/?showDate=2000-07-26
 # todo: generate valid npr page urls for morning and weekend edition
