@@ -122,24 +122,22 @@ class NPRPageParser:
     def UpdateInterludeStatuses(self, filename, playlistDetails, searchedTracks):
         jsonData = self.GetJsonData(filename)
         with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
-            for track in searchedTracks:
-                for pageList in jsonData: # page itself is a list of items consisting of Articles and Interludes
-                    for item in pageList:
-                        if item == "Playlist Link":
-                            item = playlistDetails["external_urls"]["spotify"]
-                        if item == "Playlist URI":
-                            item = playlistDetails["uri"]
-                    for interlude in pageList: # loop over each type articles and interlude (dictionary)
-                        if isinstance(interlude, dict): # confirm it's the type we want
-                            for k, v in interlude.items(): # loop over each found interlude looking for track to update
-                                if v == track["NPR Track Name"]: # confirm we have the right interlude by comparing track name
-                                    #print(interlude)
-                                    for v in k:
-                                        if k == "Spotify URI":
-                                            v = track["Found Track URI"]
-                                        if k == "Last Checked":
-                                            v = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-                                    #print(interlude)
+            #for track in searchedTracks: # each track needs to be updated with uri (if it has one) and track last scan time
+            for pageItem in jsonData: # pageItem has keys and lists
+                #for item in pageItem: # loop over key
+                #print(pageItem)
+                if pageItem == "Playlist Link":
+                    pageItem = playlistDetails["external_urls"]["spotify"]
+                if pageItem == "Playlist URI":
+                    pageItem = playlistDetails["uri"]
+                #print(pageItem)
+            for pageItemKey, pageItemValue in jsonData:
+                if isinstance(pageItemValue, dict): # confirm we are in a pageItemKey interlude dictionary
+                    for searchedTrack in searchedTracks: # Now loop over our searchedTracks looking for a matching interlude
+                        print(pageItemKey)
+                        if pageItemValue['Interlude Song'] == searchedTrack["NPR Track Name"]: # we have a match to update
+                            pageItemValue['Spotify URI'] = track["Found Track URI"]
+                            pageItemValue['Last Checked'] = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
             json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
             json_file.close()
 
