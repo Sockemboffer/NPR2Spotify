@@ -1,25 +1,28 @@
 from NPRPageParser import NPRPageParser
-from NPRPlaylistCreator import NPRPlaylistCreator
 from NPRSpotifySearch import NPRSpotifySearch
+from NPRPlaylistCreator import NPRPlaylistCreator
 fileName = "NPRPageParser.json"
 
-NPRPageParser = NPRPageParser() # Instance of page parser
+# Parsing an NPR page for it's interlude track data
+NPRPageParser = NPRPageParser()
 NPRPageParser.nprurl = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/" # turn into create url function later
 pageHTML = NPRPageParser.RequestURL()
 NPRPageParser.StoryParser(pageHTML, fileName) # outputs the file
 jsonFromFile = NPRPageParser.GetJsonData(fileName) # loading from file itself
-interludes = NPRPageParser.GetInterludes(jsonFromFile)
+interludes = NPRPageParser.GetInterludes(jsonFromFile) # grabs just the interlude data from json file
 
+# Getting a playlist created to add tracks, cover art, and description for
 playlistCreator = NPRPlaylistCreator()
-playlistDetails = playlistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to fix for automation
+playlistDetails = playlistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to solution for automation
 
+# Transforming our parsed interlude file data into search result data
 NPRSpotifySearch = NPRSpotifySearch()
 searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
-#print(searchedTracks)
-# How/what should I do with the responses with rechecking in the future
-playlistCreator.UpdatePlaylistDescription(searchedTracks, playlistDetails["id"], NPRPageParser.nprurl) #'''trying to reduce missed list'''
+
+# Updating the playlist with desciption of missing tracks (if any), cover art, and tracks
+playlistCreator.UpdatePlaylistDescription(searchedTracks, playlistDetails["id"], NPRPageParser.nprurl)
 playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistDetails["id"])
 playlistCreator.AddTracksToPlaylist(searchedTracks, playlistDetails["id"])
 
-# Update json file with playlist details and track statuses
+# Transforming the results data back into the parsed interlude data, updating, and re-saving to file
 NPRPageParser.UpdateInterludeStatuses(fileName, playlistDetails, searchedTracks)
