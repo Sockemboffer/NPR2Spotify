@@ -1,13 +1,9 @@
 import json
-import requests
-from secrets import spotify_user_id, spotipyUserToken
-from urllib import parse
-import re
-import datetime
-from NPRPageParser import NPRPageParser
-from ResponsesHandle import ResponseException
-from PIL import Image
 import base64
+import requests
+import datetime
+from ResponsesHandle import ResponseException
+from secrets import spotify_user_id, spotipyUserToken
 # note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
 # todo: function to recheck missing songs210
 # todo: functions to check and pass correct cover art to new playlist
