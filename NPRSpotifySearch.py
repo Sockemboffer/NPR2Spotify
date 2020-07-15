@@ -8,7 +8,6 @@ from unidecode import unidecode
 # todo: re-check parsed page for missing tracks to research
     # todo: check if playlist exsists
     # todo: notify when previously not found track is found
-# todo: when searching, push all track and artist names to lowercase
 # fix: double-quotes are have dangling escape slash in string from response?
 # todo: add additional search for each artist found
 class NPRSpotifySearch:
@@ -56,8 +55,6 @@ class NPRSpotifySearch:
             self.IdentifyResponses(parsedResponses)
             #print(parsedResponses)
             #print(" ")
-            # compare responses
-            # ======================================= are my choosen response lists correct?
             choosenResponseForTracks.append(self.CompareResponses(parsedResponses))
             #print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
         #print(json.dumps(choosenResponseForTracks, ensure_ascii=False, indent=4))
@@ -128,23 +125,10 @@ class NPRSpotifySearch:
             parsed["Found Track URI"] = responseJSON["tracks"]["items"][0]["uri"]
             parsed["Found Match Type"] = ""
             return parsed
-    # ==============================================double check compared responses
+
     def IdentifyResponses(self, parsedResponsesJSON):
         identifiedResponses = list()
         for response in parsedResponsesJSON:
-            # # str0 = str(response["Found Track Name"]).lower()
-            # # str1 = self.nprTrackName.lower()
-            # str2 = str(response["Found Artist Name"]).lower()
-            # str3 = self.nprArtistsName[0].lower()
-            # # print(str0)
-            # # print(str1)
-            # print(str2)
-            # print(str3)
-            # # print("<"+ str(response["Found Track Name"]).lower() + ">")
-            # # print("<"+ self.nprTrackName.lower() + ">")
-            # print("<"+ str(response["Found Artist Name"]).lower() + ">")
-            # print("<"+ self.nprArtistsName[0].lower() + ">")
-            # print(" ")
             if response["Found Track Name"] is None:
                 # no track found at all from spotify (Not sure if None is used when no track)
                 response["Found Match Type"] = "NoHit"
@@ -167,7 +151,7 @@ class NPRSpotifySearch:
         # print(len(identifiedResponses))
         print("-- Responses identified.")
         return identifiedResponses
-    # Isn't returning correctly created list ####################################################
+
     def CompareResponses(self, parsedResponsesList):
         #print(parsedResponsesList)
         noHit = list()
@@ -183,7 +167,7 @@ class NPRSpotifySearch:
                 hitPartialMatch.append(response)
             else:
                 hitButNoMatch.append(response)
-        # ============
+
         if len(hitExactMatch) > 0:
             #print("hit exact match " + str(hitExactMatch[0]))
             return hitExactMatch[0]

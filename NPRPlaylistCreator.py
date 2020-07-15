@@ -23,8 +23,9 @@ class NPRPlaylistCreator:
         if response.status_code != 201:
             raise ResponseException(response.status_code)
         response_json = response.json()
+        print(json.dumps(response_json, indent=4))
         print("-- Playlist created.")
-        return response_json["id"]
+        return response_json
 
     def AddTracksToPlaylist(self, searchedTracks, playlistID):
         tracksURIs = list()

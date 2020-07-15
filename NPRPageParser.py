@@ -99,6 +99,15 @@ class NPRPageParser:
             except ValueError as e:
                 print('invalid json: %s' % e)
                 return None # or: raise
+    
+    # def UpdateJsonData(self, filename):
+    #     with open(filename, "w", encoding='utf-8') as json_file:
+    #         try:
+    #             loadedJson = json.load(json_file)
+    #             return loadedJson
+    #         except ValueError as e:
+    #             print('invalid json: %s' % e)
+    #             return None # or: raise
 
     def GetInterludes(self, jsonData):
         # request/fetch artist data from json file
@@ -110,34 +119,29 @@ class NPRPageParser:
         return interludes
 
     # Insert(?) new data into json file
-    def UpdateInterlude(self, filename, artist, track, response):
+    def UpdateInterludeStatuses(self, filename, playlistDetails, searchedTracks):
         jsonData = self.GetJsonData(filename)
-        for pageList in jsonData: # page itself is a list of items consisting of Articles and Interludes
-            for interlude in page:
-                if isinstance(interlude, dict): # interludes are dictionaries
-                    for k, v in interlude.items(): # loop over each found interlude looking for track to update
-                        if v == track: # found matching track so we know we're in the right interlude
-                            print(interlude)
-                            for k, v in interlude.items():
-                                interlude['Spotify URI'] = "33" # response uri
-                                interlude['Last Checked'] = "felkjf"
-                            print(interlude)
-                        # if kDicData == "Playlist Link":
-                        #     #print(json.dumps(response_json))
-                        #     for kRes, vRes in response_json.items():
-                        #         #print(k)
-                        #         if isinstance(vRes, dict) and ("spotify" in vRes):
-                        #             dicInJson[kDicData] = vRes["spotify"]
-                        #             #print(kDicData)
-                        # elif kDicData == "Playlist URI":
-                        #     #print(json.dumps(response_json))
-                        #     for kRes, vRes in response_json.items():
-                        #         #print(k)
-                        #         if kRes == "uri":
-                        #             dicInJson[kDicData] = vRes
-                        #             #print(kDicData)
-        #json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
-        json_file.close()
+        with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
+            for track in searchedTracks:
+                for pageList in jsonData: # page itself is a list of items consisting of Articles and Interludes
+                    for item in pageList:
+                        if item == "Playlist Link":
+                            item = playlistDetails["external_urls"]["spotify"]
+                        if item == "Playlist URI":
+                            item = playlistDetails["uri"]
+                    for interlude in pageList: # loop over each type articles and interlude (dictionary)
+                        if isinstance(interlude, dict): # confirm it's the type we want
+                            for k, v in interlude.items(): # loop over each found interlude looking for track to update
+                                if v == track["NPR Track Name"]: # confirm we have the right interlude by comparing track name
+                                    #print(interlude)
+                                    for v in k:
+                                        if k == "Spotify URI":
+                                            v = track["Found Track URI"]
+                                        if k == "Last Checked":
+                                            v = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                    #print(interlude)
+            json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
+            json_file.close()
 
     def UpdateTrackStatus(self, track, uri):
         # Added missed track scan date check back into json
