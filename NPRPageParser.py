@@ -143,8 +143,11 @@ class NPRPageParser:
                         #print(pageItemKey)
                         for interlude in pageItemKey: # loop over each interlude track
                             if interlude["Interlude Song"] == searchedTrack["NPR Track Name"]: # we have a match to update
-                                interlude['Spotify URI'] = searchedTrack["Found Track URI"]
-                                interlude['Last Checked'] = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                if searchedTrack["Found Match Type"] == "HitExactMatch" or searchedTrack["Found Match Type"] == "HitPartialMatch":
+                                    interlude['Spotify URI'] = searchedTrack["Found Track URI"]
+                                    interlude['Last Checked'] = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+                                else:
+                                    interlude['Last Checked'] = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
                                 #print(interlude)
             json.dump(jsonData, json_file, ensure_ascii=False, indent=4)
             json_file.close()
