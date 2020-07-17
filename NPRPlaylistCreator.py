@@ -76,29 +76,29 @@ class NPRPlaylistCreator:
         if missingTrack == True:
             print("-- Missing Tracks jpg selected.")
             if (day != "Saturday") and (day != "Sunday"):
-                with open("npr_me.jpg", "rb") as im:
+                with open("npr_me-missingtracks.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
                     return encoded_string    
             elif (day != "Sunday"):
-                with open("npr_we_sat.jpg", "rb") as im:
+                with open("npr_we_sat-missingtracks.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
                     return encoded_string
             else:
-                with open("npr_we_sun.jpg", "rb") as im:
+                with open("npr_we_sun-missingtracks.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
                     return encoded_string
         else:
             print("-- All Tracks found jpg selected.")
             if (day != "Saturday") and (day != "Sunday"):
-                with open("npr_me.jpg", "rb") as im:
+                with open("npr_me-alltracks.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
                     return encoded_string    
             elif (day != "Sunday"):
-                with open("npr_we_sat.jpg", "rb") as im:
+                with open("npr_we_sat-alltracks.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
                     return encoded_string
             else:
-                with open("npr_we_sun.jpg", "rb") as im:
+                with open("npr_we_sun-alltracks.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
                     return encoded_string
 
