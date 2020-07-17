@@ -106,6 +106,7 @@ class NPRPageParser:
                     interludes.append(value)
         return interludes
 
+    # After we've searched spotify and found our results, push some data back into the json file for future rescans
     def UpdateInterludeStatuses(self, filename, playlistDetails, searchedTracks):
         jsonData = self.GetJsonData(filename)
         with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:

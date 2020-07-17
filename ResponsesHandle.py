@@ -1,3 +1,4 @@
+# got this from some place else, need to understand Exception class better
 class ResponseException(Exception):
     def __init__(self, status_code, message=""):
         self.message = message

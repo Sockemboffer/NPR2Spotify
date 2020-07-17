@@ -18,7 +18,7 @@ class NPRSpotifySearch:
         self.track = ""
         self.artists = list()
 
-    # GetTrackURIs transforms the data I send in, is that confusing to a user they get back different data?
+    # GetTrackURIs transforms the data I send it, is that confusing to a user they get back different data?
     def GetTrackURIs(self, artistList):
         choosenResponseForTracks = list()
         for dic in artistList:
@@ -50,6 +50,7 @@ class NPRSpotifySearch:
                 parsedResponses.append(self.ParseResponseJSON(response))
             # Categorize responses
             self.IdentifyResponses(parsedResponses)
+            # Very basic weighting on if I accept a track found or not
             choosenResponseForTracks.append(self.CompareResponses(parsedResponses))
             print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
         return choosenResponseForTracks
@@ -68,6 +69,8 @@ class NPRSpotifySearch:
         result = ' '.join([word for word in track.split() if word not in stopwords_dict])
         return result
 
+    # Explicit Track or Artist means I define a type encoded in what I send: eg. track:"Smells like teen spirit" artist:"Nirvana"
+    # without those it can mean different results, etc.
     def SearchExplicitTrackAndArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
@@ -89,6 +92,7 @@ class NPRSpotifySearch:
             raise ResponseException(response.status_code)
         return response.json()
 
+    # Take the responses and strip out what I want/need for later into my own dictionary
     def ParseResponseJSON(self, responseJSON):
         parsed = dict()
         if responseJSON["tracks"]["total"] == 0:
@@ -109,6 +113,8 @@ class NPRSpotifySearch:
             parsed["Found Match Type"] = ""
             return parsed
 
+    # Doing some simple identifying of my NPR page data against the my parsed response json data
+    # to determin how the response "hit" or not
     def IdentifyResponses(self, parsedResponsesJSON):
         identifiedResponses = list()
         for response in parsedResponsesJSON:
@@ -121,9 +127,10 @@ class NPRSpotifySearch:
                 response["Found Match Type"] = "HitExactMatch"
                 identifiedResponses.append(response)
             elif unidecode(str(response["Found Track Name"]).lower()) != unidecode(self.nprTrackName.lower()) and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
-                    # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
-                    response["Found Match Type"] = "HitPartialMatch"
-                    identifiedResponses.append(response)
+                # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
+                # leave up to community to help vet incorrect picks here
+                response["Found Match Type"] = "HitPartialMatch"
+                identifiedResponses.append(response)
             else:
                 # hit but matches neither the track or artist exactly as npr had it
                 # stored but we'll count as a missed track later
@@ -132,6 +139,7 @@ class NPRSpotifySearch:
         print("-- Responses identified.")
         return identifiedResponses
 
+    # Take the identified "hit" responses and do a shity "weighting"
     def CompareResponses(self, parsedResponsesList):
         noHit = list()
         hitExactMatch = list()
