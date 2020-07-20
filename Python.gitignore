@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+secrets.py
+_scratchPad.py
+.cache-sockemboffer.py
 
 # C extensions
 *.so
