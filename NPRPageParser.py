@@ -109,7 +109,7 @@ class NPRPageParser:
     # After we've searched spotify and found our results, push some data back into the json file for future rescans
     def UpdateJSONFile(self, filename, playlistDetails, searchedTracks):
         jsonData = self.LoadJSONFile(filename)
-        with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
+        with open(filename, 'w', encoding='utf-8') as json_file:
             for pageItem in jsonData: # pageItem has keys and lists
                 if isinstance(pageItem, dict): #for item in pageItem: # loop over key
                     for pageItemKey, pageItemValue in pageItem.items():
