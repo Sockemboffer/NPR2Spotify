@@ -19,7 +19,7 @@ playlistDetails = playlistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"
 NPRSpotifySearch = NPRSpotifySearch()
 searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
 
-# Updating the playlist with desciption of missing tracks (if any), cover art, and tracks
+# Updating the playlist with desciption of missing tracks (if any), adding cover art, and adding tracks
 playlistCreator.UpdatePlaylistDescription(searchedTracks, playlistDetails["id"], NPRPageParser.nprurl)
 playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistDetails["id"])
 playlistCreator.AddTracksToPlaylist(searchedTracks, playlistDetails["id"])
