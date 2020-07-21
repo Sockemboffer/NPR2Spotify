@@ -7,9 +7,9 @@ fileName = "NPRPageParser.json"
 NPRPageParser = NPRPageParser()
 NPRPageParser.nprurl = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/" # turn into create url function later
 pageHTML = NPRPageParser.RequestURL()
-NPRPageParser.StoryParser(pageHTML, fileName) # outputs the file
-jsonFromFile = NPRPageParser.GetJsonData(fileName) # loading from file itself
-interludes = NPRPageParser.GetInterludes(jsonFromFile) # grabs just the interlude data from json file
+NPRPageParser.GetNPRStory(pageHTML, fileName) # outputs the file
+jsonFromFile = NPRPageParser.LoadJSONFile(fileName) # loading from file itself
+interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json file
 
 # Getting a playlist created to add tracks, cover art, and description for
 playlistCreator = NPRPlaylistCreator()
@@ -25,4 +25,4 @@ playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], pl
 playlistCreator.AddTracksToPlaylist(searchedTracks, playlistDetails["id"])
 
 # Transforming the results data back into the parsed interlude data, updating, and re-saving to file
-NPRPageParser.UpdateInterludeStatuses(fileName, playlistDetails, searchedTracks)
+NPRPageParser.UpdateJSONFile(fileName, playlistDetails, searchedTracks)

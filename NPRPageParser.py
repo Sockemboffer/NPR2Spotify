@@ -23,25 +23,25 @@ class NPRPageParser:
         return request.text
 
     # Grab the Story block of an npr page to parse article and interulde data into a json file
-    def StoryParser(self, pagehtml, filename):
+    def GetNPRStory(self, pagehtml, filename):
         selector = Selector(text=pagehtml)
         with open(filename, 'w', encoding='utf-8') as json_file:
             pageData = list()
-            pageData.append(self.PageRequest(selector))
+            pageData.append(self.GetStoryInfo(selector))
             for item in selector.xpath('.//div[@id="story-list"]/*'):
                 if item.attrib['class'] == 'rundown-segment':
-                    newArticleData = self.ArticleRequest(item)
+                    newArticleData = self.GetArticleInfo(item)
                     pageData.append(newArticleData)
                 elif item.attrib['class'] == 'music-interlude responsive-rundown':
                     newInterludeInfo = list()
                     for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
-                        newInterludeInfo.append(self.InterludeRequest(artist))
+                        newInterludeInfo.append(self.GetInterludeInfo(artist))
                     pageData.append(newInterludeInfo)
             json.dump(pageData, json_file, ensure_ascii=False, indent=4)
         print("-- NPR Page file created.")
 
     # Grab various info about the whole NPR article for that date
-    def PageRequest(self, pageSelector):
+    def GetStoryInfo(self, pageSelector):
         pageData = dict()
         pageData['Page Link'] = self.nprurl
         pageData['Edition'] = pageSelector.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
@@ -59,20 +59,20 @@ class NPRPageParser:
         return pageData
 
     # Grab multiple by-line authors
-    def ArticleByLineRequest(self, article):
+    def GetArticleAuthors(self, article):
         return article.xpath('.//span[@class="byline byline--inline"]/text()').getall()
 
     # Grab data about each article         
-    def ArticleRequest(self, article):
+    def GetArticleInfo(self, article):
         articleData = dict()
         articleData['Article'] = article.xpath('./div/h3[@class="rundown-segment__title"]/a/text()').get()
         articleData['Link'] = article.xpath('./div/h3[@class="rundown-segment__title"]/a/@href').get()
         articleData['Slug'] = article.xpath('./div/h4[@class="rundown-segment__slug"]/a/text()').get()
-        articleData['By'] = self.ArticleByLineRequest(article)
+        articleData['By'] = self.GetArticleAuthors(article)
         return articleData
 
     # Grab data about each interlude
-    def InterludeRequest(self, interlude):
+    def GetInterludeInfo(self, interlude):
         artistData = dict()
         # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
         artistDataList = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
@@ -87,7 +87,7 @@ class NPRPageParser:
         return artistData
 
     # Load json file data, check to ensure it's valid first
-    def GetJsonData(self, filename):
+    def LoadJSONFile(self, filename):
         with open(filename, "r", encoding='utf-8') as json_file:
             try:
                 loadedJson = json.load(json_file)
@@ -98,7 +98,7 @@ class NPRPageParser:
                 return None # or: raise
 
     # request/fetch artist data from json file
-    def GetInterludes(self, jsonData):
+    def GetArtistsAndTrack(self, jsonData):
         interludes = list()
         for entry in jsonData:
             for value in entry:
@@ -107,8 +107,8 @@ class NPRPageParser:
         return interludes
 
     # After we've searched spotify and found our results, push some data back into the json file for future rescans
-    def UpdateInterludeStatuses(self, filename, playlistDetails, searchedTracks):
-        jsonData = self.GetJsonData(filename)
+    def UpdateJSONFile(self, filename, playlistDetails, searchedTracks):
+        jsonData = self.LoadJSONFile(filename)
         with open('NPRPageParser.json', 'w', encoding='utf-8') as json_file:
             for pageItem in jsonData: # pageItem has keys and lists
                 if isinstance(pageItem, dict): #for item in pageItem: # loop over key
