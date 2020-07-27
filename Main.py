@@ -4,7 +4,6 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 fileName = "NPRPageParser.json"
 
 # Parsing an NPR page for it's interlude track data
-NPRPageParser = NPRPageParser()
 NPRPageParser.nprurl = "https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/" # turn into create url function later
 pageHTML = NPRPageParser.RequestURL()
 NPRPageParser.GetNPRStory(pageHTML, fileName) # outputs the file
