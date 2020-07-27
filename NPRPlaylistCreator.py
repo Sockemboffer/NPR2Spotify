@@ -10,7 +10,7 @@ from secrets import spotify_user_id, spotipyUserToken
 # todo: fix desciption from being sent proper utf-8 encoded characters
 class NPRPlaylistCreator:
 
-    def CreatePlaylist(self, playlistName):
+    def CreatePlaylist(playlistName):
         # Playlist max character name limit is 100
         request_body = json.dumps({"name": playlistName, "public": False})
         query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id)
@@ -21,7 +21,7 @@ class NPRPlaylistCreator:
         print("-- Playlist created.")
         return response_json
 
-    def AddTracksToPlaylist(self, searchedTracks, playlistID):
+    def AddTracksToPlaylist(searchedTracks, playlistID):
         tracksURIs = list()
         urisData = dict()
         for track in searchedTracks:
@@ -35,15 +35,15 @@ class NPRPlaylistCreator:
             raise ResponseException(response.status_code)
         print("-- Playlist tracks added.")
 
-    def AddCoverArtToPlaylist(self, searchedTracks, day, playlistID):
-        encoded_string = self.GetNewCover(searchedTracks, day)
+    def AddCoverArtToPlaylist(searchedTracks, day, playlistID):
+        encoded_string = NPRPlaylistCreator.GetNewCover(searchedTracks, day)
         query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, playlistID) 
         response = requests.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
         if response.status_code != 202:
             raise ResponseException(response.status_code)
         print("-- Playlist cover image added.")
 
-    def UpdatePlaylistDescription(self, searchedTracks, playlistID, nprURL):
+    def UpdatePlaylistDescription(searchedTracks, playlistID, nprURL):
         # 300 character limit playlist desciption
         # returns response ok if over limit, but no description will be made.
         missedTracksList = list()
@@ -65,7 +65,7 @@ class NPRPlaylistCreator:
             raise ResponseException(response.status_code)
         print("-- Playlist description updated.")
 
-    def GetNewCover(self, searchedTracks, day):
+    def GetNewCover(searchedTracks, day):
         missingTrack = False
         for track in searchedTracks:
             if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch"):
@@ -99,5 +99,3 @@ class NPRPlaylistCreator:
                 with open("npr_we_sun-alltracks.jpg", "rb") as im:
                     encoded_string = base64.b64encode(im.read())
                     return encoded_string
-
-

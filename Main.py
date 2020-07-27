@@ -12,17 +12,16 @@ jsonFromFile = NPRPageParser.LoadJSONFile(fileName) # loading from file itself
 interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json file
 
 # Getting a playlist created to add tracks, cover art, and description for
-playlistCreator = NPRPlaylistCreator()
-playlistDetails = playlistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to solution for automation
+playlistDetails = NPRPlaylistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to solution for automation
 
 # Transforming our parsed interlude file data into search result data
 NPRSpotifySearch = NPRSpotifySearch()
 searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
 
 # Updating the playlist with desciption of missing tracks (if any), adding cover art, and adding tracks
-playlistCreator.UpdatePlaylistDescription(searchedTracks, playlistDetails["id"], NPRPageParser.nprurl)
-playlistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistDetails["id"])
-playlistCreator.AddTracksToPlaylist(searchedTracks, playlistDetails["id"])
+NPRPlaylistCreator.UpdatePlaylistDescription(searchedTracks, playlistDetails["id"], NPRPageParser.nprurl)
+NPRPlaylistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistDetails["id"])
+NPRPlaylistCreator.AddTracksToPlaylist(searchedTracks, playlistDetails["id"])
 
 # Transforming the results data back into the parsed interlude data, updating, and re-saving to file
 NPRPageParser.UpdateJSONFile(fileName, playlistDetails, searchedTracks)
