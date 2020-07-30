@@ -3,24 +3,75 @@ import json
 import requests
 import datetime
 from parsel import Selector
-# note: earlist npr page with songs (it seems) Wednesday, July 26, 2000
-# note: https://www.npr.org/programs/morning-edition/2000/07/26/12988271/?showDate=2000-07-26
 # todo: generate valid npr page urls for morning and weekend edition
+    # https://www.npr.org/programs/morning-edition/archive?date=7-31-2000 26th seems to be first where interludes are entered
+    # https://www.npr.org/programs/morning-edition/2000/07/31/12993145/
+    # https://www.npr.org/programs/morning-edition/archive?date=1-2-1996 first entry
+
+    # https://www.npr.org/programs/weekend-edition-saturday/archive?date=7-31-2000
+    # https://www.npr.org/programs/weekend-edition-saturday/2000/07/29/13066500/
+    # https://www.npr.org/programs/weekend-edition-saturday/archive?date=3-11-1995 # first entry
+
+    # https://www.npr.org/programs/weekend-edition-sunday/archive?date=7-31-2000
+    # https://www.npr.org/programs/weekend-edition-sunday/2000/07/30/12993115/
+    # https://www.npr.org/programs/weekend-edition-sunday/archive?date=1-4-1998 # first entry
+    # page links contain a unique article data ID that'll need to be captured for a correctly formated link
+    # 
 # todo: create timer to gate page scanning
-# todo: Organize into folders in some way
-# todo: create json file name as playlist name?
+
+class Weekday():
+    MONDAY = 1
+    TUESDAY = 2
+    WEDNESDAY = 3
+    THURSDAY = 4
+    FRIDAY = 5
+    SATURDAY = 6
+    SUNDAY = 7
+
+class Months():
+    JANUARY = 1
+    FEBUARY = 2
+    MARCH = 3
+    APRIL = 4
+    MAY = 5
+    JUNE = 6
+    JULY = 7
+    AUGUST = 8
+    SEPTEMBER = 9
+    OCTOBER = 10
+    NOVEMBER = 11
+    DECEMBER = 12
+
 class NPRPageParser:
     def __init__(self):
         self.nprurl = ""
 
     # Generate a valid date to insert into an npr link
-    def CreateURLDate(self):
+    def NPRArchiveURLDateRange():
+        startDate = datetime.datetime(2000, 7, 1)
+        endDate = datetime.datetime(2002, 1, 1)
+        dateObj = startDate
+        for year in range(dateObj.year, endDate.year, 1):
+            #dateObj += datetime.timedelta(days=1)
+            while dateObj != endDate:
+                if dateObj.day == 1:
+                    print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
+                dateObj += datetime.timedelta(days=1)
+                # if dateObj.isoweekday() == Weekday.SATURDAY:
+                #     print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
+                # elif dateObj.isoweekday() == Weekday.SUNDAY:
+                #     print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
+                # else:
+                #     print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
+                # dateObj += datetime.timedelta(days=1)
+                # print("https://www.npr.org/programs/morning-edition/archive?date=7-31-2000")
         return
 
     # Request the html at link address
     def RequestURL():
         request = requests.get(NPRPageParser.nprurl)
-        return request.text
+        if request.reason != "OK":
+            print("Link: " + NPRPageParser.nprurl + "\n" + request.reason)
 
     # Grab the Story block of an npr page to parse article and interulde data into a json file
     def GetNPRStory(pagehtml, filename):
