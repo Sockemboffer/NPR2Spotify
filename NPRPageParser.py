@@ -1,23 +1,37 @@
 import re
 import json
+import time
 import requests
 import datetime
 from parsel import Selector
+#import urllib.parse import urlparse
 # todo: generate valid npr page urls for morning and weekend edition
-    # https://www.npr.org/programs/morning-edition/archive?date=7-31-2000 26th seems to be first where interludes are entered
+    # https://www.npr.org/programs/morning-edition/archive?date=6-1-2020 26th seems to be first where interludes are entered
     # https://www.npr.org/programs/morning-edition/2000/07/31/12993145/
     # https://www.npr.org/programs/morning-edition/archive?date=1-2-1996 first entry
 
-    # https://www.npr.org/programs/weekend-edition-saturday/archive?date=7-31-2000
+    # https://www.npr.org/programs/weekend-edition-saturday/archive?date=6-1-2020
     # https://www.npr.org/programs/weekend-edition-saturday/2000/07/29/13066500/
     # https://www.npr.org/programs/weekend-edition-saturday/archive?date=3-11-1995 # first entry
 
-    # https://www.npr.org/programs/weekend-edition-sunday/archive?date=7-31-2000
+    # https://www.npr.org/programs/weekend-edition-sunday/archive?date=6-1-2020
     # https://www.npr.org/programs/weekend-edition-sunday/2000/07/30/12993115/
     # https://www.npr.org/programs/weekend-edition-sunday/archive?date=1-4-1998 # first entry
     # page links contain a unique article data ID that'll need to be captured for a correctly formated link
     # 
 # todo: create timer to gate page scanning
+
+datesToSort = [
+"https://www.npr.org/programs/morning-edition/2018/7/31/662433741?showDate=2018-10-31",
+"https://www.npr.org/programs/morning-edition/2018/7/1/661993253/morning-edition-for-october-30-2018?showDate=2018-10-30",
+"https://www.npr.org/programs/morning-edition/2018/7/29/661661069/morning-edition-for-october-29-2018?showDate=2018-10-29",
+"https://www.npr.org/programs/morning-edition/2018/7/26/660850176/morning-edition-for-october-26-2018?showDate=2018-10-26",
+"https://www.npr.org/programs/morning-edition/2018/7/7/660436473/morning-edition-for-october-25-2018?showDate=2018-10-25",
+"https://www.npr.org/programs/morning-edition/2018/7/24/660112704/morning-edition-for-october-24-2018?showDate=2018-10-24",
+"https://www.npr.org/programs/morning-edition/2018/7/11/659744952/morning-edition-for-october-23-2018?showDate=2018-10-23",
+"https://www.npr.org/programs/morning-edition/2018/7/10/659400612/morning-edition-for-october-22-2018?showDate=2018-10-22",
+"https://www.npr.org/programs/morning-edition/2018/7/19/658721177?showDate=2018-10-19",
+"https://www.npr.org/programs/morning-edition/2018/7/4/658364589/morning-edition-for-october-18-2018?showDate=2018-10-18"]
 
 class Weekday():
     MONDAY = 1
@@ -49,22 +63,69 @@ class NPRPageParser:
     # Generate a valid date to insert into an npr link
     def NPRArchiveURLDateRange():
         startDate = datetime.datetime(2000, 7, 1)
-        endDate = datetime.datetime(2002, 1, 1)
+        endDate = datetime.datetime(2000, 7, 1)
         dateObj = startDate
-        for year in range(dateObj.year, endDate.year, 1):
-            #dateObj += datetime.timedelta(days=1)
-            while dateObj != endDate:
-                if dateObj.day == 1:
-                    print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
-                dateObj += datetime.timedelta(days=1)
-                # if dateObj.isoweekday() == Weekday.SATURDAY:
-                #     print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
-                # elif dateObj.isoweekday() == Weekday.SUNDAY:
-                #     print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
-                # else:
-                #     print("https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, dateObj.day, dateObj.year))
-                # dateObj += datetime.timedelta(days=1)
-                # print("https://www.npr.org/programs/morning-edition/archive?date=7-31-2000")
+        # Any archive date always returns the last day of the month as the starting point to scroll from to get more days
+        # Generate archive month link - choose 1st date so no need to check 28th - 31st
+            # get each article day link until no more or 1st day of next month
+                # if 1st of month, generate new archive link
+                # if not 1st of following month, get xpath to <a rel="nofollow" href="/programs/morning-edition/archive?date=2000-08-25&amp;eid=13001962">More from Morning Edition</a> UTF-8 decode
+                    # create new page to continue getting current month day links
+        with open("NPRArchiveLinks.json", 'w', encoding='utf-8') as json_file:
+            while startDate <= endDate:
+                year = dict()
+                year[startDate.strftime("%Y")] = ""
+                monthStart = startDate.month
+                while startDate.month == monthStart:
+                    month = dict()
+                    month[startDate.strftime("%B")] = ""
+                    dayLinks = list()
+                    # Archive link always starts the articles at the last valid day-type of that month's date; hard code the 1st for every day-type
+                    # Grab all Sunday links for this month
+                    sunday = "https://www.npr.org/programs/weekend-edition-sunday/archive?date={}-{}-{}".format(dateObj.month, 1, dateObj.year)
+                    request = requests.get(sunday).text
+                    selector = Selector(text=request)
+                    for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                        if item.attrib['class'] != 'episode-list__header':
+                            dayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
+                    # Grab all Saturday links for this month
+                    saturday = "https://www.npr.org/programs/weekend-edition-saturday/archive?date={}-{}-{}".format(dateObj.month, 1, dateObj.year)
+                    request = requests.get(saturday).text
+                    selector = Selector(text=request)
+                    for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                        if item.attrib['class'] != 'episode-list__header':
+                            dayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
+                    # Grab all Weekday links for this month
+                    weekday = "https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(dateObj.month, 1, dateObj.year)
+                    request = requests.get(weekday).text
+                    selector = Selector(text=request)
+                    for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                        if item.attrib['class'] != 'episode-list__header':
+                            dayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
+                    # weekday links will always need to parse several pages to grab them all
+                    loadMoreDaysLink = selector.xpath('//div[@id="scrolllink"]/a/@href').get()
+                    time.sleep(0.5)
+                    moreDaysLink = "https://www.npr.org" + loadMoreDaysLink
+                    print(moreDaysLink)
+                    requestNew = requests.get(moreDaysLink).text
+                    selectorNew = Selector(text=requestNew)
+                    for item in selectorNew.xpath('.//div[@id="episode-list"]/*'):
+                        if item.attrib['class'] != 'episode-list__header':
+                            articleDayLink = dict()
+                            articleDayLink['Article Day Link'] = item.xpath('./h2[@class="program-show__title"]/a/@href').get()
+                            linkData.append(articleDayLink)
+                    # Prune out days from dangling months (mainly from saturday/sunday but, probably every now and again on weekday collections)
+                        # some pruning opperation
+                    # Sort links after pruning so in proper order
+                    lambdaMonthDay = "/" + str(startDate.month) + "/" + str(startDate.day)
+                    days = dict()
+                    days[startDate.strftime("%d")] = ""
+                    result = sorted(datesToSort, key=lambda x: int(x.partition("/" + str(startDate.month) + "/")[2].partition("/")[0]), reverse=True)
+                    monthStart += 1
+                # add month to year dictionary value
+                year[startDate.strftime("%Y")] = month
+            # Dump year that contains all months into a year json file
+            json.dump(linkData, json_file, ensure_ascii=False, indent=4)
         return
 
     # Request the html at link address
