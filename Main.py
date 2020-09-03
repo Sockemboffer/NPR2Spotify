@@ -28,7 +28,8 @@ fileName = "NPRPageParser.json"
 # Parsing an NPR page for it's interlude track data
 #NPRPageParser.nprurl = "https://www.npr.org/programs/morning-edition/archive?date=7-1-2000" # turn into create url function later
 #pageHTML = NPRPageParser.RequestURL()
-NPRPageParser.NPRArchiveURLDateRange()
+
+NPRPageParser.NPRArticleLinkCacheCreator(2000)
 # NPRPageParser.GetNPRStory(NPRPageParser.nprurl, fileName) # outputs the file
 # jsonFromFile = NPRPageParser.LoadJSONFile(fileName) # loading from file itself
 # interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json file
