@@ -85,74 +85,79 @@ class NPRPageParser:
                     # create new page to continue getting current month day links
         with open("NPRArticleLinkCache/" + str(yearEntry) + "-NPRArticleLinkCache.json", 'w', encoding='utf-8') as json_file:
             currentYear = dict()
-            currentMonth = dict()
-            articleDayLinks = list()
-            currentYear[str(yearEntry)] = ""
-            mounthCount = 12
-            while mounthCount > Months.JANUARY:
-                currentMonth[mounthCount] = ""
+            monthCount = 12
+            while monthCount >= Months.JANUARY:
+                articleDayLinks = list()
+                currentMonth = dict()
+                print(monthCount)
+                time.sleep(5)
                 # Archive link always starts the articles at the last valid day-type of that month
                 # Rather than trying to figure out if month ends in 29-31 date, hard code the 1st,
                 # since every month has a 1st
                 # Grab all Sunday Edition links for this month
-                sunday = "https://www.npr.org/programs/weekend-edition-sunday/archive?date={}-{}-{}".format(mounthCount, 1, yearEntry)
+                sunday = "https://www.npr.org/programs/weekend-edition-sunday/archive?date={}-{}-{}".format(monthCount, 1, yearEntry)
                 request = requests.get(sunday).text
                 selector = Selector(text=request)
                 for item in selector.xpath('.//div[@id="episode-list"]/*'):
                     if item.attrib['class'] != 'episode-list__header':
                         articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
-                list(filter(lambda x: "/" + str(mounthCount) + "/" in x, articleDayLinks))
+                articleDayLinks = list(filter(lambda x: "/" + str(monthCount).zfill(2) + "/" in x, articleDayLinks))
+                print(articleDayLinks)
                 # Grab all Saturday Edition links for this month
-                saturday = "https://www.npr.org/programs/weekend-edition-saturday/archive?date={}-{}-{}".format(mounthCount, 1, yearEntry)
-                time.sleep(0.5) # maybe put in some random range to help spamming
+                saturday = "https://www.npr.org/programs/weekend-edition-saturday/archive?date={}-{}-{}".format(monthCount, 1, yearEntry)
+                time.sleep(2.5) # maybe put in some random range to help spamming
                 request = requests.get(saturday).text
                 selector = Selector(text=request)
                 for item in selector.xpath('.//div[@id="episode-list"]/*'):
                     if item.attrib['class'] != 'episode-list__header':
                         articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
-                list(filter(lambda x: "/" + str(mounthCount) + "/" in x, articleDayLinks))
+                articleDayLinks = list(filter(lambda x: "/" + str(monthCount).zfill(2) + "/" in x, articleDayLinks))
+                print(articleDayLinks)
                 # Grab all Morning Edition links for this month
                 # NPR only loading more days once user scrolls to the bottom,
                 # we need to fetch the "scrolllink" data to grab more days till a new month is found
-                weekday = "https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(mounthCount, 1, yearEntry)
-                time.sleep(0.5) # maybe put in some random range to help spamming
+                weekday = "https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(monthCount, 1, yearEntry)
+                time.sleep(3.5) # maybe put in some random range to help spamming
                 request = requests.get(weekday).text
                 selector = Selector(text=request)
                 for item in selector.xpath('.//div[@id="episode-list"]/*'):
                     if item.attrib['class'] != 'episode-list__header':
                         articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
-                list(filter(lambda x: "/" + str(mounthCount) + "/" in x, articleDayLinks))
+                articleDayLinks = list(filter(lambda x: "/" + str(monthCount).zfill(2) + "/" in x, articleDayLinks))
+                print(articleDayLinks)
                 # load more days
                 nextMonthNotFound = True
+                checkMonth = str(yearEntry) + "/" + str(monthCount).zfill(2) + "/"
+                print(checkMonth)
                 while nextMonthNotFound:
-                    nextMonth = str(yearEntry) + "/" + str(mounthCount - 1) + "/"
-                    print(nextMonth)
+                    #print(selector.xpath('//div[@id="scrolllink"]/a/@href').get())
                     loadMoreDaysLink = selector.xpath('//div[@id="scrolllink"]/a/@href').get()
+                    #print(loadMoreDaysLink)
                     moreDaysLink = "https://www.npr.org" + loadMoreDaysLink
-                    time.sleep(0.5) # maybe put in some random range to help spamming
+                    time.sleep(2) # maybe put in some random range to help spamming
                     request = requests.get(moreDaysLink).text
                     selector = Selector(text=request)
                     for item in selector.xpath('.//div[@id="episode-list"]/*'):
                         if item.attrib['class'] != 'episode-list__header':
                             newLink = item.xpath('./h2[@class="program-show__title"]/a/@href').get()
-                            print(newLink)
-                            if nextMonth in newLink:
-                                print("found next month")
-                                nextMonthNotFound = False
-                                break
-                            else:
+                            if checkMonth in newLink:
+                                print(newLink)
                                 articleDayLinks.append(newLink)
-                    #nextMonthNotFound = any(nextMonth in sub for sub in articleDayLinks) 
-                    print(articleDayLinks)
-                    print(nextMonthNotFound)
-                # Prune out non-matching months 
-                filteredDays = list(filter(lambda x: "/" + str(mounthCount) + "/" in x, articleDayLinks))
+                            else:
+                                nextMonthNotFound = False
+                                #print(newLink)
+                # Prune out non-matching months
+                articleDayLinks = list(filter(lambda x: "/" + str(monthCount).zfill(2) + "/" in x, articleDayLinks))
+                #print(articleDayLinks)
+                #print(filteredDays)
                 # Sort remaining days 
-                sortedDays = sorted(filteredDays, key=lambda x: int(x.partition("/" + str(mounthCount) + "/")[2].partition("/")[0]))
-                currentMonth[str(mounthCount)] = sortedDays
+                articleDayLinks = sorted(articleDayLinks, key=lambda x: int(x.partition("/" + str(monthCount).zfill(2) + "/")[2].partition("/")[0]))
+                #print(currentMonth)
+                print(articleDayLinks)
+                currentMonth[str(monthCount).zfill(2)] = articleDayLinks
                 # add month to year dictionary value
-                currentYear[str(yearEntry)] = currentMonth
-                mounthCount = 1
+                currentYear.update(currentMonth)
+                monthCount -= 1
             # Dump year that contains all months into a year json file
             json.dump(currentYear, json_file, ensure_ascii=False, indent=4)
         return
