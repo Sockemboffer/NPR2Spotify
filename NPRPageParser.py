@@ -18,7 +18,7 @@ class NPRPageParser:
         else:
             return request
 
-    # Grab the Story block of an npr page to parse article and interulde data into a json file
+    # Grab the Story block and grab the article and interlude data I want, organize into folders on disk
     def GetNPRStory(pagehtml):
         selector = Selector(text=pagehtml)
         pageData = list()
@@ -35,7 +35,7 @@ class NPRPageParser:
         playlistPath = os.path.join("NPRArticleData", pageData[0]['Date Numbered'][:4], pageData[0]['Date Numbered'][5:7], "")
         if not os.path.exists(playlistPath):
             os.makedirs(playlistPath)
-        with open(str(playlistPath + pageData[0]['Playlist Name'] + ".json"), 'w', encoding='utf-8') as json_file:
+        with open(playlistPath + pageData[0]['Playlist Name'] + ".json", 'w', encoding='utf-8') as json_file:
             json.dump(pageData, json_file, ensure_ascii=False, indent=4)
         print("-- NPR Page file created.")
 

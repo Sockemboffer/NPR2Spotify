@@ -3,8 +3,7 @@ from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 from urllib.parse import urlparse
 
-# todo: Organize into folders in some way
-# todo: create json file name as playlist name?
+# todo: Loop over cached day links
 
 # urlParse = urlparse("https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/")
 # print(urlParse)
