@@ -2,7 +2,6 @@ from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 from urllib.parse import urlparse
-fileName = "NPRPageParser.json"
 
 # todo: Organize into folders in some way
 # todo: create json file name as playlist name?
@@ -10,14 +9,14 @@ fileName = "NPRPageParser.json"
 # urlParse = urlparse("https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/")
 # print(urlParse)
 
-NPRPageParser.NPRArticleLinkCacheCreator(1997)
+#NPRPageParser.NPRArticleLinkCacheCreator(2019)
 # Parsing an NPR page for it's interlude track data
-#NPRPageParser.nprurl = "https://www.npr.org/programs/morning-edition/archive?date=7-1-2000" # turn into create url function later
-#pageHTML = NPRPageParser.RequestURL()
+NPRPageParser.nprurl = "https://www.npr.org/programs/morning-edition/1996/01/29/12942543/?showDate=1996-01-29" # turn into create url function later
+pageHTML = NPRPageParser.RequestURL()
+NPRPageParser.GetNPRStory(pageHTML.text) # outputs the file
 
-# NPRPageParser.GetNPRStory(NPRPageParser.nprurl, fileName) # outputs the file
-# jsonFromFile = NPRPageParser.LoadJSONFile(fileName) # loading from file itself
-# interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json file
+#jsonFromFile = NPRPageParser.LoadJSONFile(fileName) # loading from file itself
+#interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json file
 
 # Getting a playlist created to add tracks, cover art, and description for
 # playlistDetails = NPRPlaylistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to solution for automation

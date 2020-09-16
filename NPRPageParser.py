@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import time
@@ -14,22 +15,27 @@ class NPRPageParser:
         request = requests.get(NPRPageParser.nprurl)
         if request.reason != "OK":
             print("Link: " + NPRPageParser.nprurl + "\n" + request.reason)
+        else:
+            return request
 
     # Grab the Story block of an npr page to parse article and interulde data into a json file
-    def GetNPRStory(pagehtml, filename):
+    def GetNPRStory(pagehtml):
         selector = Selector(text=pagehtml)
-        with open(filename, 'w', encoding='utf-8') as json_file:
-            pageData = list()
-            pageData.append(NPRPageParser.GetStoryInfo(selector))
-            for item in selector.xpath('.//div[@id="story-list"]/*'):
-                if item.attrib['class'] == 'rundown-segment':
-                    newArticleData = NPRPageParser.GetArticleInfo(item)
-                    pageData.append(newArticleData)
-                elif item.attrib['class'] == 'music-interlude responsive-rundown':
-                    newInterludeInfo = list()
-                    for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
-                        newInterludeInfo.append(NPRPageParser.GetInterludeInfo(artist))
-                    pageData.append(newInterludeInfo)
+        pageData = list()
+        pageData.append(NPRPageParser.GetStoryInfo(selector))
+        for item in selector.xpath('.//div[@id="story-list"]/*'):
+            if item.attrib['class'] == 'rundown-segment':
+                newArticleData = NPRPageParser.GetArticleInfo(item)
+                pageData.append(newArticleData)
+            elif item.attrib['class'] == 'music-interlude responsive-rundown':
+                newInterludeInfo = list()
+                for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
+                    newInterludeInfo.append(NPRPageParser.GetInterludeInfo(artist))
+                pageData.append(newInterludeInfo)
+        playlistPath = os.path.join("NPRArticleData", pageData[0]['Date Numbered'][:4], pageData[0]['Date Numbered'][5:7], "")
+        if not os.path.exists(playlistPath):
+            os.makedirs(playlistPath)
+        with open(str(playlistPath + pageData[0]['Playlist Name'] + ".json"), 'w', encoding='utf-8') as json_file:
             json.dump(pageData, json_file, ensure_ascii=False, indent=4)
         print("-- NPR Page file created.")
 
