@@ -23,11 +23,25 @@ class NPRSpotifySearch:
         choosenResponseForTracks = list()
         for dic in artistList:
             if "Interlude Artist" in dic:
-                self.nprArtistsName = dic["Interlude Artist"]
-                self.artists = dic.get("Interlude Artist")
+                if dic["Interlude Artist"] != None:
+                    self.nprArtistsName = dic.get("Interlude Artist")
+                    self.artists = dic.get("Interlude Artist")
+                else:
+                    self.nprArtistsName = list()
+                    self.nprArtistsName.append("")
+                    self.artists = list()
+                    self.artists.append("")
+                print(self.nprArtistsName)
+                print("\n")
             if "Interlude Song" in dic:
-                self.nprTrackName = dic.get("Interlude Song")
-                self.track = dic.get("Interlude Song")
+                if dic["Interlude Song"] != None:
+                    self.nprTrackName = dic.get("Interlude Song")
+                    self.track = dic.get("Interlude Song")
+                else:
+                    self.nprTrackName = ""
+                    self.track = ""
+                print(self.nprTrackName)
+                print("\n")
             # get spotify responses and convert to json
             responsesJSON = list()
             responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
@@ -100,7 +114,7 @@ class NPRSpotifySearch:
             parsed["NPR Track Name"] = self.nprTrackName
             parsed["Found Track Name"] = None
             parsed["NPR Artist Name"] = self.nprArtistsName
-            parsed["Found Artist Name"] = None
+            parsed["Found Artist Name"] = self.nprArtistsName.append("")
             parsed["Found Track URI"] = None
             parsed["Found Match Type"] = ""
             return parsed

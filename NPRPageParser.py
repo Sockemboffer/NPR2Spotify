@@ -98,7 +98,6 @@ class NPRPageParser:
         with open(filename, "r", encoding='utf-8') as json_file:
             try:
                 loadedJson = json.load(json_file)
-                #print(loadedJson)
                 return loadedJson
             except ValueError as e:
                 print('invalid json: %s' % e)
