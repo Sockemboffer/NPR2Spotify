@@ -74,13 +74,21 @@ class NPRPageParser:
     def GetInterludeInfo(interlude):
         artistData = dict()
         # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
-        artistDataList = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
-        strippedArtistList = list()
-        for artist in artistDataList:
-            strippedArtist = artist.strip()
-            strippedArtistList.append(strippedArtist)
-        artistData['Interlude Artist'] = strippedArtistList
-        artistData['Interlude Song']  = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
+        if interlude.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
+            artistDataList = None
+        else:
+            artistDataList = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+            strippedArtistList = list()
+            for artist in artistDataList:
+                strippedArtist = artist.strip()
+                strippedArtistList.append(strippedArtist)
+                artistDataList = strippedArtistList
+        artistData['Interlude Artist'] = artistDataList
+        if interlude.xpath('.//span[@class="song-meta-title"]/text()').get() == None:
+            songTitle = None
+        else: 
+            songTitle = re.sub(" +", " ", re.sub("^\s+|\s+$", "", interlude.xpath('.//span[@class="song-meta-title"]/text()').get()))
+        artistData['Interlude Song'] = songTitle
         artistData['Spotify URI'] = None
         artistData['Last Checked'] = None
         return artistData
@@ -90,7 +98,7 @@ class NPRPageParser:
         with open(filename, "r", encoding='utf-8') as json_file:
             try:
                 loadedJson = json.load(json_file)
-                json_file.close()
+                #print(loadedJson)
                 return loadedJson
             except ValueError as e:
                 print('invalid json: %s' % e)

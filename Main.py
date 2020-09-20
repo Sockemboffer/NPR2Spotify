@@ -1,25 +1,29 @@
+import time
+from urllib.parse import urlparse
 from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
-from urllib.parse import urlparse
 
-# todo: Loop over cached day links
+# Create a json file for each year of day links (only need to run one time)
+# NPRPageParser.NPRArticleLinkCacheCreator(2019) # 1996 - 2020
 
-# urlParse = urlparse("https://www.npr.org/programs/weekend-edition-sunday/2020/05/10/853414822/")
-# print(urlParse)
+# Load year cache data in so we can loop over every day of every month to generate article info to parse
+yearToLoad = 2000
+jsonLoadedYearCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(yearToLoad) + "-NPRArticleLinkCache.json")
+for month, daysList in jsonLoadedYearCache.items():
+    for day in daysList:
+        time.sleep(5) # Don't hammer their server
+        print(day)
+        # Parsing an NPR page for it's interlude track data
+        NPRPageParser.nprurl = day
+        pageHTML = NPRPageParser.RequestURL()
+        NPRPageParser.GetNPRStory(pageHTML.text) # outputs gathered article data
 
-#NPRPageParser.NPRArticleLinkCacheCreator(2019)
-# Parsing an NPR page for it's interlude track data
-NPRPageParser.nprurl = "https://www.npr.org/programs/morning-edition/1996/01/29/12942543/?showDate=1996-01-29" # turn into create url function later
-pageHTML = NPRPageParser.RequestURL()
-NPRPageParser.GetNPRStory(pageHTML.text) # outputs the file
-
+# Start NPR Playlist creation by looping over every month, day, year in /NPRArticleData/
 #jsonFromFile = NPRPageParser.LoadJSONFile(fileName) # loading from file itself
 #interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json file
-
 # Getting a playlist created to add tracks, cover art, and description for
 # playlistDetails = NPRPlaylistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to solution for automation
-
 # Transforming our parsed interlude file data into search result data
 # NPRSpotifySearch = NPRSpotifySearch()
 # searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
