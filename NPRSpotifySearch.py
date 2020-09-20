@@ -1,3 +1,4 @@
+import copy
 import json
 import requests
 from urllib import parse
@@ -27,12 +28,8 @@ class NPRSpotifySearch:
                     self.nprArtistsName = dic.get("Interlude Artist")
                     self.artists = dic.get("Interlude Artist")
                 else:
-                    self.nprArtistsName = list()
                     self.nprArtistsName.append("")
-                    self.artists = list()
                     self.artists.append("")
-                print(self.nprArtistsName)
-                print("\n")
             if "Interlude Song" in dic:
                 if dic["Interlude Song"] != None:
                     self.nprTrackName = dic.get("Interlude Song")
@@ -40,8 +37,8 @@ class NPRSpotifySearch:
                 else:
                     self.nprTrackName = ""
                     self.track = ""
-                print(self.nprTrackName)
-                print("\n")
+                # print(self.nprTrackName)
+                # print("\n")
             # get spotify responses and convert to json
             responsesJSON = list()
             responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
@@ -65,7 +62,7 @@ class NPRSpotifySearch:
             # Categorize responses
             self.IdentifyResponses(parsedResponses)
             # Very basic weighting on if I accept a track found or not
-            choosenResponseForTracks.append(self.CompareResponses(parsedResponses))
+            choosenResponseForTracks.append(copy.deepcopy(self.CompareResponses(parsedResponses)))
             print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
         return choosenResponseForTracks
 
@@ -114,7 +111,7 @@ class NPRSpotifySearch:
             parsed["NPR Track Name"] = self.nprTrackName
             parsed["Found Track Name"] = None
             parsed["NPR Artist Name"] = self.nprArtistsName
-            parsed["Found Artist Name"] = self.nprArtistsName.append("")
+            parsed["Found Artist Name"] = self.artists
             parsed["Found Track URI"] = None
             parsed["Found Match Type"] = ""
             return parsed

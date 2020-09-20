@@ -49,34 +49,32 @@ class NPRPlaylistCreator:
         missedTracksList = list()
         # Removing some areas of the link that aren't required for more description space
         splitArchiveURL = nprURL.rsplit("?", maxsplit=1)
-        print(splitArchiveURL)
+        #print(splitArchiveURL)
         splitMorningEditionURL = splitArchiveURL[0].rsplit("morning", maxsplit=1)
-        print(splitMorningEditionURL)
+        #print(splitMorningEditionURL)
         splitWeekendEditionURL = splitMorningEditionURL[0].rsplit("weekend", maxsplit=1)
-        print(splitWeekendEditionURL)
+        #print(splitWeekendEditionURL)
         nprURL = splitWeekendEditionURL[0]
-        print(nprURL)
+        #print(nprURL)
         for missedTrack in searchedTracks:
             if missedTrack["Found Match Type"] == "NoHit" or missedTrack["Found Match Type"] == "HitButNoMatch":
                 missedTracksList.append(missedTrack)
-        print(missedTracksList)
+        #print(missedTracksList)
         if missedTracksList != None:
             newDescription = dict()
             newDescription["description"] = str(nprURL) + " [MISSING: " + str(len(missedTracksList)) + "]"
             for track in missedTracksList:
                 print(track)
-                if track["Found Match Type"] == "HitButNoMatch":
-                    newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: " + ", ".join(track["NPR Artist Name"]) + ","
+                if track["Found Match Type"] == "HitButNoMatch" and track["NPR Artist Name"] == "":
+                    newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: ¿Missing?,"
                 else:
                     newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: " + ", ".join(track["NPR Artist Name"]) + ","
-            newDescription["description"] += " [Last checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + ", Corrections: addy@something.com"
+            newDescription["description"] += " <Last checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + ", Corrections: addy@something.com>"
         else:
             newDescription = dict()
-            newDescription["description"] = str(nprURL) + " [ALL TRACKS FOUND!] [Last checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + ", Corrections: addy@something.com"
-        print(newDescription)
+            newDescription["description"] = str(nprURL) + " [ALL TRACKS FOUND!] <Last checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + ", Corrections: addy@something.com>"
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID)
         response = requests.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        print(response)
         if response.status_code != 200:
             raise ResponseException(response.status_code)
         print("-- Playlist description updated.")
