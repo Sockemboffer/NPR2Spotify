@@ -4,10 +4,8 @@ import requests
 import datetime
 from ResponsesHandle import ResponseException
 from secrets import spotify_user_id, spotipyUserToken
-# note: You can have as many playlists as you want, but only with 10k tracks each. (confusing info on)
-# todo: function to recheck missing songs?
 # todo: make a check if we some how go over playlist name and desciption limits to warn
-# todo: Skip days that had no interlude music
+
 class NPRPlaylistCreator:
 
     def CreatePlaylist(playlistName):

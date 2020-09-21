@@ -6,11 +6,7 @@ from collections import Counter
 from unidecode import unidecode
 from ResponsesHandle import ResponseException
 from secrets import spotify_user_id, spotipyUserToken
-# todo: re-check parsed page for missing tracks to research
-    # todo: check if playlist exsists
-    # todo: notify when previously missing track is found
-# fix: double-quotes are have dangling escape slash in string from response?
-# todo: add additional search for each artist found
+# todo: make a simple re-request function when a request fails
 class NPRSpotifySearch:
 
     def __init__(self):

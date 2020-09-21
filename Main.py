@@ -5,9 +5,6 @@ from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
-# Fix all tracks found using MISSING: 0
-# Check multiple day accuracy entries with my own eyes, see how far off "hits" are
-
 # # Create a json file for each year of day links (only need to run one time)
 # NPRPageParser.NPRArticleLinkCacheCreator(2019) # 1996 - 2020
 
