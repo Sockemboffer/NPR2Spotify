@@ -5,8 +5,7 @@ from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
-# Fix artist names in playlist description having multple empty artist names joined
-# Sort such that playlists are created in cronilogical order?
+# Fix all tracks found using MISSING: 0
 # Check multiple day accuracy entries with my own eyes, see how far off "hits" are
 
 # # Create a json file for each year of day links (only need to run one time)
@@ -29,6 +28,8 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # for subdir, dirs, files in os.walk(nprArticleDataPath):
 #     if subdir == str(nprArticleDataPath + "\\2019\\02"):
 #         for subdir, dirs, files in os.walk(subdir):
+#             #files = list(filter(lambda x: "/" + str(monthCount).zfill(2) + "/" in x, articleDayLinks))
+#             files = sorted(files, key=lambda x: int(x.partition(" ")[2].partition(",")[0]))
 #             for file in files:
 #                 print(file)
 #                 time.sleep(5)
@@ -50,7 +51,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #                     print("-- No interludes found, skipping.")
 
 # Start NPR Playlist creation by looping over every month, day, year in /NPRArticleData/
-testFileName = "NPRArticleData/2019/02/February 18, 2019 - Interlude(s) for NPR Morning Edition Monday.json"
+testFileName = "NPRArticleData/2019/02/February 28, 2019 - Interlude(s) for NPR Morning Edition Thursday.json"
 jsonFromFile = NPRPageParser.LoadJSONFile(testFileName)
 #print(jsonFromFile)
 #print("\n")
