@@ -64,7 +64,6 @@ class NPRPlaylistCreator:
             newDescription = dict()
             newDescription["description"] = str(nprURL) + " [MISSING: " + str(len(missedTracksList)) + "]"
             for track in missedTracksList:
-                print(track)
                 if track["Found Match Type"] == "HitButNoMatch" and track["NPR Artist Name"] == "":
                     newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: ¿Missing?,"
                 else:

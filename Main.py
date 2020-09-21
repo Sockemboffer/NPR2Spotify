@@ -50,7 +50,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #                     print("-- No interludes found, skipping.")
 
 # Start NPR Playlist creation by looping over every month, day, year in /NPRArticleData/
-testFileName = "NPRArticleData/2019/02/February 10, 2019 - Interlude(s) for NPR Weekend Edition Sunday.json"
+testFileName = "NPRArticleData/2019/02/February 18, 2019 - Interlude(s) for NPR Morning Edition Monday.json"
 jsonFromFile = NPRPageParser.LoadJSONFile(testFileName)
 #print(jsonFromFile)
 #print("\n")

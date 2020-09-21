@@ -28,7 +28,9 @@ class NPRSpotifySearch:
                     self.nprArtistsName = dic.get("Interlude Artist")
                     self.artists = dic.get("Interlude Artist")
                 else:
+                    self.nprArtistsName.clear()
                     self.nprArtistsName.append("")
+                    self.artists.clear()
                     self.artists.append("")
             if "Interlude Song" in dic:
                 if dic["Interlude Song"] != None:
