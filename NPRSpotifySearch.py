@@ -6,7 +6,7 @@ from collections import Counter
 from unidecode import unidecode
 from ResponsesHandle import ResponseException
 from secrets import spotify_user_id, spotipyUserToken
-# todo: make a simple re-request function when a request fails
+
 class NPRSpotifySearch:
 
     def __init__(self):

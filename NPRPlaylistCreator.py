@@ -4,7 +4,7 @@ import requests
 import datetime
 from ResponsesHandle import ResponseException
 from secrets import spotify_user_id, spotipyUserToken
-# todo: make a check if we some how go over playlist name and desciption limits to warn
+# todo: retry on request submissions
 
 class NPRPlaylistCreator:
 
