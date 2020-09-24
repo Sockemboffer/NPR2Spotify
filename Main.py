@@ -6,10 +6,10 @@ from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
 # # Create a json file for each year of day links (only need to run one time)
-# NPRPageParser.NPRArticleLinkCacheCreator(2019) # 1996 - 2020
+NPRPageParser.NPRArticleLinkCacheCreator(1998) # 1996 - 2020
 
 # # Load year cache data in so we can loop over every day of every month to generate article info to parse
-# yearToLoad = 2000
+# yearToLoad = 1998
 # jsonLoadedYearCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(yearToLoad) + "-NPRArticleLinkCache.json")
 # for month, daysList in jsonLoadedYearCache.items():
 #     for day in daysList:
@@ -47,24 +47,24 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #                 else:
 #                     print("-- No interludes found, skipping.")
 
-# Start NPR Playlist creation by looping over every month, day, year in /NPRArticleData/
-testFileName = "NPRArticleData/2019/02/February 19, 2019 - Interlude(s) for NPR Morning Edition Tuesday.json"
-jsonFromFile = NPRPageParser.LoadJSONFile(testFileName)
-#print(jsonFromFile)
-#print("\n")
-interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json files
-#print(interludes)
-# Getting a playlist created to add tracks, cover art, and description (except when no interludes are found)
-if interludes.__len__() != 0:
-    playlistDetails = NPRPlaylistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to solution for automation
-    # Transforming our parsed interlude data into Spotify search result data
-    NPRSpotifySearch = NPRSpotifySearch()
-    searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
-    #print("\n")
-    #print(searchedTracks)
-    # Updating the playlist with desciption of missing tracks (if any), adding cover art, and adding tracks
-    NPRPlaylistCreator.UpdatePlaylistDescription(searchedTracks, playlistDetails["id"], jsonFromFile[0]["Page Link"])
-    NPRPlaylistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistDetails["id"])
-    NPRPlaylistCreator.AddTracksToPlaylist(searchedTracks, playlistDetails["id"])
-    # Transforming the results data back into the parsed interlude data, updating, and re-saving to file
-    NPRPageParser.UpdateJSONFile(testFileName, playlistDetails, searchedTracks)
+# # Start NPR Playlist creation by looping over every month, day, year in /NPRArticleData/
+# testFileName = "NPRArticleData/2019/02/February 19, 2019 - Interlude(s) for NPR Morning Edition Tuesday.json"
+# jsonFromFile = NPRPageParser.LoadJSONFile(testFileName)
+# #print(jsonFromFile)
+# #print("\n")
+# interludes = NPRPageParser.GetArtistsAndTrack(jsonFromFile) # grabs just the interlude data from json files
+# #print(interludes)
+# # Getting a playlist created to add tracks, cover art, and description (except when no interludes are found)
+# if interludes.__len__() != 0:
+#     playlistDetails = NPRPlaylistCreator.CreatePlaylist(jsonFromFile[0]["Playlist Name"]) # need to solution for automation
+#     # Transforming our parsed interlude data into Spotify search result data
+#     NPRSpotifySearch = NPRSpotifySearch()
+#     searchedTracks = NPRSpotifySearch.GetTrackURIs(interludes)
+#     #print("\n")
+#     #print(searchedTracks)
+#     # Updating the playlist with desciption of missing tracks (if any), adding cover art, and adding tracks
+#     NPRPlaylistCreator.UpdatePlaylistDescription(searchedTracks, playlistDetails["id"], jsonFromFile[0]["Page Link"])
+#     NPRPlaylistCreator.AddCoverArtToPlaylist(searchedTracks, jsonFromFile[0]["Day"], playlistDetails["id"])
+#     NPRPlaylistCreator.AddTracksToPlaylist(searchedTracks, playlistDetails["id"])
+#     # Transforming the results data back into the parsed interlude data, updating, and re-saving to file
+#     NPRPageParser.UpdateJSONFile(testFileName, playlistDetails, searchedTracks)
