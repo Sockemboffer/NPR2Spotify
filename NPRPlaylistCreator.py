@@ -45,36 +45,51 @@ class NPRPlaylistCreator:
         # 300 character limit playlist desciption
         # returns response ok if over limit, but no description will be made.
         missedTracksList = list()
-        # Removing some areas of the link that aren't required for more description space
-        splitArchiveURL = nprURL.rsplit("?", maxsplit=1)
-        #print(splitArchiveURL)
-        splitMorningEditionURL = splitArchiveURL[0].rsplit("morning", maxsplit=1)
-        #print(splitMorningEditionURL)
-        splitWeekendEditionURL = splitMorningEditionURL[0].rsplit("weekend", maxsplit=1)
-        #print(splitWeekendEditionURL)
-        nprURL = splitWeekendEditionURL[0]
-        #print(nprURL)
+        # Removing exessive characters so description has more
+        nprURL = nprURL.partition("?")
         for missedTrack in searchedTracks:
             if missedTrack["Found Match Type"] == "NoHit" or missedTrack["Found Match Type"] == "HitButNoMatch":
                 missedTracksList.append(missedTrack)
         #print(missedTracksList)
         if missedTracksList != None:
             newDescription = dict()
-            newDescription["description"] = str(nprURL) + " [MISSING: " + str(len(missedTracksList)) + "]"
+            newDescription["description"] = str(nprURL[0]) + " [MISSING:" + str(len(missedTracksList)) + "]"
             for track in missedTracksList:
                 if track["Found Match Type"] == "HitButNoMatch" and track["NPR Artist Name"][0] == "":
                     newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: ¿Missing?,"
                 else:
                     newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: " + ", ".join(track["NPR Artist Name"]) + ","
-            newDescription["description"] += " <Last checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + ", Corrections: addy@something.com>"
+            newDescription["description"] += " {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
+            # Check if description exceeds character limit so we can truncate
+            newDescription["description"] += "buncha junk that will hopefully push it overlllllllllllllllllll33333333333333333333333333333333333333333333333333333333333333333333333333333333llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll"
+            print(len(newDescription["description"]))
+            if len(newDescription["description"]) <= 300:
+                print(newDescription["description"])
+                query = "https://api.spotify.com/v1/playlists/{}".format(playlistID)
+                response = requests.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+                if response.status_code != 200:
+                    raise ResponseException(response.status_code)
+                print("-- Playlist description updated.")
+            else:
+                newDescription["description"] = newDescription["description"][:300]
+                print(len(newDescription["description"]))
+                print(newDescription["description"])
+                newEndingDescription =  "<...too many missing.>" + "{Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
+                newDescription["description"] = newDescription["description"][:len(newEndingDescription)*-1]
+                print(len(newEndingDescription))
+                print(newEndingDescription)
+                newDescription["description"] += newEndingDescription
+                print("\n")
+                print(len(newDescription["description"]))
+                print(newDescription["description"])
         else:
             newDescription = dict()
-            newDescription["description"] = str(nprURL) + " [ALL TRACKS FOUND!] <Last checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + ", Corrections: addy@something.com>"
+            newDescription["description"] = str(nprURL) + " [ALL TRACKS FOUND!] {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID)
         response = requests.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         if response.status_code != 200:
             raise ResponseException(response.status_code)
-        print("-- Playlist description updated.")
+        print("!! Truncated description.")
 
     def GetNewCover(searchedTracks, day):
         missingTrack = False
