@@ -61,27 +61,11 @@ class NPRPlaylistCreator:
                     newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: " + ", ".join(track["NPR Artist Name"]) + ","
             newDescription["description"] += " {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
             # Check if description exceeds character limit so we can truncate
-            newDescription["description"] += "buncha junk that will hopefully push it overlllllllllllllllllll33333333333333333333333333333333333333333333333333333333333333333333333333333333llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll"
-            print(len(newDescription["description"]))
-            if len(newDescription["description"]) <= 300:
-                print(newDescription["description"])
-                query = "https://api.spotify.com/v1/playlists/{}".format(playlistID)
-                response = requests.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-                if response.status_code != 200:
-                    raise ResponseException(response.status_code)
-                print("-- Playlist description updated.")
-            else:
+            if len(newDescription["description"]) > 300:
                 newDescription["description"] = newDescription["description"][:300]
-                print(len(newDescription["description"]))
-                print(newDescription["description"])
                 newEndingDescription =  "<...too many missing.>" + "{Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
                 newDescription["description"] = newDescription["description"][:len(newEndingDescription)*-1]
-                print(len(newEndingDescription))
-                print(newEndingDescription)
                 newDescription["description"] += newEndingDescription
-                print("\n")
-                print(len(newDescription["description"]))
-                print(newDescription["description"])
         else:
             newDescription = dict()
             newDescription["description"] = str(nprURL) + " [ALL TRACKS FOUND!] {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
