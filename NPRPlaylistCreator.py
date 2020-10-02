@@ -61,7 +61,7 @@ class NPRPlaylistCreator:
             newDescription["description"] = str(nprURL[0]) + " [MISSING:" + str(len(missedTracksList)) + "]"
             for track in missedTracksList:
                 if track["Found Match Type"] == "HitButNoMatch" and track["NPR Artist Name"][0] == "":
-                    newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: ¿Missing?,"
+                    newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: ¿?,"
                 else:
                     newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: " + ", ".join(track["NPR Artist Name"]) + ","
             newDescription["description"] += " {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
@@ -70,7 +70,7 @@ class NPRPlaylistCreator:
             # returns response ok if over limit, but no description will be made.
             if len(newDescription["description"]) > 300:
                 newDescription["description"] = newDescription["description"][:300]
-                newEndingDescription =  "<...too many missing.>" + "{Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
+                newEndingDescription =  " |desc. limit| " + "{Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
                 newDescription["description"] = newDescription["description"][:len(newEndingDescription)*-1]
                 newDescription["description"] += newEndingDescription
         else:
