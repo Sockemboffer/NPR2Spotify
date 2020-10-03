@@ -16,5 +16,22 @@ At the cost of accuracy in identifying songs, use python libraries to hopfully r
 ## Shortfalls
 There may be a lot of false positives and false negatives. In most cases it seems pretty spot-on but I've only compared about a months songs for some confidence in moving forward.
 
+## Interesting learnings
+- Just about anything I needed someone already had a library for
+- HTML parsing is kinda ugly looking with xpath but works great!
+- UTF-8 encoding
+- Reading and writing to json
+- Zfilling numbers
+- Splitting strings
+- List splitting
+- How handy lambdas seem to be
+- Robot.txt standard
+- OAuth verifications
+- Sorting lists
+- Base64 jpg encoding
+- OS directory navigation
+- Git'ing
+- VS Code
+
 ## Time to complete
 I've bee
