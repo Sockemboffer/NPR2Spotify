@@ -2,7 +2,7 @@
 Too much great music between segments that I never have time to dig for on their website. One of my first programming projects. Built a scrapper program to parse every Morning and Weekend Edition article for the interlude music data. I then creating public playlists on Spotify for others to enjoy. Go easy on me.
 
 ## Problem
-Back-of-the-envelope estimation: 7 song avg. per day, 2555 songs per year,  63,875 songs across 25 years. ~15 minutes to gather, create playlist, search and verify ~7 songs (actually hearing what NPR played vs what Spotify found.) 365 days * 15 minutes, around 90 hours for one year and roughly 2000 hours or 95 days to catalog their songs into Spotify playlists. Eep!
+Back-of-the-envelope estimation: 7 song avg. per day, 2555 songs per year,  63,875 songs across 25 years. ~15 minutes to gather, create playlist, search and verify ~7 songs (actually hearing what NPR played vs what Spotify found.) 365 days * 15 minutes, around 90 hours for one year or roughly 2000 hours or roughly 95 days to catalog their songs into Spotify playlists. Eep!
 
 ## Solution
 At the cost of accuracy in identifying songs, use python libraries to hopfully reduce the human effort required.
