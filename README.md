@@ -9,9 +9,9 @@ At the cost of accuracy in identifying songs, use python libraries to hopfully r
 
 - *NPRPageParser.py* - Handles getting valid links, parsing HTML, and outputing to json files.
 
-- *NPRSpotifySearch.py* - When fed interlude data, processes Spotify search responses and do some simple comparisons against what was found on NPR.
+- *NPRSpotifySearch.py* - Processes Spotify search responses and do some simple comparisons against what was found on NPR.
 
-- *NPRPlaylistCreator.py* - Create a playlist for each day's songs and provide details about missing songs in to the playlist description.
+- *NPRPlaylistCreator.py* - Create playlists for each day's songs and details about missing songs in to the playlist description.
 
 ## Shortfalls
 There may be a lot of false positives and false negatives. In most cases it seems pretty spot-on but I've only compared about a months songs for some confidence in moving forward.
