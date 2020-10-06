@@ -6,7 +6,7 @@ from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
 # # Create a json file for each year of day links (only need to run one time)
-NPRPageParser.NPRArticleLinkCacheCreator(2002) # 1996 - 2020
+NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
 # # Load year cache data in so we can loop over every day of every month to generate article info to parse
 # yearToLoad = 1998
