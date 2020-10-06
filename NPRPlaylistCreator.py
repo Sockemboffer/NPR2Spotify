@@ -61,56 +61,36 @@ class NPRPlaylistCreator:
             newDescription["description"] = str(nprURL[0]) + " [MISSING:" + str(len(missedTracksList)) + "]"
             for track in missedTracksList:
                 if track["Found Match Type"] == "HitButNoMatch" and track["NPR Artist Name"][0] == "":
-                    newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: ¿?,"
+                    newDescription["description"] += ", Song: " + track["NPR Track Name"] + " by: ¿?"
                 else:
-                    newDescription["description"] += " Song: " + track["NPR Track Name"] + " by: " + ", ".join(track["NPR Artist Name"]) + ","
-            newDescription["description"] += " {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
+                    newDescription["description"] += ", Song: " + track["NPR Track Name"] + " by: " + ", ".join(track["NPR Artist Name"])
+            newDescription["description"] += "-{Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}  Send corrections: NPRMoWeEd2Spotify@pm.me"
             # 300 character limit playlist desciption
             # Check if description exceeds character limit so we can truncate
             # returns response ok if over limit, but no description will be made.
             if len(newDescription["description"]) > 300:
                 newDescription["description"] = newDescription["description"][:300]
-                newEndingDescription =  " |desc. limit| " + "{Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
+                newEndingDescription =  "-desc. limit" + "-{Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}  Send corrections: NPRMoWeEd2Spotify@pm.me"
                 newDescription["description"] = newDescription["description"][:len(newEndingDescription)*-1]
                 newDescription["description"] += newEndingDescription
         else:
             newDescription = dict()
-            newDescription["description"] = str(nprURL) + " [ALL TRACKS FOUND!] {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}--Send fixes to: addy@something.com"
+            newDescription["description"] = str(nprURL) + " [ALL " + len(searchedTracks) + " FOUND] {Checked: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "}  Send corrections: NPRMoWeEd2Spotify@pm.me"
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID)
         response = requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("!! Truncated description.")
 
     def GetNewCover(searchedTracks, day):
-        missingTrack = False
-        for track in searchedTracks:
-            if (track["Found Match Type"] == "NoHit") or (track["Found Match Type"] == "HitButNoMatch"):
-                missingTrack = True
-                break
-        if missingTrack == True:
-            print("-- Missing Tracks jpg selected.")
-            if (day != "Saturday") and (day != "Sunday"):
-                with open("npr_me-missingtracks.jpg", "rb") as im:
-                    encoded_string = base64.b64encode(im.read())
-                    return encoded_string    
-            elif (day != "Sunday"):
-                with open("npr_we_sat-missingtracks.jpg", "rb") as im:
-                    encoded_string = base64.b64encode(im.read())
-                    return encoded_string
-            else:
-                with open("npr_we_sun-missingtracks.jpg", "rb") as im:
-                    encoded_string = base64.b64encode(im.read())
-                    return encoded_string
+        print("-- All Tracks found jpg selected.")
+        if (day != "Saturday") and (day != "Sunday"):
+            with open("NPRLogos/npr_me.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                return encoded_string    
+        elif (day != "Sunday"):
+            with open("NPRLogos/npr_we_sat.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                return encoded_string
         else:
-            print("-- All Tracks found jpg selected.")
-            if (day != "Saturday") and (day != "Sunday"):
-                with open("npr_me-alltracks.jpg", "rb") as im:
-                    encoded_string = base64.b64encode(im.read())
-                    return encoded_string    
-            elif (day != "Sunday"):
-                with open("npr_we_sat-alltracks.jpg", "rb") as im:
-                    encoded_string = base64.b64encode(im.read())
-                    return encoded_string
-            else:
-                with open("npr_we_sun-alltracks.jpg", "rb") as im:
-                    encoded_string = base64.b64encode(im.read())
-                    return encoded_string
+            with open("NPRLogos/npr_we_sun.jpg", "rb") as im:
+                encoded_string = base64.b64encode(im.read())
+                return encoded_string
