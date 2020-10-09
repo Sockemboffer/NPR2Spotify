@@ -1,5 +1,5 @@
 # NPR2Spotify
-Too much great music between segments that I never have time to dig for on their website. This was a good excuse to learn more about programming and created automation around parsing and creating Spotify [Playlists](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/). This creates one for every day's interlude music (when song information is/was present) on back through to 1995! It's likely not perfect at matching but, feel free to send playlist corrections to MoWeEd2Spotify[a-t]pm.me 🙃
+Too much great music between segments that I never have time to dig for on their website. This was a good excuse to learn more about programming and created automation around parsing and creating Spotify [Playlists](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/). The program creates one playlist for every day's interlude music (when song information is/was present) on back through to 1995! It's likely not perfect at matching but, feel free to send playlist corrections to MoWeEd2Spotify[a-t]pm.me 🙃
 
 [Morning Edition](https://www.npr.org/programs/morning-edition/)
 
