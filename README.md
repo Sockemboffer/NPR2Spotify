@@ -5,9 +5,9 @@ Too much great music between segments that I never have time to dig for on their
 
 [Morning Edition](https://www.npr.org/programs/morning-edition/)
 
-[Weekend Edition Saturday](partners.npr.org/programs/weekend-edition-saturday/)
+[Weekend Edition Saturday](https://www.npr.org/programs/weekend-edition-saturday/)
 
-[Weekend Edition Sunday](http://nprdigital.net/programs/weekend-edition-sunday/)
+[Weekend Edition Sunday](https://www.npr.org/programs/weekend-edition-saturday/)
 
 ## Problem
 Would take a long time (like, 95ish days non-stop for one person) to go verify and create playlists for NPR's Morning and Weekend Edition interludes. While this little project took me a year-ish to complete, I was able to learn some more about programming.
