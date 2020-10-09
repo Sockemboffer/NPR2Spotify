@@ -50,9 +50,9 @@ class NPRPageParser:
         dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
         pageData['Scanned Date'] = dt
         if (pageData['Day'] == 'Saturday') or (pageData['Day'] == 'Sunday'):
-            pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition']
+            pageData['Playlist Name'] = "NPR " + pageData['Date Text'] + " - Interludes for " + pageData['Edition']
         else:
-            pageData['Playlist Name'] = pageData['Date Text'] + " - Interlude(s) for NPR " + pageData['Edition'] + " " + pageData['Day']
+            pageData['Playlist Name'] = "NPR " + pageData['Date Text'] + " - Interludes for " + pageData['Edition'] + " " + pageData['Day']
         pageData['Playlist Link'] = None
         pageData['Playlist URI'] = None
         return pageData

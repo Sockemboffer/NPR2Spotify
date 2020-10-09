@@ -23,10 +23,10 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 nprArticleDataPath = "NPRArticleData"
 NPRSpotifySearch = NPRSpotifySearch()
 for subdir, dirs, files in os.walk(nprArticleDataPath):
-    if subdir == str(nprArticleDataPath + "\\2019\\08"):
+    if subdir == str(nprArticleDataPath + "\\1998\\06"):
         for subdir, dirs, files in os.walk(subdir):
             #files = list(filter(lambda x: "/" + str(monthCount).zfill(2) + "/" in x, articleDayLinks))
-            files = sorted(files, key=lambda x: int(x.partition(" ")[2].partition(",")[0]))
+            files = sorted(files, key=lambda x: int(x.partition("NPR ")[2].partition(" ")[2].partition(",")[0]))
             for file in files:
                 print(file)
                 time.sleep(5)
