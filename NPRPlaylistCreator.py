@@ -63,19 +63,19 @@ class NPRPlaylistCreator:
                     newDescription["description"] += "❌ \"" + track["NPR Track Name"] + "\" by: ❓, "
                 else:
                     newDescription["description"] += "❌ \"" + track["NPR Track Name"] + "\" by: " + ", ".join(track["NPR Artist Name"]) + " "
-            newDescription["description"] += " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 📧🧰 Corrections: NPRMoWeEd2Spotify[a-t]pm.me"
+            newDescription["description"] += " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰📧 Corrections: MoWeEd2Spotify[a-t]pm.me"
             # 300 character limit playlist desciption
             # Check if description exceeds character limit so we can truncate
             # returns response ok if over limit, but no description will be made.
             if len(newDescription["description"]) > 300:
                 newDescription["description"] = newDescription["description"][:300]
-                newEndingDescription =  "🚧 ...desc. limit " + "🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 📧🧰 Corrections: NPRMoWeEd2Spotify[a-t]pm.me"
+                newEndingDescription =  "🚧 ...desc. limit " + "🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰📧 Corrections: MoWeEd2Spotify[a-t]pm.me"
                 newDescription["description"] = newDescription["description"][:len(newEndingDescription)*-1]
                 newDescription["description"] += newEndingDescription
                 print("!! Truncated description.")
         else:
             newDescription = dict()
-            newDescription["description"] = "🤩🌈 Found " + str(len(searchedTracks)) + " of " + str(len(searchedTracks)) + " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 📧🧰 Corrections: NPRMoWeEd2Spotify[a-t]pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥 www.npr.org/donations/support 🔥"
+            newDescription["description"] = "🤩🌈 Found " + str(len(searchedTracks)) + " of " + str(len(searchedTracks)) + " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰📧 Corrections: MoWeEd2Spotify[a-t]pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥 www.npr.org/donations/support 🔥"
         missedTracksList.clear()
         query = "https://api.spotify.com/v1/playlists/{}".format(playlistID)
         self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})

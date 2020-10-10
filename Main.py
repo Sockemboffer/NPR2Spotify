@@ -9,7 +9,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
 # # Load year cache data in so we can loop over every day of every month to generate article info to parse
-# yearToLoad = 1998
+# yearToLoad = 2001
 # jsonLoadedYearCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(yearToLoad) + "-NPRArticleLinkCache.json")
 # for month, daysList in jsonLoadedYearCache.items():
 #     for day in daysList:
@@ -23,7 +23,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 nprArticleDataPath = "NPRArticleData"
 NPRSpotifySearch = NPRSpotifySearch()
 for subdir, dirs, files in os.walk(nprArticleDataPath):
-    if subdir == str(nprArticleDataPath + "\\1998\\06"):
+    if subdir == str(nprArticleDataPath + "\\2001\\12"):
         for subdir, dirs, files in os.walk(subdir):
             #files = list(filter(lambda x: "/" + str(monthCount).zfill(2) + "/" in x, articleDayLinks))
             files = sorted(files, key=lambda x: int(x.partition("NPR ")[2].partition(" ")[2].partition(",")[0]))
