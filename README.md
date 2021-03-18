@@ -1,3 +1,5 @@
+[Not released - WORK IN PROGRESS - 3/18/2021]
+
 # NPR2Spotify
 This program creates one Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for every day's interlude music (*when song information is/was present*) on back through to 1995! It's likely not perfect at matching but, feel free to send playlist corrections to **MoWeEd2Spotify[a-t]pm.me** 🙃
 
