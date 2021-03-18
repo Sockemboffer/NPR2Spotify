@@ -13,7 +13,7 @@ This program creates one Spotify [Playlist](https://open.spotify.com/user/1tnm7c
 Would take a long time (*like, 95ish days non-stop for one person*) to go verify and create playlists for NPR's Morning and Weekend Edition interludes. While this little project took me a year-ish to complete, I was able to learn some more about programming.
 
 One of my first programming projects. Suggestions welcomed. Go easy on me and Enjoy!
-## Donate today!
+## Donate to NPR today!
 Support your local [NPR station](https://www.npr.org/donations/support) today.
 ## Thanks
 My pal at [MBGameDev](https://github.com/mbgamedev/) for holding my hand a couple-few times.
