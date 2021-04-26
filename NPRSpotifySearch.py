@@ -8,6 +8,8 @@ from ResponsesHandle import ResponseException
 from secrets import spotify_user_id, spotipyUserToken
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
+import difflib
+from difflib import SequenceMatcher
 
 class NPRSpotifySearch:
 
@@ -22,10 +24,10 @@ class NPRSpotifySearch:
 
     # GetTrackURIs transforms the data I send it, is that confusing to a user they get back different data?
     def GetTrackURIs(self, artistList):
-        choosenResponseForTracks = list()
+        choosenTracks = list()
         for dic in artistList:
             if "Interlude Artist" in dic:
-                if dic["Interlude Artist"] == None or dic["Interlude Artist"][0] == "":
+                if dic["Interlude Artist"] == None or str(dic["Interlude Artist"][0]).strip() == "":
                     self.nprArtistsName.clear()
                     self.nprArtistsName.append("")
                     self.artists.clear()
@@ -35,40 +37,33 @@ class NPRSpotifySearch:
                     self.artists = dic.get("Interlude Artist")
             if "Interlude Song" in dic:
                 if dic["Interlude Song"] == None or dic["Interlude Song"] == "":
-                    self.nprTrackName = ""
-                    self.track = ""
+                    # Empty song from webpage, nothing to search
+                    print("> Empty track found.")
+                    continue
                 else:
                     self.nprTrackName = dic.get("Interlude Song")
                     self.track = dic.get("Interlude Song")
             # get spotify responses and convert to json
-            if self.nprTrackName != "":
-                responsesJSON = list()
-                responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
+            trackResponses = list()
+            for artist in self.artists:
+                artistResponses = list()
+                artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(artist)))
                 self.track = self.RemoveBrackets(unidecode(self.track))
-                responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
+                artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(artist)))
                 self.track = self.RemoveParenthesis(unidecode(self.track))
-                responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
+                artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(artist)))
                 self.track = self.RemoveCommonPhrases(unidecode(self.track))
-                responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(self.artists[0])))
-                responsesJSON.append(self.SearchImplicitTrackExplicitArtist(unidecode(self.track), unidecode(self.artists[0])))
-                responsesJSON.append(self.SearchImplicitTrackNoArtist(unidecode(self.track)))
-                responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.nprTrackName.split("(")[0]), unidecode(self.artists[0])))
-                responsesJSON.append(self.SearchExplicitTrackAndArtist(unidecode(self.nprTrackName.split("[")[0]), unidecode(self.artists[0])))
-                # hail marry
-                responsesJSON.append(self.SearchImplicitTrackNoArtist(unidecode(self.nprTrackName)))
-                # parse responses
-                # should I pass a list to the function or keep the list out here?
-                parsedResponses = list()
-                for response in responsesJSON:
-                    parsedResponses.append(self.ParseResponseJSON(response))
-                # Categorize responses
-                self.IdentifyResponses(parsedResponses)
-                # Very basic weighting on if I accept a track found or not
-                choosenResponseForTracks.append(copy.deepcopy(self.CompareResponses(parsedResponses)))
-                print("Finished: " + self.nprTrackName + ", by: " + self.nprArtistsName[0])
-            else:
-                print("> Empty track found.")
-        return choosenResponseForTracks
+                artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(self.track), unidecode(artist)))
+                artistResponses.append(self.SearchImplicitTrackExplicitArtist(unidecode(self.track), unidecode(artist)))
+                artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(self.nprTrackName.split("(")[0]), unidecode(artist)))
+                artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(self.nprTrackName.split("[")[0]), unidecode(artist)))
+                # hail Marry's
+                artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(self.nprTrackName), unidecode(artist)))
+                artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(self.nprTrackName), unidecode(artist)))
+                trackResponses.append(artistResponses)
+            # Very basic weighting on which response I use to add to the playlist
+            choosenTracks.append(self.CatagorizeResponses(self.ParseResponsesJSON(trackResponses)))
+        return choosenTracks
 
     def RemoveBrackets(self, track):
         newTrack = track.translate({ord(i): None for i in '[]'})
@@ -89,94 +84,121 @@ class NPRSpotifySearch:
     def SearchExplicitTrackAndArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # if response.status_code != 200:
-        #     raise ResponseException(response.status_code)
         return response.json()
     
     def SearchImplicitTrackExplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # if response.status_code != 200:
-        #     raise ResponseException(response.status_code)
+        # print(json.dumps(response.json(), sort_keys=True, indent=4))
         return response.json()
-    
-    def SearchImplicitTrackNoArtist(self, track):
-        query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=1".format(parse.quote('"' + track + '"'))
+
+    def SearchImplicitTrackImplicitArtist(self, track, artist):
+        query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + '"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # response = requests.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # if response.status_code != 200:
-        #     raise ResponseException(response.status_code)
+        return response.json()
+
+    def SearchImplicitTrackAndArtistCombined(self, track, artist):
+        query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=1".format(parse.quote(str(track + " AND " + artist)))
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         return response.json()
 
     # Take the responses and strip out what I want/need for later into my own dictionary
-    def ParseResponseJSON(self, responseJSON):
-        parsed = dict()
-        if responseJSON["tracks"]["total"] == 0:
-            # confusing/risky to rely that the correct nprtrackname/artist assigning here?
+    def ParseResponsesJSON(self, responsesJSON):
+        parsedTracks = list()
+        if responsesJSON == None or len(responsesJSON) == 0:
+            # Empty or no tracks returned
+            parsed = dict()
             parsed["NPR Track Name"] = self.nprTrackName
-            parsed["Found Track Name"] = None
-            parsed["NPR Artist Name"] = self.nprArtistsName
-            parsed["Found Artist Name"] = self.artists
-            parsed["Found Track URI"] = None
-            parsed["Found Match Type"] = ""
-            return parsed
-        else:
-            parsed["NPR Track Name"] = self.nprTrackName
-            parsed["Found Track Name"] = responseJSON["tracks"]["items"][0]["name"]
-            parsed["NPR Artist Name"] = self.nprArtistsName
-            parsed["Found Artist Name"] = responseJSON["tracks"]["items"][0]["artists"][0]["name"]
-            parsed["Found Track URI"] = responseJSON["tracks"]["items"][0]["uri"]
-            parsed["Found Match Type"] = ""
-            return parsed
+            parsed["Found Track Name"] = ""
+            parsed["NPR Artist Name"] = ""
+            emptyList = list()
+            emptyList.append("")
+            parsed["Found Artist Name"] = emptyList
+            parsed["Found Track URI"] = ""
+            parsed["Match"] = 0
+            parsedTracks.append(parsed)
+            return parsedTracks
+        # Loop over every artist search results
+        for artistResponse in responsesJSON:
+            # do we have any results for this artist
+            if len(artistResponse) != 0:
+                for result in artistResponse:
+                    # is there track data to get
+                    if result["tracks"]["total"] != 0:
+                        parsed = dict()
+                        parsed["NPR Track Name"] = self.nprTrackName
+                        parsed["Found Track Name"] = result["tracks"]["items"][0]["name"]
+                        parsed["NPR Artist Name"] = self.nprArtistsName
+                        # later we want to itterate over lists because there could be tracks with many artists credited
+                        # Spotfy's results can return a list of attributed artists or if only one a string
+                        artistList = list()
+                        if isinstance(result["tracks"]["items"][0]["artists"], list):
+                            for artist in result["tracks"]["items"][0]["artists"]:
+                                artistList.append(artist["name"])
+                            parsed["Found Artist Name"] = artistList
+                        else:
+                            emptyList = list()
+                            emptyList.append("")
+                            parsed["Found Artist Name"] = emptyList
+                        parsed["Found Track URI"] = result["tracks"]["items"][0]["uri"]
+                        parsed["Match"] = None
+                        parsedTracks.append(parsed)
+                    else:
+                        # Empty result used later
+                        parsed = dict()
+                        parsed["NPR Track Name"] = self.nprTrackName
+                        parsed["Found Track Name"] = ""
+                        parsed["NPR Artist Name"] = self.nprArtistsName
+                        emptyList = list()
+                        emptyList.append("")
+                        parsed["Found Artist Name"] = emptyList
+                        parsed["Found Track URI"] = ""
+                        parsed["Match"] = 0
+                        parsedTracks.append(parsed)
+        return parsedTracks
 
-    # Doing some simple identifying of my NPR page data against the my parsed response json data
-    # to determin how the response "hit" or not
-    def IdentifyResponses(self, parsedResponsesJSON):
-        identifiedResponses = list()
-        for response in parsedResponsesJSON:
-            if response["Found Track Name"] is None:
-                response["Found Match Type"] = "NoHit"
-                identifiedResponses.append(response)
-            elif unidecode(str(response["Found Track Name"]).lower()) == unidecode(self.nprTrackName.lower()) and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
-                # hit exact match found to what npr had
-                # should I use global var or key when comparing to original?
-                response["Found Match Type"] = "HitExactMatch"
-                identifiedResponses.append(response)
-            elif unidecode(str(response["Found Track Name"]).lower()) != unidecode(self.nprTrackName.lower()) and unidecode(str(response["Found Artist Name"])).lower() == unidecode(self.nprArtistsName[0]).lower():
-                # hit but track name may be slightly different than what npr has so we compare artist name hoping for an exact
-                # leave up to community to help vet incorrect picks here
-                response["Found Match Type"] = "HitPartialMatch"
-                identifiedResponses.append(response)
+    # Using libdiff to create a hit threshhold of sorts.
+    def CatagorizeResponses(self, parsedResponses):
+        bestMatches = list()
+        for idx, nprArtist in enumerate(self.nprArtistsName):
+            for trackResults in parsedResponses:
+                for track in trackResults:
+                    seqTrack = SequenceMatcher(a=str(track["NPR Track Name"]).lower(), b=str(track["Found Track Name"]).lower())
+                    seqArtist = SequenceMatcher(a=nprArtist.lower(), b=track["Found Artist Name"].lower())
+                    artistRatio = seqArtist.ratio()
+                    trackRatio = seqTrack.ratio()
+                    # perfect 
+                    if trackRatio >= 1.0 and artistRatio >= 1.0:
+                        track["Match"] = trackRatio
+                        bestMatches.append(track)
+                    # artist name might be a bit wrong
+                    elif trackRatio >= 0.9 and artistRatio >= 0.2:
+                        track["Match"] = trackRatio
+                        bestMatches.append(track)
+                    # good chance match
+                    elif trackRatio >= 0.6 and artistRatio >= 0.6:
+                        track["Match"] = trackRatio
+                        bestMatches.append(track)
+                    # close match
+                    elif trackRatio >= 0.4 and artistRatio >= 0.8:
+                        track["Match"] = trackRatio
+                        bestMatches.append(track)
+                    # poor chance 
+                    elif trackRatio < 0.4 and artistRatio < 0.2:
+                        track["Match"] = 0
+                        bestMatches.append(track)
+                    # catch rest as no match
+                    else:
+                        track["Match"] = 0
+                        bestMatches.append(track)
+        # Compare results
+        bestMatch = bestMatches[0]
+        for match in bestMatches:
+            if match["Match"] <= bestMatch["Match"]:
+                continue
             else:
-                # hit but matches neither the track or artist exactly as npr had it
-                # stored but we'll count as a missed track later
-                response["Found Match Type"] = "HitButNoMatch"
-                identifiedResponses.append(response)
-        print("-- Responses identified.")
-        return identifiedResponses
-
-    # Take the identified "hit" responses and do a shity "weighting"
-    def CompareResponses(self, parsedResponsesList):
-        noHit = list()
-        hitExactMatch = list()
-        hitPartialMatch = list()
-        hitButNoMatch = list()
-        for response in parsedResponsesList:
-            if response["Found Match Type"] == "NoHit":
-                noHit.append(response)
-            elif response["Found Match Type"] == "HitExactMatch":
-                hitExactMatch.append(response)
-            elif response["Found Match Type"] ==  "HitPartialMatch":
-                hitPartialMatch.append(response)
-            else:
-                hitButNoMatch.append(response)
-        if len(hitExactMatch) > 0:
-            return hitExactMatch[0]
-        elif len(hitPartialMatch) > 0:
-            return hitPartialMatch[0]
-        elif len(hitButNoMatch) > 0:
-            return hitButNoMatch[0]
-        else:
-            return noHit[0]
+                bestMatch = match
+        print(str(bestMatch["Match"]))
+        # print("NPR Track " + str(bestMatch["NPR Track Name"]) + " by, " + str(bestMatch["NPR Artist Name"]))
+        print(bestMatch)
+        return bestMatch
