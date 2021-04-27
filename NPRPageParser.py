@@ -5,10 +5,11 @@ import time
 import requests
 import datetime
 from parsel import Selector
+from NPRPlaylistCreator import NPRPlaylistCreator
 
 class NPRPageParser:
-    # def __init__(self):
-    #     self.nprurl = ""
+    def __init__(self):
+        self.nprurl = ""
 
     # Request the html at link address
     def RequestURL(url):
@@ -27,22 +28,25 @@ class NPRPageParser:
 
     # Grab various info about the whole NPR article for that date
     def GetEditionData(url, selectedHTML):
-        editionDayData = dict()
-        editionDayData['Page Link'] = url
-        editionDayData['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
-        editionDayData['Date Text'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
-        editionDayData['Date Numbered'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
-        editionDayData['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
+        nprPlaylistCreator = NPRPlaylistCreator()
+        dayDetails = dict()
+        dayDetails['Page Link'] = url
+        dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
+        dayDetails['Date Text'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
+        dayDetails['Date Numbered'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
+        dayDetails['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
         dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-        editionDayData['Scanned Date'] = dt
-        if (editionDayData['Day'] == 'Saturday') or (editionDayData['Day'] == 'Sunday'):
-            editionDayData['Playlist Name'] = "NPR " + editionDayData['Date Text'] + " - Interludes for " + editionDayData['Edition']
+        dayDetails['Scanned Date'] = dt
+        if (dayDetails['Day'] == 'Saturday') or (dayDetails['Day'] == 'Sunday'):
+            dayDetails['Playlist Name'] = "NPR " + dayDetails['Date Text'] + " - Interludes for " + dayDetails['Edition']
         else:
-            editionDayData['Playlist Name'] = "NPR " + editionDayData['Date Text'] + " - Interludes for " + editionDayData['Edition'] + " " + editionDayData['Day']
-        editionDayData['Playlist Link'] = None
-        editionDayData['Playlist URI'] = None
+            dayDetails['Playlist Name'] = "NPR " + dayDetails['Date Text'] + " - Interludes for " + dayDetails['Edition'] + " " + dayDetails['Day']
+        playlistName = dayDetails['Playlist Name']
+        responseJSON = nprPlaylistCreator.CreatePlaylist(playlistName)
+        dayDetails['Playlist Link'] = responseJSON["external_urls"]["spotify"]
+        dayDetails['Playlist URI'] = responseJSON["uri"]
         print("-- Edition Data Found.")
-        return editionDayData
+        return dayDetails
 
     # # Grab Article data
     # def GetArticleData(editionObj):
@@ -51,7 +55,6 @@ class NPRPageParser:
 
     # Grab data about each article         
     def GetArticleInfo(articleHTML):
-        # print(articleHTML.xpath())
         articleInfo = dict()
         articleInfo['Title'] = articleHTML.xpath('.//div/h3[@class="rundown-segment__title"]/a/text()').get()
         articleInfo['Link'] = articleHTML.xpath('.//div/h3[@class="rundown-segment__title"]/a/@href').get()
@@ -70,24 +73,21 @@ class NPRPageParser:
     #     pageData.append(newInterludeInfo)
 
     # Grab data about each interlude
-    def GetInterludeInfo(songHTML):
+    def GetInterludeSongName(songHTML):
         # gross trim leading/trailing then duplicate spaces also splitting artists if "&" or "," found into list
-        songData = dict()
-        if songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
-            songData['Interlude Artist'] = None
-        else:
-            artistDataList = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
-            for artist in artistDataList:
-                strippedArtist = artist.strip()
-            songData['Interlude Artist'] = artistDataList
-        # grab song name
         if songHTML.xpath('.//span[@class="song-meta-title"]/text()').get() == None:
-            songData['Interlude Song'] = None
+            return None
         else: 
-            songTitle = re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-title"]/text()').get()))
-        songData['Interlude Song'] = songTitle
-        print("-- Interlude info found.")
-        return songData
+            return re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-title"]/text()').get()))
+    
+    def GetInterludeArtistNames(songHTML):
+        if songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
+            return None
+        else:
+            artists = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+            for artist in artists:
+                artist.strip()
+            return artists
 
     # Load json file data, check to ensure it's valid first
     def LoadJSONFile(filename):
