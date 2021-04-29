@@ -84,9 +84,8 @@ class NPRPageParser:
         if songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
             return None
         else:
-            artists = re.split('[&,]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
-            for artist in artists:
-                artist.strip()
+            artists = re.split('[&,/]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+            artists[:] = [s.strip() for s in artists]
             return artists
 
     # Load json file data, check to ensure it's valid first

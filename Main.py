@@ -1,5 +1,6 @@
 import os
 import time
+import json
 from urllib.parse import urlparse
 from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
@@ -26,11 +27,12 @@ for month, daylinks in editionYearLinkCache.items():
             if item.attrib['class'] == 'rundown-segment':
                 editionDayData.append(NPRPageParser.GetArticleInfo(item))
             elif item.attrib['class'] == 'music-interlude responsive-rundown':
-                for artist in item.xpath('.//div[@class="song-meta-wrap"]'):
-                    trackname = NPRPageParser.GetInterludeSongName(item)
-                    artistNames = NPRPageParser.GetInterludeArtistNames(item)
+                for track in item.xpath('.//div[@class="song-meta-wrap"]'):
+                    trackname = NPRPageParser.GetInterludeSongName(track)
+                    artistNames = NPRPageParser.GetInterludeArtistNames(track)
                     editionDayData.append(nprSpotifySearch.SearchSpotify(trackname, artistNames))
-        print(editionDayData)
+        # jsonStr = json.dumps(editionDayData)
+        print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
         break
     break
 

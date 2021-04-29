@@ -25,21 +25,12 @@ class NPRSpotifySearch:
     # GetTrackURIs transforms the data I send it, is that confusing to a user they get back different data?
     def SearchSpotify(self, track, artists):
         trackCopy = track
-        artistsCopy = artists
         trackResponses = list()
-        if artistsCopy == None or len(artistsCopy) == 0:
-            artistsCopy = list()
-            artistsCopy.append("")
-        for artist in artistsCopy:
-            if track == None:
-                matchResult = dict()
-                matchResult["Interlude Track"] = track
-                matchResult["Interlude Artists"] = artists
-                matchResult["Interlude Track URI"] = None
-                matchResult["Interlude Match Track"] = None
-                matchResult["Interlude Match Artists"] = None
-                matchResult["Interlude Match Percent"] = None
-                return matchResult
+        # artistsCopy = artists
+        # if artistsCopy == None or len(artistsCopy) == 0:
+        #     artistsCopy = list()
+        #     artistsCopy.append("")
+        for artist in artists:
             artistResponses = list()
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
             track = self.RemoveBrackets(unidecode(track))
@@ -55,67 +46,59 @@ class NPRSpotifySearch:
             artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(artist)))
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(artist)))
             trackResponses.append(artistResponses)
-        print("-- NPR Track {0} by {1} searched.".format(track, str(artists)))
+        print("-- NPR Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         return self.ChooseBestMatch(trackResponses, track, artists)
 
     # Using libdiff to create a hit threshhold of sorts.
     def ChooseBestMatch(self, responses, track, artists):
         bestMatch = dict()
-        bestMatch["Interlude Track"] = track
-        bestMatch["Interlude Artists"] = artists
-        bestMatch["Interlude Match Track"] = ""
-        bestMatch["Interlude Match Artists"] = ""
-        bestMatch["Interlude Match Percent"] = 0
-        if responses == None or len(responses) == 0:
+        bestMatch["Result Track-Match Percent"] = 0.0
+        bestMatch["Result Artists-Match Percent"] = 0.0
+        if responses == None or len(responses) == 0.0:
             print("hmmm...")
         else:
-            currentResult = dict()
-            currentResult["Interlude Track URI"] = ""
-            currentResult["Interlude Match Track"] = ""
-            currentResult["Interlude Match Artists"] = ""
-            currentResult["Interlude Match Percent"] = 0.0
             for response in responses:
                 for result in response:
-                    if len(result["tracks"]["items"]) == 0:
+                    if len(result["tracks"]["items"]) == 0.0:
                         continue
                     else:
-                        resultTrackName = result["tracks"]["items"][0]["name"]
+                        currentResult = dict()
+                        currentResult["NPR Track Name"] = track
+                        currentResult["NPR Artist Names"] = artists
+                        currentResult["Result Track Name"] = result["tracks"]["items"][0]["name"]
                         resultArtists = list()
                         for resultartist in result["tracks"]["items"][0]["artists"]:
                             resultArtists.append(resultartist["name"])
-                        currentResult["Interlude Track URI"] = result["tracks"]["items"][0]["uri"]
-                        currentResult["Interlude Match Track"] = resultTrackName
-                        currentResult["Interlude Match Artists"] = resultArtists
-                        seqTrack = SequenceMatcher(a=str(track).lower(), b=str(resultTrackName).lower())
-                        seqArtist = SequenceMatcher(a=str(artists).lower(), b=str(resultArtists).lower())
-                        artistRatio = seqArtist.ratio()
-                        trackRatio = seqTrack.ratio()
-                        # perfect 
-                        if trackRatio >= 1.0 and artistRatio >= 1.0:
-                            currentResult["Interlude Match Percent"] = trackRatio
-                        # artist name might be a bit wrong
-                        elif trackRatio >= 0.9 and artistRatio >= 0.2:
-                            currentResult["Interlude Match Percent"] = trackRatio
-                        # good chance match
-                        elif trackRatio >= 0.6 and artistRatio >= 0.6:
-                            currentResult["Interlude Match Percent"] = trackRatio
-                        # close match
-                        elif trackRatio >= 0.4 and artistRatio >= 0.8:
-                            currentResult["Interlude Match Percent"] = trackRatio
-                        # poor chance 
-                        elif trackRatio < 0.4 and artistRatio < 0.2:
-                            currentResult["Interlude Match Percent"] = 0.0
-                        # catch rest as no match
-                        else:
-                            currentResult["Interlude Match Percent"] = 0.0
-                        if currentResult["Interlude Match Percent"] >= bestMatch["Interlude Match Percent"]:
+                        currentResult["Result Artist Names"] = resultArtists
+                        currentResult["Result Track URI"] = result["tracks"]["items"][0]["uri"]
+                        seqTrack = SequenceMatcher(a=str(track).lower(), b=str(currentResult["Result Track Name"]).lower())
+                        seqArtist = SequenceMatcher(a=str(artists).lower(), b=str(currentResult["Result Artist Names"]).lower())
+                        currentResult["Result Track-Match Percent"] = seqTrack.ratio()
+                        currentResult["Result Artists-Match Percent"] = seqArtist.ratio()
+                        if currentResult["Result Track-Match Percent"] > bestMatch["Result Track-Match Percent"]:
+                            # perfect 
+                            if currentResult["Result Artists-Match Percent"] > bestMatch["Result Artists-Match Percent"]:
+                                bestMatch["Result Artists-Match Percent"] = currentResult["Result Artists-Match Percent"]
+                            # # good chance match
+                            # elif artistRatio >= 0.8:
+                            #     currentResult["Result Artists-Match Percent"] = artistRatio
+                            # # decent artist match to what npr had for artist
+                            # elif artistRatio >= 0.6:
+                            #     currentResult["Result Artists-Match Percent"] = artistRatio
+                            # # artist name might be completely wrong on npr page
+                            # elif artistRatio >= 0.2:
+                            #     currentResult["Result Artists-Match Percent"] = artistRatio
+                            # # catch rest as no match
+                            # else:
+                            #     currentResult["Result Artists-Match Percent"] = artistRatio
                             bestMatch = currentResult
+                            print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
                         else:
-                            continue
-        print("Match Track {0} by {1} found.".format(bestMatch["Interlude Match Track"], bestMatch["Interlude Match Artists"]))
-        print("Match percent: {0}".format(bestMatch["Interlude Match Percent"]))
+                            print("-- Not better than best.")
+        print("--------- Best Selected -----------------")
+        print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
+        print("--------- Best Selected -----------------")
         return bestMatch
-
     def RemoveBrackets(self, track):
         newTrack = track.translate({ord(i): None for i in '[]'})
         return newTrack
