@@ -52,6 +52,11 @@ class NPRSpotifySearch:
     # Using libdiff to create a hit threshhold of sorts.
     def ChooseBestMatch(self, responses, track, artists):
         bestMatch = dict()
+        bestMatch["NPR Track Name"] = track
+        bestMatch["NPR Artist Names"] = artists
+        bestMatch["Result Track Name"] = None
+        bestMatch["Result Artist Names"] = None
+        bestMatch["Result Track URI"] = None
         bestMatch["Result Track-Match Percent"] = 0.0
         bestMatch["Result Artists-Match Percent"] = 0.0
         if responses == None or len(responses) == 0.0:
@@ -97,7 +102,7 @@ class NPRSpotifySearch:
                             print("-- Not better than best.")
         print("--------- Best Selected -----------------")
         print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
-        print("--------- Best Selected -----------------")
+        print("--------- Best Selected End -----------------")
         return bestMatch
     def RemoveBrackets(self, track):
         newTrack = track.translate({ord(i): None for i in '[]'})
