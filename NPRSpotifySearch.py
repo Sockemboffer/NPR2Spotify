@@ -43,7 +43,8 @@ class NPRSpotifySearch:
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(artist)))
             trackResponses.append(artistResponses)
         print("-- NPR Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
-        return self.ChooseBestMatch(trackResponses, track, artists)
+        bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
+        return bestChoice
 
     # Using libdiff to create a hit threshhold of sorts.
     def ChooseBestMatch(self, responses, track, artists):

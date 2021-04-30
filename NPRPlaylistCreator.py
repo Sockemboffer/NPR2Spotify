@@ -59,24 +59,23 @@ class NPRPlaylistCreator:
             newDescription["description"] = "😭💔 Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks)) + " "
             for item in missedTracksList:
                 newDescription["description"] += "❌ \"" + item["NPR Track Name"] + "\" by: " + ", ".join(item["NPR Artist Names"]) + " "
-            newDescription["description"] += " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify[a-t]pm.me"
+            newDescription["description"] += " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify@pm.me"
             # Check if description exceeds character limit (300) so we can truncate
             # returns response ok if over limit, but no description will be made.
             if len(newDescription["description"]) > 300:
                 newDescription["description"] = newDescription["description"][:300]
-                newEndingDescription =  "🚧 ...desc. limit " + "🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify[a-t]pm.me"
+                newEndingDescription =  "🚧 ...desc. limit " + "🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify@pm.me"
                 newDescription["description"] = newDescription["description"][:len(newEndingDescription)*-1]
                 newDescription["description"] += newEndingDescription
                 print("!! Truncated description.")
         else:
             newDescription = dict()
-            newDescription["description"] = "🤩🌈 Found " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify[a-t]pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥 www.npr.org/donations/support 🔥"
+            newDescription["description"] = "🤩🌈 Found " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify@pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥 www.npr.org/donations/support 🔥"
         query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
         self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("-- Playlist description updated.")
 
     def GetNewCover(day):
-        print("-- All Tracks found jpg selected.")
         if (day != "Saturday") and (day != "Sunday"):
             with open("NPRLogos/npr_me.jpg", "rb") as im:
                 encoded_string = base64.b64encode(im.read())
