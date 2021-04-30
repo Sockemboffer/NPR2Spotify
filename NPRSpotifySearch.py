@@ -111,7 +111,6 @@ class NPRSpotifySearch:
     def SearchImplicitTrackExplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # print(json.dumps(response.json(), sort_keys=True, indent=4))
         return response.json()
 
     def SearchImplicitTrackImplicitArtist(self, track, artist):

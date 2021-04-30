@@ -31,6 +31,6 @@ for month, daylinks in editionYearLinkCache.items():
         nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
         nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
         nprPlaylistCreator.UpdatePlaylistDescription(editionDayData)
-        print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
+        # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
         break
     break
