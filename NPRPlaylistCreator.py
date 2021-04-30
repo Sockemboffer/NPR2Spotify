@@ -42,27 +42,25 @@ class NPRPlaylistCreator:
         encoded_string = NPRPlaylistCreator.GetNewCover(editionDayData[0]["Day"])
         query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, editionDayData[0]['Playlist URI']) 
         self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
-        # if response.status_code != 200:
-        #     raise ResponseException(response.status_code)
         print("-- Playlist cover image added.")
 
-    def UpdatePlaylistDescription(self, searchedTracks, playlistID, nprURL):
-        # Removing exessive link-guts so description has more to work with
-        nprURL = nprURL.partition("?")
+    def UpdatePlaylistDescription(self, editionDayData):
         missedTracksList = list()
-        for track in searchedTracks:
-            if track["Match"] < 0.4:
-                missedTracksList.append(track)
-        # print("Missed Tracks: ")
-        # print(missedTracksList)
+        foundTracks = list()
+        for item in editionDayData:
+            for entry in item:
+                if entry == "Result Track-Match Percent":
+                    if item["Result Track-Match Percent"] < 0.5:
+                        missedTracksList.append(item)
+                    elif item["Result Track-Match Percent"] >= 0.5:
+                        foundTracks.append(item)
         if len(missedTracksList) != 0:
             newDescription = dict()
-            newDescription["description"] = "😭💔 Missing " + str(len(missedTracksList)) + " of " + str(len(searchedTracks)) + " "
-            for track in missedTracksList:
-                newDescription["description"] += "❌ \"" + track["NPR Track Name"] + "\" by: " + ", ".join(track["NPR Artist Name"]) + " "
+            newDescription["description"] = "😭💔 Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks)) + " "
+            for item in missedTracksList:
+                newDescription["description"] += "❌ \"" + item["NPR Track Name"] + "\" by: " + ", ".join(item["NPR Artist Names"]) + " "
             newDescription["description"] += " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify[a-t]pm.me"
-            # 300 character limit playlist desciption
-            # Check if description exceeds character limit so we can truncate
+            # Check if description exceeds character limit (300) so we can truncate
             # returns response ok if over limit, but no description will be made.
             if len(newDescription["description"]) > 300:
                 newDescription["description"] = newDescription["description"][:300]
@@ -72,12 +70,9 @@ class NPRPlaylistCreator:
                 print("!! Truncated description.")
         else:
             newDescription = dict()
-            newDescription["description"] = "🤩🌈 Found " + str(len(searchedTracks)) + " of " + str(len(searchedTracks)) + " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify[a-t]pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥 www.npr.org/donations/support 🔥"
-        missedTracksList.clear()
-        query = "https://api.spotify.com/v1/playlists/{}".format(playlistID)
+            newDescription["description"] = "🤩🌈 Found " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " 🏁 Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify[a-t]pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥 www.npr.org/donations/support 🔥"
+        query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
         self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
-        # if response.status_code != 200:
-        #     raise ResponseException(response.status_code)
         print("-- Playlist description updated.")
 
     def GetNewCover(day):

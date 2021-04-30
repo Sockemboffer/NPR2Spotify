@@ -26,10 +26,6 @@ class NPRSpotifySearch:
     def SearchSpotify(self, track, artists):
         trackCopy = track
         trackResponses = list()
-        # artistsCopy = artists
-        # if artistsCopy == None or len(artistsCopy) == 0:
-        #     artistsCopy = list()
-        #     artistsCopy.append("")
         for artist in artists:
             artistResponses = list()
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
@@ -81,21 +77,8 @@ class NPRSpotifySearch:
                         currentResult["Result Track-Match Percent"] = seqTrack.ratio()
                         currentResult["Result Artists-Match Percent"] = seqArtist.ratio()
                         if currentResult["Result Track-Match Percent"] > bestMatch["Result Track-Match Percent"]:
-                            # perfect 
                             if currentResult["Result Artists-Match Percent"] > bestMatch["Result Artists-Match Percent"]:
                                 bestMatch["Result Artists-Match Percent"] = currentResult["Result Artists-Match Percent"]
-                            # # good chance match
-                            # elif artistRatio >= 0.8:
-                            #     currentResult["Result Artists-Match Percent"] = artistRatio
-                            # # decent artist match to what npr had for artist
-                            # elif artistRatio >= 0.6:
-                            #     currentResult["Result Artists-Match Percent"] = artistRatio
-                            # # artist name might be completely wrong on npr page
-                            # elif artistRatio >= 0.2:
-                            #     currentResult["Result Artists-Match Percent"] = artistRatio
-                            # # catch rest as no match
-                            # else:
-                            #     currentResult["Result Artists-Match Percent"] = artistRatio
                             bestMatch = currentResult
                             print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
                         else:
@@ -140,49 +123,3 @@ class NPRSpotifySearch:
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=1".format(parse.quote(str(track + " AND " + artist)))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         return response.json()
-
-    # # Take the responses and strip out what I want/need for later into my own dictionary
-    # def GenerateMatchRatios(self, responsesJSON, track, artists):
-    #     if responsesJSON == None or len(responsesJSON) == 0:
-    #         # Empty or no tracks returned
-    #         parsed = dict()
-    #         parsed["Match Ratio"] = None
-    #         print("-- No matches found for {} by {}", track, str(artists))
-    #     # Loop over every search results
-    #     parsedTracks = list()
-    #     for artistResponse in responsesJSON:
-    #         # do we have any results for this artist
-    #         if len(artistResponse) != 0:
-    #             for result in artistResponse:
-    #                 # is there track data to get
-    #                 if result["tracks"]["total"] != 0:
-    #                     # parsed = dict()
-    #                     # parsed["Found Track Name"] = result["tracks"]["items"][0]["name"]
-    #                     # # later we want to itterate over lists because there could be tracks with many artists credited
-    #                     # # Spotfy's results can return a list of attributed artists or if only one a string
-    #                     # artistList = list()
-    #                     # if isinstance(result["tracks"]["items"][0]["artists"], list):
-    #                     #     for artist in result["tracks"]["items"][0]["artists"]:
-    #                     #         artistList.append(artist["name"])
-    #                     #     parsed["Found Artist Names"] = artistList
-    #                     # else:
-    #                     #     emptyList = list()
-    #                     #     emptyList.append("")
-    #                     #     parsed["Found Artist Names"] = emptyList
-    #                     # parsed["Found Track URI"] = result["tracks"]["items"][0]["uri"]
-    #                     # parsed["Match"] = None
-    #                     # parsedTracks.append(parsed)
-    #                 else:
-    #                     # # Empty result used later
-    #                     # parsed = dict()
-    #                     # parsed["NPR Track Name"] = track
-    #                     # parsed["Found Track Name"] = ""
-    #                     # parsed["NPR Artist Name"] = artists
-    #                     # emptyList = list()
-    #                     # emptyList.append("")
-    #                     # parsed["Found Artist Name"] = emptyList
-    #                     # parsed["Found Track URI"] = ""
-    #                     # parsed["Match"] = 0
-    #                     # parsedTracks.append(parsed)
-    #     self.CatagorizeResponses(parsedTracks)
-    #     return parsedTracks
