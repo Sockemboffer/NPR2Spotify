@@ -24,21 +24,23 @@ class NPRPlaylistCreator:
         print("-- Playlist created.")
         return response_json
 
-    def AddTracksToPlaylist(self, searchedTracks, playlistID):
+    def AddTracksToPlaylist(self, editionDayData):
         tracksURIs = list()
-        for track in searchedTracks:
-            if track["Match"] >= 0.4:
-                tracksURIs.append(track["Found Track URI"])
+        for item in editionDayData:
+            for entry in item:
+                if entry == "Result Track-Match Percent":
+                    if item["Result Track-Match Percent"] >= 0.5:
+                        tracksURIs.append(item["Result Track URI"])
         urisData = dict()
         urisData["uris"] = tracksURIs
         request_data = json.dumps(urisData)
-        query = "https://api.spotify.com/v1/playlists/{}/tracks".format(playlistID)
+        query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
         self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("-- Playlist tracks added.")
 
-    def AddCoverArtToPlaylist(self, searchedTracks, day, playlistID):
-        encoded_string = NPRPlaylistCreator.GetNewCover(searchedTracks, day)
-        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, playlistID) 
+    def AddCoverArtToPlaylist(self, editionDayData):
+        encoded_string = NPRPlaylistCreator.GetNewCover(editionDayData[0]["Day"])
+        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, editionDayData[0]['Playlist URI']) 
         self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
         # if response.status_code != 200:
         #     raise ResponseException(response.status_code)
@@ -78,7 +80,7 @@ class NPRPlaylistCreator:
         #     raise ResponseException(response.status_code)
         print("-- Playlist description updated.")
 
-    def GetNewCover(searchedTracks, day):
+    def GetNewCover(day):
         print("-- All Tracks found jpg selected.")
         if (day != "Saturday") and (day != "Sunday"):
             with open("NPRLogos/npr_me.jpg", "rb") as im:

@@ -4,6 +4,7 @@ import json
 from urllib.parse import urlparse
 from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
+from NPRPlaylistCreator import NPRPlaylistCreator
 
 # # # Create a json file for each year of day links (only need to run one time)
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
@@ -18,6 +19,7 @@ for month, daylinks in editionYearLinkCache.items():
         # print(url)
         # Parsing an NPR page for it's interlude track data
         nprSpotifySearch = NPRSpotifySearch()
+        nprPlaylistCreator = NPRPlaylistCreator()
         requestedHTML = NPRPageParser.RequestURL(url)
         selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
         editionDayData.append(NPRPageParser.GetEditionData(url, selectedHTML)) # get various article data from this day
@@ -31,6 +33,8 @@ for month, daylinks in editionYearLinkCache.items():
                     trackname = NPRPageParser.GetInterludeSongName(track)
                     artistNames = NPRPageParser.GetInterludeArtistNames(track)
                     editionDayData.append(nprSpotifySearch.SearchSpotify(trackname, artistNames))
+        nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
+        nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
         # jsonStr = json.dumps(editionDayData)
         print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
         break

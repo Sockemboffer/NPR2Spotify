@@ -44,7 +44,7 @@ class NPRPageParser:
         playlistName = dayDetails['Playlist Name']
         responseJSON = nprPlaylistCreator.CreatePlaylist(playlistName)
         dayDetails['Playlist Link'] = responseJSON["external_urls"]["spotify"]
-        dayDetails['Playlist URI'] = responseJSON["uri"]
+        dayDetails['Playlist URI'] = responseJSON["id"]
         print("-- Edition Data Found.")
         return dayDetails
 
