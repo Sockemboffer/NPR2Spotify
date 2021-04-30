@@ -10,7 +10,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
 # August 2000's seems to be when some interlude data is being documented
-editionYear = 2003
+editionYear = 2020
 editionDayData = list()
 editionYearLinkCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(editionYear) + "-NPRArticleLinkCache.json")
 for month, daylinks in editionYearLinkCache.items():

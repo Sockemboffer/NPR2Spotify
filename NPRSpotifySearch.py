@@ -26,6 +26,8 @@ class NPRSpotifySearch:
     def SearchSpotify(self, track, artists):
         trackCopy = track
         trackResponses = list()
+        if artists == None:
+            artists = list("")
         for artist in artists:
             artistResponses = list()
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
