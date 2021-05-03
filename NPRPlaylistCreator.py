@@ -29,7 +29,7 @@ class NPRPlaylistCreator:
         for item in editionDayData:
             for entry in item:
                 if entry == "Result Track-Match Percent":
-                    if item["Result Track-Match Percent"] >= 0.5:
+                    if item["Result Track-Match Percent"] >= 0.4:
                         tracksURIs.append(item["Result Track URI"])
         urisData = dict()
         urisData["uris"] = tracksURIs
@@ -50,27 +50,27 @@ class NPRPlaylistCreator:
         for item in editionDayData:
             for entry in item:
                 if entry == "Result Track-Match Percent":
-                    if item["Result Track-Match Percent"] < 0.5:
-                        missedTracksList.append(item)
-                    elif item["Result Track-Match Percent"] >= 0.5:
+                    if item["Result Track-Match Percent"] >= 0.4:
                         foundTracks.append(item)
+                    else:
+                        missedTracksList.append(item)
         if len(missedTracksList) != 0:
             newDescription = dict()
-            newDescription["description"] = "😭Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks)) + " "
+            newDescription["description"] = "😭 Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks)) + " "
             for item in missedTracksList:
-                newDescription["description"] += "❓\"" + item["NPR Track Name"] + "\" by: " + ", ".join(item["NPR Artist Names"]) + " "
+                newDescription["description"] += " ❓\"" + item["NPR Track Name"] + "\" by: " + ", ".join(item["NPR Artist Names"]) + " "
             newDescription["description"] += " 📝Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰Corrections: MoWeEd2Spotify@pm.me"
             # Check if description exceeds character limit (300) so we can truncate
             # returns response ok if over limit, but no description will be made.
             if len(newDescription["description"]) > 300:
                 newDescription["description"] = newDescription["description"][:300]
-                newEndingDescription =  "🚧...desc. limit " + "📝Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰Corrections: MoWeEd2Spotify@pm.me"
+                newEndingDescription =  " 🚧...desc. limit " + " 📝Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰 Corrections: MoWeEd2Spotify@pm.me"
                 newDescription["description"] = newDescription["description"][:len(newEndingDescription)*-1]
                 newDescription["description"] += newEndingDescription
                 print("!! Truncated description.")
         else:
             newDescription = dict()
-            newDescription["description"] = "🌈Found🤩 " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + "📝Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰Corrections: MoWeEd2Spotify@pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥www.npr.org/donations/support"
+            newDescription["description"] = "🌈 Found 🤩 " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " 📝Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰Corrections: MoWeEd2Spotify@pm.me ⇔ " + "Support your local 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑‍🤝‍🧑👩🏾‍🤝‍👩🏼🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍👩🏿👬🧑🏽‍🤝‍🧑🏾👫🏿📻 station because they're rad AND use dope music. 💯🔥www.npr.org/donations/support"
         query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
         self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("-- Playlist description updated.")

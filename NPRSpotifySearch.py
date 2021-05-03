@@ -26,9 +26,19 @@ class NPRSpotifySearch:
     def SearchSpotify(self, track, artists):
         trackCopy = track
         trackResponses = list()
+        strippedArtists = list()
         if artists == None:
-            artists = list("")
-        for artist in artists:
+            artists = list("") # we could still search and accept a track result hit without an artist entry
+        else:
+            auxiliaryList = list()
+            for artist in artists:
+                artist = self.RemoveCommonPhrases(self.RemoveParenthesis(self.RemoveBrackets(artist)))
+                artist = artist.split()
+                for word in artist:
+                    if word not in auxiliaryList:
+                        auxiliaryList.append(word)
+            auxiliaryList.extend(artists)
+        for artist in auxiliaryList:
             artistResponses = list()
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
             track = self.RemoveBrackets(unidecode(track))
@@ -80,16 +90,17 @@ class NPRSpotifySearch:
                         currentResult["Result Track-Match Percent"] = seqTrack.ratio()
                         currentResult["Result Artists-Match Percent"] = seqArtist.ratio()
                         if currentResult["Result Track-Match Percent"] > bestMatch["Result Track-Match Percent"]:
-                            if currentResult["Result Artists-Match Percent"] > bestMatch["Result Artists-Match Percent"]:
-                                bestMatch["Result Artists-Match Percent"] = currentResult["Result Artists-Match Percent"]
-                            bestMatch = currentResult
-                            print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
+                            if currentResult["Result Artists-Match Percent"] >= 0.45:
+                                bestMatch = currentResult
+                            # bestMatch = currentResult
+                            # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
                         else:
                             print("-- Not better than best.")
         print("--------- Best Selected -----------------")
         print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
         print("--------- Best Selected End -----------------")
         return bestMatch
+    
     def RemoveBrackets(self, track):
         newTrack = track.translate({ord(i): None for i in '[]'})
         return newTrack
@@ -99,7 +110,7 @@ class NPRSpotifySearch:
         return newTrack
 
     def RemoveCommonPhrases(self, track):
-        stop_words = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature']
+        stop_words = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature', 'and', 'the']
         stopwords_dict = Counter(stop_words)
         result = ' '.join([word for word in track.split() if word not in stopwords_dict])
         return result
