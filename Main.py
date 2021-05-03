@@ -9,32 +9,62 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # # # Create a json file for each year of day links (only need to run one time)
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
-# August 2000's seems to be when some interlude data is being documented
-editionYear = 2020
-editionDayData = list()
-editionYearLinkCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(editionYear) + "-NPRArticleLinkCache.json")
-for month, daylinks in editionYearLinkCache.items():
-    for url in daylinks:
-        nprSpotifySearch = NPRSpotifySearch()
-        nprPlaylistCreator = NPRPlaylistCreator()
-        nprPageParser = NPRPageParser()
-        requestedHTML = NPRPageParser.RequestURL(url)
-        selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
-        editionDayData.append(NPRPageParser.GetEditionData(url, selectedHTML)) # get various article data from this day
-        trackResults = list()
-        for item in selectedHTML.xpath('.//div[@id="story-list"]/*'):
-            if item.attrib['class'] == 'rundown-segment':
-                editionDayData.append(NPRPageParser.GetArticleInfo(item))
-            elif item.attrib['class'] == 'music-interlude responsive-rundown':
-                for track in item.xpath('.//div[@class="song-meta-wrap"]'):
-                    trackname = NPRPageParser.GetInterludeSongName(track)
-                    artistNames = NPRPageParser.GetInterludeArtistNames(track)
-                    editionDayData.append(nprSpotifySearch.SearchSpotify(trackname, artistNames))
-        nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
-        nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
-        nprPlaylistCreator.UpdatePlaylistDescription(editionDayData)
-        nprPageParser.SaveJSONFile(editionDayData)
-        print("Finished {0}.\n".format(editionDayData[0]["Date Text"]))
-        editionDayData.clear()
-        time.sleep(5) # Don't hammer their server
-        # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
+# # August 2000's seems to be when some interlude data is being documented
+# editionYear = 2020
+# editionDayData = list()
+# editionYearLinkCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(editionYear) + "-NPRArticleLinkCache.json")
+# for month, daylinks in editionYearLinkCache.items():
+#     for url in daylinks:
+#         nprSpotifySearch = NPRSpotifySearch()
+#         nprPlaylistCreator = NPRPlaylistCreator()
+#         nprPageParser = NPRPageParser()
+#         requestedHTML = NPRPageParser.RequestURL(url)
+#         selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
+#         editionDayData.append(NPRPageParser.GetEditionData(url, selectedHTML)) # get various article data from this day
+#         trackResults = list()
+#         for item in selectedHTML.xpath('.//div[@id="story-list"]/*'):
+#             if item.attrib['class'] == 'rundown-segment':
+#                 editionDayData.append(NPRPageParser.GetArticleInfo(item))
+#             elif item.attrib['class'] == 'music-interlude responsive-rundown':
+#                 for track in item.xpath('.//div[@class="song-meta-wrap"]'):
+#                     trackname = NPRPageParser.GetInterludeSongName(track)
+#                     artistNames = NPRPageParser.GetInterludeArtistNames(track)
+#                     editionDayData.append(nprSpotifySearch.SearchSpotify(trackname, artistNames))
+#         nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
+#         nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
+#         nprPlaylistCreator.UpdatePlaylistDescription(editionDayData)
+#         nprPageParser.SaveJSONFile(editionDayData)
+#         print("Finished {0}.\n".format(editionDayData[0]["Date Text"]))
+#         editionDayData.clear()
+#         time.sleep(5) # Don't hammer their server
+#         # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
+
+def spotCheckSinglePage(url):
+    editionDayData = list()
+    nprSpotifySearch = NPRSpotifySearch()
+    nprPlaylistCreator = NPRPlaylistCreator()
+    nprPageParser = NPRPageParser()
+    requestedHTML = NPRPageParser.RequestURL(url)
+    selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
+    editionDayData.append(NPRPageParser.GetEditionData(url, selectedHTML)) # get various article data from this day
+    trackResults = list()
+    for item in selectedHTML.xpath('.//div[@id="story-list"]/*'):
+        if item.attrib['class'] == 'rundown-segment':
+            editionDayData.append(NPRPageParser.GetArticleInfo(item))
+        elif item.attrib['class'] == 'music-interlude responsive-rundown':
+            for track in item.xpath('.//div[@class="song-meta-wrap"]'):
+                trackname = NPRPageParser.GetInterludeSongName(track)
+                artistNames = NPRPageParser.GetInterludeArtistNames(track)
+                editionDayData.append(nprSpotifySearch.SearchSpotify(trackname, artistNames))
+    nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
+    nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
+    nprPlaylistCreator.UpdatePlaylistDescription(editionDayData)
+    nprPageParser.SaveJSONFile(editionDayData)
+    print("Finished {0}.\n".format(editionDayData[0]["Date Text"]))
+    editionDayData.clear()
+    # time.sleep(5) # Don't hammer their server
+    # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
+
+spotURL = "https://www.npr.org/programs/morning-edition/2020/12/15/946585924/morning-edition-for-december-15-2020?showDate=2020-12-15"
+spotCheckSinglePage(spotURL)
+
