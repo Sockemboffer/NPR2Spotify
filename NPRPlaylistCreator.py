@@ -44,7 +44,7 @@ class NPRPlaylistCreator:
         self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
         print("-- Playlist cover image added.")
 
-    # TODO change this to check what was stored rather than doing track-match comparisons
+    # TODO change this to check what is stored rather than doing track-match comparisons
     def UpdatePlaylistDescription(self, editionDayData):
         missedTracksList = list()
         foundTracks = list()
@@ -57,7 +57,7 @@ class NPRPlaylistCreator:
                         missedTracksList.append(item)
         if len(missedTracksList) != 0:
             newDescription = dict()
-            newDescription["description"] = "😭 Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
+            newDescription["description"] = "😭Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
             for item in missedTracksList:
                 newDescription["description"] += " ❓\"" + item["NPR Track Name"] + "\" by: " + ", ".join(item["NPR Artist Names"]) + " "
             newDescription["description"] += " 📝Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰Corrections: MoWeEd2Spotify@pm.me"
