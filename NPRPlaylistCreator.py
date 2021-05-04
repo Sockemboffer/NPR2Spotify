@@ -29,7 +29,7 @@ class NPRPlaylistCreator:
         for item in editionDayData:
             for entry in item:
                 if entry == "Result Track-Match Percent":
-                    if item["Result Track-Match Percent"] >= 0.4:
+                    if item["Result Track-Match Percent"] >= 0.5:
                         tracksURIs.append(item["Result Track URI"])
         urisData = dict()
         urisData["uris"] = tracksURIs
@@ -44,19 +44,20 @@ class NPRPlaylistCreator:
         self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
         print("-- Playlist cover image added.")
 
+    # TODO change this to check what was stored rather than doing track-match comparisons
     def UpdatePlaylistDescription(self, editionDayData):
         missedTracksList = list()
         foundTracks = list()
         for item in editionDayData:
             for entry in item:
                 if entry == "Result Track-Match Percent":
-                    if item["Result Track-Match Percent"] >= 0.4:
+                    if item["Result Track-Match Percent"] >= 0.5:
                         foundTracks.append(item)
                     else:
                         missedTracksList.append(item)
         if len(missedTracksList) != 0:
             newDescription = dict()
-            newDescription["description"] = "😭 Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks)) + " "
+            newDescription["description"] = "😭 Missing " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
             for item in missedTracksList:
                 newDescription["description"] += " ❓\"" + item["NPR Track Name"] + "\" by: " + ", ".join(item["NPR Artist Names"]) + " "
             newDescription["description"] += " 📝Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🧰Corrections: MoWeEd2Spotify@pm.me"

@@ -1,5 +1,6 @@
 import copy
 import json
+import time
 import requests
 from urllib import parse
 from collections import Counter
@@ -26,7 +27,6 @@ class NPRSpotifySearch:
     def SearchSpotify(self, track, artists):
         trackCopy = track
         trackResponses = list()
-        strippedArtists = list()
         if artists == None:
             artists = list("") # we could still search and accept a track result hit without an artist entry
         else:
@@ -34,25 +34,30 @@ class NPRSpotifySearch:
             for artist in artists:
                 artist = self.RemoveCommonPhrases(self.RemoveParenthesis(self.RemoveBrackets(artist)))
                 artist = artist.split()
+                artist.extend(artists)
                 for word in artist:
                     if word not in auxiliaryList:
                         auxiliaryList.append(word)
-            auxiliaryList.extend(artists)
+            # auxiliaryList.extend(artists)
+            auxiliaryList.append("") # Need an empty string for when track match is really high but artist is 0
         for artist in auxiliaryList:
             artistResponses = list()
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
-            track = self.RemoveBrackets(unidecode(track))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
-            track = self.RemoveParenthesis(unidecode(track))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
-            track = self.RemoveCommonPhrases(unidecode(track))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(track), unidecode(artist)))
-            artistResponses.append(self.SearchImplicitTrackExplicitArtist(unidecode(track), unidecode(artist)))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            trackCopy = self.RemoveBrackets(unidecode(trackCopy))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            trackCopy = self.RemoveParenthesis(unidecode(track))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            trackCopy = self.RemoveCommonPhrases(unidecode(trackCopy))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            trackCopy = self.RemoveNumbers(unidecode(trackCopy))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            artistResponses.append(self.SearchImplicitTrackExplicitArtist(unidecode(trackCopy), unidecode(artist)))
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("(")[0]), unidecode(artist)))
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("[")[0]), unidecode(artist)))
             # hail Marry's
             artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(artist)))
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(artist)))
+            # time.sleep(1) # Don't hammer spotify server
             trackResponses.append(artistResponses)
         print("-- NPR Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
@@ -89,9 +94,12 @@ class NPRSpotifySearch:
                         seqArtist = SequenceMatcher(a=str(artists).lower(), b=str(currentResult["Result Artist Names"]).lower())
                         currentResult["Result Track-Match Percent"] = seqTrack.ratio()
                         currentResult["Result Artists-Match Percent"] = seqArtist.ratio()
-                        if currentResult["Result Track-Match Percent"] > bestMatch["Result Track-Match Percent"]:
-                            if currentResult["Result Artists-Match Percent"] >= 0.45:
-                                bestMatch = currentResult
+                        if currentResult["Result Track-Match Percent"] >= 0.5:
+                            if currentResult["Result Track-Match Percent"] > bestMatch["Result Track-Match Percent"]:
+                                if currentResult["Result Artists-Match Percent"] >= 0.6:
+                                    bestMatch = currentResult
+                                elif currentResult["Result Track-Match Percent"] == 1.0 and currentResult["Result Artists-Match Percent"] == 0.0:
+                                    bestMatch = currentResult
                             # bestMatch = currentResult
                             # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
                         else:
@@ -109,8 +117,12 @@ class NPRSpotifySearch:
         newTrack = track.translate({ord(i): None for i in '()'})
         return newTrack
 
+    def RemoveNumbers(self, track):
+        newTrack = track.translate({ord(i): None for i in '0'})
+        return newTrack
+
     def RemoveCommonPhrases(self, track):
-        stop_words = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature', 'and', 'the']
+        stop_words = ['feat.', 'feat', 'original', 'edit', 'featuring', 'feature', 'and', 'the', 'various', 'various artists']
         stopwords_dict = Counter(stop_words)
         result = ' '.join([word for word in track.split() if word not in stopwords_dict])
         return result
