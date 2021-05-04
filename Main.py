@@ -39,7 +39,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         time.sleep(5) # Don't hammer their server
 #         # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
 
-def spotCheckSinglePage(url):
+def SpotCheckSinglePage(url):
     editionDayData = list()
     nprSpotifySearch = NPRSpotifySearch()
     nprPlaylistCreator = NPRPlaylistCreator()
