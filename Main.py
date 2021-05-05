@@ -65,6 +65,6 @@ def SpotCheckSinglePage(url):
     # time.sleep(5) # Don't hammer their server
     # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
 
-spotURL = "https://www.npr.org/programs/morning-edition/2010/12/02/131733332/?showDate=2010-12-02"
-spotCheckSinglePage(spotURL)
+spotURL = "https://www.npr.org/programs/morning-edition/2006/01/20/12919295/?showDate=2006-01-20"
+SpotCheckSinglePage(spotURL)
 

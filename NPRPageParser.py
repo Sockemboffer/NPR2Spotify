@@ -30,7 +30,7 @@ class NPRPageParser:
     def GetEditionData(url, selectedHTML):
         nprPlaylistCreator = NPRPlaylistCreator()
         dayDetails = dict()
-        dayDetails['Page Link'] = url
+        dayDetails['Page Link'] = url.partition("https://")[2].partition("?")[0]
         dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
         dayDetails['Date Text'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
         dayDetails['Date Numbered'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
@@ -69,7 +69,7 @@ class NPRPageParser:
         if songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
             return None
         else:
-            artists = re.split('[&,/]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+            artists = re.split('[,;/]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
             artists[:] = [s.strip() for s in artists]
             return artists
 
