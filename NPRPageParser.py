@@ -69,7 +69,7 @@ class NPRPageParser:
         if songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
             return None
         else:
-            artists = re.split('[,;/]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
+            artists = re.split('[,;&/]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
             artists[:] = [s.strip() for s in artists]
             return artists
 

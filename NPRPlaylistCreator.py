@@ -57,15 +57,15 @@ class NPRPlaylistCreator:
                         missedTracksList.append(item)
         newDescription = dict()
         if len(missedTracksList) != 0:
-            newDescription["description"] = "😭 Missing: " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
+            newDescription["description"] = "❌😭 Missing: " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
         else:
-            newDescription["description"] = "🤩 Found: " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " "
+            newDescription["description"] = "✔️🤩 Found: " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " "
         newDescription["description"] += "🌐 " + editionDayData[0]["Page Link"] + " "
-        newDescription["description"] += "💻 github.com/Sockemboffer/MoWeEd2Spotify "
-        newDescription["description"] += "🤖 created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " "
-        newDescription["description"] += "🧰 corrections: MoWeEd2Spotify@pm.me "
         newDescription["description"] += "💸 Support your local NPR station since they're RAD and use DOPE music. "
-        newDescription["description"] += "💯🔥 www.npr.org/donations/support 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍🧑🏽‍🤝‍🧑🏾👫🏿📻"
+        newDescription["description"] += "📻 www.npr.org/donations/support 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍🧑🏽‍🤝‍🧑🏾👫🏿📻 "
+        newDescription["description"] += "💻 github.com/Sockemboffer/MoWeEd2Spotify "
+        newDescription["description"] += "🧰 my creator is not perfect, corrections: MoWeEd2Spotify@pm.me "
+        newDescription["description"] += "🤖 created: " + str(datetime.datetime.now().__format__("%Y-%m-%d"))
         query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
         self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("-- Playlist description updated.")
