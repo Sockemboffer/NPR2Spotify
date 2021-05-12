@@ -61,13 +61,13 @@ class NPRPageParser:
     # Grab data about each interlude
     def GetInterludeSongName(songHTML):
         if songHTML.xpath('.//span[@class="song-meta-title"]/text()').get() == None:
-            return None
+            return " "
         else: 
             return re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-title"]/text()').get()))
     
     def GetInterludeArtistNames(songHTML):
         if songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
-            return None
+            return " "
         else:
             artists = re.split('[,;&/]', re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get())))
             artists[:] = [s.strip() for s in artists]
