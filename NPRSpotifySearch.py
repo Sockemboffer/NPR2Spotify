@@ -28,10 +28,10 @@ class NPRSpotifySearch:
     def SearchSpotify(self, track, artists):
         trackCopy = track
         trackResponses = list()
+        auxiliaryList = list()
         if artists == None:
-            artists = list("") # we could still search and accept a track result hit without an artist entry
+            artists = list("") # we could still search and accept a track result hit without an artist entry?
         else:
-            auxiliaryList = list()
             for artist in artists:
                 artist = self.RemoveCommonPhrasesArtists(self.RemoveParenthesis(self.RemoveBrackets(artist)))
                 artist = artist.split()
@@ -39,7 +39,6 @@ class NPRSpotifySearch:
                 for word in artist:
                     if word not in auxiliaryList:
                         auxiliaryList.append(word)
-            # auxiliaryList.extend(artists)
             auxiliaryList.append("") # Need an empty string for when track match is really high but artist is 0
         for artist in auxiliaryList:
             artistResponses = list()
@@ -55,10 +54,11 @@ class NPRSpotifySearch:
             artistResponses.append(self.SearchImplicitTrackExplicitArtist(unidecode(trackCopy), unidecode(artist)))
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("(")[0]), unidecode(artist)))
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("[")[0]), unidecode(artist)))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.partition(":")[2]), unidecode(artist)))
             # hail Marry's
             artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
-            # time.sleep(1) # Don't hammer spotify server
+            # time.sleep(1) # Don't hammer spotify server?
             trackResponses.append(artistResponses)
         print("-- NPR Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
@@ -70,54 +70,56 @@ class NPRSpotifySearch:
         bestMatch["NPR Track Name"] = nprTrack
         bestMatch["NPR Artist Names"] = nprArtists
         bestMatch["Result Track Name"] = None
-        bestMatch["Result Artist Names"] = None
+        bestMatch["Result Artist Names"] = list()
         bestMatch["Result Track-Match Percent"] = 0.0
         bestMatch["Result Artists-Match Percent"] = 0.0
         bestMatch["Result Track URI"] = None
         if responses == None or len(responses) == 0.0:
             print("hmmm...")
+        # this is all really gross looking
         else:
             for response in responses:
                 for result in response:
                     if len(result["tracks"]["items"]) != 0.0:
-                        # remove common phrases and symbols from npr track and result track
-                        # remove common phrases and symbols from npr artists and result artists
-                        # if exact match, then we're done
-                        # if not compare our tracks and compare our artists
-                        resultTrackNameSplit = list()
+                        resultTrackName = result["tracks"]["items"][0]["name"]
+                        resultTrackNameSplit = list() # split track name words into a new list for comparison later
+                        for word in resultTrackName.split(): # go through each word in track name
+                            word = re.sub(r'[^\w]', ' ', word).lower().strip() # remove non-alphanumerics
+                            resultTrackNameSplit.extend(word.split()) # split strings that end up like 'no 1'
+                        resultTrackNameSplit = list(filter(None, resultTrackNameSplit)) # get rid of empty strings
                         nprTrackNameSplit = list()
-                        for word in result["tracks"]["items"][0]["name"].split():
-                            resultTrackNameSplit.append(re.sub('[^A-Za-z0-9]+', '', word))
                         for word in nprTrack.split():
-                            nprTrackNameSplit.append(re.sub('[^A-Za-z0-9]+', '', word))
-                        nprMatchesToResult = [sub for sub in resultTrackNameSplit if sub in nprTrackNameSplit]
-                        resultMatchesToNPR = [sub for sub in nprTrackNameSplit if sub in resultTrackNameSplit]
-                        # if nprTrack.lower() in newNPRTrackList.lower():
-                        #     resultTrackName.split(nprTrack)[1]
-                        # else:
-                        #     resultTrackNPRMatches.append(resultTrackName)
-                        # remove full name cruft and see if the npr written track is there
+                            word = re.sub(r'[^\w]', ' ', word).lower().strip()
+                            nprTrackNameSplit.extend(word.split())
+                        nprTrackNameSplit = list(filter(None, nprTrackNameSplit))
+                        resultMatchesToNPR = [sub for sub in resultTrackNameSplit if sub in nprTrackNameSplit] # see what of the result matches the npr name
+                        #
                         nprRemovedPhrasesArtists = list()
                         for artist in nprArtists:
-                            nprRemovedPhrasesArtists.append(self.RemoveCommonPhrasesTracks(self.RemoveCommonPhrasesArtists(artist)))
-                        nprRemovedPhrasesArtists.split()
-                        resultArtistNames = list()
-                        for resultArtist in result["tracks"]["items"][0]["artists"]:
-                            resultArtistNames.append(self.RemoveCommonPhrasesTracks(self.RemoveCommonPhrasesArtists(resultArtist["name"])))
-                        resultArtistNames.split()
-                        resultArtistNPRMatches = [sub for sub in nprRemovedPhrasesArtists if sub in resultArtistNames]
-                        nprArtistNamesSet = set(nprRemovedPhrasesArtists)
+                            artist = re.sub(r'[^\w]', ' ', artist).lower().strip()
+                            nprRemovedPhrasesArtists.extend(artist.split())
+                        nprRemovedPhrasesArtists = list(filter(None, nprRemovedPhrasesArtists))
+                        resultTrackArtistNames = result["tracks"]["items"][0]["artists"]
+                        resultArtistNames = list() # need to split first, last, misc names into individual strings
+                        resultArtistNamesCopy = list() # copy to store later in best match
+                        for artist in resultTrackArtistNames:
+                            resultArtistNamesCopy.append(artist["name"]) # copy to store later in best match
+                            artist["name"] = re.sub(r'[^\w]', ' ', artist["name"]).lower().strip()
+                            resultArtistNames.extend(artist["name"].split())
+                        resultArtistNames = list(filter(None, resultArtistNames))
+                        resultArtistNPRMatches = [sub for sub in resultArtistNames if sub in nprRemovedPhrasesArtists]
+                        #
                         resultsArtistsSet = set(resultArtistNPRMatches)
-                        nprTrackNameSet = set(nprMatchesToResult)
+                        nprArtistNamesSet = set(nprRemovedPhrasesArtists)
                         resultsTrackNameSet = set(resultMatchesToNPR)
-                        resultTrackURI = result["tracks"]["items"][0]["uri"]
+                        nprTrackNameSet = set(nprTrackNameSplit)
                         # First, a quick exact-match check (preferred)
                         if nprArtistNamesSet == resultsArtistsSet and nprTrackNameSet == resultsTrackNameSet or bestMatch["Result Track-Match Percent"] == 1.0 and bestMatch["Result Artists-Match Percent"] == 1.0: # check artist names first, less likely to match
                             bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                            bestMatch["Result Artist Names"] = result["tracks"]["items"][0]["artists"]
+                            bestMatch["Result Artist Names"] = resultArtistNamesCopy
                             bestMatch["Result Track-Match Percent"] = 1.0
                             bestMatch["Result Artists-Match Percent"] = 1.0
-                            bestMatch["Result Track URI"] = resultTrackURI
+                            bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
                             print("--------- Best Match Found ----------")
                             print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
                             print("    ---------   End   ----------")
@@ -125,70 +127,24 @@ class NPRSpotifySearch:
                             # If we have a perfect match, no need to check the rest
                         # Fun weighting(?) results-land
                         else:
-                            seqTrack = SequenceMatcher(a=str(nprMatchesToResult).lower(), b=str(resultTrackNameSplit).lower())
-                            for nprArtist in nprArtists: # if one of the authors names is matched, probably good (avoid comparing 1 name to 10 (even if the 3rd one is an exact match))
-                                for resultArtist in resultArtistNames:
-                                    seqArtist = SequenceMatcher(a=str(nprRemovedPhrasesArtists).lower(), b=str(resultArtistNames).lower())
-                                    trackMatchScore = seqTrack.ratio()
-                                    artistsMatchScore = seqArtist.ratio()
-                                    if artistsMatchScore >= 0.85 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # high artist name accuracy
-                                        if trackMatchScore >= 0.85 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # good chance at match
-                                            bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                                            bestMatch["Result Artist Names"] = result["tracks"]["items"][0]["artists"]
-                                            bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                            bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                            bestMatch["Result Track URI"] = resultTrackURI
-                                        elif trackMatchScore >= 0.55 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # potentially a match
-                                            bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                                            bestMatch["Result Artist Names"] = result["tracks"]["items"][0]["artists"]
-                                            bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                            bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                            bestMatch["Result Track URI"] = resultTrackURI
-                                        elif trackMatchScore < 0.55 and trackMatchScore >= bestMatch["Result Track-Match Percent"]:
-                                            bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                                            bestMatch["Result Artist Names"] = result["tracks"]["items"][0]["artists"]
-                                            bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                            bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                            bestMatch["Result Track URI"] = resultTrackURI
-                                    elif artistsMatchScore >= 0.65 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]:
-                                        if trackMatchScore >= 0.85 and trackMatchScore >= bestMatch["Result Track-Match Percent"]:
-                                            bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                                            bestMatch["Result Artist Names"] = result["tracks"]["items"][0]["artists"]
-                                            bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                            bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                            bestMatch["Result Track URI"] = resultTrackURI
-                                    elif artistsMatchScore >= 0.53 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]:
-                                        if trackMatchScore >= 0.95 and trackMatchScore >= bestMatch["Result Track-Match Percent"]:
-                                            bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                                            bestMatch["Result Artist Names"] = result["tracks"]["items"][0]["artists"]
-                                            bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                            bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                            bestMatch["Result Track URI"] = resultTrackURI
-                                    # if trackMatchScore >= 0.85 and trackMatchScore > bestMatch["Result Track-Match Percent"]: # high track accuracy
-                                    #     if artistsMatchScore >= 0.85 and artistsMatchScore > bestMatch["Result Artists-Match Percent"]: # good chance match
-                                    #         bestMatch["NPR Track Name"] = nprTrack
-                                    #         bestMatch["Result Track Name"] = resultTrackName
-                                    #         bestMatch["NPR Artist Names"] = nprArtists
-                                    #         bestMatch["Result Artist Names"] = resultArtistNames
-                                    #         bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                    #         bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                    #         bestMatch["Result Track URI"] = resultTrackURI
-                                    #     elif artistsMatchScore >= 0.55 and artistsMatchScore > bestMatch["Result Artists-Match Percent"]:
-                                    #         bestMatch["NPR Track Name"] = nprTrack
-                                    #         bestMatch["Result Track Name"] = resultTrackName
-                                    #         bestMatch["NPR Artist Names"] = nprArtists
-                                    #         bestMatch["Result Artist Names"] = resultArtistNames
-                                    #         bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                    #         bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                    #         bestMatch["Result Track URI"] = resultTrackURI
-                                    #     elif artistsMatchScore < 0.55 and artistsMatchScore > bestMatch["Result Artists-Match Percent"]:
-                                    #         bestMatch["NPR Track Name"] = nprTrack
-                                    #         bestMatch["Result Track Name"] = resultTrackName
-                                    #         bestMatch["NPR Artist Names"] = nprArtists
-                                    #         bestMatch["Result Artist Names"] = resultArtistNames
-                                    #         bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                    #         bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                    #         bestMatch["Result Track URI"] = resultTrackURI
+                            seqTrack = SequenceMatcher(a=nprTrackNameSplit, b=resultTrackNameSplit)
+                            seqArtist = SequenceMatcher(a=nprRemovedPhrasesArtists, b=resultArtistNames)
+                            trackMatchScore = seqTrack.ratio()
+                            artistsMatchScore = seqArtist.ratio()
+                            if artistsMatchScore >= 0.5 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # high artist name accuracy
+                                if trackMatchScore >= 0.75 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # good chance at match
+                                    bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
+                                    bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                                    bestMatch["Result Track-Match Percent"] = trackMatchScore
+                                    bestMatch["Result Artists-Match Percent"] = artistsMatchScore
+                                    bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
+                            if trackMatchScore >= 0.5 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # high artist name accuracy
+                                if  artistsMatchScore>= 0.75 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # good chance at match
+                                    bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
+                                    bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                                    bestMatch["Result Track-Match Percent"] = trackMatchScore
+                                    bestMatch["Result Artists-Match Percent"] = artistsMatchScore
+                                    bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
             print("--------- Current Best ----------")
             print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
             print("--------- Current Best End ------")

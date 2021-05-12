@@ -10,6 +10,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
 # # August 2000's seems to be when some interlude data is being documented
+# # Used to create complete years
 # editionYear = 2010
 # editionDayData = list()
 # editionYearLinkCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(editionYear) + "-NPRArticleLinkCache.json")
@@ -39,6 +40,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         time.sleep(5) # Don't hammer their server
 #         # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
 
+# For testing single days
 def SpotCheckSinglePage(url):
     editionDayData = list()
     nprSpotifySearch = NPRSpotifySearch()
@@ -65,6 +67,6 @@ def SpotCheckSinglePage(url):
     # time.sleep(5) # Don't hammer their server
     # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
 
-spotURL = "https://www.npr.org/programs/morning-edition/2021/05/07/994526410/"
+spotURL = "https://www.npr.org/programs/morning-edition/2006/01/20/12919295/?showDate=2006-01-20"
 SpotCheckSinglePage(spotURL)
 
