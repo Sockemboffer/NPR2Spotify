@@ -27,6 +27,8 @@ class NPRPageParser:
         return selector
 
     # Grab various info about the whole NPR article for that date
+    # TODO use shortened 3 letter month names for playlist name
+    # TODO store playlist track order numbering for use when making updates from helpers?
     def GetEditionData(url, selectedHTML):
         nprPlaylistCreator = NPRPlaylistCreator()
         dayDetails = dict()

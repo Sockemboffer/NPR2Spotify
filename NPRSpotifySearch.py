@@ -13,6 +13,7 @@ from requests.packages.urllib3.util.retry import Retry
 import difflib
 from difflib import SequenceMatcher
 
+# TODO create a way to make correction updates from helpers easy
 class NPRSpotifySearch:
 
     def __init__(self):
