@@ -1,8 +1,7 @@
 import re
-import copy
 import json
-import time
 import requests
+import time
 from urllib import parse
 from collections import Counter
 from unidecode import unidecode
@@ -10,12 +9,12 @@ from ResponsesHandle import ResponseException
 from secrets import spotify_user_id, spotipyUserToken
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
-import difflib
 from difflib import SequenceMatcher
 
 # TODO create a way to make correction updates from helpers easy
 # TODO user sends missing track, how do I recreate the playlist in proper order and upate json
 # TODO user sends track correction, same as above
+# TODO check if playlist exsists before updating
 class NPRSpotifySearch:
 
     def __init__(self):
@@ -61,7 +60,7 @@ class NPRSpotifySearch:
             # hail Marry's
             artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
-            # time.sleep(1) # Don't hammer spotify server?
+            time.sleep(1) # Don't hammer spotify server?
             trackResponses.append(artistResponses)
         print("-- NPR Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
