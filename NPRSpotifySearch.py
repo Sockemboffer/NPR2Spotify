@@ -13,7 +13,9 @@ from difflib import SequenceMatcher
 
 # TODO create a way to make correction updates from helpers easy
 # TODO user sends missing track, how do I recreate the playlist in proper order and upate json
-# TODO user sends track correction, same as above
+# TODO user sends track correction (incorrect song, incorrect rendition), same as above
+    # TODO replace current track with correct?
+    # TODO missing, replace, add, found, duplicate entry (but show had unique uncaptured)
 # TODO check if playlist exsists before updating
 class NPRSpotifySearch:
 
@@ -44,6 +46,7 @@ class NPRSpotifySearch:
             auxiliaryList.append("") # Need an empty string for when track match is really high but artist is 0
         for artist in auxiliaryList:
             artistResponses = list()
+            # TODO could probably drop all non-alphanumeric instead of an incremental hunt and drop approach
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
             trackCopy = self.RemoveBrackets(unidecode(trackCopy))
             artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
@@ -60,7 +63,7 @@ class NPRSpotifySearch:
             # hail Marry's
             artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
-            time.sleep(1) # Don't hammer spotify server?
+            # time.sleep(1) # Don't hammer spotify server?
             trackResponses.append(artistResponses)
         print("-- NPR Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
@@ -98,6 +101,7 @@ class NPRSpotifySearch:
                         #
                         nprRemovedPhrasesArtists = list()
                         for artist in nprArtists:
+                            artist = self.RemoveCommonPhrasesArtists(artist)
                             artist = re.sub(r'[^\w]', ' ', artist).lower().strip()
                             nprRemovedPhrasesArtists.extend(artist.split())
                         nprRemovedPhrasesArtists = list(filter(None, nprRemovedPhrasesArtists))
@@ -171,7 +175,7 @@ class NPRSpotifySearch:
         return result
 
     def RemoveCommonPhrasesArtists(self, track):
-        stop_words = ['and', 'the', 'various', 'artists', 'orchestra', 'symphony', "conducted", 'by', 'sax']
+        stop_words = ['and', 'various', 'artists', "conducted", "by", "et", "al", "et.", "al."]
         stopwords_dict = Counter(stop_words)
         result = ' '.join([word for word in track.lower().split() if word not in stopwords_dict])
         return result

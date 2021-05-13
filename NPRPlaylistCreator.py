@@ -1,6 +1,5 @@
 import json
 import base64
-import logging
 import requests
 import datetime
 from ResponsesHandle import ResponseException
