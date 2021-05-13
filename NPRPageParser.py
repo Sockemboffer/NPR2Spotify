@@ -7,6 +7,7 @@ import datetime
 from parsel import Selector
 from NPRPlaylistCreator import NPRPlaylistCreator
 
+# TODO store playlist track order numbering for use when making updates from helpers?
 class NPRPageParser:
     def __init__(self):
         self.nprurl = ""
@@ -27,7 +28,6 @@ class NPRPageParser:
         return selector
 
     # Grab various info about the whole NPR article for that date
-    # TODO store playlist track order numbering for use when making updates from helpers?
     def GetEditionData(url, selectedHTML):
         nprPlaylistCreator = NPRPlaylistCreator()
         dayDetails = dict()
