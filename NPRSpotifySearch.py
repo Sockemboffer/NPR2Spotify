@@ -14,6 +14,8 @@ import difflib
 from difflib import SequenceMatcher
 
 # TODO create a way to make correction updates from helpers easy
+# TODO user sends missing track, how do I recreate the playlist in proper order and upate json
+# TODO user sends track correction, same as above
 class NPRSpotifySearch:
 
     def __init__(self):
