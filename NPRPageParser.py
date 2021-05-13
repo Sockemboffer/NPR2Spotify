@@ -27,22 +27,24 @@ class NPRPageParser:
         return selector
 
     # Grab various info about the whole NPR article for that date
-    # TODO use shortened 3 letter month names for playlist name
     # TODO store playlist track order numbering for use when making updates from helpers?
     def GetEditionData(url, selectedHTML):
         nprPlaylistCreator = NPRPlaylistCreator()
         dayDetails = dict()
         dayDetails['Page Link'] = url.partition("https://")[2].partition("?")[0]
         dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
-        dayDetails['Date Text'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
+        dateText = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
+        formatDate = "%B %d, %Y"
+        dt_object = datetime.datetime.strptime(dateText, formatDate)
+        dayDetails['Date Text'] = dt_object.strftime("%Y %b %d")
         dayDetails['Date Numbered'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
         dayDetails['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
         dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
         dayDetails['Scanned Date'] = dt
         if (dayDetails['Day'] == 'Saturday') or (dayDetails['Day'] == 'Sunday'):
-            dayDetails['Playlist Name'] = "NPR " + dayDetails['Date Text'] + " - Interludes for " + dayDetails['Edition']
+            dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
         else:
-            dayDetails['Playlist Name'] = "NPR " + dayDetails['Date Text'] + " - Interludes for " + dayDetails['Edition'] + " " + dayDetails['Day']
+            dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
         playlistName = dayDetails['Playlist Name']
         responseJSON = nprPlaylistCreator.CreatePlaylist(playlistName)
         dayDetails['Playlist Link'] = responseJSON["external_urls"]["spotify"]
