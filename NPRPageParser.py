@@ -31,17 +31,10 @@ class NPRPageParser:
         dayDetails = dict()
         dayDetails['Page Link'] = url.partition("https://")[2].partition("?")[0]
         dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
-        dateText = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b/text()[2]').get().strip()
-        formatDate = "%B %d, %Y"
-        dt_object = datetime.datetime.strptime(dateText, formatDate)
-        dayDetails['Date Text'] = dt_object.strftime("%Y %b %d")
         dayDetails['Date Numbered'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
         dayDetails['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
-        dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
-        dayDetails['Scanned Date'] = dt
-        dayDetails['Playlist Name'] = None
-        dayDetails['Playlist Link'] = None
-        dayDetails['Playlist URI'] = None
+        datetTime = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
+        dayDetails['Scanned Date'] = datetTime
         print("-- Edition Data Found.")
         return dayDetails
 
@@ -63,9 +56,9 @@ class NPRPageParser:
     def GetInterludeSongName(songHTML):
         if songHTML.xpath('.//span[@class="song-meta-title"]/text()').get() == None:
             return " "
-        else: 
+        else:
             return re.sub(" +", " ", re.sub("^\s+|\s+$", "", songHTML.xpath('.//span[@class="song-meta-title"]/text()').get()))
-    
+
     def GetInterludeArtistNames(songHTML):
         if songHTML.xpath('.//span[@class="song-meta-artist"]/text()').get() == None:
             return " "
