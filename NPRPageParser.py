@@ -81,7 +81,7 @@ class NPRPageParser:
         playlistPath = os.path.join("NPRArticleData", editionData[0]['Date Numbered'][:4], editionData[0]['Date Numbered'][5:7], "")
         if not os.path.exists(playlistPath):
             os.makedirs(playlistPath)
-        with open(str(playlistPath + editionData[0]['Playlist Name'] + ".json"), 'w', encoding='utf-8') as json_file:
+        with open(str(playlistPath + "MoWeEd " + editionData[0]['Date Numbered'] + " " + editionData[0]['Day'] + " " + editionData[0]['Edition']+ ".json"), 'w', encoding='utf-8') as json_file:
             json.dump(editionData, json_file, ensure_ascii=False, indent=4)
 
     # request/fetch artist data from json file

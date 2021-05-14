@@ -11,7 +11,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # July 28th 2000's seems to be when some interlude data is being documented
 # Used to create complete years
-editionYear = 2009
+editionYear = 1996
 editionDayData = list()
 editionYearLinkCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(editionYear) + "-NPRArticleLinkCache.json")
 for month, daylinks in editionYearLinkCache.items():
@@ -32,7 +32,7 @@ for month, daylinks in editionYearLinkCache.items():
                     interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
                     editionDayData.append(interlude)
         nprPageParser.SaveJSONFile(editionDayData)
-        print("Finished {0}.\n".format(editionDayData[0]["Date Text"]))
+        print("Finished {0}\n".format(editionDayData[0]['Page Link']))
         editionDayData.clear()
         time.sleep(1) # Don't hammer their server
 
