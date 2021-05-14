@@ -78,7 +78,7 @@ class NPRPageParser:
                 return None # or: raise
     
     def SaveJSONFile(self, editionData):
-        playlistPath = os.path.join("NPRArticleData", editionData[0]['Date Numbered'][:4], editionData[0]['Date Numbered'][5:7], "")
+        playlistPath = os.path.join("MoWeEd Article Data", editionData[0]['Date Numbered'][:4], editionData[0]['Date Numbered'][5:7], "")
         if not os.path.exists(playlistPath):
             os.makedirs(playlistPath)
         with open(str(playlistPath + "MoWeEd " + editionData[0]['Date Numbered'] + " " + editionData[0]['Day'] + " " + editionData[0]['Edition']+ ".json"), 'w', encoding='utf-8') as json_file:
@@ -96,7 +96,7 @@ class NPRPageParser:
     # Cache every day's link across NPR Morning, Saturday, and Sunday Weekend Editions for 1 year.
     # Only need to run once for every archive year
     def NPRArticleLinkCacheCreator(yearEntry):
-        with open("NPRArticleLinkCache/" + str(yearEntry) + "-NPRArticleLinkCache.json", 'w', encoding='utf-8') as json_file:
+        with open("MoWeEd Article Link Cache/" + str(yearEntry) + " MoWeEd Article Link Cache.json", 'w', encoding='utf-8') as json_file:
             currentYear = dict()
             monthCount = 12
             while monthCount >= 1:

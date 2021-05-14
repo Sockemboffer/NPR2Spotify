@@ -65,7 +65,7 @@ class NPRSpotifySearch:
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
             # time.sleep(1) # Don't hammer spotify server?
             trackResponses.append(artistResponses)
-        print("-- NPR Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
+        print("-- MoWeEd Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
         return bestChoice
 

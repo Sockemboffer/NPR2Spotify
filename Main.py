@@ -13,7 +13,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # Used to create complete years
 editionYear = 1996
 editionDayData = list()
-editionYearLinkCache = NPRPageParser.LoadJSONFile("NPRArticleLinkCache/" + str(editionYear) + "-NPRArticleLinkCache.json")
+editionYearLinkCache = NPRPageParser.LoadJSONFile("MoWeEd Article Link Cache/" + str(editionYear) + " MoWeEd Article Link Cache.json")
 for month, daylinks in editionYearLinkCache.items():
     for url in daylinks:
         nprSpotifySearch = NPRSpotifySearch()
@@ -31,6 +31,7 @@ for month, daylinks in editionYearLinkCache.items():
                     interlude["MoWeEd Track"] = NPRPageParser.GetInterludeSongName(songMETA)
                     interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
                     editionDayData.append(interlude)
+                    print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
         nprPageParser.SaveJSONFile(editionDayData)
         print("Finished {0}\n".format(editionDayData[0]['Page Link']))
         editionDayData.clear()
