@@ -28,7 +28,6 @@ class NPRPageParser:
 
     # Grab various info about the whole NPR article for that date
     def GetEditionData(url, selectedHTML):
-        nprPlaylistCreator = NPRPlaylistCreator()
         dayDetails = dict()
         dayDetails['Page Link'] = url.partition("https://")[2].partition("?")[0]
         dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
@@ -40,10 +39,7 @@ class NPRPageParser:
         dayDetails['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
         dt = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
         dayDetails['Scanned Date'] = dt
-        if (dayDetails['Day'] == 'Saturday') or (dayDetails['Day'] == 'Sunday'):
-            dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
-        else:
-            dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
+        dayDetails['Playlist Name'] = None
         dayDetails['Playlist Link'] = None
         dayDetails['Playlist URI'] = None
         print("-- Edition Data Found.")

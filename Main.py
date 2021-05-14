@@ -28,18 +28,22 @@ for month, daylinks in editionYearLinkCache.items():
             elif story.attrib['class'] == 'music-interlude responsive-rundown':
                 for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
                     interlude = dict()
-                    interlude["NPR Track"] = NPRPageParser.GetInterludeSongName(songMETA)
-                    interlude["NPR Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
+                    interlude["MoWeEd Track"] = NPRPageParser.GetInterludeSongName(songMETA)
+                    interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
                     editionDayData.append(interlude)
         nprPageParser.SaveJSONFile(editionDayData)
         print("Finished {0}.\n".format(editionDayData[0]["Date Text"]))
         editionDayData.clear()
-        # time.sleep(1) # Don't hammer their server
-        # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
+        time.sleep(1) # Don't hammer their server
 
-        # nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
-        # nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
-        # nprPlaylistCreator.UpdatePlaylistDescription(editionDayData)
+# # Read in Article Data and create a playlist out of it
+#   if (dayDetails['Day'] == 'Saturday') or (dayDetails['Day'] == 'Sunday'):
+#       dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
+#   else:
+#       dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
+#   nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
+#   nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
+#   nprPlaylistCreator.UpdatePlaylistDescription(editionDayData)
 
 # # For testing single days
 # def SpotCheckSinglePage(url):
