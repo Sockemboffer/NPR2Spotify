@@ -44,20 +44,22 @@ class NPRPageParser:
             dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
         else:
             dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
-        playlistName = dayDetails['Playlist Name']
-        responseJSON = nprPlaylistCreator.CreatePlaylist(playlistName)
-        dayDetails['Playlist Link'] = responseJSON["external_urls"]["spotify"]
-        dayDetails['Playlist URI'] = responseJSON["id"]
+        dayDetails['Playlist Link'] = None
+        dayDetails['Playlist URI'] = None
         print("-- Edition Data Found.")
         return dayDetails
 
     # Grab data about each article         
     def GetArticleInfo(articleHTML):
         articleInfo = dict()
-        articleInfo['Title'] = articleHTML.xpath('.//div/h3[@class="rundown-segment__title"]/a/text()').get()
-        articleInfo['Link'] = articleHTML.xpath('.//div/h3[@class="rundown-segment__title"]/a/@href').get()
-        articleInfo['Slug'] = articleHTML.xpath('.//div/h4[@class="rundown-segment__slug"]/a/text()').get()
-        articleInfo['By'] = articleHTML.xpath('.//span[@class="byline byline--inline"]/text()').get()
+        articleTitle = articleHTML.xpath('.//div/h3[@class="rundown-segment__title"]/a/text()').get()
+        articleLink = articleHTML.xpath('.//div/h3[@class="rundown-segment__title"]/a/@href').get()
+        articleSlug = articleHTML.xpath('.//div/h4[@class="rundown-segment__slug"]/a/text()').get()
+        articleBy = articleHTML.xpath('.//span[@class="byline byline--inline"]/text()').get()
+        articleInfo['Title'] = articleTitle if type(articleTitle) else None
+        articleInfo['Link'] = articleLink if type(articleLink) else None
+        articleInfo['Slug'] = articleSlug if type(articleSlug) else None
+        articleInfo['By'] = articleBy if type(articleBy) else None
         print("-- Article Info Found.")
         return articleInfo
 
