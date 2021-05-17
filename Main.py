@@ -11,7 +11,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # July 28th 2000's seems to be when some interlude data is being documented
 # Used to create complete years
-editionYear = 1996
+editionYear = 1999
 editionDayData = list()
 editionYearLinkCache = NPRPageParser.LoadJSONFile("MoWeEd Article Link Cache/" + str(editionYear) + " MoWeEd Article Link Cache.json")
 for month, daylinks in editionYearLinkCache.items():
