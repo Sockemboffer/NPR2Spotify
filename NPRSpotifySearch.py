@@ -121,6 +121,7 @@ class NPRSpotifySearch:
                         if nprArtistNamesSet == resultsArtistsSet and nprTrackNameSet == resultsTrackNameSet or bestMatch["Result Track-Match Percent"] == 1.0 and bestMatch["Result Artists-Match Percent"] == 1.0: # check artist names first, less likely to match
                             bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
                             bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                            bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
                             bestMatch["Result Track-Match Percent"] = 1.0
                             bestMatch["Result Artists-Match Percent"] = 1.0
                             bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
@@ -139,6 +140,7 @@ class NPRSpotifySearch:
                                 if trackMatchScore >= 0.75 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # good chance at match
                                     bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
                                     bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                                    bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
                                     bestMatch["Result Track-Match Percent"] = trackMatchScore
                                     bestMatch["Result Artists-Match Percent"] = artistsMatchScore
                                     bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
@@ -146,9 +148,29 @@ class NPRSpotifySearch:
                                 if  artistsMatchScore >= 0.75 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # good chance at match
                                     bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
                                     bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                                    bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
                                     bestMatch["Result Track-Match Percent"] = trackMatchScore
                                     bestMatch["Result Artists-Match Percent"] = artistsMatchScore
                                     bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
+                            # # Need to renormalize npr artist names against normalized album name
+                            # nprRemovednonAlphaNumericArtists = list()
+                            # for artist in nprArtists:
+                            #     artist = re.sub(r'[^\w]', ' ', artist).lower().strip()
+                            #     nprRemovednonAlphaNumericArtists.extend(artist.split())
+                            # nprRemovednonAlphaNumericArtists = list(filter(None, nprRemovednonAlphaNumericArtists))
+                            # albumName = result["tracks"]["items"][0]["album"]["name"]
+                            # albumName = re.sub(r'[^\w]', ' ', artist).lower().strip()
+                            # albumNameSplit = albumName.split()
+                            # seqAlbumName = SequenceMatcher(a=nprRemovednonAlphaNumericArtists, b=albumNameSplit)
+                            # artistNameWasAlbumScore = seqAlbumName.ratio()
+                            # if artistNameWasAlbumScore >= 0.95 and artistsMatchScore == 0.0: # npr might have used album name rather than artist name
+                            #     if trackMatchScore >= 0.75 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # high artist name accuracy
+                            #         bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
+                            #         bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                            #         bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
+                            #         bestMatch["Result Track-Match Percent"] = trackMatchScore
+                            #         bestMatch["Result Artists-Match Percent"] = artistsMatchScore
+                            #         bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
             print("--------- Current Best ----------")
             print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
             print("--------- Current Best End ------")
