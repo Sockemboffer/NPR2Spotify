@@ -72,8 +72,6 @@ class NPRSpotifySearch:
     # Using libdiff to create a hit threshhold of sorts.
     def ChooseBestMatch(self, responses, nprTrack, nprArtists):
         bestMatch = dict()
-        bestMatch["NPR Track Name"] = nprTrack
-        bestMatch["NPR Artist Names"] = nprArtists
         bestMatch["Result Track Name"] = None
         bestMatch["Result Artist Names"] = list()
         bestMatch["Result Track-Match Percent"] = 0.0
@@ -145,7 +143,7 @@ class NPRSpotifySearch:
                                     bestMatch["Result Artists-Match Percent"] = artistsMatchScore
                                     bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
                             if trackMatchScore >= 0.5 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # high artist name accuracy
-                                if  artistsMatchScore>= 0.75 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # good chance at match
+                                if  artistsMatchScore >= 0.75 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # good chance at match
                                     bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
                                     bestMatch["Result Artist Names"] = resultArtistNamesCopy
                                     bestMatch["Result Track-Match Percent"] = trackMatchScore
