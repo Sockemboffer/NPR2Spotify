@@ -30,9 +30,9 @@ class NPRPageParser:
     def GetEditionData(url, selectedHTML):
         dayDetails = dict()
         dayDetails['Page Link'] = url.partition("https://")[2].partition("?")[0]
-        dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()
+        dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()[0:15]
         dayDetails['Date Numbered'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
-        dayDetails['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get().strip(' ,')
+        dayDetails['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get()[0:3]
         datetTime = str(datetime.datetime.now().__format__("%Y-%m-%d %H:%M:%S"))
         dayDetails['Scanned Date'] = datetTime
         print("-- Edition Data Found.")
@@ -77,11 +77,11 @@ class NPRPageParser:
                 print('invalid json: %s' % e)
                 return None # or: raise
     
-    def SaveJSONFile(self, editionData):
-        playlistPath = os.path.join("MoWeEd Article Data", editionData[0]['Date Numbered'][:4], editionData[0]['Date Numbered'][5:7], "")
-        if not os.path.exists(playlistPath):
-            os.makedirs(playlistPath)
-        with open(str(playlistPath + "MoWeEd " + editionData[0]['Date Numbered'] + " " + editionData[0]['Day'] + " " + editionData[0]['Edition'].replace(" Saturday", "").replace(" Sunday", "") + ".json"), 'w', encoding='utf-8') as json_file:
+    def SaveJSONFile(self, editionData, pathAndFile):
+        # playlistPath = os.path.join("MoWeEd Article Data/{0}/{1}/MoWeEd {2} {3} {4}.json".format(editionYear, editionMonth, editionDate, editionDay, editionEdition))
+        if not os.path.exists(pathAndFile):
+            os.makedirs(pathAndFile)
+        with open(pathAndFile, 'w', encoding='utf-8') as json_file:
             json.dump(editionData, json_file, ensure_ascii=False, indent=4)
 
     # request/fetch artist data from json file

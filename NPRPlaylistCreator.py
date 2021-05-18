@@ -61,10 +61,10 @@ class NPRPlaylistCreator:
             newDescription["description"] = "✔️🤩 Found: " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " "
         newDescription["description"] += "🌐 " + editionDayData[0]["Page Link"] + " "
         newDescription["description"] += "💸 Support your local NPR station. "
-        newDescription["description"] += "📻 www.npr.org/donations/support 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍🧑🏽‍🤝‍🧑🏾👫🏿 "
+        newDescription["description"] += "📻 www.npr.org/donations/support "
         newDescription["description"] += "💻 github.com/Sockemboffer/MoWeEd2Spotify "
         newDescription["description"] += "🤖 My creator is human, send corrections 🧰 MoWeEd2Spotify@pm.me "
-        newDescription["description"] += "Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d"))
+        newDescription["description"] += "Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + "🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍🧑🏽‍🤝‍🧑🏾👫🏿"
         query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
         self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("-- Playlist description updated.")

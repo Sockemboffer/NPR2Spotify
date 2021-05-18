@@ -13,7 +13,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # # Jan 1th 2000's seems to be when some interlude data is being documented
 # # Used to create complete years
-# editionYear = 2001
+# editionYear = 2000
 # editionDayData = list()
 # editionYearLinkCache = NPRPageParser.LoadJSONFile("MoWeEd Article Link Cache/" + str(editionYear) + " MoWeEd Article Link Cache.json")
 # for month, daylinks in editionYearLinkCache.items():
@@ -39,27 +39,63 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-startDate = datetime(2000, 1, 1)
+startDate = datetime(2000, 12, 1)
+directoryBase = "MoWeEd Article Data"
+projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
+nprPlaylistCreator = NPRPlaylistCreator()
+nprSpotifySearch = NPRSpotifySearch()
+nprPageParser = NPRPageParser()
+spotifyTracks = list()
 while startDate.month != 11:
+    directoryYearMonth = "{0}/{1}".format(startDate.year, startDate.strftime("%m"))
+    dateAndDay = "{0} {1}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"))
+    fileType = ".json"
+    playlistName = ""
+    # Load article data from disk
     if startDate.weekday() <= 4:
-        editionDay = NPRPageParser.LoadJSONFile("MoWeEd Article Data/{0}/{1}/MoWeEd {2} {3} {4}.json".format(startDate.year, startDate.strftime("%m"), startDate.strftime("%Y-%m-%d"), startDate.strftime("%A"), morningEdition))
+        playlistName = projectName + " " + dateAndDay + " " + morningEdition
+        pathAndFile = directoryBase + "/" + directoryYearMonth + "/" + playlistName + fileType
+        editionDay = NPRPageParser.LoadJSONFile(pathAndFile)
         #
     else:
-        editionDay = NPRPageParser.LoadJSONFile("MoWeEd Article Data/{0}/{1}/MoWeEd {2} {3} {4}.json".format(startDate.year, startDate.strftime("%m"), startDate.strftime("%Y-%m-%d"), startDate.strftime("%A"), weekendEdition))
-        #
+        playlistName = projectName + " " + dateAndDay + " " + weekendEdition
+        pathAndFile = directoryBase + "/" + directoryYearMonth + "/" + playlistName + fileType
+        editionDay = NPRPageParser.LoadJSONFile(pathAndFile)
     playlistURI = "Playlist URI"
-    if playlistURI in editionDay:
-        print("yep")
-    else:
-        print("Nope")
-    # for story, entry in enumerate(editionDay):
-    #     for key, value in entry.items():
-    #         print(value)
-    # startDate+1
-    # print(startDate)
-    # time.sleep(1.5)
+    # Create or update playlist
+    for story, entry in enumerate(editionDay):
+        if playlistURI in entry:
+            print("-- Update Playlist --")
+        else:
+            print("-- Create Playlist --")
+            response = nprPlaylistCreator.CreatePlaylist(playlistName) # should I deal with passing in my editionDay or manage updates/changes out here?
+            editionDay[0]["Playlist URI"] = response["id"]
+            editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
+            editionDay[0]["Snapshot ID"] = response["snapshot_id"]
+            editionDay[0]["Playlist Name"] = playlistName
+            nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
+            break
+    searchKey = "MoWeEd Track"
+    # Search interlude tracks and add results back into edition data
+    for story, entry in enumerate(editionDay):
+        if searchKey in entry:
+            trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+            entry.update(trackEntry)
+    # Add matched tracks to playlist
+    nprPlaylistCreator.AddTracksToPlaylist(editionDay)
+    # Update playlist description
+    nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
+    # Create or update json edition data
+    nprPageParser.SaveJSONFile(editionDay, pathAndFile)
+    print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
+    print("https://" + editionDay[0]["Page Link"])
+    print("\n")
+    editionDay.clear()
+    startDate+1
+    time.sleep(1.5) # Don't hammer their server
+
 # # Read in Article Data and create a playlist out of it
 #   if (dayDetails['Day'] == 'Saturday') or (dayDetails['Day'] == 'Sunday'):
 #       dayDetails['Playlist Name'] = "MoWeEd " + dayDetails['Date Text'] + " - " + dayDetails['Day'] + " " + dayDetails['Edition'] + " Interludes"
