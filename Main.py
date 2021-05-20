@@ -1,4 +1,5 @@
 from datetime import datetime
+from datetime import timedelta
 import enum
 import os
 import time
@@ -39,7 +40,8 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-startDate = datetime(2000, 12, 1)
+# TODO if json fails to load, continue to next date
+startDate = datetime(1998, 12, 1)
 directoryBase = "MoWeEd Article Data"
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
@@ -65,36 +67,42 @@ while startDate.month != 11:
         editionDay = NPRPageParser.LoadJSONFile(pathAndFile)
     playlistURI = "Playlist URI"
     # Create or update playlist
-    for story, entry in enumerate(editionDay):
-        if playlistURI in entry:
-            print("-- Update Playlist --")
-        else:
-            print("-- Create Playlist --")
-            response = nprPlaylistCreator.CreatePlaylist(playlistName) # should I deal with passing in my editionDay or manage updates/changes out here?
-            editionDay[0]["Playlist URI"] = response["id"]
-            editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
-            editionDay[0]["Snapshot ID"] = response["snapshot_id"]
-            editionDay[0]["Playlist Name"] = playlistName
-            nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
-            break
-    searchKey = "MoWeEd Track"
-    # Search interlude tracks and add results back into edition data
-    for story, entry in enumerate(editionDay):
-        if searchKey in entry:
-            trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
-            entry.update(trackEntry)
-    # Add matched tracks to playlist
-    nprPlaylistCreator.AddTracksToPlaylist(editionDay)
-    # Update playlist description
-    nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
-    # Create or update json edition data
-    nprPageParser.SaveJSONFile(editionDay, pathAndFile)
-    print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
-    print("https://" + editionDay[0]["Page Link"])
-    print("\n")
-    editionDay.clear()
-    startDate+1
-    time.sleep(1.5) # Don't hammer their server
+    if editionDay != None:
+        for story, entry in enumerate(editionDay):
+            if playlistURI in entry:
+                print("-- Update Playlist --")
+            else:
+                print("-- Create Playlist --")
+                response = nprPlaylistCreator.CreatePlaylist(playlistName) # should I deal with passing in my editionDay or manage updates/changes out here?
+                editionDay[0]["Playlist URI"] = response["id"]
+                editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
+                editionDay[0]["Snapshot ID"] = response["snapshot_id"]
+                editionDay[0]["Playlist Name"] = playlistName
+                nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
+                break
+        searchKey = "MoWeEd Track"
+        # Search interlude tracks and add results back into edition data
+        for story, entry in enumerate(editionDay):
+            if searchKey in entry:
+                trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+                entry.update(trackEntry)
+        # Add matched tracks to playlist
+        nprPlaylistCreator.AddTracksToPlaylist(editionDay)
+        # Update playlist description
+        nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
+        # Create or update json edition data
+        nprPageParser.SaveJSONFile(editionDay, pathAndFile)
+        print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
+        print("https://" + editionDay[0]["Page Link"])
+        print("\n")
+        editionDay.clear()
+        startDate = startDate + timedelta(days=+1)
+        time.sleep(1.5) # Don't hammer their server
+    else:
+        print("No valid date for " + startDate)
+        print("\n")
+        editionDay.clear()
+        startDate = startDate + timedelta(days=+1)
 
 # # Read in Article Data and create a playlist out of it
 #   if (dayDetails['Day'] == 'Saturday') or (dayDetails['Day'] == 'Sunday'):

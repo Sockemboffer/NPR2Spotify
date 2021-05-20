@@ -63,13 +63,12 @@ class NPRSpotifySearch:
             # hail Marry's
             artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
-            # time.sleep(1) # Don't hammer spotify server?
             trackResponses.append(artistResponses)
         print("-- MoWeEd Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
         return bestChoice
 
-    # Using libdiff to create a hit threshhold of sorts.
+    # Using libdiff to create a match threshhold of sorts.
     def ChooseBestMatch(self, responses, nprTrack, nprArtists):
         bestMatch = dict()
         bestMatch["Result Track Name"] = None
@@ -96,7 +95,6 @@ class NPRSpotifySearch:
                             nprTrackNameSplit.extend(word.split())
                         nprTrackNameSplit = list(filter(None, nprTrackNameSplit))
                         resultMatchesToNPR = [sub for sub in resultTrackNameSplit if sub in nprTrackNameSplit] # see what of the result matches the npr name
-                        #
                         nprRemovedPhrasesArtists = list()
                         for artist in nprArtists:
                             artist = self.RemoveCommonPhrasesArtists(artist)
@@ -112,12 +110,11 @@ class NPRSpotifySearch:
                             resultArtistNames.extend(artist["name"].split())
                         resultArtistNames = list(filter(None, resultArtistNames))
                         resultArtistNPRMatches = [sub for sub in resultArtistNames if sub in nprRemovedPhrasesArtists]
-                        #
                         resultsArtistsSet = set(resultArtistNPRMatches)
                         nprArtistNamesSet = set(nprRemovedPhrasesArtists)
                         resultsTrackNameSet = set(resultMatchesToNPR)
                         nprTrackNameSet = set(nprTrackNameSplit)
-                        # First, a quick exact-match check (preferred)
+                        # First, a quick exact-match check
                         if nprArtistNamesSet == resultsArtistsSet and nprTrackNameSet == resultsTrackNameSet or bestMatch["Result Track-Match Percent"] == 1.0 and bestMatch["Result Artists-Match Percent"] == 1.0: # check artist names first, less likely to match
                             bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
                             bestMatch["Result Artist Names"] = resultArtistNamesCopy
@@ -129,7 +126,6 @@ class NPRSpotifySearch:
                             print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
                             print("    ---------   End   ----------")
                             return bestMatch
-                            # If we have a perfect match, no need to check the rest
                         # Fun weighting(?) results-land
                         else:
                             seqTrack = SequenceMatcher(a=nprTrackNameSplit, b=resultTrackNameSplit)
@@ -152,25 +148,6 @@ class NPRSpotifySearch:
                                     bestMatch["Result Track-Match Percent"] = trackMatchScore
                                     bestMatch["Result Artists-Match Percent"] = artistsMatchScore
                                     bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
-                            # # Need to renormalize npr artist names against normalized album name
-                            # nprRemovednonAlphaNumericArtists = list()
-                            # for artist in nprArtists:
-                            #     artist = re.sub(r'[^\w]', ' ', artist).lower().strip()
-                            #     nprRemovednonAlphaNumericArtists.extend(artist.split())
-                            # nprRemovednonAlphaNumericArtists = list(filter(None, nprRemovednonAlphaNumericArtists))
-                            # albumName = result["tracks"]["items"][0]["album"]["name"]
-                            # albumName = re.sub(r'[^\w]', ' ', artist).lower().strip()
-                            # albumNameSplit = albumName.split()
-                            # seqAlbumName = SequenceMatcher(a=nprRemovednonAlphaNumericArtists, b=albumNameSplit)
-                            # artistNameWasAlbumScore = seqAlbumName.ratio()
-                            # if artistNameWasAlbumScore >= 0.95 and artistsMatchScore == 0.0: # npr might have used album name rather than artist name
-                            #     if trackMatchScore >= 0.75 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # high artist name accuracy
-                            #         bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                            #         bestMatch["Result Artist Names"] = resultArtistNamesCopy
-                            #         bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
-                            #         bestMatch["Result Track-Match Percent"] = trackMatchScore
-                            #         bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                            #         bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
             print("--------- Current Best ----------")
             print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
             print("--------- Current Best End ------")
