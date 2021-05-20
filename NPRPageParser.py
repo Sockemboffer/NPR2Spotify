@@ -78,7 +78,7 @@ class NPRPageParser:
                     print('invalid json: %s' % e)
                     return None # or: raise
         else:
-            print("No valid file exists at{0}: ".format(filename))
+            print("No valid file exists at {0}: ".format(filename))
             print("\n")
             return None
     
