@@ -40,8 +40,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-# TODO if json fails to load, continue to next date
-startDate = datetime(1998, 12, 1)
+startDate = datetime(1995, 12, 31)
 directoryBase = "MoWeEd Article Data"
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
@@ -99,9 +98,6 @@ while startDate.month != 11:
         startDate = startDate + timedelta(days=+1)
         time.sleep(1.5) # Don't hammer their server
     else:
-        print("No valid date for " + startDate)
-        print("\n")
-        editionDay.clear()
         startDate = startDate + timedelta(days=+1)
 
 # # Read in Article Data and create a playlist out of it
