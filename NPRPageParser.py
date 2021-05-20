@@ -82,11 +82,11 @@ class NPRPageParser:
             print("\n")
             return None
     
-    def SaveJSONFile(self, editionData, pathAndFile):
+    def SaveJSONFile(self, editionData, path, file):
         # playlistPath = os.path.join("MoWeEd Article Data/{0}/{1}/MoWeEd {2} {3} {4}.json".format(editionYear, editionMonth, editionDate, editionDay, editionEdition))
-        if not os.path.exists(pathAndFile):
-            os.makedirs(pathAndFile)
-        with open(pathAndFile, 'w', encoding='utf-8') as json_file:
+        if not os.path.exists(path):
+            os.makedirs(path)
+        with open(path + file, 'w', encoding='utf-8') as json_file:
             json.dump(editionData, json_file, ensure_ascii=False, indent=4)
 
     # request/fetch artist data from json file
