@@ -69,13 +69,18 @@ class NPRPageParser:
 
     # Load json file data, check to ensure it's valid first
     def LoadJSONFile(filename):
-        with open(filename, "r", encoding='utf-8') as json_file:
-            try:
-                loadedJson = json.load(json_file)
-                return loadedJson
-            except ValueError as e:
-                print('invalid json: %s' % e)
-                return None # or: raise
+        if os.path.exists(filename) == True:
+            with open(filename, "r", encoding='utf-8') as json_file:
+                try:
+                    loadedJson = json.load(json_file)
+                    return loadedJson
+                except ValueError as e:
+                    print('invalid json: %s' % e)
+                    return None # or: raise
+        else:
+            print("No valid file exists at{0}: ".format(filename))
+            print("\n")
+            return None
     
     def SaveJSONFile(self, editionData, pathAndFile):
         # playlistPath = os.path.join("MoWeEd Article Data/{0}/{1}/MoWeEd {2} {3} {4}.json".format(editionYear, editionMonth, editionDate, editionDay, editionEdition))
