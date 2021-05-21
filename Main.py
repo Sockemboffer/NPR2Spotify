@@ -59,7 +59,7 @@ nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
 while startDate.month != 1:
-    projectPath = "MoWeEd Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+    projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
     fileType = ".json"
@@ -70,7 +70,7 @@ while startDate.month != 1:
     else:
         editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
         filename = weekendEditionFileName
-    # Create, update, or no tracks for that day
+    # check if edition data is present
     if editionDay == None:
         print(">> No data for {0} ".format(startDate.date()))
         print("\n")
@@ -80,6 +80,7 @@ while startDate.month != 1:
         searchKey = "MoWeEd Track"
         playlistEntry = False
         trackEntry = False
+        # seems like there should be a simpler way to confirm a playlist or track is present
         for item in editionDay:
             for key, entry in item.items():
                 if key == playlistURI:
@@ -88,8 +89,8 @@ while startDate.month != 1:
                 elif key == searchKey:
                     trackEntry = True
                     break
+        # Create a new playlist and search tracks
         if playlistEntry == False and trackEntry == True:
-            # Create a playlist and search tracks
             response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
             editionDay[0]["Playlist URI"] = response["id"]
             editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
