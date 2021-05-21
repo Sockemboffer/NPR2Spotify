@@ -148,9 +148,9 @@ class NPRSpotifySearch:
                                     bestMatch["Result Track-Match Percent"] = trackMatchScore
                                     bestMatch["Result Artists-Match Percent"] = artistsMatchScore
                                     bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
-            print("--------- Best Match ----------")
-            print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
-            print("---------    End     ----------")
+            # print("--------- Best Match ----------")
+            # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
+            # print("---------    End     ----------")
             return bestMatch
 
     def RemoveBrackets(self, track):

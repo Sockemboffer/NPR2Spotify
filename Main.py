@@ -13,7 +13,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
 # # Weekend edition shows up 1998 Jan
-# # Jan 1th 2000's seems to be when some interlude data is being documented
+# # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # # Used to create complete years
 # editionStartYear = 1997
 # editionDayData = list()
@@ -51,7 +51,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-startDate = datetime(1999, 7, 29)
+startDate = datetime(2000, 8, 1)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -59,7 +59,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate.year != 2000:
+while startDate.month != datetime(2001, 1, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")

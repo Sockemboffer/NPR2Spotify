@@ -50,7 +50,7 @@ class NPRPlaylistCreator:
         for item in editionDayData:
             for entry in item:
                 if entry == "Result Track-Match Percent":
-                    if item["Result Track-Match Percent"] >= 0.55 and item["Result Artists-Match Percent"] >= 0.53:
+                    if item["Result Track-Match Percent"] >= 0.5:
                         foundTracks.append(item)
                     else:
                         missedTracksList.append(item)
