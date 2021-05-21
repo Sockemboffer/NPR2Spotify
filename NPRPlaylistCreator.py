@@ -72,11 +72,11 @@ class NPRPlaylistCreator:
         print("-- Playlist description updated.")
 
     def GetNewCover(day):
-        if (day != "Saturday") and (day != "Sunday"):
+        if (day != "Sat") and (day != "Sun"):
             with open("MoWeEd Logos/npr_me.jpg", "rb") as im:
                 encoded_string = base64.b64encode(im.read())
                 return encoded_string    
-        elif (day != "Sunday"):
+        elif (day != "Sun"):
             with open("MoWeEd Logos/npr_we_sat.jpg", "rb") as im:
                 encoded_string = base64.b64encode(im.read())
                 return encoded_string

@@ -51,7 +51,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-startDate = datetime(1996, 12, 1)
+startDate = datetime(1999, 7, 29)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -59,7 +59,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate.month != 1:
+while startDate.year != 2000:
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -114,6 +114,7 @@ while startDate.month != 1:
         elif playlistEntry == True:
             print("We would update stuff")
             startDate = startDate + timedelta(days=+1)
+            time.sleep(1.5) # Don't hammer their server
         # we create an empty playlist with a description noting tracks are not detailed
         else:
             response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
@@ -126,6 +127,7 @@ while startDate.month != 1:
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print(">> No interlude Tracks for {0} ".format(startDate.date()))
             startDate = startDate + timedelta(days=+1)
+            time.sleep(1.5) # Don't hammer their server
 
 # # For testing single days
 # def SpotCheckSinglePage(url):
