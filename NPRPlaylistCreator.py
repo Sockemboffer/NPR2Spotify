@@ -55,7 +55,9 @@ class NPRPlaylistCreator:
                     else:
                         missedTracksList.append(item)
         newDescription = dict()
-        if len(missedTracksList) != 0:
+        if len(missedTracksList) == 0 and len(foundTracks) == 0:
+            newDescription["description"] = "🤔 No tracks were found. The show may still have interlude tracks that remain undocumented for one reason or another. "
+        elif len(missedTracksList) != 0: 
             newDescription["description"] = "❔😭 Missing: " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
         else:
             newDescription["description"] = "✔️🤩 Found: " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " "

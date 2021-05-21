@@ -79,7 +79,6 @@ class NPRPageParser:
                     return None # or: raise
         else:
             print("No valid file exists at {0}: ".format(filename))
-            print("\n")
             return None
     
     def SaveJSONFile(self, editionData, path, file):

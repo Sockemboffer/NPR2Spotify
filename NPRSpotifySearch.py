@@ -122,9 +122,9 @@ class NPRSpotifySearch:
                             bestMatch["Result Track-Match Percent"] = 1.0
                             bestMatch["Result Artists-Match Percent"] = 1.0
                             bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
-                            print("--------- Best Match Found ----------")
-                            print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
-                            print("    ---------   End   ----------")
+                            # print("--------- Best Match Found ----------")
+                            # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
+                            # print("    ---------   End   ----------")
                             return bestMatch
                         # Fun weighting(?) results-land
                         else:
@@ -148,9 +148,9 @@ class NPRSpotifySearch:
                                     bestMatch["Result Track-Match Percent"] = trackMatchScore
                                     bestMatch["Result Artists-Match Percent"] = artistsMatchScore
                                     bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
-            print("--------- Current Best ----------")
+            print("--------- Best Match ----------")
             print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
-            print("--------- Current Best End ------")
+            print("---------    End     ----------")
             return bestMatch
 
     def RemoveBrackets(self, track):
