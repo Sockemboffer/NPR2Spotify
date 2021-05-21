@@ -80,17 +80,15 @@ while startDate.month != 1:
         searchKey = "MoWeEd Track"
         playlistEntry = False
         trackEntry = False
-        # seems like there should be a simpler way to confirm a playlist or track is present
+        playlistEntry = editionDay[0].get(playlistURI) # would only be in the first entry currently
         for item in editionDay:
-            for key, entry in item.items():
-                if key == playlistURI:
-                    playlistEntry == True
-                    break
-                elif key == searchKey:
-                    trackEntry = True
-                    break
+            if item.get(searchKey) == None:
+                continue
+            else:
+                trackEntry = item.get(searchKey)
+                break
         # Create a new playlist and search tracks
-        if playlistEntry == False and trackEntry == True:
+        if playlistEntry == None and trackEntry != None:
             response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
             editionDay[0]["Playlist URI"] = response["id"]
             editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
@@ -102,11 +100,8 @@ while startDate.month != 1:
                 if searchKey in entry:
                     trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
                     entry.update(trackEntry)
-            # Add matched tracks to playlist
             nprPlaylistCreator.AddTracksToPlaylist(editionDay)
-            # Update playlist description
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
-            # Create or update json edition data
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
             print("https://" + editionDay[0]["Page Link"])
@@ -114,12 +109,12 @@ while startDate.month != 1:
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
             time.sleep(1.5) # Don't hammer their server
-        elif playlistEntry == True:
+        elif playlistEntry:
             # we update information
             print("We would update stuff")
+            startDate = startDate + timedelta(days=+1)
         else:
             print(">> No interlude Tracks for {0} ".format(startDate.date()))
-            print("\n")
             startDate = startDate + timedelta(days=+1)
 
 # # For testing single days
