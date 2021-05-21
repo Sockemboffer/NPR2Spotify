@@ -56,11 +56,11 @@ class NPRPlaylistCreator:
                         missedTracksList.append(item)
         newDescription = dict()
         if len(missedTracksList) == 0 and len(foundTracks) == 0:
-            newDescription["description"] = "🤔 No tracks were found. The show may still have interlude tracks that remain undocumented for one reason or another. "
+            newDescription["description"] = "🤔 Empty: The show may still have interlude tracks but have yet to be noted on the page. "
         elif len(missedTracksList) != 0: 
-            newDescription["description"] = "❔😭 Missing: " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
+            newDescription["description"] = "😭 Missing: " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
         else:
-            newDescription["description"] = "✔️🤩 Found: " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " "
+            newDescription["description"] = "🤩 Found: " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " "
         newDescription["description"] += "🌐 " + editionDayData[0]["Page Link"] + " "
         newDescription["description"] += "💸 Support your local NPR station. "
         newDescription["description"] += "📻 www.npr.org/donations/support "
