@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-12-18",
         "Day": "Mon",
-        "Scanned Date": "2021-05-21 06:27:54"
+        "Scanned Date": "2021-05-21 06:27:54",
+        "Playlist URI": "6uoyy9v4Aan9wXDlVkQl3Q",
+        "Playlist Link": "https://open.spotify.com/playlist/6uoyy9v4Aan9wXDlVkQl3Q",
+        "Snapshot ID": "MSxmOWJlNmE3NDNmMzY2NTFhYzUyYmJiNTEzNjMxYmIwNzE4Y2Q1ZWRk",
+        "Playlist Name": "MoWeEd 2000-12-18 Mon Morning Edition"
     },
     {
         "Title": "The Bush Transition",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Berceuse",
         "MoWeEd Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Cabin Waltz",
         "MoWeEd Artists": [
             "New Grange"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Volunteer Firefighters",
@@ -46,7 +60,12 @@
         "MoWeEd Track": "GREENSLEEVES SWING",
         "MoWeEd Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush and the LAPD",
@@ -58,7 +77,15 @@
         "MoWeEd Track": "There She Goes",
         "MoWeEd Artists": [
             "Brian Hughes"
-        ]
+        ],
+        "Result Track Name": "There She Goes",
+        "Result Artist Names": [
+            "Brian Hughes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BKvckfhxQDFsY45hAU8Sh",
+        "Result Album Name": "Shakin' Not Stirred"
     },
     {
         "Title": "George Gershwin",
@@ -83,7 +110,15 @@
         "MoWeEd Artists": [
             "Hopkins",
             "Hernando And Orchestra"
-        ]
+        ],
+        "Result Track Name": "Rudolph The Red Nose Reindeer Cha Cha",
+        "Result Artist Names": [
+            "Hernando Hopkins Y Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3oC8f8lIWeQ7kx8RrVNBNR",
+        "Result Album Name": "FELIZ NAVIDAD - LATIN CHRISTMAS"
     },
     {
         "Title": "Bush Goes to Washington",
@@ -102,7 +137,15 @@
         "MoWeEd Artists": [
             "Béla Fleck",
             "the Flecktones"
-        ]
+        ],
+        "Result Track Name": "Flight of the Cosmic Hippo",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0dDZPziZGcQV4bUBaKfzyJ",
+        "Result Album Name": "Flight Of The Cosmic Hippo"
     },
     {
         "Title": "Palestinian/Israeli Peace Talks",
@@ -120,7 +163,15 @@
         "MoWeEd Track": "Blue Christmas",
         "MoWeEd Artists": [
             "Robert Bonfiglio"
-        ]
+        ],
+        "Result Track Name": "Blue Christmas",
+        "Result Artist Names": [
+            "Bonfiglio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3NGpPMBOJuX1RDuWhyxGFJ",
+        "Result Album Name": "Home For The Holidays"
     },
     {
         "Title": "<I>Crouching Tiger, Hidden Dragon</I>",
@@ -144,6 +195,14 @@
         "MoWeEd Track": "Santa Claus Is Coming to Town",
         "MoWeEd Artists": [
             "Vince Charles"
-        ]
+        ],
+        "Result Track Name": "Santa Claus Is Coming to Town",
+        "Result Artist Names": [
+            "Vince Charles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uXz7cfbWdUYCiQbZiH8rV",
+        "Result Album Name": "Carribean Christmas"
     }
 ]

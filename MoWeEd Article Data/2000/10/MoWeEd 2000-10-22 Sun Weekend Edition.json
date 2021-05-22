@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-10-22",
         "Day": "Sun",
-        "Scanned Date": "2021-05-21 06:33:33"
+        "Scanned Date": "2021-05-21 06:33:33",
+        "Playlist URI": "6JfweYJZJg3YkAdp6c4V6z",
+        "Playlist Link": "https://open.spotify.com/playlist/6JfweYJZJg3YkAdp6c4V6z",
+        "Snapshot ID": "MSw2YmU1NDYyNTAxNjY0MGUwYWYzMzQxMzA1NjYyNmI4MWQ1NzI4NzNi",
+        "Playlist Name": "MoWeEd 2000-10-22 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Political Ads",
@@ -35,13 +44,23 @@
         "MoWeEd Track": "FROM BOOK I - BASED ON HUNGARIAN FOLK TUNES",
         "MoWeEd Artists": [
             "THE SOFIA SOLOISTS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "World Series",
@@ -59,7 +78,15 @@
         "MoWeEd Track": "Memories of a Color",
         "MoWeEd Artists": [
             "Stina Nordenstam"
-        ]
+        ],
+        "Result Track Name": "Memories of a Color",
+        "Result Artist Names": [
+            "Stina Nordenstam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gr2XfoMNFJv14mhe2gcuS",
+        "Result Album Name": "Memories of a Color"
     },
     {
         "Title": "Wright Brothers",
@@ -71,7 +98,15 @@
         "MoWeEd Track": "Come Fly with Me",
         "MoWeEd Artists": [
             "Monty Alexander"
-        ]
+        ],
+        "Result Track Name": "Come Fly With Me - Instrumental",
+        "Result Artist Names": [
+            "Monty Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hgKD9ba7QJGG8SrVF2z7o",
+        "Result Album Name": "Echoes Of Jilly's"
     },
     {
         "Title": "Southern Boys",
@@ -83,13 +118,23 @@
         "MoWeEd Track": "Partita for keyboard No. 4 in D major, BWV 828 (BC L4)",
         "MoWeEd Artists": [
             "Camerata Brasil"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -101,7 +146,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>When We Were Orphans</I>",
@@ -113,7 +163,12 @@
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Arab Summit",
@@ -137,19 +192,46 @@
         "MoWeEd Track": "Hottea",
         "MoWeEd Artists": [
             "Peter Barshay"
-        ]
+        ],
+        "Result Track Name": "Hottea",
+        "Result Artist Names": [
+            "Peter Barshay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wdJIk4iGO7YOHH5qW1iuW",
+        "Result Album Name": "Pit of Fashion"
     },
     {
         "MoWeEd Track": "First Tube",
         "MoWeEd Artists": [
             "Phish"
-        ]
+        ],
+        "Result Track Name": "First Tube",
+        "Result Artist Names": [
+            "Phish"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pVKmDcMdrbiiGqsztIcL3",
+        "Result Album Name": "Farmhouse"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Yugoslavia Culture",
@@ -173,13 +255,26 @@
         "MoWeEd Track": "Bad Tattoo",
         "MoWeEd Artists": [
             "Lake Trout"
-        ]
+        ],
+        "Result Track Name": "Bad Tattoo",
+        "Result Artist Names": [
+            "Lake Trout"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46FfGR9y3ui3DsJ7f4IKVg",
+        "Result Album Name": "Volume For The Rest Of It"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -191,7 +286,12 @@
         "MoWeEd Track": "Shame",
         "MoWeEd Artists": [
             "Low"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Director's Cuts",
@@ -203,6 +303,14 @@
         "MoWeEd Track": "Carballesas",
         "MoWeEd Artists": [
             "Milladoiro"
-        ]
+        ],
+        "Result Track Name": "Carballesas",
+        "Result Artist Names": [
+            "Milladoiro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EldBMoHGHY6XPNpIES0P0",
+        "Result Album Name": "Auga de Maio"
     }
 ]

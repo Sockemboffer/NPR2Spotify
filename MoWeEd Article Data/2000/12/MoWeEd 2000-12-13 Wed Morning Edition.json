@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-12-13",
         "Day": "Wed",
-        "Scanned Date": "2021-05-21 06:27:25"
+        "Scanned Date": "2021-05-21 06:27:25",
+        "Playlist URI": "4S8LxfZjiy6PSF5K1QoE7L",
+        "Playlist Link": "https://open.spotify.com/playlist/4S8LxfZjiy6PSF5K1QoE7L",
+        "Snapshot ID": "MSw3ZTBhZDNkYTZmYmU2MTQyMDk4OThmYjA4YzliN2Q2NWYzODcwMzVk",
+        "Playlist Name": "MoWeEd 2000-12-13 Wed Morning Edition"
     },
     {
         "Title": "Supreme Court Ruling",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Canonn For Bela",
         "MoWeEd Artists": [
             "J.J. Johnson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Free to Be",
         "MoWeEd Artists": [
             "Donald Harrison"
-        ]
+        ],
+        "Result Track Name": "Free to Be - Live",
+        "Result Artist Names": [
+            "Donald Harrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NOeu3PbOPr8aKeidJEoll",
+        "Result Album Name": "Jazz Fest: The New Orleans Jazz & Heritage Festival"
     },
     {
         "Title": "What's Next?",
@@ -46,7 +63,12 @@
         "MoWeEd Track": "Woody 'n Me",
         "MoWeEd Artists": [
             "Woody Herman Orch With Special Guests"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Florida State Legislature",
@@ -58,7 +80,12 @@
         "MoWeEd Track": "IV (Allegro Ritmico)",
         "MoWeEd Artists": [
             "Dusan Bogdanovic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Marine Air Crash",
@@ -77,7 +104,12 @@
         "MoWeEd Artists": [
             "Kennedy",
             "John Lenehan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Microsoft Permatemps",
@@ -113,7 +145,16 @@
         "MoWeEd Track": "Air",
         "MoWeEd Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Air",
+        "Result Artist Names": [
+            "Richard Stoltzman",
+            "Mika Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5beCOazjqoUqdjIu0vFNeT",
+        "Result Album Name": "Duo Cantando"
     },
     {
         "Title": "Slate of Electors",
@@ -131,7 +172,15 @@
         "MoWeEd Track": "A Smooth One",
         "MoWeEd Artists": [
             "Claude \"Fiddler\" Williams"
-        ]
+        ],
+        "Result Track Name": "A Smooth One",
+        "Result Artist Names": [
+            "Claude \"Fiddler\" Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QEUhc155XcS4qUqsmZXAH",
+        "Result Album Name": "Swingin' The Blues"
     },
     {
         "Title": "Good Gifts",

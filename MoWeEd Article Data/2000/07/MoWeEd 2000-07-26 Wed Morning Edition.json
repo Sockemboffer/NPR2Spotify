@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-07-26",
         "Day": "Wed",
-        "Scanned Date": "2021-05-21 06:40:50"
+        "Scanned Date": "2021-05-21 06:40:50",
+        "Playlist URI": "4Cfqrd1fKo4zneksWbVwHP",
+        "Playlist Link": "https://open.spotify.com/playlist/4Cfqrd1fKo4zneksWbVwHP",
+        "Snapshot ID": "MSw1MDY1M2EzZWI2ZTI1OWI0MjNjZDJmMzM1ODM5Y2M1MDM0OGI2N2M2",
+        "Playlist Name": "MoWeEd 2000-07-26 Wed Morning Edition"
     },
     {
         "Title": "Capitol Hill's Response to Cheney",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Melo",
         "MoWeEd Artists": [
             "Margie Adam"
-        ]
+        ],
+        "Result Track Name": "Melo",
+        "Result Artist Names": [
+            "Margie Adam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VYql5y1srixdLUjDTLXAR",
+        "Result Album Name": "Naked Keys"
     },
     {
         "Title": "Sharing Jerusalem in the Name of Peace",
@@ -40,7 +52,12 @@
         "MoWeEd Track": "A Piece Without Violins",
         "MoWeEd Artists": [
             "Hollis Taylor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Census 2000 Results Questionable",
@@ -52,7 +69,17 @@
         "MoWeEd Track": "The Sorcerer",
         "MoWeEd Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "The Sorcerer",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Nicholas Payton",
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45m2RAx1TsAgtHTbddyvHf",
+        "Result Album Name": "Fingerpainting: The Music Of Herbie Hancock"
     },
     {
         "Title": "Americans with Disabilities Act",
@@ -89,7 +116,16 @@
         "MoWeEd Artists": [
             "John Etheridge",
             "Andy Summers"
-        ]
+        ],
+        "Result Track Name": "Lolita",
+        "Result Artist Names": [
+            "Andy Summers",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5apbHfwvQw1UkixbTQixds",
+        "Result Album Name": "Invisible Threads"
     },
     {
         "Title": "Suburban Sprawl",

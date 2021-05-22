@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-11-27",
         "Day": "Mon",
-        "Scanned Date": "2021-05-21 06:31:26"
+        "Scanned Date": "2021-05-21 06:31:26",
+        "Playlist URI": "4BJNi3Ay0Grf8qVruOI6iU",
+        "Playlist Link": "https://open.spotify.com/playlist/4BJNi3Ay0Grf8qVruOI6iU",
+        "Snapshot ID": "MSwyNWY4NWU1YzcwOTc2YjE2Y2E0MDM5YjU4MTI5ODRjNjI4YjljMmMw",
+        "Playlist Name": "MoWeEd 2000-11-27 Mon Morning Edition"
     },
     {
         "Title": "Bush Wins Florida",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "South Street Shuffle",
         "MoWeEd Artists": [
             "Ed Hamilton"
-        ]
+        ],
+        "Result Track Name": "South Street Shuffle",
+        "Result Artist Names": [
+            "Ed Hamilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Lvkp9PZRo6RkFfeaUCpOD",
+        "Result Album Name": "Path To The Heartland"
     },
     {
         "Title": "Legal Battle Continues",
@@ -46,7 +58,15 @@
         "MoWeEd Track": "Distant Voices",
         "MoWeEd Artists": [
             "Luis Perez"
-        ]
+        ],
+        "Result Track Name": "Distant Voices",
+        "Result Artist Names": [
+            "Luis Perez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zxcWFYL2SQIhE3IfKLsh3",
+        "Result Album Name": "Tales of Astral Travelers"
     },
     {
         "Title": "Radio Expedition",
@@ -70,7 +90,16 @@
         "MoWeEd Track": "Moten Swing",
         "MoWeEd Artists": [
             "Count Bassie with Bennie Moten's Kansas City Orchestra"
-        ]
+        ],
+        "Result Track Name": "Moten Swing",
+        "Result Artist Names": [
+            "Bennie Moten's Kansas City Orchestra",
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7058823529411765,
+        "Result Track URI": "spotify:track:3B5MmLLkE6ZKvcGGmDfgd2",
+        "Result Album Name": "Greatest Hits Series--Swing!"
     },
     {
         "Title": "Election Contested",
@@ -88,7 +117,15 @@
         "MoWeEd Track": "Chach",
         "MoWeEd Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Chach",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Hn4dRDOF3Psipakf3GQia",
+        "Result Album Name": "The Black Light"
     },
     {
         "Title": "The Election Report",
@@ -112,7 +149,12 @@
         "MoWeEd Track": "Dueling Steel & Dobra",
         "MoWeEd Artists": [
             "Totally Hot Nashville Steel Guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Going Home",
@@ -131,6 +173,15 @@
         "MoWeEd Artists": [
             "Narholz",
             "Gerhard"
-        ]
+        ],
+        "Result Track Name": "Speaking Guitar",
+        "Result Artist Names": [
+            "Gerhard Narholz",
+            "Franz Loeffler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zCzIU4AVWPdrLLZBRjeLW",
+        "Result Album Name": "Das Mädchen Von Hongkong (Original Soundtrack)"
     }
 ]

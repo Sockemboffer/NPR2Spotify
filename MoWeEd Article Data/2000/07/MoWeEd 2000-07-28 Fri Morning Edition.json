@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-07-28",
         "Day": "Fri",
-        "Scanned Date": "2021-05-21 06:41:01"
+        "Scanned Date": "2021-05-21 06:41:01",
+        "Playlist URI": "19RX3vkwrlnoouAvXciitb",
+        "Playlist Link": "https://open.spotify.com/playlist/19RX3vkwrlnoouAvXciitb",
+        "Snapshot ID": "MSw5ZWZiOTI1M2I0NDdiMTExOGIxZGYyYzBhNmNhZTVlMmIyNDNkODAy",
+        "Playlist Name": "MoWeEd 2000-07-28 Fri Morning Edition"
     },
     {
         "Title": "Major Renovations in Philadelphia",
@@ -52,7 +56,12 @@
         "MoWeEd Track": "Hedghog Hedge",
         "MoWeEd Artists": [
             "Phil Heywood"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Viewing Politicians",
@@ -70,7 +79,12 @@
         "MoWeEd Track": "Just Squeeze Me",
         "MoWeEd Artists": [
             "Dixie Power Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Meeting to Reduce Tensions in Russia",
@@ -82,7 +96,15 @@
         "MoWeEd Track": "Lela",
         "MoWeEd Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Lela",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Gke6gstvMA9dGdDMD366G",
+        "Result Album Name": "Ronroco"
     },
     {
         "Title": "Time Warner/Aol Push for Merger",
@@ -100,7 +122,12 @@
         "MoWeEd Track": "On the Q-Tee",
         "MoWeEd Artists": [
             "Willie Tee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Celebrity Gardens",
@@ -112,6 +139,14 @@
         "MoWeEd Track": "California Zephyr",
         "MoWeEd Artists": [
             "Lynn Patrick"
-        ]
+        ],
+        "Result Track Name": "California Zephyr",
+        "Result Artist Names": [
+            "Lynn Patrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hFJpLhIIwmOMfP1Egow4V",
+        "Result Album Name": "Winnie's Guitar"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-11-14",
         "Day": "Tue",
-        "Scanned Date": "2021-05-21 06:30:14"
+        "Scanned Date": "2021-05-21 06:30:14",
+        "Playlist URI": "5E9yyziiQQY6GcB6RMFDCi",
+        "Playlist Link": "https://open.spotify.com/playlist/5E9yyziiQQY6GcB6RMFDCi",
+        "Snapshot ID": "MSwyZmY0N2JlZmJhNTNhMzhjNjAyNWE4YzE1OTcyYTJiOWI3ZjNkNTY4",
+        "Playlist Name": "MoWeEd 2000-11-14 Tue Morning Edition"
     },
     {
         "Title": "The Recount",
@@ -16,7 +20,12 @@
         "MoWeEd Track": "The Mama Suite, Pt. 2: Too Much Mama",
         "MoWeEd Artists": [
             "Horace Silver"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Recount Finance",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Interloper",
         "MoWeEd Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Physician Assisted Suicide",
@@ -52,7 +66,15 @@
         "MoWeEd Track": "Coyita",
         "MoWeEd Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Coyita",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:016vA5iOfrn9LdFWpoIYr3",
+        "Result Album Name": "Ronroco"
     },
     {
         "Title": "Lori Berenson Case",
@@ -70,7 +92,15 @@
         "MoWeEd Track": "Larry's World",
         "MoWeEd Artists": [
             "Russ Freeman"
-        ]
+        ],
+        "Result Track Name": "Larry's World",
+        "Result Artist Names": [
+            "Russ Freeman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ciuEmvpjzPbztcSTokIku",
+        "Result Album Name": "Sounds Of Wood & Steel: A Windham Hill Collection"
     },
     {
         "Title": "Dow Chemical",
@@ -89,7 +119,12 @@
         "MoWeEd Artists": [
             "Ettore Stratta and the Memphis Symphony Orchestra",
             "Boots Randolph"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Florida Update",
@@ -125,7 +160,15 @@
         "MoWeEd Track": "Dead Turkey Gulch",
         "MoWeEd Artists": [
             "Shark Quest"
-        ]
+        ],
+        "Result Track Name": "Dead Turkey Gulch",
+        "Result Artist Names": [
+            "Shark Quest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4u5zCnrwA45WCnhn5vS98A",
+        "Result Album Name": "Battle of the Loons"
     },
     {
         "Title": "Aaron Copland",
@@ -143,6 +186,11 @@
         "MoWeEd Track": "Yesterday's Gardenia's",
         "MoWeEd Artists": [
             "The Nuclear Whales Saxaphone Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

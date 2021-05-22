@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-12-16",
         "Day": "Sat",
-        "Scanned Date": "2021-05-21 06:27:43"
+        "Scanned Date": "2021-05-21 06:27:43",
+        "Playlist URI": "2xxJ3jFd7LFFPFfmNFtrgA",
+        "Playlist Link": "https://open.spotify.com/playlist/2xxJ3jFd7LFFPFfmNFtrgA",
+        "Snapshot ID": "MSw2YTg1NWYzYjBlNTdlYmQ1NzViZTUwYjM2NGI2YTFjYmRlYjQ2MGEw",
+        "Playlist Name": "MoWeEd 2000-12-16 Sat Weekend Edition"
     },
     {
         "Title": "Cabinet Announcement",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Sonata for Clarinet and Piano: Andantino, Vivace E Leggiero",
         "MoWeEd Artists": [
             "The Chicago Chamber Musicians"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Rocky Mount",
         "MoWeEd Artists": [
             "Stan Tracey"
-        ]
+        ],
+        "Result Track Name": "Rocky Mount",
+        "Result Artist Names": [
+            "Stan Tracey Octet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Rcs5LdiAjmWt3WVOeAHfF",
+        "Result Album Name": "Portraits Plus"
     },
     {
         "Title": "Mazen Al-Najjar",
@@ -52,7 +69,16 @@
         "MoWeEd Track": "Summon the Heroes [First Recording]",
         "MoWeEd Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": "Summon the Heroes",
+        "Result Artist Names": [
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:7MCDsDT8Tnye7YPnIoGV9v",
+        "Result Album Name": "Summon the Heroes"
     },
     {
         "Title": "Therapy to Go",
@@ -64,7 +90,15 @@
         "MoWeEd Track": "What Child Is This?",
         "MoWeEd Artists": [
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "What Child Is This",
+        "Result Artist Names": [
+            "David Archuleta"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:62MVZaKdyMlkCtohEKjwKe",
+        "Result Album Name": "Christmas From The Heart"
     },
     {
         "Title": "Rhodes Scholar",
@@ -82,7 +116,15 @@
         "MoWeEd Track": "Got It Goin' On",
         "MoWeEd Artists": [
             "James Armstrong"
-        ]
+        ],
+        "Result Track Name": "Got It Goin' On",
+        "Result Artist Names": [
+            "James Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Ad7cOia7RV574Nrc3OOFc",
+        "Result Album Name": "Got It Goin' On"
     },
     {
         "Title": "Week-in-Review",
@@ -100,13 +142,26 @@
         "MoWeEd Track": "Winners",
         "MoWeEd Artists": [
             "Frank Sinatra"
-        ]
+        ],
+        "Result Track Name": "Winners",
+        "Result Artist Names": [
+            "Frank Sinatra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iWdP2CRQZ8XsIkOwahSXY",
+        "Result Album Name": "Ol' Blue Eyes Is Back"
     },
     {
         "MoWeEd Track": "Get Smart",
         "MoWeEd Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Racicot Cabinet Possibility",
@@ -124,7 +179,12 @@
         "MoWeEd Track": "Four pieces from \"The Seasons,\" Op.37a: September, \"The Hunt\"",
         "MoWeEd Artists": [
             "Dmitry Paperno"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Return of Scooter",
@@ -136,7 +196,15 @@
         "MoWeEd Track": "Here We Come a Wassailing",
         "MoWeEd Artists": [
             "Kurt Bestor"
-        ]
+        ],
+        "Result Track Name": "Here We Come a Wassailing",
+        "Result Artist Names": [
+            "Kurt Bestor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OCuZuDLWiMQtwdFSA4t9C",
+        "Result Album Name": "One Silent Night"
     },
     {
         "Title": "Dot-com implosion",

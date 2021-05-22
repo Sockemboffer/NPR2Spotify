@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-11-01",
         "Day": "Wed",
-        "Scanned Date": "2021-05-21 06:29:06"
+        "Scanned Date": "2021-05-21 06:29:06",
+        "Playlist URI": "4Hi4I3lZbunim3dBUsLUcc",
+        "Playlist Link": "https://open.spotify.com/playlist/4Hi4I3lZbunim3dBUsLUcc",
+        "Snapshot ID": "MSw2ZTMxNTljMmRhNjlkYzZkMjI2MjYxN2UyNDkzYzU2MjUzNWIzZjE0",
+        "Playlist Name": "MoWeEd 2000-11-01 Wed Morning Edition"
     },
     {
         "Title": "Clinton in Louisville",
@@ -16,7 +20,12 @@
         "MoWeEd Track": "Winnies Guitar",
         "MoWeEd Artists": [
             "Lynn Patrick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Campaign Report",
@@ -46,7 +55,12 @@
         "MoWeEd Track": "Concerto for 2 violins, strings & continuo in D minor (\"Double\"), BWV 1043",
         "MoWeEd Artists": [
             "Kennedy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Undecided Voters",
@@ -65,14 +79,32 @@
         "MoWeEd Artists": [
             "Ian Carr",
             "Karen Tweed"
-        ]
+        ],
+        "Result Track Name": "Norman",
+        "Result Artist Names": [
+            "Ian Carr",
+            "Karen Tweed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5vWU5iPy2F2XzW2a1mfcVq",
+        "Result Album Name": "Fyace"
     },
     {
         "MoWeEd Track": "Christmas",
         "MoWeEd Artists": [
             "Ian Carr",
             "Karen Tweed"
-        ]
+        ],
+        "Result Track Name": "Christmas",
+        "Result Artist Names": [
+            "Ian Carr",
+            "Karen Tweed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67rPtM0CBxAaua6lYPS7RS",
+        "Result Album Name": "Fyace"
     },
     {
         "Title": "Ignored Issue",
@@ -84,7 +116,12 @@
         "MoWeEd Track": "Studenten-Polka, polka française for orchestra (My Life is Love & Laughter), Op. 263 (RV 263)",
         "MoWeEd Artists": [
             "Erich Kunzel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Youth Vote in Oregon",
@@ -96,13 +133,29 @@
         "MoWeEd Track": "Retrograde Mirror Form",
         "MoWeEd Artists": [
             "Stereolab"
-        ]
+        ],
+        "Result Track Name": "Retrograde Mirror Form",
+        "Result Artist Names": [
+            "Stereolab"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52cT1huU1a85Ci2H50yhTL",
+        "Result Album Name": "Electrically Possessed [Switched On Volume 4]"
     },
     {
         "MoWeEd Track": "Bossa Nova 101",
         "MoWeEd Artists": [
             "Money Mark"
-        ]
+        ],
+        "Result Track Name": "Bossa Nova 101",
+        "Result Artist Names": [
+            "Money Mark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3afh1uQFaOB5nd6lusktDk",
+        "Result Album Name": "Push The Button"
     },
     {
         "Title": "Israel Report",
@@ -121,7 +174,16 @@
         "MoWeEd Artists": [
             "Alex de Grassi",
             "Michael Bluestein et. al."
-        ]
+        ],
+        "Result Track Name": "Milonguera",
+        "Result Artist Names": [
+            "Alex de Grassi",
+            "Quique Cruz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:6sqnkTocjtPiSbzbURyyGs",
+        "Result Album Name": "Tata Monk"
     },
     {
         "Title": "Tour de France Scandal",
@@ -133,7 +195,15 @@
         "MoWeEd Track": "Symphonic Dance",
         "MoWeEd Artists": [
             "Phil Keaggy"
-        ]
+        ],
+        "Result Track Name": "Symphonic Dance (A Variation On Allegretto Grazioso)",
+        "Result Artist Names": [
+            "Phil Keaggy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hdD7QWluwAfZoQiv2TNIt",
+        "Result Album Name": "Beyond Nature"
     },
     {
         "Title": "Radio Campaign",
@@ -151,13 +221,29 @@
         "MoWeEd Track": "Big J",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Big J",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WXB6h7Fbr9dyte7JGrQdW",
+        "Result Album Name": "Works For Me"
     },
     {
         "MoWeEd Track": "Crowns",
         "MoWeEd Artists": [
             "Money Mark"
-        ]
+        ],
+        "Result Track Name": "Crowns",
+        "Result Artist Names": [
+            "Money Mark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LPdmPIEvPSijVTcPpSBen",
+        "Result Album Name": "Push The Button"
     },
     {
         "Title": "New Chinese Film",
@@ -169,7 +255,15 @@
         "MoWeEd Track": "Restless Harbors",
         "MoWeEd Artists": [
             "Chris Proctor"
-        ]
+        ],
+        "Result Track Name": "Restless Harbors",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tQvtxJ45PepsdVxIdlboN",
+        "Result Album Name": "Steel String Stories"
     },
     {
         "Title": " ",

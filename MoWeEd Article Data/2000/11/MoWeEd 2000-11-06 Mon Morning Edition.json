@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-11-06",
         "Day": "Mon",
-        "Scanned Date": "2021-05-21 06:29:34"
+        "Scanned Date": "2021-05-21 06:29:34",
+        "Playlist URI": "4W7UH2yTYjIWKUy9fJtzoe",
+        "Playlist Link": "https://open.spotify.com/playlist/4W7UH2yTYjIWKUy9fJtzoe",
+        "Snapshot ID": "MSw2OTI1NjBmODM4ZGY4ZWM3MjU1Y2Y4ZWIwZGJiY2E0Y2I4ZGQ2MWIx",
+        "Playlist Name": "MoWeEd 2000-11-06 Mon Morning Edition"
     },
     {
         "Title": "Final Day For Bush",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Mushmouth",
         "MoWeEd Artists": [
             "Greg Piccolo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Final Day for Nader",
@@ -41,7 +50,16 @@
         "MoWeEd Artists": [
             "Gary Burton",
             "Makoto Ozone"
-        ]
+        ],
+        "Result Track Name": "My Romance",
+        "Result Artist Names": [
+            "Gary Burton",
+            "Makoto Ozone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BfCsrkLVGhLobW4DKYNbX",
+        "Result Album Name": "Collection"
     },
     {
         "Title": "Barak/Arafat Meet with Clinton",
@@ -65,7 +83,12 @@
         "MoWeEd Track": "Nutcracker Rag",
         "MoWeEd Artists": [
             "John Sheridan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Money Problems in N.Y.",
@@ -77,7 +100,15 @@
         "MoWeEd Track": "The Penultimate House (On Salmon Beach)",
         "MoWeEd Artists": [
             "Chris Proctor"
-        ]
+        ],
+        "Result Track Name": "The Penultimate House (On Salmon Beach)",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2SeGd6FSUxh4cGIMMMn9rS",
+        "Result Album Name": "Steel String Stories"
     },
     {
         "Title": "Election Eve",
@@ -95,7 +126,12 @@
         "MoWeEd Track": "Invention for 2 voices in C major BWV772",
         "MoWeEd Artists": [
             "Jean-Bernard Pommier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Social Security Issues",
@@ -107,7 +143,16 @@
         "MoWeEd Track": "Goldberg Variations: Variatio 9. Canone alla Terza. a 1 Clav.",
         "MoWeEd Artists": [
             "Christophe Rousset"
-        ]
+        ],
+        "Result Track Name": "Goldberg Variations, BWV 988: Var. 9 Canone alla Terza a 1 Clav.",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Christophe Rousset"
+        ],
+        "Result Track-Match Percent": 0.8181818181818182,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7BRUglVkGgWnx6Ct9KUG8y",
+        "Result Album Name": "Bach, J.S.: Harpsichord Works"
     },
     {
         "Title": "<i>Venus Beauty Institute</i>",

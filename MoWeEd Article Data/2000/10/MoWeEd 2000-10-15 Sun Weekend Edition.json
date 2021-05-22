@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-10-15",
         "Day": "Sun",
-        "Scanned Date": "2021-05-21 06:32:57"
+        "Scanned Date": "2021-05-21 06:32:57",
+        "Playlist URI": "73ThoywIuid75Zv4vCvc99",
+        "Playlist Link": "https://open.spotify.com/playlist/73ThoywIuid75Zv4vCvc99",
+        "Snapshot ID": "MSw4ZjQ3MDhmOGVjOWRlMTE4OWZjMDIwMTY1ODA1MDgzNTZiNDQzZGY2",
+        "Playlist Name": "MoWeEd 2000-10-15 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East",
@@ -35,19 +44,45 @@
         "MoWeEd Track": "The Room",
         "MoWeEd Artists": [
             "Harold Budd"
-        ]
+        ],
+        "Result Track Name": "The Room of Ancillary Dreams",
+        "Result Artist Names": [
+            "Harold Budd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sE6rfo580MA1BLabp4tQz",
+        "Result Album Name": "The Room"
     },
     {
         "MoWeEd Track": "A Particular Sum",
         "MoWeEd Artists": [
             "Patrick Doyle"
-        ]
+        ],
+        "Result Track Name": "A Particular Sum - Instrumental",
+        "Result Artist Names": [
+            "Patrick Doyle",
+            "Robert Ziegler",
+            "Tony Hymas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Zo1IjeFf5xSRqXE4xFcJE",
+        "Result Album Name": "Sense & Sensibility - Original Motion Picture Soundtrack"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Politics",
@@ -59,7 +94,12 @@
         "MoWeEd Track": "I'm Diggin' You (Like an Old Soul Record)",
         "MoWeEd Artists": [
             "Me'Shell NdegéOcello"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Schorr",
@@ -71,7 +111,12 @@
         "MoWeEd Track": "Chill Out Honey Pie",
         "MoWeEd Artists": [
             "Muthspiel Peacock Muthspiel Motian"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ohio Welfare",
@@ -84,7 +129,15 @@
         "MoWeEd Artists": [
             "Mike Clark",
             "Kevin Burrell et. al."
-        ]
+        ],
+        "Result Track Name": "The Grinder",
+        "Result Artist Names": [
+            "Mike Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5kt8RLY0XzNByq1XEuY11P",
+        "Result Album Name": "Actual Proof"
     },
     {
         "Title": "Steven Stark",
@@ -96,20 +149,41 @@
         "MoWeEd Track": "Living on the Road",
         "MoWeEd Artists": [
             "Joanna Connor"
-        ]
+        ],
+        "Result Track Name": "Living On The Road",
+        "Result Artist Names": [
+            "Joanna Connor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iYkWy45am8hKTPUr7Fl1s",
+        "Result Album Name": "Fight"
     },
     {
         "MoWeEd Track": "Stingers",
         "MoWeEd Artists": [
             "Mike Clark",
             "Charlie Hunter et. al."
-        ]
+        ],
+        "Result Track Name": "Stingers",
+        "Result Artist Names": [
+            "Mike Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7dcKB8ewu3gMPeum0w82ax",
+        "Result Album Name": "Actual Proof"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -121,7 +195,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Conversation",
@@ -134,7 +213,16 @@
         "MoWeEd Artists": [
             "Carla Bley",
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Ad Infinitum",
+        "Result Artist Names": [
+            "Carla Bley",
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ckj3KRSPZwGmaSXH5CNwM",
+        "Result Album Name": "Go Together"
     },
     {
         "Title": "Autumn",
@@ -146,7 +234,15 @@
         "MoWeEd Track": "AUTUMN LEAVES",
         "MoWeEd Artists": [
             "CANNONBALL ADDERLEY"
-        ]
+        ],
+        "Result Track Name": "Autumn Leaves",
+        "Result Artist Names": [
+            "Cannonball Adderley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0X5DcGkbxCXSadgj01ZXd7",
+        "Result Album Name": "Somethin' Else (Rudy Van Gelder Edition)"
     },
     {
         "Title": "Middle East",
@@ -164,19 +260,43 @@
         "MoWeEd Track": "Poursuite",
         "MoWeEd Artists": [
             "Benoît Delbecq"
-        ]
+        ],
+        "Result Track Name": "Poursuite",
+        "Result Artist Names": [
+            "Benoît Delbecq"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UrpM0mhakm11XXCAELRVf",
+        "Result Album Name": "Pursuit"
     },
     {
         "MoWeEd Track": "E HELE ANA E",
         "MoWeEd Artists": [
             "HAPA"
-        ]
+        ],
+        "Result Track Name": "E Hele Ana E",
+        "Result Artist Names": [
+            "Hapa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mKNiuXPkUEmgrdZ2yIfXD",
+        "Result Album Name": "In The Name Of Love"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Colombia Kidnappings",
@@ -194,7 +314,15 @@
         "MoWeEd Track": "SHE DANCES BY THE LIGHT OF THE SILVERY MOON",
         "MoWeEd Artists": [
             "HAROLD BUDD"
-        ]
+        ],
+        "Result Track Name": "She Dances By The Light Of The Silvery Moon",
+        "Result Artist Names": [
+            "Harold Budd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lwldb0AI5N58QjpFXlp4k",
+        "Result Album Name": "By The Dawn's Early Light"
     },
     {
         "Title": "Letters",
@@ -206,7 +334,15 @@
         "MoWeEd Track": "Por Ti Volare (Con Te Partirò)",
         "MoWeEd Artists": [
             "Andrea Bocelli"
-        ]
+        ],
+        "Result Track Name": "Con te partirò",
+        "Result Artist Names": [
+            "Andrea Bocelli"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zrpoAJte9o12TzawqgdD0",
+        "Result Album Name": "Bocelli (Remastered)"
     },
     {
         "Title": "Miss America",
@@ -218,13 +354,29 @@
         "MoWeEd Track": "Pahinui Aloha",
         "MoWeEd Artists": [
             "Hapa"
-        ]
+        ],
+        "Result Track Name": "Pahinui Aloha [Instrumental]",
+        "Result Artist Names": [
+            "Hapa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3whMBxzc4xs86ZEaPyIllU",
+        "Result Album Name": "In The Name Of Love"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Archaeology",
@@ -242,6 +394,14 @@
         "MoWeEd Track": "Emme's Island Moments Theme [Instrumental]",
         "MoWeEd Artists": [
             "Hapa"
-        ]
+        ],
+        "Result Track Name": "Emme's Island Moments Theme",
+        "Result Artist Names": [
+            "Hapa"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NzdNkRZzr38rEATQZQPFN",
+        "Result Album Name": "Namahana"
     }
 ]

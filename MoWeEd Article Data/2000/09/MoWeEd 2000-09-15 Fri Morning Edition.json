@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-09-15",
         "Day": "Fri",
-        "Scanned Date": "2021-05-21 06:35:31"
+        "Scanned Date": "2021-05-21 06:35:31",
+        "Playlist URI": "72wCb0b7Vp3hocJw8bHiXY",
+        "Playlist Link": "https://open.spotify.com/playlist/72wCb0b7Vp3hocJw8bHiXY",
+        "Snapshot ID": "MSxmYTVjZjQ5NGQwZDE1YWFlNDRkZmIzODZhMTdhNjIyZmFjNWNkYTA2",
+        "Playlist Name": "MoWeEd 2000-09-15 Fri Morning Edition"
     },
     {
         "Title": "Candidates Agree on Debates",
@@ -22,7 +26,16 @@
         "MoWeEd Track": "Widescreen",
         "MoWeEd Artists": [
             "Vanessa-Mae"
-        ]
+        ],
+        "Result Track Name": "Widescreen",
+        "Result Artist Names": [
+            "Mike Batt",
+            "Vanessa-Mae"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73k9Yo7wbe8s8JfZqenz0B",
+        "Result Album Name": "The Violin Player"
     },
     {
         "Title": "<i>The Inextinguishable Symphony</i> Continues",
@@ -41,7 +54,17 @@
         "MoWeEd Artists": [
             "Leonard Bernstein",
             "New York Philharmonic"
-        ]
+        ],
+        "Result Track Name": "Aida: Grand March (Triumphal March)",
+        "Result Artist Names": [
+            "Giuseppe Verdi",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.8333333333333334,
+        "Result Track URI": "spotify:track:1pPYYYQWcwi5uQ9yH5zhzz",
+        "Result Album Name": "Great Marches"
     },
     {
         "Title": "How Plants Moved to Land",
@@ -59,7 +82,12 @@
         "MoWeEd Track": "Smile",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Vintage Clothing Success",
@@ -95,7 +123,12 @@
         "MoWeEd Track": "Invention for 2 voices in C major BWV772",
         "MoWeEd Artists": [
             "Jean-Bernard Pommier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jakarta Stock Exchange",
@@ -107,7 +140,15 @@
         "MoWeEd Track": "Weather Storm",
         "MoWeEd Artists": [
             "Massive Attack"
-        ]
+        ],
+        "Result Track Name": "Weather Storm",
+        "Result Artist Names": [
+            "Massive Attack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4u5KFWcW1ptk0hJqp2lrCE",
+        "Result Album Name": "Protection"
     },
     {
         "Title": "After Hurricane Floyd",
@@ -125,7 +166,12 @@
         "MoWeEd Track": "Blue Miles",
         "MoWeEd Artists": [
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<i>The Fighter</i>",
@@ -137,6 +183,11 @@
         "MoWeEd Track": "From London to L.A.",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

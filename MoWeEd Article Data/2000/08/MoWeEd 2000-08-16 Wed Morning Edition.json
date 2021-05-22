@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-08-16",
         "Day": "Wed",
-        "Scanned Date": "2021-05-21 06:37:59"
+        "Scanned Date": "2021-05-21 06:37:59",
+        "Playlist URI": "1wG0evRLNbkEi7WenfSA3i",
+        "Playlist Link": "https://open.spotify.com/playlist/1wG0evRLNbkEi7WenfSA3i",
+        "Snapshot ID": "MSw5YzZkNDQzYWIzOWY5MzRlZDBmZGFmZWIwODBlODZlZjQzNjNmMTgw",
+        "Playlist Name": "MoWeEd 2000-08-16 Wed Morning Edition"
     },
     {
         "Title": "Day Two at the DNC",
@@ -22,7 +26,16 @@
         "MoWeEd Track": "Stevie",
         "MoWeEd Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Stevie",
+        "Result Artist Names": [
+            "Duke Ellington",
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ylpg33fqhQfJrXLwSxnzh",
+        "Result Album Name": "Duke Ellington & John Coltrane"
     },
     {
         "Title": "Covert Police Files Made Public",
@@ -34,7 +47,16 @@
         "MoWeEd Track": "Spiritual Dance: Spiritual Dance",
         "MoWeEd Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": "Spiritual Dance",
+        "Result Artist Names": [
+            "Unknown",
+            "Empire Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:312Q3LsgRoEhuk5y4P4Iej",
+        "Result Album Name": "Passage: 138 B.C. - A.D. 1611"
     },
     {
         "Title": "Concorde Grounded",
@@ -58,7 +80,15 @@
         "MoWeEd Track": "Introduction",
         "MoWeEd Artists": [
             "Nick Drake"
-        ]
+        ],
+        "Result Track Name": "Introduction",
+        "Result Artist Names": [
+            "Nick Drake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7unUg1rIAVXyYVH5LPHc4R",
+        "Result Album Name": "Bryter Layter"
     },
     {
         "Title": "Rose Nolan on Employment",
@@ -71,7 +101,15 @@
         "MoWeEd Artists": [
             "New England Ragtime Ensemble",
             "Gunther Schuller"
-        ]
+        ],
+        "Result Track Name": "Maple Leaf Rag",
+        "Result Artist Names": [
+            "New England Conservatory Ragtime Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:5V79qvtdTXmFxozWHGAVtG",
+        "Result Album Name": "Scott Joplin: The Red Back Book / Elite Syncopations"
     },
     {
         "Title": "Rescue Efforts for Russian Sub",
@@ -107,13 +145,26 @@
         "MoWeEd Track": "Fanny Durbin",
         "MoWeEd Artists": [
             "Pat Kirtley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Which Will",
         "MoWeEd Artists": [
             "Nick Drake"
-        ]
+        ],
+        "Result Track Name": "Which Will",
+        "Result Artist Names": [
+            "Nick Drake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4d0eRQkWI8LrRJfCHmyOVI",
+        "Result Album Name": "Pink Moon"
     },
     {
         "Title": "Chris Clark: Lone American Runner",
@@ -131,7 +182,15 @@
         "MoWeEd Track": "Another Fine Mess",
         "MoWeEd Artists": [
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Another Fine Mess",
+        "Result Artist Names": [
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ivjTDXr6IGWJDPqK16SIQ",
+        "Result Album Name": "Deconstructed"
     },
     {
         "Title": "Judy Muller on Lieberman and Symbolism",

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-10-01",
         "Day": "Sun",
-        "Scanned Date": "2021-05-21 06:31:47"
+        "Scanned Date": "2021-05-21 06:31:47",
+        "Playlist URI": "4sseMZSxJHqI4Yn4TsMQPC",
+        "Playlist Link": "https://open.spotify.com/playlist/4sseMZSxJHqI4Yn4TsMQPC",
+        "Snapshot ID": "MSwwYjQ3M2I1ZTFkYzA3YzFmMDIxOTNkYTA4MThiMThlZGEwZGE2YTY5",
+        "Playlist Name": "MoWeEd 2000-10-01 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Polls",
@@ -35,19 +44,44 @@
         "MoWeEd Track": "Joga",
         "MoWeEd Artists": [
             "Jason Moran"
-        ]
+        ],
+        "Result Track Name": "Joga",
+        "Result Artist Names": [
+            "Jason Moran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05FSqhkE8SMjneVMackicp",
+        "Result Album Name": "Facing Left"
     },
     {
         "MoWeEd Track": "Third Self-Portrait Series",
         "MoWeEd Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": "Third Self-Portrait Series",
+        "Result Artist Names": [
+            "Rachel Grimes",
+            "Rachel's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Uu1RkckBgUfOMmjCKMMK0",
+        "Result Album Name": "Music for Egon Schiele"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Wen Ho Lee Coverage",
@@ -65,7 +99,15 @@
         "MoWeEd Track": "Doodlin'",
         "MoWeEd Artists": [
             "Michael Kaeshammer"
-        ]
+        ],
+        "Result Track Name": "Doodlin'",
+        "Result Artist Names": [
+            "Michael Kaeshammer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PX1zxB4kOE8xRhMHe4JZO",
+        "Result Album Name": "Tell You How I Feel"
     },
     {
         "Title": "<I>The Song</I>",
@@ -77,7 +119,15 @@
         "MoWeEd Track": "Por Ti Volare (Con Te Partirò)",
         "MoWeEd Artists": [
             "Andrea Bocelli"
-        ]
+        ],
+        "Result Track Name": "Con te partirò",
+        "Result Artist Names": [
+            "Andrea Bocelli"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zrpoAJte9o12TzawqgdD0",
+        "Result Album Name": "Bocelli (Remastered)"
     },
     {
         "Title": "Gigawit",
@@ -89,13 +139,26 @@
         "MoWeEd Track": "Spiders",
         "MoWeEd Artists": [
             "The Jazz Mandolin Project"
-        ]
+        ],
+        "Result Track Name": "Spiders - Live",
+        "Result Artist Names": [
+            "The Jazz Mandolin Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76kPOvq9Rlw2gAGdv6wu8N",
+        "Result Album Name": "Xenoblast"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -107,7 +170,15 @@
         "MoWeEd Track": "C'est Si Bon",
         "MoWeEd Artists": [
             "Eartha Kitt"
-        ]
+        ],
+        "Result Track Name": "C'est Si Bon",
+        "Result Artist Names": [
+            "Eartha Kitt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3U69pCQwveSOn5bl9VAime",
+        "Result Album Name": "That Bad Eartha"
     },
     {
         "Title": "Havel Biography",
@@ -119,7 +190,16 @@
         "MoWeEd Track": "Third Self-Portrait Series",
         "MoWeEd Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": "Third Self-Portrait Series",
+        "Result Artist Names": [
+            "Rachel Grimes",
+            "Rachel's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Uu1RkckBgUfOMmjCKMMK0",
+        "Result Album Name": "Music for Egon Schiele"
     },
     {
         "Title": "Jerusalem Violence",
@@ -131,7 +211,12 @@
         "MoWeEd Track": "The Golden Wire",
         "MoWeEd Artists": [
             "Andy Summers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Suharto Legacy",
@@ -143,19 +228,40 @@
         "MoWeEd Track": "Ol' 98",
         "MoWeEd Artists": [
             "Mike Corbin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Thanks a Lot",
         "MoWeEd Artists": [
             "Teddy Thompson"
-        ]
+        ],
+        "Result Track Name": "Thanks A Lot",
+        "Result Artist Names": [
+            "Teddy Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yCGbrrEmhPpuXyaJKSCGu",
+        "Result Album Name": "Teddy Thompson"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Olympic Wrapup",
@@ -173,7 +279,15 @@
         "MoWeEd Track": "Fountain of Youth",
         "MoWeEd Artists": [
             "John Kruth"
-        ]
+        ],
+        "Result Track Name": "Fountain of Youth",
+        "Result Artist Names": [
+            "John Kruth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2GEsB2EOUgbOmMzaOp2l2F",
+        "Result Album Name": "Banshee Mandolin"
     },
     {
         "Title": "Sportsmanship",
@@ -185,7 +299,15 @@
         "MoWeEd Track": "High Wire",
         "MoWeEd Artists": [
             "Dave Holland"
-        ]
+        ],
+        "Result Track Name": "High Wire",
+        "Result Artist Names": [
+            "Dave Holland Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xHCLHutUFJUO0HnN8b3Px",
+        "Result Album Name": "Prime Directive"
     },
     {
         "Title": "Scoring Debates",
@@ -197,19 +319,46 @@
         "MoWeEd Track": "Fathers",
         "MoWeEd Artists": [
             "Laurent de Wilde"
-        ]
+        ],
+        "Result Track Name": "Fathers",
+        "Result Artist Names": [
+            "Laurent De Wilde",
+            "Ira Coleman",
+            "Dion Parson",
+            "Bobby Thomas Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q74eVulAwmNYBxd9z0hFt",
+        "Result Album Name": "Spoon-a-Rhythm"
     },
     {
         "MoWeEd Track": "Hide it Away",
         "MoWeEd Artists": [
             "Richard Thompson"
-        ]
+        ],
+        "Result Track Name": "Hide It Away",
+        "Result Artist Names": [
+            "Richard Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZC8XGvC5PDZS7QtmhEB08",
+        "Result Album Name": "You? Me? Us?"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Thomas Wolfe Centennial",
@@ -221,7 +370,15 @@
         "MoWeEd Track": "I'm So Lonesome I Could Cry",
         "MoWeEd Artists": [
             "Hank Williams"
-        ]
+        ],
+        "Result Track Name": "I'm So Lonesome I Could Cry",
+        "Result Artist Names": [
+            "Hank Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tj7IsJrn4MvesuhoY0JBy",
+        "Result Album Name": "The Legend Lives Anew: Hank Williams, Sr. With Strings"
     },
     {
         "Title": "Teddy Thompson",
@@ -233,12 +390,25 @@
         "MoWeEd Track": "Thanks a Lot",
         "MoWeEd Artists": [
             "Teddy Thompson"
-        ]
+        ],
+        "Result Track Name": "Thanks A Lot",
+        "Result Artist Names": [
+            "Teddy Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yCGbrrEmhPpuXyaJKSCGu",
+        "Result Album Name": "Teddy Thompson"
     },
     {
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "B. J. Liederman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

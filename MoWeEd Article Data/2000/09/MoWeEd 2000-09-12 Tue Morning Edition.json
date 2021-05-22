@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-09-12",
         "Day": "Tue",
-        "Scanned Date": "2021-05-21 06:35:17"
+        "Scanned Date": "2021-05-21 06:35:17",
+        "Playlist URI": "1sZ1l1dSFWcix7esU4gJVi",
+        "Playlist Link": "https://open.spotify.com/playlist/1sZ1l1dSFWcix7esU4gJVi",
+        "Snapshot ID": "MSw5ZjNlNGFiZDcyNmU1ODNmYmJhODQ2NmEzOTQ5YjA4MjhiYzhmYWYy",
+        "Playlist Name": "MoWeEd 2000-09-12 Tue Morning Edition"
     },
     {
         "Title": "Wen Ho Lee Case Developments",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Blind Mary",
         "MoWeEd Artists": [
             "Peter Clemens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Korea Reconciliation Developments",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Olé",
         "MoWeEd Artists": [
             "Derf Reklaw-Raheem"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hasan to Attend Olympics?",
@@ -52,7 +66,15 @@
         "MoWeEd Track": "Walkin' on the Sun",
         "MoWeEd Artists": [
             "Jeff Golub"
-        ]
+        ],
+        "Result Track Name": "Walkin' On The Sun",
+        "Result Artist Names": [
+            "Jeff Golub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1senpjYMWKoMHJj9zLtct2",
+        "Result Album Name": "Dangerous Curves"
     },
     {
         "Title": "North Mississippi Allstars",
@@ -71,7 +93,17 @@
         "MoWeEd Artists": [
             "Biller",
             "Wakefield"
-        ]
+        ],
+        "Result Track Name": "George's Bad Day",
+        "Result Artist Names": [
+            "Dave Biller",
+            "Jeremy Wakefield",
+            "Carl Sonny Leyland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5D8elbnxYQnadkicpVKA1f",
+        "Result Album Name": "The Hot Guitars Of Biller And Wakefield"
     },
     {
         "Title": "Bush Fights in Florida",
@@ -89,13 +121,26 @@
         "MoWeEd Track": "Selfless, Cold and Composed",
         "MoWeEd Artists": [
             "Ben Folds Five"
-        ]
+        ],
+        "Result Track Name": "Selfless, Cold and Composed",
+        "Result Artist Names": [
+            "Ben Folds Five"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43Fd2LMelrD0HU01n4g4cw",
+        "Result Album Name": "Whatever And Ever Amen (Remastered Edition)"
     },
     {
         "MoWeEd Track": "My Deal Little Mother (Mein Mütterlein)",
         "MoWeEd Artists": [
             "Carol Rosenberger"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Economic Boom in Suburban Rochester",
@@ -107,7 +152,15 @@
         "MoWeEd Track": "My Drag",
         "MoWeEd Artists": [
             "Squirrel Nut Zippers"
-        ]
+        ],
+        "Result Track Name": "My Drag",
+        "Result Artist Names": [
+            "Squirrel Nut Zippers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zozWFr7a4qCdR2qtsx9TT",
+        "Result Album Name": "Perennial Favorites"
     },
     {
         "Title": "Fuel Price Protests in London",
@@ -119,13 +172,31 @@
         "MoWeEd Track": "The Creatures of Prometheus",
         "MoWeEd Artists": [
             "Daniel Harding"
-        ]
+        ],
+        "Result Track Name": "Beethoven: The Creatures of Prometheus, Op. 43: Overture",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Deutsche Kammerphilharmonie Bremen",
+            "Daniel Harding"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6w1wvDOAv3uwCywM5OJad5",
+        "Result Album Name": "Beethoven - Overtures"
     },
     {
         "MoWeEd Track": "Ghinawa",
         "MoWeEd Artists": [
             "Bonga"
-        ]
+        ],
+        "Result Track Name": "Ghinawa",
+        "Result Artist Names": [
+            "Bonga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Onz63PhRf8dIEJFPW3bGy",
+        "Result Album Name": "Angola 72/74"
     },
     {
         "Title": "Bath Iron Works Strike",
@@ -143,7 +214,12 @@
         "MoWeEd Track": "A Midsummer Night's Dream: Excerpt",
         "MoWeEd Artists": [
             "Trio Voronezh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Toronto International Film Festival",
@@ -161,6 +237,11 @@
         "MoWeEd Track": "Pururrnas",
         "MoWeEd Artists": [
             "SUKAY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

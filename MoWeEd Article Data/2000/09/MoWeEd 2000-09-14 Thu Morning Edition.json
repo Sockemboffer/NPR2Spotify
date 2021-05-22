@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-09-14",
         "Day": "Thu",
-        "Scanned Date": "2021-05-21 06:35:27"
+        "Scanned Date": "2021-05-21 06:35:27",
+        "Playlist URI": "4FrVZlt4zq28PuFhO8vsvR",
+        "Playlist Link": "https://open.spotify.com/playlist/4FrVZlt4zq28PuFhO8vsvR",
+        "Snapshot ID": "MSwwNzVhNDY3MWQ3MGRhOWExNWMyOWExYzE3YTllZTMzYjk2NmZmNWU4",
+        "Playlist Name": "MoWeEd 2000-09-14 Thu Morning Edition"
     },
     {
         "Title": "Wen Ho Lee Released",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Cool Weasel Boogie",
         "MoWeEd Artists": [
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Inextinguishable Symphony",
@@ -64,7 +73,15 @@
         "MoWeEd Track": "You Must Not Be Hearin' Straight",
         "MoWeEd Artists": [
             "Leroy Jones"
-        ]
+        ],
+        "Result Track Name": "You Must Not Be Hearin' Straight",
+        "Result Artist Names": [
+            "Leroy Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gbseRPGL1huNUBbmYIvsY",
+        "Result Album Name": "Props For Pops"
     },
     {
         "Title": "Clinton/Lazio Debate",
@@ -82,7 +99,15 @@
         "MoWeEd Track": "Daahoud",
         "MoWeEd Artists": [
             "Arturo Sandoval"
-        ]
+        ],
+        "Result Track Name": "Daahoud",
+        "Result Artist Names": [
+            "Arturo Sandoval"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pE1AXxFxVqJp8C3Cz8JxW",
+        "Result Album Name": "I Remember Clifford"
     },
     {
         "Title": "Women's Olympic Soccer",
@@ -100,7 +125,15 @@
         "MoWeEd Track": "Unexpectedly",
         "MoWeEd Artists": [
             "Alex Grant"
-        ]
+        ],
+        "Result Track Name": "Unexpectedly",
+        "Result Artist Names": [
+            "Alex Grant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0tt7Us76Xxaln2BBVYG7wZ",
+        "Result Album Name": "Evening's Last Light"
     },
     {
         "Title": "Youth Violence",
@@ -112,7 +145,12 @@
         "MoWeEd Track": "Stromseeker",
         "MoWeEd Artists": [
             "Billy McLaughlin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Vajpayee/Clinton Meeting on Nuclear Arms",

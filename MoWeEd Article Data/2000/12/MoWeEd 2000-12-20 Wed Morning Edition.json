@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-12-20",
         "Day": "Wed",
-        "Scanned Date": "2021-05-21 06:28:07"
+        "Scanned Date": "2021-05-21 06:28:07",
+        "Playlist URI": "6ya2ZmxmxlY1EUXj53qpZy",
+        "Playlist Link": "https://open.spotify.com/playlist/6ya2ZmxmxlY1EUXj53qpZy",
+        "Snapshot ID": "MSw0ZGZkYjIyMWFiMDdkYTM3MDhiM2UyNzYxYWM3M2M5ZWE3ODZiOTBk",
+        "Playlist Name": "MoWeEd 2000-12-20 Wed Morning Edition"
     },
     {
         "Title": "Questioning the Supreme Court",
@@ -16,13 +20,26 @@
         "MoWeEd Track": "Saxalone 1:Morning Swing",
         "MoWeEd Artists": [
             "Tom Bergeron"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Transparency",
         "MoWeEd Artists": [
             "Greg Osby"
-        ]
+        ],
+        "Result Track Name": "Transparency",
+        "Result Artist Names": [
+            "Greg Osby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XoSKNhu32toBE5vVfSS4m",
+        "Result Album Name": "Further Ado"
     },
     {
         "Title": "Airwave Auction",
@@ -40,7 +57,15 @@
         "MoWeEd Track": "I'm Ready",
         "MoWeEd Artists": [
             "Fats Domino"
-        ]
+        ],
+        "Result Track Name": "I'm Ready",
+        "Result Artist Names": [
+            "Fats Domino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fHEQFR2rNxIVmkEmTr7cb",
+        "Result Album Name": "Vintage Rock'n'Roll and Blues"
     },
     {
         "Title": "Police Officers Guilty",
@@ -82,14 +107,29 @@
         "MoWeEd Track": "Main Theme from \"Star Trek\" [Original TV Series]",
         "MoWeEd Artists": [
             "Cincinnati Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mack the Knife",
         "MoWeEd Artists": [
             "Ray Brown",
             "John Clayton et. al."
-        ]
+        ],
+        "Result Track Name": "Mack The Knife",
+        "Result Artist Names": [
+            "Ray Brown",
+            "John Clayton",
+            "Christian McBride"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6w7H36g0DSNajY6kRCPfIg",
+        "Result Album Name": "SuperBass (Recorded Live At Scullers)"
     },
     {
         "Title": "Tourist Shortage in Yalta",
@@ -107,7 +147,12 @@
         "MoWeEd Track": "What Child Is This?",
         "MoWeEd Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Snow in Atlanta",
@@ -119,7 +164,15 @@
         "MoWeEd Track": "Winter Wonderland",
         "MoWeEd Artists": [
             "Jazz at the Movies Band"
-        ]
+        ],
+        "Result Track Name": "Winter Wonderland",
+        "Result Artist Names": [
+            "Jazz At The Movies Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wmVR8oFtNp9q9Jry6Gj8V",
+        "Result Album Name": "It's A Wonderful Life: Sax At The Movies For Christmas"
     },
     {
         "Title": "Too Much Housing",
@@ -137,7 +190,15 @@
         "MoWeEd Track": "I Remember Clifford",
         "MoWeEd Artists": [
             "Arturo Sandoval"
-        ]
+        ],
+        "Result Track Name": "I Remember Clifford",
+        "Result Artist Names": [
+            "Arturo Sandoval"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ws9xoMw0E0xne5PDoK4p2",
+        "Result Album Name": "I Remember Clifford"
     },
     {
         "Title": "Musician Helping Teens",

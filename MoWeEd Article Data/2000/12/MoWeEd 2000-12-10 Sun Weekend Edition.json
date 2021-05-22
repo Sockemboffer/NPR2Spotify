@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-12-10",
         "Day": "Sun",
-        "Scanned Date": "2021-05-21 06:27:10"
+        "Scanned Date": "2021-05-21 06:27:10",
+        "Playlist URI": "1d7dq85KN8gP9cW8wMSBgt",
+        "Playlist Link": "https://open.spotify.com/playlist/1d7dq85KN8gP9cW8wMSBgt",
+        "Snapshot ID": "MSxiYWMwZjI1MjBkOGUzNDkyYzBiMGNlZTAyMjA4MDY5Yjg3NzM5M2Yy",
+        "Playlist Name": "MoWeEd 2000-12-10 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tallahassee",
@@ -35,19 +44,37 @@
         "MoWeEd Track": "Prime Directive",
         "MoWeEd Artists": [
             "Dave Holland Quartet"
-        ]
+        ],
+        "Result Track Name": "Prime Directive",
+        "Result Artist Names": [
+            "Dave Holland Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5JQlt4ieGZpQBI68bmkmxV",
+        "Result Album Name": "Prime Directive"
     },
     {
         "MoWeEd Track": "Vivace From Variations On Balkan Themes, Op. 60",
         "MoWeEd Artists": [
             "Joanne Polk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Punch Card Machines",
@@ -59,7 +86,15 @@
         "MoWeEd Track": "The Return of Alan Bean",
         "MoWeEd Artists": [
             "Stina Nordenstam"
-        ]
+        ],
+        "Result Track Name": "The Return of Alan Bean",
+        "Result Artist Names": [
+            "Stina Nordenstam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eleH86TXp5Cp0JPnYwbeM",
+        "Result Album Name": "Memories of a Color"
     },
     {
         "Title": "Handling Bullies",
@@ -71,7 +106,12 @@
         "MoWeEd Track": "Melting Pot",
         "MoWeEd Artists": [
             "Yosuke Yamashita"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pearl Harbor",
@@ -89,19 +129,43 @@
         "MoWeEd Track": "War Dance for Wooden Indians",
         "MoWeEd Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "War Dance for Wooden Indians",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:61bE1iPcBH2cPBuD8NPoiz",
+        "Result Album Name": "Bug Music"
     },
     {
         "MoWeEd Track": "Poems",
         "MoWeEd Artists": [
             "Terence Blanchard"
-        ]
+        ],
+        "Result Track Name": "Poems (From Pacific Overtures)",
+        "Result Artist Names": [
+            "Terence Blanchard",
+            "Bruce Barth",
+            "Chris Thomas",
+            "Troy Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GtfNfXxHhdJ30jHTGlx7x",
+        "Result Album Name": "Color and Light: Jazz Sketches on Sondheim"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -113,7 +177,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Emily Dickinson",
@@ -125,7 +194,12 @@
         "MoWeEd Track": "No. 2 Menuet Italien From Trois Morceaux Caracteristiques, Op. 28",
         "MoWeEd Artists": [
             "Joanne Polk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Election Update",
@@ -143,19 +217,43 @@
         "MoWeEd Track": "Woody 'N You",
         "MoWeEd Artists": [
             "Eliane Elias"
-        ]
+        ],
+        "Result Track Name": "Woody 'N You",
+        "Result Artist Names": [
+            "Eliane Elias"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Tm1MGgzQ6OeP011LqglSs",
+        "Result Album Name": "Everything I Love"
     },
     {
         "MoWeEd Track": "Bolgarskii Zhok",
         "MoWeEd Artists": [
             "Tim Sparks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Barak Resigns",
@@ -185,7 +283,16 @@
         "MoWeEd Track": "Prelude and Fugue No. 1 In C Major",
         "MoWeEd Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": "Preludes and Fugues for Piano, Op. 87: Prelude & Fugue No. 1 in C Major",
+        "Result Artist Names": [
+            "Dmitri Shostakovich",
+            "Keith Jarrett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Cl6PLVYP60Jplr8bNkNn0",
+        "Result Album Name": "Dmitri Shostakovich: 24 Preludes And Fugues, Op. 87"
     },
     {
         "Title": "Meet the Beatles",
@@ -197,19 +304,40 @@
         "MoWeEd Track": "Love Me Do",
         "MoWeEd Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "Love Me Do - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VbGCXWRiouAq8VyMYN2MI",
+        "Result Album Name": "Please Please Me (Remastered)"
     },
     {
         "MoWeEd Track": "You Piss Me Off",
         "MoWeEd Artists": [
             "Jim's Big Ego"
-        ]
+        ],
+        "Result Track Name": "You Piss Me Off",
+        "Result Artist Names": [
+            "Jim's Big Ego"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:216NwHPk7y5mD5WzkQWBzH",
+        "Result Album Name": "Noplace Like Nowhere"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -221,7 +349,15 @@
         "MoWeEd Track": "Take Five",
         "MoWeEd Artists": [
             "The Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Take Five",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YQWosTIljIvxAgHWTp7KP",
+        "Result Album Name": "Time Out"
     },
     {
         "Title": "Director's Cuts",
@@ -233,6 +369,14 @@
         "MoWeEd Track": "What Child Is This?",
         "MoWeEd Artists": [
             "John Fahey"
-        ]
+        ],
+        "Result Track Name": "What Child Is This",
+        "Result Artist Names": [
+            "John Fahey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OKuKusO3AdsHU1lTp0gxa",
+        "Result Album Name": "Christmas Guitar, V. 1"
     }
 ]

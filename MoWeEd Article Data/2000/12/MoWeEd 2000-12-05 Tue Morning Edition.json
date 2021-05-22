@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-12-05",
         "Day": "Tue",
-        "Scanned Date": "2021-05-21 06:26:43"
+        "Scanned Date": "2021-05-21 06:26:43",
+        "Playlist URI": "1N7OlbxD68TVJsdDhjnzJS",
+        "Playlist Link": "https://open.spotify.com/playlist/1N7OlbxD68TVJsdDhjnzJS",
+        "Snapshot ID": "MSwzYzFmNzBjZjI2MmUxZWNlYmE2ZGJmNzVkZDMzYzJkMmQ1YjlmNzI3",
+        "Playlist Name": "MoWeEd 2000-12-05 Tue Morning Edition"
     },
     {
         "Title": "The Ruling",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Sonata in G Major: Allegro",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Water on Mars",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Ox",
         "MoWeEd Artists": [
             "UMO (Unidentified Musical Objects)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Child Care Series",
@@ -52,7 +66,15 @@
         "MoWeEd Track": "Blackbird",
         "MoWeEd Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Blackbird",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PtZaHjsx2Pnk3x9O92bB2",
+        "Result Album Name": "The Art of the Trio, Vol. 1"
     },
     {
         "Title": "Stock News",
@@ -78,7 +100,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Court Discussion",
@@ -96,7 +123,15 @@
         "MoWeEd Track": "Sidewalk Blues",
         "MoWeEd Artists": [
             "The Dirty Dozen Brass Band"
-        ]
+        ],
+        "Result Track Name": "Sidewalk Blues",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6x68V2raTztd6f5I8eWdQL",
+        "Result Album Name": "Jelly (The Dirty Dozen Brass Band Plays Jelly Roll Morton"
     },
     {
         "Title": "Commentary",
@@ -108,7 +143,15 @@
         "MoWeEd Track": "You Must Not Be Hearin' Straight",
         "MoWeEd Artists": [
             "Leroy Jones"
-        ]
+        ],
+        "Result Track Name": "You Must Not Be Hearin' Straight",
+        "Result Artist Names": [
+            "Leroy Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gbseRPGL1huNUBbmYIvsY",
+        "Result Album Name": "Props For Pops"
     },
     {
         "Title": "Mad Cows in Europe",

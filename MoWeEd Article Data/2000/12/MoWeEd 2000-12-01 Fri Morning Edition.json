@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-12-01",
         "Day": "Fri",
-        "Scanned Date": "2021-05-21 06:26:20"
+        "Scanned Date": "2021-05-21 06:26:20",
+        "Playlist URI": "7EYgR0raCMyLzK3pIX3MLx",
+        "Playlist Link": "https://open.spotify.com/playlist/7EYgR0raCMyLzK3pIX3MLx",
+        "Snapshot ID": "MSwwM2QyNDAxMmIwNzAwYjczYzkzMjkwNzhlMmRjZjAxZDU3YzJiZTcz",
+        "Playlist Name": "MoWeEd 2000-12-01 Fri Morning Edition"
     },
     {
         "Title": "Supreme Court",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Blue Danube Waltz",
         "MoWeEd Artists": [
             "Totally Hot Nashville Steel Guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Flight to Bagdad",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Toccata in C Major",
         "MoWeEd Artists": [
             "Mariko Anraku"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Coach in Ohio Dies",
@@ -52,7 +66,15 @@
         "MoWeEd Track": "Road to Freedom",
         "MoWeEd Artists": [
             "Wind Machine"
-        ]
+        ],
+        "Result Track Name": "Road to Freedom",
+        "Result Artist Names": [
+            "Wind Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2H4PNfcnNOu2LX9VsE8U8h",
+        "Result Album Name": "Road to Freedom"
     },
     {
         "Title": "Mary Colter's Architechture pt. 2",
@@ -76,7 +98,15 @@
         "MoWeEd Track": "Song for My Father",
         "MoWeEd Artists": [
             "Horace Silver"
-        ]
+        ],
+        "Result Track Name": "Song For My Father",
+        "Result Artist Names": [
+            "Horace Silver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CDBaGlisZlOJzvx88lL8A",
+        "Result Album Name": "Song For My Father"
     },
     {
         "Title": "Court Preview",
@@ -88,7 +118,12 @@
         "MoWeEd Track": "'Kegelstatt' Trio, KV 498 for piano, viola and clarinet: 3. Allegro",
         "MoWeEd Artists": [
             "The Ensemble da Camera of Washington"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Adolescent Health Study",
@@ -113,7 +148,12 @@
         "MoWeEd Artists": [
             "Darol Anger",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Changing Face of America,",
@@ -125,7 +165,16 @@
         "MoWeEd Track": "Three Preludes: Allegro ben ritmato e deciso",
         "MoWeEd Artists": [
             "Carol Honigberg"
-        ]
+        ],
+        "Result Track Name": "Three Preludes: III. Allegro ben ritmato e deciso",
+        "Result Artist Names": [
+            "George Gershwin",
+            "Carol Honigberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1C9uoAEdh3rDwipISS4Zoo",
+        "Result Album Name": "Across 3 Continents: Twentieth Century Music for Piano"
     },
     {
         "Title": "Border Ballad",

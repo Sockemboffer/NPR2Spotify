@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-12-31",
         "Day": "Sun",
-        "Scanned Date": "2021-05-21 06:29:00"
+        "Scanned Date": "2021-05-21 06:29:00",
+        "Playlist URI": "5UMND5FS13UKUwJYFbHX34",
+        "Playlist Link": "https://open.spotify.com/playlist/5UMND5FS13UKUwJYFbHX34",
+        "Snapshot ID": "MSxlZDIyOWY4YzA4NzhjMThjM2MwNjlhNTg3Y2RiMTViYjQwMzZmOThk",
+        "Playlist Name": "MoWeEd 2000-12-31 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Appointments",
@@ -35,19 +44,40 @@
         "MoWeEd Track": "Sooner or Later",
         "MoWeEd Artists": [
             "Vandermark 5"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Echo Wars",
         "MoWeEd Artists": [
             "Peter Case"
-        ]
+        ],
+        "Result Track Name": "Echo Wars",
+        "Result Artist Names": [
+            "Peter Case"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uegiAKwQ6P5evaFy6Qdzu",
+        "Result Album Name": "Peter Case"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Big Tobacco",
@@ -59,7 +89,20 @@
         "MoWeEd Track": "Wanderlust",
         "MoWeEd Artists": [
             "Mike Mainieri"
-        ]
+        ],
+        "Result Track Name": "Wanderlust",
+        "Result Artist Names": [
+            "Mike Mainieri",
+            "Don Grolnick",
+            "Marcus Miller",
+            "Peter Erskine",
+            "Manolo Badrena",
+            "Michael Brecker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xBJGA59wHKZtNOED95Xmt",
+        "Result Album Name": "Wanderlust"
     },
     {
         "Title": "<I>Before Night Falls</I>",
@@ -71,7 +114,12 @@
         "MoWeEd Track": "Untitled",
         "MoWeEd Artists": [
             "Laurie Anderson and Lou Reed"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Retro 2000",
@@ -83,19 +131,40 @@
         "MoWeEd Track": "A Kiss to Build a Dream On",
         "MoWeEd Artists": [
             "Jonah Jones"
-        ]
+        ],
+        "Result Track Name": "A Kiss To Build A Dream On - Remastered",
+        "Result Artist Names": [
+            "Jonah Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BT977L4MBh9K9mHStkDoz",
+        "Result Album Name": "Jumpin' With Jonah"
     },
     {
         "MoWeEd Track": "REVIVAL",
         "MoWeEd Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Revival",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jiiVv7ICzpsVdQ3uXaWU7",
+        "Result Album Name": "Interstate"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -107,7 +176,15 @@
         "MoWeEd Track": "Longview",
         "MoWeEd Artists": [
             "Green Day"
-        ]
+        ],
+        "Result Track Name": "Longview",
+        "Result Artist Names": [
+            "Green Day"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LRJbFT9rKoKv4aW7PuBJC",
+        "Result Album Name": "Dookie"
     },
     {
         "Title": "<I>Catch Me If You Can</I>",
@@ -119,7 +196,15 @@
         "MoWeEd Track": "Echo Wars",
         "MoWeEd Artists": [
             "Peter Case"
-        ]
+        ],
+        "Result Track Name": "Echo Wars",
+        "Result Artist Names": [
+            "Peter Case"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uegiAKwQ6P5evaFy6Qdzu",
+        "Result Album Name": "Peter Case"
     },
     {
         "Title": "New York Snow",
@@ -137,7 +222,15 @@
         "MoWeEd Track": "Sweetness Alone",
         "MoWeEd Artists": [
             "Trapezoid"
-        ]
+        ],
+        "Result Track Name": "Sweetness Alone",
+        "Result Artist Names": [
+            "Trapezoid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cOeT8b6g6FpTSGrfSLkNJ",
+        "Result Album Name": "Remembered Ways"
     },
     {
         "Title": "U.S. Economic Review",
@@ -149,19 +242,40 @@
         "MoWeEd Track": "A Foxy Chick and a Cool Cat",
         "MoWeEd Artists": [
             "Joe Pass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Lebanese Blonde",
         "MoWeEd Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Lebanese Blonde",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66KcXPDs1hr8T06KvlJCeA",
+        "Result Album Name": "The Mirror Conspiracy"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Berlin Info-Box",
@@ -173,7 +287,15 @@
         "MoWeEd Track": "Autobahn",
         "MoWeEd Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Autobahn",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KLWhTxIwSmqVPPF0rHaDa",
+        "Result Album Name": "Possessed (Reissue)"
     },
     {
         "Title": "Year In Review",
@@ -186,7 +308,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -198,13 +325,29 @@
         "MoWeEd Track": "Indra",
         "MoWeEd Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Indra",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TcA1sQYRkYD4JBd9iuh4P",
+        "Result Album Name": "The Mirror Conspiracy"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Thievery Corporation",
@@ -216,6 +359,14 @@
         "MoWeEd Track": "Hong Kong Triad",
         "MoWeEd Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "The Hong Kong Triad",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6u2d6TYr9a55R0EADYG6PX",
+        "Result Album Name": "The Mirror Conspiracy"
     }
 ]

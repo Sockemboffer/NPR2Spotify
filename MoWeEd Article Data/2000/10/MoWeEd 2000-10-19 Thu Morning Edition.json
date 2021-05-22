@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-10-19",
         "Day": "Thu",
-        "Scanned Date": "2021-05-21 06:33:18"
+        "Scanned Date": "2021-05-21 06:33:18",
+        "Playlist URI": "7MRWNmwAOGTvXYpSqL8ftN",
+        "Playlist Link": "https://open.spotify.com/playlist/7MRWNmwAOGTvXYpSqL8ftN",
+        "Snapshot ID": "MSw1NDY3NGMxZTAwMWI4ZmI2MGU1NWE0NWJlZWFkY2FlOTJkZmM3NmYz",
+        "Playlist Name": "MoWeEd 2000-10-19 Thu Morning Edition"
     },
     {
         "Title": "Palestinian Report",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Seventeenth Century Sea",
         "MoWeEd Artists": [
             "St. Etienne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Campaign Report",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "So Tired",
         "MoWeEd Artists": [
             "Bobby Timmons"
-        ]
+        ],
+        "Result Track Name": "So Tired",
+        "Result Artist Names": [
+            "Bobby Timmons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XI8KS3xMhQTfrRysGd6tZ",
+        "Result Album Name": "Soul Time"
     },
     {
         "Title": "St. Louis Rams",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Busenfreund",
         "MoWeEd Artists": [
             "Tosca"
-        ]
+        ],
+        "Result Track Name": "Busenfreund",
+        "Result Artist Names": [
+            "Tosca"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ru2GHCiDBPSWXz1sxFHRm",
+        "Result Album Name": "Suzuki"
     },
     {
         "Title": "Debt Relief",
@@ -70,7 +95,15 @@
         "MoWeEd Track": "On the Plume",
         "MoWeEd Artists": [
             "Thomas Newman"
-        ]
+        ],
+        "Result Track Name": "On the Plume",
+        "Result Artist Names": [
+            "Thomas Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:580MRUkLxQ5N4PVgXJxRX8",
+        "Result Album Name": "Erin Brockovich - Original Motion Picture Soundtrack"
     },
     {
         "Title": "Ice Cream from the Gold Coast",
@@ -88,7 +121,15 @@
         "MoWeEd Track": "Ouachita Run",
         "MoWeEd Artists": [
             "Alvin Youngblood Hart"
-        ]
+        ],
+        "Result Track Name": "Ouachita Run",
+        "Result Artist Names": [
+            "Alvin Youngblood Hart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jPKxOm92Q9VUOGxIJRkyw",
+        "Result Album Name": "Late Night Blues"
     },
     {
         "Title": "Political Ads",
@@ -106,7 +147,15 @@
         "MoWeEd Track": "Buena Vista",
         "MoWeEd Artists": [
             "Gomez"
-        ]
+        ],
+        "Result Track Name": "Buena Vista",
+        "Result Artist Names": [
+            "Gomez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42dyHl0a2O5bP7HA71Nl0x",
+        "Result Album Name": "Abandoned Shopping Trolley Hotline"
     },
     {
         "Title": "U.S. Trade Policy",
@@ -130,7 +179,12 @@
         "MoWeEd Track": "You Feed Youself",
         "MoWeEd Artists": [
             "Dusty Trails"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Actress Ellen Burstyn",
@@ -142,7 +196,16 @@
         "MoWeEd Track": "Summer: Summer Overture",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Summer Overture",
+        "Result Artist Names": [
+            "Clint Mansell",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:47aMbtetHwI7tLR9Z7iec7",
+        "Result Album Name": "Requiem for a Dream / OST"
     },
     {
         "Title": "Aarp",
@@ -154,6 +217,11 @@
         "MoWeEd Track": "The Sweetest Punch",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

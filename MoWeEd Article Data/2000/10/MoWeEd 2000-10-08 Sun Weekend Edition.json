@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-10-08",
         "Day": "Sun",
-        "Scanned Date": "2021-05-21 06:32:20"
+        "Scanned Date": "2021-05-21 06:32:20",
+        "Playlist URI": "5ohZzocsrgkWmGgTsywPFn",
+        "Playlist Link": "https://open.spotify.com/playlist/5ohZzocsrgkWmGgTsywPFn",
+        "Snapshot ID": "MSxkOGIyYjBmMjVjZjY1YjVhMjkxNWY5MjQ0NTNmYmFiMjY0OTExMGY1",
+        "Playlist Name": "MoWeEd 2000-10-08 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mideast",
@@ -35,19 +44,37 @@
         "MoWeEd Track": "One Night Stand",
         "MoWeEd Artists": [
             "Mike Figgis"
-        ]
+        ],
+        "Result Track Name": "One Night Stand",
+        "Result Artist Names": [
+            "Melly Mike"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6LzbHclBMG959M1Ez9mFM4",
+        "Result Album Name": "Eternal Risk"
     },
     {
         "MoWeEd Track": "Ebioto",
         "MoWeEd Artists": [
             "Odean Pope Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iowa Immigrants",
@@ -71,13 +98,23 @@
         "MoWeEd Track": "Six Million Dollar Man Theme",
         "MoWeEd Artists": [
             "Oliver Nelson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -95,7 +132,12 @@
         "MoWeEd Track": "Ebioto",
         "MoWeEd Artists": [
             "Odean Pope Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mideast Update",
@@ -119,19 +161,47 @@
         "MoWeEd Track": "Negro River",
         "MoWeEd Artists": [
             "Uakti"
-        ]
+        ],
+        "Result Track Name": "Aguas da Amazonia: Negro River",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Uakti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eKtyhERzBoYl2IXgVtHdN",
+        "Result Album Name": "Philip Glass: Aguas da Amazonia"
     },
     {
         "MoWeEd Track": "Here Come de Honey Man",
         "MoWeEd Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Here Come De Honey Man",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5762wtpRrqkWfdyGOeRFbK",
+        "Result Album Name": "Porgy And Bess"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "U.S. Politics",
@@ -149,7 +219,15 @@
         "MoWeEd Track": "A Shot in the Dark [#]",
         "MoWeEd Artists": [
             "Jimmie Haskell"
-        ]
+        ],
+        "Result Track Name": "A Shot In The Dark - Remastered",
+        "Result Artist Names": [
+            "Jimmy Haskell"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5ekPislD3R4VjMPvAkr81H",
+        "Result Album Name": "Ultra-Lounge / Bachelor Pad Royale Volume Four"
     },
     {
         "Title": "The Mini",
@@ -161,13 +239,26 @@
         "MoWeEd Track": "Con Alma",
         "MoWeEd Artists": [
             "Dizzy Gillespie"
-        ]
+        ],
+        "Result Track Name": "Con Alma",
+        "Result Artist Names": [
+            "Dizzy Gillespie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79dhjqvk5LOW1Ah1dQDGgU",
+        "Result Album Name": "Afro"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -179,7 +270,12 @@
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Porgy and Bess'",

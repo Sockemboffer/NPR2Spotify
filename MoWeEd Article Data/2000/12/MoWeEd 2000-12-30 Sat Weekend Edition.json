@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-12-30",
         "Day": "Sat",
-        "Scanned Date": "2021-05-21 06:28:54"
+        "Scanned Date": "2021-05-21 06:28:54",
+        "Playlist URI": "54vrySdIklY9xJjI85XcAI",
+        "Playlist Link": "https://open.spotify.com/playlist/54vrySdIklY9xJjI85XcAI",
+        "Snapshot ID": "MSw2Y2UzYWI3ODI5YzJkYmVhZGMxNDNkZjU2NDcyNGFlODM4ZjZkZDRm",
+        "Playlist Name": "MoWeEd 2000-12-30 Sat Weekend Edition"
     },
     {
         "Title": "Thompson Profile",
@@ -22,13 +26,29 @@
         "MoWeEd Track": "Sema",
         "MoWeEd Artists": [
             "Mehmet Ergin"
-        ]
+        ],
+        "Result Track Name": "Sema",
+        "Result Artist Names": [
+            "Mehmet Ergin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qOqjyMeyf0OBgSDqpyxth",
+        "Result Album Name": "Beyond the Seven Hills"
     },
     {
         "MoWeEd Track": "Winter Wonderland",
         "MoWeEd Artists": [
             "Michael Weiss"
-        ]
+        ],
+        "Result Track Name": "Winter Wonderland",
+        "Result Artist Names": [
+            "Klaus Weiss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0Ig5BeyojbUHByPlYyXKgz",
+        "Result Album Name": "A Message From Santa Klaus"
     },
     {
         "Title": "Affirmative Action",
@@ -46,7 +66,12 @@
         "MoWeEd Track": "Concerto In D Minor for Oboe, Strings and Continuo",
         "MoWeEd Artists": [
             "Cologne Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Listener Mail",
@@ -58,7 +83,15 @@
         "MoWeEd Track": "Boogie on Reggae Woman",
         "MoWeEd Artists": [
             "Stevie Wonder"
-        ]
+        ],
+        "Result Track Name": "Boogie On Reggae Woman",
+        "Result Artist Names": [
+            "Stevie Wonder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1xTfQiHbhB2Bj2B9dlAojb",
+        "Result Album Name": "At The Close Of A Century"
     },
     {
         "Title": "Sports Year in Review",
@@ -70,7 +103,15 @@
         "MoWeEd Track": "The Rise and Fall of Flingel Bunt",
         "MoWeEd Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "The Rise and Fall of Flingel Bunt",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0aOM2ETJlzd3zUArCePEOW",
+        "Result Album Name": "Another String Of Hot Hits (And More!)"
     },
     {
         "Title": "Year's End",
@@ -83,7 +124,15 @@
         "MoWeEd Artists": [
             "Emmylou Harris",
             "Malcolm Burn et. al."
-        ]
+        ],
+        "Result Track Name": "Bang the Drum Slowly",
+        "Result Artist Names": [
+            "Emmylou Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:52WRxy9whgTFBZVYGQmgNE",
+        "Result Album Name": "Red Dirt Girl"
     },
     {
         "Title": "Schorr's Year in Review",
@@ -95,13 +144,31 @@
         "MoWeEd Track": "Minute Waltz",
         "MoWeEd Artists": [
             "Choplin"
-        ]
+        ],
+        "Result Track Name": "Waltz in D-flat, Op. 64 No. 1 \"Minute Waltz\"",
+        "Result Artist Names": [
+            "Frederic Choplin",
+            "Abbey Simon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62NCKVJIbrT6mOTHZ2r5qh",
+        "Result Album Name": "25 Piano Favorites"
     },
     {
         "MoWeEd Track": "As Time Goes By [Casablanca]",
         "MoWeEd Artists": [
             "I Salonisti"
-        ]
+        ],
+        "Result Track Name": "As Time Goes By (From \"Casablanca\")",
+        "Result Artist Names": [
+            "Herman Hupfeld",
+            "I Salonisti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2h2p8Zu0Gq0MIpKcdblLFK",
+        "Result Album Name": "Film Music"
     },
     {
         "Title": "Rod Paige Profile",
@@ -119,7 +186,15 @@
         "MoWeEd Track": "Carol of the Bells",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Carol Of The Bells",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DZ1uH37RF5YkcECtADzgo",
+        "Result Album Name": "Another Delightful Holiday"
     },
     {
         "Title": "Ice Storms",
@@ -131,14 +206,29 @@
         "MoWeEd Track": "Fanfare",
         "MoWeEd Artists": [
             "Cirque Du Soleil"
-        ]
+        ],
+        "Result Track Name": "Fanfare",
+        "Result Artist Names": [
+            "René Dupéré",
+            "Cirque du Soleil",
+            "Luc Gilbert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ZtPhps4XbACjt5KJdgaWd",
+        "Result Album Name": "Nouvelle Experience"
     },
     {
         "MoWeEd Track": "Wamba",
         "MoWeEd Artists": [
             "Dizzy Gillespie",
             "Others"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Penguins",
@@ -156,7 +246,15 @@
         "MoWeEd Track": "Auld Lang Syne",
         "MoWeEd Artists": [
             "Guy Lombardo"
-        ]
+        ],
+        "Result Track Name": "Auld Lang Syne",
+        "Result Artist Names": [
+            "Guy Lombardo & His Royal Canadians"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Saza06xljloZwotqXdNle",
+        "Result Album Name": "Christmas Classics"
     },
     {
         "Title": "New Year's Music",

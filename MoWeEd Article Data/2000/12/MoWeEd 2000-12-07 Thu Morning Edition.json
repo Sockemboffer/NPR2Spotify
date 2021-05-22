@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-12-07",
         "Day": "Thu",
-        "Scanned Date": "2021-05-21 06:26:53"
+        "Scanned Date": "2021-05-21 06:26:53",
+        "Playlist URI": "20YKOKTiG2UnTcd5ovY6CE",
+        "Playlist Link": "https://open.spotify.com/playlist/20YKOKTiG2UnTcd5ovY6CE",
+        "Snapshot ID": "MSw0ODVlZTI0NzE3MzFmYmIyM2UxZGM4ZjEyZTgwYmUwNTM1MTkyZDZi",
+        "Playlist Name": "MoWeEd 2000-12-07 Thu Morning Edition"
     },
     {
         "Title": "Gore's Appeal",
@@ -32,7 +36,12 @@
             "Nico Assumpcao",
             "Victor Lewis",
             "Minu Cinelu"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cuban Spy Trial",
@@ -44,7 +53,15 @@
         "MoWeEd Track": "Mujer y Mujer",
         "MoWeEd Artists": [
             "Luis Villegas"
-        ]
+        ],
+        "Result Track Name": "Mujer y Mujer",
+        "Result Artist Names": [
+            "Luis Villegas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aDHGkW26f2pzRAgpwUP5g",
+        "Result Album Name": "Cafe Olé"
     },
     {
         "Title": "Child Care Series",
@@ -62,7 +79,15 @@
         "MoWeEd Track": "Spirit of Rydal Mount",
         "MoWeEd Artists": [
             "Eric Tingstad"
-        ]
+        ],
+        "Result Track Name": "Spirit Of Rydal Mount",
+        "Result Artist Names": [
+            "Eric Tingstad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sXSudGAddzrjd6eoKjves",
+        "Result Album Name": "A Sense Of Place"
     },
     {
         "Title": "Dangerous Tires",
@@ -80,7 +105,17 @@
         "MoWeEd Track": "Cattle in the Cane",
         "MoWeEd Artists": [
             "Rickie Simpkins"
-        ]
+        ],
+        "Result Track Name": "Cattle in the Cane",
+        "Result Artist Names": [
+            "Rickie Simpkins",
+            "Tony Rice",
+            "Wyatt Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3u3s0DFSRQKRkAToj43kp8",
+        "Result Album Name": "Dancing on the Fingerboard"
     },
     {
         "Title": "Supreme Court Arguments",
@@ -116,7 +151,15 @@
         "MoWeEd Track": "Plus Eight",
         "MoWeEd Artists": [
             "James Moody"
-        ]
+        ],
+        "Result Track Name": "Plus Eight",
+        "Result Artist Names": [
+            "James Moody"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:49acasCp9zL3uz7xK8cNK6",
+        "Result Album Name": "Moody's Mood For Love"
     },
     {
         "Title": "Cleaning the Hudson",
@@ -134,7 +177,12 @@
         "MoWeEd Track": "Mushmouth",
         "MoWeEd Artists": [
             "Greg Piccolo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Pandas in DC",

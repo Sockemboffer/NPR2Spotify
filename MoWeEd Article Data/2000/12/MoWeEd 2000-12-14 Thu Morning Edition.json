@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2000-12-14",
         "Day": "Thu",
-        "Scanned Date": "2021-05-21 06:27:30"
+        "Scanned Date": "2021-05-21 06:27:30",
+        "Playlist URI": "1gPaUYWAOZIf3bL0QJo9HT",
+        "Playlist Link": "https://open.spotify.com/playlist/1gPaUYWAOZIf3bL0QJo9HT",
+        "Snapshot ID": "MSxlYTdmYmVkNTQ4ODcxYjNlNGJhYTY5MjY1NTQ5ZmJkYWMwMzE2ZjFi",
+        "Playlist Name": "MoWeEd 2000-12-14 Thu Morning Edition"
     },
     {
         "Title": "Election Over",
@@ -28,7 +32,15 @@
         "MoWeEd Track": "Spring Will Be A Little Late This Year",
         "MoWeEd Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Spring Will Be A Little Late This Year",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cNN53rc1UEosxP68uc15T",
+        "Result Album Name": "The Midnight Blues Standard Time Vol. 5"
     },
     {
         "Title": "Plant Study",
@@ -41,7 +53,12 @@
         "MoWeEd Artists": [
             "Jim Cullum Jazz Band",
             "Bob Wilber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Election Reaction",
@@ -53,7 +70,15 @@
         "MoWeEd Track": "Struttin'",
         "MoWeEd Artists": [
             "Jim Nichols"
-        ]
+        ],
+        "Result Track Name": "Struttin'",
+        "Result Artist Names": [
+            "Jim Nichols"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VlThCMv86Wce1bbvXTlPc",
+        "Result Album Name": "Jazz & Country"
     },
     {
         "Title": "California Energy Crisis",
@@ -71,7 +96,15 @@
         "MoWeEd Track": "My Favorite Things",
         "MoWeEd Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "My Favorite Things",
+        "Result Artist Names": [
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JOEPbuwVf0nafGnMSVEhH",
+        "Result Album Name": "My Favorite Things (Deluxe Edition)"
     },
     {
         "Title": "The Bush Speech",
@@ -90,7 +123,15 @@
         "MoWeEd Artists": [
             "Denny Zeitlin",
             "Al Foster et. al."
-        ]
+        ],
+        "Result Track Name": "Canyon",
+        "Result Artist Names": [
+            "Denny Zeitlin Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1H50ia9hqnZdTHuQ43Ni1c",
+        "Result Album Name": "As Long As There's Music"
     },
     {
         "Title": "Bipartisanship",
@@ -102,7 +143,15 @@
         "MoWeEd Track": "Into The Dream",
         "MoWeEd Artists": [
             "Pat Metheny Group"
-        ]
+        ],
+        "Result Track Name": "Into the Dream",
+        "Result Artist Names": [
+            "Pat Metheny Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09jwSVxP69WHFIHrhKAK3O",
+        "Result Album Name": "Imaginary Day"
     },
     {
         "Title": "Cuba/Moscow Relations",
@@ -115,7 +164,15 @@
         "MoWeEd Artists": [
             "Denny Zeitlin",
             "Al Foster et. al."
-        ]
+        ],
+        "Result Track Name": "As Long As There's Music",
+        "Result Artist Names": [
+            "Denny Zeitlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:0MZ7juCqRPIBph2THe6kRt",
+        "Result Album Name": "Wishing On the Moon"
     },
     {
         "Title": "Speech Excerpts",
@@ -133,6 +190,15 @@
         "MoWeEd Track": "Lady Rowena",
         "MoWeEd Artists": [
             "Jerome Richardson"
-        ]
+        ],
+        "Result Track Name": "Lady Rowena",
+        "Result Artist Names": [
+            "Jerome Richardson",
+            "Dave Hazeltine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rIcE0Lf6uhySKcaUwnJMu",
+        "Result Album Name": "Jazz Station Runaway"
     }
 ]
