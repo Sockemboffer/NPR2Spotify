@@ -51,7 +51,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-startDate = datetime(2000, 8, 1)
+startDate = datetime(2000, 12, 31)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -59,7 +59,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate.month != datetime(2001, 1, 1):
+while startDate != datetime(2001, 1, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
