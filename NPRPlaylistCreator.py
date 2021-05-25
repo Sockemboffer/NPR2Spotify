@@ -36,6 +36,23 @@ class NPRPlaylistCreator:
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
         self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("-- Playlist tracks added.")
+    
+    def ReplaceTrackToPlaylist(self, editionDayData):
+        tracksURIs = list()
+        for item in editionDayData:
+            for entry in item:
+                if entry == "Result Track-Match Percent":
+                    if item["Result Track-Match Percent"] >= 0.5 and item["Result Artists-Match Percent"] >= 0.5:
+                        tracksURIs.append(item["Result Track URI"])
+        urisData = dict()
+        urisData["uris"] = tracksURIs
+        request_data = json.dumps(urisData)
+        query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
+        response = self.requestSession.put(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response_json = response.json()
+        editionDayData[0]["Snapshot ID"] = response_json["snapshot_id"]
+        print("-- Playlist tracks replaced.")
+        return editionDayData
 
     def AddCoverArtToPlaylist(self, editionDayData):
         encoded_string = NPRPlaylistCreator.GetNewCover(editionDayData[0]["Day"])

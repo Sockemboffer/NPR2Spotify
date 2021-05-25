@@ -51,7 +51,8 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-startDate = datetime(2000, 12, 31)
+# TODO fix older playlists using old github project link
+startDate = datetime(2000, 10, 31)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -59,7 +60,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate != datetime(2001, 1, 1):
+while startDate != datetime(2000, 11, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -105,13 +106,23 @@ while startDate != datetime(2001, 1, 1):
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
-            print("https://" + editionDay[0]["Page Link"])
+            print(editionDay[0]["Page Link"])
             print("\n")
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
             time.sleep(1.5) # Don't hammer their server
         # we update information
         elif playlistEntry == True:
+            for story, entry in enumerate(editionDay):
+                if searchKey in entry:
+                    trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+                    entry.update(trackEntry)
+            editionDay = nprPlaylistCreator.ReplaceTrackToPlaylist(editionDay)
+            nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
+            nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
+            print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
+            print(editionDay[0]["Page Link"])
+            print("\n")
             print("We would update stuff")
             startDate = startDate + timedelta(days=+1)
             time.sleep(1.5) # Don't hammer their server

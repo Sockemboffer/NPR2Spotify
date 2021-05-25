@@ -83,71 +83,72 @@ class NPRSpotifySearch:
             for response in responses:
                 for result in response:
                     if len(result["tracks"]["items"]) != 0.0:
-                        resultTrackName = result["tracks"]["items"][0]["name"]
-                        resultTrackNameSplit = list() # split track name words into a new list for comparison later
-                        for word in resultTrackName.split(): # go through each word in track name
-                            word = re.sub(r'[^\w]', ' ', word).lower().strip() # remove non-alphanumerics
-                            resultTrackNameSplit.extend(word.split()) # split strings that end up like 'no 1'
-                        resultTrackNameSplit = list(filter(None, resultTrackNameSplit)) # get rid of empty strings
-                        nprTrackNameSplit = list()
-                        for word in nprTrack.split():
-                            word = re.sub(r'[^\w]', ' ', word).lower().strip()
-                            nprTrackNameSplit.extend(word.split())
-                        nprTrackNameSplit = list(filter(None, nprTrackNameSplit))
-                        resultMatchesToNPR = [sub for sub in resultTrackNameSplit if sub in nprTrackNameSplit] # see what of the result matches the npr name
-                        nprRemovedPhrasesArtists = list()
-                        for artist in nprArtists:
-                            artist = self.RemoveCommonPhrasesArtists(artist)
-                            artist = re.sub(r'[^\w]', ' ', artist).lower().strip()
-                            nprRemovedPhrasesArtists.extend(artist.split())
-                        nprRemovedPhrasesArtists = list(filter(None, nprRemovedPhrasesArtists))
-                        resultTrackArtistNames = result["tracks"]["items"][0]["artists"]
-                        resultArtistNames = list() # need to split first, last, misc names into individual strings
-                        resultArtistNamesCopy = list() # copy to store later in best match
-                        for artist in resultTrackArtistNames:
-                            resultArtistNamesCopy.append(artist["name"]) # copy to store later in best match
-                            artist["name"] = re.sub(r'[^\w]', ' ', artist["name"]).lower().strip()
-                            resultArtistNames.extend(artist["name"].split())
-                        resultArtistNames = list(filter(None, resultArtistNames))
-                        resultArtistNPRMatches = [sub for sub in resultArtistNames if sub in nprRemovedPhrasesArtists]
-                        resultsArtistsSet = set(resultArtistNPRMatches)
-                        nprArtistNamesSet = set(nprRemovedPhrasesArtists)
-                        resultsTrackNameSet = set(resultMatchesToNPR)
-                        nprTrackNameSet = set(nprTrackNameSplit)
-                        # First, a quick exact-match check
-                        if nprArtistNamesSet == resultsArtistsSet and nprTrackNameSet == resultsTrackNameSet or bestMatch["Result Track-Match Percent"] == 1.0 and bestMatch["Result Artists-Match Percent"] == 1.0: # check artist names first, less likely to match
-                            bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                            bestMatch["Result Artist Names"] = resultArtistNamesCopy
-                            bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
-                            bestMatch["Result Track-Match Percent"] = 1.0
-                            bestMatch["Result Artists-Match Percent"] = 1.0
-                            bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
-                            # print("--------- Best Match Found ----------")
-                            # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
-                            # print("    ---------   End   ----------")
-                            return bestMatch
-                        # Fun weighting(?) results-land
-                        else:
-                            seqTrack = SequenceMatcher(a=nprTrackNameSplit, b=resultTrackNameSplit)
-                            seqArtist = SequenceMatcher(a=nprRemovedPhrasesArtists, b=resultArtistNames)
-                            trackMatchScore = seqTrack.ratio()
-                            artistsMatchScore = seqArtist.ratio()
-                            if artistsMatchScore >= 0.5 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # high artist name accuracy
-                                if trackMatchScore >= 0.75 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # good chance at match
-                                    bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                                    bestMatch["Result Artist Names"] = resultArtistNamesCopy
-                                    bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
-                                    bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                    bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                    bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
-                            if trackMatchScore >= 0.5 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # high artist name accuracy
-                                if  artistsMatchScore >= 0.75 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # good chance at match
-                                    bestMatch["Result Track Name"] = result["tracks"]["items"][0]["name"]
-                                    bestMatch["Result Artist Names"] = resultArtistNamesCopy
-                                    bestMatch["Result Album Name"] = result["tracks"]["items"][0]["album"]["name"]
-                                    bestMatch["Result Track-Match Percent"] = trackMatchScore
-                                    bestMatch["Result Artists-Match Percent"] = artistsMatchScore
-                                    bestMatch["Result Track URI"] = result["tracks"]["items"][0]["uri"]
+                        for item in result["tracks"]["items"]:
+                            resultTrackName = item["name"]
+                            resultTrackNameSplit = list() # split track name words into a new list for comparison later
+                            for word in resultTrackName.split(): # go through each word in track name
+                                word = re.sub(r'[^\w]', ' ', word).lower().strip() # remove non-alphanumerics
+                                resultTrackNameSplit.extend(word.split()) # split strings that end up like 'no 1'
+                            resultTrackNameSplit = list(filter(None, resultTrackNameSplit)) # get rid of empty strings
+                            nprTrackNameSplit = list()
+                            for word in nprTrack.split():
+                                word = re.sub(r'[^\w]', ' ', word).lower().strip()
+                                nprTrackNameSplit.extend(word.split())
+                            nprTrackNameSplit = list(filter(None, nprTrackNameSplit))
+                            resultMatchesToNPR = [sub for sub in resultTrackNameSplit if sub in nprTrackNameSplit] # see what of the result matches the npr name
+                            nprRemovedPhrasesArtists = list()
+                            for artist in nprArtists:
+                                artist = self.RemoveCommonPhrasesArtists(artist)
+                                artist = re.sub(r'[^\w]', ' ', artist).lower().strip()
+                                nprRemovedPhrasesArtists.extend(artist.split())
+                            nprRemovedPhrasesArtists = list(filter(None, nprRemovedPhrasesArtists))
+                            resultTrackArtistNames = item["artists"]
+                            resultArtistNames = list() # need to split first, last, misc names into individual strings
+                            resultArtistNamesCopy = list() # copy to store later in best match
+                            for artist in resultTrackArtistNames:
+                                resultArtistNamesCopy.append(artist["name"]) # copy to store later in best match
+                                artist["name"] = re.sub(r'[^\w]', ' ', artist["name"]).lower().strip()
+                                resultArtistNames.extend(artist["name"].split())
+                            resultArtistNames = list(filter(None, resultArtistNames))
+                            resultArtistNPRMatches = [sub for sub in resultArtistNames if sub in nprRemovedPhrasesArtists]
+                            resultsArtistsSet = set(resultArtistNPRMatches)
+                            nprArtistNamesSet = set(nprRemovedPhrasesArtists)
+                            resultsTrackNameSet = set(resultMatchesToNPR)
+                            nprTrackNameSet = set(nprTrackNameSplit)
+                            # First, a quick exact-match check
+                            if nprArtistNamesSet == resultsArtistsSet and nprTrackNameSet == resultsTrackNameSet or bestMatch["Result Track-Match Percent"] == 1.0 and bestMatch["Result Artists-Match Percent"] == 1.0: # check artist names first, less likely to match
+                                bestMatch["Result Track Name"] = item["name"]
+                                bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                                bestMatch["Result Album Name"] = item["album"]["name"]
+                                bestMatch["Result Track-Match Percent"] = 1.0
+                                bestMatch["Result Artists-Match Percent"] = 1.0
+                                bestMatch["Result Track URI"] = item["uri"]
+                                # print("--------- Best Match Found ----------")
+                                # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
+                                # print("    ---------   End   ----------")
+                                return bestMatch
+                            # Fun weighting(?) results-land
+                            else:
+                                seqTrack = SequenceMatcher(a=nprTrackNameSplit, b=resultTrackNameSplit)
+                                seqArtist = SequenceMatcher(a=nprRemovedPhrasesArtists, b=resultArtistNames)
+                                trackMatchScore = seqTrack.ratio()
+                                artistsMatchScore = seqArtist.ratio()
+                                if artistsMatchScore >= 0.5 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # high artist name accuracy
+                                    if trackMatchScore >= 0.75 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # good chance at match
+                                        bestMatch["Result Track Name"] = item["name"]
+                                        bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                                        bestMatch["Result Album Name"] = item["album"]["name"]
+                                        bestMatch["Result Track-Match Percent"] = trackMatchScore
+                                        bestMatch["Result Artists-Match Percent"] = artistsMatchScore
+                                        bestMatch["Result Track URI"] = item["uri"]
+                                if trackMatchScore >= 0.5 and trackMatchScore >= bestMatch["Result Track-Match Percent"]: # high artist name accuracy
+                                    if  artistsMatchScore >= 0.65 and artistsMatchScore >= bestMatch["Result Artists-Match Percent"]: # good chance at match
+                                        bestMatch["Result Track Name"] = item["name"]
+                                        bestMatch["Result Artist Names"] = resultArtistNamesCopy
+                                        bestMatch["Result Album Name"] = item["album"]["name"]
+                                        bestMatch["Result Track-Match Percent"] = trackMatchScore
+                                        bestMatch["Result Artists-Match Percent"] = artistsMatchScore
+                                        bestMatch["Result Track URI"] = item["uri"]
             # print("--------- Best Match ----------")
             # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
             # print("---------    End     ----------")
@@ -184,21 +185,21 @@ class NPRSpotifySearch:
     # Explicit Track or Artist means I define a type encoded in what I send: eg. track:"Smells like teen spirit" artist:"Nirvana"
     # without those it can mean different results, etc.
     def SearchExplicitTrackAndArtist(self, track, artist):
-        query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
+        query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         return response.json()
     
     def SearchImplicitTrackExplicitArtist(self, track, artist):
-        query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
+        query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         return response.json()
 
     def SearchImplicitTrackImplicitArtist(self, track, artist):
-        query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=1".format(parse.quote('"' + track + '"' + ' ' + '"' + artist + '"'))
+        query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + '"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         return response.json()
 
     def SearchImplicitTrackAndArtistCombined(self, track, artist):
-        query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=1".format(parse.quote(str(track + " AND " + artist)))
+        query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=5".format(parse.quote(str(track + " AND " + artist)))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         return response.json()
