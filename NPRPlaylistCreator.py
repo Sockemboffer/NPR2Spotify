@@ -37,7 +37,7 @@ class NPRPlaylistCreator:
         self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
         print("-- Playlist tracks added.")
     
-    def ReplaceTrackToPlaylist(self, editionDayData):
+    def ReplaceTracksInPlaylist(self, editionDayData):
         tracksURIs = list()
         for item in editionDayData:
             for entry in item:
@@ -73,16 +73,16 @@ class NPRPlaylistCreator:
                         missedTracksList.append(item)
         newDescription = dict()
         if len(missedTracksList) == 0 and len(foundTracks) == 0:
-            newDescription["description"] = "🤔 Empty: The show may still have interlude tracks but have yet to be noted on the page. "
+            newDescription["description"] = "🤔 Empty: Show may still have interlude tracks but not yet noted on the page. "
         elif len(missedTracksList) != 0: 
             newDescription["description"] = "😭 Missing: " + str(len(missedTracksList)) + " of " + str(len(foundTracks) + len(missedTracksList)) + " "
         else:
             newDescription["description"] = "🤩 Found: " + str(len(foundTracks)) + " of " + str(len(foundTracks)) + " "
         newDescription["description"] += "🌐 " + editionDayData[0]["Page Link"] + " "
-        newDescription["description"] += "💸 Support your local NPR station. "
-        newDescription["description"] += "📻 www.npr.org/donations/support "
-        newDescription["description"] += "💻 github.com/Sockemboffer/NPR2Spotify "
         newDescription["description"] += "🤖 My creator is human, send corrections 🧰 MoWeEd2Spotify@pm.me "
+        newDescription["description"] += "💸 Support your local NPR station. "
+        newDescription["description"] += "📻 https://www.npr.org/donations/support "
+        newDescription["description"] += "💻 https://www.github.com/Sockemboffer/NPR2Spotify "
         newDescription["description"] += "Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍🧑🏽‍🤝‍🧑🏾👫🏿"
         query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
         self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})

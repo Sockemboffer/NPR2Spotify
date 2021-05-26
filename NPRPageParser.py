@@ -29,7 +29,7 @@ class NPRPageParser:
     # Grab various info about the whole NPR article for that date
     def GetEditionData(url, selectedHTML):
         dayDetails = dict()
-        dayDetails['Page Link'] = url.partition("https://")[2].partition("?")[0]
+        dayDetails['Page Link'] = url.partition("?")[0]
         dayDetails['Edition'] = selectedHTML.xpath('//header[@class="contentheader contentheader--one"]//h1/b/text()').get()[0:15]
         dayDetails['Date Numbered'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/@datetime').get()
         dayDetails['Day'] = selectedHTML.xpath('//div[@id="episode-core"]//nav[@class="program-nav program-nav--one"]//time/b[@class="date"]//b[@class="day"]/text()').get()[0:3]
