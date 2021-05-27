@@ -1,13 +1,13 @@
 [
     {
-        "Page Link": "www.npr.org/programs/morning-edition/2000/11/22/12999997/",
+        "Page Link": "https://www.npr.org/programs/morning-edition/2000/11/22/12999997/",
         "Edition": "Morning Edition",
         "Date Numbered": "2000-11-22",
         "Day": "Wed",
         "Scanned Date": "2021-05-21 06:30:58",
         "Playlist URI": "4v9JvEle2MTvmmuIlLjeGS",
         "Playlist Link": "https://open.spotify.com/playlist/4v9JvEle2MTvmmuIlLjeGS",
-        "Snapshot ID": "MSwxMmU1MWM2NzZiYjEyY2ZkMTgxMzAwYjZlZTcyMmQzMmQ1NWEyOTEy",
+        "Snapshot ID": "NSw1Mzc5MjIxODU4Mjc3OGViYzI0MzIxNDdhMmIyYWNlOGQ2NTk3Y2Rm",
         "Playlist Name": "MoWeEd 2000-11-22 Wed Morning Edition"
     },
     {
@@ -95,11 +95,17 @@
             "Larry Coryell",
             "Niels-Henning Orsted-Pedersen"
         ],
-        "Result Track Name": null,
-        "Result Artist Names": [],
-        "Result Track-Match Percent": 0.0,
-        "Result Artists-Match Percent": 0.0,
-        "Result Track URI": null
+        "Result Track Name": "Blues for Django and Stéphane",
+        "Result Artist Names": [
+            "Stéphane Grappelli",
+            "Philip Catherine",
+            "Larry Coryell",
+            "Niels-Henning Ørsted Pedersen"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:2GkdtrKwC2DNwGPwBPsehb",
+        "Result Album Name": "Young Django"
     },
     {
         "Title": "The Decsion's Effect",

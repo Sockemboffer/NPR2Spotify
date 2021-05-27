@@ -1,13 +1,13 @@
 [
     {
-        "Page Link": "www.npr.org/programs/weekend-edition-saturday/2000/12/02/13002188/",
+        "Page Link": "https://www.npr.org/programs/weekend-edition-saturday/2000/12/02/13002188/",
         "Edition": "Weekend Edition",
         "Date Numbered": "2000-12-02",
         "Day": "Sat",
         "Scanned Date": "2021-05-21 06:26:26",
         "Playlist URI": "2LjWe0cJF2iF9T1M1uHIc3",
         "Playlist Link": "https://open.spotify.com/playlist/2LjWe0cJF2iF9T1M1uHIc3",
-        "Snapshot ID": "MSxhZjM0OWUwNTMwYWQ1ZjQwMzM4ZDFlN2Y2MmQwOTRiZTM0OGNmYjg0",
+        "Snapshot ID": "NSw4ODhmOTM4N2UwN2E5NmRkMTYxYWYyMzk3NDI3NDIyYmQ0Y2RiNjg2",
         "Playlist Name": "MoWeEd 2000-12-02 Sat Weekend Edition"
     },
     {
@@ -32,11 +32,15 @@
         "MoWeEd Artists": [
             "Shawn Christopher"
         ],
-        "Result Track Name": null,
-        "Result Artist Names": [],
-        "Result Track-Match Percent": 0.0,
-        "Result Artists-Match Percent": 0.0,
-        "Result Track URI": null
+        "Result Track Name": "Make My Love - Kerri Chandler Mix",
+        "Result Artist Names": [
+            "Shawn Christopher",
+            "Kerri Chandler"
+        ],
+        "Result Track-Match Percent": 0.6153846153846154,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1R77JdxKAo96EkeqQo61Xb",
+        "Result Album Name": "Kerri Chandler: The Remixes"
     },
     {
         "Title": "Supreme Court",

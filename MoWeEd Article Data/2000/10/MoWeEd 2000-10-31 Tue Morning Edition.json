@@ -1,13 +1,13 @@
 [
     {
-        "Page Link": "www.npr.org/programs/morning-edition/2000/10/31/13003204/",
+        "Page Link": "https://www.npr.org/programs/morning-edition/2000/10/31/13003204/",
         "Edition": "Morning Edition",
         "Date Numbered": "2000-10-31",
         "Day": "Tue",
         "Scanned Date": "2021-05-21 06:34:24",
         "Playlist URI": "7BQ4ZdqYsFO3R49JId2rsj",
         "Playlist Link": "https://open.spotify.com/playlist/7BQ4ZdqYsFO3R49JId2rsj",
-        "Snapshot ID": "MSxlN2Q3NTI3YjEzYjdjNjVkOWViN2Y0MWU5OTIzMjM0NjI1NzFkZjI2",
+        "Snapshot ID": "Nyw0YzhhZmRiMDAyZDllNjYwOWQ0ZTY2YWI4NWE5OGNlMzhlYWU4ZWMz",
         "Playlist Name": "MoWeEd 2000-10-31 Tue Morning Edition"
     },
     {
@@ -220,11 +220,14 @@
         "MoWeEd Artists": [
             "Taliesin"
         ],
-        "Result Track Name": null,
-        "Result Artist Names": [],
-        "Result Track-Match Percent": 0.0,
-        "Result Artists-Match Percent": 0.0,
-        "Result Track URI": null
+        "Result Track Name": "Athair Ar Neamh",
+        "Result Artist Names": [
+            "Taliesin Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4xru2uH2RBgxNKJeD9e8P8",
+        "Result Album Name": "Orinoco Flow - The Music of Enya"
     },
     {
         "Title": "Proposition 39",
@@ -254,11 +257,15 @@
         "MoWeEd Artists": [
             "Artur Pizarro"
         ],
-        "Result Track Name": null,
-        "Result Artist Names": [],
-        "Result Track-Match Percent": 0.0,
-        "Result Artists-Match Percent": 0.0,
-        "Result Track URI": null
+        "Result Track Name": "5 Piezas del siglo XVI: V. Fantasia que contrahace la harpa de Ludovico (Alonso Mudarra) (Fantasia in the Style of Ludovico’s Harp)",
+        "Result Artist Names": [
+            "Joaquín Rodrigo",
+            "Artur Pizarro"
+        ],
+        "Result Track-Match Percent": 0.5945945945945946,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5UoXKnx2uJZ1WRhTQgP7xb",
+        "Result Album Name": "Rodrigo: Piano Music, Vol. 1"
     },
     {
         "Title": "Austin Mini",

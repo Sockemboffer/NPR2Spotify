@@ -1,13 +1,13 @@
 [
     {
-        "Page Link": "www.npr.org/programs/morning-edition/2000/11/24/13006090/",
+        "Page Link": "https://www.npr.org/programs/morning-edition/2000/11/24/13006090/",
         "Edition": "Morning Edition",
         "Date Numbered": "2000-11-24",
         "Day": "Fri",
         "Scanned Date": "2021-05-21 06:31:09",
         "Playlist URI": "1DNhzRbKxOVOHTEXMNOi4G",
         "Playlist Link": "https://open.spotify.com/playlist/1DNhzRbKxOVOHTEXMNOi4G",
-        "Snapshot ID": "MSxiMzMyM2ZjMWUzNzUwMWVhNzAwY2I3Y2RhYmMyMWVjYjBiOWJkNjJk",
+        "Snapshot ID": "NSwxODliMGY4N2FkMWQ2NjcyNTI3NWYwODdjNzQzODgwODBjYzQ0YWMy",
         "Playlist Name": "MoWeEd 2000-11-24 Fri Morning Edition"
     },
     {
@@ -164,11 +164,14 @@
         "MoWeEd Artists": [
             "Chris Flory"
         ],
-        "Result Track Name": null,
-        "Result Artist Names": [],
-        "Result Track-Match Percent": 0.0,
-        "Result Artists-Match Percent": 0.0,
-        "Result Track URI": null
+        "Result Track Name": "Lullaby of the Leaves",
+        "Result Artist Names": [
+            "Chris Adams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0UhauGL9KhXRq7ToxCXTHN",
+        "Result Album Name": "Through the Year Around the World"
     },
     {
         "Title": "Gene Mutation Study",
