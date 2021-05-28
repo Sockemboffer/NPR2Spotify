@@ -14,6 +14,8 @@ Assumes you have a free spotify developer account, OAuth, and spotify user permi
 
 **Main.py** - Entry point (that's gross looking.)
 
+Spotify account these will go live on: [MoWeEd2Spotify](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
+
 ----------------------------------------------------------------------------------------------------
 
 **TODO:** Playlists are all currently private until I've finished creating them (atm on 2002) or when the Spotify team yells at me for actually using 9k-ish playlists 😅
