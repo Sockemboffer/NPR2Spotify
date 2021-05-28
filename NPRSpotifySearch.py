@@ -21,7 +21,7 @@ class NPRSpotifySearch:
 
     def __init__(self):
         self.requestSession = requests.Session()
-        self.retries = Retry(total=10, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
+        self.retries = Retry(total=3, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
         self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries))
         self.nprTrackName = None
         self.nprArtistsName = list()
