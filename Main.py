@@ -9,13 +9,13 @@ from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
-# # # Create a json file for each year of day links (only need to run one time each year)
+# # Create a json file for the year that contains a link for each day (only need to run one time per year)
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
-# Weekend edition shows up 1998 Jan
-# July 25th 2000's seems to be when some morning edition interlude data is being documented
-# Used to create complete years
-# editionStartYear = 2001
+# # Weekend edition shows up 1998 Jan
+# # July 25th 2000's seems to be when some morning edition interlude data is being documented
+# # Used to create json output for each day with various article and track data
+# editionStartYear = 2002
 # editionDayData = list()
 # projectName = "MoWeEd"
 # editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
@@ -49,9 +49,10 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         nprPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
 #         print("Finished {0}\n".format(editionDayData[0]['Page Link']))
 #         editionDayData.clear()
-#         time.sleep(1.5) # Don't hammer their server
+#         time.sleep(1) # Don't hammer their server
 
-startDate = datetime(2001, 12, 27)
+# Used to parse a range of dates, load the json for those days, and make playlists on spotify
+startDate = datetime(2002, 1, 16)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -59,7 +60,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate != datetime(2002, 1, 1):
+while startDate != datetime(2002, 2, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -100,8 +101,8 @@ while startDate != datetime(2002, 1, 1):
             # Search interlude tracks and add results back into edition data
             for story, entry in enumerate(editionDay):
                 if searchKey in entry:
-                    trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
-                    entry.update(trackEntry)
+                    track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+                    entry.update(track)
             nprPlaylistCreator.AddTracksToPlaylist(editionDay)
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
@@ -115,8 +116,8 @@ while startDate != datetime(2002, 1, 1):
         elif playlistEntry == True:
             for story, entry in enumerate(editionDay):
                 if searchKey in entry:
-                    trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
-                    entry.update(trackEntry)
+                    track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+                    entry.update(track)
             editionDay = nprPlaylistCreator.ReplaceTracksInPlaylist(editionDay)
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
@@ -140,34 +141,4 @@ while startDate != datetime(2002, 1, 1):
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
             time.sleep(1.5) # Don't hammer their server
-
-# # For testing single days
-# def SpotCheckSinglePage(url):
-#     editionDayData = list()
-#     nprSpotifySearch = NPRSpotifySearch()
-#     nprPlaylistCreator = NPRPlaylistCreator()
-#     nprPageParser = NPRPageParser()
-#     requestedHTML = NPRPageParser.RequestURL(url)
-#     selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
-#     editionDayData.append(NPRPageParser.GetEditionData(url, selectedHTML)) # get various article data from this day
-#     trackResults = list()
-#     for item in selectedHTML.xpath('.//div[@id="story-list"]/*'):
-#         if item.attrib['class'] == 'rundown-segment':
-#             editionDayData.append(NPRPageParser.GetArticleInfo(item))
-#         elif item.attrib['class'] == 'music-interlude responsive-rundown':
-#             for track in item.xpath('.//div[@class="song-meta-wrap"]'):
-#                 trackname = NPRPageParser.GetInterludeSongName(track)
-#                 artistNames = NPRPageParser.GetInterludeArtistNames(track)
-#                 editionDayData.append(nprSpotifySearch.SearchSpotify(trackname, artistNames))
-#     nprPlaylistCreator.AddCoverArtToPlaylist(editionDayData)
-#     nprPlaylistCreator.AddTracksToPlaylist(editionDayData)
-#     nprPlaylistCreator.UpdatePlaylistDescription(editionDayData)
-#     nprPageParser.SaveJSONFile(editionDayData)
-#     print("Finished {0}.\n".format(editionDayData[0]["Date Text"]))
-#     editionDayData.clear()
-#     # time.sleep(5) # Don't hammer their server
-#     # print(json.dumps(editionDayData, indent=4, sort_keys=True, ensure_ascii=False))
-
-# spotURL = "https://www.npr.org/programs/morning-edition/2015/12/01/457973985?showDate=2015-12-01"
-# SpotCheckSinglePage(spotURL)
 
