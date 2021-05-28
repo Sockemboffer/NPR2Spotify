@@ -33,14 +33,14 @@ One of my first programming projects. I'm new to GitHub and Python.
 
 Suggestions welcomed. Go easy on me and Enjoy!
 
+## Donate to NPR today!
+Support your local [NPR station](https://www.npr.org/donations/support) today.
+
 [Morning Edition](https://www.npr.org/programs/morning-edition/)
 
 [Weekend Edition Saturday](https://www.npr.org/programs/weekend-edition-saturday/)
 
 [Weekend Edition Sunday](https://www.npr.org/programs/weekend-edition-sunday/)
-
-## Donate to NPR today!
-Support your local [NPR station](https://www.npr.org/donations/support) today.
 ## Thanks
 My pal at [MBGameDev](https://github.com/mbgamedev/) for holding my hand a couple-few times.
 
