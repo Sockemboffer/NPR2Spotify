@@ -11,12 +11,10 @@ from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 from difflib import SequenceMatcher
 
-# TODO create a way to make correction updates from helpers easy
-# TODO user sends missing track, how do I recreate the playlist in proper order and upate json
-# TODO user sends track correction (incorrect song, incorrect rendition), same as above
-    # TODO replace current track with correct?
-    # TODO missing, replace, add, found, duplicate entry (but show had unique uncaptured)
-# TODO check if playlist exsists before updating
+# TODO create a way to make corrections and updates
+    # TODO listener sends track correction (incorrect song, incorrect rendition), same as above
+        # TODO replace current track with correct?
+        # TODO missing, replace, add, found, duplicate entry (but show had unique uncaptured)
 class NPRSpotifySearch:
 
     def __init__(self):
