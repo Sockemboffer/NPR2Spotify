@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-05-04",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 16:15:42"
+        "Scanned Date": "2021-05-27 16:15:42",
+        "Playlist URI": "7LyH5EcHcDQlJ84RW6T8v6",
+        "Playlist Link": "https://open.spotify.com/playlist/7LyH5EcHcDQlJ84RW6T8v6",
+        "Snapshot ID": "MSxhNDk4MzVjMmY0OWE3M2VkZTU4ZTc3MzczZGI2NzcxYWUwYzhiNDVm",
+        "Playlist Name": "MoWeEd 2001-05-04 Fri Morning Edition"
     },
     {
         "Title": "Roadless Rule",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Raincheck",
         "MoWeEd Artists": [
             "Scott Hamilton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "This",
         "MoWeEd Artists": [
             "Sheila Chandra with the Ganges Orchestra"
-        ]
+        ],
+        "Result Track Name": "This",
+        "Result Artist Names": [
+            "Sheila Chandra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7hWY4k39AShYeY7CXtTZiq",
+        "Result Album Name": "The Indipop Retrospective"
     },
     {
         "Title": "Space Tourism",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Music to Watch Space Girls By",
         "MoWeEd Artists": [
             "Leonard Nimoy"
-        ]
+        ],
+        "Result Track Name": "Music To Watch Space Girls By",
+        "Result Artist Names": [
+            "Leonard Nimoy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6vdfQWaSwEJmNc9TDKOWaE",
+        "Result Album Name": "Presents Mr. Spock's Music From Outer Space"
     },
     {
         "Title": "UN Human Rights Commission",
@@ -58,7 +83,12 @@
         "MoWeEd Track": "Our Quiet Place",
         "MoWeEd Artists": [
             "Santi Debriano"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sheila Chandra: Fusion Music",
@@ -70,7 +100,15 @@
         "MoWeEd Track": "This",
         "MoWeEd Artists": [
             "Sheila Chandra with the Ganges Orchestra"
-        ]
+        ],
+        "Result Track Name": "This",
+        "Result Artist Names": [
+            "Sheila Chandra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7hWY4k39AShYeY7CXtTZiq",
+        "Result Album Name": "The Indipop Retrospective"
     },
     {
         "Title": "Japanese Baseball Star",
@@ -82,7 +120,12 @@
         "MoWeEd Track": "About to Set Sail",
         "MoWeEd Artists": [
             "Vivid Low Sky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Budget Foibles",
@@ -100,14 +143,32 @@
         "MoWeEd Track": "Four Outings for Brass: I. Moderato, with energy",
         "MoWeEd Artists": [
             "Stockholm Chamber Brass"
-        ]
+        ],
+        "Result Track Name": "4 Outings: I. Moderato, with energy",
+        "Result Artist Names": [
+            "André Previn",
+            "Stockholm Chamber Brass"
+        ],
+        "Result Track-Match Percent": 0.7142857142857143,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:40RbIf7OON22wI2KLHl8kG",
+        "Result Album Name": "Clockworks"
     },
     {
         "MoWeEd Track": "Work Song",
         "MoWeEd Artists": [
             "Allen Farnham",
             "the Rias Big Band"
-        ]
+        ],
+        "Result Track Name": "Alabama Song",
+        "Result Artist Names": [
+            "The RIAS Big Band Berlin",
+            "Strings"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6mRRIRQQWRpVzjOoIEDvVz",
+        "Result Album Name": "Weill"
     },
     {
         "Title": "Stereotypes of Poverty",
@@ -119,7 +180,15 @@
         "MoWeEd Track": "Breath of Air",
         "MoWeEd Artists": [
             "Laurence Juber"
-        ]
+        ],
+        "Result Track Name": "Breath of Air",
+        "Result Artist Names": [
+            "Laurence Juber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5erShGY3ABDbKXARHsyl4v",
+        "Result Album Name": "Naked Solos"
     },
     {
         "Title": "The Mummy Returns",
@@ -143,7 +212,15 @@
         "MoWeEd Track": "Last Stop Cuernavaca",
         "MoWeEd Artists": [
             "Rob Levit Group"
-        ]
+        ],
+        "Result Track Name": "Last Stop Cuernavaca",
+        "Result Artist Names": [
+            "Rob Levit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3ID2veEqjLJ9QzQAwWoUNd",
+        "Result Album Name": "East River View"
     },
     {
         "Title": "Food Book",
@@ -155,6 +232,14 @@
         "MoWeEd Track": "The Moon for Her",
         "MoWeEd Artists": [
             "Tim Garland"
-        ]
+        ],
+        "Result Track Name": "The Moon For Her",
+        "Result Artist Names": [
+            "Tim Garland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VsRiPFxQl4uYqxP4I50m5",
+        "Result Album Name": "Made By Walking"
     }
 ]

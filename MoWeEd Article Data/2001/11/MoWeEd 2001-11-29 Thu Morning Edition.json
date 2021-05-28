@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-11-29",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:00:45"
+        "Scanned Date": "2021-05-27 16:00:45",
+        "Playlist URI": "3AZTn8h6ML5BVsMAjjhuZc",
+        "Playlist Link": "https://open.spotify.com/playlist/3AZTn8h6ML5BVsMAjjhuZc",
+        "Snapshot ID": "MSxiZWFlZjdmMzFhYzhiZjAwMzVhNWJmNzUxYmQwNGEwOGQyMDY2ODkz",
+        "Playlist Name": "MoWeEd 2001-11-29 Thu Morning Edition"
     },
     {
         "Title": "CIA Operative Killed",
@@ -22,13 +26,27 @@
         "MoWeEd Track": "Spets Esrever",
         "MoWeEd Artists": [
             "Frank Tiberi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "String Quartet No.5: III",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 5: III.",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2hIGOEg7guadwuFDcfaNXf",
+        "Result Album Name": "Kronos Quartet Performs Philip Glass"
     },
     {
         "Title": "New York Air Quality",
@@ -40,7 +58,15 @@
         "MoWeEd Track": "Josie",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Josie",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2P6eZ3eCyWVhEhGNqMFBLv",
+        "Result Album Name": "Aja"
     },
     {
         "Title": "French General on Trial",
@@ -64,13 +90,26 @@
         "MoWeEd Track": "Farther Along (for Grieg and W.R.)",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Eight Discernments: Willow",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Willow",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mPigCjiQtTrrHcOEbMZBH",
+        "Result Album Name": "Denouement"
     },
     {
         "Title": "Smallpox Vaccine",
@@ -89,7 +128,15 @@
         "MoWeEd Artists": [
             "Palmer",
             "King"
-        ]
+        ],
+        "Result Track Name": "Hackney Carriage",
+        "Result Artist Names": [
+            "King Palmer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NF1KQalbIhvQLJxNXfN9r",
+        "Result Album Name": "Kpm Brownsleeves: Kpmlpb 1"
     },
     {
         "Title": "Stimulus Package",
@@ -107,7 +154,15 @@
         "MoWeEd Track": "It Is What It Is",
         "MoWeEd Artists": [
             "Leon Parker"
-        ]
+        ],
+        "Result Track Name": "It Is What It Is",
+        "Result Artist Names": [
+            "Leon Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CRwWh9ztW8qUKGfWmcp0N",
+        "Result Album Name": "Awakening"
     },
     {
         "Title": "Enron Woes",
@@ -125,7 +180,15 @@
         "MoWeEd Track": "When First I Love",
         "MoWeEd Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "When First I Love - 1996 Digital Remaster",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kKU6pZBYGyEGCrWJ9YISf",
+        "Result Album Name": "The Exotic Sounds Of Martin Denny"
     },
     {
         "Title": "Radio Kunduz",
@@ -137,7 +200,12 @@
         "MoWeEd Track": "Tears Running Dry",
         "MoWeEd Artists": [
             "Waldeck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "China Fishing",
@@ -155,20 +223,44 @@
         "MoWeEd Track": "Soliloquy",
         "MoWeEd Artists": [
             "Ron Clearfield"
-        ]
+        ],
+        "Result Track Name": "Soliloquy",
+        "Result Artist Names": [
+            "Ron Clearfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6b3pnBoYLMmh2a15nDxrz9",
+        "Result Album Name": "The Healing Muse"
     },
     {
         "MoWeEd Track": "Malcolm's Journey",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Malcolm's Journey - From \"The Lost World: Jurassic Park\" Soundtrack",
+        "Result Artist Names": [
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OypiVoJXJfV88EKnUmjtp",
+        "Result Album Name": "The Lost World: Jurassic Park (Original Motion Picture Score)"
     },
     {
         "MoWeEd Track": "Twenty Years",
         "MoWeEd Artists": [
             "Bill Frisell",
             "Dave Holland et. al."
-        ]
+        ],
+        "Result Track Name": "Twenty Years",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:02BzvrBbGBEECJttzSRkOj",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "Title": "In the Bedroom",
@@ -180,6 +272,11 @@
         "MoWeEd Track": "The Girl with the Flaxen Hair (Preludes, Livre / Book I, No. 8)",
         "MoWeEd Artists": [
             "Jascha Heifetz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

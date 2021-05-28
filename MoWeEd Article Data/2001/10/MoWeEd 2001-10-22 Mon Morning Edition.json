@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-10-22",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:03:03"
+        "Scanned Date": "2021-05-27 16:03:03",
+        "Playlist URI": "2VoY6ufYAPMB2sYCbG1yZX",
+        "Playlist Link": "https://open.spotify.com/playlist/2VoY6ufYAPMB2sYCbG1yZX",
+        "Snapshot ID": "MSwzYzRjMjE1ZGE4Y2ZiMGZjYTA0MjQwYzljMTYyZmQxODg0NGJiMmMx",
+        "Playlist Name": "MoWeEd 2001-10-22 Mon Morning Edition"
     },
     {
         "Title": "Inhalation Anthrax Case",
@@ -23,7 +27,12 @@
         "MoWeEd Artists": [
             "Freddie Hubbard",
             "The New Jazz Composers Octet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "World Trade Center Artists",
@@ -41,7 +50,12 @@
         "MoWeEd Track": "Crawlspace",
         "MoWeEd Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Vernon Can Read'",
@@ -53,7 +67,15 @@
         "MoWeEd Track": "Amsterdam Blues",
         "MoWeEd Artists": [
             "Chris Potter"
-        ]
+        ],
+        "Result Track Name": "Amsterdam Blues",
+        "Result Artist Names": [
+            "Chris Potter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bh2rBfj5a0vjtiYjIlQ8z",
+        "Result Album Name": "Unspoken"
     },
     {
         "Title": "Oil Politics",
@@ -65,7 +87,15 @@
         "MoWeEd Track": "Kadourimdou",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": "Kadourimdou (To Karim & Doudou)",
+        "Result Artist Names": [
+            "Pierre Bensusan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5uMzW1RWzijr3SwQEH5Teb",
+        "Result Album Name": "Intuite"
     },
     {
         "Title": "War Developments",
@@ -83,13 +113,26 @@
         "MoWeEd Track": "Intersection",
         "MoWeEd Artists": [
             "Flute Force Four"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Dream On",
         "MoWeEd Artists": [
             "Robin Spielberg"
-        ]
+        ],
+        "Result Track Name": "Dream On - Remastered",
+        "Result Artist Names": [
+            "Robin Spielberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30p3l6oahIY2MpxxYBUXrm",
+        "Result Album Name": "In the Arms of the Wind (Remastered)"
     },
     {
         "Title": "Port Townsend Reactions",
@@ -113,7 +156,15 @@
         "MoWeEd Track": "Secrets Revealed",
         "MoWeEd Artists": [
             "John Boswell"
-        ]
+        ],
+        "Result Track Name": "Secrets Revealed",
+        "Result Artist Names": [
+            "John Boswell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6e4bUOu4efyXXyi6GOh99r",
+        "Result Album Name": "Love"
     },
     {
         "Title": "Muslims in America",
@@ -125,13 +176,26 @@
         "MoWeEd Track": "Hymn to Wright Reverend",
         "MoWeEd Artists": [
             "Flute Force Four"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Day After Day",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Day After Day - Live",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pifrVokEXAaAlBQo9bPEk",
+        "Result Album Name": "The Definitive Dave Brubeck on Fantasy, Concord Jazz, and Telarc"
     },
     {
         "Title": "Generation X-ers",
@@ -149,6 +213,16 @@
         "MoWeEd Track": "Orient Blue",
         "MoWeEd Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Orient Blue Suite",
+        "Result Artist Names": [
+            "Al Di Meola",
+            "John McLaughlin",
+            "Paco de Lucía"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UAJoVc8E0kJVeScYgTee8",
+        "Result Album Name": "Passion, Grace & Fire"
     }
 ]

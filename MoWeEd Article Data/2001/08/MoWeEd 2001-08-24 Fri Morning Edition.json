@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-08-24",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 16:08:59"
+        "Scanned Date": "2021-05-27 16:08:59",
+        "Playlist URI": "4fcukDN7VGfVfFqIsj5fRH",
+        "Playlist Link": "https://open.spotify.com/playlist/4fcukDN7VGfVfFqIsj5fRH",
+        "Snapshot ID": "MSwzMGM5MzQ3MDM5MWU0YWY5NTExYzFiNTZlNmRkODZmYTE4Y2UxZmEw",
+        "Playlist Name": "MoWeEd 2001-08-24 Fri Morning Edition"
     },
     {
         "Title": "China AIDS Crisis",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Elements IV: Water",
         "MoWeEd Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kids in Cars",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Invisible Holiday",
         "MoWeEd Artists": [
             "Dena Dorais"
-        ]
+        ],
+        "Result Track Name": "Invisible Holiday",
+        "Result Artist Names": [
+            "Dena Dorais"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30jsiseLBwJLRK90VyQw7W",
+        "Result Album Name": "Transport"
     },
     {
         "Title": "Globalization",
@@ -53,7 +70,12 @@
         "MoWeEd Artists": [
             "Vladimir Spivako",
             "Arkady Futer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bluegrass Music from 'Del and the Boys'",
@@ -77,7 +99,16 @@
         "MoWeEd Track": "Shadowdance",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Shadowdance",
+        "Result Artist Names": [
+            "Shadowfax",
+            "G.E. Stinson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4D8tltKcwY5SR25ST4JUOQ",
+        "Result Album Name": "Pure Shadowfax"
     },
     {
         "Title": "Joint Chiefs Chair",
@@ -95,7 +126,15 @@
         "MoWeEd Track": "Four Hands",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Four Hands",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4be1C0MX8GG3iDSNEEpQsk",
+        "Result Album Name": "Heart Of The Bass"
     },
     {
         "Title": "Rwanda",
@@ -107,7 +146,19 @@
         "MoWeEd Track": "Safari",
         "MoWeEd Artists": [
             "David Benoit"
-        ]
+        ],
+        "Result Track Name": "Safari",
+        "Result Artist Names": [
+            "David Benoit",
+            "Don Grusin",
+            "Oscar Castro-Neves",
+            "Eric Marienthal",
+            "Judd Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pz5QuyBofrxIejGE2RnMq",
+        "Result Album Name": "Urban Daydreams"
     },
     {
         "Title": "Condit Talks",

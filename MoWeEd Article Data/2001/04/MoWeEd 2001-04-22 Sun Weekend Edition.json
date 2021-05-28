@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-04-22",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:20:16"
+        "Scanned Date": "2021-05-27 16:20:16",
+        "Playlist URI": "46LOtF4HCAt9crXUZ4A126",
+        "Playlist Link": "https://open.spotify.com/playlist/46LOtF4HCAt9crXUZ4A126",
+        "Snapshot ID": "MSwwNDZiMWNmMzM5MTdlOTFmMWMyMjRmNGNhMzc5NTljZTI4NTA1YzBm",
+        "Playlist Name": "MoWeEd 2001-04-22 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mideast Violence",
@@ -30,7 +39,16 @@
         "MoWeEd Artists": [
             "Carla Bley",
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Masquerade In 3 Parts: Carnation, Dark Glasses, Mustache",
+        "Result Artist Names": [
+            "Carla Bley",
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2niJnmApozD26E14U4Ad4b",
+        "Result Album Name": "Go Together"
     },
     {
         "Title": "Midwest Floods",
@@ -42,19 +60,40 @@
         "MoWeEd Track": "T.",
         "MoWeEd Artists": [
             "Bobo Stenson"
-        ]
+        ],
+        "Result Track Name": "T.",
+        "Result Artist Names": [
+            "Bobo Stenson Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74wDqO5CiRQZS56ruNVVy8",
+        "Result Album Name": "Serenity"
     },
     {
         "MoWeEd Track": "Mercy Mercy",
         "MoWeEd Artists": [
             "Don Covay"
-        ]
+        ],
+        "Result Track Name": "Mercy, Mercy",
+        "Result Artist Names": [
+            "Don Covay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12w6nPwHLEwgdvJu3vHoRF",
+        "Result Album Name": "Mercy!"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "AIDS In South Africa",
@@ -78,7 +117,16 @@
         "MoWeEd Track": "My One and Only Love",
         "MoWeEd Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "My One And Only Love",
+        "Result Artist Names": [
+            "John Coltrane",
+            "Johnny Hartman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BPmVDqR4cX9aFC0Qx0eWn",
+        "Result Album Name": "The Gentle Side Of John Coltrane"
     },
     {
         "Title": "Mississippi State Flag",
@@ -90,13 +138,26 @@
         "MoWeEd Track": "Tukka Yoot's Riddim",
         "MoWeEd Artists": [
             "Us3"
-        ]
+        ],
+        "Result Track Name": "Tukka Yoot's Riddim",
+        "Result Artist Names": [
+            "Us3"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3b7ruYhLDTrivIWmHqK9vF",
+        "Result Album Name": "Hand On The Torch"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -108,7 +169,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Don Covay",
@@ -121,13 +187,23 @@
         "MoWeEd Artists": [
             "Anton Fig",
             "Dan Penn et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "B. J. Liederman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Quebec Protests",
@@ -145,19 +221,46 @@
         "MoWeEd Track": "Watermans",
         "MoWeEd Artists": [
             "Michael McGoldrick"
-        ]
+        ],
+        "Result Track Name": "Watermans",
+        "Result Artist Names": [
+            "Michael McGoldrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zYZiOqj9apOYwMYqbNPJK",
+        "Result Album Name": "Fused"
     },
     {
         "MoWeEd Track": "Stay",
         "MoWeEd Artists": [
             "Joe Jackson"
-        ]
+        ],
+        "Result Track Name": "Stay - Vocal",
+        "Result Artist Names": [
+            "Joe Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1blC4vsY1tSlAH0MoYdchv",
+        "Result Album Name": "Night & Day II"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Vancouver Grizzlies",
@@ -169,7 +272,15 @@
         "MoWeEd Track": "There's No Justice In Life",
         "MoWeEd Artists": [
             "Snakefinger's Vestal Virgins"
-        ]
+        ],
+        "Result Track Name": "There's No Justice In Life",
+        "Result Artist Names": [
+            "Snakefinger's Vestal Virgins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LeKfBaEHXD6HsPZ24sHy5",
+        "Result Album Name": "Night Of Desirable Objects"
     },
     {
         "Title": "Kansas Speedway",
@@ -181,7 +292,15 @@
         "MoWeEd Track": "Sheena Is a Punk Rocker [Original ABC Single Version]",
         "MoWeEd Artists": [
             "The Ramones"
-        ]
+        ],
+        "Result Track Name": "Sheena Is a Punk Rocker",
+        "Result Artist Names": [
+            "Ramones"
+        ],
+        "Result Track-Match Percent": 0.7142857142857143,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5DN3krG0xZi4wAhPqZcSYY",
+        "Result Album Name": "Mania"
     },
     {
         "Title": "Joey Ramone Remembered",
@@ -193,7 +312,15 @@
         "MoWeEd Track": "7-11",
         "MoWeEd Artists": [
             "The Ramones"
-        ]
+        ],
+        "Result Track Name": "7-11 - 2002 Remaster",
+        "Result Artist Names": [
+            "Ramones"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4t3benUQCaYCPl4XLXxAwy",
+        "Result Album Name": "The Sire Years 1976 - 1981"
     },
     {
         "Title": "Letters",
@@ -205,13 +332,26 @@
         "MoWeEd Track": "Sunday Papers",
         "MoWeEd Artists": [
             "Joe Jackson"
-        ]
+        ],
+        "Result Track Name": "Sunday Papers",
+        "Result Artist Names": [
+            "Joe Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MRt5JfLp42Nvj5Gg2ZRwO",
+        "Result Album Name": "Look Sharp!"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Joe Jackson",

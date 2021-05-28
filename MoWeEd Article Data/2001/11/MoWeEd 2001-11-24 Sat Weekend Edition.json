@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-11-24",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:00:05"
+        "Scanned Date": "2021-05-27 16:00:05",
+        "Playlist URI": "2n1L9ZIC9mbqt2e6oEayob",
+        "Playlist Link": "https://open.spotify.com/playlist/2n1L9ZIC9mbqt2e6oEayob",
+        "Snapshot ID": "MSxmNDA0ZDk3NWM1M2QwOGM5ZDA1MTRiMDQ5NDFkNmFjMzc5ZmYwZGI1",
+        "Playlist Name": "MoWeEd 2001-11-24 Sat Weekend Edition"
     },
     {
         "Title": "Hamas",
@@ -29,13 +33,26 @@
         "MoWeEd Artists": [
             "Thaddeus Brys",
             "Susan Brys"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "A Koan from Hugh",
         "MoWeEd Artists": [
             "Will Ackerman"
-        ]
+        ],
+        "Result Track Name": "A Koan From Hugh",
+        "Result Artist Names": [
+            "Will Ackerman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:78kRwr9eSHvYfaoJVrtyE4",
+        "Result Album Name": "Hearing Voices"
     },
     {
         "Title": "Iraq",
@@ -53,7 +70,12 @@
         "MoWeEd Track": "La Enredadera (Bulerìas)",
         "MoWeEd Artists": [
             "Madera"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Harvest",
@@ -67,7 +89,12 @@
             "Marielle Nordmann",
             "Pascal Tutterot",
             "Roland Pidoux"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Church & Sexuality",
@@ -98,13 +125,32 @@
         "MoWeEd Artists": [
             "Little Red School House Chorus",
             "Pete Seeger et. al."
-        ]
+        ],
+        "Result Track Name": "This Land Is Your Land (with Sweet Honey In The Rock, Doc Watson & The Little Red School House Chorus)",
+        "Result Artist Names": [
+            "Pete Seeger",
+            "Sweet Honey In The Rock",
+            "Doc Watson",
+            "The Little Red School House Chorus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33pLLLPpRQmKdlyFUcZvba",
+        "Result Album Name": "Folkways: A Vision Shared"
     },
     {
         "MoWeEd Track": "Night In Sudan",
         "MoWeEd Artists": [
             "Tommy Dorsey and His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Night In Sudan",
+        "Result Artist Names": [
+            "Tommy Dorsey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5fi6kZG82TPlNgRlrEUZ2m",
+        "Result Album Name": "Tommy Dorsey . Tea For Two . 16 Inolvidables de los 40"
     },
     {
         "Title": "Enron",
@@ -128,7 +174,12 @@
         "MoWeEd Track": "P.S. I Love You",
         "MoWeEd Artists": [
             "The Harper Brothers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fallout Shelter",
@@ -140,13 +191,29 @@
         "MoWeEd Track": "UNDERWATER CHASE",
         "MoWeEd Artists": [
             "AL CAIOLA"
-        ]
+        ],
+        "Result Track Name": "Underwater Chase - 1996 Remaster",
+        "Result Artist Names": [
+            "Al Caiola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ua3Yi4eEZq6LHkeCRCoT0",
+        "Result Album Name": "Ultra-Lounge/Cocktail Capers"
     },
     {
         "MoWeEd Track": "bees",
         "MoWeEd Artists": [
             "David Friedman"
-        ]
+        ],
+        "Result Track Name": "Bees",
+        "Result Artist Names": [
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40wDDrZTK4fkLEl46i2DHw",
+        "Result Album Name": "Air Sculpture"
     },
     {
         "Title": "Soundtrack of a City",

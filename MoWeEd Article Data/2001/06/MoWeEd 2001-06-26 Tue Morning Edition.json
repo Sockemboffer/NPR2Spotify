@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-06-26",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:14:56"
+        "Scanned Date": "2021-05-27 16:14:56",
+        "Playlist URI": "4hYJ61H1kcOxrcJB6pSb74",
+        "Playlist Link": "https://open.spotify.com/playlist/4hYJ61H1kcOxrcJB6pSb74",
+        "Snapshot ID": "MSw2MzZmYzFiMWRjOTgyZDEyNjE1Y2QzOWExYzRkYmIyZDFlZWMyNWFl",
+        "Playlist Name": "MoWeEd 2001-06-26 Tue Morning Edition"
     },
     {
         "Title": "Supreme Court Rulings",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Sonata in B-flat major, R. 46: IV. Allegro II",
         "MoWeEd Artists": [
             "David Russell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "60s Murder Hearing",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "Suite St. Petersburg: Warm Stones",
         "MoWeEd Artists": [
             "Kostia"
-        ]
+        ],
+        "Result Track Name": "Warm Stones",
+        "Result Artist Names": [
+            "Kostia"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1pS8O0AYCnT09s8M55yvnZ",
+        "Result Album Name": "Suite St. Petersburg"
     },
     {
         "Title": "Mbeki Visit",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Blanket Dance",
         "MoWeEd Artists": [
             "Art Turner"
-        ]
+        ],
+        "Result Track Name": "Blanket Dance",
+        "Result Artist Names": [
+            "Art Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gxKSOz58GR2ITd8K9Pp6M",
+        "Result Album Name": "Story Water"
     },
     {
         "Title": "Fed Meeting",
@@ -70,7 +95,12 @@
         "MoWeEd Track": "Snake Church",
         "MoWeEd Artists": [
             "Van Manakas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "AIDS Conference",
@@ -88,7 +118,15 @@
         "MoWeEd Track": "Wishful Thinking",
         "MoWeEd Artists": [
             "John Emanuelson"
-        ]
+        ],
+        "Result Track Name": "Wishful Thinking",
+        "Result Artist Names": [
+            "John Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5TUEVznJNvd0FiJsHos8Bk",
+        "Result Album Name": "Hope"
     },
     {
         "Title": "Pope In Ukraine",
@@ -112,7 +150,15 @@
         "MoWeEd Track": "We-no-nah",
         "MoWeEd Artists": [
             "Art Turner"
-        ]
+        ],
+        "Result Track Name": "We-no-nah",
+        "Result Artist Names": [
+            "Art Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77RPLaK1RXN9Ni6czKvEbQ",
+        "Result Album Name": "Story Water"
     },
     {
         "Title": "Rumsfeld's Goals",
@@ -130,7 +176,15 @@
         "MoWeEd Track": "Shoot the Loop",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Shoot The Loop",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7s9jtsrTG1LlPtMY90PEyh",
+        "Result Album Name": "The Very Best Of Acoustic Alchemy"
     },
     {
         "Title": "DC Chinatown",

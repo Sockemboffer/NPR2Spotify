@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-09-30",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:07:00"
+        "Scanned Date": "2021-05-27 16:07:00",
+        "Playlist URI": "7FTwXtyqIVkLTt9eCapPX9",
+        "Playlist Link": "https://open.spotify.com/playlist/7FTwXtyqIVkLTt9eCapPX9",
+        "Snapshot ID": "MSxiOTFmYjNmYWYzZmY1MjY4OTZhM2M4NDg1ZjcyZDk0Y2Q3YTIzYWE1",
+        "Playlist Name": "MoWeEd 2001-09-30 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Northern Alliance",
@@ -37,19 +46,40 @@
             "Erik Truffaz",
             "Audétat",
             "Pierre"
-        ]
+        ],
+        "Result Track Name": "Less",
+        "Result Artist Names": [
+            "Erik Truffaz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5Bpfu27RMURjukZgmCA45n",
+        "Result Album Name": "The Mask"
     },
     {
         "MoWeEd Track": "Saturday Night Live",
         "MoWeEd Artists": [
             "Snl Band"
-        ]
+        ],
+        "Result Track Name": "Saturday Night Function (Live)",
+        "Result Artist Names": [
+            "River Band"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1cavrdikpiQnBGeokOpvEu",
+        "Result Album Name": "Mukarel (Live)"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Refugees",
@@ -61,7 +91,15 @@
         "MoWeEd Track": "He Watches Her From Behind",
         "MoWeEd Artists": [
             "Stina Nordenstam"
-        ]
+        ],
+        "Result Track Name": "He Watches Her From Behind",
+        "Result Artist Names": [
+            "Stina Nordenstam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5omvAagaOrvzuHUxBw7Vdg",
+        "Result Album Name": "Memories of a Color"
     },
     {
         "Title": "Amira Hass",
@@ -73,7 +111,15 @@
         "MoWeEd Track": "Acoustic Spirit",
         "MoWeEd Artists": [
             "Peppino d'Agostino"
-        ]
+        ],
+        "Result Track Name": "Acoustic Spirit",
+        "Result Artist Names": [
+            "Peppino D'Agostino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ktUjtgphLTXjOWut7ypaz",
+        "Result Album Name": "Venus Over Venice"
     },
     {
         "Title": "Increased Security",
@@ -91,13 +137,26 @@
         "MoWeEd Track": "That Was Then",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "That Was Then",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KikijTf8WCggOaNplt7BM",
+        "Result Album Name": "Good Dog, Happy Man"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -109,7 +168,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Comedy and Tragedy",
@@ -121,7 +185,12 @@
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "B. J. Liederman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Empire State Building",
@@ -145,13 +214,29 @@
         "MoWeEd Track": "Two Angels",
         "MoWeEd Artists": [
             "Claude Chalhoub"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Political Rhetoric",
@@ -163,7 +248,15 @@
         "MoWeEd Track": "Firefly & Gypsy",
         "MoWeEd Artists": [
             "Jay A. Turner"
-        ]
+        ],
+        "Result Track Name": "Firefly and Gypsy",
+        "Result Artist Names": [
+            "Jay A Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38uJh4o0UetDCjx7DHcc6Q",
+        "Result Album Name": "Circling"
     },
     {
         "Title": "Pentagon Culture",
@@ -177,7 +270,17 @@
             "PETER ERSKINE",
             "JOHN TAYLOR",
             "PALLE DANIELSSON"
-        ]
+        ],
+        "Result Track Name": "On The Lake",
+        "Result Artist Names": [
+            "Peter Erskine",
+            "Palle Danielsson",
+            "John Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3c6moVbT1mzj7h6Deid6co",
+        "Result Album Name": "You Never Know"
     },
     {
         "Title": "Rebuilding the Pentagon",
@@ -189,13 +292,30 @@
         "MoWeEd Track": "Don't Wake Me Up",
         "MoWeEd Artists": [
             "Claude Chalhoub"
-        ]
+        ],
+        "Result Track Name": "Don't Wake Me up - Spring Mix",
+        "Result Artist Names": [
+            "Claude Chalhoub",
+            "Brian Penzonne",
+            "Heitor Pereira",
+            "Jamil Akhatar",
+            "The String Octet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01vAIjJDTxz4U16APfFWZ0",
+        "Result Album Name": "Café Barcelona"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Role of the University",
@@ -207,7 +327,12 @@
         "MoWeEd Track": "Red Desert",
         "MoWeEd Artists": [
             "Claude Chalhoub"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Claude Chalhoub",
@@ -219,6 +344,18 @@
         "MoWeEd Track": "Don't Wake Me Up * [Spring Mix]",
         "MoWeEd Artists": [
             "Claude Chalhoub"
-        ]
+        ],
+        "Result Track Name": "Don't Wake Me up - Spring Mix",
+        "Result Artist Names": [
+            "Claude Chalhoub",
+            "Brian Penzonne",
+            "Heitor Pereira",
+            "Jamil Akhatar",
+            "The String Octet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01vAIjJDTxz4U16APfFWZ0",
+        "Result Album Name": "Café Barcelona"
     }
 ]

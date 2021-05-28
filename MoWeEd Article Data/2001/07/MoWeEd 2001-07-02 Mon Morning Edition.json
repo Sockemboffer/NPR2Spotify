@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-07-02",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:09:50"
+        "Scanned Date": "2021-05-27 16:09:50",
+        "Playlist URI": "2I6WnnLpgBYEWNx41h0aTZ",
+        "Playlist Link": "https://open.spotify.com/playlist/2I6WnnLpgBYEWNx41h0aTZ",
+        "Snapshot ID": "MSw4NDIyN2FkODI3NjNlNmZhMWU1MGNjMWRiZTk4OGJmYzgxZGVmZTg1",
+        "Playlist Name": "MoWeEd 2001-07-02 Mon Morning Edition"
     },
     {
         "Title": "Tetons Drilling",
@@ -16,14 +20,27 @@
         "MoWeEd Track": "MLT",
         "MoWeEd Artists": [
             "The String Cheese Incident"
-        ]
+        ],
+        "Result Track Name": "MLT",
+        "Result Artist Names": [
+            "The String Cheese Incident"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NB6SXVpCLIR4SmKpraVNj",
+        "Result Album Name": "'Round the Wheel"
     },
     {
         "MoWeEd Track": "Popular Spanish Suite III: Jota",
         "MoWeEd Artists": [
             "Alisa Weilerstein",
             "Vivian Hornik Weilerstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "State Tax Problems",
@@ -59,7 +76,12 @@
         "MoWeEd Track": "String Quartets (3), Op. 41",
         "MoWeEd Artists": [
             "Lark Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Payday Loans",
@@ -71,7 +93,12 @@
         "MoWeEd Track": "Stablemates",
         "MoWeEd Artists": [
             "Ron Carter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mideast Conflict",
@@ -89,13 +116,27 @@
         "MoWeEd Track": "Baby Talk",
         "MoWeEd Artists": [
             "Victor Bailey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mr. Guitar",
         "MoWeEd Artists": [
             "Chet Atkins with Tommy Emmanuel"
-        ]
+        ],
+        "Result Track Name": "Mr. Guitar",
+        "Result Artist Names": [
+            "Chet Atkins, C.G.P.",
+            "Tommy Emmanuel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:337y2SFtLGU2ZZXsmV263J",
+        "Result Album Name": "The Day Finger Pickers Took Over The World (with Tommy Emmanuel)"
     },
     {
         "Title": "American Soccer Fans",
@@ -113,7 +154,15 @@
         "MoWeEd Track": "Cosmic Ballad",
         "MoWeEd Artists": [
             "Perrey-Kingsley"
-        ]
+        ],
+        "Result Track Name": "Cosmic Ballad",
+        "Result Artist Names": [
+            "Perrey and Kingsley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Rf7OUzyF6e7w6zBI90IRr",
+        "Result Album Name": "The In Sound From Way Out"
     },
     {
         "Title": "Comair In the Air",
@@ -125,7 +174,15 @@
         "MoWeEd Track": "ODDITY",
         "MoWeEd Artists": [
             "BELA FLECK AND THE FLECKTONES"
-        ]
+        ],
+        "Result Track Name": "Oddity",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2sVbSMzXjGistdO7fDmcBt",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "Atkins Obituary",
@@ -149,6 +206,11 @@
         "MoWeEd Track": "'Round the House",
         "MoWeEd Artists": [
             "Van Manakas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-03-26",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:23:08"
+        "Scanned Date": "2021-05-27 16:23:08",
+        "Playlist URI": "64spOsOnq0GtOTfVVqOIjd",
+        "Playlist Link": "https://open.spotify.com/playlist/64spOsOnq0GtOTfVVqOIjd",
+        "Snapshot ID": "MSw1ZGRlMGIyYTY5ZmEzMWVlNzg3NTM2NDE4MGE4MTA3YTU2OWQ3OTg0",
+        "Playlist Name": "MoWeEd 2001-03-26 Mon Morning Edition"
     },
     {
         "Title": "McCain-Feingold",
@@ -16,13 +20,29 @@
         "MoWeEd Track": "Having a Good Time",
         "MoWeEd Artists": [
             "Samite"
-        ]
+        ],
+        "Result Track Name": "Having A Good Time",
+        "Result Artist Names": [
+            "Samite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fK5ZbfbSZOfZuGE10HeIc",
+        "Result Album Name": "Stars To Share"
     },
     {
         "MoWeEd Track": "The Underdog",
         "MoWeEd Artists": [
             "Mark Isham"
-        ]
+        ],
+        "Result Track Name": "The Nevers",
+        "Result Artist Names": [
+            "Mark Isham"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FtJxZboEQDigtTbyMG2A2",
+        "Result Album Name": "The Nevers: Season 1 (Soundtrack from the HBO® Original Series)"
     },
     {
         "Title": "Leading Through Division",
@@ -34,7 +54,15 @@
         "MoWeEd Track": "Giga from Suite by Corelli",
         "MoWeEd Artists": [
             "Arnie Roth"
-        ]
+        ],
+        "Result Track Name": "Giga from Suite in Corelli",
+        "Result Artist Names": [
+            "Arnie Roth"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fj9iRxfde8SfwDyY3adZV",
+        "Result Album Name": "Chip Davis' Day Parts - Sunday Morning Coffee II"
     },
     {
         "Title": "South Korea Cabinet Changes",
@@ -46,7 +74,15 @@
         "MoWeEd Track": "Stairs",
         "MoWeEd Artists": [
             "David Pritchard"
-        ]
+        ],
+        "Result Track Name": "Stairs",
+        "Result Artist Names": [
+            "David Pritchard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43G5Ak11oyRswhC22lU1av",
+        "Result Album Name": "Unassigned Territory"
     },
     {
         "Title": "Radio Expedition to Congo",
@@ -65,7 +101,15 @@
         "MoWeEd Artists": [
             "Stanley Clarke",
             "George Duke"
-        ]
+        ],
+        "Result Track Name": "Lost In A Thought",
+        "Result Artist Names": [
+            "Stanley Clarke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1bhfkwQJFhvVZ7kOW84Wcl",
+        "Result Album Name": "The Bass-ic Collection"
     },
     {
         "Title": "Overtime Cuts",
@@ -95,19 +139,43 @@
         "MoWeEd Track": "I Saw Three Ships",
         "MoWeEd Artists": [
             "Darol Anger"
-        ]
+        ],
+        "Result Track Name": "I Saw Three Ships",
+        "Result Artist Names": [
+            "Darol Anger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1xUrXUDKUmeMf8u0Uxl2Bp",
+        "Result Album Name": "A Winter Solstice Reunion"
     },
     {
         "MoWeEd Track": "Weather Storm",
         "MoWeEd Artists": [
             "Massive Attack"
-        ]
+        ],
+        "Result Track Name": "Weather Storm",
+        "Result Artist Names": [
+            "Massive Attack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4u5KFWcW1ptk0hJqp2lrCE",
+        "Result Album Name": "Protection"
     },
     {
         "MoWeEd Track": "Sophistry",
         "MoWeEd Artists": [
             "Stefon Harris"
-        ]
+        ],
+        "Result Track Name": "Sophistry",
+        "Result Artist Names": [
+            "Stefon Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oWuRDr2mg6GRPpaHP4iSP",
+        "Result Album Name": "A Cloud Of Red Dust"
     },
     {
         "Title": "Secretary Rod Paige",
@@ -125,7 +193,15 @@
         "MoWeEd Track": "Snowfall Lullaby",
         "MoWeEd Artists": [
             "Barbara Higbie"
-        ]
+        ],
+        "Result Track Name": "Snowfall Lullaby",
+        "Result Artist Names": [
+            "Barbara Higbie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5D3xlRW3GbnI5CyrINCLnt",
+        "Result Album Name": "A Winter Solstice Reunion"
     },
     {
         "Title": "Final Four",
@@ -137,7 +213,12 @@
         "MoWeEd Track": "Bobby-Q",
         "MoWeEd Artists": [
             "Bobby Parker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Acid Rain",
@@ -155,7 +236,18 @@
         "MoWeEd Track": "The Battle",
         "MoWeEd Artists": [
             "Hans Zimmer"
-        ]
+        ],
+        "Result Track Name": "The Battle",
+        "Result Artist Names": [
+            "Hans Zimmer",
+            "Lisa Gerrard",
+            "Gavin Greenaway",
+            "The Lyndhurst Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mHv2ujBeoqhwZxgVhoPJy",
+        "Result Album Name": "Gladiator: 20th Anniversary Edition"
     },
     {
         "Title": "Oscars Wrap",

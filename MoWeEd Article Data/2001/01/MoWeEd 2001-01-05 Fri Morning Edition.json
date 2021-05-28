@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-05",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 16:26:22"
+        "Scanned Date": "2021-05-27 16:26:22",
+        "Playlist URI": "7o3JUAYZ1vlBKocAuRz0oM",
+        "Playlist Link": "https://open.spotify.com/playlist/7o3JUAYZ1vlBKocAuRz0oM",
+        "Snapshot ID": "MSw3MTY0MmIyZmNkNDI2OGU1MWI4ZGFhNThjNGEwZTZmNjY3MTMzOGQy",
+        "Playlist Name": "MoWeEd 2001-01-05 Fri Morning Edition"
     },
     {
         "Title": "Campaign Finance Reform",
@@ -34,7 +38,12 @@
         "MoWeEd Track": "The blues machine",
         "MoWeEd Artists": [
             "Gregg Field And The Big Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "NFL Playoffs",
@@ -46,7 +55,15 @@
         "MoWeEd Track": "Mercy, Mercy, Mercy",
         "MoWeEd Artists": [
             "Maceo Parker"
-        ]
+        ],
+        "Result Track Name": "Mercy, Mercy, Mercy",
+        "Result Artist Names": [
+            "Maceo Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3aERWhd4kA9nz2wQoLwpop",
+        "Result Album Name": "Southern Exposure"
     },
     {
         "Title": "Talk with Secretary of Health",
@@ -61,7 +78,12 @@
             "Michael Eagan",
             "Shelly Taylor",
             "Kathy Shao"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "GM Layoff",
@@ -91,7 +113,15 @@
         "MoWeEd Track": "Civil War and Peace",
         "MoWeEd Artists": [
             "Alex Grant"
-        ]
+        ],
+        "Result Track Name": "Civil War And Peace",
+        "Result Artist Names": [
+            "Alex Grant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lG02VXZKa5WXQz5kh9d8O",
+        "Result Album Name": "Metaphor"
     },
     {
         "Title": "Oklahoma Executions",
@@ -109,7 +139,15 @@
         "MoWeEd Track": "Tarantula",
         "MoWeEd Artists": [
             "Peppino D Agostino"
-        ]
+        ],
+        "Result Track Name": "Tarantula",
+        "Result Artist Names": [
+            "Peppino D'Agostino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sUwOAn43PZBUWr4JIXw6L",
+        "Result Album Name": "Acoustic Guitar with Peppino D'Agostino"
     },
     {
         "Title": "Pakistan/India Cease-Fire",
@@ -121,7 +159,16 @@
         "MoWeEd Track": "Sun Credo",
         "MoWeEd Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": "Sun Credo",
+        "Result Artist Names": [
+            "Unknown",
+            "Empire Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FM2bJfzHB08uKs7nHRxdu",
+        "Result Album Name": "Passage: 138 B.C. - A.D. 1611"
     },
     {
         "Title": "Chained Women",
@@ -139,7 +186,15 @@
         "MoWeEd Track": "China",
         "MoWeEd Artists": [
             "Wind Machine"
-        ]
+        ],
+        "Result Track Name": "China",
+        "Result Artist Names": [
+            "Wind Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JGaXCVpgzmj8Uu1Es5X8U",
+        "Result Album Name": "Road to Freedom"
     },
     {
         "Title": "Animal Tracking",
@@ -157,6 +212,11 @@
         "MoWeEd Track": "Marion's Suite for flute & ensemble, Nos 1-5, complete",
         "MoWeEd Artists": [
             "Alain Marion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

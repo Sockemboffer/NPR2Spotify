@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-09-02",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:04:07"
+        "Scanned Date": "2021-05-27 16:04:07",
+        "Playlist URI": "7pENB9w3QrsrhKzH3vezz7",
+        "Playlist Link": "https://open.spotify.com/playlist/7pENB9w3QrsrhKzH3vezz7",
+        "Snapshot ID": "MSxkODVjMWZkYTRkYjNjNWZkMmM3ZDExNzhiNTM2OWQ4MGFjOWRiYzdl",
+        "Playlist Name": "MoWeEd 2001-09-02 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Religious Racism",
@@ -29,13 +38,26 @@
         "MoWeEd Track": "Black, Brown and White [Live]",
         "MoWeEd Artists": [
             "Big Bill Broonzy"
-        ]
+        ],
+        "Result Track Name": "Black, Brown and White (Live)",
+        "Result Artist Names": [
+            "Big Bill Broonzy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pfJTGuYgASMt103sisErP",
+        "Result Album Name": "Live 1953"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Day Laborers",
@@ -65,20 +87,35 @@
         "MoWeEd Track": "The Big One (theme From \"the People's Court\")",
         "MoWeEd Artists": [
             "Allan Tew"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "One Thousand and One Nights",
         "MoWeEd Artists": [
             "Sepehr",
             "Shahin Shahida"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -90,7 +127,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Popular History",
@@ -102,7 +144,12 @@
         "MoWeEd Track": "L'Union, paraphrase de concert for piano, Op. 48, D. 156 (RO 269)",
         "MoWeEd Artists": [
             "Alan Marks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Racism Conference",
@@ -120,25 +167,60 @@
         "MoWeEd Track": "A Life?",
         "MoWeEd Artists": [
             "Joshua Redman"
-        ]
+        ],
+        "Result Track Name": "A Life?",
+        "Result Artist Names": [
+            "Joshua Redman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24L9g7ha3J7Ibb7jZtDUfu",
+        "Result Album Name": "Beyond"
     },
     {
         "MoWeEd Track": "The Hellion",
         "MoWeEd Artists": [
             "Judas Priest"
-        ]
+        ],
+        "Result Track Name": "The Hellion",
+        "Result Artist Names": [
+            "Judas Priest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LLQxMvAYOpoC2PKe3VQn5",
+        "Result Album Name": "Screaming For Vengeance (Expanded Edition)"
     },
     {
         "MoWeEd Track": "Electric Eye",
         "MoWeEd Artists": [
             "Judas Priest"
-        ]
+        ],
+        "Result Track Name": "Electric Eye",
+        "Result Artist Names": [
+            "Judas Priest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3w9zHVKI28aUPZTxq8oDC6",
+        "Result Album Name": "Screaming For Vengeance (Expanded Edition)"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Bears",
@@ -156,7 +238,15 @@
         "MoWeEd Track": "Everytime We Say Goodbye",
         "MoWeEd Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "Everytime We Say Goodbye",
+        "Result Artist Names": [
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yuhA5jlK7gEAIVoJ5WK1f",
+        "Result Album Name": "My Favorite Things (Deluxe Edition)"
     },
     {
         "Title": "Tennis Balls",
@@ -168,13 +258,23 @@
         "MoWeEd Track": "Cathedral Spires",
         "MoWeEd Artists": [
             "Judas Priest"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Compass",
@@ -186,7 +286,12 @@
         "MoWeEd Track": "Livin' the Life",
         "MoWeEd Artists": [
             "Steel Dragon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Rock Star'",
@@ -198,6 +303,11 @@
         "MoWeEd Track": "Decapitate",
         "MoWeEd Artists": [
             "Judas Priest"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

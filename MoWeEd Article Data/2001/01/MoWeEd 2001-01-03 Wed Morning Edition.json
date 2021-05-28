@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-03",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 16:26:11"
+        "Scanned Date": "2021-05-27 16:26:11",
+        "Playlist URI": "4HqYhr6LGov7pNigZ8s5fw",
+        "Playlist Link": "https://open.spotify.com/playlist/4HqYhr6LGov7pNigZ8s5fw",
+        "Snapshot ID": "MSw1ZjEyZGIyY2ZiN2FiYWY1MGI4MGE2MDY5NGE1MTJlOTgyZmExMmYz",
+        "Playlist Name": "MoWeEd 2001-01-03 Wed Morning Edition"
     },
     {
         "Title": "The New Congress",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Sonata in G Major, K. 13 (L. 486): Presto",
         "MoWeEd Artists": [
             "Glenn Gould"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "California Energy Crisis",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Martini Time",
         "MoWeEd Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "martini time",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qwGnMxsGLywyD38vn9PUb",
+        "Result Album Name": "Surfmania"
     },
     {
         "Title": "Czech Public T.V.",
@@ -52,7 +69,16 @@
         "MoWeEd Track": "Stélé: IV. Web",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Stélé: IV. Web",
+        "Result Artist Names": [
+            "Phillip Houghton",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71Ms3irlm2TmVHi4Tlhwm3",
+        "Result Album Name": "The Guitarist"
     },
     {
         "Title": "New Energy Secretary",
@@ -76,7 +102,15 @@
         "MoWeEd Track": "At the Tracks",
         "MoWeEd Artists": [
             "Big Shoulders"
-        ]
+        ],
+        "Result Track Name": "At The Tracks",
+        "Result Artist Names": [
+            "Big Shoulders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29r2hsvt9BdAhIM3HgrFFY",
+        "Result Album Name": "Nickel History"
     },
     {
         "Title": "Employee Evaluation",
@@ -88,7 +122,15 @@
         "MoWeEd Track": "Hottentot",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Hottentot",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zEpU5Ajr3rdXouCpfXs6U",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "The Bush Cabinet",
@@ -119,7 +161,15 @@
         "MoWeEd Artists": [
             "Ken Pedersen",
             "Martine Benmann"
-        ]
+        ],
+        "Result Track Name": "Uncommon Hour",
+        "Result Artist Names": [
+            "Ken Pedersen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5dKqossAgYDIeLEIUoXpIE",
+        "Result Album Name": "Walden"
     },
     {
         "Title": "Bombing Investigation in South Africa",
@@ -132,7 +182,15 @@
         "MoWeEd Artists": [
             "Paul Reisler",
             "Martha Sandefer et. al."
-        ]
+        ],
+        "Result Track Name": "Hawk",
+        "Result Artist Names": [
+            "Paul Reisler and Trapezoid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0DgAZYuZD0QkzxKIMrbDig",
+        "Result Album Name": "Remembered Way"
     },
     {
         "Title": "Art in Iraq",
@@ -150,7 +208,15 @@
         "MoWeEd Track": "SLEEPING DOGS LIE",
         "MoWeEd Artists": [
             "BELA FLECK AND THE FLECKTONES"
-        ]
+        ],
+        "Result Track Name": "Sleeping Dogs Lie",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0YVMAMNLWfZYqP8WN9wwvm",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "Zora Neale Hurston",
@@ -162,6 +228,11 @@
         "MoWeEd Track": "Cabin Waltz",
         "MoWeEd Artists": [
             "New Grange"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

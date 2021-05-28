@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-01-13",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:27:07"
+        "Scanned Date": "2021-05-27 16:27:07",
+        "Playlist URI": "3EsI8G5P4gOxNs0VWRFMMn",
+        "Playlist Link": "https://open.spotify.com/playlist/3EsI8G5P4gOxNs0VWRFMMn",
+        "Snapshot ID": "MSxlMzljZTlmYjA3NDUwOGZjMmQ2M2ZkN2NhODZkYjk2MDRiYTcyZTcy",
+        "Playlist Name": "MoWeEd 2001-01-13 Sat Weekend Edition"
     },
     {
         "Title": "Voting Irregularities Hearings",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Cantata No. 76, \"Die Himmel erzählen die Ehre Gottes,\" BWV 76 (BC A97)",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Esawayo",
         "MoWeEd Artists": [
             "Samite"
-        ]
+        ],
+        "Result Track Name": "Esawayo",
+        "Result Artist Names": [
+            "Samite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:609tQZaZr5eulqr8xdfUWE",
+        "Result Album Name": "Stars To Share"
     },
     {
         "Title": "Uranium Depletion",

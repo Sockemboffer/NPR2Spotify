@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-05-14",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:16:37"
+        "Scanned Date": "2021-05-27 16:16:37",
+        "Playlist URI": "3VDyXMMcQnlPoy1KJkQeA1",
+        "Playlist Link": "https://open.spotify.com/playlist/3VDyXMMcQnlPoy1KJkQeA1",
+        "Snapshot ID": "MSxkNjVhNTRlYWMzZTk4MTUyODlhYzdkYjI2ZDEyZWU0YzQwZDIzZTMw",
+        "Playlist Name": "MoWeEd 2001-05-14 Mon Morning Edition"
     },
     {
         "Title": "Italy General Elections",
@@ -28,7 +32,15 @@
         "MoWeEd Track": "On a Clear Night",
         "MoWeEd Artists": [
             "John Nilsen"
-        ]
+        ],
+        "Result Track Name": "On a Clear Night",
+        "Result Artist Names": [
+            "John Nilsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dBY5FooLey1fXcWzJ7gqQ",
+        "Result Album Name": "Night Garden"
     },
     {
         "Title": "Russian Amber",
@@ -40,7 +52,15 @@
         "MoWeEd Track": "In the Wind",
         "MoWeEd Artists": [
             "Johnny A."
-        ]
+        ],
+        "Result Track Name": "In the Wind",
+        "Result Artist Names": [
+            "Johnny Stock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4JIwaNMsMF7fnbh1QA1Wc8",
+        "Result Album Name": "Calling You Outside"
     },
     {
         "Title": "Transportation Secretary Norman Mineta",
@@ -52,7 +72,12 @@
         "MoWeEd Track": "ROUTE 66 TV THEME",
         "MoWeEd Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush's Power Plan",
@@ -70,7 +95,15 @@
         "MoWeEd Track": "Caribana One",
         "MoWeEd Artists": [
             "Mark Duggan"
-        ]
+        ],
+        "Result Track Name": "Caribana 1",
+        "Result Artist Names": [
+            "Mark Duggan"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5n4Xw43fZvj6lauGdbTwZd",
+        "Result Album Name": "We Were Talking"
     },
     {
         "Title": "McVeigh Evidence",
@@ -89,7 +122,16 @@
         "MoWeEd Artists": [
             "Kenny Barron",
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": "Fragile",
+        "Result Artist Names": [
+            "Kenny Barron",
+            "Regina Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5V2QAH4RnSnIPw9v6NBVQE",
+        "Result Album Name": "Freefall"
     },
     {
         "Title": "Hawaiian Tourism",
@@ -101,7 +143,15 @@
         "MoWeEd Track": "'Opihi Moemoe",
         "MoWeEd Artists": [
             "Cyril Pahinui"
-        ]
+        ],
+        "Result Track Name": "'Opihi Moemoe - Instrumental",
+        "Result Artist Names": [
+            "Cyril Pahinui"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jQVCORnrCCzcIV89iurJ5",
+        "Result Album Name": "Night Moon (Po Mahina)"
     },
     {
         "Title": "The Bible In America",
@@ -113,7 +163,15 @@
         "MoWeEd Track": "Like Dreamers Do, Pt. 2",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Like Dreamers Do (Pt. Two)",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KRjO24gHlJlwiIDCnucU0",
+        "Result Album Name": "Blues Dream"
     },
     {
         "Title": "West Bank Visits",
@@ -131,7 +189,15 @@
         "MoWeEd Track": "Charlotte",
         "MoWeEd Artists": [
             "Jimmy McGriff"
-        ]
+        ],
+        "Result Track Name": "Charlotte",
+        "Result Artist Names": [
+            "Jimmy McGriff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ABdYCO0kp08ZcpreOnDLY",
+        "Result Album Name": "In A Blue Mood"
     },
     {
         "Title": "'Amores Perros'",
@@ -143,6 +209,14 @@
         "MoWeEd Track": "La Vida Es un Carnaval",
         "MoWeEd Artists": [
             "Celia Cruz"
-        ]
+        ],
+        "Result Track Name": "La Vida Es Un Carnaval",
+        "Result Artist Names": [
+            "Celia Cruz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BwrMGGhPA6GarWIYaFrW8",
+        "Result Album Name": "Para La Eternidad"
     }
 ]

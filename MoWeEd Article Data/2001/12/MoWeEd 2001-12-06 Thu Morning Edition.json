@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-12-06",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 15:55:30"
+        "Scanned Date": "2021-05-27 15:55:30",
+        "Playlist URI": "1jk1tyYR4vfnhMqEcFSXM6",
+        "Playlist Link": "https://open.spotify.com/playlist/1jk1tyYR4vfnhMqEcFSXM6",
+        "Snapshot ID": "MSwyNTlkZmY3Nzk5ZmY5NGEzZjQ1ZjZhNDNhMTExOGEyNWQyNGYxNTdi",
+        "Playlist Name": "MoWeEd 2001-12-06 Thu Morning Edition"
     },
     {
         "Title": "Middle East",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "We Met Today",
         "MoWeEd Artists": [
             "Jim Brickman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Various",
         "MoWeEd Artists": [
             "Robert Ian Winstin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Anthrax Hoax Arrest",
@@ -46,7 +60,15 @@
         "MoWeEd Track": "The Vanishing Red",
         "MoWeEd Artists": [
             "Kevin Keller"
-        ]
+        ],
+        "Result Track Name": "The Vanishing Red",
+        "Result Artist Names": [
+            "Kevin Keller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jS3EABETFUBVSk9k0YwvR",
+        "Result Album Name": "The Mask of Memory (Platinum Edition)"
     },
     {
         "Title": "Sotheby's Conviction",
@@ -58,7 +80,15 @@
         "MoWeEd Track": "Meta Bass",
         "MoWeEd Artists": [
             "Isotope 217"
-        ]
+        ],
+        "Result Track Name": "Meta Bass",
+        "Result Artist Names": [
+            "Isotope 217"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CWUr4jXf9FVQYOYooKrp3",
+        "Result Album Name": "Who Stole The I Walkman?"
     },
     {
         "Title": "Holy Land Investigation",
@@ -76,13 +106,23 @@
         "MoWeEd Track": "Suite No. 6 In E Major/Gavotte I & II",
         "MoWeEd Artists": [
             "Mark Bernat"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sonata No. 1 In G Minor--fuga. Allegro",
         "MoWeEd Artists": [
             "James Buswell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Enron Fallout",
@@ -94,7 +134,16 @@
         "MoWeEd Track": "Pennies From Heaven",
         "MoWeEd Artists": [
             "Bobby Peterson Trio"
-        ]
+        ],
+        "Result Track Name": "Pennies From Heaven",
+        "Result Artist Names": [
+            "Stan Getz",
+            "Oscar Peterson Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1cKieOitNWqzxDdOboOzHy",
+        "Result Album Name": "Stan Getz And The Oscar Peterson Trio"
     },
     {
         "Title": "War Update",
@@ -112,13 +161,29 @@
         "MoWeEd Track": "Opening Titles",
         "MoWeEd Artists": [
             "Michael Nyman"
-        ]
+        ],
+        "Result Track Name": "Opening Titles",
+        "Result Artist Names": [
+            "Michael Kamen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1VpVweUqCv0FLX669338Xo",
+        "Result Album Name": "The Dead Zone (Original Motion Picture Soundtrack)"
     },
     {
         "MoWeEd Track": "PVC IV",
         "MoWeEd Artists": [
             "Blue Man Group"
-        ]
+        ],
+        "Result Track Name": "PVC IV",
+        "Result Artist Names": [
+            "Blue Man Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DRUGJjui3Z365tU435DTp",
+        "Result Album Name": "Audio"
     },
     {
         "Title": "Ashcroft on the Hill",
@@ -138,7 +203,17 @@
             "Keaggy",
             "King",
             "Dente"
-        ]
+        ],
+        "Result Track Name": "Angel Treads",
+        "Result Artist Names": [
+            "Wes King",
+            "Scott Dente",
+            "Phil Keaggy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1O8SUXLTlxwwJUTI421SfE",
+        "Result Album Name": "Invention"
     },
     {
         "Title": "Carrier Returns",
@@ -150,7 +225,15 @@
         "MoWeEd Track": "Blue Rondo A La Turk",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Blue Rondo A La Turk - previously unreleased",
+        "Result Artist Names": [
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ZUXiplTsmUlYYCKvNnrSF",
+        "Result Album Name": "Time Out"
     },
     {
         "Title": "The Next Wonder Drug",
@@ -168,20 +251,46 @@
         "MoWeEd Track": "I Just Can't Keep from Crying Sometimes",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "I Just Can't Keep From Crying Sometimes",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3Rmls1v8DjsVA0SbHHWIw3",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "MoWeEd Track": "Eclipse",
         "MoWeEd Artists": [
             "Marcus Printup"
-        ]
+        ],
+        "Result Track Name": "Eclipse",
+        "Result Artist Names": [
+            "Marcus Printup"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0sGoiSXlyO5GDFfGsMy3xB",
+        "Result Album Name": "Unveiled"
     },
     {
         "MoWeEd Track": "Parker's Mood",
         "MoWeEd Artists": [
             "Roy Hargrove",
             "Christian McBride et. al."
-        ]
+        ],
+        "Result Track Name": "Parker's Mood",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Roy Hargrove",
+            "Stephen Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CFt0wOFHwRZ9PzNSF4dzq",
+        "Result Album Name": "Parker's Mood"
     },
     {
         "Title": "Broadway Great Revealed in 'Somewhere for Me'",

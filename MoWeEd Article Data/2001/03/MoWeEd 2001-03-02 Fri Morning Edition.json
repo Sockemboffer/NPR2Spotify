@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-03-02",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 16:21:08"
+        "Scanned Date": "2021-05-27 16:21:08",
+        "Playlist URI": "5xvcGqvUY51tv8Un82FRaa",
+        "Playlist Link": "https://open.spotify.com/playlist/5xvcGqvUY51tv8Un82FRaa",
+        "Snapshot ID": "MSwzMzA5ZmE5NmFhMGI2NjVmMjg4ZjNjODc0NjUxMWJhNzA3NmE3OGRi",
+        "Playlist Name": "MoWeEd 2001-03-02 Fri Morning Edition"
     },
     {
         "Title": "Pardon Hearings",
@@ -24,7 +28,15 @@
             "Bruce Kaphan",
             "Wash",
             "Jeffery"
-        ]
+        ],
+        "Result Track Name": "Clouds",
+        "Result Artist Names": [
+            "Bruce Kaphan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4EM4MDa8KZT46xSzSrYvxf",
+        "Result Album Name": "Slider- Ambient Excursions for Pedal Steel Guitar"
     },
     {
         "Title": "The Anglican Church",
@@ -42,7 +54,15 @@
         "MoWeEd Track": "Kaleidoscope",
         "MoWeEd Artists": [
             "Mythos"
-        ]
+        ],
+        "Result Track Name": "Kaleidoscope",
+        "Result Artist Names": [
+            "Mythos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FDJjVXlXuLvWbKXZlPDZJ",
+        "Result Album Name": "The Reality Of A Dreamer"
     },
     {
         "Title": "Getting Around Term Limits",
@@ -55,7 +75,17 @@
         "MoWeEd Artists": [
             "Roy Hargrove",
             "Christian McBride et. al."
-        ]
+        ],
+        "Result Track Name": "Steeplechase",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Roy Hargrove",
+            "Stephen Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qNr5muPYa66Vg633L27A8",
+        "Result Album Name": "Parker's Mood"
     },
     {
         "Title": "Living in Antarctica Pt. 2",
@@ -67,7 +97,15 @@
         "MoWeEd Track": "In the Canopy",
         "MoWeEd Artists": [
             "Alex Grant"
-        ]
+        ],
+        "Result Track Name": "In The Canopy",
+        "Result Artist Names": [
+            "Alex Grant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kbdZ4STjCQ1uYeTa33vkZ",
+        "Result Album Name": "Metaphor"
     },
     {
         "Title": "Bankruptcy",
@@ -85,7 +123,12 @@
         "MoWeEd Track": "Ornette (written for Ornette Coleman)",
         "MoWeEd Artists": [
             "Ethnic Heritage Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Washington Earthquake Recovery",
@@ -109,7 +152,15 @@
         "MoWeEd Track": "Montezuma",
         "MoWeEd Artists": [
             "Cusco"
-        ]
+        ],
+        "Result Track Name": "Montezuma",
+        "Result Artist Names": [
+            "Cusco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1n4um2KT9aNbcuD4Ydplp4",
+        "Result Album Name": "Apurimac II"
     },
     {
         "Title": "Abducted Doctor",
@@ -121,7 +172,15 @@
         "MoWeEd Track": "Second Chance",
         "MoWeEd Artists": [
             "Wind Machine"
-        ]
+        ],
+        "Result Track Name": "Second Chance",
+        "Result Artist Names": [
+            "The Wind Machine Guitar Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:351gkeqU1OPqX7QoRL29hk",
+        "Result Album Name": "A Show of Hands"
     },
     {
         "Title": "Miss USA Pageant in Gary, IN",
@@ -133,7 +192,12 @@
         "MoWeEd Track": "Rock Gently",
         "MoWeEd Artists": [
             "Alvino Rey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ancient Buddhist Statues",
@@ -163,6 +227,14 @@
         "MoWeEd Track": "Madison",
         "MoWeEd Artists": [
             "Peter Ostroushko"
-        ]
+        ],
+        "Result Track Name": "Madison",
+        "Result Artist Names": [
+            "Peter Ostroushko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Tbt9TDjYbdM6OxbmdyL6C",
+        "Result Album Name": "Sacred Heart"
     }
 ]

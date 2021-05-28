@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-04-18",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 16:19:52"
+        "Scanned Date": "2021-05-27 16:19:52",
+        "Playlist URI": "679xiwziKb50p0EFG83JNC",
+        "Playlist Link": "https://open.spotify.com/playlist/679xiwziKb50p0EFG83JNC",
+        "Snapshot ID": "MSxhZmQ4MmUwNDkxZGNjZDQ3NTE2YjJmYjhlMzFlYjQ2NmU5MjU5NDZl",
+        "Playlist Name": "MoWeEd 2001-04-18 Wed Morning Edition"
     },
     {
         "Title": "U.S - China Meeting",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "These Three Words",
         "MoWeEd Artists": [
             "Geoff Keezer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bombing Accident",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Les Nuits",
         "MoWeEd Artists": [
             "Nightmares on Wax"
-        ]
+        ],
+        "Result Track Name": "Les Nuits",
+        "Result Artist Names": [
+            "Nightmares On Wax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4P8qXnroR43S0xk0hmSbNs",
+        "Result Album Name": "Carboot Soul"
     },
     {
         "Title": "Mississippi Flag Vote",
@@ -52,7 +69,12 @@
         "MoWeEd Track": "Luli House",
         "MoWeEd Artists": [
             "Crowsong"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "True Tales From Mexico",
@@ -70,7 +92,12 @@
         "MoWeEd Track": "Mi Cumbia",
         "MoWeEd Artists": [
             "Ramon Ropain"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Power Alternatives",
@@ -82,7 +109,12 @@
         "MoWeEd Track": "Blitzkrieg Bop, Part 1",
         "MoWeEd Artists": [
             "Yo La Tengo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East Conflict",
@@ -100,7 +132,15 @@
         "MoWeEd Track": "Old Man Waltz",
         "MoWeEd Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Old Man Waltz",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7aWbOa8zvqfwMKFvfFR4dK",
+        "Result Album Name": "The Black Light"
     },
     {
         "Title": "Hi-Tech Home-School",
@@ -118,7 +158,12 @@
         "MoWeEd Track": "Take Five",
         "MoWeEd Artists": [
             "Logan Skelton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Royalgate",
@@ -130,7 +175,12 @@
         "MoWeEd Track": "Floorwashing",
         "MoWeEd Artists": [
             "Thomas Newman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Providence Mayor",
@@ -149,7 +199,12 @@
         "MoWeEd Artists": [
             "Alan Evans",
             "Neal Evans et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wildlife Rehabilitation",
@@ -161,6 +216,14 @@
         "MoWeEd Track": "Swallow",
         "MoWeEd Artists": [
             "Rob Levit Group"
-        ]
+        ],
+        "Result Track Name": "Swallow",
+        "Result Artist Names": [
+            "Rob Levit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:21fRbs7FASMmFg4KKQacBr",
+        "Result Album Name": "East River View"
     }
 ]

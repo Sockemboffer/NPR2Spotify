@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-01-14",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:27:14"
+        "Scanned Date": "2021-05-27 16:27:14",
+        "Playlist URI": "1HEXqoFJlUKyDz71SPnORJ",
+        "Playlist Link": "https://open.spotify.com/playlist/1HEXqoFJlUKyDz71SPnORJ",
+        "Snapshot ID": "MSxkOTgxMWNjZmQ2MTA1NzQ3ZWU2OTQ2ZWY2ZmEyODlmYmM5ODg0YzYx",
+        "Playlist Name": "MoWeEd 2001-01-14 Sun Weekend Edition"
     },
     {
         "Title": "Ashcroft Hearings",
@@ -17,7 +21,15 @@
         "MoWeEd Artists": [
             "Bob Telson",
             "Little Village"
-        ]
+        ],
+        "Result Track Name": "Little Village",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2sdY3q3ERRAEmssCeaG8bd",
+        "Result Album Name": "The Warrior Ant"
     },
     {
         "Title": "Anti-Trust",
@@ -29,13 +41,27 @@
         "MoWeEd Track": "Thanks for the Memory",
         "MoWeEd Artists": [
             "Benny Goodman"
-        ]
+        ],
+        "Result Track Name": "Thanks for the Memory - 1987 Remastered",
+        "Result Artist Names": [
+            "Benny Goodman",
+            "Martha Tilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VatJB50XLHucpD4CoEM2D",
+        "Result Album Name": "Sing, Sing, Sing"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Schorr On Cabinet Nominations",
@@ -53,7 +79,15 @@
         "MoWeEd Track": "Living on the Road",
         "MoWeEd Artists": [
             "Joanna Connor"
-        ]
+        ],
+        "Result Track Name": "Living On The Road",
+        "Result Artist Names": [
+            "Joanna Connor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iYkWy45am8hKTPUr7Fl1s",
+        "Result Album Name": "Fight"
     },
     {
         "Title": "Brain Cramp",
@@ -65,7 +99,15 @@
         "MoWeEd Track": "If I Only Had a Brain",
         "MoWeEd Artists": [
             "Sam Pilafian"
-        ]
+        ],
+        "Result Track Name": "If I Only Had a Brain",
+        "Result Artist Names": [
+            "Sam Pilafian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:105GFcMYwBoEzgdL511wlH",
+        "Result Album Name": "Travelin' Light"
     },
     {
         "Title": "Chad Ads",
@@ -77,19 +119,41 @@
         "MoWeEd Track": "Potato Chips Polka",
         "MoWeEd Artists": [
             "Brave Combo"
-        ]
+        ],
+        "Result Track Name": "Potato Chips Polka",
+        "Result Artist Names": [
+            "Brave Combo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tSKVcYaFkmAK2nMgYtGVH",
+        "Result Album Name": "Polkas For A Gloomy World"
     },
     {
         "MoWeEd Track": "Hail to the Chief",
         "MoWeEd Artists": [
             "Eastman Wind Ensemble"
-        ]
+        ],
+        "Result Track Name": "Band Music of the Union Troops: 1. Hail to the Chief",
+        "Result Artist Names": [
+            "Eastman Wind Ensemble",
+            "Frederick Fennell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3m3xHm6urzRVlXNtwbBr6V",
+        "Result Album Name": "The American Civil War Band and Field Music"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -101,7 +165,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Inaugurations Past",
@@ -113,7 +182,17 @@
         "MoWeEd Track": "The President's March",
         "MoWeEd Artists": [
             "The Goldman Band"
-        ]
+        ],
+        "Result Track Name": "The President's March",
+        "Result Artist Names": [
+            "Victor Herbert",
+            "Richard Franko Goldman",
+            "The Goldman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WO11eWk4e55LAt0ij4JoQ",
+        "Result Album Name": "The Golden Age of the American March"
     },
     {
         "Title": "Voices In the News",
@@ -126,7 +205,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "El Salvador Earthquake",
@@ -139,7 +223,16 @@
         "MoWeEd Artists": [
             "Carla Bley",
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Masquerade In 3 Parts: Carnation, Dark Glasses, Mustache",
+        "Result Artist Names": [
+            "Carla Bley",
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2niJnmApozD26E14U4Ad4b",
+        "Result Album Name": "Go Together"
     },
     {
         "Title": "Gaza",
@@ -151,25 +244,54 @@
         "MoWeEd Track": "Netcong on My Mind",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Jewels of Love",
         "MoWeEd Artists": [
             "Pharoah Sanders"
-        ]
+        ],
+        "Result Track Name": "My Jewels Of Love",
+        "Result Artist Names": [
+            "Pharoah Sanders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69aQUg26NSzWRuBnnQ2CKs",
+        "Result Album Name": "Save Our Children"
     },
     {
         "MoWeEd Track": "Batuki Burundi",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Eisenhower Speech",
@@ -187,7 +309,12 @@
         "MoWeEd Track": "Hymn to the Virgin",
         "MoWeEd Artists": [
             "Atli Sveinsson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -199,19 +326,40 @@
         "MoWeEd Track": "When I Come Around",
         "MoWeEd Artists": [
             "Green Day"
-        ]
+        ],
+        "Result Track Name": "When I Come Around",
+        "Result Artist Names": [
+            "Green Day"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Dr1fXbc2IxaK1Mu8P8Khz",
+        "Result Album Name": "Dookie"
     },
     {
         "MoWeEd Track": "Inner City Blues (Make Me Wanna Holler)",
         "MoWeEd Artists": [
             "Marvin Gaye"
-        ]
+        ],
+        "Result Track Name": "Inner City Blues (Make Me Wanna Holler)",
+        "Result Artist Names": [
+            "Marvin Gaye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NinkPy2aSMoEfzG0IL2mn",
+        "Result Album Name": "Colazione con amore"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Motown Spoken Word",
@@ -225,7 +373,12 @@
             "Pop Staples",
             "Albert King",
             "Steve Cropper"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pops Staples' Tribute to MLK",
@@ -237,6 +390,14 @@
         "MoWeEd Track": "Jesus Is Going to Make up (My Dying Bed)",
         "MoWeEd Artists": [
             "Roebuck \"Pops\" Staples"
-        ]
+        ],
+        "Result Track Name": "Jesus Is Going To Make Up (My Dying Bed)",
+        "Result Artist Names": [
+            "Pops Staples"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1fANR4tLn8Y5Pvch7iM1bg",
+        "Result Album Name": "Father Father"
     }
 ]

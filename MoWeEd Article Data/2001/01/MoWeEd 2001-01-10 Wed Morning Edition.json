@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-10",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 16:26:52"
+        "Scanned Date": "2021-05-27 16:26:52",
+        "Playlist URI": "4tAmSQfD8aVs3IQbBy2gmC",
+        "Playlist Link": "https://open.spotify.com/playlist/4tAmSQfD8aVs3IQbBy2gmC",
+        "Snapshot ID": "MSw3ODZiYmNlMGJkODE2OGIzNWM2Mjk1NGM0ZDVkMzI1ZjJkYjYxNWQy",
+        "Playlist Name": "MoWeEd 2001-01-10 Wed Morning Edition"
     },
     {
         "Title": "California Needs Help",
@@ -22,14 +26,32 @@
         "MoWeEd Track": "Brennero",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Brennero",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kXiN1hhOVzA82vJyvwOpq",
+        "Result Album Name": "Helium"
     },
     {
         "MoWeEd Track": "Zakir",
         "MoWeEd Artists": [
             "Anger",
             "Marshall Band"
-        ]
+        ],
+        "Result Track Name": "Zakir",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Darol Anger",
+            "The Darol Anger / Mike Marshall Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DFgdYcHGOWNY7Rs950IuT",
+        "Result Album Name": "Brand New Can"
     },
     {
         "Title": "Uranium Bomb in Europe",
@@ -48,7 +70,16 @@
         "MoWeEd Artists": [
             "Steve Tilston",
             "Maggie Boyle"
-        ]
+        ],
+        "Result Track Name": "The Cage",
+        "Result Artist Names": [
+            "Steve Tilston",
+            "Maggie Boyle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0P5M5gesZkSfE7RbS8dMvk",
+        "Result Album Name": "All Under The Sun"
     },
     {
         "Title": "New York Civil Suit",
@@ -60,7 +91,12 @@
         "MoWeEd Track": "Études (10) for guitar",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Online Music",
@@ -72,7 +108,12 @@
         "MoWeEd Track": "Avus 80",
         "MoWeEd Artists": [
             "UMO (Unidentified Musical Objects)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "TWA Bankruptcy",
@@ -103,13 +144,23 @@
         "MoWeEd Artists": [
             "Harry Allen",
             "John Pizzarelli Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "On the Sunny Side of the Street",
         "MoWeEd Artists": [
             "Jesse Davis Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Clean Water Act",
@@ -146,7 +197,17 @@
         "MoWeEd Artists": [
             "Biller",
             "Wakefield"
-        ]
+        ],
+        "Result Track Name": "Them There Shoes",
+        "Result Artist Names": [
+            "Dave Biller",
+            "Jeremy Wakefield",
+            "Carl Sonny Leyland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4E85OobMqxcafCrVxnDWKE",
+        "Result Album Name": "The Hot Guitars Of Biller And Wakefield"
     },
     {
         "Title": "1964: The Tribute.",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-05-16",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 16:16:48"
+        "Scanned Date": "2021-05-27 16:16:48",
+        "Playlist URI": "4YkVu0LIvibQG30MdrETYr",
+        "Playlist Link": "https://open.spotify.com/playlist/4YkVu0LIvibQG30MdrETYr",
+        "Snapshot ID": "MSxiMzgwNjhhODg1NjVmMjI3NDZmN2VlMDg3OWE5N2I5MTViMWY3ODE0",
+        "Playlist Name": "MoWeEd 2001-05-16 Wed Morning Edition"
     },
     {
         "Title": "OK City Bombing Evidence",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Delighted",
         "MoWeEd Artists": [
             "Shooglenifty"
-        ]
+        ],
+        "Result Track Name": "Delighted",
+        "Result Artist Names": [
+            "Shooglenifty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s3dDBtHs78cTpCGH6CboP",
+        "Result Album Name": "Solar Shears"
     },
     {
         "Title": "Capitol Hill Shooter",
@@ -34,7 +46,15 @@
         "MoWeEd Track": "Englishman in New York",
         "MoWeEd Artists": [
             "Eric Reed"
-        ]
+        ],
+        "Result Track Name": "Englishman In New York",
+        "Result Artist Names": [
+            "Eric Reed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VTTzwKKhA8LR8qsX1Qqh7",
+        "Result Album Name": "Manhattan Melodies"
     },
     {
         "Title": "Polygamy Trial",
@@ -46,7 +66,15 @@
         "MoWeEd Track": "Slow Motion",
         "MoWeEd Artists": [
             "Woody Mann"
-        ]
+        ],
+        "Result Track Name": "Slow Motion",
+        "Result Artist Names": [
+            "Woody Mann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QuT2FSu4HtG9vBUMjHjR0",
+        "Result Album Name": "Originals"
     },
     {
         "Title": "Nuclear Power Renaissance",
@@ -76,7 +104,12 @@
         "MoWeEd Track": "I Concentrate on You",
         "MoWeEd Artists": [
             "Bruce Forman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Fails to Sway China",
@@ -95,7 +128,15 @@
         "MoWeEd Artists": [
             "Milcho Leviev",
             "Bruce Stark"
-        ]
+        ],
+        "Result Track Name": "Night Mood",
+        "Result Artist Names": [
+            "Milcho Leviev"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2MXkqWhY76RizSM2EuDyeT",
+        "Result Album Name": "Milcho Leviev Chamber music"
     },
     {
         "Title": "Brazil's Blackouts",
@@ -114,7 +155,16 @@
         "MoWeEd Artists": [
             "Ralph Towner",
             "Gary Peacock"
-        ]
+        ],
+        "Result Track Name": "Creeper",
+        "Result Artist Names": [
+            "Ralph Towner",
+            "Gary Peacock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rObqhHZoL66amVGOehgBK",
+        "Result Album Name": "A Closer View"
     },
     {
         "Title": "Breastfeeding and Obesity",
@@ -126,7 +176,15 @@
         "MoWeEd Track": "Falling In",
         "MoWeEd Artists": [
             "Alex Grant"
-        ]
+        ],
+        "Result Track Name": "Falling In",
+        "Result Artist Names": [
+            "Alex Grant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Wo2tdmtYs9y91PxlaCZyM",
+        "Result Album Name": "Evening's Last Light"
     },
     {
         "Title": "Muslim Fashions",
@@ -144,7 +202,12 @@
         "MoWeEd Track": "Portrait Of The Lion",
         "MoWeEd Artists": [
             "Judy Carmichael"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wine In the War",
@@ -156,6 +219,11 @@
         "MoWeEd Track": "Valses (8) nobles et sentimentales, for piano (or orchestra)",
         "MoWeEd Artists": [
             "Abbey Simon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

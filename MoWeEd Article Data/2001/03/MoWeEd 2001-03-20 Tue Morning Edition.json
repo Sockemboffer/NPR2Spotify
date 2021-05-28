@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-03-20",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:22:45"
+        "Scanned Date": "2021-05-27 16:22:45",
+        "Playlist URI": "2LFRj5dIEDOrc2P0tsYDse",
+        "Playlist Link": "https://open.spotify.com/playlist/2LFRj5dIEDOrc2P0tsYDse",
+        "Snapshot ID": "MSw4YmZkNzE4ZTk0OWIzMTkzYTBhYTM5OWFkZjA0MWNkYjI1ODRjOWQx",
+        "Playlist Name": "MoWeEd 2001-03-20 Tue Morning Edition"
     },
     {
         "Title": "Bush's Busy Day",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "FORTY EIGHT DAYS",
         "MoWeEd Artists": [
             "LASZLO GARDONY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Joe (To Joe Farrell)",
         "MoWeEd Artists": [
             "Milcho Leviev"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Loyalty At Work",
@@ -40,7 +54,15 @@
         "MoWeEd Track": "Old Father Road",
         "MoWeEd Artists": [
             "Alex Grant"
-        ]
+        ],
+        "Result Track Name": "Old Father Road",
+        "Result Artist Names": [
+            "Alex Grant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7A7g46Q5PoN0gwwiEGVXGS",
+        "Result Album Name": "Old Father Road"
     },
     {
         "Title": "Sharon's US Visit",
@@ -52,7 +74,15 @@
         "MoWeEd Track": "Silent Partner",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Silent Partner",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7L5Aed8G5gBxoAo6iSIMwy",
+        "Result Album Name": "Against The Grain"
     },
     {
         "Title": "Approaches to Literacy",
@@ -64,7 +94,15 @@
         "MoWeEd Track": "Montana [Live]",
         "MoWeEd Artists": [
             "Paul Winter Consort"
-        ]
+        ],
+        "Result Track Name": "Montana",
+        "Result Artist Names": [
+            "Paul Winter Consort"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50ASrlhNqqQbesJY0camcQ",
+        "Result Album Name": "Spanish Angel"
     },
     {
         "Title": "Farmers In D.C.",
@@ -82,13 +120,26 @@
         "MoWeEd Track": "Secret Places",
         "MoWeEd Artists": [
             "Todd Cochran"
-        ]
+        ],
+        "Result Track Name": "Secret Places",
+        "Result Artist Names": [
+            "Todd Cochran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cb5kXQ8CozONkSPiGaMql",
+        "Result Album Name": "Winter's Solstice VI"
     },
     {
         "MoWeEd Track": "Three Wishes",
         "MoWeEd Artists": [
             "Makoto Ozone Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fed Meeting",
@@ -112,7 +163,15 @@
         "MoWeEd Track": "Follow Me",
         "MoWeEd Artists": [
             "Pat Metheny Group"
-        ]
+        ],
+        "Result Track Name": "Follow Me",
+        "Result Artist Names": [
+            "Pat Metheny Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Ea9xknXuevVBfFRTVnKCq",
+        "Result Album Name": "Imaginary Day"
     },
     {
         "Title": "Judicial Screening",
@@ -136,6 +195,14 @@
         "MoWeEd Track": "4 Variations On Twinkle Twinkle Little Star",
         "MoWeEd Artists": [
             "L.A. Guitar Quartet"
-        ]
+        ],
+        "Result Track Name": "4 Variations On Twinkle Twinkle Little Star",
+        "Result Artist Names": [
+            "L.A. Guitar Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hKHfTGtqXQR0pLfT9OEi6",
+        "Result Album Name": "Winter Solstice On Ice"
     }
 ]

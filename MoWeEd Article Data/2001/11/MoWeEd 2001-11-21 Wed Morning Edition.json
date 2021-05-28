@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-11-21",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 15:59:48"
+        "Scanned Date": "2021-05-27 15:59:48",
+        "Playlist URI": "11BWA1ofSolMr9gCWR8VMy",
+        "Playlist Link": "https://open.spotify.com/playlist/11BWA1ofSolMr9gCWR8VMy",
+        "Snapshot ID": "MSwwOWNkNjA2ZjRiMzgwZjBjYTJjYzYxMDM1YTk1MTQ1Y2U4Nzc4NGVk",
+        "Playlist Name": "MoWeEd 2001-11-21 Wed Morning Edition"
     },
     {
         "Title": "War",
@@ -34,7 +38,12 @@
         "MoWeEd Track": "Shadows of You",
         "MoWeEd Artists": [
             "Interior"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Anthrax",
@@ -46,7 +55,15 @@
         "MoWeEd Track": "Restless Harbors",
         "MoWeEd Artists": [
             "Chris Proctor"
-        ]
+        ],
+        "Result Track Name": "Restless Harbors",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tQvtxJ45PepsdVxIdlboN",
+        "Result Album Name": "Steel String Stories"
     },
     {
         "Title": "Airport Security",
@@ -70,7 +87,15 @@
         "MoWeEd Track": "The Crossing",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "The Crossing",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cvSBZzIrrBUD1JeaSM6a1",
+        "Result Album Name": "The Crossing"
     },
     {
         "Title": "War Progress",
@@ -88,7 +113,15 @@
         "MoWeEd Track": "Night Life",
         "MoWeEd Artists": [
             "Stuart Jones"
-        ]
+        ],
+        "Result Track Name": "Night Life",
+        "Result Artist Names": [
+            "Stuart Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ACcC9jprOdxmjSvfsAaKA",
+        "Result Album Name": "Lifeforce"
     },
     {
         "Title": "Crash Update",
@@ -115,7 +148,19 @@
             "Philharmonia Orchestra",
             "Leonard Slatkin",
             "Aline Brewer"
-        ]
+        ],
+        "Result Track Name": "Saint-Saëns / Arr. Hazell: Le carnaval des animaux: XIII. Le cygne",
+        "Result Artist Names": [
+            "Camille Saint-Saëns",
+            "Han-Na Chang",
+            "Leonard Slatkin",
+            "Philharmonia Orchestra",
+            "Aline Brewer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LVGxCXMGF1kommNyZ2vvN",
+        "Result Album Name": "The Swan"
     },
     {
         "Title": "Indonesian President",
@@ -133,7 +178,12 @@
         "MoWeEd Track": "Snake Church",
         "MoWeEd Artists": [
             "Van Manakas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "America's Parade",

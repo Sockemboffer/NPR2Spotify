@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-05-21",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:17:15"
+        "Scanned Date": "2021-05-27 16:17:15",
+        "Playlist URI": "7qCgYtX8qT5q0lNBwQDrEx",
+        "Playlist Link": "https://open.spotify.com/playlist/7qCgYtX8qT5q0lNBwQDrEx",
+        "Snapshot ID": "MSwxNGZiMWZmYTYwM2Y0MGU0MWU4YTdkNTFhMzg4MzVkNGVkN2Q2YmY1",
+        "Playlist Name": "MoWeEd 2001-05-21 Mon Morning Edition"
     },
     {
         "Title": "Israel Conflict",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "The Runner",
         "MoWeEd Artists": [
             "Stuart Jones"
-        ]
+        ],
+        "Result Track Name": "The Runner",
+        "Result Artist Names": [
+            "Stuart Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dT1bC2W8iLsxly38ut5Wv",
+        "Result Album Name": "Lifeforce"
     },
     {
         "Title": "Farm Protection",
@@ -40,7 +52,12 @@
         "MoWeEd Track": "Peace",
         "MoWeEd Artists": [
             "Mike Turk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "German Report",
@@ -52,7 +69,12 @@
         "MoWeEd Track": "4 + 3",
         "MoWeEd Artists": [
             "Milcho Leviev"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Joe Henry",
@@ -82,7 +104,12 @@
         "MoWeEd Track": "Shuman's Leap",
         "MoWeEd Artists": [
             "Shooglenifty"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cardinal Meeting",
@@ -100,7 +127,12 @@
         "MoWeEd Track": "No. 1 (Reversible Cowboy)",
         "MoWeEd Artists": [
             "Dusan Bogdanovic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "John Feinstein on the NBA",
@@ -112,7 +144,15 @@
         "MoWeEd Track": "Feelin' Fine, Pt. 2",
         "MoWeEd Artists": [
             "Spyro Gyra"
-        ]
+        ],
+        "Result Track Name": "Feelin' Fine, Pt. 2",
+        "Result Artist Names": [
+            "Spyro Gyra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XTJKhBo3Qr4jZyN1uQZVY",
+        "Result Album Name": "In Modern Times"
     },
     {
         "Title": "Threatened Statues",
@@ -130,7 +170,12 @@
         "MoWeEd Track": "Canzon Bergamasca, for brass quintet",
         "MoWeEd Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pitcher's Decline",
@@ -142,6 +187,14 @@
         "MoWeEd Track": "Slouchin'",
         "MoWeEd Artists": [
             "Lonnie Liston Smith"
-        ]
+        ],
+        "Result Track Name": "Slouchin'",
+        "Result Artist Names": [
+            "Dr. Lonnie Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4gkSj853lhLhDeNxexteEZ",
+        "Result Album Name": "Octet in the Beginning, Vol. 1 & 2"
     }
 ]

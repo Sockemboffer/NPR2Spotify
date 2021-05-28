@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-08-19",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:08:37"
+        "Scanned Date": "2021-05-27 16:08:37",
+        "Playlist URI": "4zsRdnWC7jDQm1tnIOntI0",
+        "Playlist Link": "https://open.spotify.com/playlist/4zsRdnWC7jDQm1tnIOntI0",
+        "Snapshot ID": "MSxjMGRjZWEyYjNiZDJmODZlNjA3ZDU3Njg1NDVjNDJiOTE3MTRhNzM1",
+        "Playlist Name": "MoWeEd 2001-08-19 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hebron",
@@ -30,20 +39,43 @@
         "MoWeEd Artists": [
             "Israel Philharmonic Orchestra",
             "Mehta"
-        ]
+        ],
+        "Result Track Name": "Swan Lake, Op.20, TH.12 / Act 2: No.13 Danses des cygnes: a) Valse - b) Moderato assai - c) Valse - d) Allegro moderato - e) Pas d'action (Andante) - f) Valse - g) Coda (Allegro vivace)",
+        "Result Artist Names": [
+            "Pyotr Ilyich Tchaikovsky",
+            "Israel Philharmonic Orchestra",
+            "Zubin Mehta"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lwVDUbLG6jPvi4WGDXcwz",
+        "Result Album Name": "Tchaikovsky: Swan Lake; Sleeping Beauty; The Nutcracker - Ballet Suites"
     },
     {
         "MoWeEd Track": "Qum Na Dimi",
         "MoWeEd Artists": [
             "Mohammed Saleh",
             "Haitham Hasan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Welfare Reform",
@@ -61,7 +93,15 @@
         "MoWeEd Track": "Fish On (Fisherman Chronicles, Chapter II)",
         "MoWeEd Artists": [
             "Primus"
-        ]
+        ],
+        "Result Track Name": "Fish On (Fisherman Chronicles, Chapter II)",
+        "Result Artist Names": [
+            "Primus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28GNLbCDihx07xoVy8JHqI",
+        "Result Album Name": "Sailing The Seas Of Cheese"
     },
     {
         "Title": "Bush's Health",
@@ -73,19 +113,40 @@
         "MoWeEd Track": "Da Ya Think I'm Sexy?",
         "MoWeEd Artists": [
             "Rod Stewart"
-        ]
+        ],
+        "Result Track Name": "Da Ya Think I'm Sexy?",
+        "Result Artist Names": [
+            "Rod Stewart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4z7maGZkAonDlXlwo8q69f",
+        "Result Album Name": "Blondes Have More Fun"
     },
     {
         "MoWeEd Track": "Electric Soup",
         "MoWeEd Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "Electric Soup",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mQqkfHFNXQdkOlkyID1OJ",
+        "Result Album Name": "Dad Man Cat"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -97,7 +158,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Muslim Jesus",
@@ -109,7 +175,15 @@
         "MoWeEd Track": "Have Thine Own Way",
         "MoWeEd Artists": [
             "James Sundquist"
-        ]
+        ],
+        "Result Track Name": "Have Thine Own Way",
+        "Result Artist Names": [
+            "Wes James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1Ugx4QuVNCDX03LyBuDKYy",
+        "Result Album Name": "Simple Man"
     },
     {
         "Title": "IRA and FARC",
@@ -121,7 +195,15 @@
         "MoWeEd Track": "Blind Bird",
         "MoWeEd Artists": [
             "Harold Budd"
-        ]
+        ],
+        "Result Track Name": "Blind Bird",
+        "Result Artist Names": [
+            "Harold Budd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6WDVBIKTQMT5G6kQH7J0lz",
+        "Result Album Name": "By The Dawn's Early Light"
     },
     {
         "Title": "Communists' Failed Coup",
@@ -133,19 +215,40 @@
         "MoWeEd Track": "Work(s): Unspecified Concerto in G Major: Excerpt",
         "MoWeEd Artists": [
             "Trio Voronezh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "One White Whale",
         "MoWeEd Artists": [
             "Laurie Anderson"
-        ]
+        ],
+        "Result Track Name": "One White Whale",
+        "Result Artist Names": [
+            "Laurie Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0lX9i9s2r1PGRKReRlLOT7",
+        "Result Album Name": "Life on a String"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Argentine Economy",
@@ -157,7 +260,15 @@
         "MoWeEd Track": "From Music for Bill & Me",
         "MoWeEd Artists": [
             "Lou Harrison"
-        ]
+        ],
+        "Result Track Name": "From Music For Bill & Me",
+        "Result Artist Names": [
+            "Lou Harrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bVgcDkiPNkk1967y05jRW",
+        "Result Album Name": "The Perilous Chapel"
     },
     {
         "Title": "Crown Heights",
@@ -169,7 +280,15 @@
         "MoWeEd Track": "Epilogue: Tears",
         "MoWeEd Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "Epilogue: Tears",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TctCYIXxz1JlLns50K4xy",
+        "Result Album Name": "Plays The Music Of Mickey Katz"
     },
     {
         "Title": "Letters",
@@ -181,13 +300,26 @@
         "MoWeEd Track": "Tex Critter",
         "MoWeEd Artists": [
             "Johnny A."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "John Ciardi",
@@ -199,7 +331,15 @@
         "MoWeEd Track": "From the Air",
         "MoWeEd Artists": [
             "Laurie Anderson"
-        ]
+        ],
+        "Result Track Name": "From the Air",
+        "Result Artist Names": [
+            "Laurie Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kJYHNlytKIwClXLDuRjPG",
+        "Result Album Name": "Big Science"
     },
     {
         "Title": "New Music from Laurie Anderson",
@@ -211,6 +351,14 @@
         "MoWeEd Track": "Here With You",
         "MoWeEd Artists": [
             "Laurie Anderson"
-        ]
+        ],
+        "Result Track Name": "Here with You",
+        "Result Artist Names": [
+            "Laurie Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rXWJsyOlBduDKpX0k1JTj",
+        "Result Album Name": "Live in New York"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-01-20",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:27:43"
+        "Scanned Date": "2021-05-27 16:27:43",
+        "Playlist URI": "3yQkyBy3eBvI9XDkSb535j",
+        "Playlist Link": "https://open.spotify.com/playlist/3yQkyBy3eBvI9XDkSb535j",
+        "Snapshot ID": "MSxlZjRmZjVjYmVmYWNhN2U1ZjcyMzVhZTZiZGVlNDZlOGQ0MTI5OTEw",
+        "Playlist Name": "MoWeEd 2001-01-20 Sat Weekend Edition"
     },
     {
         "Title": "Clinton Agreement",
@@ -22,14 +26,31 @@
         "MoWeEd Track": "Open Strings",
         "MoWeEd Artists": [
             "Peter Finger"
-        ]
+        ],
+        "Result Track Name": "Open Strings",
+        "Result Artist Names": [
+            "Peter Finger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WZAtRYZzRqaWJTJMPhpOg",
+        "Result Album Name": "Open Strings"
     },
     {
         "MoWeEd Track": "Time After Time",
         "MoWeEd Artists": [
             "Sylvain Luc",
             "Bireli Lagrene"
-        ]
+        ],
+        "Result Track Name": "Time After Time",
+        "Result Artist Names": [
+            "Biréli Lagrène",
+            "Sylvain Luc"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:52kxRipahpAS1aGtHbl9eI",
+        "Result Album Name": "Best Moments"
     },
     {
         "Title": "The Black Tie and Boots Ball",
@@ -49,7 +70,12 @@
             "Christopher Parkening",
             "London Symphony Orchestra",
             "Elmer Bernstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Maryland's Great Seal",
@@ -62,13 +88,27 @@
         "MoWeEd Artists": [
             "Itzhak Perlman",
             "Samuel Sanders"
-        ]
+        ],
+        "Result Track Name": "Paganini: Sonata No. 12 in E Minor, Op. 3, No. 6",
+        "Result Artist Names": [
+            "Niccolò Paganini",
+            "Itzhak Perlman"
+        ],
+        "Result Track-Match Percent": 0.9523809523809523,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2ObVkPPBrn4Zqept0dpQTI",
+        "Result Album Name": "Encores"
     },
     {
         "MoWeEd Track": "Solomon, oratorio, HWV 67",
         "MoWeEd Artists": [
             "Nigel Kennedy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Inaugural Ball Etiquette",
@@ -80,7 +120,12 @@
         "MoWeEd Track": "Prima Donna Waltz",
         "MoWeEd Artists": [
             "Spare Parts"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Father of Our Country Births a Republic",
@@ -98,7 +143,15 @@
         "MoWeEd Track": "El Camino/Introduccion/Imitacion",
         "MoWeEd Artists": [
             "Dino Saluzzi Group"
-        ]
+        ],
+        "Result Track Name": "El Camino: Introducción - Imitación",
+        "Result Artist Names": [
+            "Dino Saluzzi Group"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1y7mhDbMNiHzBBztrZIypp",
+        "Result Album Name": "Mojotoro"
     },
     {
         "Title": "This Week's News",
@@ -116,13 +169,31 @@
         "MoWeEd Track": "Words Can't Describe",
         "MoWeEd Artists": [
             "Sarah Vaughan"
-        ]
+        ],
+        "Result Track Name": "Words Can't Describe",
+        "Result Artist Names": [
+            "Sarah Vaughan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ZVo4KkwzAWImTGirpOt6P",
+        "Result Album Name": "Swingin' Easy"
     },
     {
         "MoWeEd Track": "Seventy Six Trombones",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Seventy Six Trombones",
+        "Result Artist Names": [
+            "Meredith Willson",
+            "Boston Pops Orchestra",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4j9o2npzkHUSyzPTS1dpRc",
+        "Result Album Name": "America, The Beautiful"
     },
     {
         "Title": "New President in the Philippines",
@@ -146,7 +217,15 @@
         "MoWeEd Track": "Beppo",
         "MoWeEd Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Beppo",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TEac0T0eAEjDIm3WmuUoI",
+        "Result Album Name": "Always, Never, And Forever"
     },
     {
         "Title": "Westbrook High Marching Band",
@@ -158,13 +237,26 @@
         "MoWeEd Track": "The President's March (hail, Columbia)",
         "MoWeEd Artists": [
             "The Chestnut Brass Co."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Templar Treasure",
         "MoWeEd Artists": [
             "Ray Flacke"
-        ]
+        ],
+        "Result Track Name": "Templar Treasure",
+        "Result Artist Names": [
+            "Ray Flacke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fxbMfoIF1kyCciEacxWQz",
+        "Result Album Name": "Nashville Guitars"
     },
     {
         "Title": "Inaugural History",

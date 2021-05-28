@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-06-03",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:12:44"
+        "Scanned Date": "2021-05-27 16:12:44",
+        "Playlist URI": "006PbruzHHRI9qGgpm6Tys",
+        "Playlist Link": "https://open.spotify.com/playlist/006PbruzHHRI9qGgpm6Tys",
+        "Snapshot ID": "MSxkMTFlZmVjYjFlMmYyZDNhMTFlYzVjNmMzZjYxNTc2ZTJjM2NmY2Iw",
+        "Playlist Name": "MoWeEd 2001-06-03 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East",
@@ -35,19 +44,44 @@
         "MoWeEd Track": "Threw Me for a Loop",
         "MoWeEd Artists": [
             "Steve Tavaglione"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Thanksgiving Waltz",
         "MoWeEd Artists": [
             "Molly Mason"
-        ]
+        ],
+        "Result Track Name": "Thanksgiving Waltz",
+        "Result Artist Names": [
+            "Jay Ungar",
+            "Mary Lea",
+            "Molly Mason",
+            "Abby Newton",
+            "Steve Rust"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11Wq3mTW6mm2OIh6AY6eKg",
+        "Result Album Name": "Harvest Home"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Mrs. Daschle",
@@ -65,7 +99,12 @@
         "MoWeEd Track": "Astronomics",
         "MoWeEd Artists": [
             "Jim Matheos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Doener Kebab",
@@ -77,19 +116,37 @@
         "MoWeEd Track": "LANDLER",
         "MoWeEd Artists": [
             "DIE KNODEL"
-        ]
+        ],
+        "Result Track Name": "Landler",
+        "Result Artist Names": [
+            "Die Knödel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2pWzCx5xAv4AwR3RMk3QL7",
+        "Result Album Name": "Verkochte Tiroler"
     },
     {
         "MoWeEd Track": "Signalese",
         "MoWeEd Artists": [
             "Very Secretary"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -101,7 +158,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>Taps</I>",
@@ -113,7 +175,19 @@
         "MoWeEd Track": "Thanksgiving Waltz",
         "MoWeEd Artists": [
             "Molly Mason"
-        ]
+        ],
+        "Result Track Name": "Thanksgiving Waltz",
+        "Result Artist Names": [
+            "Jay Ungar",
+            "Mary Lea",
+            "Molly Mason",
+            "Abby Newton",
+            "Steve Rust"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11Wq3mTW6mm2OIh6AY6eKg",
+        "Result Album Name": "Harvest Home"
     },
     {
         "Title": "Nepalese Royal Family",
@@ -132,7 +206,15 @@
         "MoWeEd Artists": [
             "Bob Telson",
             "Little Village"
-        ]
+        ],
+        "Result Track Name": "Little Village",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2sdY3q3ERRAEmssCeaG8bd",
+        "Result Album Name": "The Warrior Ant"
     },
     {
         "Title": "Schorr on Foreign Policy",
@@ -144,19 +226,43 @@
         "MoWeEd Track": "The Next Step",
         "MoWeEd Artists": [
             "Kurt Rosenwinkel"
-        ]
+        ],
+        "Result Track Name": "The Next Step",
+        "Result Artist Names": [
+            "Kurt Rosenwinkel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dJqM7RAVVkQ7WpCmH4e8R",
+        "Result Album Name": "Deep Song"
     },
     {
         "MoWeEd Track": "Help Me Forget",
         "MoWeEd Artists": [
             "Robert Cray"
-        ]
+        ],
+        "Result Track Name": "Help Me Forget",
+        "Result Artist Names": [
+            "The Robert Cray Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57ARU9a5YxRy72WxhDB1s2",
+        "Result Album Name": "Shoulda Been Home"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Los Angeles Mayoral Candidate",
@@ -168,7 +274,15 @@
         "MoWeEd Track": "Gonzalo's Dream",
         "MoWeEd Artists": [
             "Bob Telson"
-        ]
+        ],
+        "Result Track Name": "Gonzalo's Dream",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TBbg3O434aJTjSABNtbca",
+        "Result Album Name": "Calling You"
     },
     {
         "Title": "<I>Bread and Roses</I>",
@@ -187,19 +301,45 @@
         "MoWeEd Artists": [
             "Branford Marsalis",
             "Orpheus Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "Concertino da camera for Alto Saxophone and Orchestra: III. Animato molto",
+        "Result Artist Names": [
+            "Jacques Ibert",
+            "Branford Marsalis",
+            "Orpheus Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7idx7Esf7Ggw5aX7L5yfoj",
+        "Result Album Name": "Creation"
     },
     {
         "MoWeEd Track": "Anytime",
         "MoWeEd Artists": [
             "Robert Cray"
-        ]
+        ],
+        "Result Track Name": "Anytime - Live",
+        "Result Artist Names": [
+            "The Robert Cray Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xM13wgB21UW5Nla7N4oM3",
+        "Result Album Name": "Cookin' In Mobile"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Glen Jones -- Broadcast History",
@@ -217,6 +357,14 @@
         "MoWeEd Track": "Help Me Forget",
         "MoWeEd Artists": [
             "Robert Cray"
-        ]
+        ],
+        "Result Track Name": "Help Me Forget",
+        "Result Artist Names": [
+            "The Robert Cray Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57ARU9a5YxRy72WxhDB1s2",
+        "Result Album Name": "Shoulda Been Home"
     }
 ]

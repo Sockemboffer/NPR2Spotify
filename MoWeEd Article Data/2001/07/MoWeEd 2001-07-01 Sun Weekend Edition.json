@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-07-01",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:09:43"
+        "Scanned Date": "2021-05-27 16:09:43",
+        "Playlist URI": "6bQNtmI6A6HYOTDdFaii6s",
+        "Playlist Link": "https://open.spotify.com/playlist/6bQNtmI6A6HYOTDdFaii6s",
+        "Snapshot ID": "MSwwYzk0MGI1NWRkOTg3ZGU4MDhjOWFiY2QzOGJkM2FjMDgyM2QwNjMw",
+        "Playlist Name": "MoWeEd 2001-07-01 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Patients' Bill of Rights",
@@ -35,19 +44,43 @@
         "MoWeEd Track": "Stairs in Stars",
         "MoWeEd Artists": [
             "Nobukazu Takemura"
-        ]
+        ],
+        "Result Track Name": "Stairs in Stars",
+        "Result Artist Names": [
+            "Nobukazu Takemura"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66SMBF4FMwfAjUYzZfvkgk",
+        "Result Album Name": "Hoshi No Koe"
     },
     {
         "MoWeEd Track": "Back at the Chicken Shack",
         "MoWeEd Artists": [
             "Jimmy Smith"
-        ]
+        ],
+        "Result Track Name": "Back At The Chicken Shack",
+        "Result Artist Names": [
+            "Jimmy Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0bv5vUJCvXM9G0cbjeikyY",
+        "Result Album Name": "Back At The Chicken Shack"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Buffalo, New York",
@@ -65,13 +98,26 @@
         "MoWeEd Track": "What How When Where (Why Who)",
         "MoWeEd Artists": [
             "Ani Difranco"
-        ]
+        ],
+        "Result Track Name": "What How When Where (Why Who)",
+        "Result Artist Names": [
+            "Ani DiFranco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4v0QMMSs0M79S7MiOeJGck",
+        "Result Album Name": "Revelling/Reckoning"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Buffalo, Part 2",
@@ -95,7 +141,12 @@
         "MoWeEd Track": "Nerve That Got",
         "MoWeEd Artists": [
             "Henry Kaiser"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Flip-flops",
@@ -108,19 +159,37 @@
         "MoWeEd Artists": [
             "Rublacaba",
             "Gonzalo Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "McKinley Inaguration",
         "MoWeEd Artists": [
             "Goldman Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Steel and Hydroelectric Power",
@@ -144,6 +213,11 @@
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

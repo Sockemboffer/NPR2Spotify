@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-25",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:28:10"
+        "Scanned Date": "2021-05-27 16:28:10",
+        "Playlist URI": "0RUVEHINBZfydcizaX0A7T",
+        "Playlist Link": "https://open.spotify.com/playlist/0RUVEHINBZfydcizaX0A7T",
+        "Snapshot ID": "MSxhMjZlOWQ4NThkOTdkYmMyODkzZjgwYjJkOTJhOWMxZjk2NGQ2Mjcz",
+        "Playlist Name": "MoWeEd 2001-01-25 Thu Morning Edition"
     },
     {
         "Title": "McCain meets Bush",
@@ -22,7 +26,16 @@
         "MoWeEd Track": "Sonata Op. 2 No. 1 In F Minor: Allegro",
         "MoWeEd Artists": [
             "Robert Taub"
-        ]
+        ],
+        "Result Track Name": "Sonata No. 1, Op. 2 No. 1 in F Minor: Sonata No. 1, Op. 2 No. 1 in F Minor: I. Allegro",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Robert Taub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2e9VEnXtYgEv1bpG5DM0b6",
+        "Result Album Name": "Beethoven: First and Last Piano Sonatas"
     },
     {
         "Title": "School Principals, pt. 2",
@@ -34,7 +47,15 @@
         "MoWeEd Track": "How Long Has This Been Going On?",
         "MoWeEd Artists": [
             "Mike Turk"
-        ]
+        ],
+        "Result Track Name": "How Long Has This Been Going On",
+        "Result Artist Names": [
+            "Mike Lipskin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:04XXqQUollV4jqOchTqs12",
+        "Result Album Name": "Spreading Rhythm Around"
     },
     {
         "Title": "Loss of Power",
@@ -47,7 +68,12 @@
         "MoWeEd Artists": [
             "Gary Burton",
             "Makoto Ozone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Spiritual Films",
@@ -71,7 +97,12 @@
         "MoWeEd Track": "The Mama Suite, Pt. 3: Just Right Mama",
         "MoWeEd Artists": [
             "Horace Silver"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "California Energy",
@@ -89,7 +120,15 @@
         "MoWeEd Track": "On Lucille Street",
         "MoWeEd Artists": [
             "Sandra Tsing Loh"
-        ]
+        ],
+        "Result Track Name": "On Lucille Street",
+        "Result Artist Names": [
+            "Sandra Tsing Loh"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rdQvGbYU1sXd1FsA8nFuw",
+        "Result Album Name": "Pianovision"
     },
     {
         "Title": "Milosevic in Serbia",
@@ -107,7 +146,15 @@
         "MoWeEd Track": "Tombeau (Elegy)",
         "MoWeEd Artists": [
             "Laurence Juber"
-        ]
+        ],
+        "Result Track Name": "Tombeau (Elegy)",
+        "Result Artist Names": [
+            "Laurence Juber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KsUfgSMyVX4TT3nHAiFNQ",
+        "Result Album Name": "Naked Solos"
     },
     {
         "Title": "Czech Citizens in Cuba",
@@ -131,7 +178,15 @@
         "MoWeEd Track": "Subtle Digs",
         "MoWeEd Artists": [
             "Larry Goldings"
-        ]
+        ],
+        "Result Track Name": "Subtle Digs",
+        "Result Artist Names": [
+            "Larry Goldings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xM0zGv8f9k3pUkzR4OVLI",
+        "Result Album Name": "Big Stuff"
     },
     {
         "Title": "Ashcroft and Religion",
@@ -144,6 +199,11 @@
         "MoWeEd Artists": [
             "Vladimir Spivakov",
             "Alexei Utkin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

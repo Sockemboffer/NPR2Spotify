@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-06-24",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:14:46"
+        "Scanned Date": "2021-05-27 16:14:46",
+        "Playlist URI": "2S2tZRS3GnT6BOWbiFkxor",
+        "Playlist Link": "https://open.spotify.com/playlist/2S2tZRS3GnT6BOWbiFkxor",
+        "Snapshot ID": "MSw4NTRmZTcyYzMzMTY4ZDc3ZDFlMDJkOTUxOWRmOWNjNjAwNGUzOGM1",
+        "Playlist Name": "MoWeEd 2001-06-24 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mayor's Conference",
@@ -35,19 +44,37 @@
         "MoWeEd Track": "What Goes Around",
         "MoWeEd Artists": [
             "Dave Holland Quintet"
-        ]
+        ],
+        "Result Track Name": "What Goes Around",
+        "Result Artist Names": [
+            "Dave Holland Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4u7AYRHsl7LLbBqgQ6LDtK",
+        "Result Album Name": "Not For Nothin'"
     },
     {
         "MoWeEd Track": "(gormenghast Theme Music)",
         "MoWeEd Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mediocre Student Scholarships",
@@ -65,7 +92,15 @@
         "MoWeEd Track": "Stanzas: Written At Night In Radio City",
         "MoWeEd Artists": [
             "Allen Ginsberg"
-        ]
+        ],
+        "Result Track Name": "Stanzas: Written At Night In Radio City",
+        "Result Artist Names": [
+            "Allen Ginsberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bGo2tfM6d9qcYLCZrWLDh",
+        "Result Album Name": "The Lion For Real"
     },
     {
         "Title": "iPaq",
@@ -77,7 +112,16 @@
         "MoWeEd Track": "Youth and Age",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Songs on poems by Walt Withman: Youth. Day. Old Age and Night",
+        "Result Artist Names": [
+            "Wolfgang Wijdeveld",
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eyjiW1sV6rZJG1WOGVNGv",
+        "Result Album Name": "Wijdeveld: Lieder & Chamber Music"
     },
     {
         "Title": "Hollywood Deception",
@@ -89,13 +133,28 @@
         "MoWeEd Track": "The Healer",
         "MoWeEd Artists": [
             "John Lee Hooker"
-        ]
+        ],
+        "Result Track Name": "The Healer",
+        "Result Artist Names": [
+            "John Lee Hooker",
+            "Carlos Santana",
+            "The Santana Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3h7tr47MIwSz0i53YzliBg",
+        "Result Album Name": "The Healer"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -107,7 +166,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Gormenghast'",
@@ -119,7 +183,12 @@
         "MoWeEd Track": "(gormenghast Theme Music)",
         "MoWeEd Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pope in Ukraine",
@@ -144,13 +213,33 @@
         "MoWeEd Artists": [
             "Temple of Sound",
             "Rizwan-Muazzam Qawwali"
-        ]
+        ],
+        "Result Track Name": "Tears of Light",
+        "Result Artist Names": [
+            "Temple Of Sound",
+            "Rizwan-Muazzam Qawwali"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1yXl2bpRxjkuczS7N4H9ah",
+        "Result Album Name": "Peoples Colony No 1"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Three Tenors In Beijing",
@@ -174,7 +263,12 @@
         "MoWeEd Track": "Studies (2) on Ancient Greek Scales, for harmonic canon & bass marimba (from \"Intrusions\")",
         "MoWeEd Artists": [
             "Newband"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -186,19 +280,41 @@
         "MoWeEd Track": "Poem #2",
         "MoWeEd Artists": [
             "Tom Alexander"
-        ]
+        ],
+        "Result Track Name": "Poem #2",
+        "Result Artist Names": [
+            "Tom Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IDSDBSO5Ze8ikOLjTdpMe",
+        "Result Album Name": "What's Ahead? (20th Anniversary Edition)"
     },
     {
         "MoWeEd Track": "A Whiter Shade of Pale",
         "MoWeEd Artists": [
             "Annie Lennox"
-        ]
+        ],
+        "Result Track Name": "A Whiter Shade of Pale",
+        "Result Artist Names": [
+            "Annie Lennox",
+            "Heff Moraes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11Mkoen07pKwyDqHiFnVU9",
+        "Result Album Name": "Medusa"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "John Ciardi",

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-04-08",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:18:55"
+        "Scanned Date": "2021-05-27 16:18:55",
+        "Playlist URI": "19s9sICRnFD1NYWq6qAEwZ",
+        "Playlist Link": "https://open.spotify.com/playlist/19s9sICRnFD1NYWq6qAEwZ",
+        "Snapshot ID": "MSwyYmVmYjUzNWIxOTNhOWVmODlkZjI0ODI4YjUyM2JmNjA3ZDgzYTcx",
+        "Playlist Name": "MoWeEd 2001-04-08 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congress and Budget",
@@ -35,19 +44,37 @@
         "MoWeEd Track": "Baseball",
         "MoWeEd Artists": [
             "Carla Bley"
-        ]
+        ],
+        "Result Track Name": "Baseball",
+        "Result Artist Names": [
+            "Carla Bley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QmD1Zz5bYGnHkiacYF8sO",
+        "Result Album Name": "Selected Recordings"
     },
     {
         "MoWeEd Track": "The Stonecutter",
         "MoWeEd Artists": [
             "Prysm"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hopi Repatriation",
@@ -60,7 +87,16 @@
         "MoWeEd Artists": [
             "Steve Gordon",
             "Deborah Martin"
-        ]
+        ],
+        "Result Track Name": "Spirit of the Mountain",
+        "Result Artist Names": [
+            "Steve Gordon",
+            "Deborah Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1p4S38nrz25XYxl287IwBD",
+        "Result Album Name": "Ancient Power"
     },
     {
         "Title": "'Larkin Gifford's Harmonica'",
@@ -72,7 +108,12 @@
         "MoWeEd Track": "Larkin Gifford's Harmonica",
         "MoWeEd Artists": [
             "Philip Bimstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Downsized!",
@@ -84,13 +125,26 @@
         "MoWeEd Track": "Joyful Sound",
         "MoWeEd Artists": [
             "The String Cheese Incident"
-        ]
+        ],
+        "Result Track Name": "Joyful Sound",
+        "Result Artist Names": [
+            "The String Cheese Incident"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4G3ne4nzlHtd99QQ9Vy5gv",
+        "Result Album Name": "Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -102,7 +156,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>Whose Song?</I>",
@@ -114,7 +173,12 @@
         "MoWeEd Track": "The Stonecutter",
         "MoWeEd Artists": [
             "Prysm"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "China-US",
@@ -132,7 +196,15 @@
         "MoWeEd Track": "Tacones Lojanos",
         "MoWeEd Artists": [
             "Ryuichi Sakamoto"
-        ]
+        ],
+        "Result Track Name": "Tacones Lojanos",
+        "Result Artist Names": [
+            "Ryuichi Sakamoto Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nXTWY9d94vrBgzy3cadS0",
+        "Result Album Name": "Talons Aiguilles De Pedro Almodovar"
     },
     {
         "Title": "Peru Elections",
@@ -144,19 +216,49 @@
         "MoWeEd Track": "Fleurette Africaine",
         "MoWeEd Artists": [
             "Renee Rosnes"
-        ]
+        ],
+        "Result Track Name": "Fleurette Africaine",
+        "Result Artist Names": [
+            "Renee Rosnes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3k80TfF49CEtd3AXCYSb10",
+        "Result Album Name": "Art & Soul"
     },
     {
         "MoWeEd Track": "Brother Runnin' (mark's Groove Part 1)",
         "MoWeEd Artists": [
             "Los Hombres Calientes"
-        ]
+        ],
+        "Result Track Name": "Brother Runnin' - Mark's Groove Part 1",
+        "Result Artist Names": [
+            "Los Hombres Calientes",
+            "Irvin Mayfield",
+            "Bill Summers",
+            "Horacio El Negro Hernandez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5KV0fLNIm1Hff9Hz21Ni0h",
+        "Result Album Name": "Vol. 3: New Congo Square"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Prison Libraries",
@@ -180,19 +282,37 @@
         "MoWeEd Track": "Facin' Up",
         "MoWeEd Artists": [
             "Franck Avitabile"
-        ]
+        ],
+        "Result Track Name": "Facin' Up",
+        "Result Artist Names": [
+            "Franck Avitabile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BaKNCBaiZXY54p84oeYfh",
+        "Result Album Name": "Paris Sketches (feat. Pino Palladino & Manu Katché) [Special Edition]"
     },
     {
         "MoWeEd Track": "I Shot the Sherrif",
         "MoWeEd Artists": [
             "Los Hombres Calientes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mississippi Delta",
@@ -204,7 +324,15 @@
         "MoWeEd Track": "First Light",
         "MoWeEd Artists": [
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "First Light - Acoustic Version",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mwG9jrmz7leTRjPevwGSp",
+        "Result Album Name": "Tales From The Acoustic Planet"
     },
     {
         "Title": "<I>Los Hombres Calientes</I>",
@@ -216,6 +344,11 @@
         "MoWeEd Track": "Comparasa N. O.",
         "MoWeEd Artists": [
             "Los Hombres Calientes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

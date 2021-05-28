@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-06-17",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:14:06"
+        "Scanned Date": "2021-05-27 16:14:06",
+        "Playlist URI": "5ROVxgLS7eJTQlJeAMiHad",
+        "Playlist Link": "https://open.spotify.com/playlist/5ROVxgLS7eJTQlJeAMiHad",
+        "Snapshot ID": "MSxhMTA1NDg0NmIzZjE2MTU4NmM4NjJiMDEzMmZkZGRhNmIwYTIzZmVl",
+        "Playlist Name": "MoWeEd 2001-06-17 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "FERC Meeting",
@@ -35,19 +44,43 @@
         "MoWeEd Track": "Energy Sucker",
         "MoWeEd Artists": [
             "Luscious Jackson"
-        ]
+        ],
+        "Result Track Name": "Energy Sucker",
+        "Result Artist Names": [
+            "Luscious Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bsGxu0Qx3VYDPb2YVtLdb",
+        "Result Album Name": "Natural Ingredients"
     },
     {
         "MoWeEd Track": "High School",
         "MoWeEd Artists": [
             "MC5"
-        ]
+        ],
+        "Result Track Name": "High School",
+        "Result Artist Names": [
+            "MC5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:68gliAoTqB2ykfVh1N18PS",
+        "Result Album Name": "Back In The USA"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Climate",
@@ -65,7 +98,12 @@
         "MoWeEd Track": "Metro Chabacano",
         "MoWeEd Artists": [
             "Cuarteto Latino Americano"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wild Bill Longley",
@@ -77,7 +115,15 @@
         "MoWeEd Track": "The Good, the Bad, and the Ugly",
         "MoWeEd Artists": [
             "California Guitar Trio"
-        ]
+        ],
+        "Result Track Name": "The Good, The Bad, And The Ugly",
+        "Result Artist Names": [
+            "California Guitar Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iFFG1cFgQI1Q4p5diSkSR",
+        "Result Album Name": "Highlights"
     },
     {
         "Title": "Give a Boy a Book",
@@ -89,19 +135,40 @@
         "MoWeEd Track": "Exquisite Tenderness",
         "MoWeEd Artists": [
             "Nicholas Payton"
-        ]
+        ],
+        "Result Track Name": "Exquisite Tenderness",
+        "Result Artist Names": [
+            "Nicholas Payton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00IJ7MzrWvzN4PiH6TByRq",
+        "Result Album Name": "Nick@Night"
     },
     {
         "MoWeEd Track": "Please Don't Offend Me",
         "MoWeEd Artists": [
             "Jac Zinder"
-        ]
+        ],
+        "Result Track Name": "Please Don't Offend Me",
+        "Result Artist Names": [
+            "Jac Zinder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ugrx9fHsi1hSyujk2XMl2",
+        "Result Album Name": "Chairs I Have Known"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -113,7 +180,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>American High</I>",
@@ -125,7 +197,15 @@
         "MoWeEd Track": "I'm a Loner Dottie, a Rebel...",
         "MoWeEd Artists": [
             "The Get Up Kids"
-        ]
+        ],
+        "Result Track Name": "I'm a Loner Dottie, a Rebel",
+        "Result Artist Names": [
+            "The Get Up Kids"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cwTCYlFRGU3Tw0Zxqpy08",
+        "Result Album Name": "Something to Write Home About"
     },
     {
         "Title": "Bush In Europe",
@@ -143,19 +223,43 @@
         "MoWeEd Track": "Bully of the Town",
         "MoWeEd Artists": [
             "Norman Blake"
-        ]
+        ],
+        "Result Track Name": "Bully Of The Town",
+        "Result Artist Names": [
+            "Norman Blake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:397ie013pw4V5jcqmIPmH6",
+        "Result Album Name": "Back Home In Sulphur Springs"
     },
     {
         "MoWeEd Track": "Ballparks",
         "MoWeEd Artists": [
             "Tom Alexander"
-        ]
+        ],
+        "Result Track Name": "Ballparks",
+        "Result Artist Names": [
+            "Tom Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7dEjonkTiiZ0AaO21ck5VY",
+        "Result Album Name": "What's Ahead? (20th Anniversary Edition)"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Dzerzhinsk",
@@ -167,7 +271,12 @@
         "MoWeEd Track": "Chimes",
         "MoWeEd Artists": [
             "Vital Information"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Turk Tankers",
@@ -180,7 +289,15 @@
         "MoWeEd Artists": [
             "Bob Telson",
             "Little Village"
-        ]
+        ],
+        "Result Track Name": "The Glow of the Likeness",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2Dzw4iVcDBlLXCgb7SMKDg",
+        "Result Album Name": "The Warrior Ant"
     },
     {
         "Title": "Letters",
@@ -192,7 +309,12 @@
         "MoWeEd Track": "Apostles of the Ugly",
         "MoWeEd Artists": [
             "Ben Allison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tiger Woods Is God",
@@ -204,13 +326,29 @@
         "MoWeEd Track": "Petey Pie",
         "MoWeEd Artists": [
             "Tom Alexander"
-        ]
+        ],
+        "Result Track Name": "Petey Pie",
+        "Result Artist Names": [
+            "Tom Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pHqRGoiQ6r8T9GOT1zoDl",
+        "Result Album Name": "What's Ahead? (20th Anniversary Edition)"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Tom Alexander",
@@ -222,6 +360,11 @@
         "MoWeEd Track": "Untitled Sunday Driving Music",
         "MoWeEd Artists": [
             "Tom Alexander"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

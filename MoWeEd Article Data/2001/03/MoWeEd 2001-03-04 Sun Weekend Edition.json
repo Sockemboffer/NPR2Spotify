@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-03-04",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:21:20"
+        "Scanned Date": "2021-05-27 16:21:20",
+        "Playlist URI": "0TO4LPBvjFkKHtrxt5a4yG",
+        "Playlist Link": "https://open.spotify.com/playlist/0TO4LPBvjFkKHtrxt5a4yG",
+        "Snapshot ID": "MSxmZjNjZDcwZDgzNjBmYTYwMmE0MmZiNDdkMmViODc5Njk1NjQwYWJh",
+        "Playlist Name": "MoWeEd 2001-03-04 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Update",
@@ -35,13 +44,26 @@
         "MoWeEd Track": "Zhivago",
         "MoWeEd Artists": [
             "Kurt Rosenwinkel"
-        ]
+        ],
+        "Result Track Name": "Zhivago",
+        "Result Artist Names": [
+            "Kurt Rosenwinkel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65XhQCGWUESjTXw3YlEEqm",
+        "Result Album Name": "Our Secret World"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kids Suspension",
@@ -60,7 +82,16 @@
         "MoWeEd Artists": [
             "Steve Gordon",
             "Deborah Martin"
-        ]
+        ],
+        "Result Track Name": "Heart of Fire",
+        "Result Artist Names": [
+            "Steve Gordon",
+            "Deborah Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4U08vS3IgFhRkREDlMsqk0",
+        "Result Album Name": "Ancient Power"
     },
     {
         "Title": "Roadside Magazine",
@@ -72,7 +103,12 @@
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -84,7 +120,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Take On Hamlet",
@@ -96,7 +137,12 @@
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "B. J. Liederman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Yugoslav Rebels",
@@ -114,19 +160,43 @@
         "MoWeEd Track": "Minor Blues",
         "MoWeEd Artists": [
             "Kurt Rosenwinkel"
-        ]
+        ],
+        "Result Track Name": "Minor Blues",
+        "Result Artist Names": [
+            "Kurt Rosenwinkel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7btfNlGGzQYLE13vUUChUt",
+        "Result Album Name": "The Next Step"
     },
     {
         "MoWeEd Track": "Danza d'Amore",
         "MoWeEd Artists": [
             "Bob Belden"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Mexico Union Vote",
@@ -144,7 +214,15 @@
         "MoWeEd Track": "Big Love",
         "MoWeEd Artists": [
             "Little Village"
-        ]
+        ],
+        "Result Track Name": "Big Love",
+        "Result Artist Names": [
+            "Little Village"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0JKjK5JsCQvkwpES94lPtW",
+        "Result Album Name": "Little Village"
     },
     {
         "Title": "Letters",
@@ -156,7 +234,15 @@
         "MoWeEd Track": "It Never Dawned on Me",
         "MoWeEd Artists": [
             "Teddy Wilson"
-        ]
+        ],
+        "Result Track Name": "It Never Dawned on Me - Live",
+        "Result Artist Names": [
+            "Teddy Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rvcNx5T0GVEcp58hbu37s",
+        "Result Album Name": "Memories of You"
     },
     {
         "Title": "Presidential Spotlight",
@@ -168,13 +254,26 @@
         "MoWeEd Track": "101 North",
         "MoWeEd Artists": [
             "Bob Belden"
-        ]
+        ],
+        "Result Track Name": "101 North",
+        "Result Artist Names": [
+            "Bob Belden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hbB88ttXBKZZtEJYMRKFL",
+        "Result Album Name": "Black Dahlia"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Buying George Washington's Portrait",
@@ -192,6 +291,14 @@
         "MoWeEd Track": "Elegy (City Lights, Prayer, Procession and Ascension)",
         "MoWeEd Artists": [
             "Bob Belden"
-        ]
+        ],
+        "Result Track Name": "Elegy (City Lights, Prayer, Procession And Ascension)",
+        "Result Artist Names": [
+            "Bob Belden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55oKzDG5UgNdBU9UXudhzc",
+        "Result Album Name": "Black Dahlia"
     }
 ]

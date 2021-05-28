@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-06-04",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:12:50"
+        "Scanned Date": "2021-05-27 16:12:50",
+        "Playlist URI": "1qX0lhHXwcHwvty1jhKAZL",
+        "Playlist Link": "https://open.spotify.com/playlist/1qX0lhHXwcHwvty1jhKAZL",
+        "Snapshot ID": "MSw1ZGI3N2UwMDVhNTMzYTQyY2IwMTQ2MGNiNWQ1NjZiODhmODI5NmNm",
+        "Playlist Name": "MoWeEd 2001-06-04 Mon Morning Edition"
     },
     {
         "Title": "Mideast Ceasefire",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Taxman",
         "MoWeEd Artists": [
             "Sgt. Pepper's Lonely Hearts Club Band"
-        ]
+        ],
+        "Result Track Name": "Taxman",
+        "Result Artist Names": [
+            "Sgt. Pepper's Lonely Hearts Club Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HL1HvFkYZswkL4QMh1oIH",
+        "Result Album Name": "100 More Versions of Beatles Songs"
     },
     {
         "Title": "Texas Punishment",
@@ -46,7 +58,12 @@
         "MoWeEd Track": "St. Thomas",
         "MoWeEd Artists": [
             "Phil Heywood"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chicago Schools",
@@ -65,7 +82,12 @@
         "MoWeEd Artists": [
             "Geoff Smith",
             "Nicola Walker Smith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Orbitz.com",
@@ -84,7 +106,15 @@
         "MoWeEd Artists": [
             "Béla Fleck",
             "the Flecktones"
-        ]
+        ],
+        "Result Track Name": "The Sinister Minister",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jWuNKBlgkfb3M0WDKexY8",
+        "Result Album Name": "Bela Fleck and the Flecktones"
     },
     {
         "Title": "Cokie Roberts",
@@ -102,7 +132,15 @@
         "MoWeEd Track": "East of the Moon",
         "MoWeEd Artists": [
             "David Lanz"
-        ]
+        ],
+        "Result Track Name": "East of the Moon",
+        "Result Artist Names": [
+            "David Lanz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YmKCQXrNjS8ACuo9wxgNL",
+        "Result Album Name": "East Of The Moon"
     },
     {
         "Title": "UN in Congo",
@@ -120,7 +158,15 @@
         "MoWeEd Track": "Stars And Stripes Forever",
         "MoWeEd Artists": [
             "The Nuclear Whales Saxaphone Orchestra"
-        ]
+        ],
+        "Result Track Name": "Stars and Stripes Forever",
+        "Result Artist Names": [
+            "The Nuclear Whales Saxophone Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:2BM0sGiEYZR1kQOGp0IE5I",
+        "Result Album Name": "Fathom This: A Retrospective"
     },
     {
         "Title": "Assisted Suicide",
@@ -132,7 +178,15 @@
         "MoWeEd Track": "I Feel the Winds of God Today",
         "MoWeEd Artists": [
             "Phil Keaggy"
-        ]
+        ],
+        "Result Track Name": "I Feel the Winds of God Today",
+        "Result Artist Names": [
+            "Phil Keaggy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4odrEzYFos5hsB94wguXcF",
+        "Result Album Name": "Beyond Nature"
     },
     {
         "Title": "Peruvian President",
@@ -159,6 +213,11 @@
             "Edward Witsenburg",
             "Mozart-Ensemble Amsterdam",
             "Frans Bruggen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

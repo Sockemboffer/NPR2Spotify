@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-12-21",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 15:56:58"
+        "Scanned Date": "2021-05-27 15:56:58",
+        "Playlist URI": "5MokR5ziQUI2sOMalEV2mO",
+        "Playlist Link": "https://open.spotify.com/playlist/5MokR5ziQUI2sOMalEV2mO",
+        "Snapshot ID": "MSxmZGExZjQxMWM3M2NkZTJjNTMyNzc3NWRmODE1M2Q5YjBlMGQyMjgz",
+        "Playlist Name": "MoWeEd 2001-12-21 Fri Morning Edition"
     },
     {
         "Title": "Argentina",
@@ -22,7 +26,17 @@
         "MoWeEd Track": "Rhythm Song",
         "MoWeEd Artists": [
             "Evelyn Glennie"
-        ]
+        ],
+        "Result Track Name": "Rhythm Song",
+        "Result Artist Names": [
+            "Paul Smadbeck",
+            "Evelyn Glennie",
+            "Barry Wordsworth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3uEJanHdpPO4F01BHzNxbH",
+        "Result Album Name": "Rhythm Song"
     },
     {
         "Title": "Justice Compensation",
@@ -40,7 +54,15 @@
         "MoWeEd Track": "January Stars",
         "MoWeEd Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "January Stars",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3s6Fc81W0EoRjKbguDxODA",
+        "Result Album Name": "Winter Into Spring"
     },
     {
         "Title": "Alabama Christmas",
@@ -52,7 +74,15 @@
         "MoWeEd Track": "Santa Claus Is Coming to Town",
         "MoWeEd Artists": [
             "Vince Charles"
-        ]
+        ],
+        "Result Track Name": "Santa Claus Is Coming to Town",
+        "Result Artist Names": [
+            "Vince Charles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uXz7cfbWdUYCiQbZiH8rV",
+        "Result Album Name": "Carribean Christmas"
     },
     {
         "Title": "Yee Ha! Las Vegas",
@@ -82,7 +112,15 @@
         "MoWeEd Track": "Color Naturelle (Natural Color)",
         "MoWeEd Artists": [
             "Todd Cochran"
-        ]
+        ],
+        "Result Track Name": "Colour Naturelle (Natural Color)",
+        "Result Artist Names": [
+            "Todd Cochran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oUUNYOBonKATYAqb8C5Dm",
+        "Result Album Name": "A Jazz Christmas"
     },
     {
         "Title": "Ethical Wills",
@@ -106,7 +144,15 @@
         "MoWeEd Track": "COLORS/DANCE",
         "MoWeEd Artists": [
             "GEORGE WINSTON"
-        ]
+        ],
+        "Result Track Name": "Colors / Dance",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5akz2o4JYMgDFQ6im513jQ",
+        "Result Album Name": "Autumn (Piano Solos)"
     },
     {
         "Title": "Renee Montagne Political Cartoonists",
@@ -130,6 +176,11 @@
         "MoWeEd Track": "Minor Swing",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-10-07",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:01:38"
+        "Scanned Date": "2021-05-27 16:01:38",
+        "Playlist URI": "1h6cDIYHoVESSbSbhCgBdM",
+        "Playlist Link": "https://open.spotify.com/playlist/1h6cDIYHoVESSbSbhCgBdM",
+        "Snapshot ID": "MSxjMTQzNzljMjEwMGM2M2MzZDU2NjEyY2Q4OGZkMzVlZDE4NmI5N2Ex",
+        "Playlist Name": "MoWeEd 2001-10-07 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Investigation",
@@ -35,13 +44,29 @@
         "MoWeEd Track": "Baseball",
         "MoWeEd Artists": [
             "Carla Bley"
-        ]
+        ],
+        "Result Track Name": "Baseball",
+        "Result Artist Names": [
+            "Carla Bley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QmD1Zz5bYGnHkiacYF8sO",
+        "Result Album Name": "Selected Recordings"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Supreme Court",
@@ -59,7 +84,12 @@
         "MoWeEd Track": "Dad's Letter",
         "MoWeEd Artists": [
             "Paul Dresher Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Flying",
@@ -72,7 +102,15 @@
         "MoWeEd Artists": [
             "Wayne Horvitz",
             "Four Plus One Ensemble"
-        ]
+        ],
+        "Result Track Name": "CRISPIN AND LISA'S DUET",
+        "Result Artist Names": [
+            "Wayne Horvitz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4WVbuQJzc23lMvHnjHObwr",
+        "Result Album Name": "FROM A WINDOW"
     },
     {
         "Title": "Flight for Freedom",
@@ -84,20 +122,41 @@
         "MoWeEd Track": "Autumn In New York",
         "MoWeEd Artists": [
             "Mark Whitfield"
-        ]
+        ],
+        "Result Track Name": "Autumn In New York",
+        "Result Artist Names": [
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rukM4IyDBdXWuePg9OGbX",
+        "Result Album Name": "7th Ave. Stroll"
     },
     {
         "MoWeEd Track": "Blues Dream",
         "MoWeEd Artists": [
             "Bill Frisell",
             "Dave Holland et. al."
-        ]
+        ],
+        "Result Track Name": "Blues Dream",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0OuoD830E4GKViIgK9S8Nl",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -109,7 +168,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Men's Soccer",
@@ -127,7 +191,12 @@
         "MoWeEd Track": "Weekend Edition Theme",
         "MoWeEd Artists": [
             "B. J. Liederman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Diplomacy",
@@ -145,19 +214,43 @@
         "MoWeEd Track": "Claro",
         "MoWeEd Artists": [
             "Tim Farrell"
-        ]
+        ],
+        "Result Track Name": "Claro",
+        "Result Artist Names": [
+            "Tim Farrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:61OYuaWdFxBdT7BTz1ASQ6",
+        "Result Album Name": "Songs From Clarowood"
     },
     {
         "MoWeEd Track": "Mississippi",
         "MoWeEd Artists": [
             "Claire Holley"
-        ]
+        ],
+        "Result Track Name": "Mississippi",
+        "Result Artist Names": [
+            "Claire Holley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20E9BN0uPWzBKQShc83p2l",
+        "Result Album Name": "Claire Holley"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Tajikistan",
@@ -175,7 +268,17 @@
         "MoWeEd Track": "The As Usual Dance",
         "MoWeEd Artists": [
             "Fred Frith"
-        ]
+        ],
+        "Result Track Name": "The As Usual Dance Towards the Other Flight",
+        "Result Artist Names": [
+            "Jean-Louis Marchand",
+            "Christophe Rieger",
+            "Fred Frith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40JTRX4iakS2hVtmatLtCs",
+        "Result Album Name": "Les métronomes détraqués"
     },
     {
         "Title": "Marty O'Hagan",
@@ -187,7 +290,15 @@
         "MoWeEd Track": "Nightside",
         "MoWeEd Artists": [
             "Philip Boulding"
-        ]
+        ],
+        "Result Track Name": "Nightside",
+        "Result Artist Names": [
+            "Philip Boulding"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vRwoafSuvNbfKBfDppAjm",
+        "Result Album Name": "Harp"
     },
     {
         "Title": "Letters",
@@ -199,19 +310,40 @@
         "MoWeEd Track": "Permanence",
         "MoWeEd Artists": [
             "Very Secretary"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sleep, Sleep",
         "MoWeEd Artists": [
             "Claire Holley"
-        ]
+        ],
+        "Result Track Name": "Sleep, Sleep",
+        "Result Artist Names": [
+            "Claire Holley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fgLIhVvm0xwo4KmKxMotl",
+        "Result Album Name": "Claire Holley"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Art to Las Vegas",
@@ -229,6 +361,14 @@
         "MoWeEd Track": "In the Bounty (Reprise)",
         "MoWeEd Artists": [
             "Claire Holley"
-        ]
+        ],
+        "Result Track Name": "In the Bounty (Reprise)",
+        "Result Artist Names": [
+            "Claire Holley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PkN4oSPEF05PIzvFETabz",
+        "Result Album Name": "Sanctuary"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-11-12",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 15:58:56"
+        "Scanned Date": "2021-05-27 15:58:56",
+        "Playlist URI": "4rR0MaKe5cnnCe9zjOh0d7",
+        "Playlist Link": "https://open.spotify.com/playlist/4rR0MaKe5cnnCe9zjOh0d7",
+        "Snapshot ID": "MSxlMDUxYjU2NTQ4OThjMDgzNTQ5OTQ0NmYwZTMxYzIzMWIwNjA4M2U1",
+        "Playlist Name": "MoWeEd 2001-11-12 Mon Morning Edition"
     },
     {
         "Title": "Afghanistan",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Tango Sensations: Fear [#]",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S.-Palestine",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "I Saw Three Ships",
         "MoWeEd Artists": [
             "Darol Anger"
-        ]
+        ],
+        "Result Track Name": "I Saw Three Ships",
+        "Result Artist Names": [
+            "Darol Anger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1xUrXUDKUmeMf8u0Uxl2Bp",
+        "Result Album Name": "A Winter Solstice Reunion"
     },
     {
         "Title": "Mandela in U.S.",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Blue Orleans",
         "MoWeEd Artists": [
             "Michael Manring"
-        ]
+        ],
+        "Result Track Name": "Blue Orleans",
+        "Result Artist Names": [
+            "Michael Carubia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3uoy0RDNDxKoCzferGlBE6",
+        "Result Album Name": "Jazzmania"
     },
     {
         "Title": "NYC Community Service",
@@ -71,7 +96,17 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Recording Arts Orchestra Of Los Angeles"
-        ]
+        ],
+        "Result Track Name": "American Collection Theme - Extended Version",
+        "Result Artist Names": [
+            "John Williams",
+            "Yo-Yo Ma",
+            "Recording Artists Orchestra of Los Angeles"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:14p8BlsEx8FsE5BUBuh1qU",
+        "Result Album Name": "Classic Yo-Yo"
     },
     {
         "Title": "Credit",
@@ -91,7 +126,18 @@
             "Christopher Kite",
             "The Hanover Band",
             "Roy Goodman"
-        ]
+        ],
+        "Result Track Name": "Piano Concerto No. 20 in D Minor, K. 466: II. Romance",
+        "Result Artist Names": [
+            "Wolfgang Amadeus Mozart",
+            "Christopher Kite",
+            "Roy Goodman",
+            "Hanover Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:75CuNjK8OKBgTHESJycOUO",
+        "Result Album Name": "A Portrait of Mozart"
     },
     {
         "Title": "Cokie Roberts",
@@ -110,7 +156,12 @@
         "MoWeEd Artists": [
             "Vladimir Spivako",
             "Arkady Futer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Patriots or Polar Bears",
@@ -130,7 +181,12 @@
             "Rascher Saxophone Quartet",
             "Stuttgart Chamber Orchestra",
             "Dennis Russell Davies"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Columbia Political Strife",
@@ -142,7 +198,15 @@
         "MoWeEd Track": "Lazy Susan",
         "MoWeEd Artists": [
             "Larry Carlton"
-        ]
+        ],
+        "Result Track Name": "Lazy Susan",
+        "Result Artist Names": [
+            "Larry Carlton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nx0wkbKTVWQBdnmUSGpGr",
+        "Result Album Name": "The Warner Albums"
     },
     {
         "Title": "Coleman Barks Translates Works by Rumi",
@@ -154,7 +218,12 @@
         "MoWeEd Track": "Voluntary Dreaming",
         "MoWeEd Artists": [
             "Barry Cleveland"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Drug Tests",

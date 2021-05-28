@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-05-07",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:16:00"
+        "Scanned Date": "2021-05-27 16:16:00",
+        "Playlist URI": "10KHHQDYVjnzFLb5FBlNAN",
+        "Playlist Link": "https://open.spotify.com/playlist/10KHHQDYVjnzFLb5FBlNAN",
+        "Snapshot ID": "MSxmMjc5ZTIzY2UyNjlhMzYxMTM1YjMzZDY2Yjg2NDBhYzA3YWU3Yzk1",
+        "Playlist Name": "MoWeEd 2001-05-07 Mon Morning Edition"
     },
     {
         "Title": "Israeli Incursion",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Tony Bennett",
         "MoWeEd Artists": [
             "Richard Leo Johnson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Torricelli Scandal",
@@ -34,7 +43,12 @@
         "MoWeEd Track": "Red Drum",
         "MoWeEd Artists": [
             "Janet Feder"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "French Sandwiches",
@@ -46,7 +60,15 @@
         "MoWeEd Track": "Anna Kournikova",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Anna Kournikova",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Vr0hX690Db6EeAoGRGeFa",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "USS Cabot",
@@ -59,7 +81,12 @@
         "MoWeEd Artists": [
             "Eliza Garth",
             "Rolf Schulte"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Refinancing",
@@ -71,7 +98,15 @@
         "MoWeEd Track": "After Love",
         "MoWeEd Artists": [
             "Randy Brecker"
-        ]
+        ],
+        "Result Track Name": "After Love",
+        "Result Artist Names": [
+            "Randy Brecker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iJTFqZbN43he6tk2Pfr2j",
+        "Result Album Name": "Into The Sun"
     },
     {
         "Title": "Cokie Roberts",
@@ -89,7 +124,15 @@
         "MoWeEd Track": "Samba D Hiccup",
         "MoWeEd Artists": [
             "Guy Klucevsek"
-        ]
+        ],
+        "Result Track Name": "Samba D Hiccup",
+        "Result Artist Names": [
+            "Guy Klucevsek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3arBPgDXCqMSfymMxwnAEV",
+        "Result Album Name": "The Composer-Performer"
     },
     {
         "Title": "Endangered Species",
@@ -101,7 +144,15 @@
         "MoWeEd Track": "The Stone Warriors",
         "MoWeEd Artists": [
             "Chris Spheeris"
-        ]
+        ],
+        "Result Track Name": "The Stone Warriors",
+        "Result Artist Names": [
+            "Chris Spheeris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55PLzt9ZDof3Mw6T3BpAbN",
+        "Result Album Name": "Mystic Traveller"
     },
     {
         "Title": "White House T-Ball",
@@ -113,7 +164,12 @@
         "MoWeEd Track": "Desert Wind",
         "MoWeEd Artists": [
             "Van Manakas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Angolian Rebels",
@@ -131,7 +187,12 @@
         "MoWeEd Track": "The Postman Always Rings Twice: Main Title",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Student Essays",
@@ -143,6 +204,14 @@
         "MoWeEd Track": "Evidence",
         "MoWeEd Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Evidence",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21AzbHjbRfJxcBePgzHKbL",
+        "Result Album Name": "Doin' Something"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-08-20",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:08:42"
+        "Scanned Date": "2021-05-27 16:08:42",
+        "Playlist URI": "38O0XZblKLT2vtTzpwMy4q",
+        "Playlist Link": "https://open.spotify.com/playlist/38O0XZblKLT2vtTzpwMy4q",
+        "Snapshot ID": "MSw5ODRiMDk2OGE5NjkyMzMyZmQ0YjVmZjIwZWE2YWZjMjhhMWExMmQ1",
+        "Playlist Name": "MoWeEd 2001-08-20 Mon Morning Edition"
     },
     {
         "Title": "Middle East",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Folk Prayer",
         "MoWeEd Artists": [
             "Cello"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nyc Political Alliance",
@@ -34,7 +43,12 @@
         "MoWeEd Track": "Aint No Sunshine",
         "MoWeEd Artists": [
             "Miltenberger Jazz Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Donald Woods Obit",
@@ -46,7 +60,15 @@
         "MoWeEd Track": "ALMOST 12",
         "MoWeEd Artists": [
             "BELA FLECK AND THE FLECKTONES"
-        ]
+        ],
+        "Result Track Name": "Almost 12",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1uoZKu1mDHe1LUsbamdqqU",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "The Dave Nemo Radio Show",
@@ -65,7 +87,15 @@
         "MoWeEd Artists": [
             "Jim Henry",
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "I Think It's Going to Work Out Fine",
+        "Result Artist Names": [
+            "Jim Henry & Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZwVWB7lO6bImytdEA1fvp",
+        "Result Album Name": "Ring Some Changes"
     },
     {
         "Title": "Cokie Roberts",
@@ -83,7 +113,15 @@
         "MoWeEd Track": "Frenzy at the Feeder",
         "MoWeEd Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Frenzy at the Feeder",
+        "Result Artist Names": [
+            "Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17GhxERIWgDc8YUFZHNHkm",
+        "Result Album Name": "Little Lion"
     },
     {
         "Title": "Utah Liquor",
@@ -101,7 +139,12 @@
         "MoWeEd Track": "Ripplin",
         "MoWeEd Artists": [
             "Pat Kirtley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pga Ends",
@@ -113,7 +156,15 @@
         "MoWeEd Track": "Phoenix 90",
         "MoWeEd Artists": [
             "Didier Lockwood"
-        ]
+        ],
+        "Result Track Name": "Phoenix 90",
+        "Result Artist Names": [
+            "Didier Lockwood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XMjj2E5lYpVHrWahEie7g",
+        "Result Album Name": "Phoenix 90"
     },
     {
         "Title": "Diluted Drugs",
@@ -131,7 +182,12 @@
         "MoWeEd Track": "Voyage for Ireland",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Band Of Outsiders'",
@@ -143,6 +199,17 @@
         "MoWeEd Track": "Spoon-A-Rhythm",
         "MoWeEd Artists": [
             "Laurent de Wilde"
-        ]
+        ],
+        "Result Track Name": "Spoon-a-Rhythm",
+        "Result Artist Names": [
+            "Laurent De Wilde",
+            "Ira Coleman",
+            "Dion Parson",
+            "Bobby Thomas Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39QMacLSHEHU0wulR0MnEv",
+        "Result Album Name": "Spoon-a-Rhythm"
     }
 ]

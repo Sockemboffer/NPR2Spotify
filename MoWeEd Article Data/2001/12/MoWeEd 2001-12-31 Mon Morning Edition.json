@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-12-31",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 15:57:48"
+        "Scanned Date": "2021-05-27 15:57:48",
+        "Playlist URI": "7iCjA1rU86ffaCdhagjMym",
+        "Playlist Link": "https://open.spotify.com/playlist/7iCjA1rU86ffaCdhagjMym",
+        "Snapshot ID": "MSw1NzAyMThjZjY3ZDJjZGQzODIxYjQ5NjZlOTcyZTEzOTk1YzRiOTNm",
+        "Playlist Name": "MoWeEd 2001-12-31 Mon Morning Edition"
     },
     {
         "Title": "The War",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "3+3+3+3+2+2",
         "MoWeEd Artists": [
             "3 Leg Torso"
-        ]
+        ],
+        "Result Track Name": "3+3+3+3+2+2",
+        "Result Artist Names": [
+            "3 Leg Torso"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SDfhYtwPDAs4R6FSH0eV7",
+        "Result Album Name": "3 Leg Torso"
     },
     {
         "MoWeEd Track": "Wintertime",
         "MoWeEd Artists": [
             "Gilbert Isbin with Cameron Brown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bowl Games",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Auld Lang Syne",
         "MoWeEd Artists": [
             "John Fahey"
-        ]
+        ],
+        "Result Track Name": "Auld Lang Syne - Instrumental",
+        "Result Artist Names": [
+            "John Fahey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20UsHi18ph1JmfeUmx9YGT",
+        "Result Album Name": "The New Possibility: John Fahey's Guitar Soli Christmas Album/Christmas With John Fahey, Vol. II"
     },
     {
         "Title": "Anthrax Confusion",
@@ -58,13 +83,30 @@
         "MoWeEd Track": "Shakedown",
         "MoWeEd Artists": [
             "Four80East"
-        ]
+        ],
+        "Result Track Name": "Shakedown",
+        "Result Artist Names": [
+            "Four80East"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bGfIHxqEESJVMsGVGP5ts",
+        "Result Album Name": "Nocturnal"
     },
     {
         "MoWeEd Track": "Lonely Hours",
         "MoWeEd Artists": [
             "Ottmar Liebert"
-        ]
+        ],
+        "Result Track Name": "Lonely Hours - Digitally Remastered 1999",
+        "Result Artist Names": [
+            "Ottmar Liebert",
+            "Gary Lyons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oPJ5yrxjicVwGqy9fUTTe",
+        "Result Album Name": "Nouveau Flamenco (1990-2000 Special Tenth Anniversary Edition)"
     },
     {
         "Title": "New York City Memorials",
@@ -82,7 +124,12 @@
         "MoWeEd Track": "Clarinet Yontev",
         "MoWeEd Artists": [
             "The Klezmatics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Market Wrap",
@@ -94,7 +141,15 @@
         "MoWeEd Track": "Harlem Nocturne",
         "MoWeEd Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Harlem Nocturne",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wdIEbrEvcHMiOcLPcMkF4",
+        "Result Album Name": "Cruisin' Deuces"
     },
     {
         "Title": "India and Pakistan",
@@ -112,13 +167,26 @@
         "MoWeEd Track": "Rondo mit Mozart",
         "MoWeEd Artists": [
             "The Cumberland Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Slapstick",
         "MoWeEd Artists": [
             "John Orlando"
-        ]
+        ],
+        "Result Track Name": "Slapstick",
+        "Result Artist Names": [
+            "John Orlando"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Q26mEByFSXjFtej3cdCzi",
+        "Result Album Name": "Drum Songs"
     },
     {
         "Title": "Argentine President",
@@ -136,7 +204,15 @@
         "MoWeEd Track": "Stairs",
         "MoWeEd Artists": [
             "David Pritchard"
-        ]
+        ],
+        "Result Track Name": "Stairs",
+        "Result Artist Names": [
+            "David Pritchard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43G5Ak11oyRswhC22lU1av",
+        "Result Album Name": "Unassigned Territory"
     },
     {
         "Title": "Holiday Sales Finale",
@@ -151,7 +227,16 @@
             "Dennis",
             "Crombie",
             "Stuart"
-        ]
+        ],
+        "Result Track Name": "Bargains Galore",
+        "Result Artist Names": [
+            "Dennis Berry",
+            "Stuart Crombie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6s90nCPY0Y24sUARjlCbKO",
+        "Result Album Name": "Archives 5 - 1940s and 1950s"
     },
     {
         "Title": "Wisconsin Restaurant",
@@ -169,14 +254,28 @@
         "MoWeEd Track": "Reclamation",
         "MoWeEd Artists": [
             "Billy Taylor Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Smile",
         "MoWeEd Artists": [
             "Toots Thielemans",
             "Kenny Werner"
-        ]
+        ],
+        "Result Track Name": "Smile",
+        "Result Artist Names": [
+            "Toots Thielemans",
+            "Kenny Werner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1j8v9ltVa3bLJ1j7s8ldLs",
+        "Result Album Name": "Toots Thielemans & Kenny Werner"
     },
     {
         "Title": "Muslim Comic",
@@ -188,6 +287,11 @@
         "MoWeEd Track": "R.P.D.D.",
         "MoWeEd Artists": [
             "Steve Khan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

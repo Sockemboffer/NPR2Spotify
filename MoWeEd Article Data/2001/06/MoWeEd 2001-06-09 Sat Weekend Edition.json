@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-06-09",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:13:20"
+        "Scanned Date": "2021-05-27 16:13:20",
+        "Playlist URI": "2DOcsFGFZEeGbIG6GTAf07",
+        "Playlist Link": "https://open.spotify.com/playlist/2DOcsFGFZEeGbIG6GTAf07",
+        "Snapshot ID": "MSxiMDRhMTNhZjEzMGEzOGZhNDE3ODdhOGM3MTgwOGM3YjY5NjAzZGQ2",
+        "Playlist Name": "MoWeEd 2001-06-09 Sat Weekend Edition"
     },
     {
         "Title": "Iranian Elections",
@@ -23,14 +27,24 @@
         "MoWeEd Artists": [
             "Julian Gray",
             "Ronald Pearl"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Nana",
         "MoWeEd Artists": [
             "Bossacucanova",
             "Roberto Menescal"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Electricity Price Drop",
@@ -60,14 +74,35 @@
         "MoWeEd Track": "Trumpet Concerto in E flat major, H. 7e/1",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Haydn: Trumpet Concerto in E flat major, H. 7e/1: II. Andante",
+        "Result Artist Names": [
+            "Franz Joseph Haydn",
+            "Helmut Wobisch",
+            "Antonio Janigro",
+            "Adolf Holler",
+            "Anton Heiller",
+            "I Solisti di Zagreb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zlf7oT8ct27Hie17bxm0l",
+        "Result Album Name": "Big Baroque Box, Vol III"
     },
     {
         "MoWeEd Track": "In the Grip of Stronger Stuff",
         "MoWeEd Artists": [
             "Ian Anderson",
             "Andy Giddings"
-        ]
+        ],
+        "Result Track Name": "In The Grip Of Stronger Stuff",
+        "Result Artist Names": [
+            "Ian Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7mxHGV6IWLtEDkDq6VD928",
+        "Result Album Name": "Ian Anderson Plays The Orchestral Jethro Tull"
     },
     {
         "Title": "Merle Haggard",
@@ -91,13 +126,27 @@
         "MoWeEd Track": "Mysterious Habitats (Jazz Sonatina)",
         "MoWeEd Artists": [
             "Dusan Bogdanovic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Je te veux (Valse pour piano)",
         "MoWeEd Artists": [
             "Peter Dickinson"
-        ]
+        ],
+        "Result Track Name": "Je te veux (Valse Pour Piano)",
+        "Result Artist Names": [
+            "Erik Satie",
+            "Peter Dickinson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:552h6BDSyO6xpR6F5qFG18",
+        "Result Album Name": "French Piano and Choral Music"
     },
     {
         "Title": "Child Support",
@@ -121,7 +170,12 @@
         "MoWeEd Track": "That's The Question",
         "MoWeEd Artists": [
             "The Harper Brothers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ali-Frazier",
@@ -139,14 +193,28 @@
         "MoWeEd Track": "Sonata No. 4 in G Major",
         "MoWeEd Artists": [
             "David Schrader"
-        ]
+        ],
+        "Result Track Name": "Keyboard Sonata No. 4 in G Major",
+        "Result Artist Names": [
+            "Antonio Soler",
+            "David Schrader"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1F7ndQelugzyoBj1Q2N1ja",
+        "Result Album Name": "Soler: Keyboard Sonatas / Fandango, Vol. 1"
     },
     {
         "MoWeEd Track": "Reflection",
         "MoWeEd Artists": [
             "BBC Concert Orchestra",
             "London Voices et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<i>A Bean of a Different Color</i>",
@@ -158,6 +226,11 @@
         "MoWeEd Track": "The Underground",
         "MoWeEd Artists": [
             "Don't Be Scared Anymore"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

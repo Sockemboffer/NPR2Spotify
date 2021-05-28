@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-11-11",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 15:58:51"
+        "Scanned Date": "2021-05-27 15:58:51",
+        "Playlist URI": "74NCTv98iKnCgaKsML18FD",
+        "Playlist Link": "https://open.spotify.com/playlist/74NCTv98iKnCgaKsML18FD",
+        "Snapshot ID": "MSwzMGU5YjczMzM4ODUyNTliOGNlMTVkZjQwNzRiYTc4Y2ZkOWM0N2Uz",
+        "Playlist Name": "MoWeEd 2001-11-11 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The War",
@@ -35,19 +44,40 @@
         "MoWeEd Track": "Felucca",
         "MoWeEd Artists": [
             "Pullman"
-        ]
+        ],
+        "Result Track Name": "Felucca",
+        "Result Artist Names": [
+            "Pullman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zrVEa34luvEveOVQb4NxS",
+        "Result Album Name": "Viewfinder"
     },
     {
         "MoWeEd Track": "Total Logic",
         "MoWeEd Artists": [
             "Jerry Goldsmith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "WTO and China",
@@ -72,7 +102,15 @@
         "MoWeEd Artists": [
             "Leon Mcauliffe",
             "His Western Swing Band"
-        ]
+        ],
+        "Result Track Name": "Blue Guitar Stomp",
+        "Result Artist Names": [
+            "Leon McAuliffe & His Western Swing Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2j2xBeJoxuiOXBhWlWBF54",
+        "Result Album Name": "Hillibilly Boogie!"
     },
     {
         "Title": "Pro-Anorexia Websites",
@@ -84,19 +122,37 @@
         "MoWeEd Track": "Pretty [Remix]",
         "MoWeEd Artists": [
             "The Cranberries"
-        ]
+        ],
+        "Result Track Name": "Pretty",
+        "Result Artist Names": [
+            "The Cranberries"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mYYGTwbUFiSfCNute5tgu",
+        "Result Album Name": "Everybody Else Is Doing It, So Why Can't We? (Super Deluxe)"
     },
     {
         "MoWeEd Track": "Kabalogy",
         "MoWeEd Artists": [
             "Hasidic New Wave"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -108,7 +164,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>Star Trek: The Motion Picture</I>",
@@ -120,7 +181,15 @@
         "MoWeEd Track": "Main Title",
         "MoWeEd Artists": [
             "Jerry Goldsmith"
-        ]
+        ],
+        "Result Track Name": "Main Title",
+        "Result Artist Names": [
+            "Jerry Goldsmith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62irSJnYNj3rKPFT6psxEV",
+        "Result Album Name": "Rudy (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Pakistan",
@@ -138,20 +207,44 @@
         "MoWeEd Track": "The Roots of Coincidence",
         "MoWeEd Artists": [
             "Pat Metheny Group"
-        ]
+        ],
+        "Result Track Name": "The Roots of Coincidence",
+        "Result Artist Names": [
+            "Pat Metheny Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4RSVaT769OstCHABytr1m7",
+        "Result Album Name": "Imaginary Day"
     },
     {
         "MoWeEd Track": "Main Theme",
         "MoWeEd Artists": [
             "Michael Kamen",
             "London Metropolitan Orchestra"
-        ]
+        ],
+        "Result Track Name": "Main Theme – Hope",
+        "Result Artist Names": [
+            "London Metropolitan Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:0N8AYHEc1KLpsdG2eVWXFF",
+        "Result Album Name": "And When Did You Last See Your Father?"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Aboard the Enterprise",
@@ -163,7 +256,12 @@
         "MoWeEd Track": "After All",
         "MoWeEd Artists": [
             "Muthspiel Peacock Muthspiel Motian"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hollywood and War",
@@ -181,20 +279,45 @@
         "MoWeEd Track": "Schoolin",
         "MoWeEd Artists": [
             "ModeReko"
-        ]
+        ],
+        "Result Track Name": "Schoolin'",
+        "Result Artist Names": [
+            "ModeReko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0I04A5XB82vVnjfx5gw8zM",
+        "Result Album Name": "ModeReko"
     },
     {
         "MoWeEd Track": "The Breaking Point: Buck in Hospital",
         "MoWeEd Artists": [
             "Michael Kamen",
             "London Metropolitan Orchestra"
-        ]
+        ],
+        "Result Track Name": "Buck In Hospital - Instrumental",
+        "Result Artist Names": [
+            "Michael Kamen",
+            "London Metropolitan Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6fglDjrMIxq4ly7DT654tr",
+        "Result Album Name": "Band of Brothers - Original Motion Picture Soundtrack"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "<I>We Stand Alone Together</I>",
@@ -207,6 +330,14 @@
         "MoWeEd Artists": [
             "Michael Kamen",
             "London Metropolitan Orchestra"
-        ]
+        ],
+        "Result Track Name": "Main Theme – Hope",
+        "Result Artist Names": [
+            "London Metropolitan Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:0N8AYHEc1KLpsdG2eVWXFF",
+        "Result Album Name": "And When Did You Last See Your Father?"
     }
 ]

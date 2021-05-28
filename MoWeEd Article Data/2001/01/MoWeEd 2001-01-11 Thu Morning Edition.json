@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-11",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:26:59"
+        "Scanned Date": "2021-05-27 16:26:59",
+        "Playlist URI": "5WCqxGz5DIz5LKKdl8XhOf",
+        "Playlist Link": "https://open.spotify.com/playlist/5WCqxGz5DIz5LKKdl8XhOf",
+        "Snapshot ID": "MSw2NjA0MTk0ZGU0YjU5MGFlMmYxZjYzMzQ4ODdhOTY4MmZhOWZhMzNm",
+        "Playlist Name": "MoWeEd 2001-01-11 Thu Morning Edition"
     },
     {
         "Title": "Florida Civil Suit",
@@ -22,14 +26,27 @@
         "MoWeEd Track": "Nobody Else But Me",
         "MoWeEd Artists": [
             "Mike Turk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Pony Blues",
         "MoWeEd Artists": [
             "Mike Henderson",
             "The Bluebloods"
-        ]
+        ],
+        "Result Track Name": "Pony Blues",
+        "Result Artist Names": [
+            "Mike Henderson and the Bluebloods"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5l5rv5bf1pFuHJtoKTGq0k",
+        "Result Album Name": "First Blood"
     },
     {
         "Title": "Gun Safety in Schools",
@@ -47,7 +64,15 @@
         "MoWeEd Track": "Two Against Nature",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Two Against Nature",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2C3Gjo4k42nkHMqWZSnWqM",
+        "Result Album Name": "Two Against Nature"
     },
     {
         "Title": "New Interior Secratary",
@@ -65,7 +90,12 @@
         "MoWeEd Track": "Samboa",
         "MoWeEd Artists": [
             "Kenny Barron"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fighting Viruses",
@@ -77,7 +107,12 @@
         "MoWeEd Track": "Gazer = (Shoe)(STR)2 + Be",
         "MoWeEd Artists": [
             "The Dylan Group"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Public School Study",
@@ -95,7 +130,16 @@
         "MoWeEd Track": "Trio in E Minor, Op. 90: Allegro",
         "MoWeEd Artists": [
             "Golub Kaplan Carr Trio"
-        ]
+        ],
+        "Result Track Name": "Trio In E Minor, Op. 90 - Dumky: IV. Allegro",
+        "Result Artist Names": [
+            "Antonín Dvořák",
+            "Golub Kaplan Carr Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wqs8CdQ2DegOD5ZEXJoUD",
+        "Result Album Name": "Dvořák: The Piano Trios"
     },
     {
         "Title": "Lockerbie Bombing",
@@ -113,7 +157,12 @@
         "MoWeEd Track": "Gammal Brollopspolska",
         "MoWeEd Artists": [
             "xxx"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Undercounting Utah",
@@ -125,7 +174,15 @@
         "MoWeEd Track": "Fiesta",
         "MoWeEd Artists": [
             "Lalo Schifrin"
-        ]
+        ],
+        "Result Track Name": "Fiesta",
+        "Result Artist Names": [
+            "Lalo Schifrin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PCSCXT8A8R89533OpoKIg",
+        "Result Album Name": "Latin Jazz Suite"
     },
     {
         "Title": "Texas Black Gold",
@@ -144,7 +201,17 @@
         "MoWeEd Artists": [
             "Biller",
             "Wakefield"
-        ]
+        ],
+        "Result Track Name": "The Wandering Texan",
+        "Result Artist Names": [
+            "Dave Biller",
+            "Jeremy Wakefield",
+            "Carl Sonny Leyland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6r8YwqimiHNoY5mFAkOGJO",
+        "Result Album Name": "The Hot Guitars Of Biller And Wakefield"
     },
     {
         "Title": "Diet Talk",
@@ -162,6 +229,11 @@
         "MoWeEd Track": "I'll See You In My Dreams",
         "MoWeEd Artists": [
             "Dick Hyman Group Featuring Howard Alden"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-09-25",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:06:33"
+        "Scanned Date": "2021-05-27 16:06:33",
+        "Playlist URI": "2abU4OxxWbSNMd2v96Joz4",
+        "Playlist Link": "https://open.spotify.com/playlist/2abU4OxxWbSNMd2v96Joz4",
+        "Snapshot ID": "MSxkNGJiNDRlZTRjOTAwZjQ4YTNjOTcxMzAyODdkOTZkNTI1NzU4NTdh",
+        "Playlist Name": "MoWeEd 2001-09-25 Tue Morning Edition"
     },
     {
         "Title": "Pakistan",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Cool Weasel Boogie",
         "MoWeEd Artists": [
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New York Charities",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Melissa and Men",
         "MoWeEd Artists": [
             "W.g. Walden"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Professional Athletes Respond",
@@ -53,7 +67,17 @@
         "MoWeEd Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Travis - Instrumental",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Edgar Meyer",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BE1aVwONT8JfQzhBFve8k",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "Title": "Lewis & Clark",
@@ -66,7 +90,17 @@
         "MoWeEd Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Travis - Instrumental",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Edgar Meyer",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BE1aVwONT8JfQzhBFve8k",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "Title": "Tourism Slump",
@@ -78,7 +112,15 @@
         "MoWeEd Track": "In Walked Bud",
         "MoWeEd Artists": [
             "Fred Hersch"
-        ]
+        ],
+        "Result Track Name": "In Walked Bud",
+        "Result Artist Names": [
+            "Fred Hersch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18xyPjuNMaIEW4sPHRpoRi",
+        "Result Album Name": "Solo"
     },
     {
         "Title": "Consumer Spending",
@@ -102,7 +144,15 @@
         "MoWeEd Track": "Back to the Light",
         "MoWeEd Artists": [
             "Bruce Kaphan"
-        ]
+        ],
+        "Result Track Name": "Back to the Light",
+        "Result Artist Names": [
+            "Bruce Kaphan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KRhRGN0gguvFL8QghoEgH",
+        "Result Album Name": "Slider- Ambient Excursions for Pedal Steel Guitar"
     },
     {
         "Title": "Senate Anti-terrorism Bill",
@@ -120,7 +170,15 @@
         "MoWeEd Track": "Shoot the Loop",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Shoot The Loop",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7s9jtsrTG1LlPtMY90PEyh",
+        "Result Album Name": "The Very Best Of Acoustic Alchemy"
     },
     {
         "Title": "British to Iran",
@@ -132,7 +190,18 @@
         "MoWeEd Track": "Concerto for harp & string orchestra, Op. 267",
         "MoWeEd Artists": [
             "Yolanda Kondonassis"
-        ]
+        ],
+        "Result Track Name": "Concerto for Harp & String Orchestra, Op. 267: V. Adagio",
+        "Result Artist Names": [
+            "Alan Hovhaness",
+            "Yolanda Kondonassis",
+            "Rudolf Werthen",
+            "I Fiamminghi (The Orchestra of Flanders)"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wEK5ecy76WUIepnMgkRic",
+        "Result Album Name": "Music of Hovhaness"
     },
     {
         "Title": "Racial Profiling",
@@ -150,7 +219,15 @@
         "MoWeEd Track": "Tim Time",
         "MoWeEd Artists": [
             "Larry Pattis"
-        ]
+        ],
+        "Result Track Name": "Tim Time",
+        "Result Artist Names": [
+            "Larry Pattis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rlaNnCoTEIxM1vlLHYwR7",
+        "Result Album Name": "Random Chance"
     },
     {
         "Title": "Small Town Copes",
@@ -164,6 +241,11 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

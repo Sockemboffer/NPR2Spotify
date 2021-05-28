@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-08-12",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:08:02"
+        "Scanned Date": "2021-05-27 16:08:02",
+        "Playlist URI": "4LxgVZS9z1leQv3P03D95p",
+        "Playlist Link": "https://open.spotify.com/playlist/4LxgVZS9z1leQv3P03D95p",
+        "Snapshot ID": "MSwxYTc2MmRkMTVhNjk0YjVlOTRlZDUzMWIzOWQwY2M2ZDM4MTdiYzdk",
+        "Playlist Name": "MoWeEd 2001-08-12 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Religion & Stem Cells",
@@ -36,13 +45,26 @@
         "MoWeEd Artists": [
             "Pullman",
             "Ken Brown"
-        ]
+        ],
+        "Result Track Name": "Bookends",
+        "Result Artist Names": [
+            "Pullman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0nspcQryM3NETnU21xKOJp",
+        "Result Album Name": "Viewfinder"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cloning the Trees of Mount Vernon",
@@ -61,7 +83,16 @@
         "MoWeEd Artists": [
             "Carla Bley",
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Ad Infinitum",
+        "Result Artist Names": [
+            "Carla Bley",
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ckj3KRSPZwGmaSXH5CNwM",
+        "Result Album Name": "Go Together"
     },
     {
         "Title": "Vacation Musings",
@@ -73,7 +104,15 @@
         "MoWeEd Track": "Vacation",
         "MoWeEd Artists": [
             "Go-go's"
-        ]
+        ],
+        "Result Track Name": "Vacation",
+        "Result Artist Names": [
+            "The Go-Go's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oc7YoWV783fGr2GbdcIrz",
+        "Result Album Name": "Vacation"
     },
     {
         "Title": "Lorenzo Music Remembered",
@@ -85,13 +124,26 @@
         "MoWeEd Track": "Power of Denial",
         "MoWeEd Artists": [
             "Thomas Newman"
-        ]
+        ],
+        "Result Track Name": "Power of Denial",
+        "Result Artist Names": [
+            "Thomas Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nhvEAZEqh7GCA1GnyU8qT",
+        "Result Album Name": "American Beauty (Original Motion Picture Score)"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -103,7 +155,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Metric Martyrs",
@@ -133,19 +190,44 @@
         "MoWeEd Track": "The Wraith",
         "MoWeEd Artists": [
             "E.S.T."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Klezdrix",
         "MoWeEd Artists": [
             "David Krakauer"
-        ]
+        ],
+        "Result Track Name": "Klezdrix",
+        "Result Artist Names": [
+            "David Krakauer",
+            "Nicky Parott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3djUaVmT1Ea2utvlOP3jpz",
+        "Result Album Name": "A New Hot One"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Algerian Economy",
@@ -164,7 +246,16 @@
         "MoWeEd Artists": [
             "Carla Bley",
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Masquerade In 3 Parts: Carnation, Dark Glasses, Mustache",
+        "Result Artist Names": [
+            "Carla Bley",
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2niJnmApozD26E14U4Ad4b",
+        "Result Album Name": "Go Together"
     },
     {
         "Title": "Holocaust Ads Story Update",
@@ -176,7 +267,15 @@
         "MoWeEd Track": "From Music for Bill & Me",
         "MoWeEd Artists": [
             "Lou Harrison"
-        ]
+        ],
+        "Result Track Name": "From Music For Bill & Me",
+        "Result Artist Names": [
+            "Lou Harrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bVgcDkiPNkk1967y05jRW",
+        "Result Album Name": "The Perilous Chapel"
     },
     {
         "Title": "Letters",
@@ -188,7 +287,15 @@
         "MoWeEd Track": "Hot Barbecue",
         "MoWeEd Artists": [
             "Jack McDuff"
-        ]
+        ],
+        "Result Track Name": "Hot Barbeque",
+        "Result Artist Names": [
+            "Jack McDuff"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5tVbSuYyDaGCJjRBmXquNZ",
+        "Result Album Name": "The Prestige Years"
     },
     {
         "Title": "Laundromat",
@@ -200,19 +307,37 @@
         "MoWeEd Track": "Chicken Smoked Blanket",
         "MoWeEd Artists": [
             "Pullman"
-        ]
+        ],
+        "Result Track Name": "Chicken Smoked Blanket",
+        "Result Artist Names": [
+            "Pullman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ldDZYG1haCq4ANobIMJMD",
+        "Result Album Name": "Viewfinder"
     },
     {
         "MoWeEd Track": "A Simcha Gone Made Medley",
         "MoWeEd Artists": [
             "David Krakauer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Squished Penny Museum",
@@ -224,7 +349,15 @@
         "MoWeEd Track": "Memories of a Color",
         "MoWeEd Artists": [
             "Stina Nordenstam"
-        ]
+        ],
+        "Result Track Name": "Memories of a Color",
+        "Result Artist Names": [
+            "Stina Nordenstam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gr2XfoMNFJv14mhe2gcuS",
+        "Result Album Name": "Memories of a Color"
     },
     {
         "Title": "Bra Balls",
@@ -236,7 +369,15 @@
         "MoWeEd Track": "He Watches Her From Behind",
         "MoWeEd Artists": [
             "Stina Nordenstam"
-        ]
+        ],
+        "Result Track Name": "He Watches Her From Behind",
+        "Result Artist Names": [
+            "Stina Nordenstam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5omvAagaOrvzuHUxBw7Vdg",
+        "Result Album Name": "Memories of a Color"
     },
     {
         "Title": "David Krakauer",
@@ -248,6 +389,14 @@
         "MoWeEd Track": "Love Song for Lemberg / Lvov",
         "MoWeEd Artists": [
             "David Krakauer"
-        ]
+        ],
+        "Result Track Name": "Love Song for Lemberg / Lvov",
+        "Result Artist Names": [
+            "David Krakauer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QO773JykM2Wm7ghsqhmUr",
+        "Result Album Name": "Krakauer Live In Krakow"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-07-30",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:12:22"
+        "Scanned Date": "2021-05-27 16:12:22",
+        "Playlist URI": "4dmTh7UDcHKJHamrSR32qH",
+        "Playlist Link": "https://open.spotify.com/playlist/4dmTh7UDcHKJHamrSR32qH",
+        "Snapshot ID": "MSxiYmM3MDAxZmZjOTFiODkxZGM4MDg1ZDU0Y2JmMzYwZjBiYzcxMjFl",
+        "Playlist Name": "MoWeEd 2001-07-30 Mon Morning Edition"
     },
     {
         "Title": "Middle East Violence",
@@ -22,14 +26,31 @@
         "MoWeEd Track": "Puerta del Sol (Gate of the Sun)",
         "MoWeEd Artists": [
             "Bernardo Rubaja"
-        ]
+        ],
+        "Result Track Name": "Puerta del Sol - Gate of the Sun",
+        "Result Artist Names": [
+            "Bernardo Rubaja",
+            "Cesar Hernandez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HZS5bKzjmqmwHnXwmFc5q",
+        "Result Album Name": "Windham Hill Chill 2"
     },
     {
         "MoWeEd Track": "Chamber Symphony Op.83a: Allegretto",
         "MoWeEd Artists": [
             "Israel Sinfonietta",
             "Uri Mayer"
-        ]
+        ],
+        "Result Track Name": "Chamber Symphony Op. 83a (Based On Quartet No. 4): Allegretto",
+        "Result Artist Names": [
+            "Israel Sinfonietta"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7bxjfLs4DFBQJk0HvtcY4I",
+        "Result Album Name": "Shostakovich - Chamber Symphonies Op.83a & 110a"
     },
     {
         "Title": "Socialist Party Anniversary",
@@ -53,7 +74,15 @@
         "MoWeEd Track": "Zoiks",
         "MoWeEd Artists": [
             "Greg Koch"
-        ]
+        ],
+        "Result Track Name": "Zoiks",
+        "Result Artist Names": [
+            "Greg Koch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50JQ2AEYnqxSj8Y3JIMxht",
+        "Result Album Name": "The Grip!"
     },
     {
         "Title": "Mending Broken Bow",
@@ -65,7 +94,15 @@
         "MoWeEd Track": "Little Man",
         "MoWeEd Artists": [
             "Alan Jackson"
-        ]
+        ],
+        "Result Track Name": "Little Man",
+        "Result Artist Names": [
+            "Alan Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5vxd49MupkHObFEhcpT1ii",
+        "Result Album Name": "16 Biggest Hits"
     },
     {
         "Title": "Toxic Texas Mold",
@@ -78,7 +115,16 @@
         "MoWeEd Artists": [
             "Luke Vibert",
             "B.J. Cole"
-        ]
+        ],
+        "Result Track Name": "Cheng Phooey",
+        "Result Artist Names": [
+            "Luke Vibert",
+            "BJ Cole"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7lr1fA9UJktgQ9v6TxkTxS",
+        "Result Album Name": "Stop the Panic"
     },
     {
         "Title": "This Week in Politics",
@@ -96,7 +142,15 @@
         "MoWeEd Track": "First Down",
         "MoWeEd Artists": [
             "Fatboy Slim"
-        ]
+        ],
+        "Result Track Name": "First Down",
+        "Result Artist Names": [
+            "Fatboy Slim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2s11n0VrJ2IRY29fJUk9FP",
+        "Result Album Name": "Better Living Through Chemistry"
     },
     {
         "Title": "West Virginia Flooding",
@@ -114,7 +168,12 @@
         "MoWeEd Track": "Bar 69",
         "MoWeEd Artists": [
             "Kerosene"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Japanese Elections",
@@ -126,7 +185,12 @@
         "MoWeEd Track": "Brittany",
         "MoWeEd Artists": [
             "Viviana Guzman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Life for Short Subjects",
@@ -144,6 +208,14 @@
         "MoWeEd Track": "Fake I.D.",
         "MoWeEd Artists": [
             "Jimmy McGriff"
-        ]
+        ],
+        "Result Track Name": "Fake I.D.",
+        "Result Artist Names": [
+            "Jimmy McGriff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zWtaSZpmxqYHAouyU62Hy",
+        "Result Album Name": "McGriff's Blues"
     }
 ]

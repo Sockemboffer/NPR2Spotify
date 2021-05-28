@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-11-10",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 15:58:44"
+        "Scanned Date": "2021-05-27 15:58:44",
+        "Playlist URI": "6CGtPUc7Hs2b55qSsMjQKr",
+        "Playlist Link": "https://open.spotify.com/playlist/6CGtPUc7Hs2b55qSsMjQKr",
+        "Snapshot ID": "MSwyYzJhMjJjNmMxYWE1YTY2MTVlODExZmUxZWUzZjJhMGVjY2NlNzJk",
+        "Playlist Name": "MoWeEd 2001-11-10 Sat Weekend Edition"
     },
     {
         "Title": "Chemical & Nuclear Weapons",
@@ -28,7 +32,18 @@
         "MoWeEd Track": "Kitten on the Keys",
         "MoWeEd Artists": [
             "George Foreman"
-        ]
+        ],
+        "Result Track Name": "Kitten on the Keys (arr. D. Henderson)",
+        "Result Artist Names": [
+            "Zez Confrey",
+            "David Henderson",
+            "The New Columbian Brass Band",
+            "George Foreman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6x1XI0cXdmVoG1jYDhWeZM",
+        "Result Album Name": "The Teddy Bears Picnic"
     },
     {
         "Title": "The U.S. Message",
@@ -41,7 +56,12 @@
         "MoWeEd Artists": [
             "Kennedy",
             "Berlin Philharmonic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "USS Enterprise",
@@ -89,7 +109,15 @@
         "MoWeEd Track": "Highschool Lover",
         "MoWeEd Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Highschool Lover",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:366QpkppDb9f5TVamPSpgH",
+        "Result Album Name": "The Virgin Suicides (Original Motion Picture Score)"
     },
     {
         "Title": "Sports",
@@ -101,7 +129,12 @@
         "MoWeEd Track": "Concerto for Guitar & Orchestra - for Two Chirsophers \"celebration\"",
         "MoWeEd Artists": [
             "C. Parkening E. Bernstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Oliver Sacks",
@@ -113,6 +146,11 @@
         "MoWeEd Track": "Cathie's Song",
         "MoWeEd Artists": [
             "Kelley Girls"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

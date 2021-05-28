@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-03-14",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 16:22:13"
+        "Scanned Date": "2021-05-27 16:22:13",
+        "Playlist URI": "5QKEZqFiRmRhXAjgVsRCDX",
+        "Playlist Link": "https://open.spotify.com/playlist/5QKEZqFiRmRhXAjgVsRCDX",
+        "Snapshot ID": "MSw3OTI1MzIwNzJhZjJjNWM0NjQwNjRhYTYwNGRmZjJjYTIyZDg0MjQ0",
+        "Playlist Name": "MoWeEd 2001-03-14 Wed Morning Edition"
     },
     {
         "Title": "Bush on Carbon Dioxide",
@@ -17,7 +21,17 @@
         "MoWeEd Artists": [
             "James Moody",
             "Mark Turner"
-        ]
+        ],
+        "Result Track Name": "Hesitation Blues",
+        "Result Artist Names": [
+            "James Moody",
+            "Larry Goldings",
+            "Mark Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HVAGcyqxvql5RGQPtuyL8",
+        "Result Album Name": "Jazz Saxophone Greats"
     },
     {
         "Title": "New Bankruptcy Bill",
@@ -29,7 +43,12 @@
         "MoWeEd Track": "Summer Mist",
         "MoWeEd Artists": [
             "Terumasa Hino-Masabumi Kikuchi Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Washington's Silence on Guns",
@@ -41,7 +60,12 @@
         "MoWeEd Track": "Mount Olympus",
         "MoWeEd Artists": [
             "Billy Childs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Naval Inquiry in Hawaii",
@@ -65,7 +89,12 @@
         "MoWeEd Track": "Au Jardin d'Amour",
         "MoWeEd Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Up and Down Stock Market",
@@ -83,7 +112,12 @@
         "MoWeEd Track": "Decade",
         "MoWeEd Artists": [
             "Jim Ward Morris"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stock Market Forecast",
@@ -95,7 +129,12 @@
         "MoWeEd Track": "Piano Sonata K. 333 in B flat major: Allegro",
         "MoWeEd Artists": [
             "Fazil Say"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "School Shooting Prevention",
@@ -108,7 +147,16 @@
         "MoWeEd Artists": [
             "Cyrus Chestnut",
             "Anita Baker"
-        ]
+        ],
+        "Result Track Name": "Summertime (feat. Anita Baker)",
+        "Result Artist Names": [
+            "Cyrus Chestnut",
+            "Anita Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gE8PLKaAmjMP94KM0gUfi",
+        "Result Album Name": "Cyrus Chestnut"
     },
     {
         "Title": "Election in Uganda",
@@ -120,7 +168,12 @@
         "MoWeEd Track": "birds flying",
         "MoWeEd Artists": [
             "oystein sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush on Oil",
@@ -145,6 +198,11 @@
         "MoWeEd Artists": [
             "London Philharmonic Orchestra",
             "Georg Solti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

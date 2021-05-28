@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-08",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:26:41"
+        "Scanned Date": "2021-05-27 16:26:41",
+        "Playlist URI": "20X2rbDa8rUeKXXdLtq50E",
+        "Playlist Link": "https://open.spotify.com/playlist/20X2rbDa8rUeKXXdLtq50E",
+        "Snapshot ID": "MSwwMmMxOTg2MGE2YjYxZmVkYzljZmVkYzA5NmI3MTdmYzg4NGRhN2Fl",
+        "Playlist Name": "MoWeEd 2001-01-08 Mon Morning Edition"
     },
     {
         "Title": "Ford/Firestone Case",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Blackbird",
         "MoWeEd Artists": [
             "Paul Schwartz"
-        ]
+        ],
+        "Result Track Name": "Blackbird",
+        "Result Artist Names": [
+            "Paul Schwartz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62mAW8QqYUay2ZWcWa1UY1",
+        "Result Album Name": "Revolution"
     },
     {
         "Title": "The Final Initiatives",
@@ -34,7 +46,12 @@
         "MoWeEd Track": "Sunny",
         "MoWeEd Artists": [
             "Benjie Porecki"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Ways and Means Committee Chair",
@@ -46,7 +63,12 @@
         "MoWeEd Track": "Tute Excursion",
         "MoWeEd Artists": [
             "Marlon Jordan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "California State Address",
@@ -76,7 +98,15 @@
         "MoWeEd Track": "Peckerwood",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Peckerwood",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FR4Rk3PBLYrr4c8Avx6CN",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "Bush Nominiees",
@@ -88,13 +118,26 @@
         "MoWeEd Track": "Not You Again",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Not You Again",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1P1ZNj9b2M9NF006vCyh8i",
+        "Result Album Name": "Works For Me"
     },
     {
         "MoWeEd Track": "Un Poco Loco",
         "MoWeEd Artists": [
             "Bruce Forman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Singaporean Textbooks",
@@ -113,7 +156,16 @@
         "MoWeEd Artists": [
             "Paul Winter",
             "the Earth Band"
-        ]
+        ],
+        "Result Track Name": "Middle Oasis",
+        "Result Artist Names": [
+            "Paul Winter & The Earth Band",
+            "Arto Tunçboyacıyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kYA6L6VATRTVEmvkO2EkA",
+        "Result Album Name": "Journey with the Sun"
     },
     {
         "Title": "Detroit Auto Show",
@@ -131,7 +183,15 @@
         "MoWeEd Track": "Blue Tango",
         "MoWeEd Artists": [
             "London Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": "Blue Tango",
+        "Result Artist Names": [
+            "London Studio Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:54yyTT2WNzbdhJaABrZzv5",
+        "Result Album Name": "Instrumental Gold"
     },
     {
         "Title": "<I>The Archers,</I>",

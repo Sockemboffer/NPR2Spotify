@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-03-13",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:22:07"
+        "Scanned Date": "2021-05-27 16:22:07",
+        "Playlist URI": "4YIcUSkEkLWb1swvq5ZwrB",
+        "Playlist Link": "https://open.spotify.com/playlist/4YIcUSkEkLWb1swvq5ZwrB",
+        "Snapshot ID": "MSw1OWE2Njc5YmE0ZWZiODg4NzU4ODRmYWYwZWE5YmQ2ZjEyNTZkZTA5",
+        "Playlist Name": "MoWeEd 2001-03-13 Tue Morning Edition"
     },
     {
         "Title": "Japanese Prime Minister",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Idle Times",
         "MoWeEd Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Meaning of Loyalty",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "Confucious",
         "MoWeEd Artists": [
             "The Skatalites"
-        ]
+        ],
+        "Result Track Name": "Confucious - Live",
+        "Result Artist Names": [
+            "The Skatalites"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28dPJBW1SDnBaWWAYEWXOG",
+        "Result Album Name": "Clash of the Ska Titans/Guns of Navarone"
     },
     {
         "Title": "Tax Cut Opinion",
@@ -47,7 +64,17 @@
         "MoWeEd Artists": [
             "Cyrus Chestnut",
             "James Carter et. al."
-        ]
+        ],
+        "Result Track Name": "Sharp (feat. James Carter & Joe Lovano)",
+        "Result Artist Names": [
+            "Cyrus Chestnut",
+            "James Carter",
+            "Joe Lovano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2i1mvv406GfFHrnDGqgiZH",
+        "Result Album Name": "Cyrus Chestnut"
     },
     {
         "Title": "Manditory High School Testing",
@@ -65,7 +92,15 @@
         "MoWeEd Track": "Rocket To Nowhere",
         "MoWeEd Artists": [
             "Webb Wilder"
-        ]
+        ],
+        "Result Track Name": "Rocket To Nowhere",
+        "Result Artist Names": [
+            "Webb Wilder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WdjZnKcleXOz7pisJAhvW",
+        "Result Album Name": "It Came From Nashville - The Deluxe Full-Grown Edition"
     },
     {
         "Title": "Commentary",
@@ -95,13 +130,26 @@
         "MoWeEd Track": "On Approach",
         "MoWeEd Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Costa Del Sol",
         "MoWeEd Artists": [
             "Wind Machine"
-        ]
+        ],
+        "Result Track Name": "Costa Del Sol",
+        "Result Artist Names": [
+            "Wind Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Da5HCnQWCRCMSwiIQBWac",
+        "Result Album Name": "Distant Shores"
     },
     {
         "Title": "Census 2000",
@@ -113,7 +161,15 @@
         "MoWeEd Track": "The First Time",
         "MoWeEd Artists": [
             "Bob James"
-        ]
+        ],
+        "Result Track Name": "The First Time",
+        "Result Artist Names": [
+            "Bob James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05RhCgVWX4L3c1X3MHJfKp",
+        "Result Album Name": "Joy Ride"
     },
     {
         "Title": "Helping Foot-and-Mouth Disease",
@@ -132,7 +188,15 @@
         "MoWeEd Artists": [
             "Joe Sample",
             "Soul Committee"
-        ]
+        ],
+        "Result Track Name": "Did You Feel That?",
+        "Result Artist Names": [
+            "Joe Sample"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5IlspZ2XNkCUD04MGMnAcK",
+        "Result Album Name": "Did You Feel That?"
     },
     {
         "Title": "Ken Turns 40",

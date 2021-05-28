@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-07-14",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:10:58"
+        "Scanned Date": "2021-05-27 16:10:58",
+        "Playlist URI": "1S8b1dd1WEHGhm91YAhEtK",
+        "Playlist Link": "https://open.spotify.com/playlist/1S8b1dd1WEHGhm91YAhEtK",
+        "Snapshot ID": "MSxiNjI2MTNkOTU4NmFlMmNlMDZkNWViM2M3MTExYzA4MDZmMmQ5OGNj",
+        "Playlist Name": "MoWeEd 2001-07-14 Sat Weekend Edition"
     },
     {
         "Title": "China Spy Trial",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "I've Found a New Baby",
         "MoWeEd Artists": [
             "Sam Pilafian"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stem Cell Ethics",
@@ -53,7 +62,17 @@
         "MoWeEd Artists": [
             "Anger",
             "Marshall Band"
-        ]
+        ],
+        "Result Track Name": "Around Here",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Darol Anger",
+            "The Darol Anger / Mike Marshall Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uyBYTNAeIn0TLRittPuqf",
+        "Result Album Name": "Brand New Can"
     },
     {
         "Title": "Genesis Sun Probe",
@@ -77,7 +96,29 @@
         "MoWeEd Track": "I Left My Heart At the Stage Door Canteen",
         "MoWeEd Artists": [
             "Sammy Kaye and His Orchestra"
-        ]
+        ],
+        "Result Track Name": "I Left My Heart at the Stage Door Canteen",
+        "Result Artist Names": [
+            "Sammy Kaye and His Orchestra",
+            "Frank Blake",
+            "Lloyd Gillion",
+            "Dale Cornell",
+            "Oscar Reach",
+            "Henry Cole",
+            "Maury Cross",
+            "Charlie Wilson",
+            "George Brandon",
+            "Don Wallmark",
+            "Jerry Carr",
+            "Tommy Ryan",
+            "Howard Workman",
+            "Ernest Rudisill",
+            "Don Cornell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uuHZXy6Mu24PKm0rpACQz",
+        "Result Album Name": "Remember Pearl Harbor: Classic Songs Of World War II"
     },
     {
         "Title": "Week In Review",
@@ -95,7 +136,17 @@
         "MoWeEd Track": "Allegro Vivace",
         "MoWeEd Artists": [
             "Orpheus Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "Horn Concerto No. 4 in E-Flat Major, K. 495: III. Rondo (Allegro vivace)",
+        "Result Artist Names": [
+            "Wolfgang Amadeus Mozart",
+            "David Jolley",
+            "Orpheus Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75cRENY2YS7ucycIh1MwJX",
+        "Result Album Name": "Driving with Mozart"
     },
     {
         "Title": "Ambassador Peterson",
@@ -113,7 +164,15 @@
         "MoWeEd Track": "En Route",
         "MoWeEd Artists": [
             "Chazz"
-        ]
+        ],
+        "Result Track Name": "En Route",
+        "Result Artist Names": [
+            "Chazz!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4MnlLoWLAcD6xOPdOcvDfE",
+        "Result Album Name": "Passing the Bar"
     },
     {
         "Title": "Chillax! It's Slang",
@@ -125,7 +184,16 @@
         "MoWeEd Track": "Suite for solo cello No. 1 in G major, BWV 1007",
         "MoWeEd Artists": [
             "Richard Hartshorne"
-        ]
+        ],
+        "Result Track Name": "Sonata No. 1 in G Major, BWV 1027: III. Andante",
+        "Result Artist Names": [
+            "Richard Hartshorne",
+            "Daniel Sedgwick"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2dnvLMFIo5gqu7Q8k9dHja",
+        "Result Album Name": "Bach: Sonatas for Viola da Gamba and Harpsichord - Premiere Recording On the Double Bass"
     },
     {
         "Title": "Video Game Movies",
@@ -155,6 +223,11 @@
         "MoWeEd Track": "Les Vepres Siciliennes Merci, Cheres Amis (bolero)",
         "MoWeEd Artists": [
             "Beverly Sills"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

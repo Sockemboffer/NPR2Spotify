@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-02-01",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:23:37"
+        "Scanned Date": "2021-05-27 16:23:37",
+        "Playlist URI": "0s9yLoFDzLgwIaossEPrFP",
+        "Playlist Link": "https://open.spotify.com/playlist/0s9yLoFDzLgwIaossEPrFP",
+        "Snapshot ID": "MSxkNjU3OTZhNzU3YzUwN2ZiOTk5MWMxNDc4Yjk4MDkyOGEyYzdlNDMy",
+        "Playlist Name": "MoWeEd 2001-02-01 Thu Morning Edition"
     },
     {
         "Title": "California Energy Update",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Der Hammer",
         "MoWeEd Artists": [
             "Brian Slawson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Reprise",
         "MoWeEd Artists": [
             "Joey Calderazzo"
-        ]
+        ],
+        "Result Track Name": "Reprise",
+        "Result Artist Names": [
+            "Joey Calderazzo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5D8ptwjJr49oeDllYB6sic",
+        "Result Album Name": "To Know One"
     },
     {
         "Title": "John Ashcroft Support",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "The Zipper",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "The Zipper",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Ew85eTkxlkf0ix17ptW99",
+        "Result Album Name": "The Water Garden"
     },
     {
         "Title": "Corrupted Mexican Law",
@@ -70,7 +95,15 @@
         "MoWeEd Track": "Ladies First",
         "MoWeEd Artists": [
             "Eric Serra"
-        ]
+        ],
+        "Result Track Name": "Ladies First",
+        "Result Artist Names": [
+            "Éric Serra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4PEZh8Aunbaoov2qVCEwEV",
+        "Result Album Name": "Goldeneye"
     },
     {
         "Title": "Interest Rates Cut",
@@ -88,7 +121,15 @@
         "MoWeEd Track": "Island Cowboy",
         "MoWeEd Artists": [
             "Don Grusin"
-        ]
+        ],
+        "Result Track Name": "Island Cowboy",
+        "Result Artist Names": [
+            "Don Grusin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0C8R9rkeq3uctKa5hZj8nQ",
+        "Result Album Name": "Banana Fish"
     },
     {
         "Title": "Chief U.S. Economist",
@@ -100,13 +141,26 @@
         "MoWeEd Track": "Gone With the Wind",
         "MoWeEd Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "Gone with the Wind - Live",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NkJL1t9re2teWIFrG16PY",
+        "Result Album Name": "Legacy Of A Legend"
     },
     {
         "MoWeEd Track": "Lilttle Grass Shack",
         "MoWeEd Artists": [
             "Ohta-San"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Closing Help",
@@ -118,7 +172,16 @@
         "MoWeEd Track": "Cadenza on the Night Plain: Where Was Wisdom When We Went West?",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Cadenza on the Night Plain:Where Was Wisdom When We Went West?",
+        "Result Artist Names": [
+            "Terry Riley",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3RkN3O4nQnIjdqOOQbdl8E",
+        "Result Album Name": "25 Years"
     },
     {
         "Title": "Women in Science",
@@ -148,6 +211,11 @@
         "MoWeEd Track": "The Pawnbroker",
         "MoWeEd Artists": [
             "Terence Blanchard"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

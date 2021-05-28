@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-12-12",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 15:56:06"
+        "Scanned Date": "2021-05-27 15:56:06",
+        "Playlist URI": "5o7y85nutMz4A5fsIB7qbj",
+        "Playlist Link": "https://open.spotify.com/playlist/5o7y85nutMz4A5fsIB7qbj",
+        "Snapshot ID": "MSwzMTEyOTNkZjI4OGI5YmQyYjBjNzJlYjUwN2VkZWUzMzk3MmYxODgw",
+        "Playlist Name": "MoWeEd 2001-12-12 Wed Morning Edition"
     },
     {
         "Title": "Tora Bora",
@@ -23,7 +27,12 @@
         "MoWeEd Artists": [
             "Charlie Watts",
             "Jim Keltner"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Osteoporosis Threat",
@@ -41,7 +50,15 @@
         "MoWeEd Track": "God Rest Ye Merry Gentlemen",
         "MoWeEd Artists": [
             "George Shearing"
-        ]
+        ],
+        "Result Track Name": "God Rest Ye Merry, Gentlemen",
+        "Result Artist Names": [
+            "George Shearing Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:16lXKDB8H7gFpafssjWbOK",
+        "Result Album Name": "Christmas With The George Shearing Quintet"
     },
     {
         "Title": "Airport Security Indictments",
@@ -54,7 +71,16 @@
         "MoWeEd Artists": [
             "Toots Thielemans",
             "Kenny Werner"
-        ]
+        ],
+        "Result Track Name": "Dolphin Dance",
+        "Result Artist Names": [
+            "Toots Thielemans",
+            "Kenny Werner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lhJqMacbtSPnYJGFXlmSd",
+        "Result Album Name": "Toots Thielemans & Kenny Werner"
     },
     {
         "Title": "David Axelrod",
@@ -67,7 +93,12 @@
         "MoWeEd Artists": [
             "Alan Evans",
             "Neal Evans et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "State Economic Shortfalls",
@@ -85,7 +116,12 @@
         "MoWeEd Track": "In the Limelight",
         "MoWeEd Artists": [
             "David Lindup"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush On War",
@@ -103,13 +139,26 @@
         "MoWeEd Track": "Out of This World",
         "MoWeEd Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "Out Of This World",
+        "Result Artist Names": [
+            "John Coltrane Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ICY6t4FTWPqM0CobYBx3M",
+        "Result Album Name": "Coltrane (Deluxe Edition - Rudy Van Gelder Remaster)"
     },
     {
         "MoWeEd Track": "Warm Your Heart",
         "MoWeEd Artists": [
             "Gilbert Isbin with Cameron Brown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Media Cross-ownership",
@@ -121,7 +170,15 @@
         "MoWeEd Track": "I.G.Y.",
         "MoWeEd Artists": [
             "Donald Fagen"
-        ]
+        ],
+        "Result Track Name": "I.G.Y.",
+        "Result Artist Names": [
+            "Donald Fagen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bzwsAtj4TqaBysLDrGiO3",
+        "Result Album Name": "The Nightfly"
     },
     {
         "Title": "U.S.- Russia",
@@ -133,7 +190,15 @@
         "MoWeEd Track": "Quartet No. 1 In D Major, Op. 11",
         "MoWeEd Artists": [
             "St. Petersburg String Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 1 in D Major, Op. 11: III. Scherzo",
+        "Result Artist Names": [
+            "St. Petersburg String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Q6Shz7u25JGghcb8yRuq3",
+        "Result Album Name": "P.Tchaikovsky, Complete String Quartets ( CD 1)"
     },
     {
         "Title": "Peace Corps Nominee",
@@ -151,19 +216,43 @@
         "MoWeEd Track": "Poultry in Motion",
         "MoWeEd Artists": [
             "Bill Kirchen"
-        ]
+        ],
+        "Result Track Name": "Poultry In Motion",
+        "Result Artist Names": [
+            "Bill Kirchen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NMbYrrMOZTCFyKilOER6I",
+        "Result Album Name": "Tied To The Wheel"
     },
     {
         "MoWeEd Track": "Deep at Night",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Deep At Night",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CaIv2yNYP9e5u3xNcUrsV",
+        "Result Album Name": "Acoustic Heart: The Passion And Romance Of Acoustic Guitar Masters"
     },
     {
         "MoWeEd Track": "Greensleeves",
         "MoWeEd Artists": [
             "George Shearing"
-        ]
+        ],
+        "Result Track Name": "Greensleeves",
+        "Result Artist Names": [
+            "George Bradley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1ZDAkWq0T56vtjaihclZBv",
+        "Result Album Name": "Mystical Panpipes Moods, Vol. 2"
     },
     {
         "Title": "Unheard Voices",
@@ -175,6 +264,16 @@
         "MoWeEd Track": "Prabhati",
         "MoWeEd Artists": [
             "Ravi Shankar"
-        ]
+        ],
+        "Result Track Name": "Prabhati - based on Raga Gunkali - 1988 Remaster",
+        "Result Artist Names": [
+            "Ravi Shankar",
+            "Yehudi Menuhin",
+            "Alla Rakha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3K8l0VbrCKLR4asIaNXunz",
+        "Result Album Name": "Menuhin Meets Shankar"
     }
 ]

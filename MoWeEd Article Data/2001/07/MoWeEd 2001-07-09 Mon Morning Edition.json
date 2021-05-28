@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-07-09",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:10:30"
+        "Scanned Date": "2021-05-27 16:10:30",
+        "Playlist URI": "6ELeSJPpOP4OMMa3lcGPC6",
+        "Playlist Link": "https://open.spotify.com/playlist/6ELeSJPpOP4OMMa3lcGPC6",
+        "Snapshot ID": "MSwwNTkyYjU4YWZiZjI2ZGI3MjYyYTYxNGFjNTBjMDE1ZGY5ZjQwNDNi",
+        "Playlist Name": "MoWeEd 2001-07-09 Mon Morning Edition"
     },
     {
         "Title": "Croatian Unrest",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "The Commute",
         "MoWeEd Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Energy Regulation",
@@ -46,7 +55,12 @@
         "MoWeEd Track": "Sweet Sweet Spirit",
         "MoWeEd Artists": [
             "Bobby Peterson Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Japanese Noodle Slurping",
@@ -64,7 +78,12 @@
         "MoWeEd Track": "Foundtain of Youth",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Agriculture Bill",
@@ -82,7 +101,15 @@
         "MoWeEd Track": "A Minor Journey",
         "MoWeEd Artists": [
             "Gary Karp"
-        ]
+        ],
+        "Result Track Name": "A Minor Journey",
+        "Result Artist Names": [
+            "Gary Karp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uew3q2YuLHRtYMwfWBaqm",
+        "Result Album Name": "From The Heart"
     },
     {
         "Title": "Cokie Roberts",
@@ -100,7 +127,12 @@
         "MoWeEd Track": "Blue Miles",
         "MoWeEd Artists": [
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wimbledon Wrap Up",
@@ -118,7 +150,16 @@
         "MoWeEd Track": "Ain't Misbehavin'",
         "MoWeEd Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": "Ain't Misbehavin'",
+        "Result Artist Names": [
+            "Unknown",
+            "Empire Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UXa5I6I8a3zUSEWvDQbZ9",
+        "Result Album Name": "Braggin' In Brass: Music Of Duke Ellington & Others"
     },
     {
         "Title": "Bradford Riots",
@@ -130,7 +171,12 @@
         "MoWeEd Track": "Miniatures for Piano Bass & String Quartet: Ivory Tower",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Argentine Emigration",
@@ -148,7 +194,15 @@
         "MoWeEd Track": "Manzanita [1st Variation]",
         "MoWeEd Artists": [
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Manzanita (1st Variation)",
+        "Result Artist Names": [
+            "Tony Rice Unit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:243qtWew7JaFAybXfqA51P",
+        "Result Album Name": "Unit Of Measure"
     },
     {
         "Title": "Float Noodles",
@@ -166,6 +220,14 @@
         "MoWeEd Track": "Surf Samba",
         "MoWeEd Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "surf samba",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1t4yEFtNzelzYS6TArPtHi",
+        "Result Album Name": "Surfmania"
     }
 ]

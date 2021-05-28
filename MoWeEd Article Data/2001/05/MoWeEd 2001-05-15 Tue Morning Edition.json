@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-05-15",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:16:42"
+        "Scanned Date": "2021-05-27 16:16:42",
+        "Playlist URI": "3TtanczBtGy3wK2dnVhUb2",
+        "Playlist Link": "https://open.spotify.com/playlist/3TtanczBtGy3wK2dnVhUb2",
+        "Snapshot ID": "MSwwN2M0ZjkxMzJkZTZkYmQyZTE2ZTFlYzYzZGM3MGJhYTFlYmZhOGNk",
+        "Playlist Name": "MoWeEd 2001-05-15 Tue Morning Edition"
     },
     {
         "Title": "Scotus: Medical Marijuana",
@@ -22,13 +26,31 @@
         "MoWeEd Track": "Little Girl, Big Girl",
         "MoWeEd Artists": [
             "Ed Cherry"
-        ]
+        ],
+        "Result Track Name": "Little Girl Big Girl",
+        "Result Artist Names": [
+            "Ed Cherry",
+            "Kyle Koehler",
+            "Anwar Marshall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1VBho2O4Ac3mfPPfTMNH3w",
+        "Result Album Name": "Soul Tree"
     },
     {
         "MoWeEd Track": "Fade to Black",
         "MoWeEd Artists": [
             "Dire Straits"
-        ]
+        ],
+        "Result Track Name": "Fade to Black",
+        "Result Artist Names": [
+            "Dire Straits"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56UGmtxJM3tvF1jQIJahlr",
+        "Result Album Name": "On Every Street (Remaster)"
     },
     {
         "Title": "Capitol Hill Shooter",
@@ -40,7 +62,15 @@
         "MoWeEd Track": "Wishful Thinking",
         "MoWeEd Artists": [
             "Mike Davis"
-        ]
+        ],
+        "Result Track Name": "Wishful Thinking",
+        "Result Artist Names": [
+            "Skeeter Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2yuIRaM80mrV5qEGt8M1ud",
+        "Result Album Name": "The Singles 1957-1962"
     },
     {
         "Title": "California Budget Plan",
@@ -52,7 +82,15 @@
         "MoWeEd Track": "L.A. Confidential",
         "MoWeEd Artists": [
             "Jerry Goldsmith"
-        ]
+        ],
+        "Result Track Name": "Bloody Christmas - From \"L.A. Confidential\"",
+        "Result Artist Names": [
+            "Jerry Goldsmith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BXyyuUy5uXXk6oSO2dQKC",
+        "Result Album Name": "L.A. Confidential (Original Motion Picture Score)"
     },
     {
         "Title": "Mark Knopfler, 'Sailing to Philadelphia'",
@@ -71,7 +109,15 @@
         "MoWeEd Artists": [
             "Darol Anger",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "A Real Dragon",
+        "Result Artist Names": [
+            "Darol Anger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2JVl2LkFQR4YhKM5hFoYqh",
+        "Result Album Name": "Darol Anger'syear in Music"
     },
     {
         "Title": "Fed Meeting Today",
@@ -89,13 +135,31 @@
         "MoWeEd Track": "Blues for J",
         "MoWeEd Artists": [
             "Jimmy Smith"
-        ]
+        ],
+        "Result Track Name": "Blues For J",
+        "Result Artist Names": [
+            "Jimmy Smith",
+            "Kenny Burrell",
+            "Grady Tate"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0irDRWPuAyQkTwgfaabxIA",
+        "Result Album Name": "Organ Grinder Swing"
     },
     {
         "MoWeEd Track": "How Long Has This Been Going On?",
         "MoWeEd Artists": [
             "Mike Turk"
-        ]
+        ],
+        "Result Track Name": "How Long Has This Been Going On",
+        "Result Artist Names": [
+            "Mike Lipskin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:04XXqQUollV4jqOchTqs12",
+        "Result Album Name": "Spreading Rhythm Around"
     },
     {
         "Title": "Privacy III: Mental Health Care",
@@ -107,7 +171,12 @@
         "MoWeEd Track": "Lullabye for Nicole",
         "MoWeEd Artists": [
             "Johnny A."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Baseball Underdogs",
@@ -120,7 +189,17 @@
         "MoWeEd Artists": [
             "Biller",
             "Wakefield"
-        ]
+        ],
+        "Result Track Name": "Them There Shoes",
+        "Result Artist Names": [
+            "Dave Biller",
+            "Jeremy Wakefield",
+            "Carl Sonny Leyland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4E85OobMqxcafCrVxnDWKE",
+        "Result Album Name": "The Hot Guitars Of Biller And Wakefield"
     },
     {
         "Title": "Foot-and-Mouth: A History",

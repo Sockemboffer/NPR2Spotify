@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-29",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:28:30"
+        "Scanned Date": "2021-05-27 16:28:30",
+        "Playlist URI": "5XIiUyRS2B4ivvqLV6uiEX",
+        "Playlist Link": "https://open.spotify.com/playlist/5XIiUyRS2B4ivvqLV6uiEX",
+        "Snapshot ID": "MSxlZmI5Yzg3ZTRhMjc0ZTk2MGNlN2I3M2IwOTM5MWFiMTU3YTc2OThk",
+        "Playlist Name": "MoWeEd 2001-01-29 Mon Morning Edition"
     },
     {
         "Title": "California Developments",
@@ -22,14 +26,27 @@
         "MoWeEd Track": "Sonata for Piano, No. 3: Moderately fast",
         "MoWeEd Artists": [
             "Justin Kolb"
-        ]
+        ],
+        "Result Track Name": "Sonata for Piano, No. 3: Moderately fast",
+        "Result Artist Names": [
+            "Justin Kolb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sQiJf7qI2A8FZ0M4LYGyp",
+        "Result Album Name": "Solo Piano Music"
     },
     {
         "MoWeEd Track": "The Last of England",
         "MoWeEd Artists": [
             "Geoff Smith",
             "Nicola Walker Smith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush's and Drug Benefits",
@@ -47,7 +64,12 @@
         "MoWeEd Track": "Salvo",
         "MoWeEd Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alan Garcia Returns",
@@ -65,7 +87,12 @@
         "MoWeEd Track": "Fooled Ya",
         "MoWeEd Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sundance Film Festival",
@@ -83,7 +110,12 @@
         "MoWeEd Track": "I'll See You In My Dreams",
         "MoWeEd Artists": [
             "Dick Hyman Group Featuring Howard Alden"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush's First Week",
@@ -113,7 +145,12 @@
         "MoWeEd Track": "The Fairy Queen",
         "MoWeEd Artists": [
             "Freiburger Barockorchester"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israeli-Palestinian Summit Called Off",
@@ -125,7 +162,15 @@
         "MoWeEd Track": "secret solution",
         "MoWeEd Artists": [
             "michael masley"
-        ]
+        ],
+        "Result Track Name": "Secret Solution",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0G3wg2mKwsmsXjGfzyKZqB",
+        "Result Album Name": "Mystery Repeats Itself"
     },
     {
         "Title": "Super Bowl XXXV",
@@ -143,7 +188,15 @@
         "MoWeEd Track": "The Song Is You",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "The Song Is You",
+        "Result Artist Names": [
+            "Frank Sinatra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79SUGAKi2RqFIyydW8WL6J",
+        "Result Album Name": "Sinatra Sings His Greatest Hits"
     },
     {
         "Title": "Super Bowl Ads",
@@ -161,6 +214,14 @@
         "MoWeEd Track": "Surf Samba",
         "MoWeEd Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "surf samba",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1t4yEFtNzelzYS6TArPtHi",
+        "Result Album Name": "Surfmania"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-10-19",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 16:02:45"
+        "Scanned Date": "2021-05-27 16:02:45",
+        "Playlist URI": "6XdigUYbeMzVzDYiH8G70u",
+        "Playlist Link": "https://open.spotify.com/playlist/6XdigUYbeMzVzDYiH8G70u",
+        "Snapshot ID": "MSwwN2VmOTk3MmIxM2Q3ZGMyNjRlNjI0NjVmNWJhMWFhZTYxODUzZTQy",
+        "Playlist Name": "MoWeEd 2001-10-19 Fri Morning Edition"
     },
     {
         "Title": "Bush in China",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Denver Goes Out Yonder",
         "MoWeEd Artists": [
             "Rachel Portman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Government Off the Web",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Helium",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Helium",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aYjksSiJSN2VzGXgm4fWs",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "School Field Trips",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Night Passage",
         "MoWeEd Artists": [
             "Shadowfax"
-        ]
+        ],
+        "Result Track Name": "Night Passage",
+        "Result Artist Names": [
+            "Shadowfax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CsQDFbn8cGtoBapZYvOVI",
+        "Result Album Name": "Magic Theater"
     },
     {
         "Title": "Taliban Expert",
@@ -82,7 +107,15 @@
         "MoWeEd Track": "The Five Card Trick",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "The Five Card Trick",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3POrHFmYYwXN4L1VOwqSzp",
+        "Result Album Name": "Positive Thinking"
     },
     {
         "Title": "Military Developments",
@@ -100,7 +133,15 @@
         "MoWeEd Track": "Andecy",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Andecy",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QbkNlny7ToLTAJ3oGSsql",
+        "Result Album Name": "Perfect Sky"
     },
     {
         "Title": "Embassy Bombing Sentences",
@@ -118,7 +159,15 @@
         "MoWeEd Track": "roots",
         "MoWeEd Artists": [
             "oscar lopez"
-        ]
+        ],
+        "Result Track Name": "Roots",
+        "Result Artist Names": [
+            "Jose Lopez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6Jay00XtJWfFnXhusuWypS",
+        "Result Album Name": "Roots"
     },
     {
         "Title": "Anthrax Investigation",
@@ -130,7 +179,17 @@
         "MoWeEd Track": "Rhythm Song",
         "MoWeEd Artists": [
             "Evelyn Glennie"
-        ]
+        ],
+        "Result Track Name": "Rhythm Song",
+        "Result Artist Names": [
+            "Paul Smadbeck",
+            "Evelyn Glennie",
+            "Barry Wordsworth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3uEJanHdpPO4F01BHzNxbH",
+        "Result Album Name": "Rhythm Song"
     },
     {
         "Title": "Airport Security Lobbying",
@@ -148,7 +207,15 @@
         "MoWeEd Track": "Newz Reel",
         "MoWeEd Artists": [
             "Beausoleil"
-        ]
+        ],
+        "Result Track Name": "Newz Reel",
+        "Result Artist Names": [
+            "BeauSoleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mJkgkz9uetMJesS4uXsMP",
+        "Result Album Name": "L'Amour Ou La Folie"
     },
     {
         "Title": "Baseball Playoffs",
@@ -172,6 +239,14 @@
         "MoWeEd Track": "Three/Quarter North",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Three/Quarter North",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qGgTXeBZCl7eei3axSzhQ",
+        "Result Album Name": "One Guitar, No Vocals"
     }
 ]

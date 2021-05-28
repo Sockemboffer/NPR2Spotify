@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-08-17",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 16:08:26"
+        "Scanned Date": "2021-05-27 16:08:26",
+        "Playlist URI": "4qVuN7JKyAbJOdvOCpGluY",
+        "Playlist Link": "https://open.spotify.com/playlist/4qVuN7JKyAbJOdvOCpGluY",
+        "Snapshot ID": "MSxmMGFhODZhZTVkN2M0MWNjNWNlNDIxZWU3ZjEzYmNiZTYwZjA2YTFl",
+        "Playlist Name": "MoWeEd 2001-08-17 Fri Morning Edition"
     },
     {
         "Title": "Western Wildfires",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Jordu",
         "MoWeEd Artists": [
             "Arturo Sandoval"
-        ]
+        ],
+        "Result Track Name": "Jordu",
+        "Result Artist Names": [
+            "Arturo Sandoval"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AZhqo0HWSxrHUB2hHZhiY",
+        "Result Album Name": "I Remember Clifford"
     },
     {
         "Title": "Food Allergies",
@@ -35,7 +47,17 @@
         "MoWeEd Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Barnyard Disturbance - Instrumental",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Edgar Meyer",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1W5LsxbnJUA995xxeSCC4m",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "Title": "Earhart's Plane",
@@ -47,7 +69,12 @@
         "MoWeEd Track": "Main Theme from \"Chaplin\"",
         "MoWeEd Artists": [
             "Cincinnati Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Louima Case",
@@ -65,7 +92,12 @@
         "MoWeEd Track": "My One and Only Love",
         "MoWeEd Artists": [
             "Hendrik Meurkens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dell's Earnings",
@@ -84,7 +116,16 @@
         "MoWeEd Artists": [
             "Al Cohn Quintet",
             "Zoot Sims"
-        ]
+        ],
+        "Result Track Name": "Brandy And Beer",
+        "Result Artist Names": [
+            "Al Cohn Quintet",
+            "Zoot Sims"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1prlcOv2EUrVW2EGyqkOzQ",
+        "Result Album Name": "Al And Zoot"
     },
     {
         "Title": "Faith-Based Push",
@@ -102,7 +143,15 @@
         "MoWeEd Track": "My Scribe",
         "MoWeEd Artists": [
             "The Kelly Brand sextet"
-        ]
+        ],
+        "Result Track Name": "My Scribe",
+        "Result Artist Names": [
+            "Kelly Brand"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:52tQnkGbdnbAHuOwvjyPeJ",
+        "Result Album Name": "A Dream in a Stone"
     },
     {
         "Title": "Macedonia",
@@ -120,7 +169,12 @@
         "MoWeEd Track": "Don Quichotte a Dulcinee: Chanson romanesque",
         "MoWeEd Artists": [
             "The Fischer Duo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Band of Outsiders",

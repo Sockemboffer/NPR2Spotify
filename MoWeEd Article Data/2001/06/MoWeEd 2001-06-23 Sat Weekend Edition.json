@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-06-23",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:14:39"
+        "Scanned Date": "2021-05-27 16:14:39",
+        "Playlist URI": "5Xe9DdApujxcoAJ1aqZhQq",
+        "Playlist Link": "https://open.spotify.com/playlist/5Xe9DdApujxcoAJ1aqZhQq",
+        "Snapshot ID": "MSwyMjc1MjA1ODJiNDZkZWQ0MDE3Yjk3OWRlOTUwNjMyMThmOWFkNjlh",
+        "Playlist Name": "MoWeEd 2001-06-23 Sat Weekend Edition"
     },
     {
         "Title": "Senate Debate",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Jaco's Tune",
         "MoWeEd Artists": [
             "William Galison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Condit's District",
@@ -46,7 +55,15 @@
         "MoWeEd Track": "Boogie Chillen'",
         "MoWeEd Artists": [
             "John Lee Hooker"
-        ]
+        ],
+        "Result Track Name": "Boogie Chillen",
+        "Result Artist Names": [
+            "John Lee Hooker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mNFrf8IfgaWMFCz64CtK4",
+        "Result Album Name": "King Of The Boogie"
     },
     {
         "Title": "Letter",
@@ -64,7 +81,15 @@
         "MoWeEd Track": "Penn",
         "MoWeEd Artists": [
             "Lines"
-        ]
+        ],
+        "Result Track Name": "Penn",
+        "Result Artist Names": [
+            "Lines"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GqRBYS7Vt1VeqZTRg6uvq",
+        "Result Album Name": "Lines"
     },
     {
         "Title": "Talking Dictionary",
@@ -82,7 +107,15 @@
         "MoWeEd Track": "Sharkey's Day",
         "MoWeEd Artists": [
             "Laurie Anderson"
-        ]
+        ],
+        "Result Track Name": "Sharkey's Day",
+        "Result Artist Names": [
+            "Laurie Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ARov5gkfBA3cyeWJ2x9bl",
+        "Result Album Name": "Mister Heartbreak"
     },
     {
         "Title": "Week-In-Review",
@@ -101,7 +134,12 @@
         "MoWeEd Artists": [
             "O'connor",
             "stapleton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pope in Ukraine",
@@ -113,7 +151,12 @@
         "MoWeEd Track": "Oh, How I Hate to Get Up in the Morning, song (from \"Yip, Yip, Yaphank\")",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "German Invasion of U.S.S.R.",
@@ -131,7 +174,15 @@
         "MoWeEd Track": "A Life in East Poultney",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "A Life In East Poultney",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PPZE1lHzm2RN9Zw2Vo29j",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "Baseball",
@@ -143,13 +194,26 @@
         "MoWeEd Track": "Sinfonia Dell'opera Il Barbiere de Siviglia",
         "MoWeEd Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": "Sinfonia dell'opera: Il barbiere di siviglia",
+        "Result Artist Names": [
+            "Terem-Quartet"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ROHEceq6MSr6LcnI4PIFL",
+        "Result Album Name": "No, Russia Cannot Be Perceived by Wit"
     },
     {
         "MoWeEd Track": "Silver Swan Rag, for piano (attibuted to Scott Joplin)",
         "MoWeEd Artists": [
             "Giovanni De Chiaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tiger Hunt",
@@ -161,6 +225,14 @@
         "MoWeEd Track": "Tiger Man",
         "MoWeEd Artists": [
             "Kim Wilson"
-        ]
+        ],
+        "Result Track Name": "Tiger Man",
+        "Result Artist Names": [
+            "Kim Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7J3tMHTS9q4VqNc1Vb1AnQ",
+        "Result Album Name": "Tiger Man"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-08-30",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:09:33"
+        "Scanned Date": "2021-05-27 16:09:33",
+        "Playlist URI": "1JExmCmt7gtcxyKAJlxWIM",
+        "Playlist Link": "https://open.spotify.com/playlist/1JExmCmt7gtcxyKAJlxWIM",
+        "Snapshot ID": "MSwxNDZhZGU2OWNmNDllNmE1NGMyOWQ5NDcwY2JiYmRiMTk1MGI2MmY5",
+        "Playlist Name": "MoWeEd 2001-08-30 Thu Morning Edition"
     },
     {
         "Title": "Durban Racism Conference",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Shadows of You",
         "MoWeEd Artists": [
             "Interior"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Voting in Florida",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Scrunch",
         "MoWeEd Artists": [
             "The Brecker Brothers"
-        ]
+        ],
+        "Result Track Name": "Scrunch",
+        "Result Artist Names": [
+            "The Brecker Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kLDciZ2cU17UbNPYwODE8",
+        "Result Album Name": "Out Of The Loop"
     },
     {
         "Title": "Melanie Sumner",
@@ -64,7 +81,15 @@
         "MoWeEd Track": "This Here",
         "MoWeEd Artists": [
             "Rod McGaha"
-        ]
+        ],
+        "Result Track Name": "This Here",
+        "Result Artist Names": [
+            "Rod McGaha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Fh769IOytDELW5gtFZVZt",
+        "Result Album Name": "Preacherman"
     },
     {
         "Title": "Milosevic",
@@ -82,7 +107,15 @@
         "MoWeEd Track": "Double Concerto",
         "MoWeEd Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Double Concerto",
+        "Result Artist Names": [
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4iyfZb0W8C7A0qUvmWnUwX",
+        "Result Album Name": "The Grande Passion"
     },
     {
         "Title": "Biology of Race",
@@ -94,7 +127,15 @@
         "MoWeEd Track": "Blackbird",
         "MoWeEd Artists": [
             "Paul Schwartz"
-        ]
+        ],
+        "Result Track Name": "Blackbird",
+        "Result Artist Names": [
+            "Paul Schwartz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62mAW8QqYUay2ZWcWa1UY1",
+        "Result Album Name": "Revolution"
     },
     {
         "Title": "Condit District Redraw",
@@ -106,7 +147,18 @@
         "MoWeEd Track": "Live & dyrek",
         "MoWeEd Artists": [
             "Laurent de Wilde"
-        ]
+        ],
+        "Result Track Name": "Live & Dyrek",
+        "Result Artist Names": [
+            "Laurent De Wilde",
+            "Ira Coleman",
+            "Dion Parson",
+            "Bobby Thomas Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ktuXtaGIVtbJKOmRzJbul",
+        "Result Album Name": "Spoon-a-Rhythm"
     },
     {
         "Title": "Nortec",
@@ -124,7 +176,15 @@
         "MoWeEd Track": "I SPY",
         "MoWeEd Artists": [
             "EARLE HAGEN"
-        ]
+        ],
+        "Result Track Name": "I Spy - Remastered",
+        "Result Artist Names": [
+            "Earle Hagen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eKIybSiwMvMM07WVBT3vW",
+        "Result Album Name": "Ultra-Lounge / The Crime Scene - Volume Seven"
     },
     {
         "Title": "Spy vs. Spy",

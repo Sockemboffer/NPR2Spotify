@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-04-10",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:19:06"
+        "Scanned Date": "2021-05-27 16:19:06",
+        "Playlist URI": "1JCGAEoQgNLfYmMgIVrcB7",
+        "Playlist Link": "https://open.spotify.com/playlist/1JCGAEoQgNLfYmMgIVrcB7",
+        "Snapshot ID": "MSw1N2MwY2EzNTJhYjU4NDVlNjFhZjJiNWMzMmFkODkwYjUzMDAxNzcx",
+        "Playlist Name": "MoWeEd 2001-04-10 Tue Morning Edition"
     },
     {
         "Title": "China Demands Flights Stop",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Denver Goes Out Yonder",
         "MoWeEd Artists": [
             "Rachel Portman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Rainwatching W.I.",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Rainwatching W.I.",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2erZbSdBYO5I9h5bzwxugU",
+        "Result Album Name": "Positive Thinking"
     },
     {
         "Title": "Bush's Budget: Education",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Refractions",
         "MoWeEd Artists": [
             "Jimmy Walker"
-        ]
+        ],
+        "Result Track Name": "Refractions",
+        "Result Artist Names": [
+            "Jimmy Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:49ivaDcJ2IZJSoYQuEDYBF",
+        "Result Album Name": "Walk On The Wild Side: Best Of The Verve Years"
     },
     {
         "Title": "Quiet Train",
@@ -58,7 +83,15 @@
         "MoWeEd Track": "City Beat",
         "MoWeEd Artists": [
             "Wynton Marsalis Septet"
-        ]
+        ],
+        "Result Track Name": "City Beat",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:0hmxvzRQV0kWUEYxAVEKJF",
+        "Result Album Name": "Citi Movement"
     },
     {
         "Title": "Norway Drug Conference",
@@ -76,7 +109,15 @@
         "MoWeEd Track": "Night Stories",
         "MoWeEd Artists": [
             "Samite"
-        ]
+        ],
+        "Result Track Name": "Night Stories",
+        "Result Artist Names": [
+            "Samite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4QXVZExAwGzBJFK98iEM5G",
+        "Result Album Name": "Stars To Share"
     },
     {
         "Title": "PC Forum",
@@ -89,7 +130,12 @@
         "MoWeEd Artists": [
             "Alex de Grassi",
             "Michael Bluestein et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush's Budget: the Two Sides",
@@ -101,14 +147,27 @@
         "MoWeEd Track": "Sonata in A minor, Op. 1, No. 4 (HWV 362): IV. Allegro",
         "MoWeEd Artists": [
             "David Russell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Funky Is as Funky Does",
         "MoWeEd Artists": [
             "Avenue Blue",
             "Jeff Golub"
-        ]
+        ],
+        "Result Track Name": "Funky Is as Funky Does (feat. Jeff Golub)",
+        "Result Artist Names": [
+            "Avenue Blue feat. Jeff Golub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UGKhdjWgfSmqRCBRHJLno",
+        "Result Album Name": "Funky Jazz Party"
     },
     {
         "Title": "California Power Plan",
@@ -120,7 +179,15 @@
         "MoWeEd Track": "The Whisper",
         "MoWeEd Artists": [
             "Stuart Jones"
-        ]
+        ],
+        "Result Track Name": "The Whisper",
+        "Result Artist Names": [
+            "Stuart Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20LuBgd0OK1FX4EZem3MhE",
+        "Result Album Name": "Lifeforce"
     },
     {
         "Title": "California Power Costs",
@@ -138,7 +205,15 @@
         "MoWeEd Track": "Processional",
         "MoWeEd Artists": [
             "Will Ackerman"
-        ]
+        ],
+        "Result Track Name": "Processional",
+        "Result Artist Names": [
+            "Will Ackerman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MBHHK15UhVz9Vw4mLPA7i",
+        "Result Album Name": "Returning"
     },
     {
         "Title": "Napster Goes Political",
@@ -156,7 +231,15 @@
         "MoWeEd Track": "Freightliner Blues",
         "MoWeEd Artists": [
             "Jim Nichols"
-        ]
+        ],
+        "Result Track Name": "Freightliner Blues",
+        "Result Artist Names": [
+            "Jim Nichols"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rdNGlfJOU2TT0QF6M2Cs8",
+        "Result Album Name": "Jazz & Country"
     },
     {
         "Title": "Money: David Carley",
@@ -168,6 +251,11 @@
         "MoWeEd Track": "Jerry Wiggins",
         "MoWeEd Artists": [
             "Finaglin'"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-12-01",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 15:55:02"
+        "Scanned Date": "2021-05-27 15:55:02",
+        "Playlist URI": "6ceCxTYnwoEvhDsSTxl6Rj",
+        "Playlist Link": "https://open.spotify.com/playlist/6ceCxTYnwoEvhDsSTxl6Rj",
+        "Snapshot ID": "MSxiNDVmZDM3NDZlZmJlMDNlMThmNGNmYjZjNzczYWFkYmVhODE3NDdm",
+        "Playlist Name": "MoWeEd 2001-12-01 Sat Weekend Edition"
     },
     {
         "Title": "Bonn Conference",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Four on the Floor",
         "MoWeEd Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "Four on the Floor",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ruy7lZdhdXTxpyoppcoxA",
+        "Result Album Name": "Metropolis"
     },
     {
         "MoWeEd Track": "Jeannie with the Light Brown Hair",
         "MoWeEd Artists": [
             "Isaac Stern"
-        ]
+        ],
+        "Result Track Name": "The Girl with the Flaxen Hair",
+        "Result Artist Names": [
+            "Isaac Stern"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xpVVjqItHIDSRWefy4UnX",
+        "Result Album Name": "Greatest Hits: Violin"
     },
     {
         "Title": "Enron Revisited",
@@ -58,7 +78,15 @@
         "MoWeEd Track": "Freedom",
         "MoWeEd Artists": [
             "Jim Chappell"
-        ]
+        ],
+        "Result Track Name": "Freedom",
+        "Result Artist Names": [
+            "Jim Chappell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FNm9m5A9upkFDUD8nrALs",
+        "Result Album Name": "Over the Top"
     },
     {
         "Title": "Biker Rights",
@@ -70,7 +98,12 @@
         "MoWeEd Track": "Tumbadito",
         "MoWeEd Artists": [
             "Abby Rabinovitz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Soldier Remembers",
@@ -100,13 +133,26 @@
         "MoWeEd Track": "Here Comes the Sun",
         "MoWeEd Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "Here Comes The Sun - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dGnYIeXmHdcikdzNNDMm2",
+        "Result Album Name": "Abbey Road (Remastered)"
     },
     {
         "MoWeEd Track": "Borrasca",
         "MoWeEd Artists": [
             "Madera"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Green River Killer",
@@ -136,7 +182,16 @@
         "MoWeEd Track": "Here Comes the Sun",
         "MoWeEd Artists": [
             "Tracy Silverman"
-        ]
+        ],
+        "Result Track Name": "Here Comes The Sun",
+        "Result Artist Names": [
+            "Tracy Silverman",
+            "Thea Suits-Silverman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YNbRUCiJvPN6mI1NhhwCH",
+        "Result Album Name": "Trip To The Sun"
     },
     {
         "Title": "Sports",

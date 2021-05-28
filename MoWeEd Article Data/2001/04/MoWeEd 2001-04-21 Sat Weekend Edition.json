@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-04-21",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:20:09"
+        "Scanned Date": "2021-05-27 16:20:09",
+        "Playlist URI": "5rLZDn3vvVR1JP8QYJnHMM",
+        "Playlist Link": "https://open.spotify.com/playlist/5rLZDn3vvVR1JP8QYJnHMM",
+        "Snapshot ID": "MSw2ZmI4MTExOWNmYjc1MjBlNmQ5OTA5MDgzNDI4MjlmZTQ5MDBlNzgz",
+        "Playlist Name": "MoWeEd 2001-04-21 Sat Weekend Edition"
     },
     {
         "Title": "Summit of the Americas",
@@ -23,13 +27,26 @@
         "MoWeEd Artists": [
             "Alan Evans",
             "Neal Evans et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Overture",
         "MoWeEd Artists": [
             "Broadway Cast Recording"
-        ]
+        ],
+        "Result Track Name": "Overture",
+        "Result Artist Names": [
+            "Original Cast Recording"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5X0tCKXFPNJQ7hbVJQXCCL",
+        "Result Album Name": "Ghost - The Musical"
     },
     {
         "Title": "Cisco Systems",
@@ -47,13 +64,29 @@
         "MoWeEd Track": "Yes! I'm in the Barrel",
         "MoWeEd Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "Yes! I'm in the Barrel",
+        "Result Artist Names": [
+            "Louis Armstrong & His Hot Five"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0r1u0ElTtrkwtzkN1mFhgU",
+        "Result Album Name": "The Complete Hot Five & Hot Seven Recordings"
     },
     {
         "MoWeEd Track": "El Sinaloense",
         "MoWeEd Artists": [
             "Marimba Yajalon"
-        ]
+        ],
+        "Result Track Name": "El Sinaloense",
+        "Result Artist Names": [
+            "Marimba Zandunga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7soLr25B0u9Nfxhe2uAey4",
+        "Result Album Name": "Estampas Musicales Con La Marimba Zandunga, Vol. 3"
     },
     {
         "Title": "Movie Mistakes",
@@ -65,7 +98,15 @@
         "MoWeEd Track": "El Sinaloense",
         "MoWeEd Artists": [
             "Marimba Yajalon"
-        ]
+        ],
+        "Result Track Name": "El Sinaloense",
+        "Result Artist Names": [
+            "Marimba Zandunga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7soLr25B0u9Nfxhe2uAey4",
+        "Result Album Name": "Estampas Musicales Con La Marimba Zandunga, Vol. 3"
     },
     {
         "Title": "NBA Playoffs",
@@ -96,13 +137,29 @@
         "MoWeEd Artists": [
             "BARRY PHILLIP",
             "WILLIAM COULTER"
-        ]
+        ],
+        "Result Track Name": "I Want To Gather Down / The Earthquake",
+        "Result Artist Names": [
+            "William Coulter & Barry Phillips"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4LNBik5WS3X4prPwr3onYu",
+        "Result Album Name": "Tree Of Life"
     },
     {
         "MoWeEd Track": "THE RAMBLE",
         "MoWeEd Artists": [
             "PAUL HOWARD'S QUALITY SERENADERS"
-        ]
+        ],
+        "Result Track Name": "The Ramble",
+        "Result Artist Names": [
+            "Paul Howard's Quality Serenaders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xRblUtaDc2cNtbYP1l7Vj",
+        "Result Album Name": "Jazz The World Forgot Vol. 2"
     },
     {
         "Title": "Protest Medics",
@@ -126,7 +183,15 @@
         "MoWeEd Track": "Eye of the Hurricane",
         "MoWeEd Artists": [
             "David Grier"
-        ]
+        ],
+        "Result Track Name": "Eye Of The Hurricane",
+        "Result Artist Names": [
+            "David Grier"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15ZQ8A75B8cND0Of5fMyCG",
+        "Result Album Name": "Lone Soldier"
     },
     {
         "Title": "Whistler's Competition",
@@ -138,14 +203,28 @@
         "MoWeEd Track": "I WAN'NA BE LIKE YOU - THE JUNGLE BOOK",
         "MoWeEd Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Agua de Beber",
         "MoWeEd Artists": [
             "Bossacucanova",
             "Roberto Menescal"
-        ]
+        ],
+        "Result Track Name": "Água De Beber",
+        "Result Artist Names": [
+            "Bossacucanova",
+            "Roberto Menescal"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4G9drvrQFpsdZTlBo4tp4N",
+        "Result Album Name": "Brasilidade"
     },
     {
         "Title": "<I>Gone With the Wind</I>",
@@ -158,7 +237,16 @@
         "MoWeEd Artists": [
             "Jay Ungar",
             "Molly Mason"
-        ]
+        ],
+        "Result Track Name": "The Lovers' Waltz Duet",
+        "Result Artist Names": [
+            "Jay Ungar",
+            "Molly Mason"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nnIpCkco7JYxvcmmvzFW0",
+        "Result Album Name": "The Lovers' Waltz"
     },
     {
         "Title": "Malika Oufkir",
@@ -170,6 +258,11 @@
         "MoWeEd Track": "Allah",
         "MoWeEd Artists": [
             "Sabil a Salaam"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

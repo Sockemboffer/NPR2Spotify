@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-01",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:26:04"
+        "Scanned Date": "2021-05-27 16:26:04",
+        "Playlist URI": "1jsT497TNm4vd7VWuMZdBA",
+        "Playlist Link": "https://open.spotify.com/playlist/1jsT497TNm4vd7VWuMZdBA",
+        "Snapshot ID": "MSwyZDk2ZjQ4N2RiMDc1ODIxNGRkMzdhNTIwYzk0NjJlYmZhMmM0MTc2",
+        "Playlist Name": "MoWeEd 2001-01-01 Mon Morning Edition"
     },
     {
         "Title": "Clinton Legacy",
@@ -52,7 +56,15 @@
         "MoWeEd Track": "Sure Enough",
         "MoWeEd Artists": [
             "Matt Harris"
-        ]
+        ],
+        "Result Track Name": "Sure Enough",
+        "Result Artist Names": [
+            "Matt Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hc6hFANEQ5rIWGqY5PkNp",
+        "Result Album Name": "Hit And Run"
     },
     {
         "Title": "Cincinnati Jazz",
@@ -64,7 +76,12 @@
         "MoWeEd Track": "There Will Never Be Another You",
         "MoWeEd Artists": [
             "The Nuclear Whales Saxaphone Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Year In Politics",
@@ -82,7 +99,12 @@
         "MoWeEd Track": "Henry Clay March",
         "MoWeEd Artists": [
             "The New Tankopanicum Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sex Scandal",
@@ -100,7 +122,15 @@
         "MoWeEd Track": "INVENTIONETTE",
         "MoWeEd Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "Variation 8 - Inventionette",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XloRdrsOwTCEYmXHVi5VY",
+        "Result Album Name": "The Chopsticks Variations"
     },
     {
         "Title": "Millennium Race",
@@ -112,7 +142,15 @@
         "MoWeEd Track": "Coast To Coast",
         "MoWeEd Artists": [
             "Matt Harris"
-        ]
+        ],
+        "Result Track Name": "Coast To Coast",
+        "Result Artist Names": [
+            "Matt Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NbbGDpUYt5nymnkJjjx22",
+        "Result Album Name": "Hit And Run"
     },
     {
         "Title": "Death Row Inmate Nominated for Nobel Peace Prize",
@@ -124,7 +162,12 @@
         "MoWeEd Track": "Midland",
         "MoWeEd Artists": [
             "Billy Childs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Year's Resolutions",
@@ -137,6 +180,14 @@
         "MoWeEd Artists": [
             "Liz Story",
             "Joel DiBartolo"
-        ]
+        ],
+        "Result Track Name": "O Come, O Come Emmanuel/Personent Hodie",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0U282JIbgBNX3jrU6E5OW1",
+        "Result Album Name": "The Gift"
     }
 ]

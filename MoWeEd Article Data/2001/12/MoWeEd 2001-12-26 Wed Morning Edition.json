@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-12-26",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 15:57:23"
+        "Scanned Date": "2021-05-27 15:57:23",
+        "Playlist URI": "4iohZa7opUud1VRVkdoemD",
+        "Playlist Link": "https://open.spotify.com/playlist/4iohZa7opUud1VRVkdoemD",
+        "Snapshot ID": "MSw5NmVlYTE3OGJiMmQ3MzBmODJhYWI3ZDAyYmI4ZTFjYWI3ZTBiM2Zi",
+        "Playlist Name": "MoWeEd 2001-12-26 Wed Morning Edition"
     },
     {
         "Title": "Year In Congress",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Invention for 2 voices in C major BWV772",
         "MoWeEd Artists": [
             "Jean-Bernard Pommier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Civil Rights Post 9-11",
@@ -35,7 +44,12 @@
         "MoWeEd Artists": [
             "Dean Shostak",
             "Jacqueline Schwab"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Suicide Prevention",
@@ -47,7 +61,15 @@
         "MoWeEd Track": "Ursa Major",
         "MoWeEd Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Ursa Major",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vvV7gHysViZDvlU5RQQtl",
+        "Result Album Name": "Torched"
     },
     {
         "Title": "Iraq",
@@ -71,7 +93,15 @@
         "MoWeEd Track": "Sleigh Ride",
         "MoWeEd Artists": [
             "Eddie Daniels"
-        ]
+        ],
+        "Result Track Name": "Sleigh Ride",
+        "Result Artist Names": [
+            "Eddie Daniels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ist2KElDQqjA4Km6UPIJ8",
+        "Result Album Name": "A GRP Christmas Collection"
     },
     {
         "Title": "Russian Trial",
@@ -101,7 +131,17 @@
         "MoWeEd Track": "Jingle Blues",
         "MoWeEd Artists": [
             "Rick Braun"
-        ]
+        ],
+        "Result Track Name": "Jingle Jangle Blues",
+        "Result Artist Names": [
+            "Peter White",
+            "Rick Braun",
+            "Mindi Abair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ML6Agm07XLkYHqtkLwKNi",
+        "Result Album Name": "Peter White Christmas"
     },
     {
         "Title": "Australia Bush Fires",
@@ -113,7 +153,12 @@
         "MoWeEd Track": "God Rest Ye Merry, Gentleman",
         "MoWeEd Artists": [
             "Maggie Sansone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "TV Quotas",
@@ -131,7 +176,12 @@
         "MoWeEd Track": "Hornpipe",
         "MoWeEd Artists": [
             "Brian Slawson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Spalding Gray",
@@ -144,6 +194,14 @@
         "MoWeEd Artists": [
             "Anthony Paratore",
             "Joseph Paratore"
-        ]
+        ],
+        "Result Track Name": "Bach: Jesu Joy of Man's Desiring",
+        "Result Artist Names": [
+            "Anthony & Joseph Paratore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xrf52es9swh1RN7q9KH2X",
+        "Result Album Name": "\"Timeless Kiss\" ~ The Best Romantic Piano Music from Four Winds \"Kiss\" and \"Classic Romance\" Series"
     }
 ]

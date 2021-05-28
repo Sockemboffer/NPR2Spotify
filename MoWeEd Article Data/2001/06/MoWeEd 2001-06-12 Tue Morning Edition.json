@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-06-12",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:13:37"
+        "Scanned Date": "2021-05-27 16:13:37",
+        "Playlist URI": "6rfcYRLXasjy5JGfi2kbxu",
+        "Playlist Link": "https://open.spotify.com/playlist/6rfcYRLXasjy5JGfi2kbxu",
+        "Snapshot ID": "MSxhZTYzYWYwMzM1YTQzN2NmMTE3ZjNkMWNhZDk1YmY2ZWE5Y2IxYjhi",
+        "Playlist Name": "MoWeEd 2001-06-12 Tue Morning Edition"
     },
     {
         "Title": "Bush In Spain",
@@ -22,13 +26,29 @@
         "MoWeEd Track": "The Room of Corners",
         "MoWeEd Artists": [
             "Harold Budd"
-        ]
+        ],
+        "Result Track Name": "The Room of Corners",
+        "Result Artist Names": [
+            "Harold Budd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Zdb94gdCtohGWGoiAQDwW",
+        "Result Album Name": "The Room"
     },
     {
         "MoWeEd Track": "The Unexpected Stranger",
         "MoWeEd Artists": [
             "John Morgan"
-        ]
+        ],
+        "Result Track Name": "The Unexpected Stranger",
+        "Result Artist Names": [
+            "John Morgan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xx5GfLeMs7ROUsiXI9fms",
+        "Result Album Name": "Stories"
     },
     {
         "Title": "Carbon Storage",
@@ -52,7 +72,15 @@
         "MoWeEd Track": "Rapture",
         "MoWeEd Artists": [
             "Clara Ponty"
-        ]
+        ],
+        "Result Track Name": "Rapture",
+        "Result Artist Names": [
+            "Clara Ponty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gpQNIaljlNzviVjoXrR2Z",
+        "Result Album Name": "The Embrace"
     },
     {
         "Title": "Macedonian Rebels",
@@ -70,7 +98,12 @@
         "MoWeEd Track": "Quartet No. 8: II. Risoluto; calmo",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Warnaco Bankruptcy",
@@ -88,7 +121,12 @@
         "MoWeEd Track": "Theme From Wrong Holy-O",
         "MoWeEd Artists": [
             "Flyin' Traps"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Supreme Court",
@@ -100,7 +138,15 @@
         "MoWeEd Track": "Blue Mountain",
         "MoWeEd Artists": [
             "Erik Wøllo"
-        ]
+        ],
+        "Result Track Name": "Blue Mountain",
+        "Result Artist Names": [
+            "Erik Wøllo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7dXboZILV76avoZ2rv7inS",
+        "Result Album Name": "Guitar Nova"
     },
     {
         "Title": "Summer Books",
@@ -118,7 +164,12 @@
         "MoWeEd Track": "Diane's Lullaby",
         "MoWeEd Artists": [
             "John Jarvis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Foreign Policy",
@@ -136,7 +187,16 @@
         "MoWeEd Track": "El Decameron Negro: El Arpa del Guerrero",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "El Decaméron negro: I. El arpa del guerrero",
+        "Result Artist Names": [
+            "Leo Brouwer",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6jQmBnloBqIFF0849YxR5T",
+        "Result Album Name": "The Black Decameron"
     },
     {
         "Title": "Larissa's Breadbook",
@@ -148,6 +208,11 @@
         "MoWeEd Track": "The 13th Floor",
         "MoWeEd Artists": [
             "Greg Osby"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

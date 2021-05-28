@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-04-03",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:18:26"
+        "Scanned Date": "2021-05-27 16:18:26",
+        "Playlist URI": "1woXLiz7Nd8xvrv7cKzfhW",
+        "Playlist Link": "https://open.spotify.com/playlist/1woXLiz7Nd8xvrv7cKzfhW",
+        "Snapshot ID": "MSwwMjYwYzA1NWE4OWMyNjMzZjI4MWIxZWVjYjViNGJiYTQzZWEyMmEy",
+        "Playlist Name": "MoWeEd 2001-04-03 Tue Morning Edition"
     },
     {
         "Title": "Campaign Finance Bill Passes Senate",
@@ -23,7 +27,16 @@
         "MoWeEd Artists": [
             "Wynton Marsalis",
             "Lincoln Center Jazz Orchestra"
-        ]
+        ],
+        "Result Track Name": "Jump",
+        "Result Artist Names": [
+            "Wynton Marsalis",
+            "Lincoln Center Jazz Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sZFnaHD5xi09ct0dpt3uF",
+        "Result Album Name": "THE MUSIC OF AMERICA: Wynton Marsalis"
     },
     {
         "Title": "Money, Part I",
@@ -35,7 +48,15 @@
         "MoWeEd Track": "RAGTIME",
         "MoWeEd Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "Variation 6 - Ragtime",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3I199gIHRdxgon1AKANI30",
+        "Result Album Name": "The Chopsticks Variations"
     },
     {
         "Title": "Lead-based Paint",
@@ -47,7 +68,12 @@
         "MoWeEd Track": "S.K.J.",
         "MoWeEd Artists": [
             "Mike Turk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Online Music Schemes",
@@ -65,7 +91,12 @@
         "MoWeEd Track": "The Blarney Pilgrim",
         "MoWeEd Artists": [
             "Pat Kirtley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "DC Traffic",
@@ -77,7 +108,15 @@
         "MoWeEd Track": "Steffi's Strut",
         "MoWeEd Artists": [
             "Chuck Loeb"
-        ]
+        ],
+        "Result Track Name": "Steffi's Strut",
+        "Result Artist Names": [
+            "Chuck Loeb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CwPNdaPdV6Pd8Y7LXtXFV",
+        "Result Album Name": "The Music Inside"
     },
     {
         "Title": "US Spy Plane In China",
@@ -95,7 +134,12 @@
         "MoWeEd Track": "Danca/Bachianas Brasileiras # 5",
         "MoWeEd Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Salvadoran Living Conditions",
@@ -113,7 +157,15 @@
         "MoWeEd Track": "Sister Sadie",
         "MoWeEd Artists": [
             "Maceo Parker"
-        ]
+        ],
+        "Result Track Name": "Sister Sadie",
+        "Result Artist Names": [
+            "Maceo Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yYQNx7wJNRwEQ3fgdNWF7",
+        "Result Album Name": "Mo' Roots"
     },
     {
         "Title": "Big Mouth, Giant Voice",
@@ -125,7 +177,15 @@
         "MoWeEd Track": "Sassy",
         "MoWeEd Artists": [
             "Kombo"
-        ]
+        ],
+        "Result Track Name": "Sassy",
+        "Result Artist Names": [
+            "Kombo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LbnTECHew7mGOP5LtIg8h",
+        "Result Album Name": "The Big Blast"
     },
     {
         "Title": "Duke Wins NCAA",
@@ -143,7 +203,15 @@
         "MoWeEd Track": "American Blend",
         "MoWeEd Artists": [
             "Eric Tingstad"
-        ]
+        ],
+        "Result Track Name": "American Blend",
+        "Result Artist Names": [
+            "Eric Tingstad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iJ5menV5ID2qAlapG1yQr",
+        "Result Album Name": "A Sense Of Place"
     },
     {
         "Title": "Grandma Moses",
@@ -155,6 +223,14 @@
         "MoWeEd Track": "From \"Little Treasure\"",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "From \"Little Treasure\"",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yAcuhQFqzur5Z9OjbIZuU",
+        "Result Album Name": "One Guitar, No Vocals"
     }
 ]

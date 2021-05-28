@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-09-08",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:04:40"
+        "Scanned Date": "2021-05-27 16:04:40",
+        "Playlist URI": "2AXGp4rotbSQTAexkctq3K",
+        "Playlist Link": "https://open.spotify.com/playlist/2AXGp4rotbSQTAexkctq3K",
+        "Snapshot ID": "MSw0YmFjNDNhMTExOTVmNjgwOGVjYWYxOGJjODNjNWU4MWZkNzFjMDhk",
+        "Playlist Name": "MoWeEd 2001-09-08 Sat Weekend Edition"
     },
     {
         "Title": "Racism Conference",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Gingersnaps",
         "MoWeEd Artists": [
             "Artie Traum"
-        ]
+        ],
+        "Result Track Name": "Gingersnaps",
+        "Result Artist Names": [
+            "Artie Traum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AA4Lul6OYTYFk2u1ZVKsb",
+        "Result Album Name": "The Last Romantic"
     },
     {
         "MoWeEd Track": "At the Cross",
         "MoWeEd Artists": [
             "The Word"
-        ]
+        ],
+        "Result Track Name": "At The Cross",
+        "Result Artist Names": [
+            "Word!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4R2PUZ6XPHMfCypYGysLRg",
+        "Result Album Name": "The Word"
     },
     {
         "Title": "Tire Trial Science",
@@ -52,7 +72,12 @@
         "MoWeEd Track": "The Island Princess, semi-opera",
         "MoWeEd Artists": [
             "John Wallace"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cajun Culture Slow to Fade",
@@ -64,7 +89,15 @@
         "MoWeEd Track": "What It Is?",
         "MoWeEd Artists": [
             "The Undisputed Truth"
-        ]
+        ],
+        "Result Track Name": "What It Is?",
+        "Result Artist Names": [
+            "The Undisputed Truth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iwSn79TFeU8e8FhlMdAjt",
+        "Result Album Name": "Face To Face With The Truth"
     },
     {
         "Title": "Sports",
@@ -97,7 +130,16 @@
             "Girls",
             "70 (l9illian Hayman",
             "Goldye Shaw)"
-        ]
+        ],
+        "Result Track Name": "Coffee in a Cardboard Cup",
+        "Result Artist Names": [
+            "Lillian Hayman",
+            "Goldye Shaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:43UaooQfjhTz8ee9kw0c27",
+        "Result Album Name": "There's No Business Like Show Business: Broadway Showstoppers"
     },
     {
         "Title": "'Fugitive Days'",
@@ -115,13 +157,29 @@
         "MoWeEd Track": "Soaring",
         "MoWeEd Artists": [
             "Michael Atherton"
-        ]
+        ],
+        "Result Track Name": "Soaring",
+        "Result Artist Names": [
+            "Michael Logozar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3c9KFmiKOTEXkOATBAh2Ql",
+        "Result Album Name": "Coming Into View"
     },
     {
         "MoWeEd Track": "Peggy Sue",
         "MoWeEd Artists": [
             "Buddy Holly"
-        ]
+        ],
+        "Result Track Name": "Peggy Sue",
+        "Result Artist Names": [
+            "Buddy Holly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OARIMw1hpehr86Iwmv04c",
+        "Result Album Name": "Buddy Holly"
     },
     {
         "Title": "Groundhog Cam",
@@ -139,7 +197,21 @@
         "MoWeEd Track": "Devotions Before Mass",
         "MoWeEd Artists": [
             "Leonard Bernstein"
-        ]
+        ],
+        "Result Track Name": "Mass: Devotions before Mass: Hymn and Psalm, \"A Simple Song\" (Celebrant)",
+        "Result Artist Names": [
+            "Leonard Bernstein",
+            "Jubilant Sykes",
+            "Asher Edward Wulfman",
+            "Peabody Children's Chorus",
+            "Morgan State University Choir",
+            "Baltimore Symphony Orchestra",
+            "Marin Alsop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IVSzDEnjYFRYjz6q8aJVM",
+        "Result Album Name": "Bernstein, L.: Mass"
     },
     {
         "Title": "'Go Tigers!'",
@@ -151,6 +223,14 @@
         "MoWeEd Track": "The Equator",
         "MoWeEd Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "The Equator",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5I3qOuuINUC1QwIutSAMmT",
+        "Result Album Name": "TNT"
     }
 ]

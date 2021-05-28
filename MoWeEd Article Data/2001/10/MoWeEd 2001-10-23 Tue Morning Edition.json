@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-10-23",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:03:10"
+        "Scanned Date": "2021-05-27 16:03:10",
+        "Playlist URI": "099mYNfrBxStRUXxtArTIf",
+        "Playlist Link": "https://open.spotify.com/playlist/099mYNfrBxStRUXxtArTIf",
+        "Snapshot ID": "MSw3MGRlNTZlNzBjNmMzYjI4YTUyMTkzMWE1MTQ3NzkxMDVhZDM4NjIw",
+        "Playlist Name": "MoWeEd 2001-10-23 Tue Morning Edition"
     },
     {
         "Title": "Anthrax",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Bring Me Home",
         "MoWeEd Artists": [
             "Bob Gandy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Muir Woods",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Muir Woods",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39FNn4rEDgsedpKsiUHFjW",
+        "Result Album Name": "Perfect Sky"
     },
     {
         "Title": "Colombia Peace",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Math",
         "MoWeEd Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": "Math",
+        "Result Artist Names": [
+            "Gideon Freudmann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qafjswPPwSaqTHL8ok267",
+        "Result Album Name": "Ukrainian Pajama Party"
     },
     {
         "Title": "San Marcos 10 Vietnam War Protesters",
@@ -58,7 +83,15 @@
         "MoWeEd Track": "Java Man",
         "MoWeEd Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Java Man",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19P0DsPQLLINzAXxnAYwCN",
+        "Result Album Name": "Torched"
     },
     {
         "Title": "Middle East Studies",
@@ -76,13 +109,29 @@
         "MoWeEd Track": "3-2-fore",
         "MoWeEd Artists": [
             "John Toomy Trio"
-        ]
+        ],
+        "Result Track Name": "3-2-Fore",
+        "Result Artist Names": [
+            "The John Toomey Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5CUFdaq723cOmLw4FyCD8B",
+        "Result Album Name": "Refraction"
     },
     {
         "MoWeEd Track": "Mariposa Tulip of the Genus Calachortus Lutens",
         "MoWeEd Artists": [
             "Mark Vigil"
-        ]
+        ],
+        "Result Track Name": "Mariposa Tulip (Of The Genus Calachortus Lutens)",
+        "Result Artist Names": [
+            "Mark Vigil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45b2uGUdX5PKuBnhVGKGbV",
+        "Result Album Name": "In A Wild Garden"
     },
     {
         "Title": "Swissair Bailout",
@@ -100,7 +149,15 @@
         "MoWeEd Track": "rhapsody in blue",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "07 Rhapsody In Blue",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3B7yPHs3ULa1yTompKd4bE",
+        "Result Album Name": "The Greatest Hits of the '20s"
     },
     {
         "Title": "Military Developments",
@@ -120,13 +177,26 @@
             "Brian Eno",
             "Schwalm",
             "J. Peter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Forevermore",
         "MoWeEd Artists": [
             "Jon Faddis"
-        ]
+        ],
+        "Result Track Name": "Forevermore",
+        "Result Artist Names": [
+            "Jon Bauer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6xH8hoysLF3VSCxc9BrwHr",
+        "Result Album Name": "Roots of Worship"
     },
     {
         "Title": "Congress Back in Business",
@@ -145,7 +215,15 @@
         "MoWeEd Artists": [
             "Martial Solal",
             "Paul Motian et. al."
-        ]
+        ],
+        "Result Track Name": "Sapristi",
+        "Result Artist Names": [
+            "Martial Solal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3wwj7xCOChQGRT7T5IQdq0",
+        "Result Album Name": "Just Friends (feat. Gary Peacock & Paul Motian)"
     },
     {
         "Title": "Russia and Missile Defense",
@@ -157,7 +235,18 @@
         "MoWeEd Track": "Sonata No. 3 for Horn and Piano--moderately Fast",
         "MoWeEd Artists": [
             "David Jolley"
-        ]
+        ],
+        "Result Track Name": "Sonata No. 3 for Horn and Piano: I. Moderately fast",
+        "Result Artist Names": [
+            "David Jolley",
+            "David Oei",
+            "Alan Kay",
+            "Sam Pilafian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tOdrFIvZo42jJUEL0hDig",
+        "Result Album Name": "Alec Wilder: Music for Horn"
     },
     {
         "Title": "Foreign News",
@@ -175,13 +264,26 @@
         "MoWeEd Track": "You Got to Move",
         "MoWeEd Artists": [
             "Howard Finster"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Hold Fast to Dreams",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Hold Fast to Dreams",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zt94ggjB4Lw1OEEO5Z8D4",
+        "Result Album Name": "The Crossing"
     },
     {
         "Title": "'In the Shadow of a Saint'",
@@ -193,6 +295,11 @@
         "MoWeEd Track": "Getz Variations, for tenor saxophone & tape",
         "MoWeEd Artists": [
             "David Demsey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

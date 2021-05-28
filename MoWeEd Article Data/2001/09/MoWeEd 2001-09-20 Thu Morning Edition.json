@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-09-20",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:06:02"
+        "Scanned Date": "2021-05-27 16:06:02",
+        "Playlist URI": "7lKuIr4FG5J0nRPjBMfWUK",
+        "Playlist Link": "https://open.spotify.com/playlist/7lKuIr4FG5J0nRPjBMfWUK",
+        "Snapshot ID": "NCxiMTU4ZmJmYWVkZjcwNTljNTQxYTgyNWRmMGI1NDdjYzEyMTUyNGU0",
+        "Playlist Name": "MoWeEd 2001-09-20 Thu Morning Edition"
     },
     {
         "Title": "Pakistan",
@@ -34,7 +38,12 @@
         "MoWeEd Track": "BlackActionFigure",
         "MoWeEd Artists": [
             "Stefon Harris"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congress' New Agenda",
@@ -47,7 +56,12 @@
         "MoWeEd Artists": [
             "David Nettle",
             "Richard Markham"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "WTC Employees",
@@ -59,7 +73,12 @@
         "MoWeEd Track": "The Harder I Try, the Faster You Run",
         "MoWeEd Artists": [
             "Coen Bais"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Airline Bailout",
@@ -89,7 +108,20 @@
         "MoWeEd Track": "Trigon: East of Time/Missa Obscura/South of Time",
         "MoWeEd Artists": [
             "Andreas Vollenweider"
-        ]
+        ],
+        "Result Track Name": "Trigon (East of Time - Missa Obscura - South of Time)",
+        "Result Artist Names": [
+            "Andreas Vollenweider",
+            "Michael Brecker",
+            "Ivan Conti",
+            "Daniel Pezzotti",
+            "Walter Keiser",
+            "Thomas Fessler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rhe2YOEqGQigmfm4n9w7x",
+        "Result Album Name": "Kryptos"
     },
     {
         "Title": "Pope to Kazakhstan",
@@ -113,7 +145,15 @@
         "MoWeEd Track": "Like Butter",
         "MoWeEd Artists": [
             "Richard Elliot"
-        ]
+        ],
+        "Result Track Name": "Like Butter",
+        "Result Artist Names": [
+            "Richard Elliot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1RirSBI09vQtBptpkAvWAM",
+        "Result Album Name": "Chill Factor"
     },
     {
         "Title": "Special Powers",
@@ -131,7 +171,15 @@
         "MoWeEd Track": "In Your Arms",
         "MoWeEd Artists": [
             "Laurence Juber"
-        ]
+        ],
+        "Result Track Name": "In Your Arms",
+        "Result Artist Names": [
+            "Laurence Juber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qvF9orY9BjiC8KjXkoiDs",
+        "Result Album Name": "The Collection"
     },
     {
         "Title": "Media Approach",
@@ -149,6 +197,11 @@
         "MoWeEd Track": "Sunday Morning Breeze",
         "MoWeEd Artists": [
             "Chip Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

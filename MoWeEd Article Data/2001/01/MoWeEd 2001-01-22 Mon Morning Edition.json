@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-01-22",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:27:55"
+        "Scanned Date": "2021-05-27 16:27:55",
+        "Playlist URI": "16tgGAbxzySbKGtASuL1Qk",
+        "Playlist Link": "https://open.spotify.com/playlist/16tgGAbxzySbKGtASuL1Qk",
+        "Snapshot ID": "NCwwNWU0NDhhMTlmZDJiYTA1YWUxODgyZGE2ZmIwMWRmY2QyYzY5YmU3",
+        "Playlist Name": "MoWeEd 2001-01-22 Mon Morning Edition"
     },
     {
         "Title": "California Energy",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Diary of a Lost Girl",
         "MoWeEd Artists": [
             "Christian Zimmerman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Bush Promise",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "Bags' Groove",
         "MoWeEd Artists": [
             "Bobby Timmons"
-        ]
+        ],
+        "Result Track Name": "Bags' Groove",
+        "Result Artist Names": [
+            "Bobby Timmons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jvgwruU2SEHwc49YGII6E",
+        "Result Album Name": "Moanin' Blues"
     },
     {
         "Title": "Congo Leader Assasinaiton",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Hypnotica",
         "MoWeEd Artists": [
             "Afro Celt Sound System"
-        ]
+        ],
+        "Result Track Name": "Hypnotica",
+        "Result Artist Names": [
+            "Afro Celt Sound System"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Br49AdJSqd6eJ6LfPwCss",
+        "Result Album Name": "Volume 2: Release (Real World Gold)"
     },
     {
         "Title": "Ehud Barak",
@@ -64,7 +89,15 @@
         "MoWeEd Track": "On the Plume",
         "MoWeEd Artists": [
             "Thomas Newman"
-        ]
+        ],
+        "Result Track Name": "On the Plume",
+        "Result Artist Names": [
+            "Thomas Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:580MRUkLxQ5N4PVgXJxRX8",
+        "Result Album Name": "Erin Brockovich - Original Motion Picture Soundtrack"
     },
     {
         "Title": "Hudson River Trouble",
@@ -83,7 +116,16 @@
         "MoWeEd Artists": [
             "Sylvain Luc",
             "Bireli Lagrene"
-        ]
+        ],
+        "Result Track Name": "Time After Time",
+        "Result Artist Names": [
+            "Biréli Lagrène",
+            "Sylvain Luc"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:52kxRipahpAS1aGtHbl9eI",
+        "Result Album Name": "Best Moments"
     },
     {
         "Title": "Minority Republicans",
@@ -101,7 +143,15 @@
         "MoWeEd Track": "The Festivals",
         "MoWeEd Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "The Festivals",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03k3uukJXSdxUuyv5sS52k",
+        "Result Album Name": "Evolution II"
     },
     {
         "Title": "Joseph Estrada",
@@ -113,7 +163,15 @@
         "MoWeEd Track": "Piano Phase",
         "MoWeEd Artists": [
             "Steve Reich"
-        ]
+        ],
+        "Result Track Name": "Piano Phase (1967)",
+        "Result Artist Names": [
+            "Steve Reich"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Wq4ispfyCbk1xcrGxabY0",
+        "Result Album Name": "Works 1965-1995"
     },
     {
         "Title": "Serbs in Kosovo",
@@ -131,7 +189,15 @@
         "MoWeEd Track": "Luny Tune",
         "MoWeEd Artists": [
             "Grant Green"
-        ]
+        ],
+        "Result Track Name": "Luny Tune",
+        "Result Artist Names": [
+            "Grant Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4RS5hS8aVPra2mhbK5rUCo",
+        "Result Album Name": "Talkin' About"
     },
     {
         "Title": "First Lady Images",
@@ -144,6 +210,16 @@
         "MoWeEd Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Big Country",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Béla Fleck",
+            "Mike Marshall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:391zLfmGCuh5bDH1qnGnOM",
+        "Result Album Name": "The Best Of Can't You Hear Me Callin' - Bluegrass: 80 Years Of American Music"
     }
 ]

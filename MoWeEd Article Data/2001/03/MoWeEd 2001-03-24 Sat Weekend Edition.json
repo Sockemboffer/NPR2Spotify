@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-03-24",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:23:02"
+        "Scanned Date": "2021-05-27 16:23:02",
+        "Playlist URI": "6xRRY67nuQne1TPJ0YeJsB",
+        "Playlist Link": "https://open.spotify.com/playlist/6xRRY67nuQne1TPJ0YeJsB",
+        "Snapshot ID": "MSxlNzUwNDc2N2EzMWRjNjlmZGZjZTU4YzBiODY5YjFlMDUyODU1NWY4",
+        "Playlist Name": "MoWeEd 2001-03-24 Sat Weekend Edition"
     },
     {
         "Title": "Tax Cut",
@@ -23,13 +27,26 @@
         "MoWeEd Artists": [
             "Rae",
             "Christian"
-        ]
+        ],
+        "Result Track Name": "Trailing in the Wake",
+        "Result Artist Names": [
+            "Rae & Christian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4QPminmk55CKBNVkA7yWrk",
+        "Result Album Name": "Sleepwalking"
     },
     {
         "MoWeEd Track": "Junior Moved",
         "MoWeEd Artists": [
             "Jerry Alexander"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Senate - Campaign Finance",
@@ -53,7 +70,12 @@
         "MoWeEd Track": "I Love Lucy",
         "MoWeEd Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Reel Therapy",
@@ -77,7 +99,15 @@
         "MoWeEd Track": "Poem for Eva",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Poem for Eva",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yfM13IQAzwppxIRqpPdpl",
+        "Result Album Name": "Good Dog, Happy Man"
     },
     {
         "Title": "John Ydstie and the Wolford Wolves",
@@ -96,14 +126,30 @@
         "MoWeEd Artists": [
             "Simon",
             "Garfunkel"
-        ]
+        ],
+        "Result Track Name": "Anji",
+        "Result Artist Names": [
+            "Simon & Garfunkel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pT4qRIpNb7cASsnMfE1Hc",
+        "Result Album Name": "Sounds Of Silence"
     },
     {
         "MoWeEd Track": "La Bayamesa",
         "MoWeEd Artists": [
             "Buena Vista Social Club",
             "Manuel \"Puntillita\" Licea"
-        ]
+        ],
+        "Result Track Name": "La Bayamesa",
+        "Result Artist Names": [
+            "Buena Vista Social Club"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:4jIizyj6SeB9XZZsKCjCTu",
+        "Result Album Name": "Buena Vista Social Club"
     },
     {
         "Title": "Music Cue: Bay of Pigs",
@@ -127,7 +173,12 @@
         "MoWeEd Track": "Letters",
         "MoWeEd Artists": [
             "Bj Liederman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -157,6 +208,14 @@
         "MoWeEd Track": "Number Three",
         "MoWeEd Artists": [
             "Ben Harper"
-        ]
+        ],
+        "Result Track Name": "Number Three",
+        "Result Artist Names": [
+            "Ben Harper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3llDF69bsiXYGXEfCnm0Fg",
+        "Result Album Name": "The Will To Live"
     }
 ]

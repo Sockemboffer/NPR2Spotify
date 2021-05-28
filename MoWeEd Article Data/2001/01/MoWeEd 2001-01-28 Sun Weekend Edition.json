@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-01-28",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:28:25"
+        "Scanned Date": "2021-05-27 16:28:25",
+        "Playlist URI": "6MLcGr2IYun0aoF7i3sBbS",
+        "Playlist Link": "https://open.spotify.com/playlist/6MLcGr2IYun0aoF7i3sBbS",
+        "Snapshot ID": "MSwzMmNiNjM3MTc4ZmExMjUwOGFhMGQ1ZGMxZjY2OWI1ODhjYmY1YjBh",
+        "Playlist Name": "MoWeEd 2001-01-28 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "India Quake",
@@ -30,7 +39,16 @@
         "MoWeEd Artists": [
             "Carla Bley",
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Masquerade In 3 Parts: Carnation, Dark Glasses, Mustache",
+        "Result Artist Names": [
+            "Carla Bley",
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2niJnmApozD26E14U4Ad4b",
+        "Result Album Name": "Go Together"
     },
     {
         "Title": "Middle East",
@@ -45,19 +63,37 @@
             "Cline",
             "Erskine",
             "Pasqua"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Love to Love You Baby",
         "MoWeEd Artists": [
             "Donna Summer"
-        ]
+        ],
+        "Result Track Name": "Love To Love You Baby",
+        "Result Artist Names": [
+            "Donna Summer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Szw3sQC5Zssr15AJsUY9J",
+        "Result Album Name": "Love To Love You Baby"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "International Affairs",
@@ -70,7 +106,15 @@
         "MoWeEd Artists": [
             "Bob Telson",
             "Little Village"
-        ]
+        ],
+        "Result Track Name": "Little Village",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2sdY3q3ERRAEmssCeaG8bd",
+        "Result Album Name": "The Warrior Ant"
     },
     {
         "Title": "Super Bowl History",
@@ -88,7 +132,20 @@
         "MoWeEd Track": "Alligator Crawl",
         "MoWeEd Artists": [
             "Fats Waller"
-        ]
+        ],
+        "Result Track Name": "Alligator Crawl",
+        "Result Artist Names": [
+            "Fats Waller",
+            "Sensartika Trio",
+            "Sonja Kalajić",
+            "Darko Armenski",
+            "Milos Maric",
+            "Kristina Ivankovic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2o7Zz08A6NcLqYrsD1gxPh",
+        "Result Album Name": "Fauna Sacra"
     },
     {
         "Title": "Snow Farm",
@@ -100,13 +157,26 @@
         "MoWeEd Track": "Love to Love You Baby",
         "MoWeEd Artists": [
             "Donna Summer"
-        ]
+        ],
+        "Result Track Name": "Love To Love You Baby",
+        "Result Artist Names": [
+            "Donna Summer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Szw3sQC5Zssr15AJsUY9J",
+        "Result Album Name": "Love To Love You Baby"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -124,7 +194,15 @@
         "MoWeEd Track": "Mac Arthur Park Suite: Mac Arthur Park/One of a Kind/Heaven ...",
         "MoWeEd Artists": [
             "Donna Summer"
-        ]
+        ],
+        "Result Track Name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+        "Result Artist Names": [
+            "Donna Summer"
+        ],
+        "Result Track-Match Percent": 0.5384615384615384,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rXruSqepHUNIrPM7PpEhQ",
+        "Result Album Name": "The Dance Collection"
     },
     {
         "Title": "Editorfest",
@@ -142,13 +220,32 @@
         "MoWeEd Track": "Blues in 12 Bars/Blues in 12 Other Bars",
         "MoWeEd Artists": [
             "Carla Bley"
-        ]
+        ],
+        "Result Track Name": "Blues In 12 Bars - Blues In 12 Other Bars",
+        "Result Artist Names": [
+            "Carla Bley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0y1Un2fqtDbeu7VRyiSSJK",
+        "Result Album Name": "4 X 4"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Florida Overvote",
@@ -172,7 +269,12 @@
         "MoWeEd Track": "Gnossienne No 5 (Satie), for piano,bass & drums",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Spago Closes",
@@ -184,13 +286,26 @@
         "MoWeEd Track": "Blues in 12 Bars/Blues in 12 Other Bars",
         "MoWeEd Artists": [
             "Carla Bley"
-        ]
+        ],
+        "Result Track Name": "Blues In 12 Bars - Blues In 12 Other Bars",
+        "Result Artist Names": [
+            "Carla Bley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0y1Un2fqtDbeu7VRyiSSJK",
+        "Result Album Name": "4 X 4"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "All Things Must Pass",
@@ -208,6 +323,14 @@
         "MoWeEd Track": "Blues in 12 Bars/Blues in 12 Other Bars",
         "MoWeEd Artists": [
             "Carla Bley"
-        ]
+        ],
+        "Result Track Name": "Blues In 12 Bars - Blues In 12 Other Bars",
+        "Result Artist Names": [
+            "Carla Bley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0y1Un2fqtDbeu7VRyiSSJK",
+        "Result Album Name": "4 X 4"
     }
 ]

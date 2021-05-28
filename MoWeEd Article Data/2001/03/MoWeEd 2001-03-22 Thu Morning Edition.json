@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-03-22",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:22:55"
+        "Scanned Date": "2021-05-27 16:22:55",
+        "Playlist URI": "3ZhaYAtpTUcHX8dIRL9q2Y",
+        "Playlist Link": "https://open.spotify.com/playlist/3ZhaYAtpTUcHX8dIRL9q2Y",
+        "Snapshot ID": "MSw4YzQzMzIyMWJjYjhkY2QxYTdmZjJjMWIxYTdmOTNhMmI0ZWUyNGIx",
+        "Playlist Name": "MoWeEd 2001-03-22 Thu Morning Edition"
     },
     {
         "Title": "Bush Retracts Clinton Regs",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Bags' Groove",
         "MoWeEd Artists": [
             "Gary Burton"
-        ]
+        ],
+        "Result Track Name": "Bags' Groove",
+        "Result Artist Names": [
+            "Gary Burton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Bn9GaMCPo5teNn9ydXgZS",
+        "Result Album Name": "For Hamp, Red, Bags, And Cal"
     },
     {
         "Title": "Post-mir Russia",
@@ -46,7 +58,15 @@
         "MoWeEd Track": "I'm Coming Home",
         "MoWeEd Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "I'm Coming Home",
+        "Result Artist Names": [
+            "Christian McBride"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Z4SWtUfWxjjtaU0RMFOTy",
+        "Result Album Name": "A Family Affair"
     },
     {
         "Title": "Levels of Literacy",
@@ -70,7 +90,15 @@
         "MoWeEd Track": "Train Shuffle",
         "MoWeEd Artists": [
             "Tom Harrell"
-        ]
+        ],
+        "Result Track Name": "Train Shuffle",
+        "Result Artist Names": [
+            "Tom Harrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xrPYEJeecgIBlLCLwyZxa",
+        "Result Album Name": "Upswing"
     },
     {
         "Title": "Russian Diplomats Expelled",
@@ -88,13 +116,26 @@
         "MoWeEd Track": "Night Passage",
         "MoWeEd Artists": [
             "Shadowfax"
-        ]
+        ],
+        "Result Track Name": "Night Passage",
+        "Result Artist Names": [
+            "Shadowfax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CsQDFbn8cGtoBapZYvOVI",
+        "Result Album Name": "Magic Theater"
     },
     {
         "MoWeEd Track": "Organ Concerto No. 2, BMW 593",
         "MoWeEd Artists": [
             "Brian Slawson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Youth Census",
@@ -107,7 +148,15 @@
         "MoWeEd Artists": [
             "James Moody",
             "Mark Turner"
-        ]
+        ],
+        "Result Track Name": "If You Could See Me Now",
+        "Result Artist Names": [
+            "James Moody"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1IQTQD8zEAc5nzdu5oigWW",
+        "Result Album Name": "Warner Jams, Vol. 2: The Two Tenors"
     },
     {
         "Title": "Violence In Macedonia",
@@ -119,7 +168,12 @@
         "MoWeEd Track": "Fire of Ada",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Wonders of Aluminum",
@@ -149,6 +203,11 @@
         "MoWeEd Track": "Marion's Suite for flute & ensemble, Nos 1-5, complete",
         "MoWeEd Artists": [
             "Alain Marion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

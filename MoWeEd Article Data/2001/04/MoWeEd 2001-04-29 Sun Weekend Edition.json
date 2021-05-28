@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-04-29",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:20:53"
+        "Scanned Date": "2021-05-27 16:20:53",
+        "Playlist URI": "5yqdBxKAy5UCPmuqawRXY0",
+        "Playlist Link": "https://open.spotify.com/playlist/5yqdBxKAy5UCPmuqawRXY0",
+        "Snapshot ID": "MSwwMTNkYmExMTdkMzJkNDMxOGVhN2MyMDk5ZWYxNTUwYmY2NDQ2NzY3",
+        "Playlist Name": "MoWeEd 2001-04-29 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "President Bush 100 Days",
@@ -29,19 +38,44 @@
         "MoWeEd Track": "I Want the Funk",
         "MoWeEd Artists": [
             "Karl Denson"
-        ]
+        ],
+        "Result Track Name": "I Want The Funk",
+        "Result Artist Names": [
+            "Karl Denson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eV9pWoWDdUgdNNj4kQWLo",
+        "Result Album Name": "Dance Lesson No. 2"
     },
     {
         "MoWeEd Track": "Letter from Home",
         "MoWeEd Artists": [
             "The London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Letter from Home",
+        "Result Artist Names": [
+            "Aaron Copland",
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2rM3jul4ZnIHIlfPK2Mpj6",
+        "Result Album Name": "The Copland Collection"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Schorr On 100 Days",
@@ -59,7 +93,15 @@
         "MoWeEd Track": "Incandescence",
         "MoWeEd Artists": [
             "Michael Brecker"
-        ]
+        ],
+        "Result Track Name": "Incandescence",
+        "Result Artist Names": [
+            "Michael Brecker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FPcy4Irx3ZXd5OyV9bAuA",
+        "Result Album Name": "Nearness Of You: The Ballad Book"
     },
     {
         "Title": "Texas Marsh",
@@ -78,20 +120,41 @@
         "MoWeEd Artists": [
             "Bill Monroe",
             "His Bluegrass Boys"
-        ]
+        ],
+        "Result Track Name": "Blue Moon Of Kentucky",
+        "Result Artist Names": [
+            "Bill Monroe & His Blue Grass Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:5b3okBJzJDexEm1zf2e8oq",
+        "Result Album Name": "Bluegrass Super Hits"
     },
     {
         "MoWeEd Track": "Fadeaway",
         "MoWeEd Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "Fadeaway",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WhZyPFPG9zCfvXmcyHAAs",
+        "Result Album Name": "Cosmopolis 1988-2008"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -103,7 +166,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chris Kraft",
@@ -115,7 +183,16 @@
         "MoWeEd Track": "Letter from Home",
         "MoWeEd Artists": [
             "The London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Letter from Home",
+        "Result Artist Names": [
+            "Aaron Copland",
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2rM3jul4ZnIHIlfPK2Mpj6",
+        "Result Album Name": "The Copland Collection"
     },
     {
         "Title": "Middle East",
@@ -133,19 +210,46 @@
         "MoWeEd Track": "River Journey",
         "MoWeEd Artists": [
             "Randy Armstrong"
-        ]
+        ],
+        "Result Track Name": "River Journey",
+        "Result Artist Names": [
+            "Randy Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45qSRuF5XpT7HALS3zp4I2",
+        "Result Album Name": "Dinner On The Diner Disc 2"
     },
     {
         "MoWeEd Track": "Seat on This Train",
         "MoWeEd Artists": [
             "Tom Freund"
-        ]
+        ],
+        "Result Track Name": "Seat on This Train",
+        "Result Artist Names": [
+            "Tom Freund"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1XciBTK5GMnhKhPwkoiDEX",
+        "Result Album Name": "Charlie Bartlett (Original Motion Picture Soundtrack)"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "World Bank/IMF Meeting",
@@ -157,7 +261,12 @@
         "MoWeEd Track": "Metro Chabacano",
         "MoWeEd Artists": [
             "Cuarteto Latino Americano"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Immigrants in Turkey",
@@ -169,7 +278,15 @@
         "MoWeEd Track": "Lee's Highway",
         "MoWeEd Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Lee's Highway",
+        "Result Artist Names": [
+            "Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06LJq3vSOqjOTfkwCPgoYT",
+        "Result Album Name": "Knife Edge"
     },
     {
         "Title": "Jackie O",
@@ -181,7 +298,15 @@
         "MoWeEd Track": "A Touch of Elegance",
         "MoWeEd Artists": [
             "Andre Previn"
-        ]
+        ],
+        "Result Track Name": "A Touch Of Elegance",
+        "Result Artist Names": [
+            "André Previn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6L6YZnLPKR5Ov9VEDnF30Y",
+        "Result Album Name": "A Touch Of Elegance"
     },
     {
         "Title": "Letters",
@@ -193,13 +318,26 @@
         "MoWeEd Track": "Sympatico",
         "MoWeEd Artists": [
             "Tom Freund"
-        ]
+        ],
+        "Result Track Name": "Sympatico",
+        "Result Artist Names": [
+            "Tom Freund"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4L8u3MTLTqi7shOu5PT7p5",
+        "Result Album Name": "Sympatico"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Nuns",
@@ -219,6 +357,11 @@
             "Carpenter",
             "Erskine",
             "Pasqua"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

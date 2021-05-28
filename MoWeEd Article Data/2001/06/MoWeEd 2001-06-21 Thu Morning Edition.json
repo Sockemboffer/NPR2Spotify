@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-06-21",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:14:26"
+        "Scanned Date": "2021-05-27 16:14:26",
+        "Playlist URI": "6nUU9UyP8lbZNYToJi3dA4",
+        "Playlist Link": "https://open.spotify.com/playlist/6nUU9UyP8lbZNYToJi3dA4",
+        "Snapshot ID": "MSw2NmFmOWM5OWZkNWUxOGY1MjlhNWFkNjAwNTk0MTZmZDM4ZWRjMGQ4",
+        "Playlist Name": "MoWeEd 2001-06-21 Thu Morning Edition"
     },
     {
         "Title": "Stem Cell Research",
@@ -16,14 +20,24 @@
         "MoWeEd Track": "Lyric Pieces. op. 43: 3. I Hjemmet, At Home",
         "MoWeEd Artists": [
             "Leif Ove Andsnes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Alma Mia (Soul of Mine)",
         "MoWeEd Artists": [
             "Rublacaba",
             "Gonzalo Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "American Convicted In Peru",
@@ -41,7 +55,15 @@
         "MoWeEd Track": "I'll Write a Song for You",
         "MoWeEd Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "I'll Write A Song For You",
+        "Result Artist Names": [
+            "Christian McBride"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5XFgYOGPQQ9PRchIYx9Wgj",
+        "Result Album Name": "A Family Affair"
     },
     {
         "Title": "Macedonian Peacekeeping",
@@ -53,7 +75,15 @@
         "MoWeEd Track": "A Walk By the Lake",
         "MoWeEd Artists": [
             "Axiom of Choice"
-        ]
+        ],
+        "Result Track Name": "A Walk By The Lake",
+        "Result Artist Names": [
+            "Axiom Of Choice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pq32U0i8YvzHGpZgDx4BB",
+        "Result Album Name": "Niya Yesh"
     },
     {
         "Title": "FBI In Trouble",
@@ -72,7 +102,16 @@
         "MoWeEd Artists": [
             "Manuel Barrueco",
             "Steve Morse"
-        ]
+        ],
+        "Result Track Name": "Northern Lights",
+        "Result Artist Names": [
+            "Manuel Barrueco",
+            "Steve Morse"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XJf6faGZflS8zIu9LdM77",
+        "Result Album Name": "Nylon & Steel"
     },
     {
         "Title": "Congress on Calif. Energy",
@@ -90,7 +129,15 @@
         "MoWeEd Track": "Big Feets",
         "MoWeEd Artists": [
             "Junkyard Saints"
-        ]
+        ],
+        "Result Track Name": "Big Feets",
+        "Result Artist Names": [
+            "Junkyard Saints"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LWAHR1yQUjloBo6yaBGQU",
+        "Result Album Name": "Jes Like Your Mama Told You"
     },
     {
         "Title": "Human Smuggling",
@@ -102,13 +149,30 @@
         "MoWeEd Track": "The Black Light",
         "MoWeEd Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "The Black Light",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AFAV3ip8Vz1ulJDbnMLSR",
+        "Result Album Name": "The Black Light"
     },
     {
         "MoWeEd Track": "It's a Wonderful World",
         "MoWeEd Artists": [
             "Al Cohn Quintet Featuring Zoot Sims"
-        ]
+        ],
+        "Result Track Name": "It's A Wonderful World",
+        "Result Artist Names": [
+            "Al Cohn Quintet",
+            "Zoot Sims"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6BAjteXrnESJKSy87YIX8c",
+        "Result Album Name": "Al And Zoot"
     },
     {
         "Title": "Fetal Rights",
@@ -126,7 +190,26 @@
         "MoWeEd Track": "Here Comes the Sun",
         "MoWeEd Artists": [
             "Ofra Harnoy"
-        ]
+        ],
+        "Result Track Name": "Harrison-Here Comes The Sun",
+        "Result Artist Names": [
+            "Various Artists",
+            "Pyotr Ilyich Tchaikovsky",
+            "Franz Schubert",
+            "Antonín Dvořák",
+            "Jules Massenet",
+            "Franz Ignaz Danzi",
+            "Nikolai Rimsky-Korsakov",
+            "George Gershwin",
+            "George Harrison",
+            "Eugène Bozza",
+            "Halsey Stevens",
+            "Ofra Harnoy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64WyrsqMHQ9ffIQ3E9EWsR",
+        "Result Album Name": "Gershwin: Summertime"
     },
     {
         "Title": "Ellis Island Restoration",
@@ -138,7 +221,16 @@
         "MoWeEd Track": "Federal March",
         "MoWeEd Artists": [
             "Goldman Band"
-        ]
+        ],
+        "Result Track Name": "Federal March - from The Greatest Band in the Land; 2001 Digital Remaster",
+        "Result Artist Names": [
+            "Alexander Reinagle",
+            "The Goldman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3P0aWhopgEcPjbxFb0XKMC",
+        "Result Album Name": "Greatest Band In The Land!"
     },
     {
         "Title": "Milosevic Extradition",
@@ -157,7 +249,12 @@
         "MoWeEd Artists": [
             "Kantorow",
             "Orchestre D'Auvergne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pacifica Troubles",
@@ -169,6 +266,11 @@
         "MoWeEd Track": "Jack of Speed",
         "MoWeEd Artists": [
             "Phil Upchurch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

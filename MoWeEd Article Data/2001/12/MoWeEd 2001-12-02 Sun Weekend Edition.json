@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-12-02",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 15:55:09"
+        "Scanned Date": "2021-05-27 15:55:09",
+        "Playlist URI": "2A6FGtFdSMBGlLgYmyeGVG",
+        "Playlist Link": "https://open.spotify.com/playlist/2A6FGtFdSMBGlLgYmyeGVG",
+        "Snapshot ID": "MSwxNzY4MzhkYjU1YmFhZmY2ZDMxODkwYWM4YjlmYTAyYWEzNjcyOTg1",
+        "Playlist Name": "MoWeEd 2001-12-02 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israel",
@@ -29,7 +38,15 @@
         "MoWeEd Track": "From Music for Bill & Me",
         "MoWeEd Artists": [
             "Lou Harrison"
-        ]
+        ],
+        "Result Track Name": "From Music For Bill & Me",
+        "Result Artist Names": [
+            "Lou Harrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bVgcDkiPNkk1967y05jRW",
+        "Result Album Name": "The Perilous Chapel"
     },
     {
         "Title": "Bonn Conference",
@@ -41,19 +58,40 @@
         "MoWeEd Track": "Terra Nova",
         "MoWeEd Artists": [
             "Megadrums"
-        ]
+        ],
+        "Result Track Name": "Terra Nova",
+        "Result Artist Names": [
+            "Megadrums"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0j1xtofF9ZK8t4QdoSAMGU",
+        "Result Album Name": "Terra Nova"
     },
     {
         "MoWeEd Track": "Ghoom",
         "MoWeEd Artists": [
             "Junoon"
-        ]
+        ],
+        "Result Track Name": "Ghoom",
+        "Result Artist Names": [
+            "Junoon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yMtOxyBTOr0vTlSZgKSNF",
+        "Result Album Name": "Parvaaz"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kunduz",
@@ -66,7 +104,15 @@
         "MoWeEd Artists": [
             "Shaw Blades",
             "Jack Blades et. al."
-        ]
+        ],
+        "Result Track Name": "Come to Be My Friend",
+        "Result Artist Names": [
+            "Shaw / Blades"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6WBidLRAf6ibRrj54V3p6u",
+        "Result Album Name": "Album Rock"
     },
     {
         "Title": "IBM in Vermont",
@@ -78,7 +124,15 @@
         "MoWeEd Track": "Love You To",
         "MoWeEd Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "You've Got To Hide Your Love Away - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4F1AgKpuFRMLEgtPETVwZk",
+        "Result Album Name": "Help! (Remastered)"
     },
     {
         "Title": "Remembering George Harrison",
@@ -90,7 +144,15 @@
         "MoWeEd Track": "Isn't It a Pity?",
         "MoWeEd Artists": [
             "George Harrison"
-        ]
+        ],
+        "Result Track Name": "Isn't It A Pity - Remastered 2014",
+        "Result Artist Names": [
+            "George Harrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25fDeVbN8AYWRriJfutwaG",
+        "Result Album Name": "All Things Must Pass (Remastered 2014)"
     },
     {
         "Title": "Seasons Eatings",
@@ -102,19 +164,40 @@
         "MoWeEd Track": "Run for It",
         "MoWeEd Artists": [
             "Charlie Hunter Quartet"
-        ]
+        ],
+        "Result Track Name": "Run For It",
+        "Result Artist Names": [
+            "Charlie Hunter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5wvWSNC4ZtybzajKAc4pH1",
+        "Result Album Name": "Steady Groovin'"
     },
     {
         "MoWeEd Track": "My Sweet Lord [2000]",
         "MoWeEd Artists": [
             "George Harrison"
-        ]
+        ],
+        "Result Track Name": "My Sweet Lord (2000) - Remastered 2014",
+        "Result Artist Names": [
+            "George Harrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oxHHrFsVjEznaaqd3uS1P",
+        "Result Album Name": "All Things Must Pass (Remastered 2014)"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -126,7 +209,15 @@
         "MoWeEd Track": "Emabhaceni",
         "MoWeEd Artists": [
             "Miriam Makeba"
-        ]
+        ],
+        "Result Track Name": "Emabhaceni",
+        "Result Artist Names": [
+            "Miriam Makeba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wxl6ujgKXPtJec2TTwGNL",
+        "Result Album Name": "Sangoma"
     },
     {
         "Title": "Pakistani Filmmaker",
@@ -138,7 +229,15 @@
         "MoWeEd Track": "Mitti",
         "MoWeEd Artists": [
             "Junoon"
-        ]
+        ],
+        "Result Track Name": "Mitti",
+        "Result Artist Names": [
+            "Junoon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6lFLub8zWwTfNOtNmwJMuh",
+        "Result Album Name": "Parvaaz"
     },
     {
         "Title": "Jerusalem Bombing",
@@ -162,19 +261,46 @@
         "MoWeEd Track": "In My Other World",
         "MoWeEd Artists": [
             "Julee Cruise"
-        ]
+        ],
+        "Result Track Name": "In My Other World",
+        "Result Artist Names": [
+            "Julee Cruise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7KC9Z7Aezz462Kcx9URdo4",
+        "Result Album Name": "The Voice Of Love"
     },
     {
         "MoWeEd Track": "Dream",
         "MoWeEd Artists": [
             "Bill Charlap"
-        ]
+        ],
+        "Result Track Name": "Dream",
+        "Result Artist Names": [
+            "Bill Charlap Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0psSSpJgJIkaAY4a8jND1V",
+        "Result Album Name": "Written In The Stars"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "Breton Language",
@@ -186,7 +312,15 @@
         "MoWeEd Track": "Tacones Lojanos",
         "MoWeEd Artists": [
             "Ryuichi Sakamoto"
-        ]
+        ],
+        "Result Track Name": "Tacones Lojanos",
+        "Result Artist Names": [
+            "Ryuichi Sakamoto Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nXTWY9d94vrBgzy3cadS0",
+        "Result Album Name": "Talons Aiguilles De Pedro Almodovar"
     },
     {
         "Title": "Mexico City Streets",
@@ -204,7 +338,12 @@
         "MoWeEd Track": "So Nice (Summer Samba)",
         "MoWeEd Artists": [
             "Billy May"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Wedding",
@@ -216,19 +355,40 @@
         "MoWeEd Track": "Miss Laurence",
         "MoWeEd Artists": [
             "Franck Avitabile"
-        ]
+        ],
+        "Result Track Name": "Miss Laurence",
+        "Result Artist Names": [
+            "Franck Avitabile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JzxhtP8TmDWOQEtXXcRh9",
+        "Result Album Name": "Right Time"
     },
     {
         "MoWeEd Track": "On a Slow Boat to China",
         "MoWeEd Artists": [
             "Bill Charlap"
-        ]
+        ],
+        "Result Track Name": "On A Slow Boat To China",
+        "Result Artist Names": [
+            "Bill Charlap Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3uoTPKf0V0MeeMtkcEsj2C",
+        "Result Album Name": "Written In The Stars"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -246,6 +406,11 @@
         "MoWeEd Track": "One for My Baby (And One More for the Road)",
         "MoWeEd Artists": [
             "Bill Charlap"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

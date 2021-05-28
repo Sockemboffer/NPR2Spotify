@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-08-15",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 16:08:17"
+        "Scanned Date": "2021-05-27 16:08:17",
+        "Playlist URI": "01dqehNrK4o8QddEevHkPb",
+        "Playlist Link": "https://open.spotify.com/playlist/01dqehNrK4o8QddEevHkPb",
+        "Snapshot ID": "MSwyMWQ5NzNkM2MxMWRhNDZmYjZhYzc0ODg2OGYwZjdmYzQxMzkwNzI3",
+        "Playlist Name": "MoWeEd 2001-08-15 Wed Morning Edition"
     },
     {
         "Title": "Embryo Case",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Etude In A Menuet Form",
         "MoWeEd Artists": [
             "Carlos Barbosa-Lima"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Big Mountain Sunrise",
         "MoWeEd Artists": [
             "Larry Pattis"
-        ]
+        ],
+        "Result Track Name": "Big Mountain Sunrise",
+        "Result Artist Names": [
+            "Larry Pattis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KKFV93C7B3SuVJTKvo3h1",
+        "Result Album Name": "Random Chance"
     },
     {
         "Title": "Mississippi Ayers Case",
@@ -40,7 +57,15 @@
         "MoWeEd Track": "33",
         "MoWeEd Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "33",
+        "Result Artist Names": [
+            "Matt Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7KaoaphEMFiu3NBVV3LQRd",
+        "Result Album Name": "Latitude"
     },
     {
         "Title": "Human Rights in Kazahkstan",
@@ -52,7 +77,15 @@
         "MoWeEd Track": "A Life in East Poultney",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "A Life In East Poultney",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PPZE1lHzm2RN9Zw2Vo29j",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "Zimbabwe Land Grab",
@@ -70,7 +103,12 @@
         "MoWeEd Track": "Circles",
         "MoWeEd Artists": [
             "Adamfcolours"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Moscow Air Show",
@@ -88,7 +126,18 @@
         "MoWeEd Track": "Take Four",
         "MoWeEd Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Take Four",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Axe Murderers",
+            "The Rockin' Rhythmaires",
+            "The Heavenly Horns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eaTwFTCqNnDDxtun1JfPr",
+        "Result Album Name": "Strong Like Bull...But Sensitive Like Squirrel"
     },
     {
         "Title": "NATO in Macedonia",
@@ -107,13 +156,30 @@
         "MoWeEd Artists": [
             "Paul Winter",
             "the Earth Band"
-        ]
+        ],
+        "Result Track Name": "Middle Oasis",
+        "Result Artist Names": [
+            "Paul Winter & The Earth Band",
+            "Arto Tunçboyacıyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kYA6L6VATRTVEmvkO2EkA",
+        "Result Album Name": "Journey with the Sun"
     },
     {
         "MoWeEd Track": "Some Other Spring",
         "MoWeEd Artists": [
             "Mark Whitfield"
-        ]
+        ],
+        "Result Track Name": "Some Other Spring",
+        "Result Artist Names": [
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rLRnsPDrAObt7APYvB0i7",
+        "Result Album Name": "Forever Love"
     },
     {
         "Title": "Computerized Homes",
@@ -125,7 +191,15 @@
         "MoWeEd Track": "Joys and Sorrow",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Joys And Sorrows",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4OhoplBqekWig91Unn7Adx",
+        "Result Album Name": "Mistura Fina"
     },
     {
         "Title": "WTO Protesters Freed",
@@ -137,7 +211,15 @@
         "MoWeEd Track": "Little Wing",
         "MoWeEd Artists": [
             "Nigel Kennedy"
-        ]
+        ],
+        "Result Track Name": "Little Wing",
+        "Result Artist Names": [
+            "Nigel Kennedy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1yJJ6D9vyJu7QBBo7P9Qo0",
+        "Result Album Name": "The Kennedy Experience"
     },
     {
         "Title": "Aboriginal Activist",
@@ -155,7 +237,12 @@
         "MoWeEd Track": "Guitar Boogie",
         "MoWeEd Artists": [
             "Van Manakas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Still Exhibition",
@@ -167,6 +254,14 @@
         "MoWeEd Track": "I Remember Clifford",
         "MoWeEd Artists": [
             "Arturo Sandoval"
-        ]
+        ],
+        "Result Track Name": "I Remember Clifford",
+        "Result Artist Names": [
+            "Arturo Sandoval"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ws9xoMw0E0xne5PDoK4p2",
+        "Result Album Name": "I Remember Clifford"
     }
 ]

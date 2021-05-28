@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-08-01",
         "Day": "Wed",
-        "Scanned Date": "2021-05-27 16:07:06"
+        "Scanned Date": "2021-05-27 16:07:06",
+        "Playlist URI": "3KGygU1BGxM95CBDzFj2Ja",
+        "Playlist Link": "https://open.spotify.com/playlist/3KGygU1BGxM95CBDzFj2Ja",
+        "Snapshot ID": "MSxjNWJiMzAwYWViMmIzN2JiOWI5MGM2NGEwOGU5YTA4ZjkwYjllOTlj",
+        "Playlist Name": "MoWeEd 2001-08-01 Wed Morning Edition"
     },
     {
         "Title": "Anti-Cloning Bill Passes",
@@ -22,13 +26,29 @@
         "MoWeEd Track": "Wendy",
         "MoWeEd Artists": [
             "Jim Hall"
-        ]
+        ],
+        "Result Track Name": "Wendy",
+        "Result Artist Names": [
+            "Jim Hall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Cc5s599hEdc4yvKYVLi9n",
+        "Result Album Name": "By Arrangement"
     },
     {
         "MoWeEd Track": "Synchronised Sinking",
         "MoWeEd Artists": [
             "The Lucksmiths"
-        ]
+        ],
+        "Result Track Name": "Synchronised Sinking",
+        "Result Artist Names": [
+            "The Lucksmiths"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6I2zmRM2GyX2paBhknolyh",
+        "Result Album Name": "Why That Doesn't Surprise Me"
     },
     {
         "Title": "Final Favorite Summer",
@@ -40,7 +60,15 @@
         "MoWeEd Track": "Martin Denny, Esq.",
         "MoWeEd Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "martin denny esq",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qa377ASd61EBWEhpLoAar",
+        "Result Album Name": "Surfmania"
     },
     {
         "Title": "Teen Dating Violence",
@@ -52,7 +80,12 @@
         "MoWeEd Track": "Voyage for Ireland",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Lucksmiths",
@@ -82,7 +115,12 @@
         "MoWeEd Track": "In the Limelight",
         "MoWeEd Artists": [
             "David Lindup"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East Violence",
@@ -100,7 +138,15 @@
         "MoWeEd Track": "Old Grey Mare",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Old Grey Mare",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AF5CnHKMRXD5mFFoPqVTX",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "MTV Turns 20",
@@ -118,7 +164,15 @@
         "MoWeEd Track": "Martin Denny, Esq.",
         "MoWeEd Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "martin denny esq",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qa377ASd61EBWEhpLoAar",
+        "Result Album Name": "Surfmania"
     },
     {
         "Title": "Oakland Mayor Makes Changes",
@@ -137,7 +191,12 @@
         "MoWeEd Artists": [
             "Alan Evans",
             "Neal Evans et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Christians In Hollywood",
@@ -149,6 +208,14 @@
         "MoWeEd Track": "Lullaby",
         "MoWeEd Artists": [
             "The Houdini's In New York"
-        ]
+        ],
+        "Result Track Name": "Lullaby",
+        "Result Artist Names": [
+            "The Houdini's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3ZCtrFsoFxqE7DfNJPlRy4",
+        "Result Album Name": "The Houdini's in New York - Headlines"
     }
 ]

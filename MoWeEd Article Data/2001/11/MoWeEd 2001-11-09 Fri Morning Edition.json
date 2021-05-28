@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-11-09",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 15:58:40"
+        "Scanned Date": "2021-05-27 15:58:40",
+        "Playlist URI": "19bq9KEoNyVSiXP7Ys78ln",
+        "Playlist Link": "https://open.spotify.com/playlist/19bq9KEoNyVSiXP7Ys78ln",
+        "Snapshot ID": "MSxjZjE2ODMzNTk0MTc5M2IzZDA0ZGFhNWUwNjdiNTM3MTY5NDY0YmEx",
+        "Playlist Name": "MoWeEd 2001-11-09 Fri Morning Edition"
     },
     {
         "Title": "Bush in Atlanta",
@@ -22,13 +26,30 @@
         "MoWeEd Track": "Scherzino Mexicano for guitar",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Scherzino Mexicano (Arr. A. Díaz for Guitar)",
+        "Result Artist Names": [
+            "Manuel Ponce",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wmAf9mCz2craczy2to3GY",
+        "Result Album Name": "Classic Williams -- Romance of the Guitar"
     },
     {
         "MoWeEd Track": "Fingerprints",
         "MoWeEd Artists": [
             "Larry Carlton"
-        ]
+        ],
+        "Result Track Name": "Fingerprints",
+        "Result Artist Names": [
+            "Larry Carlton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VJsU4MsRTc2gOK6NcoDQg",
+        "Result Album Name": "Fingerprints"
     },
     {
         "Title": "U.S. Economy",
@@ -46,7 +67,15 @@
         "MoWeEd Track": "My Rival",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "My Rival",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1PIoSHsERoVqCsg155joml",
+        "Result Album Name": "Gaucho"
     },
     {
         "Title": "Colombia Troubles",
@@ -59,7 +88,12 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "The Amsterdam Baroque Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Coping Since Sept. 11",
@@ -71,13 +105,29 @@
         "MoWeEd Track": "Winona",
         "MoWeEd Artists": [
             "John Toomy Trio"
-        ]
+        ],
+        "Result Track Name": "Winona",
+        "Result Artist Names": [
+            "The John Toomey Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:676N94tjMPzXep3lw4XCed",
+        "Result Album Name": "Refraction"
     },
     {
         "MoWeEd Track": "Greg Leisz",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Greg Leisz",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15USFH0IR2arB7Twlt3l5G",
+        "Result Album Name": "Blues Dream"
     },
     {
         "Title": "Pakistan Tariffs",
@@ -89,7 +139,15 @@
         "MoWeEd Track": "Her Name Is Nancy",
         "MoWeEd Artists": [
             "The Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Her Name is Nancy",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nQmPnZrKswsKdNDrOep5B",
+        "Result Album Name": "So What's New?"
     },
     {
         "Title": "Investigation Wrap",
@@ -107,14 +165,31 @@
         "MoWeEd Track": "Tillana: Kalyanavasantam",
         "MoWeEd Artists": [
             "Rays of Romance"
-        ]
+        ],
+        "Result Track Name": "Tillana:Kalyanavasantam",
+        "Result Artist Names": [
+            "Rays of Romance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2X1obTcYOvbDQTZC2tSPgD",
+        "Result Album Name": "Silver Dagger & Other Vehement Valentines"
     },
     {
         "MoWeEd Track": "La Romanesca",
         "MoWeEd Artists": [
             "Peter Cooper",
             "Marcia Labella"
-        ]
+        ],
+        "Result Track Name": "La Romanesca",
+        "Result Artist Names": [
+            "Peter Cooper",
+            "Marcia Labella"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7phho2ER7rfatO70m3OwC6",
+        "Result Album Name": "Whispers of the Past"
     },
     {
         "Title": "Distant Voices",
@@ -138,7 +213,12 @@
         "MoWeEd Track": "Visual Purple",
         "MoWeEd Artists": [
             "Barry Cleveland"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Detainees",
@@ -157,20 +237,42 @@
         "MoWeEd Artists": [
             "New England Ragtime Ensemble",
             "Gunther Schuller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "La Romanesca",
         "MoWeEd Artists": [
             "Peter Cooper",
             "Marcia Labella"
-        ]
+        ],
+        "Result Track Name": "La Romanesca",
+        "Result Artist Names": [
+            "Peter Cooper",
+            "Marcia Labella"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7phho2ER7rfatO70m3OwC6",
+        "Result Album Name": "Whispers of the Past"
     },
     {
         "MoWeEd Track": "Pacific Lights",
         "MoWeEd Artists": [
             "Don Grusin"
-        ]
+        ],
+        "Result Track Name": "Pacific Lights",
+        "Result Artist Names": [
+            "Don Grusin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ead306lUIqUJqLbYmzCO8",
+        "Result Album Name": "Banana Fish"
     },
     {
         "Title": "Minnesota Twins Reaction",
@@ -194,7 +296,15 @@
         "MoWeEd Track": "Naima",
         "MoWeEd Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "Naima",
+        "Result Artist Names": [
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hVRTl4yhWmGW7ImZoO22e",
+        "Result Album Name": "Giant Steps (Deluxe Edition)"
     },
     {
         "Title": "Mazar-e-Sharif Invasion",

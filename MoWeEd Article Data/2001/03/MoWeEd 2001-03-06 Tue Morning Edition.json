@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-03-06",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:21:30"
+        "Scanned Date": "2021-05-27 16:21:30",
+        "Playlist URI": "7g7E0a1dXarivD8kcXTBHk",
+        "Playlist Link": "https://open.spotify.com/playlist/7g7E0a1dXarivD8kcXTBHk",
+        "Snapshot ID": "MSw3MzczMzJlM2U4NzllNzkyOThkZGRkNmEzZjhlMjhmOGE1YzgyYTU2",
+        "Playlist Name": "MoWeEd 2001-03-06 Tue Morning Edition"
     },
     {
         "Title": "Cheney's Heart",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Trio: Water Music (G.F. Handel)",
         "MoWeEd Artists": [
             "Wind Machine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Future of Health Care",
@@ -34,7 +43,12 @@
         "MoWeEd Track": "Shenandoh",
         "MoWeEd Artists": [
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Turkish Money",
@@ -46,7 +60,15 @@
         "MoWeEd Track": "Esawayo",
         "MoWeEd Artists": [
             "Samite"
-        ]
+        ],
+        "Result Track Name": "Esawayo",
+        "Result Artist Names": [
+            "Samite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:609tQZaZr5eulqr8xdfUWE",
+        "Result Album Name": "Stars To Share"
     },
     {
         "Title": "'Angels and Cigarettes'",
@@ -64,7 +86,15 @@
         "MoWeEd Track": "Harlem Country Girl",
         "MoWeEd Artists": [
             "Olu Dara"
-        ]
+        ],
+        "Result Track Name": "Harlem Country Girl",
+        "Result Artist Names": [
+            "Olu Dara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BiMtGLiRi3THLTPwvkHkd",
+        "Result Album Name": "From Natchez To New York"
     },
     {
         "Title": "Bush Hits the Road",
@@ -82,7 +112,16 @@
         "MoWeEd Track": "Sonata for violin and piano",
         "MoWeEd Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": "Sonata For Violin And Piano: Dance",
+        "Result Artist Names": [
+            "Keith Jarrett",
+            "Michelle Makarski"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rj8gMI6J2c25YolLLuDRt",
+        "Result Album Name": "Bridge Of Light"
     },
     {
         "Title": "Drug Patents",
@@ -94,7 +133,15 @@
         "MoWeEd Track": "Friendship Suite, Third Movement: Love You Nana",
         "MoWeEd Artists": [
             "J.J. Johnson"
-        ]
+        ],
+        "Result Track Name": "Third Movement: Love You Nana",
+        "Result Artist Names": [
+            "J.J. Johnson"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1I029A5hFfabboRtDzAmP8",
+        "Result Album Name": "Let's Hang Out"
     },
     {
         "Title": "Boat Accident Inquiry",
@@ -106,7 +153,15 @@
         "MoWeEd Track": "Three/Quarter North",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Three/Quarter North",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qGgTXeBZCl7eei3axSzhQ",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "Salt from Lake Erie",
@@ -124,7 +179,15 @@
         "MoWeEd Track": "Smiling",
         "MoWeEd Artists": [
             "The Beta Band"
-        ]
+        ],
+        "Result Track Name": "Smiling",
+        "Result Artist Names": [
+            "The Beta Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CG3shENe3XsamJV1rgfUu",
+        "Result Album Name": "The Beta Band"
     },
     {
         "Title": "Loyalty Series",
@@ -136,6 +199,11 @@
         "MoWeEd Track": "Theme from Our Fairytale",
         "MoWeEd Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

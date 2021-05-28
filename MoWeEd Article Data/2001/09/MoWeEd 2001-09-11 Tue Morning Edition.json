@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-09-11",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:04:58"
+        "Scanned Date": "2021-05-27 16:04:58",
+        "Playlist URI": "4wzhDwvC8y0kcXFvmkkvL4",
+        "Playlist Link": "https://open.spotify.com/playlist/4wzhDwvC8y0kcXFvmkkvL4",
+        "Snapshot ID": "MSw1MDI0YTgwNjY1YTE4N2JjNWVmYjBlZGQxYmI1MWFjNWI3ODRmODcw",
+        "Playlist Name": "MoWeEd 2001-09-11 Tue Morning Edition"
     },
     {
         "Title": "World Trade Center Attack #1",
@@ -34,7 +38,15 @@
         "MoWeEd Track": "Street Scenes",
         "MoWeEd Artists": [
             "David Sanchez"
-        ]
+        ],
+        "Result Track Name": "Street Scenes",
+        "Result Artist Names": [
+            "David Sánchez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0p3zg6I8Zhho8Tiip6MkWI",
+        "Result Album Name": "Street Scenes"
     },
     {
         "Title": "Education Bill",
@@ -52,7 +64,15 @@
         "MoWeEd Track": "Unexpectedly",
         "MoWeEd Artists": [
             "Alex Grant"
-        ]
+        ],
+        "Result Track Name": "Unexpectedly",
+        "Result Artist Names": [
+            "Alex Grant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0tt7Us76Xxaln2BBVYG7wZ",
+        "Result Album Name": "Evening's Last Light"
     },
     {
         "Title": "Michael Jordan",
@@ -76,7 +96,12 @@
         "MoWeEd Track": "Orange Roughy",
         "MoWeEd Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Scanner Inventor Obituary",
@@ -95,7 +120,15 @@
         "MoWeEd Artists": [
             "Harry Connick",
             "Jr."
-        ]
+        ],
+        "Result Track Name": "Blue Skies",
+        "Result Artist Names": [
+            "Harry Connick, Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oQEYEjWTV2SWHQeqtSd4C",
+        "Result Album Name": "20"
     },
     {
         "Title": "Bonior",
@@ -113,7 +146,17 @@
         "MoWeEd Track": "Liz & Opie",
         "MoWeEd Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "Liz & Opie",
+        "Result Artist Names": [
+            "Victor Wooten",
+            "Dennis Chambers",
+            "Bob Franceschini"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45CVKBcLhDRX4ufyCjkwfk",
+        "Result Album Name": "TRYPNOTYX"
     },
     {
         "Title": "Military Reforms",
@@ -131,7 +174,15 @@
         "MoWeEd Track": "Rainwatching W.I.",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Rainwatching W.I.",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2erZbSdBYO5I9h5bzwxugU",
+        "Result Album Name": "Positive Thinking"
     },
     {
         "Title": "Powell In Peru",
@@ -143,7 +194,15 @@
         "MoWeEd Track": "Black and White (As Simple As)",
         "MoWeEd Artists": [
             "Joe Sample"
-        ]
+        ],
+        "Result Track Name": "Black and White (As Simple As)",
+        "Result Artist Names": [
+            "Joe Sample"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55tJ5pJTdy0XwHuD2Q7QHy",
+        "Result Album Name": "The Best Of Joe Sample"
     },
     {
         "Title": "Wine Worker Housing",
@@ -162,7 +221,15 @@
         "MoWeEd Artists": [
             "Stéphane Grappelli",
             "Louie Bellson et. al."
-        ]
+        ],
+        "Result Track Name": "Fascinating Rhythm",
+        "Result Artist Names": [
+            "Louie Bellson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4w1EFOfcebUHrbl3p77al7",
+        "Result Album Name": "Jazz Guitar Jams"
     },
     {
         "Title": "Vegetable Theme Park",
@@ -174,6 +241,14 @@
         "MoWeEd Track": "Roller Coaster",
         "MoWeEd Artists": [
             "Les Baxter"
-        ]
+        ],
+        "Result Track Name": "Roller Coaster - Remastered",
+        "Result Artist Names": [
+            "Les Baxter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EDqYsAoHank8cd5bIEH8C",
+        "Result Album Name": "Ultra-Lounge/Cocktail Capers"
     }
 ]

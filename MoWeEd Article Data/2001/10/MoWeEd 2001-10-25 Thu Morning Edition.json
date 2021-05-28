@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-10-25",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:03:20"
+        "Scanned Date": "2021-05-27 16:03:20",
+        "Playlist URI": "74T8vkLva48sSu324lT4pA",
+        "Playlist Link": "https://open.spotify.com/playlist/74T8vkLva48sSu324lT4pA",
+        "Snapshot ID": "MSw2YThmM2ZmODEyZmFiZjcyNzk3YTY5OGI1Yjc3N2E2MWNkODhlNTJj",
+        "Playlist Name": "MoWeEd 2001-10-25 Thu Morning Edition"
     },
     {
         "Title": "Post Office and Anthrax",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "The Storysinger (Vijaya's Story)",
         "MoWeEd Artists": [
             "Warren Senders"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stimulus Package",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Salt Lick",
         "MoWeEd Artists": [
             "Jeff Coffin"
-        ]
+        ],
+        "Result Track Name": "Salt Lick",
+        "Result Artist Names": [
+            "Jeff Coffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0V3piNXCLR0TJrzqX5GOF7",
+        "Result Album Name": "Commonality"
     },
     {
         "Title": "Natural Gas",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Ready for Freddie",
         "MoWeEd Artists": [
             "Brian Hughes"
-        ]
+        ],
+        "Result Track Name": "Ready for Freddy",
+        "Result Artist Names": [
+            "Brian Hughes"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fC7EPhbng377RXJn6vaio",
+        "Result Album Name": "Shakin' Not Stirred"
     },
     {
         "Title": "Smallpox",
@@ -82,7 +107,15 @@
         "MoWeEd Track": "Morning in Madrid",
         "MoWeEd Artists": [
             "Nightnoise"
-        ]
+        ],
+        "Result Track Name": "Morning In Madrid",
+        "Result Artist Names": [
+            "Nightnoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BDgMZyJGOi5eBVBaMZbGf",
+        "Result Album Name": "Pure Nightnoise"
     },
     {
         "Title": "Military",
@@ -101,7 +134,15 @@
         "MoWeEd Artists": [
             "Paul Reisler",
             "Martha Sandefer et. al."
-        ]
+        ],
+        "Result Track Name": "Hawk",
+        "Result Artist Names": [
+            "Paul Reisler and Trapezoid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0DgAZYuZD0QkzxKIMrbDig",
+        "Result Album Name": "Remembered Way"
     },
     {
         "Title": "Senator Biden",
@@ -119,7 +160,15 @@
         "MoWeEd Track": "Larry's World",
         "MoWeEd Artists": [
             "Russ Freeman"
-        ]
+        ],
+        "Result Track Name": "Larry's World",
+        "Result Artist Names": [
+            "Russ Freeman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ciuEmvpjzPbztcSTokIku",
+        "Result Album Name": "Sounds Of Wood & Steel: A Windham Hill Collection"
     },
     {
         "Title": "Decontamination",
@@ -131,7 +180,15 @@
         "MoWeEd Track": "The Drifter",
         "MoWeEd Artists": [
             "Craig Chaquico"
-        ]
+        ],
+        "Result Track Name": "The Drifter",
+        "Result Artist Names": [
+            "Craig Chaquico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hXmLImQMTtDDtAKcZkLzh",
+        "Result Album Name": "Four Corners"
     },
     {
         "Title": "Uzbekistan Drugs",

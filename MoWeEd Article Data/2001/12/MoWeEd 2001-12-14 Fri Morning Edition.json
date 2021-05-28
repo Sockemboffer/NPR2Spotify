@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-12-14",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 15:56:17"
+        "Scanned Date": "2021-05-27 15:56:17",
+        "Playlist URI": "56PF4iMZSUpPhPpI7OEd35",
+        "Playlist Link": "https://open.spotify.com/playlist/56PF4iMZSUpPhPpI7OEd35",
+        "Snapshot ID": "MSw5ZGQwYjE2ZTIzMTM5ZWFlNjllY2FiZTdiOTNkYzQ5N2JhYjZjMGFh",
+        "Playlist Name": "MoWeEd 2001-12-14 Fri Morning Edition"
     },
     {
         "Title": "Bin Laden Tape",
@@ -23,7 +27,12 @@
         "MoWeEd Artists": [
             "Geoff Smith",
             "Nicola Walker Smith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Election Reform Bill",
@@ -41,7 +50,15 @@
         "MoWeEd Track": "Requiem",
         "MoWeEd Artists": [
             "Richard Hunter"
-        ]
+        ],
+        "Result Track Name": "Requiem",
+        "Result Artist Names": [
+            "The Hunter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6mQSzPrCopn2AomM39Rf0u",
+        "Result Album Name": "Requiem"
     },
     {
         "Title": "Cracker Barrel Lawsuit",
@@ -53,7 +70,15 @@
         "MoWeEd Track": "Pictures",
         "MoWeEd Artists": [
             "Mojave 3"
-        ]
+        ],
+        "Result Track Name": "Pictures",
+        "Result Artist Names": [
+            "Mojave 3"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sq8ktNLlLdZyBNRw1k8Qd",
+        "Result Album Name": "Ask Me Tomorrow"
     },
     {
         "Title": "Booksellers' Picks for the Holiday Season",
@@ -71,7 +96,15 @@
         "MoWeEd Track": "Kozatsky 'Til You Dropsky",
         "MoWeEd Artists": [
             "Shirim Klezmer Orchestra"
-        ]
+        ],
+        "Result Track Name": "Kozatsky 'til You Dropsky",
+        "Result Artist Names": [
+            "Shirim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7zZaJ59SRe4sRJ2UZyyvyN",
+        "Result Album Name": "Klezmer Nutcracker"
     },
     {
         "Title": "Philadelphia Arts Center",
@@ -84,7 +117,12 @@
         "MoWeEd Artists": [
             "Boston Symphony Orchestra",
             "Erich Leinsdorf"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Al Qaeda Holdouts",
@@ -102,7 +140,15 @@
         "MoWeEd Track": "Synaesthetic",
         "MoWeEd Artists": [
             "Blue Man Group"
-        ]
+        ],
+        "Result Track Name": "Synaesthetic",
+        "Result Artist Names": [
+            "Blue Man Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sTxjEzhGKS4WkGCGs6y5n",
+        "Result Album Name": "Audio"
     },
     {
         "Title": "Al Qaeda Operations Manual",
@@ -114,7 +160,15 @@
         "MoWeEd Track": "The Stone and the Rose",
         "MoWeEd Artists": [
             "Hisham"
-        ]
+        ],
+        "Result Track Name": "The Stone and the Rose",
+        "Result Artist Names": [
+            "Hisham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21Qb5wuqrui1FFZFwWPyse",
+        "Result Album Name": "Rhythm: A Real Music Sampler"
     },
     {
         "Title": "Figure Skating",
@@ -138,7 +192,12 @@
         "MoWeEd Track": "Paris",
         "MoWeEd Artists": [
             "Oystein Sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Holiday Flicks",
@@ -156,6 +215,14 @@
         "MoWeEd Track": "O Tannenbaum",
         "MoWeEd Artists": [
             "Gary Burton"
-        ]
+        ],
+        "Result Track Name": "O, Tannenbaum",
+        "Result Artist Names": [
+            "Gary Burton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4btchFf6qN70jlCwR5xaOe",
+        "Result Album Name": "A GRP Christmas Collection"
     }
 ]

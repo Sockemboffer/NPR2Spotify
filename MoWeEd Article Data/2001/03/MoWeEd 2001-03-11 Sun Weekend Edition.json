@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-03-11",
         "Day": "Sun",
-        "Scanned Date": "2021-05-27 16:21:58"
+        "Scanned Date": "2021-05-27 16:21:58",
+        "Playlist URI": "6ZTmHoPehx01DGL06sgjWR",
+        "Playlist Link": "https://open.spotify.com/playlist/6ZTmHoPehx01DGL06sgjWR",
+        "Snapshot ID": "MSw3NjUxMmEyYTU0NDFkODc4MWJkZDAyMjI2ZDk4MDI0MGE0NDFhYmE0",
+        "Playlist Name": "MoWeEd 2001-03-11 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congressional Cilivility",
@@ -29,7 +38,15 @@
         "MoWeEd Track": "In Spite of Me",
         "MoWeEd Artists": [
             "Morphine"
-        ]
+        ],
+        "Result Track Name": "In Spite of Me",
+        "Result Artist Names": [
+            "Morphine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wNn33j2VfP8WMZhojE3JC",
+        "Result Album Name": "Cure for Pain"
     },
     {
         "Title": "Gun Control History",
@@ -41,20 +58,45 @@
         "MoWeEd Track": "Balance",
         "MoWeEd Artists": [
             "Bob Holroyd"
-        ]
+        ],
+        "Result Track Name": "Balance",
+        "Result Artist Names": [
+            "Bob Holroyd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FSK9TAheJZh8obrfbC709",
+        "Result Album Name": "A Different Space"
     },
     {
         "MoWeEd Track": "Along the Edge",
         "MoWeEd Artists": [
             "Los Angeles Guitar Quartet",
             "LAGQ"
-        ]
+        ],
+        "Result Track Name": "Along the Edge - Instrumental",
+        "Result Artist Names": [
+            "Andrew York",
+            "Los Angeles Guitar Quartet"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:2Le7nEcV2R1zBNew14VaoX",
+        "Result Album Name": "Air & Ground"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Clones and Culture",
@@ -72,7 +114,16 @@
         "MoWeEd Track": "Time to Go",
         "MoWeEd Artists": [
             "Laurie Anderson"
-        ]
+        ],
+        "Result Track Name": "Time To Go",
+        "Result Artist Names": [
+            "Laurie Anderson",
+            "Scott Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PNplYuUbI3kB4hCTPlZ4p",
+        "Result Album Name": "New Music for Electronic and Recorded Media: Women In Electronic Music - 1977"
     },
     {
         "Title": "The Imperfect Storm",
@@ -84,13 +135,26 @@
         "MoWeEd Track": "Peter Tambourine",
         "MoWeEd Artists": [
             "Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Peter Tambourine",
+        "Result Artist Names": [
+            "The Beau Hunks Sextette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wVQJNGfC1iy4QbvX1NtrR",
+        "Result Album Name": "Celebration On The Planet Mars: A Tribute to Raymond Scott"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -102,7 +166,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>Love, Etc.</I>",
@@ -115,7 +184,16 @@
         "MoWeEd Artists": [
             "Los Angeles Guitar Quartet",
             "LAGQ"
-        ]
+        ],
+        "Result Track Name": "Along the Edge - Instrumental",
+        "Result Artist Names": [
+            "Andrew York",
+            "Los Angeles Guitar Quartet"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:2Le7nEcV2R1zBNew14VaoX",
+        "Result Album Name": "Air & Ground"
     },
     {
         "Title": "Taliban",
@@ -135,19 +213,49 @@
             "Frank Gambale",
             "Stuart Hamm",
             "Steve Smith"
-        ]
+        ],
+        "Result Track Name": "Nostalgia",
+        "Result Artist Names": [
+            "Steve Smith",
+            "Frank Gambale",
+            "Stuart Hamm"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59jVQt6tdZ9kBU8CGfmGdK",
+        "Result Album Name": "The Light Beyond"
     },
     {
         "MoWeEd Track": "Farewell",
         "MoWeEd Artists": [
             "Tan Dun"
-        ]
+        ],
+        "Result Track Name": "Farewell",
+        "Result Artist Names": [
+            "Tan Dun",
+            "Yo-Yo Ma",
+            "Chen Xie Yang",
+            "Shanghai Symphony Orchestra",
+            "Shanghai National Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gVPotK9h922oiwpZXLauX",
+        "Result Album Name": "Crouching Tiger, Hidden Dragon (Original Motion Picture Soundtrack)"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Brazil Corruption",
@@ -159,7 +267,15 @@
         "MoWeEd Track": "Family Tree",
         "MoWeEd Artists": [
             "3rd Matinee"
-        ]
+        ],
+        "Result Track Name": "Family Tree",
+        "Result Artist Names": [
+            "3rd Matinee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55DJ6o7yl83AzsI1wFHm7Q",
+        "Result Album Name": "Meanwhile"
     },
     {
         "Title": "Gulfstream Pipeline",
@@ -171,7 +287,15 @@
         "MoWeEd Track": "Shenandoah (for Johnny Smith)",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Shenandoah (For Johnny Smith)",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WDOzVi6U8H4JEeYNg3eOQ",
+        "Result Album Name": "Good Dog, Happy Man"
     },
     {
         "Title": "In the Classroom",
@@ -183,19 +307,46 @@
         "MoWeEd Track": "Dreams from the Body",
         "MoWeEd Artists": [
             "Miguel Frasconi"
-        ]
+        ],
+        "Result Track Name": "Dreams from the Body",
+        "Result Artist Names": [
+            "Miguel Frasconi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7d7DsM9dKhaHap52JQ2tVi",
+        "Result Album Name": "Song+Distance"
     },
     {
         "MoWeEd Track": "Now We Are Free",
         "MoWeEd Artists": [
             "Hans Zimmer"
-        ]
+        ],
+        "Result Track Name": "Now We Are Free (From \"Gladiator\")",
+        "Result Artist Names": [
+            "Hans Zimmer",
+            "Lisa Gerrard",
+            "Leona Lewis",
+            "Gavin Greenaway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DENhwLXDNvKf9g1oe85Ue",
+        "Result Album Name": "Hans Zimmer - The Classics"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Napster",
@@ -213,7 +364,12 @@
         "MoWeEd Track": "Napster Rap",
         "MoWeEd Artists": [
             "Eric Schwartz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Oscar Season Brings Scores Of Talent",

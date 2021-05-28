@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-04-02",
         "Day": "Mon",
-        "Scanned Date": "2021-05-27 16:18:21"
+        "Scanned Date": "2021-05-27 16:18:21",
+        "Playlist URI": "14q8XRXXM8lKiqHuO59MgQ",
+        "Playlist Link": "https://open.spotify.com/playlist/14q8XRXXM8lKiqHuO59MgQ",
+        "Snapshot ID": "MSw1ZjA5MGFlYWRmN2JjZTY5N2JkYTE0MmYyZWU4MDhhNzQ4ZDk1YzYz",
+        "Playlist Name": "MoWeEd 2001-04-02 Mon Morning Edition"
     },
     {
         "Title": "Milosevic Held On Corruption Charges",
@@ -23,7 +27,12 @@
         "MoWeEd Artists": [
             "Darol Anger",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Impact of Savannah Dredging Plan",
@@ -41,7 +50,12 @@
         "MoWeEd Track": "Dance Suite for Brass Quintet: IV. Two-Step (for Mr. B). Allegretto leggermente",
         "MoWeEd Artists": [
             "Stockholm Chamber Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Baseball Season Opens",
@@ -53,7 +67,12 @@
         "MoWeEd Track": "Dance Suite for Brass Quintet: IV. Two-Step (for Mr. B). Allegretto leggermente",
         "MoWeEd Artists": [
             "Stockholm Chamber Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Baseball and the Presidency",
@@ -66,7 +85,12 @@
         "MoWeEd Artists": [
             "New England Ragtime Ensemble",
             "Gunther Schuller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gm No Longer Number One",
@@ -84,7 +108,20 @@
         "MoWeEd Track": "C Jam Blues",
         "MoWeEd Artists": [
             "Dave Grusin"
-        ]
+        ],
+        "Result Track Name": "C-Jam Blues",
+        "Result Artist Names": [
+            "Dave Grusin",
+            "Clark Terry",
+            "Tom Scott",
+            "George Bohanon",
+            "Brian Bromberg",
+            "Harvey Mason"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rfDFF8mgpeJjHmdEQgS2n",
+        "Result Album Name": "Homage To Duke"
     },
     {
         "Title": "China Military Plane Collision",
@@ -102,7 +139,12 @@
         "MoWeEd Track": "Under the Sea (from the Little Mermaid), in the style of Joplin",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Unrest In Indonesia",
@@ -115,7 +157,15 @@
         "MoWeEd Artists": [
             "Badmarsh",
             "Shri"
-        ]
+        ],
+        "Result Track Name": "The Asian Detective",
+        "Result Artist Names": [
+            "Badmarsh & Shri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IrEfUZ0uzoDZrdsuw4QBl",
+        "Result Album Name": "Dancing Drums"
     },
     {
         "Title": "Drawbacks to Longevity",
@@ -127,7 +177,12 @@
         "MoWeEd Track": "Sonata, Mt. Ossipee, Opus 299, No. 2: Allegro Vivace",
         "MoWeEd Artists": [
             "Marvin Rosen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Northeast Immigrants",
@@ -139,7 +194,12 @@
         "MoWeEd Track": "How Long Have I Loved You",
         "MoWeEd Artists": [
             "Richard Hunter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Urban Libraries",
@@ -151,6 +211,14 @@
         "MoWeEd Track": "Tracy's Big Moment",
         "MoWeEd Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Tracy's Big Moment",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tNAkF03x3v1fYPKFhRnrw",
+        "Result Album Name": "Guitars and Other Cathedrals"
     }
 ]

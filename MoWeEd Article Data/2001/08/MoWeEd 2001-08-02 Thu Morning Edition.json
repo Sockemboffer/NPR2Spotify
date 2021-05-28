@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-08-02",
         "Day": "Thu",
-        "Scanned Date": "2021-05-27 16:07:11"
+        "Scanned Date": "2021-05-27 16:07:11",
+        "Playlist URI": "37ihJb9fN1zg2TKOoOT3Vn",
+        "Playlist Link": "https://open.spotify.com/playlist/37ihJb9fN1zg2TKOoOT3Vn",
+        "Snapshot ID": "MSxiN2Q3YzI2OWI4NjAxMDE3MTc0ZmU3YzdkZTMwNjg5MzkzM2Q3ODYw",
+        "Playlist Name": "MoWeEd 2001-08-02 Thu Morning Edition"
     },
     {
         "Title": "Energy Bill Passes",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Dream of the Forgotten Child",
         "MoWeEd Artists": [
             "David Lanz"
-        ]
+        ],
+        "Result Track Name": "Dream Of The Forgotten Child",
+        "Result Artist Names": [
+            "David Lanz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3J23qXOh9QVcCtJ0XXZRa0",
+        "Result Album Name": "Return To The Heart"
     },
     {
         "Title": "History of Innovation",
@@ -34,7 +46,15 @@
         "MoWeEd Track": "Play Dis Only At Night",
         "MoWeEd Artists": [
             "Pete Rock"
-        ]
+        ],
+        "Result Track Name": "Play Dis Only At Night",
+        "Result Artist Names": [
+            "Pete Rock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wM9Wqky53AsYk4QcNokxD",
+        "Result Album Name": "Petestrumentals"
     },
     {
         "Title": "New York City Homelessness",
@@ -46,7 +66,15 @@
         "MoWeEd Track": "Puccini",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Puccini",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5n8kyV1JTHoVMwRAzl4lNE",
+        "Result Album Name": "Mistura Fina"
     },
     {
         "Title": "Southern Artists 1, Kate Campbell",
@@ -70,7 +98,12 @@
         "MoWeEd Track": "Seasons",
         "MoWeEd Artists": [
             "Megasoft Office 97"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Patients' Bill of Rights Compromise",
@@ -88,13 +121,26 @@
         "MoWeEd Track": "Vanishing Point",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Vanishing Point",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rvjvUCV1TJVrZIqHrvZbx",
+        "Result Album Name": "The Water Garden"
     },
     {
         "MoWeEd Track": "On the Sunny Side of the Street",
         "MoWeEd Artists": [
             "Jesse Davis Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rumsfeld Defends Missile Defense",
@@ -112,7 +158,15 @@
         "MoWeEd Track": "Grave Et Presto",
         "MoWeEd Artists": [
             "Orion Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": "Grave et Presto",
+        "Result Artist Names": [
+            "Jutlandia Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:699n8gEZq5prCJNKeoKLNF",
+        "Result Album Name": "Jutlandia Saxophone Quartet"
     },
     {
         "Title": "Wenatchee Child Abuse Update",
@@ -124,7 +178,15 @@
         "MoWeEd Track": "Beginners Mind",
         "MoWeEd Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": "Beginners Mind",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30DcSPnmLRHwvzFk66SH9A",
+        "Result Album Name": "17 Seconds To Anywhere"
     },
     {
         "Title": "Clinton in the Press",
@@ -142,7 +204,15 @@
         "MoWeEd Track": "Buffalo Nickel",
         "MoWeEd Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": "Buffalo Nickel",
+        "Result Artist Names": [
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0Iq2KydFwhvkjH1rI4s1EX",
+        "Result Album Name": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2"
     },
     {
         "Title": "The Wind Done Gone Author",
@@ -154,6 +224,17 @@
         "MoWeEd Track": "Desert Drive",
         "MoWeEd Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Desert Drive",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Axe Murderers",
+            "The Rockin' Rhythmaires",
+            "The Heavenly Horns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6N3AZNh6VdtUJfh7b1CMtI",
+        "Result Album Name": "Strong Like Bull...But Sensitive Like Squirrel"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-04-17",
         "Day": "Tue",
-        "Scanned Date": "2021-05-27 16:19:44"
+        "Scanned Date": "2021-05-27 16:19:44",
+        "Playlist URI": "7LqYCTInm5XXszzca4ED7F",
+        "Playlist Link": "https://open.spotify.com/playlist/7LqYCTInm5XXszzca4ED7F",
+        "Snapshot ID": "MSwwNDg1OTVmNWM4MGE3YmZjNDJkMzExZWM2NjM4ZWU3ZDNiMzFkYjcw",
+        "Playlist Name": "MoWeEd 2001-04-17 Tue Morning Edition"
     },
     {
         "Title": "Tuberculosis Along the Border",
@@ -16,7 +20,12 @@
         "MoWeEd Track": "DEPOT (1951)",
         "MoWeEd Artists": [
             "TOM VERLAINE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Money: 'Abby'",
@@ -28,7 +37,12 @@
         "MoWeEd Track": "French Detective",
         "MoWeEd Artists": [
             "St. Etienne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Russia's Media",
@@ -40,7 +54,15 @@
         "MoWeEd Track": "Lebanese Blonde",
         "MoWeEd Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Lebanese Blonde",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66KcXPDs1hr8T06KvlJCeA",
+        "Result Album Name": "The Mirror Conspiracy"
     },
     {
         "Title": "Detroit Arrests",
@@ -70,7 +92,15 @@
         "MoWeEd Track": "Brief and Breezy",
         "MoWeEd Artists": [
             "Henry Mancini"
-        ]
+        ],
+        "Result Track Name": "Brief And Breezy",
+        "Result Artist Names": [
+            "Henry Mancini"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rkoKRANtPWwMQfMPLAx6y",
+        "Result Album Name": "Martinis With Mancini"
     },
     {
         "Title": "Mideast Violence",
@@ -100,7 +130,15 @@
         "MoWeEd Track": "Onwards",
         "MoWeEd Artists": [
             "Afro Celt Sound System"
-        ]
+        ],
+        "Result Track Name": "Onwards",
+        "Result Artist Names": [
+            "Afro Celt Sound System"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OANcJydtGyr4pYIKn4yJn",
+        "Result Album Name": "Volume 3 : Further In Time (Real World Gold)"
     },
     {
         "Title": "Cincinnati Recovery",
@@ -112,7 +150,12 @@
         "MoWeEd Track": "Seventeenth Century Sea",
         "MoWeEd Artists": [
             "St. Etienne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hud Secretary Martinez",
@@ -130,7 +173,15 @@
         "MoWeEd Track": "London Derriere",
         "MoWeEd Artists": [
             "Quincy Jones"
-        ]
+        ],
+        "Result Track Name": "London Derriere",
+        "Result Artist Names": [
+            "Quincy Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HfuoetHv2lmSIgYZWSA0b",
+        "Result Album Name": "Go West, Man!"
     },
     {
         "Title": "Wildlife Rehabilitation",
@@ -143,6 +194,15 @@
         "MoWeEd Artists": [
             "Sylvain Luc",
             "Bireli Lagrene"
-        ]
+        ],
+        "Result Track Name": "Douce Ambiance",
+        "Result Artist Names": [
+            "Biréli Lagrène",
+            "Sylvain Luc"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6NkDwS4yHWTDjA1u0cIpW5",
+        "Result Album Name": "Duet"
     }
 ]

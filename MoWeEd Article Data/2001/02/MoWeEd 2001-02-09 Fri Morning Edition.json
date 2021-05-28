@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2001-02-09",
         "Day": "Fri",
-        "Scanned Date": "2021-05-27 16:24:21"
+        "Scanned Date": "2021-05-27 16:24:21",
+        "Playlist URI": "5UJNLfuGZfX34iGSDna3kK",
+        "Playlist Link": "https://open.spotify.com/playlist/5UJNLfuGZfX34iGSDna3kK",
+        "Snapshot ID": "MSxmZDNiYzBhNjcyZjlmYzZjZDJiZTAwNTAxMTQxZjBmMGVkMzMzYmU3",
+        "Playlist Name": "MoWeEd 2001-02-09 Fri Morning Edition"
     },
     {
         "Title": "Abortion and Minors",
@@ -16,13 +20,29 @@
         "MoWeEd Track": "We-no-nah",
         "MoWeEd Artists": [
             "Art Turner"
-        ]
+        ],
+        "Result Track Name": "We-no-nah",
+        "Result Artist Names": [
+            "Art Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77RPLaK1RXN9Ni6czKvEbQ",
+        "Result Album Name": "Story Water"
     },
     {
         "MoWeEd Track": "Oh, Yes",
         "MoWeEd Artists": [
             "Philip Aaberg"
-        ]
+        ],
+        "Result Track Name": "Oh, Yes",
+        "Result Artist Names": [
+            "Philip Aaberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AtywpoRQ0vYwRtrbsiVHO",
+        "Result Album Name": "Upright"
     },
     {
         "Title": "Police and Indians",
@@ -40,7 +60,15 @@
         "MoWeEd Track": "Stick to-It-Ive-Ness",
         "MoWeEd Artists": [
             "The Yellowjackets"
-        ]
+        ],
+        "Result Track Name": "Stick-To-It-Ive-Ness",
+        "Result Artist Names": [
+            "Yellowjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5rg1IJSR6hbRpcu9TN1Z0f",
+        "Result Album Name": "Club Nocturne"
     },
     {
         "Title": "New Power Plant Construction",
@@ -70,7 +98,12 @@
         "MoWeEd Track": "Sonata in D for Two Pianos, K. 448/375A: III. Allegro molto",
         "MoWeEd Artists": [
             "Amparo and Jose Iturbi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Fugitive Pardon",
@@ -88,7 +121,15 @@
         "MoWeEd Track": "Knocking on Forbidden Doors",
         "MoWeEd Artists": [
             "Enigma"
-        ]
+        ],
+        "Result Track Name": "Knocking On Forbidden Doors",
+        "Result Artist Names": [
+            "Enigma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6An3uQtJqcY1S06PgwuDu6",
+        "Result Album Name": "MCMXC a.D."
     },
     {
         "Title": "Reality T.V.",
@@ -100,7 +141,17 @@
         "MoWeEd Track": "Evidence",
         "MoWeEd Artists": [
             "Joey DeFrancesco"
-        ]
+        ],
+        "Result Track Name": "Evidence",
+        "Result Artist Names": [
+            "Joey DeFrancesco",
+            "Joe Ascione",
+            "Frank Vignola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:635OEbXlF9LDAdDPQRALW8",
+        "Result Album Name": "Goodfellas"
     },
     {
         "Title": "Negotiations in Colombia",
@@ -112,7 +163,15 @@
         "MoWeEd Track": "Bamako",
         "MoWeEd Artists": [
             "Jean-Luc Ponty"
-        ]
+        ],
+        "Result Track Name": "Bamako",
+        "Result Artist Names": [
+            "Jean-Luc Ponty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0fKSZzV6D8p10q7Mw4miDV",
+        "Result Album Name": "Tchokola"
     },
     {
         "Title": "China Corruption",
@@ -130,7 +189,15 @@
         "MoWeEd Track": "Uke Said It",
         "MoWeEd Artists": [
             "Roy Smeck"
-        ]
+        ],
+        "Result Track Name": "Uke Said It",
+        "Result Artist Names": [
+            "Roy Smeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73p1ib8G0qNEn8PCWRh75V",
+        "Result Album Name": "The Best in Ukulele"
     },
     {
         "Title": "Valentine Flowers",
@@ -142,6 +209,14 @@
         "MoWeEd Track": "Uke Said It",
         "MoWeEd Artists": [
             "Roy Smeck"
-        ]
+        ],
+        "Result Track Name": "Uke Said It",
+        "Result Artist Names": [
+            "Roy Smeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73p1ib8G0qNEn8PCWRh75V",
+        "Result Album Name": "The Best in Ukulele"
     }
 ]

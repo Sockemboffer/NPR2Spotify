@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2001-03-31",
         "Day": "Sat",
-        "Scanned Date": "2021-05-27 16:23:32"
+        "Scanned Date": "2021-05-27 16:23:32",
+        "Playlist URI": "2C0ht4QgAxZ8bdhINim7jH",
+        "Playlist Link": "https://open.spotify.com/playlist/2C0ht4QgAxZ8bdhINim7jH",
+        "Snapshot ID": "MSxlYmFlY2YwYjI3ODkwODRmYmNhOTI1MTYyYjI3NzYwN2E1YmM1NzE2",
+        "Playlist Name": "MoWeEd 2001-03-31 Sat Weekend Edition"
     },
     {
         "Title": "Slobodan Milosevic",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Jazz Suite No. 2 (Suite for Promenade Orchestra): III. Dance 1",
         "MoWeEd Artists": [
             "Royal Concertgebouw Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bay of Pigs 40th Anniversary",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Dug In",
         "MoWeEd Artists": [
             "Dug Grieves"
-        ]
+        ],
+        "Result Track Name": "Dug In",
+        "Result Artist Names": [
+            "Dug Grieves"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VMKRMGOKeJhvlMZMlkScu",
+        "Result Album Name": "Nashville Guitars"
     },
     {
         "Title": "St. Augustine",
@@ -52,7 +69,12 @@
         "MoWeEd Track": "Children's Corner: Doctor Gradus Ad Parnassum",
         "MoWeEd Artists": [
             "Leigh Howard Stevens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Irises in Lousiana",
@@ -70,7 +92,12 @@
         "MoWeEd Track": "Così fan tutte, opera, K. 588",
         "MoWeEd Artists": [
             "Sir Charles Mackerras"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week-in-Review",
@@ -88,7 +115,12 @@
         "MoWeEd Track": "Qabula Wedali",
         "MoWeEd Artists": [
             "Dilika"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Philadelphia Mob Trial",
@@ -124,6 +156,14 @@
         "MoWeEd Track": "Hopelessly Romantic",
         "MoWeEd Artists": [
             "Tom Rapp"
-        ]
+        ],
+        "Result Track Name": "Hopelessly Romantic",
+        "Result Artist Names": [
+            "Tom Rapp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1cpdcGBVfBVsdmTxm2oSGh",
+        "Result Album Name": "A Journal Of The Plague Year"
     }
 ]
