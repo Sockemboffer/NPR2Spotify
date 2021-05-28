@@ -12,10 +12,10 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # # # Create a json file for each year of day links (only need to run one time each year)
 # NPRPageParser.NPRArticleLinkCacheCreator(2018) # 1996 - 2020
 
-# # Weekend edition shows up 1998 Jan
-# # July 25th 2000's seems to be when some morning edition interlude data is being documented
-# # Used to create complete years
-# editionStartYear = 1997
+# Weekend edition shows up 1998 Jan
+# July 25th 2000's seems to be when some morning edition interlude data is being documented
+# Used to create complete years
+# editionStartYear = 2001
 # editionDayData = list()
 # projectName = "MoWeEd"
 # editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
@@ -51,8 +51,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #         editionDayData.clear()
 #         time.sleep(1.5) # Don't hammer their server
 
-# TODO fix older playlists using old github project link
-startDate = datetime(2000, 12, 16)
+startDate = datetime(2001, 12, 27)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -60,7 +59,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate != datetime(2001, 1, 1):
+while startDate != datetime(2002, 1, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -115,11 +114,6 @@ while startDate != datetime(2001, 1, 1):
         # we update information
         elif playlistEntry == True:
             for story, entry in enumerate(editionDay):
-                # if pageLinkID in entry:
-                #     pageLink = entry[pageLinkID]
-                #     instertString = 'https://'
-                #     index = pageLink.find('www.')
-                #     entry[pageLinkID] = pageLink[:index] + instertString + pageLink[index:]
                 if searchKey in entry:
                     trackEntry = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
                     entry.update(trackEntry)
@@ -129,6 +123,7 @@ while startDate != datetime(2001, 1, 1):
             print("{0} finished updating {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
             print(editionDay[0]["Page Link"])
             print("\n")
+            editionDay.clear()
             startDate = startDate + timedelta(days=+1)
             time.sleep(1.5) # Don't hammer their server
         # we create an empty playlist with a description noting tracks are not detailed
@@ -142,6 +137,7 @@ while startDate != datetime(2001, 1, 1):
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print(">> No interlude Tracks for {0} ".format(startDate.date()))
+            editionDay.clear()
             startDate = startDate + timedelta(days=+1)
             time.sleep(1.5) # Don't hammer their server
 
