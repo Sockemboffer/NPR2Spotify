@@ -1,6 +1,5 @@
 # NPR2Spotify
-Generally, this program parses an NPR Show page (I've only tested with Morning and Weekend Edition pages so far) and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic, feel free to send playlist corrections to **MoWeEd2Spotify@pm.me** 🙃
-Assumes you have a free spotify developer account, OAuth, and spotify user permissions to create/modify playlists.
+Generally, this program parses an NPR Show page (I've only tested with Morning and Weekend Edition pages so far) and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth, and spotify user permissions to create/modify playlists.
 
 **/MoWeEd Article Data/** - Each day's output for each year
 
