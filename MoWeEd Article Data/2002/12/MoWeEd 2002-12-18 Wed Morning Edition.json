@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-12-18",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:21:51"
+        "Scanned Date": "2021-05-28 13:21:51",
+        "Playlist URI": "0qMEiwBRFoeuM6X6Eij7mm",
+        "Playlist Link": "https://open.spotify.com/playlist/0qMEiwBRFoeuM6X6Eij7mm",
+        "Snapshot ID": "MSxkMDk1ZDBiYzk1YmQ1ODc1MTBkNTI2NmQyNDQwMjNiNWRhNTUyYjVk",
+        "Playlist Name": "MoWeEd 2002-12-18 Wed Morning Edition"
     },
     {
         "Title": "Lott Controversy",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Statement",
         "MoWeEd Artists": [
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "Statement",
+        "Result Artist Names": [
+            "The Milt Jackson Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07xpfCG8slRHTFw15Tw3Ph",
+        "Result Album Name": "Statements"
     },
     {
         "Title": "Environmentalists Blast Relaxed Rules for Farm Runoff",
@@ -53,7 +65,16 @@
         "MoWeEd Artists": [
             "John Etheridge",
             "Andy Summers"
-        ]
+        ],
+        "Result Track Name": "Lolita",
+        "Result Artist Names": [
+            "Andy Summers",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5apbHfwvQw1UkixbTQixds",
+        "Result Album Name": "Invisible Threads"
     },
     {
         "Title": "'I'd Rather Eat Pants' Part III",
@@ -95,7 +116,12 @@
         "MoWeEd Track": "Two Part Nevention No 11",
         "MoWeEd Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Texas Tort Reform",
@@ -107,7 +133,15 @@
         "MoWeEd Track": "THROWDOWN AT THE HOEDOWN",
         "MoWeEd Artists": [
             "BELA FLECK AND THE FLECKTONES"
-        ]
+        ],
+        "Result Track Name": "Throwdown at the Hoedown",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7kEmbKXlDeEGf1t2Dec1JL",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "Likud Scandal",
@@ -120,7 +154,17 @@
         "MoWeEd Artists": [
             "Edward Gerhard",
             "Ray Brunelle et. al."
-        ]
+        ],
+        "Result Track Name": "Because of You, This",
+        "Result Artist Names": [
+            "Ed Gerhard",
+            "Randy Roos",
+            "Ray Brunelle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:2tkU6WSnQSyuhyw4VpFCs4",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "Title": "Commentary: Frank Deford",

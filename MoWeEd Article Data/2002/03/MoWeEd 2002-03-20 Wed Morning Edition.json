@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-03-20",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:46:52"
+        "Scanned Date": "2021-05-28 13:46:52",
+        "Playlist URI": "7JAOtDc235GDitgFgjzR4l",
+        "Playlist Link": "https://open.spotify.com/playlist/7JAOtDc235GDitgFgjzR4l",
+        "Snapshot ID": "MSw0MmUxZDBjZTYwM2QwN2Y1NTk2YzQyODg3YmUyNmNlYWI4ZjU4ODkz",
+        "Playlist Name": "MoWeEd 2002-03-20 Wed Morning Edition"
     },
     {
         "Title": "HP-Compaq Merger",
@@ -24,14 +28,34 @@
             "Michael",
             "mccraw",
             "seattle Baroque"
-        ]
+        ],
+        "Result Track Name": "Bassoon Concerto in F Major, RV 489: III. Allegro",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Michael McCraw",
+            "Seattle Baroque Orchestra",
+            "Ingrid Matthews"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ttAg0bFMUsqs1snC2nnH3",
+        "Result Album Name": "Vivaldi, A.: Concertos - Rv 105, 114, 481, 489, 498, 545, 563"
     },
     {
         "MoWeEd Track": "Visitor from Nowhere",
         "MoWeEd Artists": [
             "Herbie Hancock",
             "Wayne Shorter"
-        ]
+        ],
+        "Result Track Name": "Visitor From Nowhere",
+        "Result Artist Names": [
+            "Herbie Hancock",
+            "Wayne Shorter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Lag00swB0a9hliNnx5Jm0",
+        "Result Album Name": "1+1"
     },
     {
         "Title": "Illinois Primary Results",
@@ -50,7 +74,12 @@
         "MoWeEd Artists": [
             "Roy Hargrove",
             "Christian McBride et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Georgia Crematory",
@@ -62,7 +91,12 @@
         "MoWeEd Track": "Love of My Life",
         "MoWeEd Artists": [
             "Charlie Shoemake Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Media Bias",
@@ -74,13 +108,30 @@
         "MoWeEd Track": "A Paris",
         "MoWeEd Artists": [
             "Jacky Terrasson"
-        ]
+        ],
+        "Result Track Name": "A Paris",
+        "Result Artist Names": [
+            "Jacky Terrasson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UsVAmkeeWhxAp942wC8am",
+        "Result Album Name": "A Paris"
     },
     {
         "MoWeEd Track": "Aeolian Suite for Guitar and Small Orchestra: III. Ballad",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Aeolian Suite for Guitar and Small Orchestra: III. Ballad",
+        "Result Artist Names": [
+            "John Williams",
+            "William Goodchild"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:289eqILeVZ5T4AidTyFLXo",
+        "Result Album Name": "The Guitarist"
     },
     {
         "Title": "Travel Commissions Gone",
@@ -98,7 +149,12 @@
         "MoWeEd Track": "Frost Fire for brass quintet",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Military Tribunals",
@@ -116,7 +172,15 @@
         "MoWeEd Track": "We-no-nah",
         "MoWeEd Artists": [
             "Art Turner"
-        ]
+        ],
+        "Result Track Name": "We-no-nah",
+        "Result Artist Names": [
+            "Art Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77RPLaK1RXN9Ni6czKvEbQ",
+        "Result Album Name": "Story Water"
     },
     {
         "Title": "INS Hearing",
@@ -134,7 +198,15 @@
         "MoWeEd Track": "Reflections of Paradise",
         "MoWeEd Artists": [
             "Armik"
-        ]
+        ],
+        "Result Track Name": "Reflections of Paradise",
+        "Result Artist Names": [
+            "Armik"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4B0L89jf6LHxKlhoJ12vbW",
+        "Result Album Name": "Malaga"
     },
     {
         "Title": "New Jersey Welfare Data to India",
@@ -146,7 +218,15 @@
         "MoWeEd Track": "Water of Mystery",
         "MoWeEd Artists": [
             "Kitaro"
-        ]
+        ],
+        "Result Track Name": "Water of Mystery",
+        "Result Artist Names": [
+            "Kitaro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7z8GV9bOxETtSbGwLVG8d8",
+        "Result Album Name": "Ancient"
     },
     {
         "Title": "New Century Scholars",
@@ -164,19 +244,43 @@
         "MoWeEd Track": "Sweet Georgia Brown",
         "MoWeEd Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "Sweet Georgia Brown",
+        "Result Artist Names": [
+            "Dave Brubeck Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uX1ju4Uk0dolOPVZjEI7d",
+        "Result Album Name": "24 Classic Original Recordings"
     },
     {
         "MoWeEd Track": "E. St. Louis Todalo",
         "MoWeEd Artists": [
             "Fiddlers Five"
-        ]
+        ],
+        "Result Track Name": "E. St. Louis Todalo",
+        "Result Artist Names": [
+            "Fiddlers 4"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2loYPZSUJHtri4XJOgSLiy",
+        "Result Album Name": "Fiddlers 4"
     },
     {
         "MoWeEd Track": "It Might as Well Be Spring",
         "MoWeEd Artists": [
             "Don Stiernberg"
-        ]
+        ],
+        "Result Track Name": "It Might As Well Be Spring",
+        "Result Artist Names": [
+            "Don Stiernberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4JuyuU1rrrAdPqaCFFmpnb",
+        "Result Album Name": "About Time"
     },
     {
         "Title": "Miss Barstow",
@@ -188,6 +292,14 @@
         "MoWeEd Track": "Love Theme",
         "MoWeEd Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Love Theme",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1v3GbLSpzc9nL23J9VUYNu",
+        "Result Album Name": "I Like To Score"
     }
 ]

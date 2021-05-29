@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-10-26",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:28:15"
+        "Scanned Date": "2021-05-28 13:28:15",
+        "Playlist URI": "5c2NBKGr5uKwUtu7HKgdsv",
+        "Playlist Link": "https://open.spotify.com/playlist/5c2NBKGr5uKwUtu7HKgdsv",
+        "Snapshot ID": "MSw1M2ZiZDA0NjdkOTU0Mzc5OThlMjBiNzE0OGNhY2RjYmM4MWY1NWM2",
+        "Playlist Name": "MoWeEd 2002-10-26 Sat Weekend Edition"
     },
     {
         "Title": "Moscow Hostage Crisis Ends in Bloodshed",
@@ -22,13 +26,36 @@
         "MoWeEd Track": "Branches",
         "MoWeEd Artists": [
             "Al Petteway"
-        ]
+        ],
+        "Result Track Name": "Branches",
+        "Result Artist Names": [
+            "Al Petteway",
+            "Amy White",
+            "Bonnie Rideout",
+            "Maggie Sansone",
+            "Eric Rigler",
+            "Abby Newton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01c7IrjCCKbJUVFVAI4DWs",
+        "Result Album Name": "Caledon Wood"
     },
     {
         "MoWeEd Track": "The President's March",
         "MoWeEd Artists": [
             "Victor Herbert"
-        ]
+        ],
+        "Result Track Name": "The President's March",
+        "Result Artist Names": [
+            "Victor Herbert",
+            "Richard Franko Goldman",
+            "The Goldman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WO11eWk4e55LAt0ij4JoQ",
+        "Result Album Name": "The Golden Age of the American March"
     },
     {
         "Title": "Remembering Paul Wellstone",
@@ -52,7 +79,15 @@
         "MoWeEd Track": "Waiting",
         "MoWeEd Artists": [
             "Eidolon"
-        ]
+        ],
+        "Result Track Name": "Waiting",
+        "Result Artist Names": [
+            "Acoustic Eidolon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0MjuUtSZ8aPUVk6gOAJyIR",
+        "Result Album Name": "Beyond Words"
     },
     {
         "Title": "'Stardust' at 75",
@@ -64,7 +99,12 @@
         "MoWeEd Track": "House of the Rising Sun",
         "MoWeEd Artists": [
             "Synthesonic Sounds"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Truth About Dogs",
@@ -100,7 +140,12 @@
         "MoWeEd Track": "Appalachian Spring, ballet for 13 instruments",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "War Protests",
@@ -143,6 +188,16 @@
         "MoWeEd Artists": [
             "John Williams",
             "Itzhak Perlman"
-        ]
+        ],
+        "Result Track Name": "Remembrances",
+        "Result Artist Names": [
+            "John Williams",
+            "Itzhak Perlman",
+            "Boston Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IJsTYStxrxhtgHeQJ9cmo",
+        "Result Album Name": "Schindler's List"
     }
 ]

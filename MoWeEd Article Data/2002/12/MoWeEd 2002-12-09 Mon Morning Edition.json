@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-12-09",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:21:02"
+        "Scanned Date": "2021-05-28 13:21:02",
+        "Playlist URI": "3Sn4axaCSyQD3ntZQAfoBn",
+        "Playlist Link": "https://open.spotify.com/playlist/3Sn4axaCSyQD3ntZQAfoBn",
+        "Snapshot ID": "MSw5OWVlZTMwYWU2ZDhjNjU5NTVmN2FiMjUwYjVjMWJlYzFiOTIxZDY2",
+        "Playlist Name": "MoWeEd 2002-12-09 Mon Morning Edition"
     },
     {
         "Title": "Iraq's Weapons Declaration",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Shadow (For Joe Henderson)",
         "MoWeEd Artists": [
             "Chris Potter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Eyes Post-Election Legislative Agenda",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "In Walked Bud",
         "MoWeEd Artists": [
             "Fred Hersch"
-        ]
+        ],
+        "Result Track Name": "In Walked Bud",
+        "Result Artist Names": [
+            "Fred Hersch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18xyPjuNMaIEW4sPHRpoRi",
+        "Result Album Name": "Solo"
     },
     {
         "Title": "Morning Edition Returns: Drive-Thru Drugs",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Tarantula",
         "MoWeEd Artists": [
             "Peppino d'Agostino"
-        ]
+        ],
+        "Result Track Name": "Tarantula",
+        "Result Artist Names": [
+            "Peppino D'Agostino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sUwOAn43PZBUWr4JIXw6L",
+        "Result Album Name": "Acoustic Guitar with Peppino D'Agostino"
     },
     {
         "Title": "California Legislators Face Steep Budget Cuts",
@@ -70,7 +95,16 @@
         "MoWeEd Track": "Scherzo",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": "III. Scherzo - Presto",
+        "Result Artist Names": [
+            "Johannes Brahms",
+            "Eroica Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wsk4LONNpu7vTAL42Dp0Y",
+        "Result Album Name": "Brahms Trios No. 1 & 2"
     },
     {
         "Title": "Swiss Art Fair Opens in Miami",
@@ -82,7 +116,12 @@
         "MoWeEd Track": "The Fourth Homme",
         "MoWeEd Artists": [
             "Les Hommes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Tests New Military Command Center in Qatar",
@@ -95,7 +134,16 @@
         "MoWeEd Artists": [
             "Lalo Schifrin",
             "Cal Tjader"
-        ]
+        ],
+        "Result Track Name": "The Fakir",
+        "Result Artist Names": [
+            "Cal Tjader",
+            "Lalo Schifrin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gFHaxNJLo67QCIqpb1RgW",
+        "Result Album Name": "Several Shades Of Jade"
     },
     {
         "Title": "Bush Naming Economic Team",
@@ -125,7 +173,15 @@
         "MoWeEd Track": "Put Off",
         "MoWeEd Artists": [
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "Put Off",
+        "Result Artist Names": [
+            "The Milt Jackson Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DuhgjyR1kDTV5B1o9ZWPL",
+        "Result Album Name": "Statements"
     },
     {
         "Title": "Feinstein: Teams Set for Bowl Games",
@@ -137,7 +193,15 @@
         "MoWeEd Track": "Georgia Swing",
         "MoWeEd Artists": [
             "The Dirty Dozen Brass Band"
-        ]
+        ],
+        "Result Track Name": "Georgia Swing",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5l1LZcuLt9nvJsj0k83B3o",
+        "Result Album Name": "This is Jazz 30: The Dirty Dozen Brass Band"
     },
     {
         "Title": "'The Graduate,' Present at the Creation",
@@ -161,6 +225,14 @@
         "MoWeEd Track": "The Desert Sky",
         "MoWeEd Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Desert Sky",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71JCjjV7lGK2bc7avnv0TP",
+        "Result Album Name": "Breaking The Ethers"
     }
 ]

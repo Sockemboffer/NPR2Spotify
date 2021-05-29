@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-02-14",
         "Day": "Thu",
-        "Scanned Date": "2021-05-28 13:49:10"
+        "Scanned Date": "2021-05-28 13:49:10",
+        "Playlist URI": "6TVawLu4RSZ6aAtXR2zyNG",
+        "Playlist Link": "https://open.spotify.com/playlist/6TVawLu4RSZ6aAtXR2zyNG",
+        "Snapshot ID": "MSw4ODYyNjY5NzJkYzI0Y2QwNjNmOTU1YmM3NjdmYjAyYzRhYzM4MmI1",
+        "Playlist Name": "MoWeEd 2002-02-14 Thu Morning Edition"
     },
     {
         "Title": "A Talk with Donald Rumsfeld",
@@ -16,13 +20,26 @@
         "MoWeEd Track": "The White Dawn, film score",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Charmaine",
         "MoWeEd Artists": [
             "The Mantovani Orchestra"
-        ]
+        ],
+        "Result Track Name": "Charmaine",
+        "Result Artist Names": [
+            "The Gino Marinello Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1RpW5QyUjoeBZYwOIlcsJ8",
+        "Result Album Name": "Sweet Nights"
     },
     {
         "Title": "Lost Students",
@@ -34,7 +51,12 @@
         "MoWeEd Track": "Sketches for Friends - November Song",
         "MoWeEd Artists": [
             "William Kanengiser"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Enron Whistleblower",
@@ -47,7 +69,15 @@
         "MoWeEd Artists": [
             "Toots Thielemans",
             "Shirley Horn"
-        ]
+        ],
+        "Result Track Name": "La valse des lilas (Once Upon a Summertime)",
+        "Result Artist Names": [
+            "Toots Thielemans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6jJymTVmkQY23mYTDsOaqB",
+        "Result Album Name": "Chez Toots"
     },
     {
         "Title": "Romance Novel Cover Stories",
@@ -65,13 +95,29 @@
         "MoWeEd Track": "Love Is Here to Stay",
         "MoWeEd Artists": [
             "Jack Jezzro"
-        ]
+        ],
+        "Result Track Name": "Love Is Here To Stay",
+        "Result Artist Names": [
+            "Jack Jezzro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zUvAY8qynGEJCTd0c0BsU",
+        "Result Album Name": "Gershwin On Guitar"
     },
     {
         "MoWeEd Track": "JL's Wish",
         "MoWeEd Artists": [
             "Greg Tardy"
-        ]
+        ],
+        "Result Track Name": "JL's Wish",
+        "Result Artist Names": [
+            "Gregory Tardy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6rXLRldUiSvXwR9TjgsWxA",
+        "Result Album Name": "Serendipity"
     },
     {
         "Title": "Hewlett-Packard",
@@ -89,7 +135,15 @@
         "MoWeEd Track": "I Brake 4 Monster Booty",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "I Brake 4 Monster Booty",
+        "Result Artist Names": [
+            "The John Scofield Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zXN69F69EAoKkqouaHYkU",
+        "Result Album Name": "Überjam"
     },
     {
         "Title": "Campaign Finance",
@@ -107,13 +161,29 @@
         "MoWeEd Track": "Bridge Of Clear Light",
         "MoWeEd Artists": [
             "Clara Ponty"
-        ]
+        ],
+        "Result Track Name": "Bridge Of Clear Light",
+        "Result Artist Names": [
+            "Clara Ponty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1jIkMHnhIZsNzvTVwl8WGG",
+        "Result Album Name": "The Embrace"
     },
     {
         "MoWeEd Track": "Honky Tonk Heroes",
         "MoWeEd Artists": [
             "Waylon Jennings"
-        ]
+        ],
+        "Result Track Name": "Honky Tonk Heroes",
+        "Result Artist Names": [
+            "Waylon Jennings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1skfGDMO9162triZ8ReWR8",
+        "Result Album Name": "Honky Tonk Heroes"
     },
     {
         "Title": "Sect Couple",
@@ -131,7 +201,15 @@
         "MoWeEd Track": "I Do Believe",
         "MoWeEd Artists": [
             "The Highwaymen"
-        ]
+        ],
+        "Result Track Name": "I Do Believe",
+        "Result Artist Names": [
+            "The Highwaymen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6DCQCatFocxPH8qiLYK7ia",
+        "Result Album Name": "The Road Goes On Forever"
     },
     {
         "Title": "Milosevic",
@@ -143,7 +221,15 @@
         "MoWeEd Track": "Free",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "Free",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5GvhsUZz7dRMdGmGwhb5XR",
+        "Result Album Name": "The Other Shore"
     },
     {
         "Title": "Information Secrecy",
@@ -161,13 +247,26 @@
         "MoWeEd Track": "3rd Mvt. From Trio In C Major, Op. 87",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "My Funny Valentine",
         "MoWeEd Artists": [
             "Jack Jezzro"
-        ]
+        ],
+        "Result Track Name": "My Funny Valentine",
+        "Result Artist Names": [
+            "Jack Jezzro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5oyH9Kao0yKNtltDxuhB3r",
+        "Result Album Name": "Jazz Tastings - Light Jazz Guitar"
     },
     {
         "Title": "Polish Ski Jumper",
@@ -185,7 +284,15 @@
         "MoWeEd Track": "Native Funk",
         "MoWeEd Artists": [
             "Burning Sky"
-        ]
+        ],
+        "Result Track Name": "Native Funk",
+        "Result Artist Names": [
+            "Burning Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66ML7ajLNLhQ2Uz5cFGl2u",
+        "Result Album Name": "Blood Of The Land"
     },
     {
         "Title": "Bush Energy Plan",

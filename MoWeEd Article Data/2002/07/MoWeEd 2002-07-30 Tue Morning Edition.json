@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-07-30",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:36:51"
+        "Scanned Date": "2021-05-28 13:36:51",
+        "Playlist URI": "0a61ZsuQvBLvy0QKP0t0KP",
+        "Playlist Link": "https://open.spotify.com/playlist/0a61ZsuQvBLvy0QKP0t0KP",
+        "Snapshot ID": "MSw1MWVmNDliOTBjOTM3NDIwOTllMzg2YTdmMWU2MDEzZjFmNTRiYTAw",
+        "Playlist Name": "MoWeEd 2002-07-30 Tue Morning Edition"
     },
     {
         "Title": "U.S. & Iraq",
@@ -25,7 +29,12 @@
             "Michael Eagan",
             "Shelly Taylor",
             "Kathy Shao"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Mining Techniques",
@@ -43,7 +52,16 @@
         "MoWeEd Track": "Instrumental",
         "MoWeEd Artists": [
             "Sequentia"
-        ]
+        ],
+        "Result Track Name": "Instrumental piece I",
+        "Result Artist Names": [
+            "Hildegard von Bingen",
+            "Sequentia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fG2nVrepnJj1wGb7oY7WY",
+        "Result Album Name": "Canticles Of Ecstasy / Voice Of The Blood / O Jerusalem"
     },
     {
         "Title": "Pope Tour",
@@ -56,7 +74,12 @@
         "MoWeEd Artists": [
             "Academy of St. Martin In the Fields",
             "Sir Neville Marriner"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Airport Security",
@@ -74,7 +97,12 @@
         "MoWeEd Track": "Sky Lobby",
         "MoWeEd Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Markets",
@@ -92,7 +120,15 @@
         "MoWeEd Track": "\"Are We a Rock Band or What...?\"",
         "MoWeEd Artists": [
             "Apollo 440"
-        ]
+        ],
+        "Result Track Name": "Are We a Rock Band or What...? - Instrumental Version",
+        "Result Artist Names": [
+            "Apollo 440"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BK6BWSyWgESeyVrBeyBzI",
+        "Result Album Name": "Gettin' High On Your Own Supply"
     },
     {
         "Title": "Education Woes",
@@ -110,7 +146,15 @@
         "MoWeEd Track": "Bébé",
         "MoWeEd Artists": [
             "Richard Galliano"
-        ]
+        ],
+        "Result Track Name": "Bébé",
+        "Result Artist Names": [
+            "Richard Galliano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0j76pRswCmPx29M2qW2B2Z",
+        "Result Album Name": "French Touch"
     },
     {
         "Title": "Bush Corporate Responsibility",
@@ -128,7 +172,16 @@
         "MoWeEd Track": "Laudibus In Sanctis",
         "MoWeEd Artists": [
             "The King's Singers"
-        ]
+        ],
+        "Result Track Name": "Laudibus in sanctis",
+        "Result Artist Names": [
+            "William Byrd",
+            "The King's Singers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6KjVa7zwvvr15lmYlQjVc7",
+        "Result Album Name": "English Renaissance"
     },
     {
         "Title": "Brazil Postcard",
@@ -140,7 +193,12 @@
         "MoWeEd Track": "The Seven Powers",
         "MoWeEd Artists": [
             "Bahia Black"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Preserving Icky",
@@ -158,7 +216,20 @@
         "MoWeEd Track": "Sligo Creek",
         "MoWeEd Artists": [
             "Al Petteway"
-        ]
+        ],
+        "Result Track Name": "Sligo Creek",
+        "Result Artist Names": [
+            "Al Petteway",
+            "Amy White",
+            "Bonnie Rideout",
+            "Maggie Sansone",
+            "Eric Rigler",
+            "Abby Newton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3quWcYOOMa6RNODyoA1lpG",
+        "Result Album Name": "Caledon Wood"
     },
     {
         "Title": "Closed Chicago Beaches",
@@ -176,6 +247,14 @@
         "MoWeEd Track": "Pioneers",
         "MoWeEd Artists": [
             "John Stetch"
-        ]
+        ],
+        "Result Track Name": "Pioneers",
+        "Result Artist Names": [
+            "John Adams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0nrfhHR4JU5Kys6ZfWtrV0",
+        "Result Album Name": "Soundtracks"
     }
 ]

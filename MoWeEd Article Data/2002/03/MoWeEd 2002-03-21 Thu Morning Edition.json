@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-03-21",
         "Day": "Thu",
-        "Scanned Date": "2021-05-28 13:46:57"
+        "Scanned Date": "2021-05-28 13:46:57",
+        "Playlist URI": "3fFHFUuNifoNDsJPBRbbD1",
+        "Playlist Link": "https://open.spotify.com/playlist/3fFHFUuNifoNDsJPBRbbD1",
+        "Snapshot ID": "MSxjM2FkNDhlN2YwZjJjMWE0MDgyMDdhZjllYTQ2MmY1ODhhYTlhNDc3",
+        "Playlist Name": "MoWeEd 2002-03-21 Thu Morning Edition"
     },
     {
         "Title": "Catholic Church",
@@ -16,14 +20,27 @@
         "MoWeEd Track": "Bagatelles: Lyrically",
         "MoWeEd Artists": [
             "The Pennsylvania Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Hommage a Frédéric Chopin",
         "MoWeEd Artists": [
             "Martial Solal",
             "Paul Motian et. al."
-        ]
+        ],
+        "Result Track Name": "Hommage à Frederic Chopin",
+        "Result Artist Names": [
+            "Martial Solal"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6kOqgRWub2vcJtyeiJoti0",
+        "Result Album Name": "Just Friends (feat. Gary Peacock & Paul Motian)"
     },
     {
         "Title": "Senate Elections",
@@ -35,7 +52,17 @@
         "MoWeEd Track": "Symphony No. 25 in C major, H. 1/25",
         "MoWeEd Artists": [
             "Austro-Hungarian Haydn Orchestra"
-        ]
+        ],
+        "Result Track Name": "Symphony No. 25 in C Major, Hob. 1/25: III. Presto",
+        "Result Artist Names": [
+            "Franz Joseph Haydn",
+            "Austro-Hungarian Haydn Orchestra",
+            "Ádám Fischer"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6153846153846154,
+        "Result Track URI": "spotify:track:5jcq6xmc5hLKJLnz7lkyaQ",
+        "Result Album Name": "Haydn: The Complete Symphonies"
     },
     {
         "Title": "Border Pop",
@@ -47,7 +74,15 @@
         "MoWeEd Track": "Village",
         "MoWeEd Artists": [
             "Wallace Roney"
-        ]
+        ],
+        "Result Track Name": "Village",
+        "Result Artist Names": [
+            "Wallace Roney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BbekEQPVGcbg3u0zUpY2u",
+        "Result Album Name": "Village"
     },
     {
         "Title": "Media Bias, Part II",
@@ -65,13 +100,29 @@
         "MoWeEd Track": "Gaslighting Abbie",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Gaslighting Abbie",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7qmqDmA44Fa9NxUFqNhgBD",
+        "Result Album Name": "Two Against Nature"
     },
     {
         "MoWeEd Track": "Cielo Turchino [Deep Blue Sky]",
         "MoWeEd Artists": [
             "Joe Lovano"
-        ]
+        ],
+        "Result Track Name": "Cielo Turchino",
+        "Result Artist Names": [
+            "Joe Lovano"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4L8xCqOMf2f5vmwWVORo6E",
+        "Result Album Name": "Viva Caruso"
     },
     {
         "Title": "NBC Liquor Ads",
@@ -89,7 +140,12 @@
         "MoWeEd Track": "Apparatus",
         "MoWeEd Artists": [
             "Mattiasia Eklundh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Peru Explosion",
@@ -107,7 +163,12 @@
         "MoWeEd Track": "Country Gardens, folk song for orchestra (various arrangements) (BFMS 22)",
         "MoWeEd Artists": [
             "Michigan State University Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Harvey Pitt",
@@ -125,7 +186,15 @@
         "MoWeEd Track": "First Comes Last",
         "MoWeEd Artists": [
             "Jeff Coffin"
-        ]
+        ],
+        "Result Track Name": "First Comes Last",
+        "Result Artist Names": [
+            "Jeff Coffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:018rkz7Uuc5k9SErxGwVCp",
+        "Result Album Name": "Commonality"
     },
     {
         "Title": "North Korea",
@@ -137,7 +206,15 @@
         "MoWeEd Track": "Bach Prelude in G Major (From the Cello Suite)",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Bach Prelude In G Major (From The Cello Suite)",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5tJ0yG8Nrb7Q363tCfUaJv",
+        "Result Album Name": "Heart Of The Bass"
     },
     {
         "Title": "Drought Update",
@@ -155,19 +232,43 @@
         "MoWeEd Track": "Welcome To Tomorrow",
         "MoWeEd Artists": [
             "Attilio Mineo"
-        ]
+        ],
+        "Result Track Name": "Welcome to Tomorrow",
+        "Result Artist Names": [
+            "Attilio Mineo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TqW9IAYjgO5eCZbmSWRBa",
+        "Result Album Name": "Man in Space With Sounds"
     },
     {
         "MoWeEd Track": "After the Fact",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "After The Fact",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5RJpO5rkewmcsWoaOP4NWp",
+        "Result Album Name": "Quiet"
     },
     {
         "MoWeEd Track": "Do It Again",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Do It Again",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BstRQGodshjGpeDGQiNgo",
+        "Result Album Name": "Can't Buy A Thrill"
     },
     {
         "Title": "The Passions of Bach",
@@ -179,7 +280,18 @@
         "MoWeEd Track": "Part Two",
         "MoWeEd Artists": [
             "Solti--chicago Symphony"
-        ]
+        ],
+        "Result Track Name": "St. Matthew Passion, BWV 244 / Part Two: \"Erbarme dich\"",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Anne Sofie von Otter",
+            "Chicago Symphony Orchestra",
+            "Sir Georg Solti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58Q96yWnuBqlKEGd2vGyAg",
+        "Result Album Name": "Bach, J.S. St. Matthew Passion - Arias & Choruses"
     },
     {
         "Title": "Suicide Bombings In Israel",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-11-25",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:25:30"
+        "Scanned Date": "2021-05-28 13:25:30",
+        "Playlist URI": "6AQsgh0pvs1fPr9i2M3MvW",
+        "Playlist Link": "https://open.spotify.com/playlist/6AQsgh0pvs1fPr9i2M3MvW",
+        "Snapshot ID": "MSxmYTRkZWEzNjdkMThhYmRjMWY4Mzg4MWE1MWY0NzE2NTE5NTQ4ODgw",
+        "Playlist Name": "MoWeEd 2002-11-25 Mon Morning Edition"
     },
     {
         "Title": "Turkey Sets Iraqi Refugee Plan",
@@ -23,14 +27,27 @@
         "MoWeEd Artists": [
             "Jim Henry",
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Oh, What Wondrous Love",
+        "Result Artist Names": [
+            "Jim Henry & Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g9GlWw2eoMTeZUkWdTPbS",
+        "Result Album Name": "Ring Some Changes"
     },
     {
         "MoWeEd Track": "FLAPPERETTE",
         "MoWeEd Artists": [
             "BELA FLECK",
             "TONY TRISCHKA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Orrin Hatch, 'Confessions of A Citizen Senator'",
@@ -84,13 +101,23 @@
         "MoWeEd Track": "Deep Water Gospel",
         "MoWeEd Artists": [
             "W. A. Mathieu"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Invisible Rain",
         "MoWeEd Artists": [
             "T.J. Rehmi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Expensive Vowel",
@@ -108,7 +135,15 @@
         "MoWeEd Track": "Smoke Rings",
         "MoWeEd Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Smoke Rings",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sjt2ny8RU2OA5d7dH43Vg",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "Title": "Far-Right Party Slumps in Austria",
@@ -121,7 +156,12 @@
         "MoWeEd Artists": [
             "Gidon Kremer",
             "Kremerata Baltica"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Monopoly, Present at the Creation",
@@ -139,6 +179,14 @@
         "MoWeEd Track": "Sentir",
         "MoWeEd Artists": [
             "Omar Sosa"
-        ]
+        ],
+        "Result Track Name": "Sentir",
+        "Result Artist Names": [
+            "Omar Sosa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zxKxUNvbOnqcZ9eDmFr7b",
+        "Result Album Name": "Sentir"
     }
 ]

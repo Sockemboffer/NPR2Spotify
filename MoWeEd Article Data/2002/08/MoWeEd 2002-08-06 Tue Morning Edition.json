@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-08-06",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:31:54"
+        "Scanned Date": "2021-05-28 13:31:54",
+        "Playlist URI": "42NN1sQmrgIOltbYzNsWoj",
+        "Playlist Link": "https://open.spotify.com/playlist/42NN1sQmrgIOltbYzNsWoj",
+        "Snapshot ID": "MSwwZmRkZDYxZDFmYjJlMWMwMGUwODFkMTliMjlkNGEyYzQxYmJkYzU3",
+        "Playlist Name": "MoWeEd 2002-08-06 Tue Morning Edition"
     },
     {
         "Title": "Economic Outlook",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Smokin' Area",
         "MoWeEd Artists": [
             "Sadao Watanabe"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Lust for Life: Reunion/Madness",
         "MoWeEd Artists": [
             "MGM Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Greece & Terrorism",
@@ -46,7 +60,12 @@
         "MoWeEd Track": "Silvers Song",
         "MoWeEd Artists": [
             "Steve Haun"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Conjoined Twins",
@@ -60,7 +79,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Battle for Guadalcanal",
@@ -73,7 +97,12 @@
         "MoWeEd Artists": [
             "Boston Symphony Orchestra",
             "Tanglewood Festival Chorus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Meat Inspections",
@@ -85,7 +114,15 @@
         "MoWeEd Track": "Viscous Consistency",
         "MoWeEd Artists": [
             "Steve Swallow"
-        ]
+        ],
+        "Result Track Name": "Viscous Consistency",
+        "Result Artist Names": [
+            "Steve Swallow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NtVvb9fLW9gzDIdqJD0Km",
+        "Result Album Name": "Deconstructed"
     },
     {
         "Title": "Police Computers",
@@ -98,13 +135,33 @@
         "MoWeEd Artists": [
             "Barbara Gogan",
             "Hector Zazou"
-        ]
+        ],
+        "Result Track Name": "Dangerous",
+        "Result Artist Names": [
+            "Barbara Gogan",
+            "Hector Zazou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2oaF1dhhAYJdtlja2BGyfL",
+        "Result Album Name": "Made On Earth"
     },
     {
         "MoWeEd Track": "Seasons",
         "MoWeEd Artists": [
             "Yo-yo Ma"
-        ]
+        ],
+        "Result Track Name": "The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": II. Largo",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Yo-Yo Ma",
+            "Ton Koopman",
+            "Amsterdam Baroque Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2SKwaUiqbB08fnHRgWEeDz",
+        "Result Album Name": "Impressions"
     },
     {
         "Title": "Jamaican Independence Day",
@@ -123,14 +180,30 @@
         "MoWeEd Artists": [
             "Bob Marley",
             "the Wailers"
-        ]
+        ],
+        "Result Track Name": "Jamming",
+        "Result Artist Names": [
+            "Bob Marley & The Wailers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zn0kScuV9Oj28d4g9CQQs",
+        "Result Album Name": "Exodus (Deluxe Edition)"
     },
     {
         "MoWeEd Track": "Jamming [Long Version][*]",
         "MoWeEd Artists": [
             "Bob Marley",
             "the Wailers"
-        ]
+        ],
+        "Result Track Name": "Jamming - Long Version",
+        "Result Artist Names": [
+            "Bob Marley & The Wailers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1JD0IQb6UR5BJvRBg6hfTi",
+        "Result Album Name": "Exodus (Deluxe Edition)"
     },
     {
         "Title": "Uganda",
@@ -142,14 +215,32 @@
         "MoWeEd Track": "O Bia",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "O Bia",
+        "Result Artist Names": [
+            "Francis Bebey",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KDwVGmIY0PO1z9z6lEAmx",
+        "Result Album Name": "The Magic Box"
     },
     {
         "MoWeEd Track": "Engome",
         "MoWeEd Artists": [
             "John Williams",
             "Francis Bebey"
-        ]
+        ],
+        "Result Track Name": "Engome",
+        "Result Artist Names": [
+            "Francis Bebey",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:61d9QNStAFJC5aVURJoGuQ",
+        "Result Album Name": "The Magic Box"
     },
     {
         "Title": "Portraits of a Changing China",
@@ -161,13 +252,29 @@
         "MoWeEd Track": "Ritual Dance",
         "MoWeEd Artists": [
             "Kitaro"
-        ]
+        ],
+        "Result Track Name": "Ritual Dance",
+        "Result Artist Names": [
+            "Kitaro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07YIHuOyM14XJTfw7xUSgo",
+        "Result Album Name": "Ancient"
     },
     {
         "MoWeEd Track": "Negative Girl",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Negative Girl",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eJIUxDDOHcRhRoSFXm5gc",
+        "Result Album Name": "Two Against Nature"
     },
     {
         "Title": "Bush & Miners",
@@ -185,6 +292,11 @@
         "MoWeEd Track": "I'll See You In My Dreams",
         "MoWeEd Artists": [
             "Dick Hyman Group Featuring Howard Alden"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-07-29",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:36:46"
+        "Scanned Date": "2021-05-28 13:36:46",
+        "Playlist URI": "0E5dgFbYbp3OvbWbMiZNBc",
+        "Playlist Link": "https://open.spotify.com/playlist/0E5dgFbYbp3OvbWbMiZNBc",
+        "Snapshot ID": "MSxiMmNjZjg5MDU4YTk3ZWRlNGFjY2M3MmY5ODFmMmNjMjNiYWVjNDg1",
+        "Playlist Name": "MoWeEd 2002-07-29 Mon Morning Edition"
     },
     {
         "Title": "Powell Trip",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Suite No. 1 In a Major - Sarabande",
         "MoWeEd Artists": [
             "Mark Bernat"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Marketing Iverson",
@@ -52,7 +61,15 @@
         "MoWeEd Track": "The Dancing",
         "MoWeEd Artists": [
             "Alex Grant"
-        ]
+        ],
+        "Result Track Name": "The Dancing",
+        "Result Artist Names": [
+            "Alex Grant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Iq3CENWPXgxEptmWqkAKv",
+        "Result Album Name": "Metaphor"
     },
     {
         "Title": "Qwest",
@@ -82,7 +99,12 @@
         "MoWeEd Track": "Oslo Blue",
         "MoWeEd Artists": [
             "Bill Parsons"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Happy Aging",
@@ -100,7 +122,12 @@
         "MoWeEd Track": "Cabin Waltz",
         "MoWeEd Artists": [
             "New Grange"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Miners' Rescue",
@@ -112,7 +139,15 @@
         "MoWeEd Track": "A Child's Song",
         "MoWeEd Artists": [
             "Will Ackerman"
-        ]
+        ],
+        "Result Track Name": "A Child's Song",
+        "Result Artist Names": [
+            "Will Ackerman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6R1HNQcSaU0TY838ZHLgav",
+        "Result Album Name": "Sound Of Wind Driven Rain"
     },
     {
         "Title": "'National Lampoon's Animal House,' Present at the Creation",
@@ -130,6 +165,14 @@
         "MoWeEd Track": "Aeolian Harp",
         "MoWeEd Artists": [
             "Tosca"
-        ]
+        ],
+        "Result Track Name": "Aeolian Harp",
+        "Result Artist Names": [
+            "Tosca Tango Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5alyHgYhL5usUOoeQr51Xy",
+        "Result Album Name": "La Furia Del Tango"
     }
 ]

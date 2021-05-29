@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-02-19",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:49:34"
+        "Scanned Date": "2021-05-28 13:49:34",
+        "Playlist URI": "3u3GxYIiGOphhoiQOSVPfM",
+        "Playlist Link": "https://open.spotify.com/playlist/3u3GxYIiGOphhoiQOSVPfM",
+        "Snapshot ID": "MSwxYTk0ODhlZDJkMmM5YjUyNDU3NDdmMjQ2ZDA0OWVlY2IzMWZmMThi",
+        "Playlist Name": "MoWeEd 2002-02-19 Tue Morning Edition"
     },
     {
         "Title": "Assessing the War Part 1",
@@ -17,13 +21,30 @@
         "MoWeEd Artists": [
             "Ralph Towner",
             "Gary Peacock"
-        ]
+        ],
+        "Result Track Name": "Viewpoint",
+        "Result Artist Names": [
+            "Ralph Towner",
+            "Gary Peacock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eoX400JMlECUuSVbkZkI0",
+        "Result Album Name": "A Closer View"
     },
     {
         "MoWeEd Track": "THE PROPHET",
         "MoWeEd Artists": [
             "CRAIG URQUHART"
-        ]
+        ],
+        "Result Track Name": "The Prophet",
+        "Result Artist Names": [
+            "Craig Urquhart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qXVHSy0mGOaalMoZiIrSy",
+        "Result Album Name": "Songs Without Words"
     },
     {
         "Title": "Coaching",
@@ -41,7 +62,16 @@
         "MoWeEd Track": "Berceuse (from Jocelyn)",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": "Berceuse From \"Jocelyn\"",
+        "Result Artist Names": [
+            "Benjamin Godard",
+            "Eroica Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jIYF7Cjhb3PSdaPchzjMr",
+        "Result Album Name": "Eroica Trio: Eroica Trio"
     },
     {
         "Title": "Dog Mauling",
@@ -53,7 +83,15 @@
         "MoWeEd Track": "Beckoning",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "Beckoning",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1X1gYFB0IvgYsMnNJpkIBK",
+        "Result Album Name": "Beckoning"
     },
     {
         "Title": "Olympics Wrap",
@@ -71,13 +109,30 @@
         "MoWeEd Track": "John Henry",
         "MoWeEd Artists": [
             "Etta Baker"
-        ]
+        ],
+        "Result Track Name": "John Henry (feat. Taj Mahal)",
+        "Result Artist Names": [
+            "Etta Baker",
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52erqn80TuUc6puDQFVgNZ",
+        "Result Album Name": "Etta Baker With Taj Mahal"
     },
     {
         "MoWeEd Track": "Concerto for Jazz Bass & Orchestra: Westward Expansion",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Concerto Movement #1 - Westward Expansion",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6r6BuCZVdQR62dTCBU6APz",
+        "Result Album Name": "Heart Of The Bass"
     },
     {
         "Title": "Kitchen Incubator",
@@ -89,7 +144,15 @@
         "MoWeEd Track": "Gala Performance",
         "MoWeEd Artists": [
             "Laurie Johnson"
-        ]
+        ],
+        "Result Track Name": "Gala Performance",
+        "Result Artist Names": [
+            "Laurie Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7L0tD8Z2Ii7yHWdVS01Bct",
+        "Result Album Name": "That's Showbiz"
     },
     {
         "Title": "Bush in Japan",
@@ -107,13 +170,26 @@
         "MoWeEd Track": "Quatre Piéces Brèves: Plainte",
         "MoWeEd Artists": [
             "Eliot Fisk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Cello Suite No. 1 In G Major",
         "MoWeEd Artists": [
             "Ralph Kirshbaum"
-        ]
+        ],
+        "Result Track Name": "Suites for Cello, Suite No. 1 in G Major BWV 1007: Prelude",
+        "Result Artist Names": [
+            "Ralph Kirshbaum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lJmXf0kzNdYxs79K6VNFN",
+        "Result Album Name": "100 Best Baroque"
     },
     {
         "Title": "Housing and Urban Development",
@@ -125,7 +201,12 @@
         "MoWeEd Track": "Andante cantabile from Quartet No.1 in D Major, Opus 11",
         "MoWeEd Artists": [
             "The Blair String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Georgia Crematory",
@@ -135,7 +216,12 @@
     },
     {
         "MoWeEd Track": "Moments Musicaux (6) for piano, Op. 16",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Al Queda Gold",
@@ -153,21 +239,46 @@
         "MoWeEd Track": "Musha Musiki",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Musha Musiki",
+        "Result Artist Names": [
+            "John Williams",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Fhl6EF6XPjqiNXSmj1nvp",
+        "Result Album Name": "The Magic Box"
     },
     {
         "MoWeEd Track": "End the Beguine!",
         "MoWeEd Artists": [
             "Jim Hall",
             "Dave Holland"
-        ]
+        ],
+        "Result Track Name": "End the Beguine!",
+        "Result Artist Names": [
+            "Jim Hall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:79YiCCqna8lhWzLqneskI8",
+        "Result Album Name": "Free Association"
     },
     {
         "MoWeEd Track": "Two Sleepy People",
         "MoWeEd Artists": [
             "Bill Charlap",
             "Jim Hall"
-        ]
+        ],
+        "Result Track Name": "Two Sleepy People",
+        "Result Artist Names": [
+            "Bill Charlap"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5qFWvgEToLBoSgMT1FXWa5",
+        "Result Album Name": "Stardust: The Music Of Hoagy Carmichael"
     },
     {
         "Title": "'All Wound Up '",

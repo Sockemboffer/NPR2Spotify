@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-12-02",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:20:20"
+        "Scanned Date": "2021-05-28 13:20:20",
+        "Playlist URI": "33nG2atg0zhuEVJzBQUwGu",
+        "Playlist Link": "https://open.spotify.com/playlist/33nG2atg0zhuEVJzBQUwGu",
+        "Snapshot ID": "MSwwOTA0ZjU1MThjOWYyZWNhZTIwMmY3Y2ExYzdmMWU1M2VlZDBmNjhj",
+        "Playlist Name": "MoWeEd 2002-12-02 Mon Morning Edition"
     },
     {
         "Title": "Kenya Bombing",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Concerto in C Major for Trumpet and Organ/3. Adagio",
         "MoWeEd Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Supreme Court Weighs U.S. Tribal Trust Role",
@@ -46,7 +55,15 @@
         "MoWeEd Track": "Viaduct",
         "MoWeEd Artists": [
             "Four80East"
-        ]
+        ],
+        "Result Track Name": "Viaduct",
+        "Result Artist Names": [
+            "Four80East"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6On3knJAqzsJvbxeMBCOdY",
+        "Result Album Name": "Nocturnal"
     },
     {
         "Title": "U.S. Press Freedom Debated in Canadian Murder Trial",
@@ -58,7 +75,12 @@
         "MoWeEd Track": "Stravinsky",
         "MoWeEd Artists": [
             "Gyroscope"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Boston Archdiocese Explores Ba",
@@ -76,7 +98,17 @@
         "MoWeEd Track": "The Four Seasons: Winter",
         "MoWeEd Artists": [
             "Antonio Vivaldi"
-        ]
+        ],
+        "Result Track Name": "The Four Seasons: Winter",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Albrecht Mayer",
+            "The King's Singers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fMDxSBQrkkwn3QuTxmLLu",
+        "Result Album Name": "Driving with Vivaldi"
     },
     {
         "Title": "Louisville Eyes Business Boost in Merger with County",
@@ -88,7 +120,15 @@
         "MoWeEd Track": "Up and Running",
         "MoWeEd Artists": [
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "Up and Running - Acoustic Version",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sCYqbGv69ZUqfvqINF3Ut",
+        "Result Album Name": "Tales From The Acoustic Planet"
     },
     {
         "Title": "Week in Politics",
@@ -107,7 +147,12 @@
         "MoWeEd Artists": [
             "Bob Malach",
             "Ricky Peterson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sniper Case Sparks Debate on Juvenile Justice",
@@ -125,7 +170,15 @@
         "MoWeEd Track": "Santa Claus Is Coming to Town",
         "MoWeEd Artists": [
             "Ross McGinnis"
-        ]
+        ],
+        "Result Track Name": "Santa Claus Is Coming To Town",
+        "Result Artist Names": [
+            "Ross McGinnis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5vs5ri53uCvCZV6NDZOdVB",
+        "Result Album Name": "Santa's Steel Drum Xmas"
     },
     {
         "Title": "Media Leaks ",
@@ -137,7 +190,12 @@
         "MoWeEd Track": "Waiting for B.",
         "MoWeEd Artists": [
             "Marlon Jordan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Coffee Break, 'Present at the Creation'",
@@ -155,6 +213,11 @@
         "MoWeEd Track": "Suite Baroque, for flute & ensemble, in D Minor, Nos 1-5, complete",
         "MoWeEd Artists": [
             "Alain Marion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

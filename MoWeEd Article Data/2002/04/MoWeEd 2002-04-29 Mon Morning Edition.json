@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-04-29",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:45:01"
+        "Scanned Date": "2021-05-28 13:45:01",
+        "Playlist URI": "6JEQlhhlPNUyUZXQs4QtoY",
+        "Playlist Link": "https://open.spotify.com/playlist/6JEQlhhlPNUyUZXQs4QtoY",
+        "Snapshot ID": "MSw5YmRkOGI3MDU2NmYyNTVmM2NiOGJjODczNTY4NWZmMmVmMWY0YWUw",
+        "Playlist Name": "MoWeEd 2002-04-29 Mon Morning Edition"
     },
     {
         "Title": "Middle East",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Icratic",
         "MoWeEd Artists": [
             "Jim Black's AlasNoAxis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "We See",
         "MoWeEd Artists": [
             "Ron Miles"
-        ]
+        ],
+        "Result Track Name": "We See",
+        "Result Artist Names": [
+            "Ron Miles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3997dAO9krqNTzRP8p8FSu",
+        "Result Album Name": "Heaven"
     },
     {
         "Title": "Black Power Dwindles",
@@ -40,7 +57,15 @@
         "MoWeEd Track": "Everything's Going to the Beat",
         "MoWeEd Artists": [
             "Ace of Clubs"
-        ]
+        ],
+        "Result Track Name": "Everything Is Going to the Beat",
+        "Result Artist Names": [
+            "The Ace Of Clubs"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:585E84WogU87PB1EnHSk3W",
+        "Result Album Name": "Acid Jazz: Everything's Going to the Beat (Digitally Remastered)"
     },
     {
         "Title": "'Skategate'",
@@ -52,7 +77,15 @@
         "MoWeEd Track": "Walk, Don't Run",
         "MoWeEd Artists": [
             "Johnny A."
-        ]
+        ],
+        "Result Track Name": "Walk Don't Run",
+        "Result Artist Names": [
+            "Johnny Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0VDCmPWe5QWCfp1h2sPwt5",
+        "Result Album Name": "Kaleidoscope"
     },
     {
         "Title": "Guantanamo Bay Prisoners",
@@ -64,7 +97,15 @@
         "MoWeEd Track": "Carnival and Reprise",
         "MoWeEd Artists": [
             "Daniel Pemberton"
-        ]
+        ],
+        "Result Track Name": "Carnival and Reprise - Rio de Janeiro",
+        "Result Artist Names": [
+            "Daniel Pemberton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ftKKwvetFDIvZsQ8dMg1W",
+        "Result Album Name": "Globe Trekker - Music From the TV Series, Vol. I"
     },
     {
         "Title": "Business Layers",
@@ -76,7 +117,17 @@
         "MoWeEd Track": "Orient Blue",
         "MoWeEd Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Orient Blue Suite",
+        "Result Artist Names": [
+            "Al Di Meola",
+            "John McLaughlin",
+            "Paco de Lucía"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UAJoVc8E0kJVeScYgTee8",
+        "Result Album Name": "Passion, Grace & Fire"
     },
     {
         "Title": "Cokie Roberts",
@@ -95,7 +146,15 @@
         "MoWeEd Artists": [
             "Jai Uttal",
             "the Pagan Love Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Whisper Stream",
+        "Result Artist Names": [
+            "Jai Uttal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1ANtkEBwiIUQzQepKumux9",
+        "Result Album Name": "Mondo Rama"
     },
     {
         "Title": "Pentagon Prepares As U.S. Attack On Iraq Looms",
@@ -107,7 +166,12 @@
         "MoWeEd Track": "Lauren Z",
         "MoWeEd Artists": [
             "Astral Project"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cardinals At Mass",
@@ -119,7 +183,12 @@
         "MoWeEd Track": "Sonata for Cello and Piano In G Minor--second Movement",
         "MoWeEd Artists": [
             "Julian Lloyd Webber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "L.A. Riots",
@@ -137,13 +206,30 @@
         "MoWeEd Track": "Space Reflex (Blues in 5/4)",
         "MoWeEd Artists": [
             "Dick Hyman"
-        ]
+        ],
+        "Result Track Name": "Space Reflex (Blues in 5/4)",
+        "Result Artist Names": [
+            "Dick Hyman",
+            "Mary Mayo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:671h6c5Q5otl751GaLyPAO",
+        "Result Album Name": "Moon Gas"
     },
     {
         "MoWeEd Track": "Sirocco [Instrumental]",
         "MoWeEd Artists": [
             "Hillbilly Idol"
-        ]
+        ],
+        "Result Track Name": "Sirocco",
+        "Result Artist Names": [
+            "Hillbilly Idol"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ySp3kpnbq9zqeY6sQwN0D",
+        "Result Album Name": "Hillbilly Idol"
     },
     {
         "Title": "Home on the Range, Present at the Creation",

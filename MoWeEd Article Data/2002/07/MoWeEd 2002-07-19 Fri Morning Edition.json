@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-07-19",
         "Day": "Fri",
-        "Scanned Date": "2021-05-28 13:35:48"
+        "Scanned Date": "2021-05-28 13:35:48",
+        "Playlist URI": "5wG3uHEEOE2cvHOfNVtB2N",
+        "Playlist Link": "https://open.spotify.com/playlist/5wG3uHEEOE2cvHOfNVtB2N",
+        "Snapshot ID": "MSxjZDI0ZTM4NDVkZjVmYmI2MWMwZTNlYWM2YWUyZTJmMGVkYTk5ZmFk",
+        "Playlist Name": "MoWeEd 2002-07-19 Fri Morning Edition"
     },
     {
         "Title": "Moussaoui Hearing",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Prelude and Presto from Suite in E Minor for Lute",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Electronics' Final Cost",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "Wishful Thinking",
         "MoWeEd Artists": [
             "John Emanuelson"
-        ]
+        ],
+        "Result Track Name": "Wishful Thinking",
+        "Result Artist Names": [
+            "John Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5TUEVznJNvd0FiJsHos8Bk",
+        "Result Album Name": "Hope"
     },
     {
         "Title": "Republican Reactions",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Arkansas Traveler",
         "MoWeEd Artists": [
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "Arkansas Traveler - Acoustic Version",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5g37pMV1BDnCWtaYi40O2w",
+        "Result Album Name": "Tales From The Acoustic Planet"
     },
     {
         "Title": "'Read My Lips' Director Profile",
@@ -90,7 +115,12 @@
             "Frans Bruggen",
             "Anner Bylsma",
             "Bob Van Asperen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "German Defense Minister Fired",
@@ -108,7 +138,15 @@
         "MoWeEd Track": "Nine Faces",
         "MoWeEd Artists": [
             "Mehmet Ergin"
-        ]
+        ],
+        "Result Track Name": "Nine Faces",
+        "Result Artist Names": [
+            "Mehmet Ergin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4F1MITPYjElo1GqIBu5ygR",
+        "Result Album Name": "Beyond the Seven Hills"
     },
     {
         "Title": "Pittman Steps Down",

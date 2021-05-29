@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-04-08",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:43:10"
+        "Scanned Date": "2021-05-28 13:43:10",
+        "Playlist URI": "564nELTwQxKniJ5qHGo9SG",
+        "Playlist Link": "https://open.spotify.com/playlist/564nELTwQxKniJ5qHGo9SG",
+        "Snapshot ID": "MSw0YmQwOWU5NmU0NzM4MzdjNDM1NDQ2ODQzMjY1NDdhNGQ2OTllMjQx",
+        "Playlist Name": "MoWeEd 2002-04-08 Mon Morning Edition"
     },
     {
         "Title": "Nablus",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Derivations for Clarinet and Band--ii Contrapuntal Blues",
         "MoWeEd Artists": [
             "Sharon Kam"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Escucha Mi Piano",
         "MoWeEd Artists": [
             "Pepesito Reyes"
-        ]
+        ],
+        "Result Track Name": "Escucha mi piano",
+        "Result Artist Names": [
+            "Pepesito Reyes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mdPtMEvt5Rkcv5uUf86IP",
+        "Result Album Name": "Latino Casino"
     },
     {
         "Title": "Detainee Rights",
@@ -40,7 +57,16 @@
         "MoWeEd Track": "Fugata",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Fugata",
+        "Result Artist Names": [
+            "Kathryn Stott",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Xjhg5cuoCFE7sjSPcR0fn",
+        "Result Album Name": "Soul of the Tango"
     },
     {
         "Title": "Luxury Cars",
@@ -52,7 +78,15 @@
         "MoWeEd Track": "Stella by Starlight",
         "MoWeEd Artists": [
             "Jack Jezzro"
-        ]
+        ],
+        "Result Track Name": "Stella By Starlight",
+        "Result Artist Names": [
+            "Jack Jezzro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00qFfBCu5Pvo3nAZqXfqm1",
+        "Result Album Name": "Jazz Tastings - Light Jazz Guitar"
     },
     {
         "Title": "Tribal Welfare",
@@ -70,13 +104,29 @@
         "MoWeEd Track": "See That My Grave Is Kept Clean",
         "MoWeEd Artists": [
             "Blind Lemon Jefferson"
-        ]
+        ],
+        "Result Track Name": "See That My Grave is Kept Clean",
+        "Result Artist Names": [
+            "Blind Lemon Jefferson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4brPSVo6F4X8X3OaCeAVR8",
+        "Result Album Name": "Black Snake Moan"
     },
     {
         "MoWeEd Track": "I Will Be Your Friend",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": "I Will Be Your Friend",
+        "Result Artist Names": [
+            "Guy Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xEx6emno7FdAD5UQG6ae2",
+        "Result Album Name": "Give In Kind"
     },
     {
         "Title": "Tree Bonds",
@@ -94,7 +144,15 @@
         "MoWeEd Track": "You've Got A Friend",
         "MoWeEd Artists": [
             "Bob Belden"
-        ]
+        ],
+        "Result Track Name": "You've Got A Friend",
+        "Result Artist Names": [
+            "Bob Belden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mfoTDCG5Y35RSR08HS6Aw",
+        "Result Album Name": "Tapestry"
     },
     {
         "Title": "Cokie Roberts",
@@ -112,13 +170,38 @@
         "MoWeEd Track": "Quartet, Op. 131 (in C-sharp minor): Allegro moderato",
         "MoWeEd Artists": [
             "Cleveland Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "After the Ball",
         "MoWeEd Artists": [
             "Louisiana Repertory Jazz Ensemble"
-        ]
+        ],
+        "Result Track Name": "After the Ball",
+        "Result Artist Names": [
+            "Louisiana Repertory Jazz Ensemble Of New Orleans",
+            "Tom Ebbert",
+            "Charlie Fardella",
+            "John Chaffe",
+            "Henry Duckham",
+            "Vince Giordano",
+            "Roy Tate",
+            "John Joyce",
+            "Marilyn McDonald",
+            "John Royen",
+            "Fred Starr",
+            "Jacques Gauthe",
+            "Walter Payton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ai5dn9MaD6KYEdauirfB1",
+        "Result Album Name": "Hot and Sweet Sounds of Lost New Orleans"
     },
     {
         "Title": "Expanded Enron Lawsuit",
@@ -136,7 +219,12 @@
         "MoWeEd Track": "A Bird Flew In",
         "MoWeEd Artists": [
             "Janet Feder"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East Roundup",
@@ -149,7 +237,12 @@
         "MoWeEd Artists": [
             "Lanny Pollet",
             "Bruce Vogt"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The French Quarter, 'Present at the Creation'",
@@ -161,13 +254,29 @@
         "MoWeEd Track": "Bachiaras",
         "MoWeEd Artists": [
             "Frederic Hand"
-        ]
+        ],
+        "Result Track Name": "Bachiaras",
+        "Result Artist Names": [
+            "Frederic Hand"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64wmJYyjcmURXFCaWS7Tpj",
+        "Result Album Name": "Jazzantiqua"
     },
     {
         "MoWeEd Track": "J.F.",
         "MoWeEd Artists": [
             "Richard Galliano"
-        ]
+        ],
+        "Result Track Name": "J.F.",
+        "Result Artist Names": [
+            "Richard Galliano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6d0sqiwAf8XOEoMk8sNtP1",
+        "Result Album Name": "French Touch"
     },
     {
         "Title": "'Life's Journey'",

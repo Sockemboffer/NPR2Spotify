@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-06-26",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:39:20"
+        "Scanned Date": "2021-05-28 13:39:20",
+        "Playlist URI": "2z4KqHYmrAZ7xrC3ODmUDa",
+        "Playlist Link": "https://open.spotify.com/playlist/2z4KqHYmrAZ7xrC3ODmUDa",
+        "Snapshot ID": "MSw4ZGJkOGIzZWEzYjM1NDE3ODlkNzA2YTZiYWYxYzQ4YmZlNDRjYTFk",
+        "Playlist Name": "MoWeEd 2002-06-26 Wed Morning Edition"
     },
     {
         "Title": "WorldCom Fraud",
@@ -22,13 +26,30 @@
         "MoWeEd Track": "Peace Piece",
         "MoWeEd Artists": [
             "Jean-Yves Thibaudet"
-        ]
+        ],
+        "Result Track Name": "Peace Piece",
+        "Result Artist Names": [
+            "Bill Evans",
+            "Jean-Yves Thibaudet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6H7v8qR23rZKbz6FGRaU2l",
+        "Result Album Name": "Conversations with Bill Evans"
     },
     {
         "MoWeEd Track": "I Just Can't Keep from Crying Sometimes",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "I Just Can't Keep From Crying Sometimes",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3Rmls1v8DjsVA0SbHHWIw3",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "Title": "Sen. Richard Shelby",
@@ -41,7 +62,15 @@
         "MoWeEd Artists": [
             "Harry Connick",
             "Jr."
-        ]
+        ],
+        "Result Track Name": "Stars Fell On Alabama",
+        "Result Artist Names": [
+            "Harry Connick, Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ayzC8IuVTWWcDBGnfNgKA",
+        "Result Album Name": "20"
     },
     {
         "Title": "Palestinian Reforms",
@@ -53,7 +82,15 @@
         "MoWeEd Track": "Falling Pianos",
         "MoWeEd Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Falling Pianos",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tqy8l0ZESiYaO5uU6n5lc",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "Los Angeles Health Budget",
@@ -71,7 +108,12 @@
         "MoWeEd Track": "Suite for solo cello No. 6 in D major, BWV 1012",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "ModestNeeds.org",
@@ -89,7 +131,15 @@
         "MoWeEd Track": "Two Against Nature",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Two Against Nature",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2C3Gjo4k42nkHMqWZSnWqM",
+        "Result Album Name": "Two Against Nature"
     },
     {
         "Title": "Bush in Canada",
@@ -107,13 +157,26 @@
         "MoWeEd Track": "Divini",
         "MoWeEd Artists": [
             "Sakesho"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Costume Montage",
         "MoWeEd Artists": [
             "Danny Elfman"
-        ]
+        ],
+        "Result Track Name": "Costume Montage",
+        "Result Artist Names": [
+            "Danny Elfman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Rgbq6MwsEqSBFGBHWcrTI",
+        "Result Album Name": "Spider-Man - Original Motion Picture Score"
     },
     {
         "Title": "Moussaoui Case",
@@ -131,7 +194,15 @@
         "MoWeEd Track": "First Down",
         "MoWeEd Artists": [
             "Fatboy Slim"
-        ]
+        ],
+        "Result Track Name": "First Down",
+        "Result Artist Names": [
+            "Fatboy Slim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2s11n0VrJ2IRY29fJUk9FP",
+        "Result Album Name": "Better Living Through Chemistry"
     },
     {
         "Title": "Arizona Fires",
@@ -143,7 +214,15 @@
         "MoWeEd Track": "Schubertplatz",
         "MoWeEd Artists": [
             "Tab Two"
-        ]
+        ],
+        "Result Track Name": "Schubertplatz - TT Edit",
+        "Result Artist Names": [
+            "Tab Two"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2k2QXMHmlwaDsiWqr65vdP",
+        "Result Album Name": "Two Thumbs Up"
     },
     {
         "Title": "Newark Playground",
@@ -161,13 +240,23 @@
         "MoWeEd Track": "Swamp Dream",
         "MoWeEd Artists": [
             "Roy Rogers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Begin The Beguine",
         "MoWeEd Artists": [
             "The Jazz Giants"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gardening in a Drought",
@@ -179,6 +268,14 @@
         "MoWeEd Track": "Fake Fur",
         "MoWeEd Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Fake Fur",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3OwGN1zAILkrYKQaYPehpm",
+        "Result Album Name": "The Black Light"
     }
 ]

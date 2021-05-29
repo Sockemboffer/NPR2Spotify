@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-05-26",
         "Day": "Sun",
-        "Scanned Date": "2021-05-28 13:42:00"
+        "Scanned Date": "2021-05-28 13:42:00",
+        "Playlist URI": "6aR2IS6MZPpMRhnzZIFYtY",
+        "Playlist Link": "https://open.spotify.com/playlist/6aR2IS6MZPpMRhnzZIFYtY",
+        "Snapshot ID": "MSwxN2JhZTIxZGFiZDRhYTdmMTc4NzM0ZmFmMzVlOWYzZDQ4OWU3Nzgz",
+        "Playlist Name": "MoWeEd 2002-05-26 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "India and Pakistan",
@@ -35,20 +44,43 @@
         "MoWeEd Track": "Holy, Holy, Holy",
         "MoWeEd Artists": [
             "James Sundquist"
-        ]
+        ],
+        "Result Track Name": "O Holy Night (Cantieque De Noel)",
+        "Result Artist Names": [
+            "James Sundquist"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LzeveZFLdVTP4fPmdY71b",
+        "Result Album Name": "An Anthology of Sacred Carols for Classical Guitar"
     },
     {
         "MoWeEd Track": "Captain Blood",
         "MoWeEd Artists": [
             "National Philharmonic Orchestra",
             "Charles Gerhardt"
-        ]
+        ],
+        "Result Track Name": "Overture (From \"Captain Blood\")",
+        "Result Artist Names": [
+            "Erich Wolfgang Korngold",
+            "Charles Gerhardt",
+            "National Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0756gNklEfUAfn8z3ywUlN",
+        "Result Album Name": "Charles Gerhardt Conducts Classic Film Scores"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Air Marshals",
@@ -66,7 +98,15 @@
         "MoWeEd Track": "Forget It, It's a Mystery",
         "MoWeEd Artists": [
             "Lisa Germano"
-        ]
+        ],
+        "Result Track Name": "Forget It, It's A Mystery",
+        "Result Artist Names": [
+            "Lisa Germano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WlI0ApKTKRfbKn5DTILPh",
+        "Result Album Name": "Excerpts from a Love Circus"
     },
     {
         "Title": "Mohawks Versus General Motors",
@@ -80,7 +120,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Memorial Day",
@@ -92,19 +137,34 @@
         "MoWeEd Track": "Come Where My Love Lies Dreaming",
         "MoWeEd Artists": [
             "Eastman Wind Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Love Theme [#]",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -116,7 +176,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mike Medavoy",
@@ -128,7 +193,16 @@
         "MoWeEd Track": "Main Title",
         "MoWeEd Artists": [
             "Munich Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Main Title",
+        "Result Artist Names": [
+            "Howard Shore",
+            "Munich Symphony"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5fGk9UjkHggNZDwT0Yowl6",
+        "Result Album Name": "The Silence Of The Lambs"
     },
     {
         "Title": "Bush's Trip",
@@ -146,19 +220,48 @@
         "MoWeEd Track": "We'll Meet Again [From Dr. Strangelove]",
         "MoWeEd Artists": [
             "Vera Lynn"
-        ]
+        ],
+        "Result Track Name": "We'll Meet Again",
+        "Result Artist Names": [
+            "Vera Lynn"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7uFUyx7KnrbipYE2QuSBhZ",
+        "Result Album Name": "National Treasure - The Ultimate Collection"
     },
     {
         "MoWeEd Track": "Ex Tempore",
         "MoWeEd Artists": [
             "Guy Livingston"
-        ]
+        ],
+        "Result Track Name": "Marek Zebrowski: Ex tempore",
+        "Result Artist Names": [
+            "n/a",
+            "0",
+            "Guy Livingston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OXi7EglauEwPDskbtW42z",
+        "Result Album Name": "Don't Panic! 60 Seconds for Piano"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "St. Petersburg",
@@ -170,7 +273,16 @@
         "MoWeEd Track": "String Quartet No. 1 in A major",
         "MoWeEd Artists": [
             "Borodin Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 1 in A Major: I. Moderato - Allegro",
+        "Result Artist Names": [
+            "Alexander Borodin",
+            "Budapest Haydn Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VstUI5WDb0vR8ZP61ihMv",
+        "Result Album Name": "BORODIN: String Quartets Nos. 1 and 2"
     },
     {
         "Title": "Secrecy",
@@ -182,7 +294,12 @@
         "MoWeEd Track": "You Feed Youself",
         "MoWeEd Artists": [
             "Dusty Trails"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Soccer Flopping",
@@ -194,7 +311,15 @@
         "MoWeEd Track": "¡Olé!",
         "MoWeEd Artists": [
             "The Bouncing Souls"
-        ]
+        ],
+        "Result Track Name": "Olé",
+        "Result Artist Names": [
+            "The Bouncing Souls"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Ll7IOgVnAoPtvhT9GU6Uw",
+        "Result Album Name": "Live"
     },
     {
         "Title": "Summer Reading",
@@ -207,19 +332,34 @@
         "MoWeEd Artists": [
             "Marion Verbruggen",
             "Flanders Recorder Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Verschiebung, for piano",
         "MoWeEd Artists": [
             "Guy Livingston"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Guy Livingston: Minuteman",

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-04-27",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:44:50"
+        "Scanned Date": "2021-05-28 13:44:50",
+        "Playlist URI": "5oLNSYISLNm4G5IGfDbllx",
+        "Playlist Link": "https://open.spotify.com/playlist/5oLNSYISLNm4G5IGfDbllx",
+        "Snapshot ID": "MSxiOTA1MzljNzk1ZTljZmM4ZWI4NTQzN2EyZWY1Y2ZiYmY5NDcxM2My",
+        "Playlist Name": "MoWeEd 2002-04-27 Sat Weekend Edition"
     },
     {
         "Title": "Mideast",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Patitas [Little Feet][Instrumental]",
         "MoWeEd Artists": [
             "Tony de la Rosa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Asset Forfeiture",
@@ -41,7 +50,15 @@
         "MoWeEd Artists": [
             "Gary Burton",
             "Makoto Ozone"
-        ]
+        ],
+        "Result Track Name": "Kato's Revenge",
+        "Result Artist Names": [
+            "Makoto Ozone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:25B6ZzyONc8IPDXnwkFKfE",
+        "Result Album Name": "After"
     },
     {
         "Title": "L.A. Church",
@@ -77,14 +94,27 @@
         "MoWeEd Track": "Can't Shake the Sands of Texas From My Shoes",
         "MoWeEd Artists": [
             "Gene Autry"
-        ]
+        ],
+        "Result Track Name": "Can't Shake The Sands Of Texas From My Shoes",
+        "Result Artist Names": [
+            "Gene Autry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:60itiSHPXwsUqoeAh72FvQ",
+        "Result Album Name": "The Gene Autry Show: The Complete 1950's Television Recordings"
     },
     {
         "MoWeEd Track": "Tell It Like It Is",
         "MoWeEd Artists": [
             "The Dirty Dozen Brass Band",
             "Robert Randolph"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Catholic Church Response",
@@ -102,19 +132,37 @@
         "MoWeEd Track": "2 Butterflies",
         "MoWeEd Artists": [
             "Vibes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Traffic Jam",
         "MoWeEd Artists": [
             "James Taylor"
-        ]
+        ],
+        "Result Track Name": "Traffic Jam",
+        "Result Artist Names": [
+            "James Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3QIksrsEQrP9UXhPxNxSG0",
+        "Result Album Name": "James Taylor Live"
     },
     {
         "MoWeEd Track": "Micky Fick",
         "MoWeEd Artists": [
             "Art Neville"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Parking Exchange",
@@ -144,6 +192,11 @@
         "MoWeEd Track": "Hip Replacement",
         "MoWeEd Artists": [
             "Directions In Groove"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

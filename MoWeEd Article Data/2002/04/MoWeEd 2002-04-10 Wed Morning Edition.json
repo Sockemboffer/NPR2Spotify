@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-04-10",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:43:22"
+        "Scanned Date": "2021-05-28 13:43:22",
+        "Playlist URI": "6lhRQUmUfGjD8OqLJfyOE4",
+        "Playlist Link": "https://open.spotify.com/playlist/6lhRQUmUfGjD8OqLJfyOE4",
+        "Snapshot ID": "MSxmMGRmMDBkMDQxZDY2OTRkYzhkNDQ0YTk3ZTU5NGE3MmY5MjAzNDg0",
+        "Playlist Name": "MoWeEd 2002-04-10 Wed Morning Edition"
     },
     {
         "Title": "Suicide Bomber",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Quatuor Iii En Sol Mineur--i Allegro Con Espressione",
         "MoWeEd Artists": [
             "Island"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "String Quartet No. 63 in B flat major (\"Sunrise\"), Op. 76/4, H. 3/78",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Detroit Detainee",
@@ -46,7 +60,15 @@
         "MoWeEd Track": "Axe Bahia",
         "MoWeEd Artists": [
             "Leon Parker"
-        ]
+        ],
+        "Result Track Name": "Axe Bahia",
+        "Result Artist Names": [
+            "Leon Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5np6VhmOKcVSOza06p4ceD",
+        "Result Album Name": "Awakening"
     },
     {
         "Title": "Campaign Finance",
@@ -58,7 +80,15 @@
         "MoWeEd Track": "Saltarello",
         "MoWeEd Artists": [
             "St. Louis Brass Quintet"
-        ]
+        ],
+        "Result Track Name": "Saltarello",
+        "Result Artist Names": [
+            "St. Louis Brass Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1snyXy4umQDtxe6FZcnTk0",
+        "Result Album Name": "Renaissance Faire"
     },
     {
         "Title": "Chechnya Quagmire",
@@ -76,13 +106,26 @@
         "MoWeEd Track": "Lazerus Blues",
         "MoWeEd Artists": [
             "Jon Wygens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sub-Aqua",
         "MoWeEd Artists": [
             "Michael Conn"
-        ]
+        ],
+        "Result Track Name": "Sub Aqua - Papua New Guinea",
+        "Result Artist Names": [
+            "Michael Conn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65XeyRq3hbCgLVzdhH7Ltu",
+        "Result Album Name": "Globe Trekker - Music From the TV Series, Vol. I"
     },
     {
         "Title": "Energy Debate Heads Back to Alaska",
@@ -101,7 +144,16 @@
         "MoWeEd Artists": [
             "Cincinnati Pops Big Band",
             "Erich Kunzel"
-        ]
+        ],
+        "Result Track Name": "Route 66",
+        "Result Artist Names": [
+            "Erich Kunzel",
+            "Cincinnati Pops Big Band Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6k1oSvkWeLbX0SxQhxv4wY",
+        "Result Album Name": "Nice 'N' Easy: Celebrating Sinatra"
     },
     {
         "Title": "Powell",
@@ -131,7 +183,12 @@
         "MoWeEd Track": "Jaringhe",
         "MoWeEd Artists": [
             "Stephen Funk Pearson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "LAPD Chief",
@@ -143,7 +200,15 @@
         "MoWeEd Track": "L.A. Confidential",
         "MoWeEd Artists": [
             "Jerry Goldsmith"
-        ]
+        ],
+        "Result Track Name": "Bloody Christmas - From \"L.A. Confidential\"",
+        "Result Artist Names": [
+            "Jerry Goldsmith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BXyyuUy5uXXk6oSO2dQKC",
+        "Result Album Name": "L.A. Confidential (Original Motion Picture Score)"
     },
     {
         "Title": "New York City Schools",
@@ -161,19 +226,43 @@
         "MoWeEd Track": "Whammer Jammer",
         "MoWeEd Artists": [
             "J. Geils Band"
-        ]
+        ],
+        "Result Track Name": "Whammer Jammer",
+        "Result Artist Names": [
+            "The J. Geils Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ED55VLiJwnaWEuo45f6MF",
+        "Result Album Name": "The Morning After"
     },
     {
         "MoWeEd Track": "Are You Passionate?",
         "MoWeEd Artists": [
             "Neil Young"
-        ]
+        ],
+        "Result Track Name": "Are You Passionate?",
+        "Result Artist Names": [
+            "Neil Young"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2onDqB2OzlhqDQIEwRQ2v6",
+        "Result Album Name": "Are You Passionate?"
     },
     {
         "MoWeEd Track": "Begin the Beguine",
         "MoWeEd Artists": [
             "Pepesito Reyes"
-        ]
+        ],
+        "Result Track Name": "Begin the Beguine",
+        "Result Artist Names": [
+            "Pepesito Reyes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vg7CUUxf21HLLgmi18zhi",
+        "Result Album Name": "Corazón Latino"
     },
     {
         "Title": "Wine Tips, from the Author of 'The Wine Bible'",
@@ -191,7 +280,16 @@
         "MoWeEd Track": "Come Sunday",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "English Folk Song Suite: I. March, \"Seventeen Come Sunday\"",
+        "Result Artist Names": [
+            "Various Artists",
+            "United States Marine Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Q7BadqbgR535ouMBCSrb0",
+        "Result Album Name": "Best of the British Isles"
     },
     {
         "Title": "St. John's Wort Flunks Mental Health Test",

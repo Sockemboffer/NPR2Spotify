@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-09-08",
         "Day": "Sun",
-        "Scanned Date": "2021-05-28 13:29:23"
+        "Scanned Date": "2021-05-28 13:29:23",
+        "Playlist URI": "4XN14NKwVfsmWk7ekZJG21",
+        "Playlist Link": "https://open.spotify.com/playlist/4XN14NKwVfsmWk7ekZJG21",
+        "Snapshot ID": "MSxmYmM0NzU3OTViZDJiZTQ2NDRkYzY5MzUxMjc3MTA4YzAwNjE0YWFk",
+        "Playlist Name": "MoWeEd 2002-09-08 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush and 9/11",
@@ -29,7 +38,12 @@
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "9/11 Holiday",
@@ -41,13 +55,23 @@
         "MoWeEd Track": "Thursday 7:30pm (Holy)",
         "MoWeEd Artists": [
             "John Hollenbeck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Illegal Teens",
@@ -60,7 +84,15 @@
         "MoWeEd Artists": [
             "Bob Telson",
             "Little Village"
-        ]
+        ],
+        "Result Track Name": "Little Village",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2sdY3q3ERRAEmssCeaG8bd",
+        "Result Album Name": "The Warrior Ant"
     },
     {
         "Title": "NFL Season Opener",
@@ -84,20 +116,43 @@
         "MoWeEd Track": "Beginning",
         "MoWeEd Artists": [
             "Erik Wollo"
-        ]
+        ],
+        "Result Track Name": "Beginning",
+        "Result Artist Names": [
+            "Erik Wøllo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4KhcRYQ41eFiRH5EYT1sqI",
+        "Result Album Name": "Wind Journey"
     },
     {
         "MoWeEd Track": "November",
         "MoWeEd Artists": [
             "Frank Gambale",
             "Stuart Hamm et. al."
-        ]
+        ],
+        "Result Track Name": "November",
+        "Result Artist Names": [
+            "Steve Smith",
+            "Frank Gambale",
+            "Stuart Hamm"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11bpakpPA5dqn7zgtESWFl",
+        "Result Album Name": "Ghs3"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -121,7 +176,15 @@
         "MoWeEd Track": "The Sound of Life Today",
         "MoWeEd Artists": [
             "Super Furry Animals"
-        ]
+        ],
+        "Result Track Name": "The Sound of Life Today",
+        "Result Artist Names": [
+            "Super Furry Animals"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SPxsQCUXpKgOfHyQOXGis",
+        "Result Album Name": "Guerrilla"
     },
     {
         "Title": "Israeli Collaborators",
@@ -133,13 +196,30 @@
         "MoWeEd Track": "Morecambe Bay",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "On Morecambe Bay",
+        "Result Artist Names": [
+            "Christy Moore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5snMBSBgECifX4L8aqdqGV",
+        "Result Album Name": "Folk Tale"
     },
     {
         "MoWeEd Track": "Siciliano",
         "MoWeEd Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Siciliano",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Richard Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ef5jgnVorowNblH9Jf1fn",
+        "Result Album Name": "WorldBeat Bach"
     },
     {
         "Title": "Humor After 9/11",
@@ -169,13 +249,26 @@
         "MoWeEd Track": "Joe's Thing",
         "MoWeEd Artists": [
             "Ed Cherry"
-        ]
+        ],
+        "Result Track Name": "Joe's Thing",
+        "Result Artist Names": [
+            "Ed Cherry Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MYZD68ZYQg9H1iuwRMHuR",
+        "Result Album Name": "Jazzy Weekend"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Days of Infamy",
@@ -187,6 +280,15 @@
         "MoWeEd Track": "Siciliano",
         "MoWeEd Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Siciliano",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Richard Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ef5jgnVorowNblH9Jf1fn",
+        "Result Album Name": "WorldBeat Bach"
     }
 ]

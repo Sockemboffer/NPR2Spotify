@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-11-21",
         "Day": "Thu",
-        "Scanned Date": "2021-05-28 13:25:06"
+        "Scanned Date": "2021-05-28 13:25:06",
+        "Playlist URI": "4uDYhqF2lFimlvg6LZEaF2",
+        "Playlist Link": "https://open.spotify.com/playlist/4uDYhqF2lFimlvg6LZEaF2",
+        "Snapshot ID": "MSw2NjY1M2I2MmMyYjNjN2YxN2NjNzlmYTI3NGMzYzhmOWY5Zjg5YTMz",
+        "Playlist Name": "MoWeEd 2002-11-21 Thu Morning Edition"
     },
     {
         "Title": "NATO Expands",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Boon-Cha-Cha",
         "MoWeEd Artists": [
             "Makoto Ozone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Al Gore Interview",
@@ -46,7 +55,15 @@
         "MoWeEd Track": "PVC IV",
         "MoWeEd Artists": [
             "Blue Man Group"
-        ]
+        ],
+        "Result Track Name": "PVC IV",
+        "Result Artist Names": [
+            "Blue Man Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DRUGJjui3Z365tU435DTp",
+        "Result Album Name": "Audio"
     },
     {
         "Title": "'White Christmas'",
@@ -64,7 +81,15 @@
         "MoWeEd Track": "November 15",
         "MoWeEd Artists": [
             "Kenny Garrett"
-        ]
+        ],
+        "Result Track Name": "November 15",
+        "Result Artist Names": [
+            "Kenny Garrett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6KZKVgK5NmJtJ8hysKmGya",
+        "Result Album Name": "Songbook"
     },
     {
         "Title": "Suicide Bombing in Israel",
@@ -82,7 +107,15 @@
         "MoWeEd Track": "Prelude",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Prelude",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nBlMWbjBAT4xiEexLvbYo",
+        "Result Album Name": "The Water Garden"
     },
     {
         "Title": "Somali Refugee Issue Divides Massachusetts Town",
@@ -106,7 +139,15 @@
         "MoWeEd Track": "Longshot Zoom",
         "MoWeEd Artists": [
             "Michael Masley"
-        ]
+        ],
+        "Result Track Name": "Longshot Zoom",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vnNT80evfJsWZvHssmZWX",
+        "Result Album Name": "Cymbalennium"
     },
     {
         "Title": "Amish Get Their Own Road to Indiana Town",
@@ -118,7 +159,15 @@
         "MoWeEd Track": "A Bit of a George",
         "MoWeEd Artists": [
             "Laurence Juber"
-        ]
+        ],
+        "Result Track Name": "A Bit of a George",
+        "Result Artist Names": [
+            "Laurence Juber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3nmChTK6RW6QZRQqLuTdOu",
+        "Result Album Name": "Naked Solos"
     },
     {
         "Title": "Roth, Caro Among National Book Award Honorees",
@@ -136,7 +185,15 @@
         "MoWeEd Track": "Whoa Nelli",
         "MoWeEd Artists": [
             "Adam Holzman"
-        ]
+        ],
+        "Result Track Name": "Whoa Nelli",
+        "Result Artist Names": [
+            "Adam Holzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FAAzxzDHpegnVcqICcuTE",
+        "Result Album Name": "In a Loud Way"
     },
     {
         "Title": "Puzzles, Dogs and Objets D'art at the Children's Museum",
@@ -148,6 +205,16 @@
         "MoWeEd Track": "Concerto for Trumpet and Orchestra in E Major: III. Rondo: Allegro ...",
         "MoWeEd Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Concerto for Trumpet and Orchestra in E Major; III. Rondo. Allegro molto",
+        "Result Artist Names": [
+            "Johann Nepomuk Hummel",
+            "Wynton Marsalis",
+            "Raymond Leppard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QLXr1tTP8eT3NdbhGH4Mf",
+        "Result Album Name": "Classic Wynton"
     }
 ]

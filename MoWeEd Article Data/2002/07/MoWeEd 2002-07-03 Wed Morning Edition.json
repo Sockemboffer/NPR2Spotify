@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-07-03",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:34:23"
+        "Scanned Date": "2021-05-28 13:34:23",
+        "Playlist URI": "7yKCSBsXh1QBlhZMOmOzRw",
+        "Playlist Link": "https://open.spotify.com/playlist/7yKCSBsXh1QBlhZMOmOzRw",
+        "Snapshot ID": "MSxjMTM3YWU5YzkwNzVhZjU5NzU0MDU4NTJiMzkyOTMwYWJmNDQ2NDk5",
+        "Playlist Name": "MoWeEd 2002-07-03 Wed Morning Edition"
     },
     {
         "Title": "Airline Security",
@@ -22,14 +26,28 @@
         "MoWeEd Track": "The Perilous Shore",
         "MoWeEd Artists": [
             "John Adams"
-        ]
+        ],
+        "Result Track Name": "Gnarly Buttons: The Perilous Shore",
+        "Result Artist Names": [
+            "John Adams",
+            "London Sinfonietta"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77sUIdoSRAgWBzfUISGfpX",
+        "Result Album Name": "Earbox"
     },
     {
         "MoWeEd Track": "Juanita",
         "MoWeEd Artists": [
             "Frederick Fennell",
             "Eastman Wind Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mexican Farm Workers",
@@ -47,7 +65,12 @@
         "MoWeEd Track": "Crawlspace",
         "MoWeEd Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Men In Black 2'",
@@ -66,7 +89,12 @@
         "MoWeEd Artists": [
             "Frederick Fennell",
             "Eastman Wind Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stocks Dive",
@@ -84,7 +112,15 @@
         "MoWeEd Track": "The Equator",
         "MoWeEd Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "The Equator",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5I3qOuuINUC1QwIutSAMmT",
+        "Result Album Name": "TNT"
     },
     {
         "Title": "Afghan Bombings",
@@ -104,13 +140,26 @@
             "Sam Yahel",
             "Joshua Redman",
             "Brian Blade"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Love Walked In",
         "MoWeEd Artists": [
             "Ray Brown"
-        ]
+        ],
+        "Result Track Name": "Love Walked In",
+        "Result Artist Names": [
+            "Ray Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cKzsafx0fRBTiTL7GyLqq",
+        "Result Album Name": "Something For Lester"
     },
     {
         "Title": "WorldCom",
@@ -129,7 +178,12 @@
         "MoWeEd Artists": [
             "Ray Brown Trio",
             "Ulf Wakenius"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "AIDS Epidemic",
@@ -141,7 +195,15 @@
         "MoWeEd Track": "Goin Home",
         "MoWeEd Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Goin Home",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xAxIU2s2emZNsIQSjp84r",
+        "Result Album Name": "At the Well - EP"
     },
     {
         "Title": "Felon Class President",
@@ -160,7 +222,16 @@
         "MoWeEd Artists": [
             "Billy Branch",
             "James Cotton"
-        ]
+        ],
+        "Result Track Name": "T.D.'s Boogie Woogie",
+        "Result Artist Names": [
+            "James Cotton",
+            "Billy Branch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pbCTFPrN0iBT1uFhGusO9",
+        "Result Album Name": "Superharps"
     },
     {
         "Title": "Barbecue Boot Camp",
@@ -172,6 +243,14 @@
         "MoWeEd Track": "E. St. Louis Todalo",
         "MoWeEd Artists": [
             "Fiddlers Five"
-        ]
+        ],
+        "Result Track Name": "E. St. Louis Todalo",
+        "Result Artist Names": [
+            "Fiddlers 4"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2loYPZSUJHtri4XJOgSLiy",
+        "Result Album Name": "Fiddlers 4"
     }
 ]

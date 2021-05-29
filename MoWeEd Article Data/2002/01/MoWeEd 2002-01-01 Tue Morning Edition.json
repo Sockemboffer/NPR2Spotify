@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-01-01",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:50:27"
+        "Scanned Date": "2021-05-28 13:50:27",
+        "Playlist URI": "4ghJM4tNN65YpuSPbRoUIG",
+        "Playlist Link": "https://open.spotify.com/playlist/4ghJM4tNN65YpuSPbRoUIG",
+        "Snapshot ID": "MSw4YzQ5OWMxNmVmYWQ2ZGI4ZmE3MmE3NDY4NjM0MGU4MzA0NWFiZDIz",
+        "Playlist Name": "MoWeEd 2002-01-01 Tue Morning Edition"
     },
     {
         "Title": "The Euro",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Études tanguistiques (6), for flute solo",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "What Are You Doing New Year's Eve?",
         "MoWeEd Artists": [
             "Ramsey Lewis Trio"
-        ]
+        ],
+        "Result Track Name": "What Are You Doing New Year's Eve?",
+        "Result Artist Names": [
+            "Ramsey Lewis Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ZSJnTACnxJTHzntuf43VZ",
+        "Result Album Name": "Sound Of Christmas"
     },
     {
         "Title": "Champagne",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Auld Lang Syne",
         "MoWeEd Artists": [
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Auld Lang Syne",
+        "Result Artist Names": [
+            "David Methven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7KJPzT1QQoXPvutI5LduHW",
+        "Result Album Name": "Scottish Songbook, Vol. 16"
     },
     {
         "Title": "Florida Festival",
@@ -58,7 +83,15 @@
         "MoWeEd Track": "Cannonball Rag",
         "MoWeEd Artists": [
             "Doc Watson"
-        ]
+        ],
+        "Result Track Name": "Cannonball Rag",
+        "Result Artist Names": [
+            "Doc Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LlffJ80BhIKGkXqMJ3q4B",
+        "Result Album Name": "Doc Watson At Gerdes Folk City"
     },
     {
         "Title": "Afghan Aid",
@@ -76,14 +109,27 @@
         "MoWeEd Track": "Opium Den",
         "MoWeEd Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Blues Dream",
         "MoWeEd Artists": [
             "Bill Frisell",
             "Dave Holland et. al."
-        ]
+        ],
+        "Result Track Name": "Blues Dream",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0OuoD830E4GKViIgK9S8Nl",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "Title": "Housing Markets",
@@ -95,7 +141,15 @@
         "MoWeEd Track": "Caravan",
         "MoWeEd Artists": [
             "Martial Solal"
-        ]
+        ],
+        "Result Track Name": "Caravan",
+        "Result Artist Names": [
+            "Martial Solal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:240SPhySSw2xYwh8xPGy31",
+        "Result Album Name": "Solitude"
     },
     {
         "Title": "Omar Raid",
@@ -113,7 +167,15 @@
         "MoWeEd Track": "Auld Lang Syne",
         "MoWeEd Artists": [
             "Robert Bonfiglio"
-        ]
+        ],
+        "Result Track Name": "Auld Lang Syne",
+        "Result Artist Names": [
+            "Bonfiglio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6NdtdDc3Q9QqZdk5i4r3PM",
+        "Result Album Name": "Home For The Holidays"
     },
     {
         "MoWeEd Track": "Symphony No. 2, Op. 30 \"Romantic\": 2. Andante con tenerezza",
@@ -121,7 +183,16 @@
             "Howard Hanson",
             "Eastman-Rochester Orchestra",
             "Eastman School of Music Chorus"
-        ]
+        ],
+        "Result Track Name": "Symphony No.2, Op.30 \"Romantic\": 2. Andante con tenerezza",
+        "Result Artist Names": [
+            "Howard Hanson",
+            "Eastman-Rochester Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:68NThEbbOQYjOMv5mJedVy",
+        "Result Album Name": "Hanson: Symphony Nos. 1 & 2 / Song of Democracy"
     },
     {
         "Title": "Olympic Ski Prospect",
@@ -140,7 +211,15 @@
         "MoWeEd Artists": [
             "Muggsy Spanier",
             "His Ragtime Band"
-        ]
+        ],
+        "Result Track Name": "That Da Da Strain",
+        "Result Artist Names": [
+            "Muggsy Spanier's Ragtime Band"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3ZYjrTax74DOeMd5YFbV4J",
+        "Result Album Name": "The Great 16"
     },
     {
         "Title": "Placebo Effect",
@@ -152,7 +231,12 @@
         "MoWeEd Track": "Foreign Legion",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Premium Health",
@@ -170,19 +254,40 @@
         "MoWeEd Track": "Zarzuela",
         "MoWeEd Artists": [
             "Jeff Beal"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Blaise's Ballad",
         "MoWeEd Artists": [
             "Billy McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Blaise's Ballad",
+        "Result Artist Names": [
+            "Billy McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1L1zpM4hqmOIwHL9tWxWWY",
+        "Result Album Name": "Fingerdance"
     },
     {
         "MoWeEd Track": "From Here to There",
         "MoWeEd Artists": [
             "Johnny Griffin Quartet Plus 3"
-        ]
+        ],
+        "Result Track Name": "From Here To There",
+        "Result Artist Names": [
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1qSvWpyNFKW5VwRhwq11XG",
+        "Result Album Name": "Dance Of Passion"
     },
     {
         "Title": "Internet Food",
@@ -195,6 +300,11 @@
         "MoWeEd Artists": [
             "Arthur Fiedler",
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-12-01",
         "Day": "Sun",
-        "Scanned Date": "2021-05-28 13:20:15"
+        "Scanned Date": "2021-05-28 13:20:15",
+        "Playlist URI": "7KKtgvq4qx7BbF45HsoQwG",
+        "Playlist Link": "https://open.spotify.com/playlist/7KKtgvq4qx7BbF45HsoQwG",
+        "Snapshot ID": "MSwzNzQ2MmE0MTZmMWFjM2I3ZWVlYTQzMGNhOWY5MmI2ZTc2NzEzNGI3",
+        "Playlist Name": "MoWeEd 2002-12-01 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Holiday Shopping",
@@ -35,19 +44,40 @@
         "MoWeEd Track": "White Christmas",
         "MoWeEd Artists": [
             "Sonos Handbell Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Vinyl Fever",
         "MoWeEd Artists": [
             "Japancakes"
-        ]
+        ],
+        "Result Track Name": "Vinyl Fever",
+        "Result Artist Names": [
+            "Japancakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44dmPnhlOvFZeJ2mUBczCZ",
+        "Result Album Name": "The Sleepy Strange"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Tentative End of Dock Strike Yields Uncertainty",
@@ -59,7 +89,15 @@
         "MoWeEd Track": "Nomad",
         "MoWeEd Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "nomad",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lSaehdRyGHFPac27MkWkl",
+        "Result Album Name": "Nomad"
     },
     {
         "Title": "Polygraph Lounge",
@@ -71,7 +109,12 @@
         "MoWeEd Track": "Duellus Interruptus",
         "MoWeEd Artists": [
             "Polygraph Lounge"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle Age",
@@ -85,13 +128,26 @@
             "Koerner",
             "Ray",
             "Glover"
-        ]
+        ],
+        "Result Track Name": "Can't Get My Rest at Night",
+        "Result Artist Names": [
+            "Ray Koerner & Glover"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cFRs8p7uRExNiGT9m8EOa",
+        "Result Album Name": "Lots More Blues, Rags And Hollers"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -103,7 +159,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rebecca Miller's 'Personal Velocity'",
@@ -115,7 +176,15 @@
         "MoWeEd Track": "The L Train Is a Swell Train and I Don't Want to Hear You Indies Complain",
         "MoWeEd Artists": [
             "Out Hud"
-        ]
+        ],
+        "Result Track Name": "The L Train Is a Swell Train and I Don't Want to Hear You Indies Complain",
+        "Result Artist Names": [
+            "Out Hud"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iEAwoz4w0KYQ5A0yDZbHj",
+        "Result Album Name": "Street Dad"
     },
     {
         "Title": "Israelis in Gaza",
@@ -133,7 +202,16 @@
         "MoWeEd Track": "Sevilla",
         "MoWeEd Artists": [
             "Christopher Parkening"
-        ]
+        ],
+        "Result Track Name": "Sevilla from Suite espanola No. 1 Op. 47",
+        "Result Artist Names": [
+            "Isaac Albéniz",
+            "Christopher Parkening"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BEC1eGNEPsr9VrOvnJr8q",
+        "Result Album Name": "Christopher Parkening Celebrates Segovia"
     },
     {
         "Title": "Dress Rehearsal for Weapons Inspections",
@@ -145,19 +223,37 @@
         "MoWeEd Track": "Trio No. 2 In C Major, Op. 87: 2nd Movement",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Gnossienne, for piano No.7",
         "MoWeEd Artists": [
             "Jean-Yves Thibaudet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "GOP Prepares to Wield Leadership on Capitol Hill",
@@ -169,7 +265,15 @@
         "MoWeEd Track": "Calm Before the Storm",
         "MoWeEd Artists": [
             "Dan Leonard"
-        ]
+        ],
+        "Result Track Name": "Calm Before The Storm",
+        "Result Artist Names": [
+            "Dan Leonard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:68IJGxQ1nhi89FZILZNu4p",
+        "Result Album Name": "Time Alone"
     },
     {
         "Title": "Lawyers Turned Novelists",
@@ -187,7 +291,15 @@
         "MoWeEd Track": "Empty Pockets",
         "MoWeEd Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Empty Pockets - Remastered",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Cq9NtjeUASIkunQeXajCX",
+        "Result Album Name": "Takin' Off (Expanded Edition)"
     },
     {
         "Title": "Letters",
@@ -199,13 +311,30 @@
         "MoWeEd Track": "La Diva De L'empire",
         "MoWeEd Artists": [
             "Jean-yves Thibaudet"
-        ]
+        ],
+        "Result Track Name": "La diva de l'empire",
+        "Result Artist Names": [
+            "Erik Satie",
+            "Jean-Yves Thibaudet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22ciKbMtm7bzbRtcJfbcy8",
+        "Result Album Name": "Classical Dinner Party: Satie"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "CD Wish List",
@@ -217,7 +346,12 @@
         "MoWeEd Track": "Scenes From Childhood Op. 15: Baby Going to Sleep",
         "MoWeEd Artists": [
             "Carl Friedberg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pianist Embarks on Ambitious Project",
@@ -229,6 +363,15 @@
         "MoWeEd Track": "La Diva De L'empire",
         "MoWeEd Artists": [
             "Jean-yves Thibaudet"
-        ]
+        ],
+        "Result Track Name": "La diva de l'empire",
+        "Result Artist Names": [
+            "Erik Satie",
+            "Jean-Yves Thibaudet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22ciKbMtm7bzbRtcJfbcy8",
+        "Result Album Name": "Classical Dinner Party: Satie"
     }
 ]

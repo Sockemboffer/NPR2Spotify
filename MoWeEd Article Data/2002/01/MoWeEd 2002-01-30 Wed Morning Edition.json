@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-01-30",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:52:58"
+        "Scanned Date": "2021-05-28 13:52:58",
+        "Playlist URI": "2MvNpIiYl0Aq72014R9ixJ",
+        "Playlist Link": "https://open.spotify.com/playlist/2MvNpIiYl0Aq72014R9ixJ",
+        "Snapshot ID": "MSxlN2U3MDc4NTQ5NTNkZmI5ZGE2MTM1ZTAzZWYzYTNhN2YyZmY4MzQ4",
+        "Playlist Name": "MoWeEd 2002-01-30 Wed Morning Edition"
     },
     {
         "Title": "State of the Union",
@@ -16,7 +20,15 @@
         "MoWeEd Track": "Intrada",
         "MoWeEd Artists": [
             "American Brass Quintet"
-        ]
+        ],
+        "Result Track Name": "Intrada",
+        "Result Artist Names": [
+            "American Brass Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s1LG28zePXlxR57HtCtT8",
+        "Result Album Name": "Fyre & Lightning"
     },
     {
         "Title": "State of the Union - Indiana",
@@ -28,7 +40,15 @@
         "MoWeEd Track": "Hearing Crickets?",
         "MoWeEd Artists": [
             "Danny Heines"
-        ]
+        ],
+        "Result Track Name": "Hearing Crickets?",
+        "Result Artist Names": [
+            "Danny Heines"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NXEGWp7vMUVHwFvlslXTl",
+        "Result Album Name": "Vanishing Borders"
     },
     {
         "Title": "Pearl Abduction",
@@ -42,7 +62,12 @@
             "Brian Eno",
             "Schwalm",
             "J. Peter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cluster Bombs",
@@ -72,7 +97,12 @@
         "MoWeEd Track": "Two Part Nevention No 11",
         "MoWeEd Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "State of the Union - Reaction on Capitol Hill",
@@ -91,7 +121,17 @@
         "MoWeEd Artists": [
             "Roy Hargrove",
             "Christian McBride et. al."
-        ]
+        ],
+        "Result Track Name": "Steeplechase",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Roy Hargrove",
+            "Stephen Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qNr5muPYa66Vg633L27A8",
+        "Result Album Name": "Parker's Mood"
     },
     {
         "Title": "State of the Union - Analysis",
@@ -103,7 +143,15 @@
         "MoWeEd Track": "Canzon 23",
         "MoWeEd Artists": [
             "American Brass Quintet"
-        ]
+        ],
+        "Result Track Name": "Canzon 23",
+        "Result Artist Names": [
+            "American Brass Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0LgEZpFxvOaMgulu8NjYPL",
+        "Result Album Name": "Fyre & Lightning"
     },
     {
         "Title": "NEA Chief Dies",
@@ -127,7 +175,15 @@
         "MoWeEd Track": "Sonnymoon for Two",
         "MoWeEd Artists": [
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "Sonnymoon For Two",
+        "Result Artist Names": [
+            "The Milt Jackson Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0TKNelhm0pRwt72XH13Nv4",
+        "Result Album Name": "Statements"
     },
     {
         "Title": "'Bloody Sunday'",
@@ -139,6 +195,14 @@
         "MoWeEd Track": "Interstate",
         "MoWeEd Artists": [
             "Chris Proctor"
-        ]
+        ],
+        "Result Track Name": "Interstate",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YApCIBRzwDvjz4zWYbm8j",
+        "Result Album Name": "The Chris Proctor Collection"
     }
 ]

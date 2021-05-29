@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-01-12",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:51:25"
+        "Scanned Date": "2021-05-28 13:51:25",
+        "Playlist URI": "44cdKjoefOTejoA3BEOUG6",
+        "Playlist Link": "https://open.spotify.com/playlist/44cdKjoefOTejoA3BEOUG6",
+        "Snapshot ID": "MSxhYmVhMGUwMDZmNzE3MzZkM2Q1MjBiMWI5Y2Y0MWI4Mzg1NWM1ODll",
+        "Playlist Name": "MoWeEd 2002-01-12 Sat Weekend Edition"
     },
     {
         "Title": "India-Pakistan",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "The Chase",
         "MoWeEd Artists": [
             "Sergio and Odair Assad"
-        ]
+        ],
+        "Result Track Name": "The Chase",
+        "Result Artist Names": [
+            "Sergio Assad",
+            "Nadja Salerno-Sonnenberg",
+            "Sergio",
+            "Odair Assad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4px6fZjEh6vZWTSqFiTYbJ",
+        "Result Album Name": "Classical Violin & Guitar Selections"
     },
     {
         "MoWeEd Track": "Gunsmoke",
         "MoWeEd Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Enron and the White House",
@@ -70,7 +90,15 @@
         "MoWeEd Track": "Pavane Pour Une Infante Defunte",
         "MoWeEd Artists": [
             "Robert Bonfiglio"
-        ]
+        ],
+        "Result Track Name": "Pavane pour une infante defunte",
+        "Result Artist Names": [
+            "Robert Casadesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1IJSl1b9T7fbSIsAsIEASn",
+        "Result Album Name": "Ravel: Bolero"
     },
     {
         "Title": "Zoe Caldwell",
@@ -82,7 +110,12 @@
         "MoWeEd Track": "5 Etudes de Jazz: V. \"Kitten on the Keys\" de Zez Confrey Toccata sur le Shimmy",
         "MoWeEd Artists": [
             "Tomas Visek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week-in-Review",
@@ -100,7 +133,12 @@
         "MoWeEd Track": "Study On Olympos Pentatonic",
         "MoWeEd Artists": [
             "John Schneider and Amy Shulman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kenneth Kaunda and AIDS",
@@ -118,13 +156,30 @@
         "MoWeEd Track": "Try to Remember",
         "MoWeEd Artists": [
             "Jerry Orbach"
-        ]
+        ],
+        "Result Track Name": "Try To Remember",
+        "Result Artist Names": [
+            "Jerry Orbach"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0l7CtQDZIseQEW9cO4fnPy",
+        "Result Album Name": "Broadway"
     },
     {
         "MoWeEd Track": "Have Mercy!",
         "MoWeEd Artists": [
             "Johnny Dodds"
-        ]
+        ],
+        "Result Track Name": "Have Mercy!",
+        "Result Artist Names": [
+            "Jimmy Blythe",
+            "Johnny Dodds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tov4jBMVEQPBkL7Bz1QDP",
+        "Result Album Name": "Johnny Dodds & Jimmy Blythe 1926-1928"
     },
     {
         "Title": "Listener Mail",
@@ -148,6 +203,11 @@
         "MoWeEd Track": "Trois Gymnopedies: Lent et triste",
         "MoWeEd Artists": [
             "Peter Dickinson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

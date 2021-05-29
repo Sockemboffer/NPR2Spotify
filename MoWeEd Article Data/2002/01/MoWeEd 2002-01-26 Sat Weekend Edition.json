@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-01-26",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:52:37"
+        "Scanned Date": "2021-05-28 13:52:37",
+        "Playlist URI": "4VmDmWmhZYJhASaMHCxQ9y",
+        "Playlist Link": "https://open.spotify.com/playlist/4VmDmWmhZYJhASaMHCxQ9y",
+        "Snapshot ID": "MSxiNWE0ZDE1NGFmMGFjM2UwYTdmMzllYmY3ZmNmODlhMDFjZGNmNjAy",
+        "Playlist Name": "MoWeEd 2002-01-26 Sat Weekend Edition"
     },
     {
         "Title": "Abdullah Abdullah",
@@ -23,13 +27,31 @@
         "MoWeEd Artists": [
             "Elvis Costello",
             "Burt Bacharach"
-        ]
+        ],
+        "Result Track Name": "Vamp Dolce",
+        "Result Artist Names": [
+            "Bill Frisell",
+            "Elvis Costello",
+            "Burt Bacharach"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Gd57Z63as4raKgcFLeBCn",
+        "Result Album Name": "The Sweetest Punch - The New Songs of Elvis Costello & Burt Bacharach"
     },
     {
         "MoWeEd Track": "Dug In",
         "MoWeEd Artists": [
             "Dug Grieves"
-        ]
+        ],
+        "Result Track Name": "Dug In",
+        "Result Artist Names": [
+            "Dug Grieves"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VMKRMGOKeJhvlMZMlkScu",
+        "Result Album Name": "Nashville Guitars"
     },
     {
         "Title": "Enron",
@@ -54,7 +76,16 @@
         "MoWeEd Artists": [
             "Jay Ungar",
             "Molly Mason"
-        ]
+        ],
+        "Result Track Name": "The Lovers' Waltz Duet",
+        "Result Artist Names": [
+            "Jay Ungar",
+            "Molly Mason"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nnIpCkco7JYxvcmmvzFW0",
+        "Result Album Name": "The Lovers' Waltz"
     },
     {
         "Title": "Mahalia Jackson",
@@ -92,14 +123,29 @@
             "Victor Young",
             "His Orchestra",
             "the Boswell Sisters"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sonata No.1 in G Major: III Vivace",
         "MoWeEd Artists": [
             "Donald Moline",
             "Daniel Paul Horn"
-        ]
+        ],
+        "Result Track Name": "Cello Sonata No. 1 in G Major: III. Vivace",
+        "Result Artist Names": [
+            "Jean-Louis Duport",
+            "Donald Moline",
+            "Daniel Paul Horn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wbjqI9ajIBI7YQgbzVGhZ",
+        "Result Album Name": "Duport, J.-L.: Cello Music (Napoleon's Cellist)"
     },
     {
         "Title": "Uzbek Vote",
@@ -123,7 +169,17 @@
         "MoWeEd Track": "Sweet Corn",
         "MoWeEd Artists": [
             "Nashville Mandolin Ensemble"
-        ]
+        ],
+        "Result Track Name": "Sweet Corn",
+        "Result Artist Names": [
+            "A. J. Weidt",
+            "Nashville Mandolin Ensemble",
+            "Paul Martin Zonn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17p1IoAUSCTbXszzVbGqT9",
+        "Result Album Name": "All the Rage: Mandolin Ensemble Music From 1897-1924"
     },
     {
         "Title": "GED at 94",
@@ -135,7 +191,17 @@
         "MoWeEd Track": "The Two Little Bulfinches",
         "MoWeEd Artists": [
             "George Foreman"
-        ]
+        ],
+        "Result Track Name": "The Two Little Bulfinches",
+        "Result Artist Names": [
+            "Henri Kling",
+            "The New Columbian Brass Band",
+            "George Foreman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3brxHqZ3nJkgETiufhB8um",
+        "Result Album Name": "The Teddy Bears Picnic"
     },
     {
         "Title": "Frank Muller",
@@ -153,6 +219,11 @@
         "MoWeEd Track": "Invisible Beauty of My Flower",
         "MoWeEd Artists": [
             "Lenni-Kalle Taipale Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

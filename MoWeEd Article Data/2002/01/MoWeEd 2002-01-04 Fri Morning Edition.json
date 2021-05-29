@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-01-04",
         "Day": "Fri",
-        "Scanned Date": "2021-05-28 13:50:43"
+        "Scanned Date": "2021-05-28 13:50:43",
+        "Playlist URI": "21AsSUnTpYVXoyS0wJrzo6",
+        "Playlist Link": "https://open.spotify.com/playlist/21AsSUnTpYVXoyS0wJrzo6",
+        "Snapshot ID": "MSwwOWMyMGQzYzA5YTNhMDFkMDNiM2Y2YmJiZDM3NDlkY2M5OWQ5Mzg5",
+        "Playlist Name": "MoWeEd 2002-01-04 Fri Morning Edition"
     },
     {
         "Title": "The Search for Omar",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Touchwood",
         "MoWeEd Artists": [
             "Tangerine Dream"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alabama Church Bombing",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "Accordion Bells",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Accordion Bells",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5llsSnMu431xA66U4GCZs3",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "Mexico's Patron Saint",
@@ -46,7 +63,15 @@
         "MoWeEd Track": "Rose Liz",
         "MoWeEd Artists": [
             "Frederic Hand"
-        ]
+        ],
+        "Result Track Name": "Rose Liz",
+        "Result Artist Names": [
+            "Frederic Hand"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0l6auydBteNHTrDg0WcIGX",
+        "Result Album Name": "Jazzantiqua"
     },
     {
         "Title": "Torricelli Probe Closed",
@@ -58,7 +83,15 @@
         "MoWeEd Track": "Blues a la Carte",
         "MoWeEd Artists": [
             "Ravi Coltrane"
-        ]
+        ],
+        "Result Track Name": "Blues à la carte",
+        "Result Artist Names": [
+            "Ravi Coltrane"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tAegIy05nm3pvU3dj0kZS",
+        "Result Album Name": "From The Round Box"
     },
     {
         "Title": "Biathlon Tryout",
@@ -94,7 +127,15 @@
         "MoWeEd Track": "won for the road",
         "MoWeEd Artists": [
             "michael masley"
-        ]
+        ],
+        "Result Track Name": "Won For The Road",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1D0HfSdiOwv904uJpSSz0J",
+        "Result Album Name": "Mystery Repeats Itself"
     },
     {
         "Title": "Game Farms",
@@ -112,7 +153,12 @@
         "MoWeEd Track": "Old Joe Clark",
         "MoWeEd Artists": [
             "Pat Kirtley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Radiation Protection",
@@ -124,7 +170,15 @@
         "MoWeEd Track": "Kulan Tai Ulam (Heart of a Child)",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "Kulan Tai Ulam (Heart of a Child)",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27mMdWLvmC1bxZFQwio0R3",
+        "Result Album Name": "The Other Shore"
     },
     {
         "Title": "Britain Islam",
@@ -142,7 +196,15 @@
         "MoWeEd Track": "Moving On",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "Moving On",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VptDhZ6xtmCkIMf1ApZD9",
+        "Result Album Name": "Beckoning"
     },
     {
         "Title": "Armchair Gardener I",
@@ -160,6 +222,11 @@
         "MoWeEd Track": "Quartetto",
         "MoWeEd Artists": [
             "Canyonlands Ensemble with The Abramyan String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

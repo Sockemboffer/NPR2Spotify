@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-09-03",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:28:58"
+        "Scanned Date": "2021-05-28 13:28:58",
+        "Playlist URI": "1lxA7pirocNs4hswVRkJjq",
+        "Playlist Link": "https://open.spotify.com/playlist/1lxA7pirocNs4hswVRkJjq",
+        "Snapshot ID": "MSxiZDUxMTEyMWU2ZTNiM2YwYjEwOGM2NzdkOTdiZGNlNTNmZjBmYzI0",
+        "Playlist Name": "MoWeEd 2002-09-03 Tue Morning Edition"
     },
     {
         "Title": "Case for War",
@@ -16,14 +20,27 @@
         "MoWeEd Track": "Amerika 2002, In Memoriam, Pt. 2",
         "MoWeEd Artists": [
             "The 12 Cellists of the Berlin Philharmonic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Allah Madad",
         "MoWeEd Artists": [
             "Abdollah Sarvar Ahmadi",
             "M. Salar Ahmadi"
-        ]
+        ],
+        "Result Track Name": "Allah Madad",
+        "Result Artist Names": [
+            "Abdollah Sarvar and M. Salar Ahmadi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67LYksmpably3nY4MxekBy",
+        "Result Album Name": "The Silk Road: A Musical Caravan"
     },
     {
         "Title": "Overscheduled Kids",
@@ -35,7 +52,15 @@
         "MoWeEd Track": "Wind Quintet",
         "MoWeEd Artists": [
             "The Pennsylvania Quintet"
-        ]
+        ],
+        "Result Track Name": "Wind Quintet",
+        "Result Artist Names": [
+            "The Georgia Woodwind Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1VbwA4Wua2q4duyXpewImz",
+        "Result Album Name": "Twigs"
     },
     {
         "Title": "Congress & Healthcare",
@@ -50,7 +75,19 @@
             "Carter",
             "Harris",
             "Nash"
-        ]
+        ],
+        "Result Track Name": "Air",
+        "Result Artist Names": [
+            "The Classical Jazz Quartet",
+            "Kenny Barron",
+            "Ron Carter",
+            "Stefon Harris",
+            "Lewis Nash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tnnm3DETXCM7ysjN81hed",
+        "Result Album Name": "Play Bach"
     },
     {
         "Title": "Re-Creating Afghanistan: The Music of Kharabat Street",
@@ -62,7 +99,15 @@
         "MoWeEd Track": "Felicidade [Juryman Remix]",
         "MoWeEd Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Felicidade - Juryman Mix",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DpVDeW7DovxgMHFbncpNa",
+        "Result Album Name": "Felicidade Remixes"
     },
     {
         "Title": "Scooter Update",
@@ -86,13 +131,26 @@
         "MoWeEd Track": "Saffire Soleil",
         "MoWeEd Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Saffire Soleil",
+        "Result Artist Names": [
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lUf4uJHyNkIMDcPtjQfTQ",
+        "Result Album Name": "Flesh On Flesh"
     },
     {
         "MoWeEd Track": "Echo Bells",
         "MoWeEd Artists": [
             "Kodo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dutch Arrests",
@@ -110,7 +168,15 @@
         "MoWeEd Track": "Form 8",
         "MoWeEd Artists": [
             "Greg Ellis"
-        ]
+        ],
+        "Result Track Name": "Form 8",
+        "Result Artist Names": [
+            "Greg Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gN5Y4GUEXIdpftPxqfzcm",
+        "Result Album Name": "Kala Rupa"
     },
     {
         "Title": "Earth Summit",
@@ -122,7 +188,15 @@
         "MoWeEd Track": "Heel to Toe",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Heel To Toe",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20VyMVeUOKAvNNJOZOdsyg",
+        "Result Album Name": "Works For Me"
     },
     {
         "Title": "Yankee Maoist Still Committed to the Revolution",
@@ -134,13 +208,29 @@
         "MoWeEd Track": "A Bird in Flight",
         "MoWeEd Artists": [
             "Jade Bridge"
-        ]
+        ],
+        "Result Track Name": "A Bird in Flight",
+        "Result Artist Names": [
+            "Jade Bridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5H8hMhPlIFad72bhWJ7u8C",
+        "Result Album Name": "Ambush On All Sides"
     },
     {
         "MoWeEd Track": "Stars In Your Eyes",
         "MoWeEd Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Stars in Your Eyes",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VWsDvM1GGEp9OYYlphhi3",
+        "Result Album Name": "Monster"
     },
     {
         "Title": "Letters",

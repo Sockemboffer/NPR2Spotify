@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-09-02",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:28:53"
+        "Scanned Date": "2021-05-28 13:28:53",
+        "Playlist URI": "7ghJhhjafL3kEE7amSgWCy",
+        "Playlist Link": "https://open.spotify.com/playlist/7ghJhhjafL3kEE7amSgWCy",
+        "Snapshot ID": "MSw4MzRiMmVjYjJjMTY4ZjQ3ZjhlOWI4YTM4MTdkZTE2YjYxNmMyMWQ5",
+        "Playlist Name": "MoWeEd 2002-09-02 Mon Morning Edition"
     },
     {
         "Title": "Earth Summit",
@@ -22,13 +26,31 @@
         "MoWeEd Track": "Sonata for violin & piano No. 3, H. 303",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Sonata For Violin And Piano No. 3, H 303: II. Adagio",
+        "Result Artist Names": [
+            "Bohuslav Martinů",
+            "David Oistrakh",
+            "Frida Bauer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Q4pZlgHLhVyyLWUDLK4B2",
+        "Result Album Name": "Paul Hindemith: Violin Concerto - Bohuslav Martinů: Sonata For Violin And Piano No. 3, H 303"
     },
     {
         "MoWeEd Track": "When Darkness Falls",
         "MoWeEd Artists": [
             "George Shearing"
-        ]
+        ],
+        "Result Track Name": "When Darkness Falls",
+        "Result Artist Names": [
+            "George Shearing"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37sLg3avKgcOZDs5FHSYDm",
+        "Result Album Name": "Great Britain's"
     },
     {
         "Title": "Cathedral Preview",
@@ -40,13 +62,23 @@
         "MoWeEd Track": "Suite No. 1 In a Major - Prelude",
         "MoWeEd Artists": [
             "Mark Bernat"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Fourth Homme",
         "MoWeEd Artists": [
             "Les Hommes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Geographic Names",
@@ -58,7 +90,12 @@
         "MoWeEd Track": "Local Lopes",
         "MoWeEd Artists": [
             "Jim Mitchell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dirty Laundry",
@@ -70,7 +107,15 @@
         "MoWeEd Track": "Wedding Ring",
         "MoWeEd Artists": [
             "James Montgomery Band"
-        ]
+        ],
+        "Result Track Name": "Wedding Ring",
+        "Result Artist Names": [
+            "James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4ETGnDaSapL637Q1VSxlLh",
+        "Result Album Name": "Wedding Ring"
     },
     {
         "Title": "Child Safety Seats",
@@ -89,7 +134,12 @@
         "MoWeEd Artists": [
             "Gary Burton",
             "Friends"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Political Preview",
@@ -107,13 +157,30 @@
         "MoWeEd Track": "A Simple Way to Go Faster Than Light That Does Not Work",
         "MoWeEd Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "A Simple Way to Go Faster Than Light That Does Not Work",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bT8TPjcV9oaWkAV3fY1qD",
+        "Result Album Name": "TNT"
     },
     {
         "MoWeEd Track": "John Henry",
         "MoWeEd Artists": [
             "Etta Baker"
-        ]
+        ],
+        "Result Track Name": "John Henry (feat. Taj Mahal)",
+        "Result Artist Names": [
+            "Etta Baker",
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52erqn80TuUc6puDQFVgNZ",
+        "Result Album Name": "Etta Baker With Taj Mahal"
     },
     {
         "Title": "Wisconsin Drought",
@@ -131,7 +198,15 @@
         "MoWeEd Track": "Out of the Blue",
         "MoWeEd Artists": [
             "Alison Brown Quartet"
-        ]
+        ],
+        "Result Track Name": "Out Of The Blue",
+        "Result Artist Names": [
+            "Alison Brown Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38k7E5b9lUnwhuVfm3upwG",
+        "Result Album Name": "Out of the Blue"
     },
     {
         "Title": "Elephant Trunks",
@@ -143,7 +218,15 @@
         "MoWeEd Track": "Primal Tonic",
         "MoWeEd Artists": [
             "Nuclear Whales Saxophone Orchestra"
-        ]
+        ],
+        "Result Track Name": "Primal Tonic",
+        "Result Artist Names": [
+            "The Nuclear Whales Saxophone Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nk3sa8bXGLm4GXB6iitgX",
+        "Result Album Name": "Fathom This: A Retrospective"
     },
     {
         "Title": "John Henry",
@@ -156,14 +239,27 @@
         "MoWeEd Artists": [
             "Darol Anger",
             "featuring The Nashville Lumberyard"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Song Is You",
         "MoWeEd Artists": [
             "Ray Brown Trio",
             "Bruce Forman"
-        ]
+        ],
+        "Result Track Name": "The Song Is You",
+        "Result Artist Names": [
+            "Bruce Forman Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6XY0vMCzn68ge5ZvnFftDf",
+        "Result Album Name": "The Book of Forman: Formanism, Vol. II"
     },
     {
         "Title": "Child Progress",
@@ -176,6 +272,11 @@
         "MoWeEd Artists": [
             "Mehuhin",
             "Furtwangler"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

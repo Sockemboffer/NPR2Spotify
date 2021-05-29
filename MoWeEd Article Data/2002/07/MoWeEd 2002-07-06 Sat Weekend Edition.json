@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-07-06",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:34:38"
+        "Scanned Date": "2021-05-28 13:34:38",
+        "Playlist URI": "4ndeUVh4kKutIzIHYAlkL8",
+        "Playlist Link": "https://open.spotify.com/playlist/4ndeUVh4kKutIzIHYAlkL8",
+        "Snapshot ID": "MSw0ZjI4ZGVlOWNmYjk4ZmQ1MThkYjg4MzhhYjFkNzc3Yzc2ZmU5Njcx",
+        "Playlist Name": "MoWeEd 2002-07-06 Sat Weekend Edition"
     },
     {
         "Title": "Afghan Assassination",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Sunspot",
         "MoWeEd Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Sunspot",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j3zTskvIYLNeODbs8yNNm",
+        "Result Album Name": "Play & Play: B Sides"
     },
     {
         "MoWeEd Track": "X-Files [TV Version]",
         "MoWeEd Artists": [
             "Mark Ayres"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Business Schools",
@@ -58,7 +75,15 @@
         "MoWeEd Track": "Sunspots",
         "MoWeEd Artists": [
             "Bob Mould"
-        ]
+        ],
+        "Result Track Name": "Sunspots",
+        "Result Artist Names": [
+            "Bob Mould"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dcm9Ig4YXhe0VUVeOheVT",
+        "Result Album Name": "Workbook"
     },
     {
         "Title": "Goldfish Hotel",
@@ -70,7 +95,12 @@
         "MoWeEd Track": "Roll on Summer [*]",
         "MoWeEd Artists": [
             "Paul Kelly"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wimbledon Finals",
@@ -100,14 +130,27 @@
         "MoWeEd Track": "Isn't It Romantic?",
         "MoWeEd Artists": [
             "New York City Gay Men's Chorus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Step by Step",
         "MoWeEd Artists": [
             "Guo Brothers",
             "Shung Tian"
-        ]
+        ],
+        "Result Track Name": "Step by Step",
+        "Result Artist Names": [
+            "Guo Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6LJFly3FIXJYlZwTowR4Ex",
+        "Result Album Name": "Yuan"
     },
     {
         "Title": "War Stories",
@@ -119,7 +162,15 @@
         "MoWeEd Track": "Thirty",
         "MoWeEd Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Thirty",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tioUlBX6mkrQDGtnBEP6s",
+        "Result Album Name": "elm street"
     },
     {
         "Title": "Lemon Ice King",
@@ -131,7 +182,15 @@
         "MoWeEd Track": "Jah Work",
         "MoWeEd Artists": [
             "Ben Harper"
-        ]
+        ],
+        "Result Track Name": "Jah Work",
+        "Result Artist Names": [
+            "Ben Harper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zWwD8Kr7NAhkVGaGDKpqs",
+        "Result Album Name": "The Will To Live"
     },
     {
         "Title": "Ted Williams",
@@ -149,6 +208,11 @@
         "MoWeEd Track": "(I'll Never Forget) The Day I Read a Book",
         "MoWeEd Artists": [
             "Jimmy Durante"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

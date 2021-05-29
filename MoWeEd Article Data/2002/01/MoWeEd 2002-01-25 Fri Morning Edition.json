@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-01-25",
         "Day": "Fri",
-        "Scanned Date": "2021-05-28 13:52:31"
+        "Scanned Date": "2021-05-28 13:52:31",
+        "Playlist URI": "4bj4AqbAbWr8KCOkkRrtd5",
+        "Playlist Link": "https://open.spotify.com/playlist/4bj4AqbAbWr8KCOkkRrtd5",
+        "Snapshot ID": "MSxjNjliMDlhYmVjZTYyN2Y1MmE3YWIyYmZhNWFkZWMyYWY1ZWYyY2Mw",
+        "Playlist Name": "MoWeEd 2002-01-25 Fri Morning Edition"
     },
     {
         "Title": "John Walker Lindh",
@@ -23,14 +27,29 @@
         "MoWeEd Artists": [
             "Daniel Smith",
             "Coull String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Oh! That Cello",
         "MoWeEd Artists": [
             "Thomas Beckman",
             "Johannes Cernota"
-        ]
+        ],
+        "Result Track Name": "Oh! That Cello",
+        "Result Artist Names": [
+            "Charlie Chaplin",
+            "Thomas Beckmann",
+            "Johannes Cernota"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:1Ws2uagaOWC02lO2ToOo7l",
+        "Result Album Name": "Oh! That Cello"
     },
     {
         "Title": "Haiti Journalism",
@@ -48,7 +67,15 @@
         "MoWeEd Track": "Never Ever Worry",
         "MoWeEd Artists": [
             "Lord Pretender"
-        ]
+        ],
+        "Result Track Name": "Never Ever Worry",
+        "Result Artist Names": [
+            "The Great Honourable Lord Pretender"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GdYfhHRFRLYLIflNuzCX7",
+        "Result Album Name": "The Man Who Never Ever Worried"
     },
     {
         "Title": "NFL Playoffs",
@@ -60,7 +87,15 @@
         "MoWeEd Track": "White Dude Special",
         "MoWeEd Artists": [
             "Tony Monaco"
-        ]
+        ],
+        "Result Track Name": "White Dude Special",
+        "Result Artist Names": [
+            "Tony Monaco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12YXDjDCwXW5nooCp2xrSe",
+        "Result Album Name": "The Monacos Are Moving Up"
     },
     {
         "Title": "Buffalo Schools",
@@ -78,13 +113,26 @@
         "MoWeEd Track": "Forcasa3",
         "MoWeEd Artists": [
             "Skampler"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Time's Mirror",
         "MoWeEd Artists": [
             "Tom Harrell"
-        ]
+        ],
+        "Result Track Name": "Time's Mirror",
+        "Result Artist Names": [
+            "Tom Harrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NQf4ptsYk2oCenILAH6s3",
+        "Result Album Name": "Upswing"
     },
     {
         "Title": "India Cars",
@@ -102,7 +150,12 @@
         "MoWeEd Track": "Get Right Church",
         "MoWeEd Artists": [
             "Paul Geremia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Enron on the Hill",
@@ -120,7 +173,12 @@
         "MoWeEd Track": "Simplicity",
         "MoWeEd Artists": [
             "Richard Del Maestro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Priest Documents",
@@ -138,7 +196,15 @@
         "MoWeEd Track": "January Stars",
         "MoWeEd Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "January Stars",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3s6Fc81W0EoRjKbguDxODA",
+        "Result Album Name": "Winter Into Spring"
     },
     {
         "Title": "Greenspan on the Hill",
@@ -150,7 +216,15 @@
         "MoWeEd Track": "Daytime TV",
         "MoWeEd Artists": [
             "Alison Brown Quartet"
-        ]
+        ],
+        "Result Track Name": "Daytime TV",
+        "Result Artist Names": [
+            "Alison Brown Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3luAL1zXlPQLLEtMkYyqgK",
+        "Result Album Name": "Replay"
     },
     {
         "Title": "Afghan Pashtuns",
@@ -168,19 +242,43 @@
         "MoWeEd Track": "Arrowhead",
         "MoWeEd Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Arrowhead",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:650B6hKdYIK8lGRiHXhVJA",
+        "Result Album Name": "Torched"
     },
     {
         "MoWeEd Track": "Someday Soon",
         "MoWeEd Artists": [
             "David Benoit"
-        ]
+        ],
+        "Result Track Name": "Someday Soon",
+        "Result Artist Names": [
+            "David Benoit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tku4fas2pp0M2am55cwMn",
+        "Result Album Name": "Fuzzy Logic"
     },
     {
         "MoWeEd Track": "Haitian Divorce",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Haitian Divorce",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4r4VpAcwrKtvX4klQ9EHUs",
+        "Result Album Name": "The Royal Scam"
     },
     {
         "Title": "Tierra Del Fuego Postcard",

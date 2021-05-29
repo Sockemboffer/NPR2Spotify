@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-06-11",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:37:56"
+        "Scanned Date": "2021-05-28 13:37:56",
+        "Playlist URI": "0FDBEapBPVYf6ts81hrBvd",
+        "Playlist Link": "https://open.spotify.com/playlist/0FDBEapBPVYf6ts81hrBvd",
+        "Snapshot ID": "MSxhYmY1YjlhODY5NjJjOTVkNDIzZWQ4MGQ0MjQyYjNkM2IyMGI1M2Rl",
+        "Playlist Name": "MoWeEd 2002-06-11 Tue Morning Edition"
     },
     {
         "Title": "'Dirty' Bomb",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Mysterious Triangle",
         "MoWeEd Artists": [
             "Kitaro"
-        ]
+        ],
+        "Result Track Name": "Mysterious Triangle",
+        "Result Artist Names": [
+            "Kitaro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eWIDNpDl1JHNVI1A4OTyK",
+        "Result Album Name": "Ancient"
     },
     {
         "Title": "Singles #2",
@@ -40,7 +52,15 @@
         "MoWeEd Track": "Mother's Blues",
         "MoWeEd Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Mother's Blues",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75uPqIInxo2BdzDwxjxskJ",
+        "Result Album Name": "Cyrus Chestnut"
     },
     {
         "Title": "Amazon Surveillance",
@@ -59,7 +79,12 @@
         "MoWeEd Artists": [
             "Alex de Grassi",
             "Michael Bluestein et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tyco Update",
@@ -77,7 +102,12 @@
         "MoWeEd Track": "Searching for a Simple Groove",
         "MoWeEd Artists": [
             "Crazy Vibes and Things"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Palestinian Security",
@@ -95,7 +125,12 @@
         "MoWeEd Track": "Lullabye for Nicole",
         "MoWeEd Artists": [
             "Johnny A."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mental Health",
@@ -113,7 +148,18 @@
         "MoWeEd Track": "The New Boogaloo",
         "MoWeEd Artists": [
             "Marcus Printup"
-        ]
+        ],
+        "Result Track Name": "The New Boogaloo",
+        "Result Artist Names": [
+            "Marcus Printup",
+            "Walter Blanding",
+            "Wycliffe Gordon",
+            "Eric Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cGJJt48K3zMGlM0Qpr20K",
+        "Result Album Name": "The New Boogaloo"
     },
     {
         "Title": "Afghanistan Council Meeting",
@@ -125,7 +171,15 @@
         "MoWeEd Track": "ODDITY",
         "MoWeEd Artists": [
             "BELA FLECK AND THE FLECKTONES"
-        ]
+        ],
+        "Result Track Name": "Oddity",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2sVbSMzXjGistdO7fDmcBt",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "Homeland Security",
@@ -138,7 +192,15 @@
         "MoWeEd Artists": [
             "Stanley Clarke",
             "George Duke"
-        ]
+        ],
+        "Result Track Name": "Lost In A Thought",
+        "Result Artist Names": [
+            "Stanley Clarke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1bhfkwQJFhvVZ7kOW84Wcl",
+        "Result Album Name": "The Bass-ic Collection"
     },
     {
         "Title": "Birds and Crabs",
@@ -150,6 +212,14 @@
         "MoWeEd Track": "Call of the Child",
         "MoWeEd Artists": [
             "Nightnoise"
-        ]
+        ],
+        "Result Track Name": "Call Of The Child",
+        "Result Artist Names": [
+            "Nightnoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XqnntBUM2aqCQ9cfG19Y6",
+        "Result Album Name": "A Different Shore"
     }
 ]

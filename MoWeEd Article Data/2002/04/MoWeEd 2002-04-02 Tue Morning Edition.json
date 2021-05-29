@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-04-02",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:42:37"
+        "Scanned Date": "2021-05-28 13:42:37",
+        "Playlist URI": "3H3GyDxemGhe7ynLS0Zp42",
+        "Playlist Link": "https://open.spotify.com/playlist/3H3GyDxemGhe7ynLS0Zp42",
+        "Snapshot ID": "MSw3YTE5MWMwYmM3MGY5NWMxOGE5YTYyMGJjNTE1N2Q5NmQxOWMyZDdj",
+        "Playlist Name": "MoWeEd 2002-04-02 Tue Morning Edition"
     },
     {
         "Title": "Al Qaeda",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "The Storysinger (Vijaya's Story)",
         "MoWeEd Artists": [
             "Warren Senders"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ramallah",
@@ -40,7 +49,15 @@
         "MoWeEd Track": "Silent Passenger",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": "Silent Passenger (To Allen Greenall)",
+        "Result Artist Names": [
+            "Pierre Bensusan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EbAs8Dgs17ChSJbFW2QCb",
+        "Result Album Name": "Intuite"
     },
     {
         "Title": "'The Rookie'",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "I Will",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "I Will",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3yqHVWeex8JzxWBxyIiKt5",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "Title": "Educating Homeless Kids",
@@ -64,7 +89,15 @@
         "MoWeEd Track": "Another Wee Niece",
         "MoWeEd Artists": [
             "Nightnoise"
-        ]
+        ],
+        "Result Track Name": "Another Wee Niece",
+        "Result Artist Names": [
+            "Nightnoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CB5JCjbSCBxZfh9p8UuzI",
+        "Result Album Name": "A Different Shore"
     },
     {
         "Title": "Gas Prices",
@@ -83,7 +116,16 @@
         "MoWeEd Artists": [
             "Hank Crawford",
             "Jimmy McGriff"
-        ]
+        ],
+        "Result Track Name": "Red Top",
+        "Result Artist Names": [
+            "Hank Crawford",
+            "Jimmy McGriff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xwxvV72fVmfOVPoUQWjRP",
+        "Result Album Name": "Kickin' the 3 - The Best of Organ Trio Jazz"
     },
     {
         "Title": "Middle East",
@@ -101,7 +143,12 @@
         "MoWeEd Track": "Midnight Express",
         "MoWeEd Artists": [
             "Neal Schon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Training for War",
@@ -113,7 +160,15 @@
         "MoWeEd Track": "The Champ",
         "MoWeEd Artists": [
             "Jimmy Walker"
-        ]
+        ],
+        "Result Track Name": "The Champ",
+        "Result Artist Names": [
+            "Jimmy Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0tVQNGKH3gzXFMhNuOCn7B",
+        "Result Album Name": "Best Of Jimmy Smith (The Blue Note Years)"
     },
     {
         "Title": "Ncaa",
@@ -126,7 +181,15 @@
         "MoWeEd Artists": [
             "Avenue Blue",
             "Jeff Golub"
-        ]
+        ],
+        "Result Track Name": "Funky Is as Funky Does (feat. Jeff Golub)",
+        "Result Artist Names": [
+            "Avenue Blue feat. Jeff Golub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UGKhdjWgfSmqRCBRHJLno",
+        "Result Album Name": "Funky Jazz Party"
     },
     {
         "Title": "Cheating Series",
@@ -144,7 +207,12 @@
         "MoWeEd Track": "Keyboard Sonata In C",
         "MoWeEd Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'The Inner Tour'",
@@ -156,6 +224,14 @@
         "MoWeEd Track": "Mysterious Triangle",
         "MoWeEd Artists": [
             "Kitaro"
-        ]
+        ],
+        "Result Track Name": "Mysterious Triangle",
+        "Result Artist Names": [
+            "Kitaro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eWIDNpDl1JHNVI1A4OTyK",
+        "Result Album Name": "Ancient"
     }
 ]

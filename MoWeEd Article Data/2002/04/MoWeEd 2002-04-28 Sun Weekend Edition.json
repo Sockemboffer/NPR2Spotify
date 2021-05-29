@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-04-28",
         "Day": "Sun",
-        "Scanned Date": "2021-05-28 13:44:56"
+        "Scanned Date": "2021-05-28 13:44:56",
+        "Playlist URI": "3uUqRyjS5qcvwxPM1FMnt0",
+        "Playlist Link": "https://open.spotify.com/playlist/3uUqRyjS5qcvwxPM1FMnt0",
+        "Snapshot ID": "MSxjODE3NDBiODc2NTkxMDBjYWRiMTUwYjk4N2NjZjYzOTI1NGRhMWIw",
+        "Playlist Name": "MoWeEd 2002-04-28 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East",
@@ -36,20 +45,38 @@
         "MoWeEd Artists": [
             "Hasidic New Wave",
             "Yakar Rhythms"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "We Shall Overcome",
         "MoWeEd Artists": [
             "Charlie Haden",
             "Hank Jones"
-        ]
+        ],
+        "Result Track Name": "We Shall Overcome",
+        "Result Artist Names": [
+            "Charlie Haden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0PHOU70QPXLVZwWVxhc6il",
+        "Result Album Name": "Liberation Music Orchestra: The Montreal Tapes"
     },
     {
         "MoWeEd Track": "E",
         "MoWeEd Artists": [
             "Dave Kikoski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "504 Sit-In: Winning Rights for the Disabled",
@@ -68,7 +95,15 @@
         "MoWeEd Artists": [
             "Charlie Haden",
             "Hank Jones"
-        ]
+        ],
+        "Result Track Name": "We Shall Overcome",
+        "Result Artist Names": [
+            "Charlie Haden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0PHOU70QPXLVZwWVxhc6il",
+        "Result Album Name": "Liberation Music Orchestra: The Montreal Tapes"
     },
     {
         "Title": "Nuclear Jitters",
@@ -80,19 +115,40 @@
         "MoWeEd Track": "Jamaica Street",
         "MoWeEd Artists": [
             "Mount Florida"
-        ]
+        ],
+        "Result Track Name": "Jamaica Street",
+        "Result Artist Names": [
+            "Mount Florida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SBHt6tzFAr5cwsUZjl0qo",
+        "Result Album Name": "Arrived Phoenix"
     },
     {
         "MoWeEd Track": "So Long Michael",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": "So Long Michael",
+        "Result Artist Names": [
+            "Pierre Bensusan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75togsqCyIZgeeIOyZ6Wsy",
+        "Result Album Name": "Intuite"
     },
     {
         "MoWeEd Track": "The Elephant Bell-ringers",
         "MoWeEd Artists": [
             "Philharmonie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -104,7 +160,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Poetry",
@@ -117,7 +178,17 @@
         "MoWeEd Artists": [
             "Branford Marsalis",
             "Orpheus Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "Gymnopédie No. 3",
+        "Result Artist Names": [
+            "Erik Satie",
+            "Branford Marsalis",
+            "Orpheus Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xfEDeqFTKGZI4JOzhFfhg",
+        "Result Album Name": "Creation"
     },
     {
         "Title": "Catholic Hierarchy",
@@ -135,19 +206,48 @@
         "MoWeEd Track": "I'll Close My Eyes",
         "MoWeEd Artists": [
             "Jimmy Smith"
-        ]
+        ],
+        "Result Track Name": "I'll Close My Eyes",
+        "Result Artist Names": [
+            "Jimmy Smith",
+            "Kenny Burrell",
+            "Grady Tate"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:517VbkAk6WOoAPr8jFZyxw",
+        "Result Album Name": "Organ Grinder Swing"
     },
     {
         "MoWeEd Track": "The Pretty Place",
         "MoWeEd Artists": [
             "Paul Kelly"
-        ]
+        ],
+        "Result Track Name": "The Pretty Place",
+        "Result Artist Names": [
+            "Paul Kelly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4j9coC6pdTnNjaDLFbsm6V",
+        "Result Album Name": "Nothing but a Dream"
     },
     {
         "MoWeEd Track": "Right Brain Patrol",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Right Brain Patrol",
+        "Result Artist Names": [
+            "John Abercrombie",
+            "Marc Johnson",
+            "Peter Erskine",
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g1NNIGBSvfQUY0R9wGVK1",
+        "Result Album Name": "November"
     },
     {
         "Title": "German School Shooting",
@@ -165,13 +265,32 @@
         "MoWeEd Track": "So Straight and Slow",
         "MoWeEd Artists": [
             "Robin Holcomb"
-        ]
+        ],
+        "Result Track Name": "So Straight and Slow",
+        "Result Artist Names": [
+            "Robin Holcomb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qziF4aRAoy2Es0G3X3EWq",
+        "Result Album Name": "Robin Holcomb"
     },
     {
         "MoWeEd Track": "Quintet for Glass & Strings",
         "MoWeEd Artists": [
             "Dennis James"
-        ]
+        ],
+        "Result Track Name": "Quintet for Glass and Strings: Dance",
+        "Result Artist Names": [
+            "Garry Eister",
+            "Linda Ronstadt",
+            "Emerson String Quartet",
+            "Dennis James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cWh44j8RDL8hiZqNTQ6xN",
+        "Result Album Name": "Cristal: Glass Music Through The Ages"
     },
     {
         "Title": "Commerical Music",
@@ -183,19 +302,40 @@
         "MoWeEd Track": "God Save the Queen",
         "MoWeEd Artists": [
             "The Sex Pistols"
-        ]
+        ],
+        "Result Track Name": "God Save the Queen",
+        "Result Artist Names": [
+            "Sex Pistols"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6ui6l3ZNvlrGQZArwo8195",
+        "Result Album Name": "Never Mind The Bollocks, Here's The Sex Pistols"
     },
     {
         "MoWeEd Track": "Look So Fine, Feel So Low",
         "MoWeEd Artists": [
             "Paul Kelly"
-        ]
+        ],
+        "Result Track Name": "Look So Fine, Feel So Low",
+        "Result Artist Names": [
+            "Paul Kelly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5oA6pmHHZi0m7nn9LDFLfs",
+        "Result Album Name": "Songs From The South"
     },
     {
         "MoWeEd Track": "HAPPY TOWN",
         "MoWeEd Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Paul Kelly Struggles for Words",
@@ -207,6 +347,14 @@
         "MoWeEd Track": "I Close My Eyes and Think of You",
         "MoWeEd Artists": [
             "Paul Kelly"
-        ]
+        ],
+        "Result Track Name": "I Close My Eyes and Think of You",
+        "Result Artist Names": [
+            "Paul Kelly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3goWZcctGpJS45jzPR5PyR",
+        "Result Album Name": "A to Z Recordings"
     }
 ]

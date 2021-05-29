@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-03-14",
         "Day": "Thu",
-        "Scanned Date": "2021-05-28 13:46:19"
+        "Scanned Date": "2021-05-28 13:46:19",
+        "Playlist URI": "5QJEqne1Srx2sEBcDaslwu",
+        "Playlist Link": "https://open.spotify.com/playlist/5QJEqne1Srx2sEBcDaslwu",
+        "Snapshot ID": "MSw3N2IxZmQ5NDhhNjBkOTEwODA1ZDYwOGFlZWJiNTU2OGFkZGYyNDU1",
+        "Playlist Name": "MoWeEd 2002-03-14 Thu Morning Edition"
     },
     {
         "Title": "Student Visas",
@@ -22,14 +26,27 @@
         "MoWeEd Track": "Love at a Distance",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Love At A Distance",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ca3nTXkt7AwqMeSceVIGk",
+        "Result Album Name": "Aart"
     },
     {
         "MoWeEd Track": "Billy Higgins",
         "MoWeEd Artists": [
             "Charlie Watts",
             "Jim Keltner"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Afghan Tensions",
@@ -41,7 +58,15 @@
         "MoWeEd Track": "Laundry Girl",
         "MoWeEd Artists": [
             "Omar Faruk Tekbilek"
-        ]
+        ],
+        "Result Track Name": "Laundry Girl",
+        "Result Artist Names": [
+            "Omar Faruk Tekbilek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ui1f86cqj4XwvixaJw3D4",
+        "Result Album Name": "Alif / Love Supreme"
     },
     {
         "Title": "India Violence",
@@ -54,7 +79,15 @@
         "MoWeEd Artists": [
             "Jai Uttal",
             "the Pagan Love Orchestra"
-        ]
+        ],
+        "Result Track Name": "Hot Button",
+        "Result Artist Names": [
+            "Jai Uttal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0AeLuewbSuEVQdDPJ7tBsS",
+        "Result Album Name": "Mondo Rama"
     },
     {
         "Title": "Water Contaminants",
@@ -72,7 +105,15 @@
         "MoWeEd Track": "Prairie Sunset",
         "MoWeEd Artists": [
             "Stanton Moore"
-        ]
+        ],
+        "Result Track Name": "Prairie Sunset",
+        "Result Artist Names": [
+            "Stanton Moore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MFDzoacbgdgeLeO8uqKIR",
+        "Result Album Name": "Flyin' The Koop"
     },
     {
         "Title": "Briefing Funder",
@@ -90,7 +131,15 @@
         "MoWeEd Track": "Beck Street",
         "MoWeEd Artists": [
             "Solas"
-        ]
+        ],
+        "Result Track Name": "Beck Street",
+        "Result Artist Names": [
+            "Solas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yy13wLZagv8PMyscErQt6",
+        "Result Album Name": "The Edge Of Silence"
     },
     {
         "Title": "Mideast",
@@ -108,7 +157,16 @@
         "MoWeEd Track": "Sonata In G Major: Allegro vivace",
         "MoWeEd Artists": [
             "Ramon Salvatore"
-        ]
+        ],
+        "Result Track Name": "Piano Sonata in G Major: III. Allegro vivace",
+        "Result Artist Names": [
+            "Aaron Copland",
+            "Ramon Salvatore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vy44mJS9rBz7t42DdagxS",
+        "Result Album Name": "Copland: Piano Music"
     },
     {
         "MoWeEd Track": "Concerto In D Minor/allegro Molto",
@@ -116,7 +174,18 @@
             "Michael",
             "mccraw",
             "seattle Baroque"
-        ]
+        ],
+        "Result Track Name": "Bassoon Concerto in D Minor, RV 481: III. Allegro molto",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Michael McCraw",
+            "Seattle Baroque Orchestra",
+            "Ingrid Matthews"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6fKeWxGZ6HZkqHD0HjuZqZ",
+        "Result Album Name": "Vivaldi, A.: Concertos - Rv 105, 114, 481, 489, 498, 545, 563"
     },
     {
         "Title": "Guardsman Patrols a 'Domestic Front Line'",
@@ -128,7 +197,15 @@
         "MoWeEd Track": "Day After Day",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Day After Day - Live",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pifrVokEXAaAlBQo9bPEk",
+        "Result Album Name": "The Definitive Dave Brubeck on Fantasy, Concord Jazz, and Telarc"
     },
     {
         "Title": "Felix Drug Gang",
@@ -152,19 +229,43 @@
         "MoWeEd Track": "Outlaws",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Outlaws",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XpcNZVkuSlurCExNOUNhG",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "MoWeEd Track": "Quadrologue",
         "MoWeEd Artists": [
             "Jim Hall"
-        ]
+        ],
+        "Result Track Name": "Quadrologue",
+        "Result Artist Names": [
+            "Jim Hall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3nZP7vpE8T3XKDMh4nHzqF",
+        "Result Album Name": "Hallmarks: The Best Of Jim Hall (1971-2000)"
     },
     {
         "MoWeEd Track": "Escapade",
         "MoWeEd Artists": [
             "Paris Combo"
-        ]
+        ],
+        "Result Track Name": "Escapade",
+        "Result Artist Names": [
+            "Paris Combo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3OgDfjbB2nTlygr4HN23vC",
+        "Result Album Name": "Attraction"
     },
     {
         "Title": "Buddhist Monuments",
@@ -176,6 +277,14 @@
         "MoWeEd Track": "Grand Assembly Hall",
         "MoWeEd Artists": [
             "Paul Horn"
-        ]
+        ],
+        "Result Track Name": "Grand Assembly Hall",
+        "Result Artist Names": [
+            "Paul Horn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bDVyw46JnPLWM76hdq5Qx",
+        "Result Album Name": "Tibet"
     }
 ]

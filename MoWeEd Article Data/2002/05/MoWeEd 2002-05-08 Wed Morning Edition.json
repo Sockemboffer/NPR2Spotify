@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-05-08",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:40:23"
+        "Scanned Date": "2021-05-28 13:40:23",
+        "Playlist URI": "36DmmfGLOn9L9Sav045rjs",
+        "Playlist Link": "https://open.spotify.com/playlist/36DmmfGLOn9L9Sav045rjs",
+        "Snapshot ID": "MSwyMzcwMWRkOGI2NWFhY2QyZjc1YzFhNTJiNDVhODAzZDE1NjQ4NTA5",
+        "Playlist Name": "MoWeEd 2002-05-08 Wed Morning Edition"
     },
     {
         "Title": "Mailbox Bomber",
@@ -23,14 +27,32 @@
         "MoWeEd Artists": [
             "McCoy Tyner",
             "Stanley Clarke et. al."
-        ]
+        ],
+        "Result Track Name": "Trane-like",
+        "Result Artist Names": [
+            "McCoy Tyner",
+            "Stanley Clarke",
+            "Al Foster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0MMGTb7y1rpamkGuA2kOli",
+        "Result Album Name": "McCoy Tyner With Stanley Clarke And Al Foster"
     },
     {
         "MoWeEd Track": "A Night in Tunisia",
         "MoWeEd Artists": [
             "Turtle Island String Quartet",
             "Paquito D'Rivera"
-        ]
+        ],
+        "Result Track Name": "A Night In Tunisia",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:5JRu7CQzZPR7odp7y3P6g3",
+        "Result Album Name": "A Retrospective"
     },
     {
         "Title": "College Grads and Jobs",
@@ -48,7 +70,12 @@
         "MoWeEd Track": "Bells of St. Mary's",
         "MoWeEd Artists": [
             "Totally Hot Nashville Steel Guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Study: Breast-Fed Babies Make Smarter Adults",
@@ -60,7 +87,15 @@
         "MoWeEd Track": "A Child Is Born",
         "MoWeEd Artists": [
             "Charlie Byrd"
-        ]
+        ],
+        "Result Track Name": "A Child Is Born",
+        "Result Artist Names": [
+            "Charlie Byrd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3F8vasb2JCVdF7kK46WG6N",
+        "Result Album Name": "For Louis"
     },
     {
         "Title": "Pakistan",
@@ -78,13 +113,26 @@
         "MoWeEd Track": "The Simpsons: \"Treehouse of Horror (Kang & Kodos Medley): a)Holy-Moly b) We Offered You Paradise",
         "MoWeEd Artists": [
             "Alf Clausen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Moving On",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "Moving On",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VptDhZ6xtmCkIMf1ApZD9",
+        "Result Album Name": "Beckoning"
     },
     {
         "Title": "Personal Bankruptcy",
@@ -97,7 +145,12 @@
         "MoWeEd Artists": [
             "Svend Asmussen",
             "Jacob Fischer et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mideast",
@@ -115,20 +168,42 @@
         "MoWeEd Track": "When Will I See You Again",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "When Will I See You Again",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1063LjE4XJxEtQPhZKl9bT",
+        "Result Album Name": "Beckoning"
     },
     {
         "MoWeEd Track": "Old Diary",
         "MoWeEd Artists": [
             "Shinichi Kato",
             "Masahiko Sato"
-        ]
+        ],
+        "Result Track Name": "Old Diary",
+        "Result Artist Names": [
+            "Shinichi Kato",
+            "Masahiko Sato"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2agjQQRF5toMREL8pbZtKz",
+        "Result Album Name": "Duet"
     },
     {
         "MoWeEd Track": "Capture the Day",
         "MoWeEd Artists": [
             "Stuart Hoffman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.N. Kids Summit",
@@ -146,7 +221,15 @@
         "MoWeEd Track": "Four Fancies: Gavotte",
         "MoWeEd Artists": [
             "Don Bailey"
-        ]
+        ],
+        "Result Track Name": "Gavotte",
+        "Result Artist Names": [
+            "Don Bailey"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JyhEKzBbXOlGZS2JVwEJ4",
+        "Result Album Name": "Voyage"
     },
     {
         "Title": "Andersen Trial",
@@ -158,7 +241,15 @@
         "MoWeEd Track": "African Solstice",
         "MoWeEd Artists": [
             "Fiddlers 4"
-        ]
+        ],
+        "Result Track Name": "African Solstice",
+        "Result Artist Names": [
+            "Fiddlers 4"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VOt7t1n6ISs9Q3gGhS1q5",
+        "Result Album Name": "Fiddlers 4"
     },
     {
         "Title": "Rural Bank Robberies",
@@ -176,13 +267,29 @@
         "MoWeEd Track": "Ashleen",
         "MoWeEd Artists": [
             "Tony Monaco"
-        ]
+        ],
+        "Result Track Name": "Ashleen",
+        "Result Artist Names": [
+            "Tony Monaco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NfFSFAKFX5ltdi5B0CNFh",
+        "Result Album Name": "Burnin' Grooves"
     },
     {
         "MoWeEd Track": "Haitian Divorce",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Haitian Divorce",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4r4VpAcwrKtvX4klQ9EHUs",
+        "Result Album Name": "The Royal Scam"
     },
     {
         "Title": "Dougie Maclean",

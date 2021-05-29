@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-02-11",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:48:51"
+        "Scanned Date": "2021-05-28 13:48:51",
+        "Playlist URI": "2HpkpZsJB0UELucqzWUthS",
+        "Playlist Link": "https://open.spotify.com/playlist/2HpkpZsJB0UELucqzWUthS",
+        "Snapshot ID": "MSwyMWM2ZDgwNzg0NTlhMmZlNmJjNDM0ZTFkNDIxY2U4OGQxYWZlMGEw",
+        "Playlist Name": "MoWeEd 2002-02-11 Mon Morning Edition"
     },
     {
         "Title": "Middle East",
@@ -16,7 +20,15 @@
         "MoWeEd Track": "The Crossing",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "The Crossing",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XYVeBznOsVsB3J34s8430",
+        "Result Album Name": "The Other Shore"
     },
     {
         "Title": "Palestinian Economy",
@@ -40,7 +52,15 @@
         "MoWeEd Track": "Ritual Dance",
         "MoWeEd Artists": [
             "Kitaro"
-        ]
+        ],
+        "Result Track Name": "Ritual Dance",
+        "Result Artist Names": [
+            "Kitaro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07YIHuOyM14XJTfw7xUSgo",
+        "Result Album Name": "Ancient"
     },
     {
         "Title": "Blind Mice That 'See'",
@@ -52,7 +72,12 @@
         "MoWeEd Track": "Three Blind Mice",
         "MoWeEd Artists": [
             "Waldo's Gutbucket Syncopaters"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Outgoing Surgeon General",
@@ -70,7 +95,12 @@
         "MoWeEd Track": "Moto Perpetuo",
         "MoWeEd Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Carry-on Instruments",
@@ -88,7 +118,15 @@
         "MoWeEd Track": "Joe Bob Rag",
         "MoWeEd Artists": [
             "Hot Club of Cowtown"
-        ]
+        ],
+        "Result Track Name": "Joe-Bob Rag",
+        "Result Artist Names": [
+            "Hot Club Of Cowtown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iuUYSFuaC50kXaEG2Zddu",
+        "Result Album Name": "Tall Tales"
     },
     {
         "Title": "Cokie Roberts",
@@ -106,7 +144,15 @@
         "MoWeEd Track": "Rainwatching W.I.",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Rainwatching W.I.",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2erZbSdBYO5I9h5bzwxugU",
+        "Result Album Name": "Positive Thinking"
     },
     {
         "Title": "Death Penalty Errors",
@@ -118,7 +164,15 @@
         "MoWeEd Track": "Aphelion",
         "MoWeEd Artists": [
             "John Adorney"
-        ]
+        ],
+        "Result Track Name": "Aphelion",
+        "Result Artist Names": [
+            "John Adorney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GHtIyzmGaAIoMIo7rLjpC",
+        "Result Album Name": "Beckoning"
     },
     {
         "Title": "Westminster Dog Show",
@@ -130,7 +184,12 @@
         "MoWeEd Track": "Die Welpen (The Puppies)",
         "MoWeEd Artists": [
             "Brian Slawson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Riordan and GOP",
@@ -148,7 +207,15 @@
         "MoWeEd Track": "Montana [Live]",
         "MoWeEd Artists": [
             "Paul Winter Consort"
-        ]
+        ],
+        "Result Track Name": "Montana",
+        "Result Artist Names": [
+            "Paul Winter Consort"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50ASrlhNqqQbesJY0camcQ",
+        "Result Album Name": "Spanish Angel"
     },
     {
         "Title": "The Lincoln Memorial",
@@ -161,6 +228,16 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Recording Arts Orchestra Of Los Angeles"
-        ]
+        ],
+        "Result Track Name": "American Collection Theme - Extended Version",
+        "Result Artist Names": [
+            "John Williams",
+            "Yo-Yo Ma",
+            "Recording Artists Orchestra of Los Angeles"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:14p8BlsEx8FsE5BUBuh1qU",
+        "Result Album Name": "Classic Yo-Yo"
     }
 ]

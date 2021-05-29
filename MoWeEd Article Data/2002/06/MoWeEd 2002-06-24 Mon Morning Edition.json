@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-06-24",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:39:09"
+        "Scanned Date": "2021-05-28 13:39:09",
+        "Playlist URI": "2ntfnpBPypu8nefXFuyhQv",
+        "Playlist Link": "https://open.spotify.com/playlist/2ntfnpBPypu8nefXFuyhQv",
+        "Snapshot ID": "MSwwOWI3N2VlM2NjZmRmNzBiYjczY2YxMjM0MDc0Y2RjMTZhNDVjNjUz",
+        "Playlist Name": "MoWeEd 2002-06-24 Mon Morning Edition"
     },
     {
         "Title": "Mideast",
@@ -22,13 +26,27 @@
         "MoWeEd Track": "Ständchen",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Les baricades misterieuses",
         "MoWeEd Artists": [
             "Anthony Newman"
-        ]
+        ],
+        "Result Track Name": "Les Baricades Misterieuses",
+        "Result Artist Names": [
+            "François Couperin",
+            "Anthony Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NwjZ9y5tTJzdiTIhtW0D8",
+        "Result Album Name": "NPR Milestones of the Millennium: The Triumph of the Piano - From Bach to Bartok"
     },
     {
         "Title": "Travel Visa Backlog",
@@ -47,7 +65,15 @@
         "MoWeEd Artists": [
             "Jim Henry",
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Time to Ring Some Changes",
+        "Result Artist Names": [
+            "Jim Henry & Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3aCQnwoMptuAs5CZUKEQpI",
+        "Result Album Name": "Ring Some Changes"
     },
     {
         "Title": "Wimbledon",
@@ -59,7 +85,16 @@
         "MoWeEd Track": "Les baricades misterieuses",
         "MoWeEd Artists": [
             "Anthony Newman"
-        ]
+        ],
+        "Result Track Name": "Les Baricades Misterieuses",
+        "Result Artist Names": [
+            "François Couperin",
+            "Anthony Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NwjZ9y5tTJzdiTIhtW0D8",
+        "Result Album Name": "NPR Milestones of the Millennium: The Triumph of the Piano - From Bach to Bartok"
     },
     {
         "Title": "Justice Scalia and the Death Penalty",
@@ -71,7 +106,12 @@
         "MoWeEd Track": "Grande Valse Brillante in A minor, Op. 34, No. 2",
         "MoWeEd Artists": [
             "Emanuel Ax"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Scotland Fishing",
@@ -83,7 +123,15 @@
         "MoWeEd Track": "The Stones of Callinish",
         "MoWeEd Artists": [
             "Nigel Holton"
-        ]
+        ],
+        "Result Track Name": "The Stones of Callinish",
+        "Result Artist Names": [
+            "Nigel Holton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NvDv4rLCH48jjcYqPLtAQ",
+        "Result Album Name": "Above the Clouds"
     },
     {
         "Title": "Mara Liasson",
@@ -101,13 +149,29 @@
         "MoWeEd Track": "Cherenije",
         "MoWeEd Artists": [
             "Esma"
-        ]
+        ],
+        "Result Track Name": "Cherenije",
+        "Result Artist Names": [
+            "Esma Redzepova, Stevo Teodosievski Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UbfrC896ttPLpyRiJZQsL",
+        "Result Album Name": "Esma - Chaje Shukarije"
     },
     {
         "MoWeEd Track": "Trafficscape",
         "MoWeEd Artists": [
             "Eric Winstone"
-        ]
+        ],
+        "Result Track Name": "Trafficscape",
+        "Result Artist Names": [
+            "Eric Winstone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6v40KKjFanIjugbw2gpJL5",
+        "Result Album Name": "Kpm Brownsleeves: Kpmlpb 13"
     },
     {
         "Title": "Arizona Fires",
@@ -125,7 +189,15 @@
         "MoWeEd Track": "As for Us",
         "MoWeEd Artists": [
             "Fernando Ortega"
-        ]
+        ],
+        "Result Track Name": "As For Us",
+        "Result Artist Names": [
+            "Fernando Ortega"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46qtI76kr4HysRUS4XzLTe",
+        "Result Album Name": "Meditations of the Heart"
     },
     {
         "Title": "Excessive Heat Advisory",
@@ -137,7 +209,17 @@
         "MoWeEd Track": "Bonaparte's Retreat",
         "MoWeEd Artists": [
             "Berline + Crary + Hickman"
-        ]
+        ],
+        "Result Track Name": "Bonaparte's Retreat",
+        "Result Artist Names": [
+            "Dan Crary",
+            "Byron Berline",
+            "John Hickman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dM4cAcmPS8JMyF0QVcoOQ",
+        "Result Album Name": "Chambergrass"
     },
     {
         "Title": "The Quiz Show, Present at the Creation",

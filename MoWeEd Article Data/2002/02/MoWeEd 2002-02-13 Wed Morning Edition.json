@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-02-13",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:49:02"
+        "Scanned Date": "2021-05-28 13:49:02",
+        "Playlist URI": "4cCbtInAD3cdydQUNjLdzH",
+        "Playlist Link": "https://open.spotify.com/playlist/4cCbtInAD3cdydQUNjLdzH",
+        "Snapshot ID": "MSwxOTgwN2UyZDBiYzgxNTRiYWZjMDNhMjMyOGMzNzBjNzA2NTBhNzIz",
+        "Playlist Name": "MoWeEd 2002-02-13 Wed Morning Edition"
     },
     {
         "Title": "Musharraf In U.S.",
@@ -22,14 +26,27 @@
         "MoWeEd Track": "Afro-Cuban Lullaby",
         "MoWeEd Artists": [
             "Viviana Guzman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "El Jaguar",
         "MoWeEd Artists": [
             "Strunz",
             "Farah"
-        ]
+        ],
+        "Result Track Name": "El Jaguar",
+        "Result Artist Names": [
+            "Strunz & Farah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qK86NVlwNfEEgbVVZvtpF",
+        "Result Album Name": "Americas"
     },
     {
         "Title": "Campaign Finance Debate",
@@ -47,7 +64,12 @@
         "MoWeEd Track": "6 Sonatas/v Moderato",
         "MoWeEd Artists": [
             "Elaine Funaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Olympics",
@@ -60,7 +82,12 @@
         "MoWeEd Artists": [
             "St. Luke's Chamber Ensemble",
             "Richard Westerfield"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cigarette Tax Hike",
@@ -79,13 +106,23 @@
         "MoWeEd Artists": [
             "Eos Orchestra",
             "Jonathan Sheffer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Three Part Invention No 10",
         "MoWeEd Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Semiconductor Figures",
@@ -103,7 +140,12 @@
         "MoWeEd Track": "ROUTE 66 TV THEME",
         "MoWeEd Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Terror Alert",
@@ -125,13 +167,23 @@
             "Benjamin Simon",
             "Julie Steinberg",
             "William Winant"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Ballet Music from Primrose",
         "MoWeEd Artists": [
             "Richard Glazier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Milosevic Trial",
@@ -151,7 +203,12 @@
             "Frank Peter Zimmermann",
             "Neil Black",
             "English Chamber Orch."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "STD Study",
@@ -163,7 +220,15 @@
         "MoWeEd Track": "The Reluctant Bride",
         "MoWeEd Artists": [
             "Ralph Towner"
-        ]
+        ],
+        "Result Track Name": "The Reluctant Bride",
+        "Result Artist Names": [
+            "Ralph Towner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nyKNPE4wO774Cpm4UAmEp",
+        "Result Album Name": "Ana"
     },
     {
         "Title": "Former Rollers Give Speed Skating a New Look",
@@ -181,13 +246,31 @@
         "MoWeEd Track": "Festive Overture, Op. 96",
         "MoWeEd Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": "Festive Overture, Op.96 - Instrumental",
+        "Result Artist Names": [
+            "Dmitri Shostakovich",
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1m7GpiXWjY6QRny8SmA4TF",
+        "Result Album Name": "Summon the Heroes"
     },
     {
         "MoWeEd Track": "Cielo Turchino [Deep Blue Sky]",
         "MoWeEd Artists": [
             "Joe Lovano"
-        ]
+        ],
+        "Result Track Name": "Cielo Turchino",
+        "Result Artist Names": [
+            "Joe Lovano"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4L8xCqOMf2f5vmwWVORo6E",
+        "Result Album Name": "Viva Caruso"
     },
     {
         "MoWeEd Track": "My Babe",
@@ -195,7 +278,17 @@
             "Big Jack Johnson W",
             "kim Wilson",
             "Pinetop Perkins"
-        ]
+        ],
+        "Result Track Name": "My Babe",
+        "Result Artist Names": [
+            "Big Jack Johnson",
+            "Kim Wilson",
+            "Pinetop Perkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9333333333333333,
+        "Result Track URI": "spotify:track:18GQJOz9JyKiuYt9512coA",
+        "Result Album Name": "The Memphis Barbecue Sessions"
     },
     {
         "Title": "Westminster Dog Show",
@@ -207,6 +300,14 @@
         "MoWeEd Track": "White Dude Special",
         "MoWeEd Artists": [
             "Tony Monaco"
-        ]
+        ],
+        "Result Track Name": "White Dude Special",
+        "Result Artist Names": [
+            "Tony Monaco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12YXDjDCwXW5nooCp2xrSe",
+        "Result Album Name": "The Monacos Are Moving Up"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-07-02",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:34:18"
+        "Scanned Date": "2021-05-28 13:34:18",
+        "Playlist URI": "6WOEzAe2cb88abVYgOwMfo",
+        "Playlist Link": "https://open.spotify.com/playlist/6WOEzAe2cb88abVYgOwMfo",
+        "Snapshot ID": "MSw5YWYxMjIxMzcxZDc0M2ZlY2QxM2I5ZDg0NWZmYTEyM2EwYzdkZjA3",
+        "Playlist Name": "MoWeEd 2002-07-02 Tue Morning Edition"
     },
     {
         "Title": "WorldCom",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Stole and Sold from Africa",
         "MoWeEd Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Stole and Sold From Africa",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5XAkSkXkrQoGSVZevtpxiA",
+        "Result Album Name": "Cool and Unusual"
     },
     {
         "Title": "All-Terrain Vehicle Safety",
@@ -34,7 +46,15 @@
         "MoWeEd Track": "Do You Have Room?",
         "MoWeEd Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": "Do You Have Room?",
+        "Result Artist Names": [
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4l1uLUR0pZH87TYzdnxpy3",
+        "Result Album Name": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2"
     },
     {
         "Title": "Montesinos",
@@ -46,7 +66,15 @@
         "MoWeEd Track": "Cruising Leblon",
         "MoWeEd Artists": [
             "Roberto Perera"
-        ]
+        ],
+        "Result Track Name": "Cruising Leblon",
+        "Result Artist Names": [
+            "Roberto Perera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xOZ3rNVws40XdsTrWMNsL",
+        "Result Album Name": "Sensual"
     },
     {
         "Title": "Doc Watson",
@@ -70,7 +98,12 @@
         "MoWeEd Track": "The Stride Set: The Stride/Tom Doherty's/The Contradiction/Viva Galicia",
         "MoWeEd Artists": [
             "Solas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Germany Air Crash",
@@ -88,7 +121,15 @@
         "MoWeEd Track": "Sema",
         "MoWeEd Artists": [
             "Mehmet Ergin"
-        ]
+        ],
+        "Result Track Name": "Sema",
+        "Result Artist Names": [
+            "Mehmet Ergin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qOqjyMeyf0OBgSDqpyxth",
+        "Result Album Name": "Beyond the Seven Hills"
     },
     {
         "Title": "Karen Hughes",
@@ -100,7 +141,20 @@
         "MoWeEd Track": "Sligo Creek",
         "MoWeEd Artists": [
             "Al Petteway"
-        ]
+        ],
+        "Result Track Name": "Sligo Creek",
+        "Result Artist Names": [
+            "Al Petteway",
+            "Amy White",
+            "Bonnie Rideout",
+            "Maggie Sansone",
+            "Eric Rigler",
+            "Abby Newton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3quWcYOOMa6RNODyoA1lpG",
+        "Result Album Name": "Caledon Wood"
     },
     {
         "Title": "Earl Hilliard Defeated",
@@ -112,7 +166,15 @@
         "MoWeEd Track": "Beyond Words",
         "MoWeEd Artists": [
             "Eidolon"
-        ]
+        ],
+        "Result Track Name": "Beyond Words",
+        "Result Artist Names": [
+            "Acoustic Eidolon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TJNiJYP8VZrCvakxCO7pj",
+        "Result Album Name": "Beyond Words"
     },
     {
         "Title": "Malibu Lessons",
@@ -136,6 +198,14 @@
         "MoWeEd Track": "Christina",
         "MoWeEd Artists": [
             "Jack Jezzro"
-        ]
+        ],
+        "Result Track Name": "Christina",
+        "Result Artist Names": [
+            "Jack Jezzro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tfbBvkWOlPQFwJRXYNvxz",
+        "Result Album Name": "Jazz Tastings - Light Jazz Guitar"
     }
 ]

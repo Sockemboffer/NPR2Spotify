@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-09-21",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:30:31"
+        "Scanned Date": "2021-05-28 13:30:31",
+        "Playlist URI": "6g4j6GSbHJGOERfsxoZsU0",
+        "Playlist Link": "https://open.spotify.com/playlist/6g4j6GSbHJGOERfsxoZsU0",
+        "Snapshot ID": "MSw3NzI0NjE3NDk1ZDFiMzE0ODc3YzAxMmM2NzY1NDM0ZjkzOGEzNDA4",
+        "Playlist Name": "MoWeEd 2002-09-21 Sat Weekend Edition"
     },
     {
         "Title": "Ramallah Assault",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Gato Gris",
         "MoWeEd Artists": [
             "Madera"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Julius Caesar",
         "MoWeEd Artists": [
             "Dame Janet Baker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sept. 11 Failures",
@@ -82,13 +96,29 @@
         "MoWeEd Track": "(How Much Is) That Doggie in the Window?",
         "MoWeEd Artists": [
             "Patti Page"
-        ]
+        ],
+        "Result Track Name": "(How Much Is) That Doggie in the Window",
+        "Result Artist Names": [
+            "Patti Page"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mMSH14XSSjzLvNuf62azx",
+        "Result Album Name": "Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game"
     },
     {
         "MoWeEd Track": "A Viennese Freilach",
         "MoWeEd Artists": [
             "New Orleans Klezmer All Stars"
-        ]
+        ],
+        "Result Track Name": "A Viennese Freilach",
+        "Result Artist Names": [
+            "New Orleans Klezmer All-Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VfIYgWupGMRRUBO5Kh3KA",
+        "Result Album Name": "The Big Kibosh"
     },
     {
         "Title": "Drought Economics",
@@ -114,7 +144,15 @@
             "Freddy Marting and His Orchestra W",
             "jack Fina",
             "Piano"
-        ]
+        ],
+        "Result Track Name": "Tchaikovsky Piano Concerto No. 1 in B-Flat",
+        "Result Artist Names": [
+            "Freddy Martin & His Orchestra"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3JwyiC1OlEoT2iSmlRLgUC",
+        "Result Album Name": "The Very Best Of"
     },
     {
         "Title": "Wireless Tagging",
@@ -126,7 +164,15 @@
         "MoWeEd Track": "Jesus Will Fix It for You",
         "MoWeEd Artists": [
             "Sonny Treadway"
-        ]
+        ],
+        "Result Track Name": "Jesus Will Fix It for You",
+        "Result Artist Names": [
+            "Sonny Treadway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32SqlYPUYDORUA78AoZwlS",
+        "Result Album Name": "Jesus Will Fix It! Sacred Steel Guitar Instrumentals"
     },
     {
         "Title": "Visa Problems for Musicians",
@@ -138,7 +184,16 @@
         "MoWeEd Track": "Olive Harvest",
         "MoWeEd Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": "Olive Harvest",
+        "Result Artist Names": [
+            "Simon Shaheen",
+            "Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7An1xu1WAXek1AZ89LCBZ0",
+        "Result Album Name": "Live From The Heart Of The City"
     },
     {
         "Title": "Sandy Koufax",

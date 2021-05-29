@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-02-04",
         "Day": "Mon",
-        "Scanned Date": "2021-05-28 13:48:13"
+        "Scanned Date": "2021-05-28 13:48:13",
+        "Playlist URI": "7ESbx0rnSwm9X0hfqfoMQP",
+        "Playlist Link": "https://open.spotify.com/playlist/7ESbx0rnSwm9X0hfqfoMQP",
+        "Snapshot ID": "MSw0ODA0NDczYjdkYTBjY2IyOTYwNWJiM2MzYzc5ZTcwNDJkNWJjYjkx",
+        "Playlist Name": "MoWeEd 2002-02-04 Mon Morning Edition"
     },
     {
         "Title": "Enron Report",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Bar 69",
         "MoWeEd Artists": [
             "Kerosene"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Super Bowl",
@@ -46,7 +55,15 @@
         "MoWeEd Track": "Esperanto",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Esperanto",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Y2IkWSSTiYR0c74pEEsuD",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "Lost Temples of Peru",
@@ -59,7 +76,16 @@
         "MoWeEd Artists": [
             "Alex de Grassi",
             "Quique Cruz et. al."
-        ]
+        ],
+        "Result Track Name": "Encuentros",
+        "Result Artist Names": [
+            "Alex de Grassi",
+            "Quique Cruz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59Vt0zFyxALYjTw6k8TV7Y",
+        "Result Album Name": "Tata Monk"
     },
     {
         "Title": "Port Security",
@@ -71,7 +97,15 @@
         "MoWeEd Track": "To Know One",
         "MoWeEd Artists": [
             "Joey Calderazzo"
-        ]
+        ],
+        "Result Track Name": "To Know One",
+        "Result Artist Names": [
+            "Joey Calderazzo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Z6iL68dUh9ejXoRZddgz1",
+        "Result Album Name": "To Know One"
     },
     {
         "Title": "No-Show Lay",
@@ -89,7 +123,16 @@
         "MoWeEd Track": "Scherzo",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": "III. Scherzo - Presto",
+        "Result Artist Names": [
+            "Johannes Brahms",
+            "Eroica Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wsk4LONNpu7vTAL42Dp0Y",
+        "Result Album Name": "Brahms Trios No. 1 & 2"
     },
     {
         "Title": "Turkey Quake",
@@ -107,7 +150,15 @@
         "MoWeEd Track": "I Like to Score",
         "MoWeEd Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "I Like to Score",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YHPUXcAo4WZheI6VmPEab",
+        "Result Album Name": "I Like To Score"
     },
     {
         "Title": "Hmong Politician",
@@ -119,7 +170,15 @@
         "MoWeEd Track": "Three Delineations: Faire",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Faire",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rsqI3Cvhs8Kq82T5mZrKN",
+        "Result Album Name": "Denouement"
     },
     {
         "Title": "'Lift Every Voice and Sing'",
@@ -143,6 +202,11 @@
         "MoWeEd Track": "Rock-Umba",
         "MoWeEd Artists": [
             "Ray Anthony"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

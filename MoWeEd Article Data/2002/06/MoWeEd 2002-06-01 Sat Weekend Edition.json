@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-06-01",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:37:03"
+        "Scanned Date": "2021-05-28 13:37:03",
+        "Playlist URI": "2bW0HFXmcJUQNsBsXZvuGy",
+        "Playlist Link": "https://open.spotify.com/playlist/2bW0HFXmcJUQNsBsXZvuGy",
+        "Snapshot ID": "MSw3YjdiOGM3ZWI1MmZkZDIzNTE2Yzg1NGIzNmQ4NWY3NzVlNWMyOTk4",
+        "Playlist Name": "MoWeEd 2002-06-01 Sat Weekend Edition"
     },
     {
         "Title": "India-Pakistan Tensions",
@@ -29,13 +33,30 @@
         "MoWeEd Artists": [
             "Shinichi Kato",
             "Masahiko Sato"
-        ]
+        ],
+        "Result Track Name": "Blues for Pluto",
+        "Result Artist Names": [
+            "Shinichi Kato",
+            "Masahiko Sato"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wnleVGkoNvWeiqaUjQJE6",
+        "Result Album Name": "Duet"
     },
     {
         "MoWeEd Track": "Smoke",
         "MoWeEd Artists": [
             "Medeski Martin and Wood"
-        ]
+        ],
+        "Result Track Name": "Smoke",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CRNS3ess6Z8LRu0Hak1xo",
+        "Result Album Name": "Uninvisible"
     },
     {
         "Title": "Thermal Vents",
@@ -59,7 +80,12 @@
         "MoWeEd Track": "Get the Party Started",
         "MoWeEd Artists": [
             "Pink"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Designer Coffins",
@@ -71,7 +97,15 @@
         "MoWeEd Track": "Lotus Blossom",
         "MoWeEd Artists": [
             "Fred Hersch"
-        ]
+        ],
+        "Result Track Name": "Lotus Blossom",
+        "Result Artist Names": [
+            "Fred Hersch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nByF1bT1suvRCv325ZO6t",
+        "Result Album Name": "Passion Flower: Fred Hersch Plays Billy Strayhorn"
     },
     {
         "Title": "Planting Bamboo",
@@ -89,7 +123,12 @@
         "MoWeEd Track": "Bach Prelude",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In Review",
@@ -107,7 +146,12 @@
         "MoWeEd Track": "Night Walk",
         "MoWeEd Artists": [
             "Richard Todd"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Environmental Policy",
@@ -131,7 +175,16 @@
         "MoWeEd Track": "Variations on a Polish Theme, Op.51",
         "MoWeEd Artists": [
             "Dmitry Paperno"
-        ]
+        ],
+        "Result Track Name": "Variations on a Polish Folk Theme, Op. 51",
+        "Result Artist Names": [
+            "Anatoly Lyadov",
+            "Dmitry Paperno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74PFvoZkCMsskg1TuVOua2",
+        "Result Album Name": "Tchaikovsky: The Seasons (Excerpts) / Rachmaninov: Preludes / Scriabin: Piano Sonata No. 2"
     },
     {
         "Title": "Shaping a Theory on Whip Cracks",
@@ -144,7 +197,16 @@
         "MoWeEd Artists": [
             "Turtle Island String Quartet",
             "Paquito D'Rivera"
-        ]
+        ],
+        "Result Track Name": "On Green Dolphin Street",
+        "Result Artist Names": [
+            "Paquito D'Rivera",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Yxfmgk4YUk9hs7Y6B85JX",
+        "Result Album Name": "Danzon"
     },
     {
         "Title": "Mosquitoes",
@@ -156,7 +218,12 @@
         "MoWeEd Track": "Liebkeit [Tenderness)",
         "MoWeEd Artists": [
             "Les Yeux Noirs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Booker Prize Debate",
@@ -175,6 +242,14 @@
         "MoWeEd Artists": [
             "Tommy Dorsey",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Song of India",
+        "Result Artist Names": [
+            "Tommy Dorsey"
+        ],
+        "Result Track-Match Percent": 0.5454545454545454,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4ou73CMygT62S9gubMZxIe",
+        "Result Album Name": "The Sentimental Gentleman Of Swing - The Tommy Dorsey Centennial Collection"
     }
 ]

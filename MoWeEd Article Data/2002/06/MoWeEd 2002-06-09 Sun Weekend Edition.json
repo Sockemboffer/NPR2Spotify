@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-06-09",
         "Day": "Sun",
-        "Scanned Date": "2021-05-28 13:37:45"
+        "Scanned Date": "2021-05-28 13:37:45",
+        "Playlist URI": "3bscXATd5ljKj4vLQQ6QWF",
+        "Playlist Link": "https://open.spotify.com/playlist/3bscXATd5ljKj4vLQQ6QWF",
+        "Snapshot ID": "MSw1ZWVmNzRkYjRlMjYwMDA3MjBhYTlhM2Y3Mzc3ODVjOTJmMzRhMDcw",
+        "Playlist Name": "MoWeEd 2002-06-09 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "India and Pakistan",
@@ -29,7 +38,15 @@
         "MoWeEd Track": "Ten Believers",
         "MoWeEd Artists": [
             "Latin Playboys"
-        ]
+        ],
+        "Result Track Name": "Ten Believers",
+        "Result Artist Names": [
+            "Latin Playboys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NAUwJVkdvmJTWUcRrt6iW",
+        "Result Album Name": "Latin Playboys"
     },
     {
         "Title": "Loya Jirga",
@@ -41,19 +58,43 @@
         "MoWeEd Track": "Boo Hoo",
         "MoWeEd Artists": [
             "John Bollinger"
-        ]
+        ],
+        "Result Track Name": "Boo Hoo",
+        "Result Artist Names": [
+            "John Schooley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:37NjNogtstRcMbZW7SRNxi",
+        "Result Album Name": "The Man Who Rode the Mule Around the World"
     },
     {
         "MoWeEd Track": "Road So Clear",
         "MoWeEd Artists": [
             "Cassandra Wilson"
-        ]
+        ],
+        "Result Track Name": "Road So Clear",
+        "Result Artist Names": [
+            "Cassandra Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2pbS9xtwQZyBvD9MeYYkZw",
+        "Result Album Name": "Belly Of The Sun"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Stateless Rogues",
@@ -66,7 +107,15 @@
         "MoWeEd Artists": [
             "Mitchell Froom",
             "Mark Eitzel"
-        ]
+        ],
+        "Result Track Name": "Watery Eyes",
+        "Result Artist Names": [
+            "Mitchell Froom"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3aoqW8T00EvR4wwV4JBHZB",
+        "Result Album Name": "Dopamine"
     },
     {
         "Title": "Sports Spectacular",
@@ -84,7 +133,15 @@
         "MoWeEd Track": "I'm Alright [Theme from Caddyshack]",
         "MoWeEd Artists": [
             "Kenny Loggins"
-        ]
+        ],
+        "Result Track Name": "I'm Alright - Theme from \"Caddyshack\"",
+        "Result Artist Names": [
+            "Kenny Loggins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vJnM5FUcOV3xAKJHSSUWj",
+        "Result Album Name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins"
     },
     {
         "Title": "World Cup Commentators: Frauds?",
@@ -96,19 +153,41 @@
         "MoWeEd Track": "World Cup Fever",
         "MoWeEd Artists": [
             "Air Miami"
-        ]
+        ],
+        "Result Track Name": "World Cup Fever (Guy Fixsen Mix)",
+        "Result Artist Names": [
+            "Air Miami",
+            "Guy Fixsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cWH39WROsOiyDCUgal2q6",
+        "Result Album Name": "World Cup Fever"
     },
     {
         "MoWeEd Track": "The Weight",
         "MoWeEd Artists": [
             "Cassandra Wilson"
-        ]
+        ],
+        "Result Track Name": "The Weight",
+        "Result Artist Names": [
+            "Cassandra Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4T23gpKLRoBWxQ0EUISafk",
+        "Result Album Name": "Closer To You: The Pop Side"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -120,7 +199,15 @@
         "MoWeEd Track": "Darkness on the Delta",
         "MoWeEd Artists": [
             "Cassandra Wilson"
-        ]
+        ],
+        "Result Track Name": "Darkness On The Delta",
+        "Result Artist Names": [
+            "Cassandra Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4aKO5sJbB8DAjWNBySQCjq",
+        "Result Album Name": "Belly Of The Sun"
     },
     {
         "Title": "Cassandra Wilson",
@@ -132,7 +219,15 @@
         "MoWeEd Track": "Hot Tamales",
         "MoWeEd Artists": [
             "Cassandra Wilson"
-        ]
+        ],
+        "Result Track Name": "Hot Tamales",
+        "Result Artist Names": [
+            "Cassandra Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SbJz4tHrNRQr3tKpl0maO",
+        "Result Album Name": "Belly Of The Sun"
     },
     {
         "Title": "Government Reorganization",
@@ -151,19 +246,40 @@
         "MoWeEd Artists": [
             "Philip Glass",
             "English Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "Secret Agent",
+        "Result Artist Names": [
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:6hWOzchcVbVHuyA5Mb88bs",
+        "Result Album Name": "Philip Glass: The Secret Agent"
     },
     {
         "MoWeEd Track": "Grafulla's Favorite Waltz, for band",
         "MoWeEd Artists": [
             "Dodworth Saxhorn Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Further Reorganization",
@@ -188,7 +304,16 @@
         "MoWeEd Artists": [
             "Gary Burton",
             "Makoto Ozone"
-        ]
+        ],
+        "Result Track Name": "Le Tombeau De Couperin I - Prelude - Album Version",
+        "Result Artist Names": [
+            "Gary Burton",
+            "Makoto Ozone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4PhryB2wAdeHDXxbv06uwE",
+        "Result Album Name": "Virtuosi"
     },
     {
         "Title": "Summer Reading",
@@ -200,13 +325,29 @@
         "MoWeEd Track": "Power",
         "MoWeEd Artists": [
             "Marcus Miller"
-        ]
+        ],
+        "Result Track Name": "Power",
+        "Result Artist Names": [
+            "Marcus Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wd1sOeNdzBeRGsL6mPogQ",
+        "Result Album Name": "M2"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "One Foot In the Grave",
@@ -224,6 +365,11 @@
         "MoWeEd Track": "Grafulla's Favorite Waltz, for band",
         "MoWeEd Artists": [
             "Dodworth Saxhorn Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

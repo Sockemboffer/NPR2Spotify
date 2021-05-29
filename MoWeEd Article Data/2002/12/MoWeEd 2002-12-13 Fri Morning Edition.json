@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-12-13",
         "Day": "Fri",
-        "Scanned Date": "2021-05-28 13:21:23"
+        "Scanned Date": "2021-05-28 13:21:23",
+        "Playlist URI": "0TbGp85OHZrFQgpo4chtnH",
+        "Playlist Link": "https://open.spotify.com/playlist/0TbGp85OHZrFQgpo4chtnH",
+        "Snapshot ID": "MSxhYzkzYmY0ODUxZTUzMDRiZjlhODM5OThiMGMzOTllZTMzNTllNDBj",
+        "Playlist Name": "MoWeEd 2002-12-13 Fri Morning Edition"
     },
     {
         "Title": "N. Korea Nuclear Standoff",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Night Passage",
         "MoWeEd Artists": [
             "Shadowfax"
-        ]
+        ],
+        "Result Track Name": "Night Passage",
+        "Result Artist Names": [
+            "Shadowfax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CsQDFbn8cGtoBapZYvOVI",
+        "Result Album Name": "Magic Theater"
     },
     {
         "Title": "Housing First: HOPE's Promise of Better Housing",
@@ -34,7 +46,15 @@
         "MoWeEd Track": "Watercourse Way",
         "MoWeEd Artists": [
             "Shadowfax"
-        ]
+        ],
+        "Result Track Name": "Watercourse Way",
+        "Result Artist Names": [
+            "Shadowfax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pTenHeCDyKxAsaq572cRD",
+        "Result Album Name": "Shadowdance"
     },
     {
         "Title": "Morning Edition Returns: Forever?",
@@ -76,7 +96,15 @@
         "MoWeEd Track": "Uren Luren",
         "MoWeEd Artists": [
             "Lines"
-        ]
+        ],
+        "Result Track Name": "Uren Luren",
+        "Result Artist Names": [
+            "Lines"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6E5TEqSqN9OBlFJ0RltGIG",
+        "Result Album Name": "Lines"
     },
     {
         "Title": "Cardinal Law Resigns",
@@ -100,7 +128,12 @@
         "MoWeEd Track": "Abdelazer",
         "MoWeEd Artists": [
             "Freiburger Barockorchester"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Harsh Realities Flavor Iraqi Cultural Pursuits",
@@ -112,7 +145,18 @@
         "MoWeEd Track": "Market Street",
         "MoWeEd Artists": [
             "Jimmy Haslip"
-        ]
+        ],
+        "Result Track Name": "Market Street",
+        "Result Artist Names": [
+            "Jimmy Haslip",
+            "Chuck Findley",
+            "Peter Erskine",
+            "Luis Conte"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QR2Hi4X8BJ2H81XGtJuTj",
+        "Result Album Name": "Arc"
     },
     {
         "Title": "Lott Furor Intensifies",
@@ -137,7 +181,12 @@
         "MoWeEd Artists": [
             "Alan Evans",
             "Neal Evans et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Court Backs Ban on Logging Roads in National Forests",
@@ -149,7 +198,15 @@
         "MoWeEd Track": "So Long Michael",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": "So Long Michael",
+        "Result Artist Names": [
+            "Pierre Bensusan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75togsqCyIZgeeIOyZ6Wsy",
+        "Result Album Name": "Intuite"
     },
     {
         "Title": "Floating Along with Lee Smith's 'Last Girls'",
@@ -168,6 +225,16 @@
         "MoWeEd Artists": [
             "Don Edwards",
             "Waddie Mitchell"
-        ]
+        ],
+        "Result Track Name": "Santa Rosa Serenade",
+        "Result Artist Names": [
+            "Don Edwards",
+            "Waddie Mitchell",
+            "Fort Worth Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ebaK01d7soWv2odJUDUez",
+        "Result Album Name": "A Prairie Portrait"
     }
 ]

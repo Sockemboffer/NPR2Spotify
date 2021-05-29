@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-12-15",
         "Day": "Sun",
-        "Scanned Date": "2021-05-28 13:21:36"
+        "Scanned Date": "2021-05-28 13:21:36",
+        "Playlist URI": "03UaZraX9xI3sp5PTBbxzH",
+        "Playlist Link": "https://open.spotify.com/playlist/03UaZraX9xI3sp5PTBbxzH",
+        "Snapshot ID": "MSwzOWU0MGUzZTdmYWEzMzYzNjRkODNhZjliY2UyMjQzOTY5ZDkwZWQ1",
+        "Playlist Name": "MoWeEd 2002-12-15 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nickles Calls for Vote on Lott",
@@ -35,19 +44,40 @@
         "MoWeEd Track": "Thursday 3:44pm (Playground)",
         "MoWeEd Artists": [
             "John Hollenbeck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Santa Claus Is Comin' to Town",
         "MoWeEd Artists": [
             "Unified Jazz Ensemble"
-        ]
+        ],
+        "Result Track Name": "Santa Claus is Comin' to Town",
+        "Result Artist Names": [
+            "The Unified Jazz Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0b8hFWRDXMpff6ptjQhnGX",
+        "Result Album Name": "Make a Joyful Noise"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Paper Tiger",
@@ -65,7 +95,12 @@
         "MoWeEd Track": "After All",
         "MoWeEd Artists": [
             "Muthspiel Peacock Muthspiel Motian"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Colorado Ski Resorts Work to Create More Snow",
@@ -77,7 +112,15 @@
         "MoWeEd Track": "Let It Snow! Let It Snow! Let It Snow!",
         "MoWeEd Artists": [
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": "Let It Snow",
+        "Result Artist Names": [
+            "Oscar Peterson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pctt0uFOGc7NxJvzwIv1x",
+        "Result Album Name": "An Oscar Peterson Christmas"
     },
     {
         "Title": "Manholes in Vail, Colo.",
@@ -89,20 +132,42 @@
         "MoWeEd Track": "Winter Wonderland",
         "MoWeEd Artists": [
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Winter Wonderland",
+        "Result Artist Names": [
+            "David Schultz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5ynJBBFqmNm3FOcZcqttN4",
+        "Result Album Name": "Christmas Piano"
     },
     {
         "MoWeEd Track": "Bodas de Oro",
         "MoWeEd Artists": [
             "Ry Cooder",
             "Manuel Galbán"
-        ]
+        ],
+        "Result Track Name": "Bodas de oro",
+        "Result Artist Names": [
+            "Ry Cooder",
+            "Manuel Galbán"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KOhE95xAsioxIVzpGCVgM",
+        "Result Album Name": "Mambo Sinuendo"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -114,7 +179,12 @@
         "MoWeEd Track": "Puzzle Button",
         "MoWeEd Artists": [
             "Stef Scaggiari"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bialy Wars",
@@ -126,7 +196,15 @@
         "MoWeEd Track": "Fountain of Youth",
         "MoWeEd Artists": [
             "John Kruth"
-        ]
+        ],
+        "Result Track Name": "Fountain of Youth",
+        "Result Artist Names": [
+            "John Kruth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2GEsB2EOUgbOmMzaOp2l2F",
+        "Result Album Name": "Banshee Mandolin"
     },
     {
         "Title": "From Tech Guru Rich Dean, Holiday Gift Ideas",
@@ -138,7 +216,15 @@
         "MoWeEd Track": "Santa Claus Is Comin' to Town",
         "MoWeEd Artists": [
             "Unified Jazz Ensemble"
-        ]
+        ],
+        "Result Track Name": "Santa Claus is Comin' to Town",
+        "Result Artist Names": [
+            "The Unified Jazz Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0b8hFWRDXMpff6ptjQhnGX",
+        "Result Album Name": "Make a Joyful Noise"
     },
     {
         "Title": "Arafat Barred from Xmas Travel",
@@ -163,19 +249,42 @@
         "MoWeEd Artists": [
             "Branford Marsalis",
             "Orpheus Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "Concertino da camera for Alto Saxophone and Orchestra: II. Larghetto",
+        "Result Artist Names": [
+            "Jacques Ibert",
+            "Branford Marsalis",
+            "Orpheus Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1cxsje2xgb59KEAX8o7Uqt",
+        "Result Album Name": "Creation"
     },
     {
         "MoWeEd Track": "Song for B. From \"turning\"",
         "MoWeEd Artists": [
             "Christopher Taylor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Church Troubles",
@@ -187,7 +296,12 @@
         "MoWeEd Track": "The Golden Wire",
         "MoWeEd Artists": [
             "Andy Summers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "North Carolina Eugenics",
@@ -199,7 +313,15 @@
         "MoWeEd Track": "His Song",
         "MoWeEd Artists": [
             "Stina Nordenstam"
-        ]
+        ],
+        "Result Track Name": "His Song",
+        "Result Artist Names": [
+            "Stina Nordenstam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56zLMVhiSVyX9RP6IC4tEr",
+        "Result Album Name": "Memories of a Color"
     },
     {
         "Title": "Chechen Rebels",
@@ -211,7 +333,15 @@
         "MoWeEd Track": "Everywhere You Turn",
         "MoWeEd Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "Everywhere You Turn",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zCKhsL8U80GykZn263DU5",
+        "Result Album Name": "These Are The Vistas"
     },
     {
         "Title": "George W. Bush Dolls",
@@ -223,19 +353,43 @@
         "MoWeEd Track": "Dance of the Praying Mantis",
         "MoWeEd Artists": [
             "Neptune Quartet"
-        ]
+        ],
+        "Result Track Name": "Dance of the Praying Mantis",
+        "Result Artist Names": [
+            "The Neptune Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GminC1gzE8yR67Wo821l2",
+        "Result Album Name": "Lonesome Cactus Groove"
     },
     {
         "MoWeEd Track": "Remedy for the Rising Moon",
         "MoWeEd Artists": [
             "Peace by Piece"
-        ]
+        ],
+        "Result Track Name": "Remedy for the Rising Moon",
+        "Result Artist Names": [
+            "Peace by Piece"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pKmhwv4lsDMrFNR6HEIEi",
+        "Result Album Name": "Peace by Piece"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Recordings Stuck in the Analog Age",
@@ -253,7 +407,12 @@
         "MoWeEd Track": "Passage From \"turnings\"",
         "MoWeEd Artists": [
             "Christopher Taylor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "North Korea",
@@ -265,6 +424,11 @@
         "MoWeEd Track": "Thursday 3:44pm (Playground)",
         "MoWeEd Artists": [
             "John Hollenbeck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

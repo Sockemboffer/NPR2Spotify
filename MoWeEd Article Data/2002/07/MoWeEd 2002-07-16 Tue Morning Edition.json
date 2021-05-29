@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-07-16",
         "Day": "Tue",
-        "Scanned Date": "2021-05-28 13:35:33"
+        "Scanned Date": "2021-05-28 13:35:33",
+        "Playlist URI": "1gYhMBb8dJQtSDFp7rN6s2",
+        "Playlist Link": "https://open.spotify.com/playlist/1gYhMBb8dJQtSDFp7rN6s2",
+        "Snapshot ID": "MSw2MjQ0ZWRiNjliOGVlNTBjZThkZDk5ZWIyOWJjNDE5OGViN2YzY2Ey",
+        "Playlist Name": "MoWeEd 2002-07-16 Tue Morning Edition"
     },
     {
         "Title": "War Lessons",
@@ -18,13 +22,29 @@
             "Herbie Mann",
             "Terra",
             "Sona"
-        ]
+        ],
+        "Result Track Name": "Passing Through",
+        "Result Artist Names": [
+            "Herbie Mann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0Ygv4vyyxHmlc6A93Qln0B",
+        "Result Album Name": "Herbie Mann & Sona Terra / Eastern European Roots"
     },
     {
         "MoWeEd Track": "Wildwood Flower",
         "MoWeEd Artists": [
             "The Carter Family"
-        ]
+        ],
+        "Result Track Name": "Wildwood Flower",
+        "Result Artist Names": [
+            "The Carter Family"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LXh42hEpcVLKtUgVkiKZi",
+        "Result Album Name": "Can The Circle Be Unbroken: Country Music's First Family"
     },
     {
         "Title": "Healthcare Crusader",
@@ -36,7 +56,12 @@
         "MoWeEd Track": "Midland",
         "MoWeEd Artists": [
             "Billy Childs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "HMOs and Hollywood",
@@ -46,7 +71,12 @@
     },
     {
         "MoWeEd Track": "Moments Musicaux (6) for piano, Op. 16",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Country Music's First Family",
@@ -70,7 +100,15 @@
         "MoWeEd Track": "Ashleen",
         "MoWeEd Artists": [
             "Tony Monaco"
-        ]
+        ],
+        "Result Track Name": "Ashleen",
+        "Result Artist Names": [
+            "Tony Monaco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NfFSFAKFX5ltdi5B0CNFh",
+        "Result Album Name": "Burnin' Grooves"
     },
     {
         "Title": "Homeland Security",
@@ -88,13 +126,26 @@
         "MoWeEd Track": "Eight Dreamscapes: Skeleton",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Skeleton",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2oZb9H3tvkyVhxjWN1nush",
+        "Result Album Name": "Denouement"
     },
     {
         "MoWeEd Track": "Sonata no. 5 in C major, op.38/135: Un poco allegretto",
         "MoWeEd Artists": [
             "Anne-Marie McDermott"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "John Walker Lindh",
@@ -112,7 +163,15 @@
         "MoWeEd Track": "The Melting Sun",
         "MoWeEd Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Melting Sun",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YImp6DeEgxWlpyvRSFCrQ",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "Stock Market",
@@ -125,7 +184,12 @@
         "MoWeEd Artists": [
             "Gene Harris",
             "Jack McDuff"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East",
@@ -144,14 +208,27 @@
         "MoWeEd Artists": [
             "Badmarsh",
             "Shri"
-        ]
+        ],
+        "Result Track Name": "The Asian Detective",
+        "Result Artist Names": [
+            "Badmarsh & Shri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IrEfUZ0uzoDZrdsuw4QBl",
+        "Result Album Name": "Dancing Drums"
     },
     {
         "MoWeEd Track": "Blues for Ray",
         "MoWeEd Artists": [
             "Ray Brown Trio",
             "Ulf Wakenius"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Roy Rogers Move",

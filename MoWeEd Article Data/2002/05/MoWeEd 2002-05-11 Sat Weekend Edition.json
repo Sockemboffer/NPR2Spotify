@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-05-11",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:40:39"
+        "Scanned Date": "2021-05-28 13:40:39",
+        "Playlist URI": "0zyy4tUaM7zdmoryaG46z4",
+        "Playlist Link": "https://open.spotify.com/playlist/0zyy4tUaM7zdmoryaG46z4",
+        "Snapshot ID": "MSxmMTlhYTA3NjU5NDU0YmRiZDI1NTkwZTliMDc1ZDQzZjM1MDJkM2Zl",
+        "Playlist Name": "MoWeEd 2002-05-11 Sat Weekend Edition"
     },
     {
         "Title": "Gaza",
@@ -28,14 +32,27 @@
         "MoWeEd Track": "Dream State",
         "MoWeEd Artists": [
             "Paul Taylor"
-        ]
+        ],
+        "Result Track Name": "Dream State",
+        "Result Artist Names": [
+            "Paul Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XUyz3ttsUfHcqLGJV0Xds",
+        "Result Album Name": "Hypnotic"
     },
     {
         "MoWeEd Track": "Doin' Something",
         "MoWeEd Artists": [
             "Alan Evans",
             "Neal Evans et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mississippi: Mecca for Lawsuits?",
@@ -65,13 +82,31 @@
         "MoWeEd Track": "Letters",
         "MoWeEd Artists": [
             "Bj Liederman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Kalinda",
         "MoWeEd Artists": [
             "Andy Narell"
-        ]
+        ],
+        "Result Track Name": "Kalinda (feat. Louis Mhlanga, Denny Lalouette, Rob Watson, Andile Yenana & Basi Mahlasela)",
+        "Result Artist Names": [
+            "Andy Narell",
+            "Louis Mhlanga",
+            "Denny Lalouette",
+            "Rob Watson",
+            "Andile Yenana",
+            "Basi Mahlasela"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00nAI5JL1UxKHuLzm3POnk",
+        "Result Album Name": "Live in South Africa"
     },
     {
         "Title": "TV Shows on the Bubble",
@@ -107,13 +142,27 @@
         "MoWeEd Track": "I'm Left, You're Right, She's Gone (my Baby's Gone)",
         "MoWeEd Artists": [
             "Elvis Presley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Trio for Violin, Cello and Piano: Tempo Di Marcia",
         "MoWeEd Artists": [
             "Ahn Trio"
-        ]
+        ],
+        "Result Track Name": "Trio for Violin, Cello & Piano - 1937: II. Tempo di Marcia",
+        "Result Artist Names": [
+            "Leonard Bernstein",
+            "Ahn Trio"
+        ],
+        "Result Track-Match Percent": 0.8421052631578947,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2BXS36o5ktnRYTDfQ5itER",
+        "Result Album Name": "Ahn-Plugged"
     },
     {
         "Title": "Cuba and Biological Weapons",
@@ -138,7 +187,15 @@
         "MoWeEd Artists": [
             "Muggsy Spanier",
             "His Ragtime Band"
-        ]
+        ],
+        "Result Track Name": "That Da Da Strain",
+        "Result Artist Names": [
+            "Muggsy Spanier's Ragtime Band"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3ZYjrTax74DOeMd5YFbV4J",
+        "Result Album Name": "The Great 16"
     },
     {
         "Title": "Canadian Geese",

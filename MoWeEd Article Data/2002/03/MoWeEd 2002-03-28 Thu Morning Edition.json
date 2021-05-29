@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-03-28",
         "Day": "Thu",
-        "Scanned Date": "2021-05-28 13:47:34"
+        "Scanned Date": "2021-05-28 13:47:34",
+        "Playlist URI": "1rrZzPL3h25YWwQ60qZHf2",
+        "Playlist Link": "https://open.spotify.com/playlist/1rrZzPL3h25YWwQ60qZHf2",
+        "Snapshot ID": "MSxhODk4ZWYyNjExYWI1ZTI0MGExZjU2N2ZkMDEyMWM4YTczYzJjOGFk",
+        "Playlist Name": "MoWeEd 2002-03-28 Thu Morning Edition"
     },
     {
         "Title": "Immigrant Scotus",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "String Quartet In G major, op. 76 no. 1: Adagio sostenuto",
         "MoWeEd Artists": [
             "Takacs String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Search for Peace",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Search For Peace",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SCDV2bUe77Gb88kC3k1d3",
+        "Result Album Name": "Now"
     },
     {
         "Title": "China Eclipses Japan",
@@ -42,7 +59,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Milton Berle Obit",
@@ -54,7 +76,12 @@
         "MoWeEd Track": "Holiday for Strings",
         "MoWeEd Artists": [
             "London Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Drought Development",
@@ -73,13 +100,26 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "The Amsterdam Baroque Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Refraction",
         "MoWeEd Artists": [
             "John Toomy Trio"
-        ]
+        ],
+        "Result Track Name": "Refraction",
+        "Result Artist Names": [
+            "The John Toomey Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:0Ww7WnG1qTsf4MtjDP6x1Z",
+        "Result Album Name": "Refraction"
     },
     {
         "Title": "Russian TV",
@@ -97,7 +137,15 @@
         "MoWeEd Track": "Lifestyles of the Casual",
         "MoWeEd Artists": [
             "The Other People Place"
-        ]
+        ],
+        "Result Track Name": "Lifestyles Of The Casual",
+        "Result Artist Names": [
+            "The Other People Place"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NS4NriiHPTyGPxlGgoT8E",
+        "Result Album Name": "Lifestyles Of The Laptop Café"
     },
     {
         "Title": "Middle East",
@@ -115,13 +163,29 @@
         "MoWeEd Track": "Toujours",
         "MoWeEd Artists": [
             "John Boswell"
-        ]
+        ],
+        "Result Track Name": "Toujours",
+        "Result Artist Names": [
+            "John Boswell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7I3iOzv4RC91ThlhZLJKoZ",
+        "Result Album Name": "Reflections of John Boswell"
     },
     {
         "MoWeEd Track": "Django",
         "MoWeEd Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "Django",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T6C54rbleY0fqtxfDNSSc",
+        "Result Album Name": "Evolution II"
     },
     {
         "Title": "401k Reforms",
@@ -139,7 +203,15 @@
         "MoWeEd Track": "Rockin Chair",
         "MoWeEd Artists": [
             "Fats Waller"
-        ]
+        ],
+        "Result Track Name": "Rockin' Chair",
+        "Result Artist Names": [
+            "Fats Domino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5cFx2OozOBfJdQGYVHQ2oQ",
+        "Result Album Name": "The Complete Imperial Singles"
     },
     {
         "Title": "Dudley Moore Obit",
@@ -151,7 +223,12 @@
         "MoWeEd Track": "Boléro",
         "MoWeEd Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Afghan Quake",
@@ -169,20 +246,41 @@
         "MoWeEd Track": "Ripple",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Ripple",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2T6zV8cuqDMh0fFdLkaHKd",
+        "Result Album Name": "The Water Garden"
     },
     {
         "MoWeEd Track": "Noche de Ronda (Nigth of Wandering)",
         "MoWeEd Artists": [
             "Charlie Haden",
             "Gonzalo Rubalcaba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "South of the Border",
         "MoWeEd Artists": [
             "Joe Lovano"
-        ]
+        ],
+        "Result Track Name": "South Of The Border",
+        "Result Artist Names": [
+            "Joe Lovano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1A2VweA0GN0aHgAotwV4LA",
+        "Result Album Name": "Celebrating Sinatra"
     },
     {
         "Title": "'Y Tu Mama Tambien'",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-11-20",
         "Day": "Wed",
-        "Scanned Date": "2021-05-28 13:25:01"
+        "Scanned Date": "2021-05-28 13:25:01",
+        "Playlist URI": "2oB0zuXvUg4ItS8PbSZpXB",
+        "Playlist Link": "https://open.spotify.com/playlist/2oB0zuXvUg4ItS8PbSZpXB",
+        "Snapshot ID": "MSxiZDg0MTJkMjlmYzExMzUyMDE0MmUzYmUyYTcyMmFiMGQ5NGMwOTNi",
+        "Playlist Name": "MoWeEd 2002-11-20 Wed Morning Edition"
     },
     {
         "Title": "Senate Passes Homeland Security Bill",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Tute Excursion",
         "MoWeEd Artists": [
             "Marlon Jordan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Al Gore Interview",
@@ -52,7 +61,12 @@
         "MoWeEd Track": "Crazy's Relative",
         "MoWeEd Artists": [
             "Dena Dorais"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Economy, Scandals Cast Shadow on MBA Recruitment",
@@ -70,7 +84,12 @@
         "MoWeEd Track": "Big Chief",
         "MoWeEd Artists": [
             "Dixie Power Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush at NATO Summit",
@@ -88,7 +107,12 @@
         "MoWeEd Track": "The Commute",
         "MoWeEd Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Airport Security",
@@ -112,7 +136,15 @@
         "MoWeEd Track": "Tombeau (Elegy)",
         "MoWeEd Artists": [
             "Laurence Juber"
-        ]
+        ],
+        "Result Track Name": "Tombeau (Elegy)",
+        "Result Artist Names": [
+            "Laurence Juber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KsUfgSMyVX4TT3nHAiFNQ",
+        "Result Album Name": "Naked Solos"
     },
     {
         "Title": "New Oppositon Leader in Israel Supports Peace ",
@@ -124,7 +156,15 @@
         "MoWeEd Track": "The Red Vapour of Still Lakes",
         "MoWeEd Artists": [
             "Emerald Web"
-        ]
+        ],
+        "Result Track Name": "The Red Vapour Of Still Lakes",
+        "Result Artist Names": [
+            "Emerald Web"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FcBo2S6eh2LmfzkVuN0PX",
+        "Result Album Name": "Manatee Dreams Of Neptune"
     },
     {
         "Title": "New York's Bloomberg Works to Bring Down Da Noise",

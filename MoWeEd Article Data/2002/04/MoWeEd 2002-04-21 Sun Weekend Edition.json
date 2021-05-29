@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-04-21",
         "Day": "Sun",
-        "Scanned Date": "2021-05-28 13:44:19"
+        "Scanned Date": "2021-05-28 13:44:19",
+        "Playlist URI": "2n5xyImpseiaqofH2bhwb0",
+        "Playlist Link": "https://open.spotify.com/playlist/2n5xyImpseiaqofH2bhwb0",
+        "Snapshot ID": "MSxhNGYyZjQ1ZWNmMzM0YWM0NTA5MDhjNGMwZmU1NWUyM2VlMjgyNTU0",
+        "Playlist Name": "MoWeEd 2002-04-21 Sun Weekend Edition"
     },
     {
         "Title": "Voices In the News",
@@ -17,7 +21,12 @@
         "MoWeEd Artists": [
             "Greg Smith",
             "Richard Krentz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israeli Withdrawl",
@@ -35,20 +44,45 @@
         "MoWeEd Track": "Temple Caves",
         "MoWeEd Artists": [
             "Mickey Hart"
-        ]
+        ],
+        "Result Track Name": "Temple Caves",
+        "Result Artist Names": [
+            "Mickey Hart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KaNzLaaWkyhRn9eDYI0ug",
+        "Result Album Name": "Planet Drum (25th Anniversary)"
     },
     {
         "MoWeEd Track": "Blue Little Flower",
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Silk Road Ensemble"
-        ]
+        ],
+        "Result Track Name": "Blue Little Flower (Chinese Traditional)",
+        "Result Artist Names": [
+            "Traditional",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:0TOyhgTp9sVUh5dnRBWB52",
+        "Result Album Name": "Silk Road Journeys: When Strangers Meet"
     },
     {
         "MoWeEd Track": "La Nina Bonita",
         "MoWeEd Artists": [
             "David Leonhardt"
-        ]
+        ],
+        "Result Track Name": "La Nina Bonita",
+        "Result Artist Names": [
+            "David Leonhardt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KuX6jUW3FZZaoWMSHQRIZ",
+        "Result Album Name": "Reflections"
     },
     {
         "Title": "Religious Laws",
@@ -78,19 +112,40 @@
         "MoWeEd Track": "Lemon [Perfecto Mix]",
         "MoWeEd Artists": [
             "U2"
-        ]
+        ],
+        "Result Track Name": "Lemon",
+        "Result Artist Names": [
+            "U2"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GtaFJ4Zx7TEBU8yUXtdOx",
+        "Result Album Name": "Zooropa"
     },
     {
         "MoWeEd Track": "Feeling Good [Joe Clausell Remix]",
         "MoWeEd Artists": [
             "Nina Simone"
-        ]
+        ],
+        "Result Track Name": "Feeling Good - Joe Claussell Remix",
+        "Result Artist Names": [
+            "Nina Simone"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gHsNIIYd1WLHeEmmyikaK",
+        "Result Album Name": "Verve Remixed"
     },
     {
         "MoWeEd Track": "1177",
         "MoWeEd Artists": [
             "Marc Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle",
@@ -102,7 +157,17 @@
         "MoWeEd Track": "Lost In Space",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Theme (From \"Lost in Space\") [1967 Version] [Arr. R. Pellett]",
+        "Result Artist Names": [
+            "John Williams",
+            "Cincinnati Pops Orchestra",
+            "John Morris Russell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UjSMAuT5xKQMlqdYHZzTZ",
+        "Result Album Name": "Voyage"
     },
     {
         "Title": "Da Chen",
@@ -114,7 +179,15 @@
         "MoWeEd Track": "Temple Caves",
         "MoWeEd Artists": [
             "Mickey Hart"
-        ]
+        ],
+        "Result Track Name": "Temple Caves",
+        "Result Artist Names": [
+            "Mickey Hart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KaNzLaaWkyhRn9eDYI0ug",
+        "Result Album Name": "Planet Drum (25th Anniversary)"
     },
     {
         "Title": "Jenin",
@@ -132,19 +205,40 @@
         "MoWeEd Track": "Iyakutanda",
         "MoWeEd Artists": [
             "Rachel Z"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Big Sky",
         "MoWeEd Artists": [
             "Matthew Sweet"
-        ]
+        ],
+        "Result Track Name": "Big Sky",
+        "Result Artist Names": [
+            "Matthew Sweet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XRCpbH3rf49TfEs0YISAa",
+        "Result Album Name": "This Is Where I Belong: The Songs of Ray Davies & The Kinks"
     },
     {
         "MoWeEd Track": "The Cry and the Smile",
         "MoWeEd Artists": [
             "Nando Lauria"
-        ]
+        ],
+        "Result Track Name": "The Cry And The Smile",
+        "Result Artist Names": [
+            "Nando Lauria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ailZyE4MFpaQ52xzoJZq9",
+        "Result Album Name": "Novo Brasil Points Of View (Brazilian Jazz)"
     },
     {
         "Title": "Cardinals Meeting",
@@ -168,7 +262,12 @@
         "MoWeEd Track": "Diu Diu Dong",
         "MoWeEd Artists": [
             "Yo-yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mystery Bird",
@@ -180,19 +279,43 @@
         "MoWeEd Track": "Wedding Song (Ke Kali Ne Au)",
         "MoWeEd Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "The Hawaiian Wedding Song (Ke Kali Nei Au)",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 0.7142857142857143,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VtE2ckdY9KuQi6miH1IY9",
+        "Result Album Name": "Exotica Volume II"
     },
     {
         "MoWeEd Track": "Victoria",
         "MoWeEd Artists": [
             "Cracker"
-        ]
+        ],
+        "Result Track Name": "Victoria",
+        "Result Artist Names": [
+            "Cracker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yNEhKMWZL1eEIr6M8ogRV",
+        "Result Album Name": "This Is Where I Belong: The Songs of Ray Davies & The Kinks"
     },
     {
         "MoWeEd Track": "Black Narcissus",
         "MoWeEd Artists": [
             "Joe Henderson"
-        ]
+        ],
+        "Result Track Name": "Black Narcissus",
+        "Result Artist Names": [
+            "Joe Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IbZO1Ml6LyntT83JZ2VG4",
+        "Result Album Name": "Power To The People [Keepnews Collection] (Remastered)"
     },
     {
         "Title": "Covering The Kinks",
@@ -204,6 +327,14 @@
         "MoWeEd Track": "This Is Where I Belong",
         "MoWeEd Artists": [
             "Ron Sexsmith"
-        ]
+        ],
+        "Result Track Name": "This Is Where I Belong",
+        "Result Artist Names": [
+            "Ron Sexsmith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FSbQsIydDES8xZrV1kBk1",
+        "Result Album Name": "This Is Where I Belong: The Songs of Ray Davies & The Kinks"
     }
 ]

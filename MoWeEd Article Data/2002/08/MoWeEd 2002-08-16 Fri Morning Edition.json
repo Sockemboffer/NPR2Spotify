@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-08-16",
         "Day": "Fri",
-        "Scanned Date": "2021-05-28 13:32:45"
+        "Scanned Date": "2021-05-28 13:32:45",
+        "Playlist URI": "0AHarrp9xdIEnIW1cz5Ups",
+        "Playlist Link": "https://open.spotify.com/playlist/0AHarrp9xdIEnIW1cz5Ups",
+        "Snapshot ID": "MSxhYTk3OGE2ODA0MGY1YzQzZjc3NDE4MzcwNGRmMTkwZDI4Y2YwYWMw",
+        "Playlist Name": "MoWeEd 2002-08-16 Fri Morning Edition"
     },
     {
         "Title": "Missouri Senate Race",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Ocean [Infectious Waves Mix]",
         "MoWeEd Artists": [
             "Monica Ramos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "German Floods",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Love At First Sight",
         "MoWeEd Artists": [
             "Zbigniew Zamachowski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jack Grubman",
@@ -58,7 +72,15 @@
         "MoWeEd Track": "Lake Isle",
         "MoWeEd Artists": [
             "Al Petteway"
-        ]
+        ],
+        "Result Track Name": "Lake Isle",
+        "Result Artist Names": [
+            "Al Petteway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1T1gj2roF6dO4D655CyEQE",
+        "Result Album Name": "The Waters And The Wild"
     },
     {
         "Title": "Dell Computer",
@@ -76,7 +98,15 @@
         "MoWeEd Track": "The Garden Gate",
         "MoWeEd Artists": [
             "Mary Martin Stockdale"
-        ]
+        ],
+        "Result Track Name": "The Garden Gate",
+        "Result Artist Names": [
+            "Mary Martin Stockdale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54ckzu5pYukHsfMFMnGPsx",
+        "Result Album Name": "Portraits on the Piano"
     },
     {
         "Title": "Pope to Poland",
@@ -94,7 +124,15 @@
         "MoWeEd Track": "Most Probably a Charleston",
         "MoWeEd Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": "Most Probably a Charleston",
+        "Result Artist Names": [
+            "Terem-Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4V7QMTjxAke0wo4VSfIsQo",
+        "Result Album Name": "No, Russia Cannot Be Perceived by Wit"
     },
     {
         "Title": "Selling Elvis to a New Generation",
@@ -112,7 +150,15 @@
         "MoWeEd Track": "Go Ahead-Try Me!",
         "MoWeEd Artists": [
             "Margie Adam"
-        ]
+        ],
+        "Result Track Name": "Go Ahead - Try Me",
+        "Result Artist Names": [
+            "Margie Adam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PaPhFahbptNNyyzzz3rqB",
+        "Result Album Name": "Soon and Again"
     },
     {
         "Title": "Barred Little Leaguers Return to World Series",
@@ -130,7 +176,15 @@
         "MoWeEd Track": "ALMOST 12",
         "MoWeEd Artists": [
             "BELA FLECK AND THE FLECKTONES"
-        ]
+        ],
+        "Result Track Name": "Almost 12",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1uoZKu1mDHe1LUsbamdqqU",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "Drive-In Movies",
@@ -148,6 +202,11 @@
         "MoWeEd Track": "Ständchen",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

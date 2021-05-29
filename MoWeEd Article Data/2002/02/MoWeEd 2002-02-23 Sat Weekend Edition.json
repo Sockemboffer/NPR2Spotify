@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2002-02-23",
         "Day": "Sat",
-        "Scanned Date": "2021-05-28 13:49:54"
+        "Scanned Date": "2021-05-28 13:49:54",
+        "Playlist URI": "5onniaYqDv5NItUrEe5OC0",
+        "Playlist Link": "https://open.spotify.com/playlist/5onniaYqDv5NItUrEe5OC0",
+        "Snapshot ID": "MSwwYWEyMGQxNDc0ZTY4MGU1MzFmN2Y3ZmU2NzVhZTg0NTkwMDdiZjc3",
+        "Playlist Name": "MoWeEd 2002-02-23 Sat Weekend Edition"
     },
     {
         "Title": "Mideast",
@@ -28,13 +32,23 @@
         "MoWeEd Track": "Nubarrón",
         "MoWeEd Artists": [
             "Madera"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Of Thee I Sing",
         "MoWeEd Artists": [
             "Allan Chase"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Let Girls Jump",
@@ -59,7 +73,12 @@
         "MoWeEd Artists": [
             "Alan Evans",
             "Neal Evans et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pantyhose",
@@ -71,7 +90,15 @@
         "MoWeEd Track": "Travels",
         "MoWeEd Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Travels",
+        "Result Artist Names": [
+            "Alan Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:11vLLZKF6qBOLUoI2r9UOG",
+        "Result Album Name": "Mark Twain's America (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "African-Americans, Psychotherapy & Spirituality",
@@ -83,7 +110,12 @@
         "MoWeEd Track": "Fossil in Paradise",
         "MoWeEd Artists": [
             "Harry Miller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "North Dakota Journal",
@@ -107,14 +139,31 @@
         "MoWeEd Track": "Spirit in the Dark",
         "MoWeEd Artists": [
             "Aretha Franklin"
-        ]
+        ],
+        "Result Track Name": "Spirit in the Dark",
+        "Result Artist Names": [
+            "Aretha Franklin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wGvueGYFPUmQUtVglgcPt",
+        "Result Album Name": "Spirit in the Dark"
     },
     {
         "MoWeEd Track": "Crystal Silence",
         "MoWeEd Artists": [
             "Gary Burton",
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": "Crystal Silence",
+        "Result Artist Names": [
+            "Gary Burton",
+            "Chick Corea"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Hq8J28icckPCfVBH1kSJD",
+        "Result Album Name": "Crystal Silence"
     },
     {
         "Title": "Jonas Savimbi",
@@ -132,7 +181,15 @@
         "MoWeEd Track": "The Rising Moon",
         "MoWeEd Artists": [
             "Paul Sullivan"
-        ]
+        ],
+        "Result Track Name": "The Rising Moon",
+        "Result Artist Names": [
+            "Paul Sullivan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:36bgTwL7eNumdfjrPXLJcm",
+        "Result Album Name": "A Paul Sullivan Collection"
     },
     {
         "Title": "Cow On the Lam",
@@ -144,7 +201,15 @@
         "MoWeEd Track": "Three Keys",
         "MoWeEd Artists": [
             "James Booker"
-        ]
+        ],
+        "Result Track Name": "Three Keys",
+        "Result Artist Names": [
+            "James Booker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35QceNjp9CiCYV0Er5KaW2",
+        "Result Album Name": "Classified (Remixed & Expanded Edition)"
     },
     {
         "Title": "Office Plants",

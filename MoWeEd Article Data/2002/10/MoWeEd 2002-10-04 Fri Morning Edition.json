@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-10-04",
         "Day": "Fri",
-        "Scanned Date": "2021-05-28 13:26:18"
+        "Scanned Date": "2021-05-28 13:26:18",
+        "Playlist URI": "7dNPvPeDSbGM8FUrYXKTfC",
+        "Playlist Link": "https://open.spotify.com/playlist/7dNPvPeDSbGM8FUrYXKTfC",
+        "Snapshot ID": "MSwzNmZjMWRiNTQ4N2VmNThjOTg2OTBlYWZkNDI0YjNlZGQ4NDFkZWI5",
+        "Playlist Name": "MoWeEd 2002-10-04 Fri Morning Edition"
     },
     {
         "Title": "Weakened Lili Leaves Louisiana Bruised but Relieved",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Traveller [Once Upon a Time in the East Mix]",
         "MoWeEd Artists": [
             "Talvin Singh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rethinking the Anthrax Attacks",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "Miss Haymes",
         "MoWeEd Artists": [
             "Durutti Column"
-        ]
+        ],
+        "Result Track Name": "Miss Haymes",
+        "Result Artist Names": [
+            "The Durutti Column"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5d57ZhRHT91C67TPxZ27bk",
+        "Result Album Name": "The Guitar and Other Machines"
     },
     {
         "Title": "Film: Animated Veggies Do the Bible's 'Jonah'",
@@ -64,7 +81,15 @@
         "MoWeEd Track": "Tico Tico",
         "MoWeEd Artists": [
             "Grant Green"
-        ]
+        ],
+        "Result Track Name": "Tico Tico - Rudy Van Gelder Edition / Remastered 2007",
+        "Result Artist Names": [
+            "Grant Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iONIItpZzCnuRnUEtlPkG",
+        "Result Album Name": "The Latin Bit (Remastered)"
     },
     {
         "Title": "Iraq Resolution Debate",
@@ -82,7 +107,15 @@
         "MoWeEd Track": "All That We Perceive",
         "MoWeEd Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "All That We Perceive",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50b1SWqzBcwIpBropLMh0o",
+        "Result Album Name": "The Richest Man In Babylon"
     },
     {
         "Title": "N.J. Election Dispute to U.S. Supreme Court",
@@ -106,7 +139,15 @@
         "MoWeEd Track": "Language Lab",
         "MoWeEd Artists": [
             "Saint Etienne"
-        ]
+        ],
+        "Result Track Name": "Language Lab",
+        "Result Artist Names": [
+            "Saint Etienne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XkxNbCpqPS1DdwuI8d1bK",
+        "Result Album Name": "Finisterre"
     },
     {
         "Title": "TechnoPop: The Secret History of Technology and Pop Music, III",
@@ -130,6 +171,11 @@
         "MoWeEd Track": "Male James Bonding",
         "MoWeEd Artists": [
             "Doctor Rockit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

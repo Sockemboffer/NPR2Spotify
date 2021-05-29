@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2002-05-31",
         "Day": "Fri",
-        "Scanned Date": "2021-05-28 13:42:26"
+        "Scanned Date": "2021-05-28 13:42:26",
+        "Playlist URI": "3NbyyxngmX8SIhvsNCF6eb",
+        "Playlist Link": "https://open.spotify.com/playlist/3NbyyxngmX8SIhvsNCF6eb",
+        "Snapshot ID": "MSw5MmRiNzYyMjMzNzRmYTkzNGZlYjNjMjg5Njc5NjNhNjkxYTMyZDFj",
+        "Playlist Name": "MoWeEd 2002-05-31 Fri Morning Edition"
     },
     {
         "Title": "India-Pakistan Tension",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Boogie for Hanuman",
         "MoWeEd Artists": [
             "Antigravity"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Air Security",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Dat Dere",
         "MoWeEd Artists": [
             "Art Blakley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pine Ridge Hoops",
@@ -52,7 +66,15 @@
         "MoWeEd Track": "Aquarhythms [Following the Clouds]",
         "MoWeEd Artists": [
             "Ottmar Liebert"
-        ]
+        ],
+        "Result Track Name": "Aquarhythms/Following the Clouds",
+        "Result Artist Names": [
+            "Ottmar Liebert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gIpt1IHVknptchIdcWVk8",
+        "Result Album Name": "INNAMORARE / Summer Flamenco"
     },
     {
         "Title": "Older Graduates",
@@ -82,7 +104,15 @@
         "MoWeEd Track": "Put Off",
         "MoWeEd Artists": [
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "Put Off",
+        "Result Artist Names": [
+            "The Milt Jackson Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DuhgjyR1kDTV5B1o9ZWPL",
+        "Result Album Name": "Statements"
     },
     {
         "Title": "FBI Surveillance",
@@ -100,7 +130,16 @@
         "MoWeEd Track": "The Golden Horn",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "The Golden Horn - Remastered",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet",
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4A5ZF7vFyes99A5JGB00h0",
+        "Result Album Name": "Jazz Impressions Of Eurasia"
     },
     {
         "Title": "Angola Starvation",
@@ -118,7 +157,16 @@
         "MoWeEd Track": "Maki",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Maki",
+        "Result Artist Names": [
+            "PAUL-BERT 'ROSSY' RAHASIMANANA",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17rqVrp8r2E2qkcTAdvuTP",
+        "Result Album Name": "The Magic Box"
     },
     {
         "Title": "Mt. Hood Rescue",
@@ -142,7 +190,15 @@
         "MoWeEd Track": "Black Coffee",
         "MoWeEd Artists": [
             "Marcus Printup"
-        ]
+        ],
+        "Result Track Name": "Black Coffee",
+        "Result Artist Names": [
+            "Marcus Printup"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AOP8eX4VnLUtVuQU4BLyB",
+        "Result Album Name": "Nocturnal Traces"
     },
     {
         "Title": "The Hamptons",
@@ -154,6 +210,14 @@
         "MoWeEd Track": "Smoke",
         "MoWeEd Artists": [
             "Medeski Martin and Wood"
-        ]
+        ],
+        "Result Track Name": "Smoke",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CRNS3ess6Z8LRu0Hak1xo",
+        "Result Album Name": "Uninvisible"
     }
 ]
