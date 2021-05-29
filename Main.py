@@ -10,7 +10,7 @@ from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-startDate = datetime(2002, 2, 1)
+startDate = datetime(2002, 12, 28)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -18,7 +18,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate != datetime(2002, 5, 1):
+while startDate != datetime(2003, 1, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -50,17 +50,17 @@ while startDate != datetime(2002, 5, 1):
                 break
         # Create a new playlist and search tracks
         if playlistEntry == False and trackEntry == True:
+            # Search interlude tracks and add results back into edition data
+            for story, entry in enumerate(editionDay):
+                if searchKey in entry:
+                    track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+                    entry.update(track)
             response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
             editionDay[0]["Playlist URI"] = response["id"]
             editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
             editionDay[0]["Snapshot ID"] = response["snapshot_id"]
             editionDay[0]["Playlist Name"] = filename
             nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
-            # Search interlude tracks and add results back into edition data
-            for story, entry in enumerate(editionDay):
-                if searchKey in entry:
-                    track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
-                    entry.update(track)
             nprPlaylistCreator.AddTracksToPlaylist(editionDay)
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)

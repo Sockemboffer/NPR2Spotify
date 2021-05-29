@@ -7,6 +7,7 @@ from secrets import spotify_user_id, spotipyUserToken
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 
+# TODO figure out a way to re-make a session that times out
 class NPRPlaylistCreator:
 
     def __init__(self):
