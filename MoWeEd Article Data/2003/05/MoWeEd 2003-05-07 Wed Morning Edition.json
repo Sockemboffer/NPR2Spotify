@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-05-07",
         "Day": "Wed",
-        "Scanned Date": "2021-05-29 16:03:33"
+        "Scanned Date": "2021-05-29 16:03:33",
+        "Playlist URI": "18ewZRneMWYp99lGDqMjc3",
+        "Playlist Link": "https://open.spotify.com/playlist/18ewZRneMWYp99lGDqMjc3",
+        "Snapshot ID": "MSw0M2M2MTI2MDk5YmJjYjg5YWI0NDYzYjk1ODY1NWNhMzUxNTFjMjky",
+        "Playlist Name": "MoWeEd 2003-05-07 Wed Morning Edition"
     },
     {
         "Title": "WHO Probes SARS in Rural China",
@@ -23,13 +27,26 @@
         "MoWeEd Artists": [
             "Yo-yo Ma",
             "Kathryn Stott"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "My Old Flame",
         "MoWeEd Artists": [
             "Charlie Parker"
-        ]
+        ],
+        "Result Track Name": "My Old Flame",
+        "Result Artist Names": [
+            "Charlie Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qyYE0MZUhzwCeOJBXXJfA",
+        "Result Album Name": "The Platinum Collection"
     },
     {
         "Title": "'Random Family'",
@@ -41,7 +58,15 @@
         "MoWeEd Track": "Beautiful",
         "MoWeEd Artists": [
             "Ron Miles"
-        ]
+        ],
+        "Result Track Name": "Beautiful",
+        "Result Artist Names": [
+            "Ron Miles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hzqR8QuExJgagNkn7ow1v",
+        "Result Album Name": "Heaven"
     },
     {
         "Title": "Morning Edition Returns: Old Glory ",
@@ -59,7 +84,15 @@
         "MoWeEd Track": "Voices In My Head",
         "MoWeEd Artists": [
             "Dino Pacifici"
-        ]
+        ],
+        "Result Track Name": "Voices in My Head",
+        "Result Artist Names": [
+            "Dino Pacifici"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lgnnync5as9d7v8WZpm4f",
+        "Result Album Name": "The Blue Velvet Louge"
     },
     {
         "Title": "L.A. Mayor Seeks to Expand Law Enforcement",
@@ -77,7 +110,12 @@
         "MoWeEd Track": "Novelette",
         "MoWeEd Artists": [
             "Artis Wodehouse"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Modified Tax-Cut Plan",
@@ -95,7 +133,15 @@
         "MoWeEd Track": "Whatcha See Is Whatcha Get",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Whatcha See Is Whatcha Get",
+        "Result Artist Names": [
+            "The John Scofield Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SVyVgr944qPt1JWa9i119",
+        "Result Album Name": "Up All Night"
     },
     {
         "Title": "Halliburton Oil Contract",
@@ -115,13 +161,26 @@
             "Rob Turner",
             "Kevin Bushee",
             "Lynanne Wilson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Ain't Chet Yet",
         "MoWeEd Artists": [
             "Ray Benson"
-        ]
+        ],
+        "Result Track Name": "Ain't Chet Yet",
+        "Result Artist Names": [
+            "Ray Benson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5E8rbxRBYhE7mVEm2TBAwn",
+        "Result Album Name": "Beyond Time"
     },
     {
         "Title": "Morning Edition Returns: Hockey Rules",
@@ -145,7 +204,15 @@
         "MoWeEd Track": "Hidden Places",
         "MoWeEd Artists": [
             "Karunesh"
-        ]
+        ],
+        "Result Track Name": "Hidden Places",
+        "Result Artist Names": [
+            "Karunesh"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lwQqOWtXllNn43dZcE7sD",
+        "Result Album Name": "Secrets Of Life"
     },
     {
         "Title": "Residents Assess Tornado Damage",
@@ -158,7 +225,17 @@
         "MoWeEd Artists": [
             "New York Philharmonic",
             "Leonard Bernstein"
-        ]
+        ],
+        "Result Track Name": "Pictures at an Exhibition: IX. La cabane de Baba-Yaga sur des pattes de poule (The hut of Baba-Yaga on chicken's legs). Allegro con brio, feroce - Andante mosso - Allegro molto",
+        "Result Artist Names": [
+            "Modest Mussorgsky",
+            "Thomas Schippers",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2fE8iQDwUkFv16KvnZMVmS",
+        "Result Album Name": "Prokofiev: Alexander Nevsky; Mussorgsky: Pictures at an Exhibition"
     },
     {
         "Title": "Yellowstone Whistleblower Fights Park Service",
@@ -176,13 +253,29 @@
         "MoWeEd Track": "Filthy Teddy",
         "MoWeEd Artists": [
             "Roy Buchanan"
-        ]
+        ],
+        "Result Track Name": "Filthy Teddy",
+        "Result Artist Names": [
+            "Roy Buchanan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vWC1jJL3lNuB4LhxLGqHt",
+        "Result Album Name": "Second Album"
     },
     {
         "MoWeEd Track": "Bury Me Not",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Bury Me Not",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6WzU8xBMTI0hOS3VXekZgH",
+        "Result Album Name": "Now and Then: Folk Songs for the 21st Century"
     },
     {
         "Title": "Coco Mbassi",

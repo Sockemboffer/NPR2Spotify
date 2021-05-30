@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2003-01-11",
         "Day": "Sat",
-        "Scanned Date": "2021-05-29 16:15:13"
+        "Scanned Date": "2021-05-29 16:15:13",
+        "Playlist URI": "5lGwT4s3QEiAn0ZoRBmNyk",
+        "Playlist Link": "https://open.spotify.com/playlist/5lGwT4s3QEiAn0ZoRBmNyk",
+        "Snapshot ID": "MSw4NWQzOTg1NjkxY2VmZDE1NTNjYjQyNmExOGE1Y2ZjMzc0M2JlM2Zm",
+        "Playlist Name": "MoWeEd 2003-01-11 Sat Weekend Edition"
     },
     {
         "Title": "North Korea Considers Resuming Ballistic Missile Tests",
@@ -22,13 +26,29 @@
         "MoWeEd Track": "Dance of Eagle",
         "MoWeEd Artists": [
             "Sainkho Namtchylak"
-        ]
+        ],
+        "Result Track Name": "Dance of Eagle",
+        "Result Artist Names": [
+            "Sainkho Namtchylak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vhsHxPEJGVyXjnLNkow25",
+        "Result Album Name": "Stepmother City"
     },
     {
         "MoWeEd Track": "Lose Yourself",
         "MoWeEd Artists": [
             "Eminem"
-        ]
+        ],
+        "Result Track Name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+        "Result Artist Names": [
+            "Eminem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Z01UMMf7V1o0MzF86s6WJ",
+        "Result Album Name": "Curtain Call: The Hits (Deluxe Edition)"
     },
     {
         "Title": "Iraq: After a War",
@@ -46,7 +66,15 @@
         "MoWeEd Track": "Falling Pianos",
         "MoWeEd Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Falling Pianos",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tqy8l0ZESiYaO5uU6n5lc",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "Duke of York -- Setting the Record Straight",
@@ -64,7 +92,15 @@
         "MoWeEd Track": "Don't Wake Me",
         "MoWeEd Artists": [
             "The American Analog Set"
-        ]
+        ],
+        "Result Track Name": "Don't Wake Me",
+        "Result Artist Names": [
+            "The American Analog Set"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FC0c4aKctMATCf0APUZde",
+        "Result Album Name": "From Our Living Room To Yours"
     },
     {
         "Title": "'Law and Order' Game",
@@ -83,7 +119,15 @@
         "MoWeEd Artists": [
             "Grateful Dead",
             "Jerry Garcia et. al."
-        ]
+        ],
+        "Result Track Name": "Touch of Grey",
+        "Result Artist Names": [
+            "Grateful Dead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5YzzWlWfAVNvtduNDHKhHc",
+        "Result Album Name": "The Very Best of the Grateful Dead"
     },
     {
         "Title": "Daniel Schorr: The Week in Review",
@@ -101,7 +145,22 @@
         "MoWeEd Track": "Too Darn Hot",
         "MoWeEd Artists": [
             "Ann Miller"
-        ]
+        ],
+        "Result Track Name": "Too Darn Hot",
+        "Result Artist Names": [
+            "Ann Miller",
+            "Bill Lee",
+            "Hal Hopper",
+            "Bob Wacker",
+            "Gene Lanham",
+            "Mac McLain",
+            "Hermes Pan",
+            "Saul Chaplin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gvXGEptzVXyhHzGkcdHl6",
+        "Result Album Name": "Kiss Me Kate (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Illinois Governor's Death-Penalty Decisions",
@@ -125,7 +184,12 @@
         "MoWeEd Track": "Green Acres",
         "MoWeEd Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "DVD Rental Picks",
@@ -137,7 +201,16 @@
         "MoWeEd Track": "Paru River",
         "MoWeEd Artists": [
             "Uakti"
-        ]
+        ],
+        "Result Track Name": "Aguas da Amazonia: Paru River",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Uakti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fXNbEWlKaJDUEr5fajRzW",
+        "Result Album Name": "Philip Glass: Aguas da Amazonia"
     },
     {
         "Title": "NFL Playoffs: Refs' Miscue, QB Stars",
@@ -161,6 +234,14 @@
         "MoWeEd Track": "Number Three",
         "MoWeEd Artists": [
             "Ben Harper"
-        ]
+        ],
+        "Result Track Name": "Number Three",
+        "Result Artist Names": [
+            "Ben Harper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3llDF69bsiXYGXEfCnm0Fg",
+        "Result Album Name": "The Will To Live"
     }
 ]

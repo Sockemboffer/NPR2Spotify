@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-09-09",
         "Day": "Tue",
-        "Scanned Date": "2021-05-29 15:52:32"
+        "Scanned Date": "2021-05-29 15:52:32",
+        "Playlist URI": "7JFeOZ0pRfWJdPNqpOtcX3",
+        "Playlist Link": "https://open.spotify.com/playlist/7JFeOZ0pRfWJdPNqpOtcX3",
+        "Snapshot ID": "MSw0N2NlZjM2NjcxMmRiZDRjYWM0MzU2N2Y4NGRiZWU3MTU1NDY2MWMw",
+        "Playlist Name": "MoWeEd 2003-09-09 Tue Morning Edition"
     },
     {
         "Title": "Senate War Costs",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Elegy",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Somewhere",
         "MoWeEd Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "Somewhere",
+        "Result Artist Names": [
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TJKgrPinbXrqLZGnmLbY2",
+        "Result Album Name": "Love Songs"
     },
     {
         "Title": "U.N./Iraq ",
@@ -46,7 +63,12 @@
         "MoWeEd Track": "Hardheaded Rio A.k.a. Rio Cuca Dura",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wine Wars",
@@ -58,7 +80,15 @@
         "MoWeEd Track": "Days of Wine and Roses",
         "MoWeEd Artists": [
             "Charlie Byrd Trio"
-        ]
+        ],
+        "Result Track Name": "Days Of Wine And Roses",
+        "Result Artist Names": [
+            "Charlie Byrd Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dMdvXHsr8dNYj67SKDpuM",
+        "Result Album Name": "Au Courant"
     },
     {
         "Title": "A Conversation with Robert Redford",
@@ -76,7 +106,16 @@
         "MoWeEd Track": "San Antonio Rose",
         "MoWeEd Artists": [
             "Bob Wills"
-        ]
+        ],
+        "Result Track Name": "San Antonio Rose",
+        "Result Artist Names": [
+            "Bob Wills",
+            "Texas Playboys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JgdsIzIjRhUARLkSiQctR",
+        "Result Album Name": "For The Last Time"
     },
     {
         "Title": "Music Group Sues 261 Alleged File Sharers",
@@ -94,13 +133,23 @@
         "MoWeEd Track": "Variations on \"I Got Rhythm\" for piano and orchestra (or 2 Pianos)",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mixed Media",
         "MoWeEd Artists": [
             "Ravi Coltrane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Justices Weigh McCain-Feingold",
@@ -112,13 +161,23 @@
         "MoWeEd Track": "Suite No. 1 In a Major - Allemande",
         "MoWeEd Artists": [
             "Mark Bernat"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Dances (3), for 2 flutes & piano",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq Reservists",
@@ -136,7 +195,12 @@
         "MoWeEd Track": "Suite for Lute in G Minor, BWV 995: Courante",
         "MoWeEd Artists": [
             "Eugen M. Dombois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Land Mines",
@@ -148,7 +212,15 @@
         "MoWeEd Track": "Fratres",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Fratres in Aeternum",
+        "Result Artist Names": [
+            "The Universal Quartet"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7qc9pnglTZGkmAvEdqOOLR",
+        "Result Album Name": "Light"
     },
     {
         "Title": "Baltimore Teens Vote ",
@@ -166,20 +238,42 @@
         "MoWeEd Track": "Hardgroove",
         "MoWeEd Artists": [
             "The RH Factor"
-        ]
+        ],
+        "Result Track Name": "Hardgroove",
+        "Result Artist Names": [
+            "The RH Factor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gAYsrRT8UpdSPba5Z0yed",
+        "Result Album Name": "Hard Groove"
     },
     {
         "MoWeEd Track": "I Talk To The Trees",
         "MoWeEd Artists": [
             "Art Blakey",
             "Jazz Messengers"
-        ]
+        ],
+        "Result Track Name": "I Talk to the Trees (feat. Johnny Griffin)",
+        "Result Artist Names": [
+            "Art Blakey & The Jazz Messengers",
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UtkrmpOpyWbhyrgKEwTUR",
+        "Result Album Name": "1957 Second Edition (feat. Johnny Griffin)"
     },
     {
         "MoWeEd Track": "Danza Melancólica (Spanish Dance No. 10)",
         "MoWeEd Artists": [
             "David Russell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Hiroshima'",

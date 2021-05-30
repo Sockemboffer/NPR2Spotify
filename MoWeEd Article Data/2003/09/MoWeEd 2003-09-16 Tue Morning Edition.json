@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-09-16",
         "Day": "Tue",
-        "Scanned Date": "2021-05-29 15:53:14"
+        "Scanned Date": "2021-05-29 15:53:14",
+        "Playlist URI": "2y4FEwIHndX1ppZ1EolNyJ",
+        "Playlist Link": "https://open.spotify.com/playlist/2y4FEwIHndX1ppZ1EolNyJ",
+        "Snapshot ID": "MSxkN2EzMDExNWZiMzI5OTkyN2IxYmU2ZTliYzBhNmQyNDg1ZmI5NmVk",
+        "Playlist Name": "MoWeEd 2003-09-16 Tue Morning Edition"
     },
     {
         "Title": "California Recall Delayed",
@@ -22,13 +26,29 @@
         "MoWeEd Track": "California Dreamin'",
         "MoWeEd Artists": [
             "George Benson"
-        ]
+        ],
+        "Result Track Name": "California Dreamin'",
+        "Result Artist Names": [
+            "George Benson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IahizEQ3DW5lULbz9TBB2",
+        "Result Album Name": "White Rabbit (CTI Records 40th Anniversary Edition)"
     },
     {
         "MoWeEd Track": "So What",
         "MoWeEd Artists": [
             "George Benson"
-        ]
+        ],
+        "Result Track Name": "So What",
+        "Result Artist Names": [
+            "George Benson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Ol2Y7fIe2SBBc2j2dKBQy",
+        "Result Album Name": "Beyond the Blue Horizon (CTI Records 40th Anniversary Edition)"
     },
     {
         "Title": "The Story of a Homeless Veteran",
@@ -46,7 +66,15 @@
         "MoWeEd Track": "Liberty Fanfare",
         "MoWeEd Artists": [
             "United States Navy Band"
-        ]
+        ],
+        "Result Track Name": "Liberty Fanfare",
+        "Result Artist Names": [
+            "United States Navy Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Q68xSvlnycSAmq2JIDemM",
+        "Result Album Name": "Election Anthems"
     },
     {
         "Title": "Morning Edition Returns: Cursing the Ref",
@@ -65,7 +93,12 @@
         "MoWeEd Artists": [
             "The Moser",
             "Nix Duo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Private Border Patrols Prompt Concern",
@@ -83,7 +116,15 @@
         "MoWeEd Track": "Cuando Te Quiero, Te Vas [Tex-Mex Cumbia]",
         "MoWeEd Artists": [
             "Flaco Jimenez"
-        ]
+        ],
+        "Result Track Name": "Cuando Te Quiero, Te Vas",
+        "Result Artist Names": [
+            "Flaco Jimenez"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Lyv9MSmzmov6cTS2Gdlyh",
+        "Result Album Name": "Squeeze Box King"
     },
     {
         "Title": "Fashion Week: Runway Music",
@@ -95,7 +136,12 @@
         "MoWeEd Track": "Sabrosona",
         "MoWeEd Artists": [
             "Declassified"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Drug Imports Split FDA, States",
@@ -113,14 +159,24 @@
         "MoWeEd Track": "Mixed Media",
         "MoWeEd Artists": [
             "Ravi Coltrane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Gymnopédie No. 1",
         "MoWeEd Artists": [
             "Nigel Kennedy",
             "English Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Digging Up the Past",
@@ -144,13 +200,30 @@
         "MoWeEd Track": "The Thrill Is Gone",
         "MoWeEd Artists": [
             "B.B. King"
-        ]
+        ],
+        "Result Track Name": "The Thrill Is Gone",
+        "Result Artist Names": [
+            "B.B. King",
+            "Tracy Chapman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cg0dJfrQB66Qf2YthPb6G",
+        "Result Album Name": "Deuces Wild"
     },
     {
         "MoWeEd Track": "I Get a Kick Out of You",
         "MoWeEd Artists": [
             "Arturo Sandoval"
-        ]
+        ],
+        "Result Track Name": "I Get A Kick Out Of You",
+        "Result Artist Names": [
+            "Arturo Sandoval"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yoTMmmXPgZoMamVSrpTRx",
+        "Result Album Name": "I Remember Clifford"
     },
     {
         "Title": "Spain Fears Growth in Separatist Movements",
@@ -162,7 +235,12 @@
         "MoWeEd Track": "Basque Three-Step, Two-Step",
         "MoWeEd Artists": [
             "Hollis Taylor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Family of Sniper Victim Copes with Loss",
@@ -180,19 +258,44 @@
         "MoWeEd Track": "String Quartet No. 14 in D minor (\"Death and the Maiden\"), D. 810",
         "MoWeEd Artists": [
             "Guarneri Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 14 in D Minor, D.810, Death and the Maiden: I. Allegro",
+        "Result Artist Names": [
+            "Franz Schubert",
+            "Guarneri Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ZX3l36sLvwlCNkyTbnOmW",
+        "Result Album Name": "Schubert: String Quartet No. 13 in A Minor, & No. 14 in D Minor"
     },
     {
         "MoWeEd Track": "On a Clear Day (You Can See Forever)",
         "MoWeEd Artists": [
             "Charlie Byrd Trio"
-        ]
+        ],
+        "Result Track Name": "On A Clear Day (You Can See Forever)",
+        "Result Artist Names": [
+            "Charlie Byrd Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34STU7186aNzpCqjzrdb2Z",
+        "Result Album Name": "Au Courant"
     },
     {
         "MoWeEd Track": "Take Five",
         "MoWeEd Artists": [
             "George Benson"
-        ]
+        ],
+        "Result Track Name": "Take Five",
+        "Result Artist Names": [
+            "George Benson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NokPZ0EoOl3t5SHKy2zA3",
+        "Result Album Name": "Bad Benson"
     },
     {
         "Title": "European Film Industry",
@@ -204,12 +307,25 @@
         "MoWeEd Track": "Symphony No. 3 in E Flat Major, Op. 55 \"Eroica\"/I. Allegro Con Brio [Ex",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sweet Sixteen",
         "MoWeEd Artists": [
             "Mickey Hart"
-        ]
+        ],
+        "Result Track Name": "Sweet Sixteen",
+        "Result Artist Names": [
+            "Mickey Hart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:47l0WW143WjHH2otrgRfxJ",
+        "Result Album Name": "Diga"
     }
 ]

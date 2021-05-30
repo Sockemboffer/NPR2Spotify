@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-06-18",
         "Day": "Wed",
-        "Scanned Date": "2021-05-29 16:01:59"
+        "Scanned Date": "2021-05-29 16:01:59",
+        "Playlist URI": "58f9JscFZBiCjDyqqUzQ4V",
+        "Playlist Link": "https://open.spotify.com/playlist/58f9JscFZBiCjDyqqUzQ4V",
+        "Snapshot ID": "MSw4OTI2YjczZjA2MDJjMzhlZGQ3NWQwZTc4MDViY2E1NGI3MTY0NGVk",
+        "Playlist Name": "MoWeEd 2003-06-18 Wed Morning Edition"
     },
     {
         "Title": "Iraqi Protest Turns Violent",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Driving North",
         "MoWeEd Artists": [
             "Jon Durant"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Rondeau From Abdelazer",
         "MoWeEd Artists": [
             "Empire Brass Quintet With William Kuhlman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Report: Treatment for Depression Often Inadequate",
@@ -46,7 +60,18 @@
         "MoWeEd Track": "Serra Do Mar",
         "MoWeEd Artists": [
             "McCoy Tyner"
-        ]
+        ],
+        "Result Track Name": "Serra Do Mar",
+        "Result Artist Names": [
+            "McCoy Tyner",
+            "Bobby Hutcherson",
+            "Charnett Moffett",
+            "Eric Harland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gxu3ox5XzBxWyUu3V5HsJ",
+        "Result Album Name": "Land Of Giants"
     },
     {
         "Title": "Guantanamo Released",
@@ -58,7 +83,15 @@
         "MoWeEd Track": "Courante",
         "MoWeEd Artists": [
             "Ric Louchard"
-        ]
+        ],
+        "Result Track Name": "Courante (from French Suite #5 in G Major, BWV 816)",
+        "Result Artist Names": [
+            "Ric Louchard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59ErqW496TFy58BptD1imf",
+        "Result Album Name": "G'morning Johann: Classical Piano Solos For Morning Time"
     },
     {
         "Title": "Polio Eradication Campaign Centers on India",
@@ -76,14 +109,27 @@
         "MoWeEd Track": "Walking in Loisaida",
         "MoWeEd Artists": [
             "Exuberance"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The (New) Call of the Freaks",
         "MoWeEd Artists": [
             "Luis Russell",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "The New Call of the Freaks",
+        "Result Artist Names": [
+            "Luis Russell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:52FtVrssxik8RoU0Chd270",
+        "Result Album Name": "From Panama to Harlem"
     },
     {
         "Title": "Deflation",
@@ -101,13 +147,29 @@
         "MoWeEd Track": "Morning Is the Long Way Home",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Morning Is The Long Way Home",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FRrAiQuK1Lza2siotsxcY",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "MoWeEd Track": "Beatrice [#]",
         "MoWeEd Artists": [
             "Stan Getz"
-        ]
+        ],
+        "Result Track Name": "Beatrice",
+        "Result Artist Names": [
+            "Stan Getz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uTYu4pw7NHehASffKZLqw",
+        "Result Album Name": "Bossas & Ballads"
     },
     {
         "Title": "Weapons of Mass Destruction",
@@ -125,13 +187,23 @@
         "MoWeEd Track": "Chaconne en rondeau, for viola da gambe & continuo in G major (Pièces de viole, Book II, No. 82)",
         "MoWeEd Artists": [
             "Cem Duruöz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Steel Guitar Rag",
         "MoWeEd Artists": [
             "Pat Kirtley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Launches Re-Election Fundraising Campaign",
@@ -150,7 +222,15 @@
         "MoWeEd Artists": [
             "Milcho Leviev",
             "Bruce Stark"
-        ]
+        ],
+        "Result Track Name": "Night Mood",
+        "Result Artist Names": [
+            "Milcho Leviev"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2MXkqWhY76RizSM2EuDyeT",
+        "Result Album Name": "Milcho Leviev Chamber music"
     },
     {
         "Title": "Akbar Trial",
@@ -162,7 +242,12 @@
         "MoWeEd Track": "Partita No. 1 In B-flat Major, Praeludium",
         "MoWeEd Artists": [
             "Richard Goode"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Private Property Owners Complain about ATV Damage",
@@ -180,13 +265,23 @@
         "MoWeEd Track": "End Transmission",
         "MoWeEd Artists": [
             "Declassified"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Dueling Steel & Dobra",
         "MoWeEd Artists": [
             "Totally Hot Nashville Steel Guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Little Prince' Opera",
@@ -198,6 +293,14 @@
         "MoWeEd Track": "La Cabañita en la Playa",
         "MoWeEd Artists": [
             "Johannes Linstead"
-        ]
+        ],
+        "Result Track Name": "La Cabanita en la Playa",
+        "Result Artist Names": [
+            "Johannes Linstead"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5q5zmXYu6zgvXAQoNHjBY3",
+        "Result Album Name": "Zabuca"
     }
 ]

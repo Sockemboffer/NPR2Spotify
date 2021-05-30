@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2003-08-16",
         "Day": "Sat",
-        "Scanned Date": "2021-05-29 15:55:53"
+        "Scanned Date": "2021-05-29 15:55:53",
+        "Playlist URI": "6jut2t5NGl1rCOUPQcZK0j",
+        "Playlist Link": "https://open.spotify.com/playlist/6jut2t5NGl1rCOUPQcZK0j",
+        "Snapshot ID": "MSwzNWEzMjI3ZjAzMTZjZTg1NDNlNjlhNjUxOWJhMTBhODEyNjk2MjE2",
+        "Playlist Name": "MoWeEd 2003-08-16 Sat Weekend Edition"
     },
     {
         "Title": "Power Returns to Most Areas Hit by Blackout",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Micky Fick",
         "MoWeEd Artists": [
             "Art Neville"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Experts Seek 'Self-Healing' Power Grid",
@@ -58,7 +67,15 @@
         "MoWeEd Track": "Sounds Like a Twist",
         "MoWeEd Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": "Sounds Like a Twist",
+        "Result Artist Names": [
+            "Terem-Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cEfqTnHJlJFUAT3FyGb3w",
+        "Result Album Name": "No, Russia Cannot Be Perceived by Wit"
     },
     {
         "Title": "Pony Express: 'The Twisted Truth'",
@@ -77,7 +94,16 @@
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WIQkCEoWnmzJInqarNeyX",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "The Week in Review",
@@ -95,14 +121,31 @@
         "MoWeEd Track": "Le Jardin d'Adonis",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": "Le jardin d'Adonis (To Marcel Dadi)",
+        "Result Artist Names": [
+            "Pierre Bensusan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3aR1bwTRgTcDcwm3M9mtHI",
+        "Result Album Name": "Intuite"
     },
     {
         "MoWeEd Track": "Blues for Terry",
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Blues For Terry",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JR2tPc918NLvvkHDj2rrA",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "Baton Rouge Schools Suit Finally Resolved",
@@ -120,7 +163,17 @@
         "MoWeEd Track": "Allegro Vivace",
         "MoWeEd Artists": [
             "Orpheus Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "Horn Concerto No. 4 in E-Flat Major, K. 495: III. Rondo (Allegro vivace)",
+        "Result Artist Names": [
+            "Wolfgang Amadeus Mozart",
+            "David Jolley",
+            "Orpheus Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3urPaOjAk30iaJFYUS8FKF",
+        "Result Album Name": "Mozart For Study"
     },
     {
         "Title": "Low-Wage America: Rafael Romero",
@@ -132,7 +185,15 @@
         "MoWeEd Track": "Cerca de Ti",
         "MoWeEd Artists": [
             "Oscar Lopez"
-        ]
+        ],
+        "Result Track Name": "Cerca De Ti",
+        "Result Artist Names": [
+            "Oscar Lopez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1lPS2mxkXsskDpVOF2z3bE",
+        "Result Album Name": "Seduction"
     },
     {
         "Title": "Encyclopedia Man: The Letter R",
@@ -144,7 +205,15 @@
         "MoWeEd Track": "Mombasa",
         "MoWeEd Artists": [
             "Tommy Emmanuel"
-        ]
+        ],
+        "Result Track Name": "Mombasa",
+        "Result Artist Names": [
+            "Tommy Emmanuel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28DUvS55ogeh2vl7uYSzWM",
+        "Result Album Name": "The Best of Tommysongs"
     },
     {
         "Title": "Letters from Listeners",
@@ -168,6 +237,11 @@
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

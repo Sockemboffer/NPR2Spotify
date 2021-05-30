@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-05-21",
         "Day": "Wed",
-        "Scanned Date": "2021-05-29 16:04:56"
+        "Scanned Date": "2021-05-29 16:04:56",
+        "Playlist URI": "63mmZuy34nO9wpV9a2zbrP",
+        "Playlist Link": "https://open.spotify.com/playlist/63mmZuy34nO9wpV9a2zbrP",
+        "Snapshot ID": "MSxiZjk2NjY3MmU3ZmVlNzE2MWNiZjg5MzYzNTYwYjJlYmRkMzFlNzlk",
+        "Playlist Name": "MoWeEd 2003-05-21 Wed Morning Edition"
     },
     {
         "Title": "Iraq Mass Graves Investigated ",
@@ -16,13 +20,23 @@
         "MoWeEd Track": "Pereg Recruiting Dance, for violin (or viola or clarinet) & piano, Op. 40",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sonata in G Major, K. 390",
         "MoWeEd Artists": [
             "David Russell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Miami Cocaine Trial ",
@@ -40,7 +54,15 @@
         "MoWeEd Track": "Crystal",
         "MoWeEd Artists": [
             "David Murray"
-        ]
+        ],
+        "Result Track Name": "Crystal",
+        "Result Artist Names": [
+            "David Murray Latin Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VxNTlcl1RyHTFBe4Q7D8F",
+        "Result Album Name": "Now Is Another Time"
     },
     {
         "Title": "FCC Plan to Ease Media Ownership Rules Criticized",
@@ -52,7 +74,15 @@
         "MoWeEd Track": "Lafayette",
         "MoWeEd Artists": [
             "Peter Ostroushko"
-        ]
+        ],
+        "Result Track Name": "Lafayette",
+        "Result Artist Names": [
+            "Peter Ostroushko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70Gbbko8pgmL5z0CTmyoUp",
+        "Result Album Name": "Sacred Heart"
     },
     {
         "Title": "Morning Edition Returns: Take a Seat",
@@ -77,14 +107,30 @@
         "MoWeEd Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": "Clashing",
+        "Result Artist Names": [
+            "Drums & Tuba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MFtv5QyLvCvu65TJpgmmN",
+        "Result Album Name": "Mostly Ape"
     },
     {
         "MoWeEd Track": "Minor Swing",
         "MoWeEd Artists": [
             "Jim Henry",
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Minor Swing",
+        "Result Artist Names": [
+            "Jim Henry & Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:53p1qllpJSPhUhYFELwhGd",
+        "Result Album Name": "Ring Some Changes"
     },
     {
         "Title": "Mad Cow Disease in Canada",
@@ -102,7 +148,15 @@
         "MoWeEd Track": "Country Preacher",
         "MoWeEd Artists": [
             "Roy Buchanan"
-        ]
+        ],
+        "Result Track Name": "Country Preacher",
+        "Result Artist Names": [
+            "Roy Buchanan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mlqow29vK69R787GeBC6W",
+        "Result Album Name": "In The Beginning"
     },
     {
         "Title": "Terror Alert at 'High Risk'",
@@ -121,14 +175,32 @@
         "MoWeEd Artists": [
             "Oscar Peterson",
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "Reunion Blues",
+        "Result Artist Names": [
+            "Oscar Peterson Trio",
+            "Milt Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GJ0P5rWjqShC6FmNDzh1C",
+        "Result Album Name": "Very Tall"
     },
     {
         "MoWeEd Track": "John Brown's Body",
         "MoWeEd Artists": [
             "Oscar Peterson",
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "John Brown's Body",
+        "Result Artist Names": [
+            "Milt Jackson",
+            "Oscar Peterson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5dMu6jMTCqVpM7Ml96MUd7",
+        "Result Album Name": "Very Tall"
     },
     {
         "Title": "Congress' Tax Snafu ",
@@ -146,7 +218,12 @@
         "MoWeEd Track": "Music Is My Drug",
         "MoWeEd Artists": [
             "Crazy Vibes and Things"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Casual Fridays",
@@ -166,7 +243,12 @@
             "Frans Bruggen",
             "Anner Bylsma",
             "Bob Van Asperen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Utah Guns ",
@@ -184,7 +266,15 @@
         "MoWeEd Track": "It Is What It Is",
         "MoWeEd Artists": [
             "Leon Parker"
-        ]
+        ],
+        "Result Track Name": "It Is What It Is",
+        "Result Artist Names": [
+            "Leon Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CRwWh9ztW8qUKGfWmcp0N",
+        "Result Album Name": "Awakening"
     },
     {
         "Title": "'Mordecai': A Jewish Family History",
@@ -198,7 +288,15 @@
             "Herbie Mann",
             "Terra",
             "Sona"
-        ]
+        ],
+        "Result Track Name": "Gypsy Jazz",
+        "Result Artist Names": [
+            "Herbie Mann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3DxKPbawJ7DwW5kO8tBR4p",
+        "Result Album Name": "Herbie Mann & Sona Terra / Eastern European Roots"
     },
     {
         "Title": "EPA Chief Whitman Resigns",

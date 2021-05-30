@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2003-11-16",
         "Day": "Sun",
-        "Scanned Date": "2021-05-29 15:47:09"
+        "Scanned Date": "2021-05-29 15:47:09",
+        "Playlist URI": "3iRUiR7xMusfOR3bqwzNFw",
+        "Playlist Link": "https://open.spotify.com/playlist/3iRUiR7xMusfOR3bqwzNFw",
+        "Snapshot ID": "MSxmZDJjZjNkOTUzNzA0NzAyMWU4ZmQ5MmY0NmQ4YTAwYWYwMzQ5NGIy",
+        "Playlist Name": "MoWeEd 2003-11-16 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Rebecca's Child",
         "MoWeEd Artists": [
             "David Kraus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Life After Prison",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Everything Changes",
         "MoWeEd Artists": [
             "Omid"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Conversation with Marsha",
@@ -52,7 +66,15 @@
         "MoWeEd Track": "Horn Island",
         "MoWeEd Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Horn Island",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jhixsiLK4cj0EwgNoIeBD",
+        "Result Album Name": "Righteousness & Humidity"
     },
     {
         "Title": "Sunday Puzzle with Will Shortz",
@@ -76,13 +98,30 @@
         "MoWeEd Track": "Born to Be Wild",
         "MoWeEd Artists": [
             "Steppenwolf"
-        ]
+        ],
+        "Result Track Name": "Born To Be Wild - Single Version",
+        "Result Artist Names": [
+            "Steppenwolf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lN8PP6R2IxbLP05QpYXng",
+        "Result Album Name": "Steppenwolf"
     },
     {
         "MoWeEd Track": "Summers",
         "MoWeEd Artists": [
             "Mark Kleinhaut Trio"
-        ]
+        ],
+        "Result Track Name": "Summers",
+        "Result Artist Names": [
+            "Mark Kleinhaut Trio",
+            "Bobby Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57l55uW2fG6lkZ0A8RJkU4",
+        "Result Album Name": "A Balance Of Light"
     },
     {
         "Title": "Plan Sets Up Iraqi Self-Rule",
@@ -107,7 +146,12 @@
         "MoWeEd Artists": [
             "Frank Mantooth",
             "Art Farmer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "On Calif. Inauguration Eve, Budget Looms Large",
@@ -131,7 +175,15 @@
         "MoWeEd Track": "Swing Gitan",
         "MoWeEd Artists": [
             "Harmonious Wail"
-        ]
+        ],
+        "Result Track Name": "Swing Gitan",
+        "Result Artist Names": [
+            "Harmonious Wail"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6xsamZxTRNK6E3AZAI9aA5",
+        "Result Album Name": "Gypsy Swing"
     },
     {
         "Title": "Letters from Listeners",
@@ -143,7 +195,15 @@
         "MoWeEd Track": "Swamp Fire",
         "MoWeEd Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "Swamp Fire - 1996 Digital Remaster",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vKT1dCvyZlRTzAN9ble4o",
+        "Result Album Name": "Ultra-Lounge/Mondo Exotica: Volume One"
     },
     {
         "Title": "Richard Thompson, Live in Studio 4A",
@@ -155,6 +215,11 @@
         "MoWeEd Track": "First Breath",
         "MoWeEd Artists": [
             "Richard Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

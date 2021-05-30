@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-09-29",
         "Day": "Mon",
-        "Scanned Date": "2021-05-29 15:54:10"
+        "Scanned Date": "2021-05-29 15:54:10",
+        "Playlist URI": "7z8h58N7xcGbhUpJnfOHCk",
+        "Playlist Link": "https://open.spotify.com/playlist/7z8h58N7xcGbhUpJnfOHCk",
+        "Snapshot ID": "MSxhMjc5ZjliMmM3YjJjYzlkMWQ1YjhkMjkwMjFlNzEwM2Y1NTRiYjM4",
+        "Playlist Name": "MoWeEd 2003-09-29 Mon Morning Edition"
     },
     {
         "Title": "Iraq Roundup",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Trio for Piano, Violin and Cello, Opus 11, Mvt 2 Adagio",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Trail of Latino Migration: Leaving Home",
@@ -40,7 +49,12 @@
         "MoWeEd Track": "Angel Face",
         "MoWeEd Artists": [
             "Geoff Keezer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Camden Mayor Loses Stolen Wheels",
@@ -66,7 +80,12 @@
             "Beppe Gambetta",
             "Carlo Aonzo",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Valtzer Fantastico",
@@ -74,7 +93,17 @@
             "Beppe Gambetta",
             "Carlo Aonzo",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Valtzer Fantastico",
+        "Result Artist Names": [
+            "Beppe Gambetta",
+            "David Grisman",
+            "Carlo Aonzo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BSxrlgZYozjRcK3ZqyozW",
+        "Result Album Name": "Traversata"
     },
     {
         "Title": "Pioneering Tennis Player Althea Gibson Dies",
@@ -92,13 +121,29 @@
         "MoWeEd Track": "Girl Talk [Dirty Mamaracha Mix]",
         "MoWeEd Artists": [
             "DJ Sol"
-        ]
+        ],
+        "Result Track Name": "Girl Talk - Dirty Mamaracha Mix",
+        "Result Artist Names": [
+            "DJ Sol"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7x07QunB3IoMrssiAhEnDI",
+        "Result Album Name": "Girls in Space"
     },
     {
         "MoWeEd Track": "A Fuego Lento",
         "MoWeEd Artists": [
             "Quintango"
-        ]
+        ],
+        "Result Track Name": "A Fuego Lento",
+        "Result Artist Names": [
+            "QuinTango"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HMjUIFy47kJqzs6CJqLT0",
+        "Result Album Name": "QuinTango Live!"
     },
     {
         "Title": "Week in Politics",
@@ -116,13 +161,23 @@
         "MoWeEd Track": "The Sound of Water",
         "MoWeEd Artists": [
             "James McBride"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Deserting the Boogeyman",
         "MoWeEd Artists": [
             "James McBride"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Arab Leaders Seek Better U.S.-Mideast Economic Ties",
@@ -146,14 +201,31 @@
         "MoWeEd Track": "The Vogue",
         "MoWeEd Artists": [
             "Antonelli Electr. Featuring Miss Kittin"
-        ]
+        ],
+        "Result Track Name": "The Vogue",
+        "Result Artist Names": [
+            "Antonelli",
+            "Miss Kittin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:0XaMN2AkT65D1x9n1Qlleo",
+        "Result Album Name": "The Vogue"
     },
     {
         "MoWeEd Track": "Nightfall",
         "MoWeEd Artists": [
             "Charlie Haden",
             "Gonzalo Rubalcaba"
-        ]
+        ],
+        "Result Track Name": "Nightfall",
+        "Result Artist Names": [
+            "Gonzalo Rubalcaba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2MM0rAPNTq7IxUlbREPzaM",
+        "Result Album Name": "Charlie"
     },
     {
         "Title": "Two Corruption Trials Open",
@@ -165,13 +237,29 @@
         "MoWeEd Track": "Everything Must Go",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Everything Must Go",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RmTp6VbRt2ZF7egBrbt6r",
+        "Result Album Name": "Everything Must Go"
     },
     {
         "MoWeEd Track": "Godwhacker",
         "MoWeEd Artists": [
             "Steely Dan"
-        ]
+        ],
+        "Result Track Name": "Godwhacker",
+        "Result Artist Names": [
+            "Steely Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:775Q8diCxEWZAoPiutwiC8",
+        "Result Album Name": "Everything Must Go"
     },
     {
         "Title": "Book Review: 'Sixty-Six'",
@@ -189,13 +277,27 @@
         "MoWeEd Track": "On the Waterfront/Presto Barbaro",
         "MoWeEd Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "String Quartet In C Major, Op. 33 No. 3 \"the Bird\", Allegro Moderato",
         "MoWeEd Artists": [
             "Alban Berg Quartett"
-        ]
+        ],
+        "Result Track Name": "Haydn: String Quartet in C Major, Op. 33 No. 3, Hob. III:39 \"The Bird\": I. Allegro moderato (Live at Wiener Konzerthaus, 1999)",
+        "Result Artist Names": [
+            "Franz Joseph Haydn",
+            "Alban Berg Quartett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23qAamnYegUNfWQ5g6Awtj",
+        "Result Album Name": "Haydn: String Quartets, Op. 33 No. 3 \"The Bird\", Op. 77 Nos. 1 & 2"
     },
     {
         "Title": "'Flow': A One-Man Musical in Rhyme",
@@ -207,6 +309,14 @@
         "MoWeEd Track": "dcba//>>",
         "MoWeEd Artists": [
             "Kurt Rosenwinkel"
-        ]
+        ],
+        "Result Track Name": "dcba//>>",
+        "Result Artist Names": [
+            "Kurt Rosenwinkel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7c9PHq3Rif8ADW23hW5CEE",
+        "Result Album Name": "Heartcore"
     }
 ]

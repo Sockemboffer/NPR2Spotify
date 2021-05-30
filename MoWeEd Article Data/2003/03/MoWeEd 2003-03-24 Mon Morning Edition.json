@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-03-24",
         "Day": "Mon",
-        "Scanned Date": "2021-05-29 16:10:56"
+        "Scanned Date": "2021-05-29 16:10:56",
+        "Playlist URI": "34J9bhXfTG03o3fRDtXi8G",
+        "Playlist Link": "https://open.spotify.com/playlist/34J9bhXfTG03o3fRDtXi8G",
+        "Snapshot ID": "MSw0MzhjY2U2ZTUwZDdkNzk2MTA3YmU3ZWUzNzY0OGNiN2RlNjIyMmZk",
+        "Playlist Name": "MoWeEd 2003-03-24 Mon Morning Edition"
     },
     {
         "Title": "Baghdad",
@@ -24,13 +28,23 @@
             "Arturo Sandoval",
             "London Symphony Orchestra",
             "Luis Haza"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Variations on a Theme by Haydn for Solo Piano: Molto espressivo",
         "MoWeEd Artists": [
             "Wu Han"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Northern Iraq",
@@ -49,7 +63,12 @@
         "MoWeEd Artists": [
             "Vladimir Spivako",
             "Arkady Futer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Officials Target Cause of 'Mystery' Disease",
@@ -61,7 +80,15 @@
         "MoWeEd Track": "Hideaway",
         "MoWeEd Artists": [
             "Marlene Tachoir"
-        ]
+        ],
+        "Result Track Name": "Hideaway",
+        "Result Artist Names": [
+            "Marlene Tachoir"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0znah7CwzuNmuN2WtaErhw",
+        "Result Album Name": "Tales Of Emotions"
     },
     {
         "Title": "Blazing Iraqi Oil Fields",
@@ -79,13 +106,27 @@
         "MoWeEd Track": "IV Allegro Molto [Sonata in F Major]",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Sonata No. 2 in F Major, Op. 99: IV. Allegro molto",
+        "Result Artist Names": [
+            "Johannes Brahms",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uIFNNhPDtEKK38zGXrUck",
+        "Result Album Name": "Brahms: Sonatas for Cello & Piano, Opp. 38, 99 and 108"
     },
     {
         "MoWeEd Track": "Lute Works - Phantasia in A Minor",
         "MoWeEd Artists": [
             "Hubert Kappel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Saddam Vows Victory",
@@ -109,7 +150,15 @@
         "MoWeEd Track": "Spring Is Here",
         "MoWeEd Artists": [
             "Jim Haskins"
-        ]
+        ],
+        "Result Track Name": "Spring Is Here",
+        "Result Artist Names": [
+            "Jim Mullen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6Y6IfXxGca8xh3blnhsomQ",
+        "Result Album Name": "Volunteers"
     },
     {
         "Title": "War in Iraq Update III",
@@ -127,13 +176,29 @@
         "MoWeEd Track": "Bachiaras",
         "MoWeEd Artists": [
             "Frederic Hand"
-        ]
+        ],
+        "Result Track Name": "Bachiaras",
+        "Result Artist Names": [
+            "Frederic Hand"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64wmJYyjcmURXFCaWS7Tpj",
+        "Result Album Name": "Jazzantiqua"
     },
     {
         "MoWeEd Track": "How Can I Tell You",
         "MoWeEd Artists": [
             "Charles Lloyd"
-        ]
+        ],
+        "Result Track Name": "How Can I Tell You - Live",
+        "Result Artist Names": [
+            "Charles Lloyd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ZUlQw3KS7qiBrgJxSyel0",
+        "Result Album Name": "Passin' Thru (Live)"
     },
     {
         "Title": "Week in Politics",
@@ -151,7 +216,15 @@
         "MoWeEd Track": "Improvisation #2",
         "MoWeEd Artists": [
             "Mark O'Connor"
-        ]
+        ],
+        "Result Track Name": "Improvisation No. 2: I move among the wagons and mares / And hold my head high like a man with folding money - Instrumental",
+        "Result Artist Names": [
+            "Mark O'Connor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TZsgLuOp5mLtmNrnGzdyQ",
+        "Result Album Name": "Midnight on the Water"
     },
     {
         "Title": "Arab League",
@@ -163,7 +236,12 @@
         "MoWeEd Track": "Au Jardin d'Amour",
         "MoWeEd Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Analysis: War in Iraq",
@@ -181,13 +259,26 @@
         "MoWeEd Track": "Warm Your Heart",
         "MoWeEd Artists": [
             "Gilbert Isbin with Cameron Brown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Meninas",
         "MoWeEd Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Meninas",
+        "Result Artist Names": [
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Bm0YxB0Ig4IJ5rB1U7GQj",
+        "Result Album Name": "Flesh On Flesh"
     },
     {
         "Title": "Oscars",
@@ -217,7 +308,15 @@
         "MoWeEd Track": "The Mood That Passes Through You",
         "MoWeEd Artists": [
             "Michael Nyman"
-        ]
+        ],
+        "Result Track Name": "The Mood That Passes Through You",
+        "Result Artist Names": [
+            "Michael Nyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XrRmhRD9gFEl5QDcl7d56",
+        "Result Album Name": "The Piano: Music From The Motion Picture"
     },
     {
         "Title": "Northern Iraq",
@@ -236,7 +335,17 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Recording Arts Orchestra Of Los Angeles"
-        ]
+        ],
+        "Result Track Name": "American Collection Theme - Extended Version",
+        "Result Artist Names": [
+            "John Williams",
+            "Yo-Yo Ma",
+            "Recording Artists Orchestra of Los Angeles"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:14p8BlsEx8FsE5BUBuh1qU",
+        "Result Album Name": "Classic Yo-Yo"
     },
     {
         "Title": "TV Broadcasts of the War in Iraq",
@@ -248,7 +357,12 @@
         "MoWeEd Track": "Love and Loss",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Possible Chemical Weapons Site",
@@ -272,7 +386,16 @@
         "MoWeEd Track": "IV Allegro Molto [Sonata in F Major]",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Sonata No. 2 in F Major, Op. 99: IV. Allegro molto",
+        "Result Artist Names": [
+            "Johannes Brahms",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uIFNNhPDtEKK38zGXrUck",
+        "Result Album Name": "Brahms: Sonatas for Cello & Piano, Opp. 38, 99 and 108"
     },
     {
         "Title": "War Diaries: Hania Farah",
@@ -290,7 +413,12 @@
         "MoWeEd Track": "Shadow (For Joe Henderson)",
         "MoWeEd Artists": [
             "Chris Potter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Troops Face Iraqi Resistance",
@@ -308,7 +436,15 @@
         "MoWeEd Track": "Struggle for Pleasure",
         "MoWeEd Artists": [
             "Wim Mertens"
-        ]
+        ],
+        "Result Track Name": "Struggle for Pleasure",
+        "Result Artist Names": [
+            "Wim Mertens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zFovryAx4THLvSRUtYkEN",
+        "Result Album Name": "The Belly of an Architect"
     },
     {
         "Title": "War in Iraq - President Bush",
@@ -326,7 +462,15 @@
         "MoWeEd Track": "Melodies of Love",
         "MoWeEd Artists": [
             "Joe Sample"
-        ]
+        ],
+        "Result Track Name": "Melodies Of Love",
+        "Result Artist Names": [
+            "Joe Sample"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tEJWstNEqWLwCdGUdDTBQ",
+        "Result Album Name": "Rainbow Seeker"
     },
     {
         "Title": "Arab Foreign Ministers Seek End to War on Iraq",
@@ -338,7 +482,12 @@
         "MoWeEd Track": "Au Jardin d'Amour",
         "MoWeEd Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Military Analysis of the War in Iraq",
@@ -452,7 +601,15 @@
         "MoWeEd Track": "Struggle for Pleasure",
         "MoWeEd Artists": [
             "Wim Mertens"
-        ]
+        ],
+        "Result Track Name": "Struggle for Pleasure",
+        "Result Artist Names": [
+            "Wim Mertens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zFovryAx4THLvSRUtYkEN",
+        "Result Album Name": "The Belly of an Architect"
     },
     {
         "Title": "Northern Iraq Update ",
@@ -476,7 +633,12 @@
         "MoWeEd Track": "Love and Loss",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Apache Helicopter",
@@ -494,7 +656,15 @@
         "MoWeEd Track": "Melodies of Love",
         "MoWeEd Artists": [
             "Joe Sample"
-        ]
+        ],
+        "Result Track Name": "Melodies Of Love",
+        "Result Artist Names": [
+            "Joe Sample"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tEJWstNEqWLwCdGUdDTBQ",
+        "Result Album Name": "Rainbow Seeker"
     },
     {
         "Title": "War in Iraq Montage",
@@ -512,6 +682,14 @@
         "MoWeEd Track": "LONGING/LOVE",
         "MoWeEd Artists": [
             "GEORGE WINSTON"
-        ]
+        ],
+        "Result Track Name": "Longing / Love",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VbANrOKDeQKHUlKvSR4Kh",
+        "Result Album Name": "Autumn (Piano Solos)"
     }
 ]

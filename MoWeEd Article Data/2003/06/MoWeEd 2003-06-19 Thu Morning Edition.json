@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-06-19",
         "Day": "Thu",
-        "Scanned Date": "2021-05-29 16:02:07"
+        "Scanned Date": "2021-05-29 16:02:07",
+        "Playlist URI": "1duykIXE7nkRFaNP6KwR0f",
+        "Playlist Link": "https://open.spotify.com/playlist/1duykIXE7nkRFaNP6KwR0f",
+        "Snapshot ID": "MSwyNzMzZDllYmZiYjUzNjYyNWVlY2VmYmU3ZmFiOWQ4ZDg2Njg5ODNk",
+        "Playlist Name": "MoWeEd 2003-06-19 Thu Morning Edition"
     },
     {
         "Title": "Iraq - Part II",
@@ -22,13 +26,29 @@
         "MoWeEd Track": "From Russia With Love",
         "MoWeEd Artists": [
             "The Skatalites"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Trio No. 4 In B Flat for Piano, Clarinet, and Cello, Op. 1 Allegro Con Brio",
         "MoWeEd Artists": [
             "Ludwig Van Beethoven"
-        ]
+        ],
+        "Result Track Name": "Piano Trio No.4 in B flat, for Clarinet, Piano and Cello, Op. 11 \"Gassenhauer-Trio\": 1. Allegro con brio",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Reginald Kell",
+            "Frank Miller",
+            "Mieczysław Horszowski"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Pjs8GRvIPducXk5FAdEiu",
+        "Result Album Name": "Reginald Kell - The Complete American Decca Recordings"
     },
     {
         "Title": "Scientists Decipher Y Chromosome",
@@ -46,7 +66,15 @@
         "MoWeEd Track": "Three Dimensions: Wish",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Wish",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7yLg3CULAlJJAfXWRfblxz",
+        "Result Album Name": "Into Dark"
     },
     {
         "Title": "Congo Rebels Call Cease-Fire",
@@ -58,7 +86,12 @@
         "MoWeEd Track": "The Orange Stream",
         "MoWeEd Artists": [
             "Christof Knoche"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hillary Clinton's 'Living History'",
@@ -70,13 +103,31 @@
         "MoWeEd Track": "Theme from New York, New York",
         "MoWeEd Artists": [
             "Eric Reed"
-        ]
+        ],
+        "Result Track Name": "Theme From \" New York, New York\"",
+        "Result Artist Names": [
+            "Eric Reed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eKGKIcU63KeWAirzMyQ7L",
+        "Result Album Name": "Manhattan Melodies"
     },
     {
         "MoWeEd Track": "Preludes (3) for piano",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
+        "Result Artist Names": [
+            "George Gershwin",
+            "Gil Shaham",
+            "André Previn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0SIRzB0ZuR3LTPisCFPsAp",
+        "Result Album Name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine"
     },
     {
         "Title": "PeopleSoft - Oracle",
@@ -94,13 +145,29 @@
         "MoWeEd Track": "Stardust",
         "MoWeEd Artists": [
             "Philip Catherine"
-        ]
+        ],
+        "Result Track Name": "Stardust",
+        "Result Artist Names": [
+            "Philip Catherine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2adCO5jU4GBxKXWXazysJh",
+        "Result Album Name": "Guitar Groove"
     },
     {
         "MoWeEd Track": "A Foggy Day",
         "MoWeEd Artists": [
             "Cannonball Adderley Quintet"
-        ]
+        ],
+        "Result Track Name": "A Foggy Day",
+        "Result Artist Names": [
+            "The Cannonball Adderley Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3esapWrB61sfYX9LjTGcJK",
+        "Result Album Name": "At Newport"
     },
     {
         "Title": "Bush on Iran Nuclear Arms",
@@ -118,13 +185,23 @@
         "MoWeEd Track": "Suite for solo cello No. 2 in D minor, BWV 1008",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Snow Pony",
         "MoWeEd Artists": [
             "Cello"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "University President Testifies about Fugitive Brother",
@@ -142,7 +219,12 @@
         "MoWeEd Track": "In This Moment",
         "MoWeEd Artists": [
             "Renee Rosnes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "House Votes to Repeal Estate Tax",
@@ -154,7 +236,12 @@
         "MoWeEd Track": "All Blues",
         "MoWeEd Artists": [
             "GRP All-Star Big Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pearl Jam: Still a Touring Force",
@@ -166,7 +253,15 @@
         "MoWeEd Track": "Boom Boom",
         "MoWeEd Artists": [
             "Jeff Golub"
-        ]
+        ],
+        "Result Track Name": "Boom Boom",
+        "Result Artist Names": [
+            "Jeff Golub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mHw5ZWNET2HYDv6hR3Q1a",
+        "Result Album Name": "Soul Sessions"
     },
     {
         "Title": "Soccer Star David Beckham",
@@ -184,12 +279,28 @@
         "MoWeEd Track": "Another Chance",
         "MoWeEd Artists": [
             "Pat Metheny"
-        ]
+        ],
+        "Result Track Name": "Another Chance",
+        "Result Artist Names": [
+            "Pat Metheny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iWjK09PYEye17c1Ph9IrR",
+        "Result Album Name": "One Quiet Night"
     },
     {
         "MoWeEd Track": "I Cover the Waterfront",
         "MoWeEd Artists": [
             "Artie Shaw"
-        ]
+        ],
+        "Result Track Name": "I Cover The Waterfront (from the film \"I Cover The Waterfront\")",
+        "Result Artist Names": [
+            "Artie Shaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40R1HJ8gH1DnMk07qbvfOo",
+        "Result Album Name": "Greatest Hits"
     }
 ]

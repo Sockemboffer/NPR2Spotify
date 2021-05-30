@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2003-08-31",
         "Day": "Sun",
-        "Scanned Date": "2021-05-29 15:57:19"
+        "Scanned Date": "2021-05-29 15:57:19",
+        "Playlist URI": "3WQl1xXaOFEV9mHbCmQNqw",
+        "Playlist Link": "https://open.spotify.com/playlist/3WQl1xXaOFEV9mHbCmQNqw",
+        "Snapshot ID": "MSxiNjc3Yzk2ODg5ZDY5M2IxMTRhMDA4MDkyMDM3YzM5Nzg5YmYyZjUw",
+        "Playlist Name": "MoWeEd 2003-08-31 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News ",
@@ -28,7 +32,15 @@
         "MoWeEd Track": "At the Waters Edge",
         "MoWeEd Artists": [
             "Bob Holroyd"
-        ]
+        ],
+        "Result Track Name": "At the Waters Edge",
+        "Result Artist Names": [
+            "Bob Holroyd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6e4wIlEScXqYP8GA1Ianzz",
+        "Result Album Name": "Without Within"
     },
     {
         "Title": "A Life in Journalism ",
@@ -58,7 +70,15 @@
         "MoWeEd Track": "The Spaces in Between",
         "MoWeEd Artists": [
             "Bob Holroyd"
-        ]
+        ],
+        "Result Track Name": "The Spaces in Between",
+        "Result Artist Names": [
+            "Bob Holroyd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kKpEdprsbWYtaVXAO5H7B",
+        "Result Album Name": "Without Within"
     },
     {
         "Title": "Director's Cuts: New CDs from Mark Oliver Everett",
@@ -70,7 +90,12 @@
         "MoWeEd Track": "Borrasca",
         "MoWeEd Artists": [
             "Madera"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puzzle ",
@@ -96,7 +121,17 @@
             "PACO DE LUCIA",
             "AL DI MEOLA",
             "JOHN MCLAUGHLIN"
-        ]
+        ],
+        "Result Track Name": "Espiritu",
+        "Result Artist Names": [
+            "Paco de Lucía",
+            "John McLaughlin",
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5333333333333333,
+        "Result Track URI": "spotify:track:3LOP9wiWgEvOYsc1jlwghN",
+        "Result Album Name": "Integral"
     },
     {
         "Title": "Secretary of Labor",
@@ -114,7 +149,18 @@
         "MoWeEd Track": "Manalyuca",
         "MoWeEd Artists": [
             "McCoy Tyner"
-        ]
+        ],
+        "Result Track Name": "Manalyuca",
+        "Result Artist Names": [
+            "McCoy Tyner",
+            "Bobby Hutcherson",
+            "Charnett Moffett",
+            "Eric Harland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XvurawTuEmZfMeCLqkZH6",
+        "Result Album Name": "Land Of Giants"
     },
     {
         "Title": "Wind Power ",
@@ -132,7 +178,16 @@
         "MoWeEd Track": "String Quartet in E-flat Major, Op. 12: II. Canzonetta. Allegretto",
         "MoWeEd Artists": [
             "Juilliard String Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 1 in E-Flat Major, Op. 12: II. Canzonetta. Allegretto",
+        "Result Artist Names": [
+            "Felix Mendelssohn",
+            "Juilliard String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FCT3eDZDJjxmRqZMK3z4d",
+        "Result Album Name": "String Quartets: The Definitive Collection"
     },
     {
         "Title": "Box Wines ",
@@ -144,7 +199,15 @@
         "MoWeEd Track": "In the Still of the Night",
         "MoWeEd Artists": [
             "Aaron Neville"
-        ]
+        ],
+        "Result Track Name": "In The Still Of The Night",
+        "Result Artist Names": [
+            "Aaron Neville"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ERPMb35GsymrtgwCs6QRi",
+        "Result Album Name": "Nature Boy: The Standards Album"
     },
     {
         "Title": "Summer Reading: Julie Freischlag",
@@ -168,6 +231,11 @@
         "MoWeEd Track": "Micky Fick",
         "MoWeEd Artists": [
             "Art Neville"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-07-01",
         "Day": "Tue",
-        "Scanned Date": "2021-05-29 15:57:26"
+        "Scanned Date": "2021-05-29 15:57:26",
+        "Playlist URI": "2ht0H16KnaYk9NWVtoLGS8",
+        "Playlist Link": "https://open.spotify.com/playlist/2ht0H16KnaYk9NWVtoLGS8",
+        "Snapshot ID": "MSwwNWMyZjMyNzZmOThkNjA4ZDNmM2FhMmQyYmQwODRkMmYxNTRjNTY4",
+        "Playlist Name": "MoWeEd 2003-07-01 Tue Morning Edition"
     },
     {
         "Title": "Rumsfeld: U.S. May Send More Troops to Iraq",
@@ -23,14 +27,24 @@
         "MoWeEd Artists": [
             "Monica Robelotto",
             "David Darling"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Corezon",
         "MoWeEd Artists": [
             "Monica Robelotto",
             "David Darling"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Boston Archbishop Named",
@@ -49,7 +63,12 @@
         "MoWeEd Artists": [
             "Eos Orchestra",
             "Jonathan Sheffer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Do-Not-Call List",
@@ -67,13 +86,29 @@
         "MoWeEd Track": "Three Dimensions: Into Dark",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Into Dark",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OoTE42NxufkbTrZGjPzEQ",
+        "Result Album Name": "Into Dark"
     },
     {
         "MoWeEd Track": "Interlude",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Interlude",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fjvAdg8B5205PR9Z7zCAW",
+        "Result Album Name": "The Rodeo Eroded"
     },
     {
         "Title": "Medicaid",
@@ -91,13 +126,29 @@
         "MoWeEd Track": "The Penguin",
         "MoWeEd Artists": [
             "Raymond Scott Orchestrette"
-        ]
+        ],
+        "Result Track Name": "The Penguin",
+        "Result Artist Names": [
+            "The Raymond Scott Orchestrette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:285lxTxTLVOyDYNHX12iCH",
+        "Result Album Name": "Pushbutton Parfait"
     },
     {
         "MoWeEd Track": "Peter Tambourine",
         "MoWeEd Artists": [
             "Raymond Scott"
-        ]
+        ],
+        "Result Track Name": "Peter Tambourine",
+        "Result Artist Names": [
+            "Raymond Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ulXNt69fbWc3wHNMDeMMv",
+        "Result Album Name": "The Music Of Raymond Scott: Reckless Nights And Turkish Twilights"
     },
     {
         "Title": "Calif. Budget Crunch",
@@ -115,13 +166,29 @@
         "MoWeEd Track": "Hajj (the Journey)",
         "MoWeEd Artists": [
             "Abdullah Ibrahim"
-        ]
+        ],
+        "Result Track Name": "Hajj",
+        "Result Artist Names": [
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lkWk79HRBr53igJNd3RQO",
+        "Result Album Name": "The Journey"
     },
     {
         "MoWeEd Track": "You Don't Know What Love Is",
         "MoWeEd Artists": [
             "Chucho Valdés"
-        ]
+        ],
+        "Result Track Name": "You Don't Know What Love Is",
+        "Result Artist Names": [
+            "Chucho Valdés"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Uwf9QSzEPb40p3Fg6uKGC",
+        "Result Album Name": "New Conceptions"
     },
     {
         "Title": "Morning Edition Returns: Dead Man Walking",
@@ -147,7 +214,17 @@
             "Larry Coryell",
             "Badi Assad",
             "John Abercrombie"
-        ]
+        ],
+        "Result Track Name": "New Lute Prelude",
+        "Result Artist Names": [
+            "Larry Coryell",
+            "John Abercrombie",
+            "Badi Assad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rCfS8rqs2zZvMTiHVtCj8",
+        "Result Album Name": "Three Guitars"
     },
     {
         "Title": "Miami Hurricanes Join ACC",
@@ -159,7 +236,15 @@
         "MoWeEd Track": "Over the Moon",
         "MoWeEd Artists": [
             "Glenn Phillips"
-        ]
+        ],
+        "Result Track Name": "Over The Moon",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sMd23B4q2GMlcZ3hiqJgW",
+        "Result Album Name": "Angel Sparks"
     },
     {
         "Title": "Reservists' Deployment Takes Toll on families, Employers",
@@ -178,13 +263,27 @@
         "MoWeEd Artists": [
             "Bob Brookmeyer",
             "Kenny Wheeler"
-        ]
+        ],
+        "Result Track Name": "Where Do We Go From Here?",
+        "Result Artist Names": [
+            "Kenny Wheeler",
+            "John Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4kQFVtENXlpXdGlabRmSaq",
+        "Result Album Name": "Where Do We Go From Here?"
     },
     {
         "MoWeEd Track": "Night Walk",
         "MoWeEd Artists": [
             "Richard Todd"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dorothy Height: 'Open Wide the Freedom Gates'",
@@ -196,12 +295,28 @@
         "MoWeEd Track": "Time Goes On",
         "MoWeEd Artists": [
             "Pat Metheny"
-        ]
+        ],
+        "Result Track Name": "Time Goes On",
+        "Result Artist Names": [
+            "Pat Metheny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ugOaecZJdF1wOaVjURZJQ",
+        "Result Album Name": "One Quiet Night"
     },
     {
         "MoWeEd Track": "El Sueno [#]",
         "MoWeEd Artists": [
             "Stan Getz"
-        ]
+        ],
+        "Result Track Name": "El Sueno",
+        "Result Artist Names": [
+            "Stan Getz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sf7K8YxrsZBDQFtLtSAbv",
+        "Result Album Name": "Bossas & Ballads"
     }
 ]

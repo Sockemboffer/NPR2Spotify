@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2003-11-01",
         "Day": "Sat",
-        "Scanned Date": "2021-05-29 15:45:31"
+        "Scanned Date": "2021-05-29 15:45:31",
+        "Playlist URI": "0K1SHm2z7cByJGpTahzirR",
+        "Playlist Link": "https://open.spotify.com/playlist/0K1SHm2z7cByJGpTahzirR",
+        "Snapshot ID": "MSxhMTliYzAxOWUyZjVjYTU3MDQ0MzRmZTY2MDhjODBhYTk0OTVlMTFl",
+        "Playlist Name": "MoWeEd 2003-11-01 Sat Weekend Edition"
     },
     {
         "Title": "Calif. Fire Cost: $2 Billion",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Sami-Imas",
         "MoWeEd Artists": [
             "Lenni-Kalle Taipale Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Little Jack Russell",
         "MoWeEd Artists": [
             "Vibes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq Loan Plan Evaporates in Political Mists",
@@ -54,7 +68,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Sand",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yEQ5m4XnKcwaHT79OABFF",
+        "Result Album Name": "It's A Jungle In Here"
     },
     {
         "Title": "When Emus Attack",
@@ -66,7 +88,15 @@
         "MoWeEd Track": "Astral Traveling",
         "MoWeEd Artists": [
             "Pharoah Sanders"
-        ]
+        ],
+        "Result Track Name": "Astral Traveling",
+        "Result Artist Names": [
+            "Pharoah Sanders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55X66sKArUevBeGD7buroR",
+        "Result Album Name": "Thembi"
     },
     {
         "Title": "Rumsfeld: Mojo Man?",
@@ -84,7 +114,15 @@
         "MoWeEd Track": "Signals",
         "MoWeEd Artists": [
             "Chazz"
-        ]
+        ],
+        "Result Track Name": "Signals",
+        "Result Artist Names": [
+            "Chazz!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43Po7jIDfR1EUeGI63i5wM",
+        "Result Album Name": "Passing the Bar"
     },
     {
         "Title": "Annoying Music Man Meets Simon and Garfunkel",
@@ -108,7 +146,12 @@
         "MoWeEd Track": "God Gave Me Strength",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Priest's Murder Casts Doubts on Prison Policies",
@@ -126,7 +169,12 @@
         "MoWeEd Track": "Gil",
         "MoWeEd Artists": [
             "Directions In Groove"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Senate Offers Answer to Diplomatic Ticket Dodgers",
@@ -138,7 +186,15 @@
         "MoWeEd Track": "Astral Traveling",
         "MoWeEd Artists": [
             "Pharoah Sanders"
-        ]
+        ],
+        "Result Track Name": "Astral Traveling",
+        "Result Artist Names": [
+            "Pharoah Sanders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55X66sKArUevBeGD7buroR",
+        "Result Album Name": "Thembi"
     },
     {
         "Title": "Sheep Sounds Change with Stress Levels, Study Shows ",
@@ -156,6 +212,14 @@
         "MoWeEd Track": "Le Jardin d'Adonis",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": "Le jardin d'Adonis (To Marcel Dadi)",
+        "Result Artist Names": [
+            "Pierre Bensusan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3aR1bwTRgTcDcwm3M9mtHI",
+        "Result Album Name": "Intuite"
     }
 ]

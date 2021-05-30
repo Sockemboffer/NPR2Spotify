@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2003-10-19",
         "Day": "Sun",
-        "Scanned Date": "2021-05-29 15:50:27"
+        "Scanned Date": "2021-05-29 15:50:27",
+        "Playlist URI": "63uS2rfzAz5SM57kcsfX0h",
+        "Playlist Link": "https://open.spotify.com/playlist/63uS2rfzAz5SM57kcsfX0h",
+        "Snapshot ID": "MSw1ZDQyY2ViMjMzNmU4N2Q4OTQxZmUyN2QzNzk1ZjhhNjlkYjg2ODEz",
+        "Playlist Name": "MoWeEd 2003-10-19 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News ",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Theme from Fun Machine, Pt. 1",
         "MoWeEd Artists": [
             "Cut-Out"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Gladiolus Rag",
         "MoWeEd Artists": [
             "Joshua Rifkin"
-        ]
+        ],
+        "Result Track Name": "Gladiolus Rag - Remastered",
+        "Result Artist Names": [
+            "Joshua Rifkin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JO1b0j9r4blzNul71iv2o",
+        "Result Album Name": "Scott Joplin: Digital Ragtime/Wall Street Rag (Remastered)"
     },
     {
         "Title": "The Race for Flight",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Ndabaiwa [Kassahwa Revisited]",
         "MoWeEd Artists": [
             "Stella Chiweshe"
-        ]
+        ],
+        "Result Track Name": "Ndabaiwa",
+        "Result Artist Names": [
+            "Stella Chiweshe"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bvjrKN6CFef9yNGP4ewQK",
+        "Result Album Name": "Talking Mbira"
     },
     {
         "Title": "Sunday Puzzle",
@@ -82,13 +107,26 @@
         "MoWeEd Track": "Yeri Ali",
         "MoWeEd Artists": [
             "Clogs"
-        ]
+        ],
+        "Result Track Name": "Yeri Ali",
+        "Result Artist Names": [
+            "Clogs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wCxwJgrpKDnMAgryMGzC6",
+        "Result Album Name": "Thom's Night Out"
     },
     {
         "MoWeEd Track": "Your Time Now ('twill Be Mine After a While)",
         "MoWeEd Artists": [
             "Fats Waller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "North Korea's Kim Jong Il Profiled",
@@ -112,7 +150,16 @@
         "MoWeEd Track": "Steeplechase (Sittin' on 22's)",
         "MoWeEd Artists": [
             "Dan the Automator"
-        ]
+        ],
+        "Result Track Name": "Steeplechase (Sittin' On 22's) - Dan the Automator Remix",
+        "Result Artist Names": [
+            "Dan The Automator",
+            "Charlie Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eNh025eZdgacO6FCeJ9NL",
+        "Result Album Name": "Bird Up: The Charlie Parker Remix Project"
     },
     {
         "Title": "Cricket and Baseball ",
@@ -142,6 +189,11 @@
         "MoWeEd Track": "Strange Voyage",
         "MoWeEd Artists": [
             "Carmine Coppola and Francis Coppola"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

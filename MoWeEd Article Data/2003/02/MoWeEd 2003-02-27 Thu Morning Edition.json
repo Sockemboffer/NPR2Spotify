@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-02-27",
         "Day": "Thu",
-        "Scanned Date": "2021-05-29 16:14:14"
+        "Scanned Date": "2021-05-29 16:14:14",
+        "Playlist URI": "5jdVvZAt6orL1X9vg7m5tt",
+        "Playlist Link": "https://open.spotify.com/playlist/5jdVvZAt6orL1X9vg7m5tt",
+        "Snapshot ID": "MSw3NWM3MmRiYjk3MDk4NzUwYTZlYTFjODczZjI0Y2FmOTAwODY0Mzc5",
+        "Playlist Name": "MoWeEd 2003-02-27 Thu Morning Edition"
     },
     {
         "Title": "Karzai, Bush to Meet",
@@ -23,7 +27,15 @@
         "MoWeEd Artists": [
             "Béla Fleck",
             "the Flecktones"
-        ]
+        ],
+        "Result Track Name": "Hall Of Mirrors - Live at the Quick",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MpqeyM6wiwvJjWK7poCdj",
+        "Result Album Name": "Live at the Quick"
     },
     {
         "Title": "Conversations About Time - Part V",
@@ -35,13 +47,30 @@
         "MoWeEd Track": "Any Old Time",
         "MoWeEd Artists": [
             "Artie Shaw"
-        ]
+        ],
+        "Result Track Name": "Any Old Time",
+        "Result Artist Names": [
+            "Artie Shaw",
+            "Billie Holiday"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5laScgxkUUe2jlJu01aKRJ",
+        "Result Album Name": "Ultimate Big Band Collection: Artie Shaw"
     },
     {
         "MoWeEd Track": "Everything Is Jumpin'",
         "MoWeEd Artists": [
             "Artie Shaw"
-        ]
+        ],
+        "Result Track Name": "Everything Is Jumpin'",
+        "Result Artist Names": [
+            "Artie Shaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KIc94rnbucsuXr6SiwpZ5",
+        "Result Album Name": "Jazz Moods - Hot"
     },
     {
         "Title": "Joe Allbaugh",
@@ -53,7 +82,12 @@
         "MoWeEd Track": "On Approach",
         "MoWeEd Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Living Out'",
@@ -83,7 +117,15 @@
         "MoWeEd Track": "Heartland",
         "MoWeEd Artists": [
             "The Crusaders"
-        ]
+        ],
+        "Result Track Name": "Heartland",
+        "Result Artist Names": [
+            "The Crusaders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yfPZkovLCu7jVMftBkoaG",
+        "Result Album Name": "Rural Renewal"
     },
     {
         "Title": "Bush Details Post-Saddam Iraq",
@@ -101,7 +143,12 @@
         "MoWeEd Track": "Sacred Heart",
         "MoWeEd Artists": [
             "Patrick O'Hearn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lawmakers Probe Alleged Corruption at Los Alamos Lab",
@@ -119,7 +166,15 @@
         "MoWeEd Track": "The Plug",
         "MoWeEd Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "The Plug",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ilUK78Mc8Z7MXvVy3jTmw",
+        "Result Album Name": "Animal Magic"
     },
     {
         "Title": "TV's Mister Rogers Dies",
@@ -143,7 +198,17 @@
         "MoWeEd Track": "Mitopa",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Mitopa",
+        "Result Artist Names": [
+            "PAUL-BERT 'ROSSY' RAHASIMANANA",
+            "John Williams",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eJzBfeXLaZwXU53aIQY7Z",
+        "Result Album Name": "John Williams & John Etheridge: Places Between"
     },
     {
         "Title": "'Salt of the Earth'",
@@ -155,6 +220,14 @@
         "MoWeEd Track": "Acoustic Fun (K)",
         "MoWeEd Artists": [
             "Peppino d'Agostino"
-        ]
+        ],
+        "Result Track Name": "Acoustic Fun(K)",
+        "Result Artist Names": [
+            "Peppino D'Agostino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5dInpYOabV5UDMPQDwmBZL",
+        "Result Album Name": "Close to the Heart"
     }
 ]

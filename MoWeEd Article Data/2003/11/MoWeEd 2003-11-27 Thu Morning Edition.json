@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-11-27",
         "Day": "Thu",
-        "Scanned Date": "2021-05-29 15:48:12"
+        "Scanned Date": "2021-05-29 15:48:12",
+        "Playlist URI": "0hzGAJmnLoGsacqKC2el1q",
+        "Playlist Link": "https://open.spotify.com/playlist/0hzGAJmnLoGsacqKC2el1q",
+        "Snapshot ID": "MSwxNmVkYTcwYjRmZDY0ZGJiZDVjY2MyNGE3YmQ4OWQwYWIxNjU1MTRk",
+        "Playlist Name": "MoWeEd 2003-11-27 Thu Morning Edition"
     },
     {
         "Title": "Innocents Arrested in Iraq",
@@ -22,14 +26,31 @@
         "MoWeEd Track": "Greasy Spoon",
         "MoWeEd Artists": [
             "The Crusaders"
-        ]
+        ],
+        "Result Track Name": "Greasy Spoon",
+        "Result Artist Names": [
+            "The Crusaders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jT1g7hj5b9QISuNP4rHWx",
+        "Result Album Name": "Southern Comfort"
     },
     {
         "MoWeEd Track": "OGD (Road Song)",
         "MoWeEd Artists": [
             "Wes Montgomery",
             "Jimmy Smith"
-        ]
+        ],
+        "Result Track Name": "OGD (Road Song)",
+        "Result Artist Names": [
+            "Jimmy Smith",
+            "Wes Montgomery"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3I5JpwMtwnDaYA4S9rPmPy",
+        "Result Album Name": "Further Adventures Of Jimmy And Wes"
     },
     {
         "Title": "Is Risk of Disease in Food Supply Increasing?",
@@ -47,7 +68,15 @@
         "MoWeEd Track": "Port-Au-Prince",
         "MoWeEd Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "Port Au Prince",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HB5uYfa0DNPJvmlnXaiCP",
+        "Result Album Name": "Forbidden Island"
     },
     {
         "Title": "'Morning Edition' Returns: Lassie Who?",
@@ -65,7 +94,15 @@
         "MoWeEd Track": "Valse No. 2",
         "MoWeEd Artists": [
             "Toots Thielemans"
-        ]
+        ],
+        "Result Track Name": "Valse No. 2",
+        "Result Artist Names": [
+            "Toots Thielemans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2O8MRgIA3comDFVoVdn33E",
+        "Result Album Name": "Chez Toots"
     },
     {
         "Title": "Bob Edwards' Thanksgiving Fantasy Feast",
@@ -84,13 +121,30 @@
         "MoWeEd Artists": [
             "Turtle Island String Quartet",
             "Paquito D'Rivera"
-        ]
+        ],
+        "Result Track Name": "Girl From Pathetique",
+        "Result Artist Names": [
+            "Paquito D'Rivera",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qt6l5omGYpyHYXzEo3t1k",
+        "Result Album Name": "Danzon"
     },
     {
         "MoWeEd Track": "Plaisir d'Amour",
         "MoWeEd Artists": [
             "Jacky Terrasson"
-        ]
+        ],
+        "Result Track Name": "Plaisir D'Amour",
+        "Result Artist Names": [
+            "Jacky Terrasson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6a73OkTQ4v6XQp9HQyJxg4",
+        "Result Album Name": "A Paris"
     },
     {
         "Title": "Alex Bambera Lives His Bakery Dream",
@@ -108,13 +162,29 @@
         "MoWeEd Track": "Upright",
         "MoWeEd Artists": [
             "Philip Aaberg"
-        ]
+        ],
+        "Result Track Name": "The Big Open/Upright",
+        "Result Artist Names": [
+            "Philip Aaberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cjClcbmQndishvg6ARjf2",
+        "Result Album Name": "Live From Montana"
     },
     {
         "MoWeEd Track": "Welcome to the Church of St. Anytime",
         "MoWeEd Artists": [
             "Philip Aaberg"
-        ]
+        ],
+        "Result Track Name": "Welcome to the Church of St. Anytime",
+        "Result Artist Names": [
+            "Philip Aaberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6z5nhc1QGfZ93AxCTti6eZ",
+        "Result Album Name": "Upright"
     },
     {
         "Title": "Powell Touts Mideast 'Roadmap'",
@@ -126,13 +196,23 @@
         "MoWeEd Track": "String Quartet No. 66 in G major, Op. 77/1, H. 3/81",
         "MoWeEd Artists": [
             "Alban Berg Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "String Quartet In Major, Op. 77 No. 2 -- I: Allegro Moderato",
         "MoWeEd Artists": [
             "Alben Berg Quartett"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The True, Grim Story of the First Thanksgiving",
@@ -156,7 +236,15 @@
         "MoWeEd Track": "Stinkie Twinkie [Remix]",
         "MoWeEd Artists": [
             "Nicholas Payton"
-        ]
+        ],
+        "Result Track Name": "Stinkie Twinkie - Remix",
+        "Result Artist Names": [
+            "Nicholas Payton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BVCxZWfgs6zXYFEyzL8fW",
+        "Result Album Name": "Sonic Trance"
     },
     {
         "Title": "Red Cross Ends West Bank Emergency Food Program",
@@ -168,7 +256,15 @@
         "MoWeEd Track": "Derfor Kan Vort ØJe Glædes",
         "MoWeEd Artists": [
             "Niels-Henning Ørsted Pedersen"
-        ]
+        ],
+        "Result Track Name": "Derfor Kan Vort Oje Glaedes",
+        "Result Artist Names": [
+            "Niels-Henning Ørsted Pedersen"
+        ],
+        "Result Track-Match Percent": 0.6,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nxHhmzAecigki9XMIoxH2",
+        "Result Album Name": "Those Who Were"
     },
     {
         "Title": "Texas Ranchers Set Sights on Organic Beef",
@@ -180,13 +276,30 @@
         "MoWeEd Track": "Rainbow",
         "MoWeEd Artists": [
             "Doc Watson"
-        ]
+        ],
+        "Result Track Name": "Rainbow - Instrumental",
+        "Result Artist Names": [
+            "Doc Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hnb6rpvIxwbFvinRnfkZq",
+        "Result Album Name": "Foundation: The Doc Watson Guitar Instrumental Collection 1964-1998"
     },
     {
         "MoWeEd Track": "Lucky to Be Me",
         "MoWeEd Artists": [
             "Jean-Yves Thibaudet"
-        ]
+        ],
+        "Result Track Name": "Lucky To Be Me",
+        "Result Artist Names": [
+            "Leonard Bernstein",
+            "Jean-Yves Thibaudet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yH1EIRBzotmXZyq2QHTe3",
+        "Result Album Name": "Conversations with Bill Evans"
     },
     {
         "Title": "'Prairie Diaries': The Monday Luncheon",
@@ -198,12 +311,22 @@
         "MoWeEd Track": "Ode to Slip 'n' Slide",
         "MoWeEd Artists": [
             "Bill Parsons"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sliced Wild Potato",
         "MoWeEd Artists": [
             "Terumasa Hino-Masabumi Kikuchi Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

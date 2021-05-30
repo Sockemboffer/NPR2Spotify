@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-03-03",
         "Day": "Mon",
-        "Scanned Date": "2021-05-29 16:08:51"
+        "Scanned Date": "2021-05-29 16:08:51",
+        "Playlist URI": "16oX0F7TSEG11lEUetIzAR",
+        "Playlist Link": "https://open.spotify.com/playlist/16oX0F7TSEG11lEUetIzAR",
+        "Snapshot ID": "MSwzNDFkNDU0ZmNjMzRjMmY5NTQ0MWUxODMxYzhkNDIxOTVlYzljMjA5",
+        "Playlist Name": "MoWeEd 2003-03-03 Mon Morning Edition"
     },
     {
         "Title": "Accused 9/11 Planner Held",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Passion",
         "MoWeEd Artists": [
             "R.E.G. Project"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wayne Slater and James Moore",
@@ -34,7 +43,15 @@
         "MoWeEd Track": "6/16",
         "MoWeEd Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "6/16",
+        "Result Artist Names": [
+            "Matt Flinner Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pMf43qth1IBltQQiU1VDx",
+        "Result Album Name": "Walking on the Moon"
     },
     {
         "Title": "Morning Edition Returns: Car Trouble",
@@ -52,7 +69,12 @@
         "MoWeEd Track": "Ocean [Infectious Waves Mix]",
         "MoWeEd Artists": [
             "Monica Ramos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rural Schools Criticize White House Education Plan ",
@@ -71,7 +93,15 @@
         "MoWeEd Artists": [
             "Ottmar Liebert",
             "Luna Negra"
-        ]
+        ],
+        "Result Track Name": "Dancing Under The Moon",
+        "Result Artist Names": [
+            "Ottmar Liebert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4PhzWCt6O5Pi4Sqk6mzi96",
+        "Result Album Name": "Barcelona Nights: The Best Of Ottmar Liebert Volume One"
     },
     {
         "Title": "Terror Risk",
@@ -84,7 +114,15 @@
         "MoWeEd Artists": [
             "Code Indigo",
             "Sharon Wolfe"
-        ]
+        ],
+        "Result Track Name": "Syncgate",
+        "Result Artist Names": [
+            "Code Indigo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6U45Bs2vMdJsWutHqC1Blc",
+        "Result Album Name": "Uforia"
     },
     {
         "Title": "Week in Politics",
@@ -102,7 +140,15 @@
         "MoWeEd Track": "Blue Rose",
         "MoWeEd Artists": [
             "Chuck Leavell"
-        ]
+        ],
+        "Result Track Name": "Blue Rose",
+        "Result Artist Names": [
+            "Chuck Leavell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jEPM6XxZSpevK6EsA5N9m",
+        "Result Album Name": "Forever Blue"
     },
     {
         "Title": "Jobless Rate in Pacific Northwest Highest in Nation",
@@ -115,7 +161,15 @@
         "MoWeEd Artists": [
             "Béla Fleck",
             "the Flecktones"
-        ]
+        ],
+        "Result Track Name": "Lover's Leap - Live at the Quick",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FGbuRUoCczQkJjFSuO5rg",
+        "Result Album Name": "Live at the Quick"
     },
     {
         "Title": "Morning Edition Returns: Or Is It a Werewolf?",
@@ -145,6 +199,14 @@
         "MoWeEd Track": "O.N.E.O.",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "O.N.E.O",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ub1MYXFzDVvRkGpTRAaSL",
+        "Result Album Name": "The Rodeo Eroded"
     }
 ]

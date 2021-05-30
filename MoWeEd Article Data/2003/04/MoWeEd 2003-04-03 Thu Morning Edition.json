@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-04-03",
         "Day": "Thu",
-        "Scanned Date": "2021-05-29 16:06:13"
+        "Scanned Date": "2021-05-29 16:06:13",
+        "Playlist URI": "36p2yI3xfH9no6ZpLS7uGr",
+        "Playlist Link": "https://open.spotify.com/playlist/36p2yI3xfH9no6ZpLS7uGr",
+        "Snapshot ID": "MSxjNjllOTA3MzEyOThiNDc2MGZjZTRiZmRhM2FlOGY4MTViODEwNzhk",
+        "Playlist Name": "MoWeEd 2003-04-03 Thu Morning Edition"
     },
     {
         "Title": "Search for Pilot of Downed Jet",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Brandenburg Variation (After Bach)",
         "MoWeEd Artists": [
             "Mike Batt"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mr. Coolberg",
         "MoWeEd Artists": [
             "David Grisman Quintet"
-        ]
+        ],
+        "Result Track Name": "Mr. Coolberg",
+        "Result Artist Names": [
+            "DAVID GRISMAN QUINTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3B2aO72riy2mns8idG0NVP",
+        "Result Album Name": "Dawgnation"
     },
     {
         "Title": "Talks on Post-War Iraq",
@@ -46,7 +63,12 @@
         "MoWeEd Track": "Hymn: Page 9/11",
         "MoWeEd Artists": [
             "Peter Ostroushko"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Groups Warn Against Pentagon Control of Iraq Relief",
@@ -58,7 +80,12 @@
         "MoWeEd Track": "Eiweifs",
         "MoWeEd Artists": [
             "Schneider Tm"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "CDC Investigates SARS Cases in United States",
@@ -76,13 +103,26 @@
         "MoWeEd Track": "Here and Now",
         "MoWeEd Artists": [
             "Philip Catherine"
-        ]
+        ],
+        "Result Track Name": "Here and Now",
+        "Result Artist Names": [
+            "Philip Catherine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nXOvJRK6N3ZmShnzNUYWu",
+        "Result Album Name": "Guitar Groove"
     },
     {
         "MoWeEd Track": "Vendiendo Algería",
         "MoWeEd Artists": [
             "Wayne Shorter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "EarthViewer",
@@ -100,7 +140,12 @@
         "MoWeEd Track": "Arms and Voices (reprise)",
         "MoWeEd Artists": [
             "Paul Carrol Binkley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "War in Iraq: Pentagon",
@@ -118,13 +163,29 @@
         "MoWeEd Track": "Nocturne From Lyric Pieces, Op. 54",
         "MoWeEd Artists": [
             "Steve Erquiaga"
-        ]
+        ],
+        "Result Track Name": "Nocturne from Op. 54 Lyric Pieces",
+        "Result Artist Names": [
+            "Steve Erquiaga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50yd6D2b6wU1wVKqNmc71H",
+        "Result Album Name": "Adagio: A Windham Hill Collection"
     },
     {
         "MoWeEd Track": "Blood Count [Live]",
         "MoWeEd Artists": [
             "Stan Getz"
-        ]
+        ],
+        "Result Track Name": "Blood Count - Live At Jazzhus Montmartre, Copenhagen / 1987",
+        "Result Artist Names": [
+            "Stan Getz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oiWUPDEzcU5VlUVp1GaTR",
+        "Result Album Name": "Jazz 'Round Midnight: Duke Ellington - Billy Strayhorn Songbook"
     },
     {
         "Title": "Church Lawsuit",
@@ -142,7 +203,15 @@
         "MoWeEd Track": "A Fathers Love",
         "MoWeEd Artists": [
             "Steve Haun"
-        ]
+        ],
+        "Result Track Name": "A Father's Love",
+        "Result Artist Names": [
+            "Steve Haun"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6SiVZKbXxdi1ozItIQAwW2",
+        "Result Album Name": "Impressions of the Rocky Mountains II"
     },
     {
         "Title": "Antique Dealer, North Carolina Fight for Bill of Rights Copy",
@@ -154,7 +223,16 @@
         "MoWeEd Track": "Chester",
         "MoWeEd Artists": [
             "Goldman Band"
-        ]
+        ],
+        "Result Track Name": "Chester - from the Greatest Band In The Land;2001 Digital Remaster",
+        "Result Artist Names": [
+            "William Billings",
+            "The Goldman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2W6ldlPld4gOxoy7PPIss8",
+        "Result Album Name": "Greatest Band In The Land!"
     },
     {
         "Title": "War in Iraq: View form the Ground",
@@ -173,13 +251,26 @@
         "MoWeEd Artists": [
             "Zero 7",
             "Henry Binns et. al."
-        ]
+        ],
+        "Result Track Name": "Polaris",
+        "Result Artist Names": [
+            "Zero 7"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7B3iRiCfPdQn0Uz0LTFQuy",
+        "Result Album Name": "EP2"
     },
     {
         "MoWeEd Track": "Slight Accent",
         "MoWeEd Artists": [
             "Ray Obiedo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "William Wegman",
@@ -197,7 +288,15 @@
         "MoWeEd Track": "O Superman (For Massenet)",
         "MoWeEd Artists": [
             "Laurie Anderson"
-        ]
+        ],
+        "Result Track Name": "O Superman (For Massenet) - Remastered",
+        "Result Artist Names": [
+            "Laurie Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4W375GW8GBI3x9nR4cfRfK",
+        "Result Album Name": "Talk Normal: The Laurie Anderson Anthology"
     },
     {
         "Title": "Marines",

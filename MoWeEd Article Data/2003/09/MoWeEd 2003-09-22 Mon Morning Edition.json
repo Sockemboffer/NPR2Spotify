@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-09-22",
         "Day": "Mon",
-        "Scanned Date": "2021-05-29 15:53:48"
+        "Scanned Date": "2021-05-29 15:53:48",
+        "Playlist URI": "0A6bzRVnvHyPJIt1RhxfTB",
+        "Playlist Link": "https://open.spotify.com/playlist/0A6bzRVnvHyPJIt1RhxfTB",
+        "Snapshot ID": "MSwwMWJhYjk1NjdmOGMwZWJiZGU2N2VjODdlMjBmNGQwMmVkZjk1NmNi",
+        "Playlist Name": "MoWeEd 2003-09-22 Mon Morning Edition"
     },
     {
         "Title": "Suicide Bombing in Baghdad",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Bothell Suite: Oak Hill",
         "MoWeEd Artists": [
             "Ross Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Latitude",
         "MoWeEd Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "Latitude",
+        "Result Artist Names": [
+            "Matt Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Cedq4guMoLntlo0JjlbQJ",
+        "Result Album Name": "Latitude"
     },
     {
         "Title": "New Hampshire Voters",
@@ -58,7 +75,12 @@
         "MoWeEd Track": "Nigel & Nice Are Sleeping",
         "MoWeEd Artists": [
             "Vivid Low Sky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mental Illness  in Children - Part I",
@@ -70,13 +92,29 @@
         "MoWeEd Track": "Troubled Sleep",
         "MoWeEd Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "Troubled Sleep",
+        "Result Artist Names": [
+            "Matt Flinner Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wbwfYhj9uqxg6SljjzAUx",
+        "Result Album Name": "Walking on the Moon"
     },
     {
         "MoWeEd Track": "Half Nelson",
         "MoWeEd Artists": [
             "Miles Davis All-Stars"
-        ]
+        ],
+        "Result Track Name": "Half Nelson",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5nC3RWzhSjjgxaXSSYtSch",
+        "Result Album Name": "First Steps: First Recordings From The Creators Of Modern Jazz"
     },
     {
         "Title": "Economists Cautious About Impact of Tax Cuts",
@@ -95,7 +133,12 @@
         "MoWeEd Artists": [
             "Christophe Schweizer",
             "Normal Garden"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Week in Politics",
@@ -113,7 +156,12 @@
         "MoWeEd Track": "String Quartet No. 60 in G major, Op. 76/1, H. 3/75",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Library Hotel Sued",
@@ -137,7 +185,12 @@
         "MoWeEd Track": "I Heard Somebody Call",
         "MoWeEd Artists": [
             "David Maxwell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Oakland Anxiously Awaits Police Verdicts",
@@ -150,7 +203,16 @@
         "MoWeEd Artists": [
             "John Etheridge",
             "Andy Summers"
-        ]
+        ],
+        "Result Track Name": "Counting the Days",
+        "Result Artist Names": [
+            "Andy Summers",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FctNGZ3U2tUQE2YK4Nvta",
+        "Result Album Name": "Invisible Threads"
     },
     {
         "Title": "Atlanta Public Schools Shrink as City Grows",
@@ -168,13 +230,29 @@
         "MoWeEd Track": "Bill",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Bill",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gLqb1Fq2CVqIzEItXjAEA",
+        "Result Album Name": "Nebraska (Original Soundtrack)"
     },
     {
         "MoWeEd Track": "Wee Dot",
         "MoWeEd Artists": [
             "Cannonball Adderley Quintet"
-        ]
+        ],
+        "Result Track Name": "Wee Dot",
+        "Result Artist Names": [
+            "The Cannonball Adderley Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IBc28La1sLD9IbwPsEfoO",
+        "Result Album Name": "At Newport"
     },
     {
         "Title": "Family Travel in the Nick of Time",
@@ -186,12 +264,31 @@
         "MoWeEd Track": "Guitar Makossa",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Guitar Makossa",
+        "Result Artist Names": [
+            "Francis Bebey",
+            "John Williams",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Z5L4jckL9M4XkRDFgQ7vT",
+        "Result Album Name": "The Magic Box"
     },
     {
         "MoWeEd Track": "Down a Country Lane",
         "MoWeEd Artists": [
             "Ramon Salvatore"
-        ]
+        ],
+        "Result Track Name": "Down a Country Lane",
+        "Result Artist Names": [
+            "Aaron Copland",
+            "Ramon Salvatore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QZHVrlBxp7UE6EvVCJ9Ll",
+        "Result Album Name": "Copland: Piano Music"
     }
 ]

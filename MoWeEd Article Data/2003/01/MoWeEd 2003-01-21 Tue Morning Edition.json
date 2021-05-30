@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-01-21",
         "Day": "Tue",
-        "Scanned Date": "2021-05-29 16:16:14"
+        "Scanned Date": "2021-05-29 16:16:14",
+        "Playlist URI": "4JXWvl3thUvkX54WW0JDJN",
+        "Playlist Link": "https://open.spotify.com/playlist/4JXWvl3thUvkX54WW0JDJN",
+        "Snapshot ID": "MSw1YTliZDFiMmFiMWI2MTNlZjE3YTkxNmI4NDA1OGY2NTM5OWJiY2Zm",
+        "Playlist Name": "MoWeEd 2003-01-21 Tue Morning Edition"
     },
     {
         "Title": "France May Veto War Resolution",
@@ -22,7 +26,15 @@
         "MoWeEd Track": "Shakedown",
         "MoWeEd Artists": [
             "Four80East"
-        ]
+        ],
+        "Result Track Name": "Shakedown",
+        "Result Artist Names": [
+            "Four80East"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bGfIHxqEESJVMsGVGP5ts",
+        "Result Album Name": "Nocturnal"
     },
     {
         "Title": "Local Officials Say Homeland Security Suffering",
@@ -34,7 +46,16 @@
         "MoWeEd Track": "IV Allegro Molto [Sonata in F Major]",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Sonata No. 2 in F Major, Op. 99: IV. Allegro molto",
+        "Result Artist Names": [
+            "Johannes Brahms",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uIFNNhPDtEKK38zGXrUck",
+        "Result Album Name": "Brahms: Sonatas for Cello & Piano, Opp. 38, 99 and 108"
     },
     {
         "Title": "Morning Edition Returns: Don't Mess with the Mascot",
@@ -89,7 +110,12 @@
         "MoWeEd Artists": [
             "Abdellatif Al Amnaoui",
             "Brasim Dahouz et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: Fictitious School",
@@ -107,7 +133,12 @@
         "MoWeEd Track": "Fortune Smiles",
         "MoWeEd Artists": [
             "Barbara Higbie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Al Hirschfeld",
@@ -125,6 +156,15 @@
         "MoWeEd Track": "Appalachian Spring",
         "MoWeEd Artists": [
             "The Boston Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Appalachian Spring",
+        "Result Artist Names": [
+            "Aaron Copland",
+            "Boston Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3iVGz8Qqovz1nmjumgYFmY",
+        "Result Album Name": "Copland Conducts Copland"
     }
 ]

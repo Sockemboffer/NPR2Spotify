@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-01-07",
         "Day": "Tue",
-        "Scanned Date": "2021-05-29 16:14:50"
+        "Scanned Date": "2021-05-29 16:14:50",
+        "Playlist URI": "1avpt7vZSnS9Vo2EPWsfrD",
+        "Playlist Link": "https://open.spotify.com/playlist/1avpt7vZSnS9Vo2EPWsfrD",
+        "Snapshot ID": "MSwyMjEyMTE4YjNiMGE3OTk0MzdmZDViNDZjODkwMWUyZjA2Y2UyMWJk",
+        "Playlist Name": "MoWeEd 2003-01-07 Tue Morning Edition"
     },
     {
         "Title": "Bush to Unveil Economic Plan",
@@ -52,7 +56,17 @@
         "MoWeEd Track": "Concerto for Two Trumpets in C Major, RV. 537: I. Allegro",
         "MoWeEd Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Concerto for Two Trumpets in C Major, RV. 537; I. Allegro",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Wynton Marsalis",
+            "Raymond Leppard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63HAZsPvgR2ZcFh6zyjbPD",
+        "Result Album Name": "Classic Wynton"
     },
     {
         "Title": "World Bank, IMF: Privatize Water Utilities",
@@ -65,7 +79,12 @@
         "MoWeEd Artists": [
             "Geoff Smith",
             "Nicola Walker Smith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.N. Warns N. Korea",
@@ -84,7 +103,12 @@
         "MoWeEd Artists": [
             "Geoff Smith",
             "Nicola Walker Smith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Morning Edition Returns: 8th Century Cable TV?",
@@ -102,7 +126,12 @@
         "MoWeEd Track": "Presto from Quartet No.13 in B Major, Opus 130",
         "MoWeEd Artists": [
             "The Blair String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Companies Focus on 'Wearable' Technology",
@@ -120,7 +149,12 @@
         "MoWeEd Track": "Voyage for Ireland",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iowa Loves Kenyans",
@@ -132,6 +166,15 @@
         "MoWeEd Track": "Spiral",
         "MoWeEd Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Spiral",
+        "Result Artist Names": [
+            "Jeremy Wall",
+            "Richard Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7D0giaYQNlsfp1a0HSvXqI",
+        "Result Album Name": "Begin Sweet World"
     }
 ]

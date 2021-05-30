@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2003-05-17",
         "Day": "Sat",
-        "Scanned Date": "2021-05-29 16:04:33"
+        "Scanned Date": "2021-05-29 16:04:33",
+        "Playlist URI": "3f0QTjUvUzMehuoSzCuAhK",
+        "Playlist Link": "https://open.spotify.com/playlist/3f0QTjUvUzMehuoSzCuAhK",
+        "Snapshot ID": "MSxmOTQzOTFmY2VhYTA5YWU0Y2Y2MTI5ODM1NzM3YmQ5NzQxYjYwZDQ4",
+        "Playlist Name": "MoWeEd 2003-05-17 Sat Weekend Edition"
     },
     {
         "Title": "Casablanca Blasts Kill 40",
@@ -22,13 +26,27 @@
         "MoWeEd Track": "Appalachia Waltz (solo Cello Version)",
         "MoWeEd Artists": [
             "Yo-yo Ma"
-        ]
+        ],
+        "Result Track Name": "Appalachia Waltz (Version for Cello) - Solo Cello Version",
+        "Result Artist Names": [
+            "Mark O'Connor",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6su5ZAnXX5Wk32zlyl9sWo",
+        "Result Album Name": "Solo"
     },
     {
         "MoWeEd Track": "Red Desert",
         "MoWeEd Artists": [
             "Claude Chalhoub"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sharon, Abbas to Meet",
@@ -52,7 +70,15 @@
         "MoWeEd Track": "River",
         "MoWeEd Artists": [
             "Margie Adam"
-        ]
+        ],
+        "Result Track Name": "River",
+        "Result Artist Names": [
+            "Margie Adam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hXcuRdZC6jO44gZicTwpQ",
+        "Result Album Name": "Soon and Again"
     },
     {
         "Title": "Soccer Returns to Baghdad",
@@ -64,7 +90,15 @@
         "MoWeEd Track": "Yor-Yor (Song to the Bride)",
         "MoWeEd Artists": [
             "Sevara Nazarkhan"
-        ]
+        ],
+        "Result Track Name": "Yor-Yor",
+        "Result Artist Names": [
+            "Sevara Nazarkhan"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7KklYNDBV41hlNW5VIuPHj",
+        "Result Album Name": "Yol Bolsin (Real World Gold)"
     },
     {
         "Title": "The Week in Basketball",
@@ -88,7 +122,16 @@
         "MoWeEd Track": "Cello Song",
         "MoWeEd Artists": [
             "Ashley MacIsaac"
-        ]
+        ],
+        "Result Track Name": "' Cello Song",
+        "Result Artist Names": [
+            "Nick Drake",
+            "Ashley MacIsaac"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ab6cQ8CtAoM9nafkEJEZs",
+        "Result Album Name": "Ashley MacIsaac"
     },
     {
         "Title": "The Week in Review with Daniel Schorr",
@@ -106,7 +149,12 @@
         "MoWeEd Track": "Oriental Images",
         "MoWeEd Artists": [
             "Claude Chalhoub"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Texas Politics: A Contact Sport",
@@ -148,6 +196,14 @@
         "MoWeEd Track": "Things Are What You Make of Them (Reprise)",
         "MoWeEd Artists": [
             "Bishop Allen"
-        ]
+        ],
+        "Result Track Name": "Things Are What You Make Of Them (reprise)",
+        "Result Artist Names": [
+            "Bishop Allen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WPGvdsnBaSH3dGhIm5eQn",
+        "Result Album Name": "Charm School"
     }
 ]

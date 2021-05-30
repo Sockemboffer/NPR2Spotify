@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-05-26",
         "Day": "Mon",
-        "Scanned Date": "2021-05-29 16:05:25"
+        "Scanned Date": "2021-05-29 16:05:25",
+        "Playlist URI": "3Z2Ev5sGroAVl0j3UVTm4X",
+        "Playlist Link": "https://open.spotify.com/playlist/3Z2Ev5sGroAVl0j3UVTm4X",
+        "Snapshot ID": "MSxmNzgxMTIwN2U5OTQ5M2Y1NGEyNTYzNWZhZDgwYTU5ZGIwMGE2MjVl",
+        "Playlist Name": "MoWeEd 2003-05-26 Mon Morning Edition"
     },
     {
         "Title": "U.S. Embassy Reopens in Riyadh",
@@ -22,14 +26,24 @@
         "MoWeEd Track": "Prayer, From Jewish Life, No. 1",
         "MoWeEd Artists": [
             "Nina Kotova"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sleepers Awake",
         "MoWeEd Artists": [
             "Mark Small",
             "Robert Torres"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "India/ Pakistan",
@@ -53,7 +67,15 @@
         "MoWeEd Track": "Laura Lorenza",
         "MoWeEd Artists": [
             "Willie and Lobo"
-        ]
+        ],
+        "Result Track Name": "Laura Lorenza",
+        "Result Artist Names": [
+            "Willie And Lobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1VmqlM7VtpYH2nZJaWtmQ9",
+        "Result Album Name": "Mañana"
     },
     {
         "Title": "Montana Indian Tribes Seek Control of Bison Range",
@@ -84,7 +106,16 @@
         "MoWeEd Artists": [
             "Mike Marshall",
             "Chris Thile"
-        ]
+        ],
+        "Result Track Name": "What A Blast!",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Chris Thile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rucmldlUR0exTmcxg5f0Q",
+        "Result Album Name": "Into The Cauldron"
     },
     {
         "Title": "Israel OK's Mideast Peace Plan",
@@ -102,13 +133,29 @@
         "MoWeEd Track": "Turn It Out",
         "MoWeEd Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Turn It Out",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43rMaKOYyFV1B1DAWbe7s8",
+        "Result Album Name": "Turn It Out"
     },
     {
         "MoWeEd Track": "Brother Soul",
         "MoWeEd Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Brother Soul",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3zA0B9vUbWlwcqi2kkzz9Q",
+        "Result Album Name": "Get Down"
     },
     {
         "Title": "Sports Academies",
@@ -120,7 +167,12 @@
         "MoWeEd Track": "Brown Sugar",
         "MoWeEd Artists": [
             "B.W.B."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Women Chefs",
@@ -132,7 +184,15 @@
         "MoWeEd Track": "Why Was I Born?",
         "MoWeEd Artists": [
             "The George Barnes Quartet"
-        ]
+        ],
+        "Result Track Name": "Why Was I Born?",
+        "Result Artist Names": [
+            "George Nes Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5EIjyw24gKJ1b3G8DTMlAk",
+        "Result Album Name": "Don't Get Around Much Anymore"
     },
     {
         "Title": "Disabled Vets",
@@ -145,13 +205,32 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Recording Arts Orchestra Of Los Angeles"
-        ]
+        ],
+        "Result Track Name": "American Collection Theme - Extended Version",
+        "Result Artist Names": [
+            "John Williams",
+            "Yo-Yo Ma",
+            "Recording Artists Orchestra of Los Angeles"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:14p8BlsEx8FsE5BUBuh1qU",
+        "Result Album Name": "Classic Yo-Yo"
     },
     {
         "MoWeEd Track": "Walkin' -N- Rhythm",
         "MoWeEd Artists": [
             "Slide Hampton and the World of Trombones"
-        ]
+        ],
+        "Result Track Name": "Walkin'-n-Rhythm",
+        "Result Artist Names": [
+            "Slide Hampton",
+            "The World Of Trombones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dt6X0gHDKz1N300oWfjkj",
+        "Result Album Name": "Spirit of the Horn"
     },
     {
         "Title": "Henry Grimes",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-01-28",
         "Day": "Tue",
-        "Scanned Date": "2021-05-29 16:16:50"
+        "Scanned Date": "2021-05-29 16:16:50",
+        "Playlist URI": "3dr8S3ZHqHIyDwZCwDUGCU",
+        "Playlist Link": "https://open.spotify.com/playlist/3dr8S3ZHqHIyDwZCwDUGCU",
+        "Snapshot ID": "MSxlYTJiNTBhY2Q0ZTE5YzhmNjJmYTFjZWI5OGVlZmViYjY3YWI0NWI1",
+        "Playlist Name": "MoWeEd 2003-01-28 Tue Morning Edition"
     },
     {
         "Title": "U.N. Report",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Denver Goes Out Yonder",
         "MoWeEd Artists": [
             "Rachel Portman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congress & the State of the Union",
@@ -46,7 +55,15 @@
         "MoWeEd Track": "It Happens Everyday",
         "MoWeEd Artists": [
             "Joe Sample"
-        ]
+        ],
+        "Result Track Name": "It Happens Everyday",
+        "Result Artist Names": [
+            "Joe Sample"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:631ZwO9ysPHJUbcaKXIFzX",
+        "Result Album Name": "Sample This"
     },
     {
         "Title": "CD Buyers Entitled to Refund Under Lawsuit Settlement",
@@ -58,7 +75,15 @@
         "MoWeEd Track": "Flurries",
         "MoWeEd Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Flurries",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dYGvvQtdc5Jv8uE2jW72E",
+        "Result Album Name": "Next"
     },
     {
         "Title": "Programs Distribute Free AIDS Treatment in Mozambique",
@@ -76,7 +101,12 @@
         "MoWeEd Track": "Klezmatic Fantasy -- A Suite Mostly in D: Der Yidisher Soldat in ...",
         "MoWeEd Artists": [
             "The Klezmatics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Newspaper Chains Reach Deal in Anti-Trust Case",
@@ -94,7 +124,15 @@
         "MoWeEd Track": "Blues for Juanita",
         "MoWeEd Artists": [
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "Blues For Juanita",
+        "Result Artist Names": [
+            "Milt Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1RMNlIYUzrGo4yRQAK38BR",
+        "Result Album Name": "Jazz 'N' Samba"
     },
     {
         "Title": "Discussing the State of the Union",
@@ -107,7 +145,12 @@
         "MoWeEd Artists": [
             "Ike Turner",
             "Kings of Rhythm"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Allies in Iraq",

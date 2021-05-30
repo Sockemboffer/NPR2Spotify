@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2003-12-29",
         "Day": "Mon",
-        "Scanned Date": "2021-05-29 15:45:15"
+        "Scanned Date": "2021-05-29 15:45:15",
+        "Playlist URI": "0kUuiR60hQ6MBP7lM17jDe",
+        "Playlist Link": "https://open.spotify.com/playlist/0kUuiR60hQ6MBP7lM17jDe",
+        "Snapshot ID": "MSwxZGVjNjkzMzlkMjdkMDE5NDczMWUyZWEyOTJiM2I2ODQ0ZjM1OWYy",
+        "Playlist Name": "MoWeEd 2003-12-29 Mon Morning Edition"
     },
     {
         "Title": "Bam Aid Work Focuses on Relief",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Lazerus Blues",
         "MoWeEd Artists": [
             "Jon Wygens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "In Memoriam Soproni Tendl Pal",
         "MoWeEd Artists": [
             "Alexander Fedoriouk"
-        ]
+        ],
+        "Result Track Name": "In Memoriam Soproni Tendl Pal",
+        "Result Artist Names": [
+            "Alexander Fedoriouk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vacPbZS8Q2fflRbLmvyNQ",
+        "Result Album Name": "The Art Of The Cimbalom"
     },
     {
         "Title": "'Defining a Nation'",
@@ -40,13 +57,29 @@
         "MoWeEd Track": "Concerto for Jazz Bass & Orchestra: Westward Expansion",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Concerto Movement #1 - Westward Expansion",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6r6BuCZVdQR62dTCBU6APz",
+        "Result Album Name": "Heart Of The Bass"
     },
     {
         "MoWeEd Track": "Concerto for Jazz Bass & Orchestra: Mardi Gras",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Concerto Movement #3 - Mardi Gras",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6DZL4IuUz8vx1MYBxnXtz5",
+        "Result Album Name": "Heart Of The Bass"
     },
     {
         "Title": "'Morning Edition' Returns: Incentives for Faith",
@@ -64,13 +97,29 @@
         "MoWeEd Track": "Dreams of Ghana",
         "MoWeEd Artists": [
             "Tom Teasley"
-        ]
+        ],
+        "Result Track Name": "Dreams of Ghana",
+        "Result Artist Names": [
+            "Tom Teasley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1j7xzBXSA6Vm4VFSZdQCqE",
+        "Result Album Name": "Global Groovilization"
     },
     {
         "MoWeEd Track": "Reflections of the Nile",
         "MoWeEd Artists": [
             "Tom Teasley"
-        ]
+        ],
+        "Result Track Name": "Reflections of the Nile",
+        "Result Artist Names": [
+            "Tom Teasley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CYPrtwNS2j8H6Qo1dsQLO",
+        "Result Album Name": "Global Groovilization"
     },
     {
         "Title": "Checking in on the Fate of Endangered Species",
@@ -83,14 +132,33 @@
         "MoWeEd Artists": [
             "Herbie Hancock",
             "Michael Brecker et. al."
-        ]
+        ],
+        "Result Track Name": "The Poet - Live At Massey Hall / 2001",
+        "Result Artist Names": [
+            "Herbie Hancock",
+            "Michael Brecker",
+            "Roy Hargrove"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TDWxYZKfHtbyGev9Nt8wP",
+        "Result Album Name": "Directions in Music: Live At Massey Hall"
     },
     {
         "MoWeEd Track": "Meridianne -- A Wood Sylph",
         "MoWeEd Artists": [
             "Herbie Hancock",
             "Wayne Shorter"
-        ]
+        ],
+        "Result Track Name": "Meridianne - A Wood Sylph",
+        "Result Artist Names": [
+            "Herbie Hancock",
+            "Wayne Shorter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6jkVaOaxnJrcmcOo4y8g7D",
+        "Result Album Name": "1+1"
     },
     {
         "Title": "CD Copy-Protection Technology Falters",
@@ -102,7 +170,15 @@
         "MoWeEd Track": "Dream",
         "MoWeEd Artists": [
             "Tom Harrell"
-        ]
+        ],
+        "Result Track Name": "Dream",
+        "Result Artist Names": [
+            "Tom Harrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XjVC65sos3bhRg0njjBK9",
+        "Result Album Name": "Time's Mirror"
     },
     {
         "Title": "Political Talk: Dean's Momentum",
@@ -122,7 +198,17 @@
             "Larry Coryell",
             "Badi Assad",
             "John Abercrombie"
-        ]
+        ],
+        "Result Track Name": "Seu Jorge E Dona Ica",
+        "Result Artist Names": [
+            "Larry Coryell",
+            "Badi Assad",
+            "John Abercrombie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uRCXiql42hzfdmzVyTDlI",
+        "Result Album Name": "Three Guitars"
     },
     {
         "MoWeEd Track": "After the Rain",
@@ -130,7 +216,17 @@
             "Larry Coryell",
             "John Abercrombie",
             "Badi Assad"
-        ]
+        ],
+        "Result Track Name": "After the Rain",
+        "Result Artist Names": [
+            "Larry Coryell",
+            "Badi Assad",
+            "John Abercrombie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31Ie9m9eHukVKI3PiToDpx",
+        "Result Album Name": "Three Guitars"
     },
     {
         "Title": "A Model for Distributing AIDS Drugs in S. Africa",
@@ -148,13 +244,23 @@
         "MoWeEd Track": "TANAM: SOLO VIOLIN",
         "MoWeEd Artists": [
             "SHANKAR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "PERCUSSION IMPROV: FIRST TABLA, THEN GHATTAM",
         "MoWeEd Artists": [
             "SHANKAR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: Muslim Football League",
@@ -172,13 +278,23 @@
         "MoWeEd Track": "Duet in F-Sharp Minor",
         "MoWeEd Artists": [
             "John Jarvis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Diane's Lullaby",
         "MoWeEd Artists": [
             "John Jarvis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Candidates Woo Voters with Books",
@@ -196,13 +312,26 @@
         "MoWeEd Track": "Promised Land",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "Promised Land",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5vmVTROvif7ctTefFfyfJQ",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "MoWeEd Track": "Cheyenne",
         "MoWeEd Artists": [
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Coppola to Re-Release 'One From the Heart'",
@@ -214,6 +343,11 @@
         "MoWeEd Track": "Cuban Love Song",
         "MoWeEd Artists": [
             "Charlie Shoemake"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
