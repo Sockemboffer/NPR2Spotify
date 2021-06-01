@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-10-02",
         "Day": "Sun",
-        "Scanned Date": "2021-05-31 21:58:01"
+        "Scanned Date": "2021-05-31 21:58:01",
+        "Playlist URI": "3GbgYwud2Cq8h7c88Lnqxz",
+        "Playlist Link": "https://open.spotify.com/playlist/3GbgYwud2Cq8h7c88Lnqxz",
+        "Snapshot ID": "MSxmNGI3OWE2ZTFkOGFjMzE2MDQyMGFiYmZiMmY3NjgzNmUwNGI0YmMx",
+        "Playlist Name": "MoWeEd 2005-10-02 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,13 +32,23 @@
         "MoWeEd Track": "Outcry In the Barrio",
         "MoWeEd Artists": [
             "The Summer Wardrobe"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Dream",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mold, a Major Residue of Katrina",
@@ -64,7 +78,17 @@
         "MoWeEd Track": "Out of Nowhere",
         "MoWeEd Artists": [
             "Two Siberians"
-        ]
+        ],
+        "Result Track Name": "Out of Nowhere",
+        "Result Artist Names": [
+            "Two Siberians",
+            "George Whitty",
+            "Richard Bona"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67Zmi9RAULlRcZQh4gKDUP",
+        "Result Album Name": "Out of Nowhere"
     },
     {
         "Title": "'Ar' You Listening Closely?",
@@ -82,7 +106,15 @@
         "MoWeEd Track": "The Game Band Strut",
         "MoWeEd Artists": [
             "Henry Butler"
-        ]
+        ],
+        "Result Track Name": "The Game Band Strut",
+        "Result Artist Names": [
+            "Henry Butler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1j87aa4vRq34pHsPLgy3jS",
+        "Result Album Name": "Homeland"
     },
     {
         "Title": "Grand Jury Foreman: Ample Evidence in DeLay Case",
@@ -100,13 +132,26 @@
         "MoWeEd Track": "Etienne",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "It's a Sin to Tell a Lie [C'Est un Péché de Dire un Menterie]",
         "MoWeEd Artists": [
             "Beausoleil"
-        ]
+        ],
+        "Result Track Name": "It's a Sin to Tell a Lie (C'est un Peche de Dire un Menterie)",
+        "Result Artist Names": [
+            "BeauSoleil"
+        ],
+        "Result Track-Match Percent": 0.9375,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4DBDFdyPa8nGHNvV8pfMXC",
+        "Result Album Name": "L'Amour Ou La Folie"
     },
     {
         "Title": "Fighting Back in Terrebonne Parish",
@@ -124,7 +169,15 @@
         "MoWeEd Track": "Walking Wounded",
         "MoWeEd Artists": [
             "Everything But the Girl"
-        ]
+        ],
+        "Result Track Name": "Walking Wounded - 2015 Remaster",
+        "Result Artist Names": [
+            "Everything But The Girl"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mLbVEhowaokJd281AGVMZ",
+        "Result Album Name": "Walking Wounded (Deluxe Edition)"
     },
     {
         "Title": "Louise Erdrich and 'The Painted Drum'",
@@ -142,13 +195,30 @@
         "MoWeEd Track": "Newz Reel",
         "MoWeEd Artists": [
             "Beausoleil"
-        ]
+        ],
+        "Result Track Name": "Newz Reel",
+        "Result Artist Names": [
+            "BeauSoleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mJkgkz9uetMJesS4uXsMP",
+        "Result Album Name": "L'Amour Ou La Folie"
     },
     {
         "MoWeEd Track": "Wonderful",
         "MoWeEd Artists": [
             "Joel Grey",
             "Idina Menzel"
-        ]
+        ],
+        "Result Track Name": "Wonderful - From \"Wicked\" Original Broadway Cast Recording/2003",
+        "Result Artist Names": [
+            "Joel Grey",
+            "Idina Menzel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1D6pLmob6pai0cjB3ulMdz",
+        "Result Album Name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)"
     }
 ]

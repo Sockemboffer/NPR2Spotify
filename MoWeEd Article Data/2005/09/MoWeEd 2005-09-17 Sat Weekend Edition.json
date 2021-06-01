@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-09-17",
         "Day": "Sat",
-        "Scanned Date": "2021-05-31 22:04:14"
+        "Scanned Date": "2021-05-31 22:04:14",
+        "Playlist URI": "6c7PgvGCXfXq9YHvqHKS25",
+        "Playlist Link": "https://open.spotify.com/playlist/6c7PgvGCXfXq9YHvqHKS25",
+        "Snapshot ID": "MSwyYzkzYTY2ZWE5NjUxYzFiZTA1MDFkMzRkNzdlMmZmMzBlOTk0NzJk",
+        "Playlist Name": "MoWeEd 2005-09-17 Sat Weekend Edition"
     },
     {
         "Title": "Some Business Owners Return to New Orleans",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Curtain Call",
         "MoWeEd Artists": [
             "Wynton Marsalis Septet"
-        ]
+        ],
+        "Result Track Name": "Curtain Call",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:7lm9U5ZPw7oeunQwn7sJX4",
+        "Result Album Name": "Citi Movement"
     },
     {
         "MoWeEd Track": "Stop and Go",
         "MoWeEd Artists": [
             "Wynton Marsalis Septet"
-        ]
+        ],
+        "Result Track Name": "Stop And Go",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5pC7fH4XelYDCmYcCNjtQF",
+        "Result Album Name": "Citi Movement"
     },
     {
         "Title": "Revenge Attacks Plague Baghdad",
@@ -58,7 +78,12 @@
         "MoWeEd Track": "St. Paul's Suite, for strings, Op. 29/2, H. 118",
         "MoWeEd Artists": [
             "George Hurst"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tulane Soccer Squad Finds a New Home Field",
@@ -101,7 +126,16 @@
         "MoWeEd Artists": [
             "Darol Anger",
             "American Fiddle Ensemble"
-        ]
+        ],
+        "Result Track Name": "Evening Prayer Blues",
+        "Result Artist Names": [
+            "The American Fiddle Ensemble",
+            "Darol Anger"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:7aEKwcUuKRyDJVKihdj9b6",
+        "Result Album Name": "Republic of Strings"
     },
     {
         "Title": "The Hurricane and Contract Law",
@@ -125,7 +159,15 @@
         "MoWeEd Track": "Struttin' With Some Barbecue",
         "MoWeEd Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "Struttin' With Some Barbecue",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FFngk7s8FmSyIamI5wAXt",
+        "Result Album Name": "New Orleans Nights"
     },
     {
         "Title": "New York's Chef Bobo Cooks for Katrina Benefit",

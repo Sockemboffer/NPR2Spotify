@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2005-08-08",
         "Day": "Mon",
-        "Scanned Date": "2021-05-31 22:07:15"
+        "Scanned Date": "2021-05-31 22:07:15",
+        "Playlist URI": "063tIqrFdp9YFycUUeQSdF",
+        "Playlist Link": "https://open.spotify.com/playlist/063tIqrFdp9YFycUUeQSdF",
+        "Snapshot ID": "MSxkYjUzMDY0ODkwMjQ1ZWU4MzIyZDEyMGQwNWRlZjIwZWI0NjVhZDJi",
+        "Playlist Name": "MoWeEd 2005-08-08 Mon Morning Edition"
     },
     {
         "Title": "Weather Delays Shuttle Landing Until Tuesday",
@@ -24,7 +28,12 @@
             "Dave Brubeck",
             "Roland Hanna",
             "Dick HYman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Quintet Sonata",
@@ -32,7 +41,12 @@
             "Dave Brubeck",
             "Roland Hanna",
             "Dick HYman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Florida Moves to Close Window for DNA Appeals",
@@ -46,13 +60,29 @@
             "Paco de Lucía",
             "Bautista",
             "Ángela et. al."
-        ]
+        ],
+        "Result Track Name": "El Tesorillo (Tientos)",
+        "Result Artist Names": [
+            "Paco de Lucía"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:6pPns8YhXiJ96RZPCtldKc",
+        "Result Album Name": "Paco De Lucía Por Estilos (Vol.5)"
     },
     {
         "MoWeEd Track": "Antonia (Bulería Por Soleá)",
         "MoWeEd Artists": [
             "Paco de Lucía"
-        ]
+        ],
+        "Result Track Name": "Antonia (Bulería Por Soleá)",
+        "Result Artist Names": [
+            "Paco de Lucía"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KHcOONvcSDeDHFTT3U0cv",
+        "Result Album Name": "Cositas Buenas"
     },
     {
         "Title": "Bidding Peter Jennings Farewell",
@@ -66,7 +96,18 @@
             "The Fairfield Orchestra",
             "Thomas Crawford",
             "Patricia McCarty"
-        ]
+        ],
+        "Result Track Name": "Bridge Of Light For Viola And Orchestra",
+        "Result Artist Names": [
+            "Keith Jarrett",
+            "Patricia Mc Carthy",
+            "The Fairfield Orchestra",
+            "Thomas Crawford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5882352941176471,
+        "Result Track URI": "spotify:track:3LGWS8HlubPFQeuk9WG15N",
+        "Result Album Name": "Bridge Of Light"
     },
     {
         "MoWeEd Track": "Bridge of Light for Viola and Orchestra",
@@ -74,7 +115,18 @@
             "The Fairfield Orchestra",
             "Thomas Crawford",
             "Patricia McCarty"
-        ]
+        ],
+        "Result Track Name": "Bridge Of Light For Viola And Orchestra",
+        "Result Artist Names": [
+            "Keith Jarrett",
+            "Patricia Mc Carthy",
+            "The Fairfield Orchestra",
+            "Thomas Crawford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5882352941176471,
+        "Result Track URI": "spotify:track:3LGWS8HlubPFQeuk9WG15N",
+        "Result Album Name": "Bridge Of Light"
     },
     {
         "Title": "Galapagos Plants, Wildlife Under Threat",
@@ -86,19 +138,46 @@
         "MoWeEd Track": "Sea of Stories",
         "MoWeEd Artists": [
             "Andy Narell"
-        ]
+        ],
+        "Result Track Name": "Sea of Stories",
+        "Result Artist Names": [
+            "Andy Narell",
+            "Calypsociation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uaU4I92d3YibQSHkKTt1m",
+        "Result Album Name": "The Passage"
     },
     {
         "MoWeEd Track": "Zamora",
         "MoWeEd Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "zamora",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Dq5GTxAMVJH3yoCzudm2l",
+        "Result Album Name": "Surfmania"
     },
     {
         "MoWeEd Track": "Song for Mia",
         "MoWeEd Artists": [
             "Andy Narell"
-        ]
+        ],
+        "Result Track Name": "Song for Mia (feat. Michael Brecker)",
+        "Result Artist Names": [
+            "Andy Narell",
+            "Calypsociation",
+            "Michael Brecker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fC5wkDODhJXfhWqjVErAb",
+        "Result Album Name": "The Passage"
     },
     {
         "Title": "Study Splits Tech Users into Optimists, Pessimists",
@@ -117,14 +196,30 @@
         "MoWeEd Artists": [
             "Art Blakey",
             "Jazz Messengers"
-        ]
+        ],
+        "Result Track Name": "Couldn't It Be You? - Take 4",
+        "Result Artist Names": [
+            "Art Blakey & The Jazz Messengers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JDdPg8SmHzQe3a5FJ6Cjw",
+        "Result Album Name": "Night In Tunisia"
     },
     {
         "MoWeEd Track": "Off The Wall",
         "MoWeEd Artists": [
             "Art Blakey",
             "Jazz Messengers"
-        ]
+        ],
+        "Result Track Name": "Off the Wall - Remastered, Take 6",
+        "Result Artist Names": [
+            "Art Blakey & The Jazz Messengers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Hb4YZSgkPyPJEoCJToVJ1",
+        "Result Album Name": "Night In Tunisia"
     },
     {
         "Title": "Shuttle Crew Gets an Extra Day in Space",
@@ -142,19 +237,43 @@
         "MoWeEd Track": "On My Way",
         "MoWeEd Artists": [
             "Coleman Hawkins"
-        ]
+        ],
+        "Result Track Name": "On My Way",
+        "Result Artist Names": [
+            "Coleman Hawkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bWIkIHdIGCumVUw374veX",
+        "Result Album Name": "Confessin': The Astounding Coleman Hawkins"
     },
     {
         "MoWeEd Track": "Arkless",
         "MoWeEd Artists": [
             "Wilderness"
-        ]
+        ],
+        "Result Track Name": "Arkless",
+        "Result Artist Names": [
+            "Wilderness"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6T2CCPO1dp0KbF5dCGiK6r",
+        "Result Album Name": "Wilderness"
     },
     {
         "MoWeEd Track": "Last Stop",
         "MoWeEd Artists": [
             "Coleman Hawkins"
-        ]
+        ],
+        "Result Track Name": "Last Stop",
+        "Result Artist Names": [
+            "Coleman Hawkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XTc3lOk6q1pFlDcJbWp7U",
+        "Result Album Name": "Confessin': The Astounding Coleman Hawkins"
     },
     {
         "Title": "Muslim Group Takes Up Taboo Topics",
@@ -166,13 +285,29 @@
         "MoWeEd Track": "We-no-nah",
         "MoWeEd Artists": [
             "Art Turner"
-        ]
+        ],
+        "Result Track Name": "We-no-nah",
+        "Result Artist Names": [
+            "Art Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77RPLaK1RXN9Ni6czKvEbQ",
+        "Result Album Name": "Story Water"
     },
     {
         "MoWeEd Track": "Pikaia, New Mexico",
         "MoWeEd Artists": [
             "Art Turner"
-        ]
+        ],
+        "Result Track Name": "Pikaia, New Mexico",
+        "Result Artist Names": [
+            "Art Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UDTSArAjST6zDTo7YipnQ",
+        "Result Album Name": "Story Water"
     },
     {
         "Title": "Progress Cited on 'Bird Flu' Vaccine",
@@ -185,14 +320,30 @@
         "MoWeEd Artists": [
             "Mark Kaplan",
             "David Golub"
-        ]
+        ],
+        "Result Track Name": "Sonata in A minor ( Op.137, No.2); D.385: IV. Allegro",
+        "Result Artist Names": [
+            "David Golub & Mark Kaplan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LoU8J80fhzKa3AFBi8E4t",
+        "Result Album Name": "Schubert: Works For Piano And Violin"
     },
     {
         "MoWeEd Track": "Sonata in A minor (Op.137, No.2); D.385: II. Andante",
         "MoWeEd Artists": [
             "Mark Kaplan",
             "David Golub"
-        ]
+        ],
+        "Result Track Name": "Sonata in A minor ( Op.137, No.2); D.385: II. Andante",
+        "Result Artist Names": [
+            "David Golub & Mark Kaplan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fHy4xinCQscLlGQvUgq6y",
+        "Result Album Name": "Schubert: Works For Piano And Violin"
     },
     {
         "Title": "Homes Begin to Sprout in Town Hit by Tsunami",
@@ -204,13 +355,26 @@
         "MoWeEd Track": "The Water Garden",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "The Water Garden",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lYRvyyY15l856sAJlWGNZ",
+        "Result Album Name": "The Water Garden"
     },
     {
         "MoWeEd Track": "Us",
         "MoWeEd Artists": [
             "Keter Betts"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Keter Betts, Reflecting on a Life in Jazz",
@@ -228,7 +392,15 @@
         "MoWeEd Track": "Vivi's Waltz",
         "MoWeEd Artists": [
             "Keter Betts"
-        ]
+        ],
+        "Result Track Name": "Pinky's Waltz",
+        "Result Artist Names": [
+            "Keter Betts"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3haKciR0WHjLT6mPBOWFGI",
+        "Result Album Name": "Live At The East Coast Jazz Festival 2000"
     },
     {
         "Title": "Bush Signs Energy Bill in New Mexico",

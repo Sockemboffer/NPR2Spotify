@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2005-03-02",
         "Day": "Wed",
-        "Scanned Date": "2021-05-31 22:24:14"
+        "Scanned Date": "2021-05-31 22:24:14",
+        "Playlist URI": "1RafXg3yG5xNOg7o3sLpWm",
+        "Playlist Link": "https://open.spotify.com/playlist/1RafXg3yG5xNOg7o3sLpWm",
+        "Snapshot ID": "MSwyY2Y5YTVhMjU3MGEwMjcwYTc1YWNhMDk2NWQxZjg3Nzg2Y2RlNjUw",
+        "Playlist Name": "MoWeEd 2005-03-02 Wed Morning Edition"
     },
     {
         "Title": "High Court to Rule on 10 Commandments Display",
@@ -16,13 +20,27 @@
         "MoWeEd Track": "A Leaf",
         "MoWeEd Artists": [
             "London Symphony Orchestra - Lawrence Foster"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Haymakers",
         "MoWeEd Artists": [
             "Loma Mar Quartet"
-        ]
+        ],
+        "Result Track Name": "Haymakers",
+        "Result Artist Names": [
+            "Paul McCartney",
+            "Loma Mar Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eFSa2tfAQlD3omkHX7Yps",
+        "Result Album Name": "Working Classical"
     },
     {
         "Title": "Dean: Democrats Won't Give Up on South",
@@ -42,7 +60,15 @@
             "Phillips",
             "Grier",
             "Flinner"
-        ]
+        ],
+        "Result Track Name": "Paint it Shut",
+        "Result Artist Names": [
+            "Phillips, Grier & Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4E84JAlt1INkmwcDwLLF5n",
+        "Result Album Name": "Phillips, Grier & Flinner"
     },
     {
         "Title": "Governor's Meeting Ends in Medicaid Impasse",
@@ -55,14 +81,24 @@
         "MoWeEd Artists": [
             "Charlie Musselwhite",
             "T-Bone Wolk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mighty Fine Boogie",
         "MoWeEd Artists": [
             "James Cotton",
             "Ronnie Earl et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Electronic Anklets Track Asylum Seekers in U.S.",
@@ -74,13 +110,23 @@
         "MoWeEd Track": "Inner City Low Live",
         "MoWeEd Artists": [
             "UMO (Unidentified Musical Objects)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Gutter Juice Ghetto Blaster",
         "MoWeEd Artists": [
             "UMO (Unidentified Musical Objects)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "WorldCom CEO Denies Fraud Tied to His Finances",
@@ -92,13 +138,29 @@
         "MoWeEd Track": "Dark Roast",
         "MoWeEd Artists": [
             "Larry Pattis"
-        ]
+        ],
+        "Result Track Name": "Dark Roast",
+        "Result Artist Names": [
+            "Larry Pattis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5tXKe2p4nJM8tuZMSqe83w",
+        "Result Album Name": "Random Chance"
     },
     {
         "MoWeEd Track": "What's the Frequency, Kenneth?",
         "MoWeEd Artists": [
             "Royal Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": "What's the Frequency, Kenneth?",
+        "Result Artist Names": [
+            "Royal Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kJKYzjUv7sIMNHSVViFmd",
+        "Result Album Name": "Plays the Music of R.E.M."
     },
     {
         "Title": "Tom Daschle Prepares for His Next Job",
@@ -129,14 +191,30 @@
         "MoWeEd Artists": [
             "Shahin",
             "Sepehr"
-        ]
+        ],
+        "Result Track Name": "Through Your Eyes",
+        "Result Artist Names": [
+            "Shahin & Sepehr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fDXEVr5HbGi6eL6F131wo",
+        "Result Album Name": "Aria"
     },
     {
         "MoWeEd Track": "Middle of the Night",
         "MoWeEd Artists": [
             "Shahin",
             "Sepehr"
-        ]
+        ],
+        "Result Track Name": "Middle Of The Night",
+        "Result Artist Names": [
+            "Shahin & Sepehr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6WcNr95dq0uv7J42sc2wps",
+        "Result Album Name": "One Thousand & One Nights"
     },
     {
         "Title": "Analysis: High Court Strikes Down Death Penalty for Juveniles",
@@ -155,7 +233,15 @@
         "MoWeEd Artists": [
             "Holcombe Waller",
             "Ben Landsverk"
-        ]
+        ],
+        "Result Track Name": "Seven Eight Song",
+        "Result Artist Names": [
+            "Holcombe Waller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4Xt6WRHxWeksD556xGQwlK",
+        "Result Album Name": "Troubled Times"
     },
     {
         "Title": "Reported Sex Abuse By U.N. Soldiers Probed on Hill",
@@ -168,14 +254,30 @@
         "MoWeEd Artists": [
             "Holcombe Waller",
             "Ben Landsverk"
-        ]
+        ],
+        "Result Track Name": "Hope Is Everywhere",
+        "Result Artist Names": [
+            "Holcombe Waller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3Khzc70SCC5cZAhuzm1aYV",
+        "Result Album Name": "Troubled Times"
     },
     {
         "MoWeEd Track": "Troubled Times",
         "MoWeEd Artists": [
             "Holcombe Waller",
             "Ben Landsverk"
-        ]
+        ],
+        "Result Track Name": "Troubled Times",
+        "Result Artist Names": [
+            "Holcombe Waller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:09sggoVRaMTjiar4xbjSTv",
+        "Result Album Name": "Troubled Times"
     },
     {
         "Title": "Widows in Congress Offer Their Own Ideas",
@@ -193,13 +295,23 @@
         "MoWeEd Track": "Quiet Cat",
         "MoWeEd Artists": [
             "Vivid Low Sky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "About to Set Sail",
         "MoWeEd Artists": [
             "Vivid Low Sky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Company to Offer Classical Music Ring Tones",
@@ -217,7 +329,15 @@
         "MoWeEd Track": "Shiny Happy People",
         "MoWeEd Artists": [
             "Royal Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": "Shiny Happy People",
+        "Result Artist Names": [
+            "Royal Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KYoqAan7VPFk7cIysqCS8",
+        "Result Album Name": "Plays the Music of R.E.M."
     },
     {
         "Title": "Speeder Must Wear Warning to Other Street Racers",

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-08-06",
         "Day": "Sat",
-        "Scanned Date": "2021-05-31 22:06:55"
+        "Scanned Date": "2021-05-31 22:06:55",
+        "Playlist URI": "2PE14Om1s8MFwwrD5IWcD9",
+        "Playlist Link": "https://open.spotify.com/playlist/2PE14Om1s8MFwwrD5IWcD9",
+        "Snapshot ID": "MSxmOWJiZTM3OTJlNzkxYjRhMzQ1Yzk2ZDFiODRlMWM0NzYyNTc2NzRj",
+        "Playlist Name": "MoWeEd 2005-08-06 Sat Weekend Edition"
     },
     {
         "Title": "Time Running Out for Russian Sub Crew",
@@ -23,14 +27,24 @@
         "MoWeEd Artists": [
             "Darol Anger",
             "American Fiddle Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Afro Suite: Evening Prelude (California)",
         "MoWeEd Artists": [
             "Darol Anger",
             "American Fiddle Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ballplayers Offer Comfort to Bereaved Youngster ",
@@ -42,7 +56,15 @@
         "MoWeEd Track": "Travels",
         "MoWeEd Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Travels",
+        "Result Artist Names": [
+            "Alan Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:11vLLZKF6qBOLUoI2r9UOG",
+        "Result Album Name": "Mark Twain's America (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Veterans of '60s Voter-Registration Drive Reflect ",
@@ -60,7 +82,15 @@
         "MoWeEd Track": "A Hard Rain's A-Gonna Fall",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "A Hard Rain's A-Gonna Fall",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rTIHSHAUhS7VZdv7RWaQL",
+        "Result Album Name": "East/West"
     },
     {
         "Title": "Letters: Fight Club, Sounds of Saturn",
@@ -72,7 +102,12 @@
         "MoWeEd Track": "Suite for solo cello No. 5 in C minor, BWV 1011",
         "MoWeEd Artists": [
             "Richard Hartshorne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mimes 'Move On' at French Festival",
@@ -90,7 +125,15 @@
         "MoWeEd Track": "Swinging At the Haven",
         "MoWeEd Artists": [
             "Marsalis Family"
-        ]
+        ],
+        "Result Track Name": "Swinging At The Haven",
+        "Result Artist Names": [
+            "The Marsalis Family"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SSWWoLTS0xx9lyjcTG16S",
+        "Result Album Name": "A Jazz Celebration"
     },
     {
         "Title": "Week in Review",
@@ -109,14 +152,32 @@
         "MoWeEd Artists": [
             "Shinichi Kato",
             "Masahiko Sato"
-        ]
+        ],
+        "Result Track Name": "Old Diary",
+        "Result Artist Names": [
+            "Shinichi Kato",
+            "Masahiko Sato"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2agjQQRF5toMREL8pbZtKz",
+        "Result Album Name": "Duet"
     },
     {
         "MoWeEd Track": "Bass Folk Song",
         "MoWeEd Artists": [
             "Shinichi Kato",
             "Masahiko Sato"
-        ]
+        ],
+        "Result Track Name": "Bass Folk Song",
+        "Result Artist Names": [
+            "Shinichi Kato",
+            "Masahiko Sato"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55GF7WTxfCJPHZGVpdPmhb",
+        "Result Album Name": "Duet"
     },
     {
         "Title": "Sudan's Garang Laid to Rest in Juba",
@@ -146,7 +207,15 @@
         "MoWeEd Track": "Bill",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Bill",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gLqb1Fq2CVqIzEItXjAEA",
+        "Result Album Name": "Nebraska (Original Soundtrack)"
     },
     {
         "Title": "Cafe Owner Sends Workers to See the World",
@@ -158,7 +227,12 @@
         "MoWeEd Track": "Outre Mer",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A New Internet Diary Frontier: Vlogging",
@@ -176,6 +250,14 @@
         "MoWeEd Track": "Imayoh",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Imayoh Revival",
+        "Result Artist Names": [
+            "HOYO-MiX"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zlqIOWw28nAS5gi5lwXwn",
+        "Result Album Name": "Honkai Impact 3rd - Review (Original Soundtrack)"
     }
 ]

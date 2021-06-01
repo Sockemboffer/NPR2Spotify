@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-06-26",
         "Day": "Sun",
-        "Scanned Date": "2021-05-31 22:16:36"
+        "Scanned Date": "2021-05-31 22:16:36",
+        "Playlist URI": "5NxwnvQMT6RGDLbojd7Hy5",
+        "Playlist Link": "https://open.spotify.com/playlist/5NxwnvQMT6RGDLbojd7Hy5",
+        "Snapshot ID": "MSxjNGMxOTE0ZTE2MzI4N2YwOGU2MGI2ODgzYzEzMjgwZWU1MDk2Mzhi",
+        "Playlist Name": "MoWeEd 2005-06-26 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -23,13 +27,26 @@
         "MoWeEd Artists": [
             "Turtle Island String Quartet",
             "Ying Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Cherry",
         "MoWeEd Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Cherry",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zgCycfVETCfk2TNY7Othq",
+        "Result Album Name": "Ratatat"
     },
     {
         "Title": "The Iraq Syndrome ",
@@ -65,7 +82,15 @@
         "MoWeEd Track": "[Untitled Track]",
         "MoWeEd Artists": [
             "Kid Loco"
-        ]
+        ],
+        "Result Track Name": "Untitled Track Ten",
+        "Result Artist Names": [
+            "Kid Libra"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4mHThuUyGhmvAT36DOJHUv",
+        "Result Album Name": "I Feel Inside Out"
     },
     {
         "Title": "A Reporter Recalls 'Miami Herald' Editor Gene Miller",
@@ -77,7 +102,15 @@
         "MoWeEd Track": "Fevered",
         "MoWeEd Artists": [
             "The Stills"
-        ]
+        ],
+        "Result Track Name": "Fevered",
+        "Result Artist Names": [
+            "The Stills"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IgKRsVIb8StKiT8zv5nsJ",
+        "Result Album Name": "Logic Will Break Your Heart (U.S. Version)"
     },
     {
         "Title": "Finding Fortune 500 Firms",
@@ -101,13 +134,31 @@
         "MoWeEd Track": "The Inn",
         "MoWeEd Artists": [
             "Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "The Inn",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ZfYpIeNVoGv7qVG4oB3eG",
+        "Result Album Name": "Philip Glass: Dracula"
     },
     {
         "MoWeEd Track": "The Three Consorts of Dracula",
         "MoWeEd Artists": [
             "Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "The Three Consorts of Dracula",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nU9Iq9OOj0lFcANfLA8PL",
+        "Result Album Name": "Philip Glass: Dracula"
     },
     {
         "Title": "Iraqi Forces and Patrolling Baghdad's Haifa Street",
@@ -126,13 +177,26 @@
         "MoWeEd Artists": [
             "Lenine",
             "Yerba Buena!"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sister",
         "MoWeEd Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "Sister",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7yAT9Bg4zFUZgXbTmaZJwM",
+        "Result Album Name": "Who Is This America?"
     },
     {
         "Title": "Verizon Executive Tapped to Lead NAACP",
@@ -162,7 +226,15 @@
         "MoWeEd Track": "Otis",
         "MoWeEd Artists": [
             "The Durutti Column"
-        ]
+        ],
+        "Result Track Name": "Otis",
+        "Result Artist Names": [
+            "The Durutti Column"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7A2yhrdnFspRjpX8RC8UW1",
+        "Result Album Name": "Vini Reilly"
     },
     {
         "Title": "Minnesota Students Go Online for Gym Class",
@@ -175,7 +247,15 @@
         "MoWeEd Artists": [
             "Brown",
             "Altyrone Deno"
-        ]
+        ],
+        "Result Track Name": "If You Love Me",
+        "Result Artist Names": [
+            "Altyrone Deno Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FNSczMAaY7u0ywMPpAmse",
+        "Result Album Name": "Eccentric Soul: The Bandit Label"
     },
     {
         "Title": "Pam Reed, Extremely Well-Read",
@@ -199,12 +279,22 @@
         "MoWeEd Track": "Capitol City Disguised",
         "MoWeEd Artists": [
             "Garry Schyman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Saucer Attack",
         "MoWeEd Artists": [
             "Garry Schyman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

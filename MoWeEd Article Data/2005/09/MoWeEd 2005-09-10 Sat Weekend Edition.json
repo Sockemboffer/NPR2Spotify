@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-09-10",
         "Day": "Sat",
-        "Scanned Date": "2021-05-31 22:03:23"
+        "Scanned Date": "2021-05-31 22:03:23",
+        "Playlist URI": "6vwMstDvBLFKPhDKs6tZkZ",
+        "Playlist Link": "https://open.spotify.com/playlist/6vwMstDvBLFKPhDKs6tZkZ",
+        "Snapshot ID": "MSxkYmVjYjhlZDc1MGZhMTI3NmE0NGRjMjExZDZkN2JhM2ZjOWNmMTNm",
+        "Playlist Name": "MoWeEd 2005-09-10 Sat Weekend Edition"
     },
     {
         "Title": "Katrina Effort Moves Along without FEMA's Brown",
@@ -34,7 +38,12 @@
         "MoWeEd Track": "Green Ballet: 1st Position for Steel Orchestra",
         "MoWeEd Artists": [
             "Andy Narell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Young Flood Victims Enrolled in New Schools",
@@ -70,7 +79,15 @@
         "MoWeEd Track": "Creole Farmers Stomp",
         "MoWeEd Artists": [
             "The Creole Zydeco Farmers"
-        ]
+        ],
+        "Result Track Name": "Creole Farmer's Stomp",
+        "Result Artist Names": [
+            "Creole Zydeco Farmers"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:2YTzBvsUyQ4F2HTNarkN1M",
+        "Result Album Name": "On the Road"
     },
     {
         "Title": "Rebuilding with an Eye to Social Equity",
@@ -96,13 +113,23 @@
             "Duke Ellington",
             "His Orchestra",
             "Mahalia Jackson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week in Review: Katrina's Political Fallout",
@@ -120,13 +147,29 @@
         "MoWeEd Track": "Right Place, Wrong Time",
         "MoWeEd Artists": [
             "Dr. John"
-        ]
+        ],
+        "Result Track Name": "Right Place Wrong Time",
+        "Result Artist Names": [
+            "Dr. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0I2ELF6uHlL4ABu9aFiou7",
+        "Result Album Name": "In The Right Place"
     },
     {
         "MoWeEd Track": "New Second Line",
         "MoWeEd Artists": [
             "Olympia Brass Band"
-        ]
+        ],
+        "Result Track Name": "New Second Line",
+        "Result Artist Names": [
+            "Olympia Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KqVNsSqrOoOVAT1Dgtzl2",
+        "Result Album Name": "New Orleans Second Line Mardi Gras Party"
     },
     {
         "Title": "One View of Chief Justice Nominee Roberts",
@@ -156,7 +199,15 @@
         "MoWeEd Track": "When the Saints Go Marching In",
         "MoWeEd Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "When The Saints Go Marching In",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GMxobnrcay3xl6jJ7fbVz",
+        "Result Album Name": "Louis Armstrong Of New Orleans"
     },
     {
         "Title": "Saints' Fate, U.S. Open Tennis in Sports News",
@@ -168,7 +219,12 @@
         "MoWeEd Track": "Souvenir de Porto Rico, marche des gibaros for piano, Op. 31, D. 147 (RO 250)",
         "MoWeEd Artists": [
             "Amiram Rigai"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Father, Son Look for New Start After Flood",
@@ -187,7 +243,16 @@
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WIQkCEoWnmzJInqarNeyX",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "Voices of Support for Storm Survivors",
@@ -199,6 +264,14 @@
         "MoWeEd Track": "When You Got a Good Friend",
         "MoWeEd Artists": [
             "Robert Johnson"
-        ]
+        ],
+        "Result Track Name": "When You Got a Good Friend",
+        "Result Artist Names": [
+            "Robert Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1RnU42lF1bIdjc2unc9M4R",
+        "Result Album Name": "King Of The Delta Blues Singers"
     }
 ]

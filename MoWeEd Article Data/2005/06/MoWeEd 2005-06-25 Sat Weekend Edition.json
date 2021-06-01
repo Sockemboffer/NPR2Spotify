@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-06-25",
         "Day": "Sat",
-        "Scanned Date": "2021-05-31 22:16:29"
+        "Scanned Date": "2021-05-31 22:16:29",
+        "Playlist URI": "07Fw98ANnuT5H1lGNmINee",
+        "Playlist Link": "https://open.spotify.com/playlist/07Fw98ANnuT5H1lGNmINee",
+        "Snapshot ID": "MSw3ZDU3NmY2MDVjZWUwMjg3N2E2YWZlNDc0NTY2N2FjM2Y1NTE1ZWE1",
+        "Playlist Name": "MoWeEd 2005-06-25 Sat Weekend Edition"
     },
     {
         "Title": "Hardliner Captures Iranian Presidency",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Claude, for guitar",
         "MoWeEd Artists": [
             "James Piorkowski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Uraca, for guitar",
         "MoWeEd Artists": [
             "James Piorkowski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mad Cow Case Raises New Questions on Testing",
@@ -46,7 +60,12 @@
         "MoWeEd Track": "Scots Airs: Sleepy body",
         "MoWeEd Artists": [
             "Palladian Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rep. John Lewis on Prosecuting the Past",
@@ -71,7 +90,16 @@
         "MoWeEd Artists": [
             "Keith Lockhart",
             "Conductor"
-        ]
+        ],
+        "Result Track Name": "Boogie-Woogie Bugle Boy",
+        "Result Artist Names": [
+            "Hughie Prince",
+            "Keith Lockhart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1nYE9u4dOs5a0WaleCMTHM",
+        "Result Album Name": "A Splash of Pops"
     },
     {
         "Title": "George Weller, Reporting from Nagasaki",
@@ -101,14 +129,27 @@
         "MoWeEd Track": "Ol' Man River",
         "MoWeEd Artists": [
             "Sam Pilafian"
-        ]
+        ],
+        "Result Track Name": "Ol' Man River",
+        "Result Artist Names": [
+            "Sam Pilafian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BCFfYFZq0syuO8JnTx00Q",
+        "Result Album Name": "Travelin' Light"
     },
     {
         "MoWeEd Track": "Sonata In Eb Major: Allegro",
         "MoWeEd Artists": [
             "Floyd Cooley",
             "Naomi Chaitkin Nimmo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Running the 100 While Approaching 100",
@@ -121,7 +162,17 @@
         "MoWeEd Artists": [
             "Carl Kress",
             "Dick McDonough"
-        ]
+        ],
+        "Result Track Name": "Danzon",
+        "Result Artist Names": [
+            "Eddie Lang",
+            "Carl Kress",
+            "Dick McDonough"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yUDulBvJ3Tlk7lXTHbk3a",
+        "Result Album Name": "Pioneers Of Jazz Guitar - 1927-1939"
     },
     {
         "Title": "Evangelicals Shake Up Iraq's Christian Circles",
@@ -133,7 +184,15 @@
         "MoWeEd Track": "Brooklyn",
         "MoWeEd Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Brooklyn",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:51XZ7HDJM916Jxj7j0croB",
+        "Result Album Name": "Highways"
     },
     {
         "Title": "County Commissioners Say No to Acronyms",
@@ -146,7 +205,16 @@
         "MoWeEd Artists": [
             "Ronnie Earl",
             "Duke Robillard"
-        ]
+        ],
+        "Result Track Name": "What Have I done Wrong",
+        "Result Artist Names": [
+            "Ronnie Earl",
+            "Duke Robillard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Myhvc4ePDgWW6MK8L5ZyM",
+        "Result Album Name": "The Duke Meets The Earl"
     },
     {
         "Title": "Pro Sports: Youth Must Be Served",
@@ -170,6 +238,14 @@
         "MoWeEd Track": "Thriller",
         "MoWeEd Artists": [
             "Michael Jackson"
-        ]
+        ],
+        "Result Track Name": "Thriller",
+        "Result Artist Names": [
+            "Michael Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7azo4rpSUh8nXgtonC6Pkq",
+        "Result Album Name": "Scream"
     }
 ]

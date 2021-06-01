@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-09-11",
         "Day": "Sun",
-        "Scanned Date": "2021-05-31 22:03:31"
+        "Scanned Date": "2021-05-31 22:03:31",
+        "Playlist URI": "5rM9ac1z5KgbaoIkGhxoje",
+        "Playlist Link": "https://open.spotify.com/playlist/5rM9ac1z5KgbaoIkGhxoje",
+        "Snapshot ID": "MSxiNTQyNGJiNmNhNDA1MTRlN2E1NzcxODA1ZWJmN2I1ZDhlNDUyNjI1",
+        "Playlist Name": "MoWeEd 2005-09-11 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,13 +32,32 @@
         "MoWeEd Track": "As If We Knew",
         "MoWeEd Artists": [
             "John Surman"
-        ]
+        ],
+        "Result Track Name": "As If We Knew",
+        "Result Artist Names": [
+            "John Surman",
+            "Paul Bley",
+            "Gary Peacock",
+            "Tony Oxley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vW2FtqMfELZicnGhCrPxE",
+        "Result Album Name": "Adventure Playground"
     },
     {
         "MoWeEd Track": "Carolyn (In the Morning)",
         "MoWeEd Artists": [
             "J.J. Johnson"
-        ]
+        ],
+        "Result Track Name": "Carolyn (In The Morning) - Instrumental",
+        "Result Artist Names": [
+            "J.J. Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0TQoUaRvXor3V1axYIbiZn",
+        "Result Album Name": "Heroes"
     },
     {
         "Title": "Jefferson Parish Attempts to Stabilize",
@@ -64,7 +87,15 @@
         "MoWeEd Track": "Charivari",
         "MoWeEd Artists": [
             "Beausoleil"
-        ]
+        ],
+        "Result Track Name": "Charivari",
+        "Result Artist Names": [
+            "BeauSoleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20hFZQtPoyR8CKF427NkP3",
+        "Result Album Name": "L'Amour Ou La Folie"
     },
     {
         "Title": "Bed and Breakfast Owner Hopes to Rebuild",
@@ -76,14 +107,27 @@
         "MoWeEd Track": "Paige",
         "MoWeEd Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Boston April 15th",
         "MoWeEd Artists": [
             "Enrico Rava",
             "Javier Girotto et. al."
-        ]
+        ],
+        "Result Track Name": "Boston April 15th",
+        "Result Artist Names": [
+            "Enrico Rava"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3skmg1AeohwUaIRDFNt3Rx",
+        "Result Album Name": "Full Of Life"
     },
     {
         "Title": "S.O. What?",
@@ -102,7 +146,12 @@
         "MoWeEd Artists": [
             "Cleveland Orchestra",
             "Szell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kurt Vonnegut: 'A Man Without a Country'",
@@ -114,13 +163,26 @@
         "MoWeEd Track": "lazy river",
         "MoWeEd Artists": [
             "louis armstrong"
-        ]
+        ],
+        "Result Track Name": "Lazy River",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iiVFE6oBGAhOrsEKIlDAz",
+        "Result Album Name": "The Essential Louis Armstrong"
     },
     {
         "MoWeEd Track": "Banjo Noir",
         "MoWeEd Artists": [
             "Alvin Batiste"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "FEMA Combs New Orleans for Bodies",
@@ -144,13 +206,29 @@
         "MoWeEd Track": "Louisiana 1927",
         "MoWeEd Artists": [
             "Randy Newman"
-        ]
+        ],
+        "Result Track Name": "Louisiana 1927 - Remastered",
+        "Result Artist Names": [
+            "Randy Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7qLEaxMiR8WUsCG1uOBsuO",
+        "Result Album Name": "Good Old Boys"
     },
     {
         "MoWeEd Track": "Blue and Green",
         "MoWeEd Artists": [
             "J.J. Johnson"
-        ]
+        ],
+        "Result Track Name": "Blue And Green - Instrumental",
+        "Result Artist Names": [
+            "J.J. Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7f3dZRnlMuoPqe1fpVovlQ",
+        "Result Album Name": "Heroes"
     },
     {
         "Title": "White House Ceremony Marks Sept. 11",
@@ -174,7 +252,15 @@
         "MoWeEd Track": "Barbara's Song",
         "MoWeEd Artists": [
             "Will Ackerman"
-        ]
+        ],
+        "Result Track Name": "Barbara's Song",
+        "Result Artist Names": [
+            "Will Ackerman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54EkV1ataTKobLkbMvNc0u",
+        "Result Album Name": "Returning"
     },
     {
         "Title": "Koizumi Expected to Prevail in Japanese Elections",
@@ -186,13 +272,29 @@
         "MoWeEd Track": "Another Place",
         "MoWeEd Artists": [
             "Hiroshima"
-        ]
+        ],
+        "Result Track Name": "Another Place",
+        "Result Artist Names": [
+            "Hiroshima"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Aqv3xHE5WUBQRMOOPgwJF",
+        "Result Album Name": "Another Place"
     },
     {
         "MoWeEd Track": "Going Back to Louisiana",
         "MoWeEd Artists": [
             "Clarence \"gatemouth\" Brown"
-        ]
+        ],
+        "Result Track Name": "Going Back To Louisiana",
+        "Result Artist Names": [
+            "Clarence \"Gatemouth\" Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5JHcdhriOeUkjXlgEIO1o4",
+        "Result Album Name": "Back To Bogalusa"
     },
     {
         "Title": "Mardi Gras Marathon's Future",
@@ -223,7 +325,17 @@
         "MoWeEd Artists": [
             "English String Orchestra",
             "Boughton"
-        ]
+        ],
+        "Result Track Name": "Fantasia On A Theme By Thomas Tallis",
+        "Result Artist Names": [
+            "Ralph Vaughan Williams",
+            "English String Orchestra",
+            "William Boughton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pNdSIg1tUBqW64P5uvOi0",
+        "Result Album Name": "Vaughan Williams: Fantasia on a Theme by Thomas Tallis & Orchestral Favourites, Vol. III"
     },
     {
         "Title": "Freedom Walk Has Peaceful Turnout in Washington",

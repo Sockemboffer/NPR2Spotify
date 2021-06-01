@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-08-13",
         "Day": "Sat",
-        "Scanned Date": "2021-05-31 22:07:53"
+        "Scanned Date": "2021-05-31 22:07:53",
+        "Playlist URI": "6J2bUOLV5veAdYhEHsWz9p",
+        "Playlist Link": "https://open.spotify.com/playlist/6J2bUOLV5veAdYhEHsWz9p",
+        "Snapshot ID": "MSw5N2ZmMTljYjQ4MzZhYjg2ZmExZmM4ZmU3MjA2YTc4OTkxZDUxMjll",
+        "Playlist Name": "MoWeEd 2005-08-13 Sat Weekend Edition"
     },
     {
         "Title": "Region Braces for Protests as Gaza Pullout Nears",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "We See",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Counterterrorism: Legalities of Profiling",
@@ -52,7 +61,12 @@
         "MoWeEd Track": "Bioshock: Welcome to Rapture",
         "MoWeEd Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fife and Drum Still in Play at Ft. Ticonderoga",
@@ -82,13 +96,23 @@
         "MoWeEd Track": "Bioshock: Welcome to Rapture",
         "MoWeEd Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week in Review: Iraq; Iran; North Korea; Gaza",
@@ -130,7 +154,15 @@
         "MoWeEd Track": "There's a Small Hotel",
         "MoWeEd Artists": [
             "Ella Fitzgerald"
-        ]
+        ],
+        "Result Track Name": "There's A Small Hotel",
+        "Result Artist Names": [
+            "Ella Fitzgerald"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79ZKe5e1ScSiTdexAJlm9H",
+        "Result Album Name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book"
     },
     {
         "Title": "Naked Dining in Manhattan",
@@ -149,6 +181,15 @@
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WIQkCEoWnmzJInqarNeyX",
+        "Result Album Name": "More Conversations In Swing Guitar"
     }
 ]

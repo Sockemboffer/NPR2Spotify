@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-04-24",
         "Day": "Sun",
-        "Scanned Date": "2021-05-31 22:23:23"
+        "Scanned Date": "2021-05-31 22:23:23",
+        "Playlist URI": "4bm0IZp1Dw9UX7JB6fqp8G",
+        "Playlist Link": "https://open.spotify.com/playlist/4bm0IZp1Dw9UX7JB6fqp8G",
+        "Snapshot ID": "MSxhOTdmNjRmMTY4Mjc1NjVhOTUxZWU2YzZiOGZlZWEzNDliYTU5MmE2",
+        "Playlist Name": "MoWeEd 2005-04-24 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News: A New Pope",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Serge",
         "MoWeEd Artists": [
             "Folk Implosion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "All World Cowboy Romance",
         "MoWeEd Artists": [
             "Mission of Burma"
-        ]
+        ],
+        "Result Track Name": "All World Cowboy Romance",
+        "Result Artist Names": [
+            "Mission Of Burma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kBtULWluRlUTAaNam4VNP",
+        "Result Album Name": "Signals, Calls and Marches"
     },
     {
         "Title": "Army Seeks to Bridge Recruitment Gap",
@@ -58,7 +75,15 @@
         "MoWeEd Track": "Temptation",
         "MoWeEd Artists": [
             "New Order"
-        ]
+        ],
+        "Result Track Name": "Temptation",
+        "Result Artist Names": [
+            "New Order"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7j5Q3zhjvpQvMeoPSZwdsa",
+        "Result Album Name": "Substance"
     },
     {
         "Title": "Boat Tour Firms in Legal Row over Duck Quackers",
@@ -70,13 +95,29 @@
         "MoWeEd Track": "Twilight in Turkey",
         "MoWeEd Artists": [
             "Raymond Scott Orchestrette"
-        ]
+        ],
+        "Result Track Name": "Twilight in Turkey",
+        "Result Artist Names": [
+            "The Raymond Scott Orchestrette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3vKpRac7kpNdjZ7RVU9nsL",
+        "Result Album Name": "Pushbutton Parfait"
     },
     {
         "MoWeEd Track": "Hardcore Days & Softcore Nights",
         "MoWeEd Artists": [
             "Aqueduct"
-        ]
+        ],
+        "Result Track Name": "Hardcore Days & Softcore Nights",
+        "Result Artist Names": [
+            "Aqueduct"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HwwCJdKHNcAi5Dna3HZbE",
+        "Result Album Name": "Music From The O.C. Mix 4"
     },
     {
         "Title": "Sunday Puzzle: Just Add 'Y'",
@@ -112,13 +153,29 @@
         "MoWeEd Track": "Avaze Isfahan [Persian]",
         "MoWeEd Artists": [
             "Libana"
-        ]
+        ],
+        "Result Track Name": "Avaze Isfahan",
+        "Result Artist Names": [
+            "Libana"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zflI3QNk7ez5CY3VPeldH",
+        "Result Album Name": "Out Of This World"
     },
     {
         "MoWeEd Track": "Pay Back Africa",
         "MoWeEd Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "Pay Back Africa",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6EYLg6ocdQ9r39Qdn5obmS",
+        "Result Album Name": "Who Is This America?"
     },
     {
         "Title": "Tensions High as Togolese Vote for New Leader",
@@ -143,7 +200,12 @@
         "MoWeEd Artists": [
             "Jacques Mahieux",
             "Didier Roussin et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Reporter's Notebook: Oklahoma City, 10 Years Later",

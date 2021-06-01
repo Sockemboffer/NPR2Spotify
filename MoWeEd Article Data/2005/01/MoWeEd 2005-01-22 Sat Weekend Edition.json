@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2005-01-22",
         "Day": "Sat",
-        "Scanned Date": "2021-05-31 22:33:18"
+        "Scanned Date": "2021-05-31 22:33:18",
+        "Playlist URI": "5VKKRTlUjiPU4fgXAcdEOU",
+        "Playlist Link": "https://open.spotify.com/playlist/5VKKRTlUjiPU4fgXAcdEOU",
+        "Snapshot ID": "MSwyNGVhNDZlYzgyM2E3NDQ0OGU1YmZmODAzYzJjMGQ0OGRiM2Q3NWNm",
+        "Playlist Name": "MoWeEd 2005-01-22 Sat Weekend Edition"
     },
     {
         "Title": "Basra Awaits Iraqi Elections",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Spaces Between Days, Pt. 3",
         "MoWeEd Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Paul's Dance",
         "MoWeEd Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Paul's Dance",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:1vOBcrV6ZsM1Ps12rTq0cd",
+        "Result Album Name": "Balearic Ambient"
     },
     {
         "Title": "Michael Powell to Leave FCC Post",
@@ -58,7 +75,15 @@
         "MoWeEd Track": "Ten Dollar High",
         "MoWeEd Artists": [
             "Medeski Marting and Wood"
-        ]
+        ],
+        "Result Track Name": "Ten Dollar High",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:693MNf6EOKEOgIROwAyG6j",
+        "Result Album Name": "Uninvisible"
     },
     {
         "Title": "PA Hopes for a Philly-Pittsburgh Super Bowl",
@@ -70,7 +95,12 @@
         "MoWeEd Track": "When the Blood Burns",
         "MoWeEd Artists": [
             "The Bellwether Project"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Soothing Music in London's Tube",
@@ -82,7 +112,12 @@
         "MoWeEd Track": "Punchy Tack Piano",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The 'Literary' Legacy of Lord Timothy Dexter",
@@ -130,7 +165,15 @@
         "MoWeEd Track": "I Can't Wait",
         "MoWeEd Artists": [
             "Mirwais"
-        ]
+        ],
+        "Result Track Name": "I Can't Wait",
+        "Result Artist Names": [
+            "Mirwais"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gIKwHUxs0ZsKMC07m3IGX",
+        "Result Album Name": "Production (Deluxe Version)"
     },
     {
         "Title": "Marketing Paris Tap Water",
