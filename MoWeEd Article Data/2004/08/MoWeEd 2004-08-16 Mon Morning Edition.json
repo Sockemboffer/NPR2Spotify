@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-08-16",
         "Day": "Mon",
-        "Scanned Date": "2021-05-30 12:02:26"
+        "Scanned Date": "2021-05-30 12:02:26",
+        "Playlist URI": "0ZiPo9nsZKaH3u9AEwK6Xl",
+        "Playlist Link": "https://open.spotify.com/playlist/0ZiPo9nsZKaH3u9AEwK6Xl",
+        "Snapshot ID": "MSw2ZGUxYmYwNGIyNWNiMmRmOTRhNmJlYzRmZTZlNWUyOGQwMzA0NTEy",
+        "Playlist Name": "MoWeEd 2004-08-16 Mon Morning Edition"
     },
     {
         "Title": "Florida Recovery Efforts Begin",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Night of 1000 Rains",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Butterfly Hill",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Butterfly Hill",
+        "Result Artist Names": [
+            "Matt Conner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5n0eYSIgNaLUqH1I3L8xxe",
+        "Result Album Name": "Baby Conner"
     },
     {
         "Title": "Cleaning Up Indoor Air",
@@ -40,13 +57,29 @@
         "MoWeEd Track": "Ravel String Quartet in F Major: Assez Vif - Tres Rythme",
         "MoWeEd Artists": [
             "Lucia Micarelli"
-        ]
+        ],
+        "Result Track Name": "Ravel String Quartet in F Major: Assez vif - Tres rythme",
+        "Result Artist Names": [
+            "Lucia Micarelli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1xTr4kGZ0zJljt5aOB0W7Z",
+        "Result Album Name": "Music From A Farther Room"
     },
     {
         "MoWeEd Track": "To Love You More",
         "MoWeEd Artists": [
             "Lucia Micarelli"
-        ]
+        ],
+        "Result Track Name": "To Love You More",
+        "Result Artist Names": [
+            "Lucia Micarelli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67PJogvmgH9a4exvgRLMdM",
+        "Result Album Name": "Music From A Farther Room"
     },
     {
         "Title": "'Morning Edition' Returns: A Post-Confession Bounce",
@@ -64,14 +97,27 @@
         "MoWeEd Track": "Fiction of Reality",
         "MoWeEd Artists": [
             "Nemo"
-        ]
+        ],
+        "Result Track Name": "Fiction of Reality",
+        "Result Artist Names": [
+            "Nemo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56K5jdi7hZ66CrGuWnIA3y",
+        "Result Album Name": "Signs Of Life"
     },
     {
         "MoWeEd Track": "Violin Sonata No. 1 -- I: Allegro Agitato",
         "MoWeEd Artists": [
             "Sarah Chang",
             "Lars Vogt"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "GOP Makes Bid for Black Vote in 2004",
@@ -89,13 +135,26 @@
         "MoWeEd Track": "Gavotte and Sarabande From the French Suites",
         "MoWeEd Artists": [
             "Oregon Symphony Horns"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Muleta",
         "MoWeEd Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Muleta",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5v38bg73Tahr0Sp23fFRlz",
+        "Result Album Name": "Hot Rail"
     },
     {
         "Title": "Indian Immigrants Find Niche in Hotels",
@@ -109,13 +168,29 @@
             "Gingger",
             "Shankar",
             "Gingger"
-        ]
+        ],
+        "Result Track Name": "Sunrise",
+        "Result Artist Names": [
+            "Shankar & Gingger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Y6L24OwAXBk8BSZ8y1nGd",
+        "Result Album Name": "Celestial Body"
     },
     {
         "MoWeEd Track": "Perdido",
         "MoWeEd Artists": [
             "New Guitar Summit"
-        ]
+        ],
+        "Result Track Name": "Perdido",
+        "Result Artist Names": [
+            "New Guitar Summit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ZQCXOoxfFXHdSbA39Nqf9",
+        "Result Album Name": "New Guitar Summit"
     },
     {
         "Title": "Najaf Clouds Iraq Conference",
@@ -135,7 +210,16 @@
             "Kerry Strayer",
             "Foster",
             "Gary"
-        ]
+        ],
+        "Result Track Name": "Yardbird Suite",
+        "Result Artist Names": [
+            "Kerry Strayer Septet",
+            "Gary Foster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5egK0LizZEuHFkTcQGHzaD",
+        "Result Album Name": "Mentor"
     },
     {
         "MoWeEd Track": "In Your Own Sweet Way",
@@ -143,7 +227,16 @@
             "Kerry Strayer",
             "Foster",
             "Gary"
-        ]
+        ],
+        "Result Track Name": "In Your Own Sweet Way",
+        "Result Artist Names": [
+            "Kerry Strayer Septet",
+            "Gary Foster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6xu0FAu8j6yPYYdLuKWNI4",
+        "Result Album Name": "Mentor"
     },
     {
         "Title": "Chavez Claims Recall Victory",
@@ -162,13 +255,23 @@
         "MoWeEd Artists": [
             "Sarah Chang",
             "Lars Vogt"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Another Time and Place",
         "MoWeEd Artists": [
             "Natural High Pacific"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: Anarchists Unite!?",
@@ -186,13 +289,29 @@
         "MoWeEd Track": "L8r On",
         "MoWeEd Artists": [
             "Elliott Sharp's Terraplane"
-        ]
+        ],
+        "Result Track Name": "L8r On",
+        "Result Artist Names": [
+            "Elliott Sharp`s Terraplane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VMCemzUpbEPVkb2G1ZqEY",
+        "Result Album Name": "Do the Don't"
     },
     {
         "MoWeEd Track": "Skramble",
         "MoWeEd Artists": [
             "Elliott Sharp's Terraplane"
-        ]
+        ],
+        "Result Track Name": "Skramble",
+        "Result Artist Names": [
+            "Elliott Sharp`s Terraplane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kG5RLAZiikdiqB3u6N5Ak",
+        "Result Album Name": "Do the Don't"
     },
     {
         "Title": "Camp Teaches Autistic Children How to Fit In",
@@ -211,13 +330,26 @@
         "MoWeEd Artists": [
             "Bobby Watson",
             "Horizon"
-        ]
+        ],
+        "Result Track Name": "The Love We Had Yesterday",
+        "Result Artist Names": [
+            "Bobby Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:69IUbEDgVGIJTSlvA3h9OO",
+        "Result Album Name": "Horizon Reassembled"
     },
     {
         "MoWeEd Track": "Monkey Wrench Blues",
         "MoWeEd Artists": [
             "Junior Brown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Organic Cigarettes, the 'P.C.' Choice",
@@ -231,13 +363,26 @@
             "Beegie Adair",
             "Steinberg",
             "Jeff Orchestra"
-        ]
+        ],
+        "Result Track Name": "Smoke Gets In Your Eyes",
+        "Result Artist Names": [
+            "Beegie Adair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:4VuSkkvcS4aRMnUzck5Ud0",
+        "Result Album Name": "I'll Take Romance"
     },
     {
         "MoWeEd Track": "Alexander the Great",
         "MoWeEd Artists": [
             "Saxophone Summit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Troop Realignment Planned",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-01-05",
         "Day": "Mon",
-        "Scanned Date": "2021-05-30 12:20:59"
+        "Scanned Date": "2021-05-30 12:20:59",
+        "Playlist URI": "3Avka9MErkYWkP31qXanoN",
+        "Playlist Link": "https://open.spotify.com/playlist/3Avka9MErkYWkP31qXanoN",
+        "Snapshot ID": "MSw4MDk3NGQxZmFjZmVmOTAzNWJlM2ZhMWE4MDA2NmFiOTRjMDRjZTg2",
+        "Playlist Name": "MoWeEd 2004-01-05 Mon Morning Edition"
     },
     {
         "Title": "Mars Landing a Win for NASA",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "23 Smastykker for Klaver, EG 104 (23 Small Pieces for Piano): Andante, quasi allegretto (=EG 103: 9, En drom (A Dream))",
         "MoWeEd Artists": [
             "Einar Steen-Nokleberg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Ranitsa",
         "MoWeEd Artists": [
             "Pachora"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rivals Target Dean in Debate",
@@ -40,7 +54,15 @@
         "MoWeEd Track": "Union Square",
         "MoWeEd Artists": [
             "Tony Darren"
-        ]
+        ],
+        "Result Track Name": "Union Square",
+        "Result Artist Names": [
+            "Tony Darren"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jOHtDwdw9qe61PUkeY9Sd",
+        "Result Album Name": "Sun Song"
     },
     {
         "Title": "Protest Leader Elected President of Georgia",
@@ -52,7 +74,12 @@
         "MoWeEd Track": "Ballad for Trio",
         "MoWeEd Artists": [
             "The Jazz Mandolin Project"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: Tubby Cities",
@@ -76,13 +103,23 @@
         "MoWeEd Track": "You and Me",
         "MoWeEd Artists": [
             "Snooks Eaglin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Curley Shirley",
         "MoWeEd Artists": [
             "Otto Sieben"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cheap Labor Lures Film Productions Abroad",
@@ -94,13 +131,29 @@
         "MoWeEd Track": "L.A. Confidential",
         "MoWeEd Artists": [
             "Jerry Goldsmith"
-        ]
+        ],
+        "Result Track Name": "Bloody Christmas - From \"L.A. Confidential\"",
+        "Result Artist Names": [
+            "Jerry Goldsmith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BXyyuUy5uXXk6oSO2dQKC",
+        "Result Album Name": "L.A. Confidential (Original Motion Picture Score)"
     },
     {
         "MoWeEd Track": "Underfoot",
         "MoWeEd Artists": [
             "Larry Pattis"
-        ]
+        ],
+        "Result Track Name": "Underfoot",
+        "Result Artist Names": [
+            "Larry Pattis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0x5JUTmyvoNYoZ1qXtgBul",
+        "Result Album Name": "Hands Of Time"
     },
     {
         "Title": "U.S. Fingerprints Foreigners",
@@ -118,13 +171,29 @@
         "MoWeEd Track": "I Wish You Love",
         "MoWeEd Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "I Wish You Love",
+        "Result Artist Names": [
+            "Benny Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0sEL8D5xUT1svlyAxe1aXh",
+        "Result Album Name": "Green's Blues"
     },
     {
         "MoWeEd Track": "I've Heard That Song Before",
         "MoWeEd Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "I've Heard That Song Before",
+        "Result Artist Names": [
+            "Benny Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4F7mgi69J30ZoVIvKwgmhB",
+        "Result Album Name": "Green's Blues"
     },
     {
         "Title": "Mad Cow Case Highlights Cattle-Tracking Problems",
@@ -142,7 +211,18 @@
         "MoWeEd Track": "Pannonica [#]",
         "MoWeEd Artists": [
             "Thelonious Monk"
-        ]
+        ],
+        "Result Track Name": "Pannonica",
+        "Result Artist Names": [
+            "Thelonious Monk",
+            "Sonny Rollins",
+            "Ernie Henry",
+            "Clark Terry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3EM4Vr12ZTUee0OLjTw01F",
+        "Result Album Name": "Brilliant Corners"
     },
     {
         "Title": "'Morning Edition' Returns: Harassed, or in Love?",
@@ -160,7 +240,15 @@
         "MoWeEd Track": "Sugar",
         "MoWeEd Artists": [
             "Eric Marienthal"
-        ]
+        ],
+        "Result Track Name": "Sugar",
+        "Result Artist Names": [
+            "Eric Marienthal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0h0EsEAM9agE5IdMoTvRF0",
+        "Result Album Name": "Turn Up The Heat"
     },
     {
         "Title": "Bam Quake Survivors Focus on Future",
@@ -178,13 +266,30 @@
         "MoWeEd Track": "Farewell to Cuba",
         "MoWeEd Artists": [
             "Sergio Alejandro"
-        ]
+        ],
+        "Result Track Name": "Adios a Cuba (Farewell to Cuba)",
+        "Result Artist Names": [
+            "Ignacio Cervantes",
+            "Sergio Alejandro Gonzalez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4M1uu9IARY7J7KGCEDoscs",
+        "Result Album Name": "Piano Recital: Gonzalez, Sergio Alejandro - Saumell Robredo, M. / Cervantes, I."
     },
     {
         "MoWeEd Track": "Beija-Flor",
         "MoWeEd Artists": [
             "Jim Hall"
-        ]
+        ],
+        "Result Track Name": "Beija-Flor",
+        "Result Artist Names": [
+            "Jim Hall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1u8t6ed8wbmHFC1BXfTtDF",
+        "Result Album Name": "Hallmarks: The Best Of Jim Hall (1971-2000)"
     },
     {
         "Title": "Intersections: Inspiration and Creativity",
@@ -196,12 +301,25 @@
         "MoWeEd Track": "Theme from Shaft",
         "MoWeEd Artists": [
             "Isaac Hayes"
-        ]
+        ],
+        "Result Track Name": "Theme From Shaft - Remastered",
+        "Result Artist Names": [
+            "Isaac Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7KMILVTQdVS4zQ8ilTcpRO",
+        "Result Album Name": "Shaft (Deluxe Edition)"
     },
     {
         "MoWeEd Track": "Emily",
         "MoWeEd Artists": [
             "Jim Hall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

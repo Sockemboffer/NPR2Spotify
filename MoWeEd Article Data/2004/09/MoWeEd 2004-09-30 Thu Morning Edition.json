@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-09-30",
         "Day": "Thu",
-        "Scanned Date": "2021-05-30 12:00:56"
+        "Scanned Date": "2021-05-30 12:00:56",
+        "Playlist URI": "3g0GBIHVDtcbQSluqOK0x5",
+        "Playlist Link": "https://open.spotify.com/playlist/3g0GBIHVDtcbQSluqOK0x5",
+        "Snapshot ID": "MSxlZTkwMjFlZmYwOTVkYWYxZDNlMjVlN2NiODdhZWEyZTU5ZjliZTE3",
+        "Playlist Name": "MoWeEd 2004-09-30 Thu Morning Edition"
     },
     {
         "Title": "Iraqis Suffer Majority of Kidnappings",
@@ -22,13 +26,31 @@
         "MoWeEd Track": "Sordin",
         "MoWeEd Artists": [
             "Jonas Knutsson"
-        ]
+        ],
+        "Result Track Name": "Sordin",
+        "Result Artist Names": [
+            "Jonas Knutsson",
+            "Manne von Ahn Öberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00mZwq6sUPDYFas1LBTYfz",
+        "Result Album Name": "Malgomaj"
     },
     {
         "MoWeEd Track": "Hvide Sande",
         "MoWeEd Artists": [
             "Jonas Knutsson"
-        ]
+        ],
+        "Result Track Name": "Hvide Sande",
+        "Result Artist Names": [
+            "Jonas Knutsson",
+            "Manne von Ahn Öberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eObvAVghkbepSMIUgSNHc",
+        "Result Album Name": "Malgomaj"
     },
     {
         "Title": "Studying Top Defense Contracts",
@@ -46,13 +68,26 @@
         "MoWeEd Track": "Fugue In G Minor",
         "MoWeEd Artists": [
             "The New Tankopanicum Orchestra"
-        ]
+        ],
+        "Result Track Name": "Prelude and Fugue in G minor, BWV535",
+        "Result Artist Names": [
+            "The New Baldwin Orchestra"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:2uhHonWk8ERy66cyA9vasG",
+        "Result Album Name": "A Bach Christmas (Volume 3)"
     },
     {
         "MoWeEd Track": "Mother April March",
         "MoWeEd Artists": [
             "The New Tankopanicum Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: Losing the Bomb",
@@ -70,7 +105,12 @@
         "MoWeEd Track": "The Little Prelude",
         "MoWeEd Artists": [
             "New Jefferson Chamber Players"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Debate Coaches Prep Candidates",
@@ -88,13 +128,23 @@
         "MoWeEd Track": "Bright Shadows (Processional)",
         "MoWeEd Artists": [
             "Dose Hermanos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Heart Song",
         "MoWeEd Artists": [
             "Dose Hermanos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Moving the Expos and Major League Deal Making",
@@ -112,13 +162,26 @@
         "MoWeEd Track": "Blue Pres",
         "MoWeEd Artists": [
             "Von Freeman"
-        ]
+        ],
+        "Result Track Name": "Blue Pres",
+        "Result Artist Names": [
+            "Von Freeman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4aWLhvYqk9H4FTzbjvfEb2",
+        "Result Album Name": "The Great Divide"
     },
     {
         "MoWeEd Track": "Emily",
         "MoWeEd Artists": [
             "The Drummonds"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Initiates Missile Defense",
@@ -142,13 +205,29 @@
         "MoWeEd Track": "After The Storm",
         "MoWeEd Artists": [
             "Berends"
-        ]
+        ],
+        "Result Track Name": "Fifteen Exceptions for Piano: After the Storm",
+        "Result Artist Names": [
+            "David Berends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vvxSMFuUgJF2XpVRPq2ID",
+        "Result Album Name": "Fifteen Exceptions for Piano"
     },
     {
         "MoWeEd Track": "Nocturne",
         "MoWeEd Artists": [
             "Berends"
-        ]
+        ],
+        "Result Track Name": "Fifteen Exceptions for Piano: Nocturne",
+        "Result Artist Names": [
+            "David Berends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57V00UTci8JaIqBKUjrnIC",
+        "Result Album Name": "Fifteen Exceptions for Piano"
     },
     {
         "Title": "How Challengers Succeed in Debates ",
@@ -160,13 +239,26 @@
         "MoWeEd Track": "Wind Quintet",
         "MoWeEd Artists": [
             "The Pennsylvania Quintet"
-        ]
+        ],
+        "Result Track Name": "Wind Quintet",
+        "Result Artist Names": [
+            "The Georgia Woodwind Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1VbwA4Wua2q4duyXpewImz",
+        "Result Album Name": "Twigs"
     },
     {
         "MoWeEd Track": "Wind Quintet -- Presto",
         "MoWeEd Artists": [
             "The Pennsylvania Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Loans to U.S. Airlines Questioned",
@@ -178,13 +270,29 @@
         "MoWeEd Track": "Out of the Blue",
         "MoWeEd Artists": [
             "Alison Brown Quartet"
-        ]
+        ],
+        "Result Track Name": "Out Of The Blue",
+        "Result Artist Names": [
+            "Alison Brown Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38k7E5b9lUnwhuVfm3upwG",
+        "Result Album Name": "Out of the Blue"
     },
     {
         "MoWeEd Track": "Coast Walk",
         "MoWeEd Artists": [
             "Alison Brown Quartet"
-        ]
+        ],
+        "Result Track Name": "Coast Walk",
+        "Result Artist Names": [
+            "Alison Brown Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bks57UsVr44aqbGqaNRdm",
+        "Result Album Name": "Out of the Blue"
     },
     {
         "Title": "The Secrets of America's Supercentenarians",
@@ -196,13 +304,29 @@
         "MoWeEd Track": "Old Folks",
         "MoWeEd Artists": [
             "Kenny Burrell"
-        ]
+        ],
+        "Result Track Name": "Old Folks",
+        "Result Artist Names": [
+            "Kenny Burrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37dQyC6IqqP44PRR63iCwX",
+        "Result Album Name": "Lotus Blossom"
     },
     {
         "MoWeEd Track": "I Remember You",
         "MoWeEd Artists": [
             "Kenny Burrell"
-        ]
+        ],
+        "Result Track Name": "I Remember You",
+        "Result Artist Names": [
+            "Kenny Rogers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1Qh7d912pA0fmmxUyCDDrZ",
+        "Result Album Name": "Timepiece - Orchestral Sessions with David Foster"
     },
     {
         "Title": "One Man's Junk Is Another's Marvel",
@@ -214,13 +338,26 @@
         "MoWeEd Track": "White Fang",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "White Fang",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Q7XKjSQrOvw5F1uIEymF1",
+        "Result Album Name": "Unspeakable"
     },
     {
         "MoWeEd Track": "On the Alamo",
         "MoWeEd Artists": [
             "Charlie Shoemake Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Drug Maker Merck Pulls Vioxx",

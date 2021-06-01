@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2004-03-07",
         "Day": "Sun",
-        "Scanned Date": "2021-05-30 12:16:43"
+        "Scanned Date": "2021-05-30 12:16:43",
+        "Playlist URI": "1ZlzFz6nHVIvHLJp8TUyVQ",
+        "Playlist Link": "https://open.spotify.com/playlist/1ZlzFz6nHVIvHLJp8TUyVQ",
+        "Snapshot ID": "MSw1NTUwZTRiNDc1MzZhNmIzZDgxNDkyMzdmZWFmYjk0ZDU5NjUwMTA2",
+        "Playlist Name": "MoWeEd 2004-03-07 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,7 +32,15 @@
         "MoWeEd Track": "Movements 5",
         "MoWeEd Artists": [
             "Shine"
-        ]
+        ],
+        "Result Track Name": "Movements 5",
+        "Result Artist Names": [
+            "Shine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1r3sUTUyZBdBSWsZ6ItK2K",
+        "Result Album Name": "Heaven And Hell"
     },
     {
         "Title": "Greek Socialists Face Tight Election",
@@ -52,7 +64,15 @@
         "MoWeEd Track": "Crepuscule With Nellie [Takes 4 and 5][*]",
         "MoWeEd Artists": [
             "Thelonious Monk"
-        ]
+        ],
+        "Result Track Name": "Crepuscule With Nellie (Takes 4 & 5)",
+        "Result Artist Names": [
+            "Thelonious Monk Septet"
+        ],
+        "Result Track-Match Percent": 0.9230769230769231,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:4ajauK13IlCjMG6zvHlQs3",
+        "Result Album Name": "Monk's Music [Original Jazz Classics Remasters]"
     },
     {
         "Title": "Comment: Controlling Nuclear Arms",
@@ -64,13 +84,29 @@
         "MoWeEd Track": "When",
         "MoWeEd Artists": [
             "Patty Larkin"
-        ]
+        ],
+        "Result Track Name": "When",
+        "Result Artist Names": [
+            "Patty Larkin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3j2p2aToX71AQyMZasrovX",
+        "Result Album Name": "Regrooving The Dream"
     },
     {
         "MoWeEd Track": "Bearing Bears and Boring Boars",
         "MoWeEd Artists": [
             "Groove Troopers"
-        ]
+        ],
+        "Result Track Name": "Bearing Bears and Boring Boars",
+        "Result Artist Names": [
+            "Groove Troopers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4u8IWA0bGsoWRUJnRJnl5E",
+        "Result Album Name": "Zoom Zoo"
     },
     {
         "Title": "'Weekend Edition' Puzzle",
@@ -88,7 +124,15 @@
         "MoWeEd Track": "Sun Mar 11",
         "MoWeEd Artists": [
             "Particle"
-        ]
+        ],
+        "Result Track Name": "Sun Mar 11 - Live",
+        "Result Artist Names": [
+            "Particle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ATOB78V0oQyJ707RpCwWl",
+        "Result Album Name": "Transformations Live For The People"
     },
     {
         "Title": "Israeli Attack Kills 14 in Gaz",
@@ -130,7 +174,12 @@
         "MoWeEd Track": "Habriendo el Dominante",
         "MoWeEd Artists": [
             "Nuyorican Soul"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Listener Letters",
@@ -142,13 +191,29 @@
         "MoWeEd Track": "Skin and Bone",
         "MoWeEd Artists": [
             "The Kinks"
-        ]
+        ],
+        "Result Track Name": "Skin and Bone",
+        "Result Artist Names": [
+            "The Kinks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dMaGKyjXNv4TBcGNq8Kbm",
+        "Result Album Name": "Muswell Hillbillies"
     },
     {
         "MoWeEd Track": "Harbor",
         "MoWeEd Artists": [
             "Vienna Teng"
-        ]
+        ],
+        "Result Track Name": "Harbor",
+        "Result Artist Names": [
+            "Vienna Teng"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kL6zfbH55wJTKC4vv3bX0",
+        "Result Album Name": "Warm Strangers"
     },
     {
         "Title": "Vienna Teng, Live at NPR",
@@ -160,6 +225,14 @@
         "MoWeEd Track": "Feather Moon",
         "MoWeEd Artists": [
             "Vienna Teng"
-        ]
+        ],
+        "Result Track Name": "Feather Moon",
+        "Result Artist Names": [
+            "Vienna Teng"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6qEOKUyV7OAmlDCKYsn6gh",
+        "Result Album Name": "Warm Strangers"
     }
 ]

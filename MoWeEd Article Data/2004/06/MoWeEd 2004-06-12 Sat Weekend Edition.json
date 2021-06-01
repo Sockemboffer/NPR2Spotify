@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2004-06-12",
         "Day": "Sat",
-        "Scanned Date": "2021-05-30 12:08:07"
+        "Scanned Date": "2021-05-30 12:08:07",
+        "Playlist URI": "5MJuKCcRGpdPJLd2jUQM3U",
+        "Playlist Link": "https://open.spotify.com/playlist/5MJuKCcRGpdPJLd2jUQM3U",
+        "Snapshot ID": "MSwxZGI1MGZmYTliN2I1MjRmNWQ5Y2JmZWNiZjk4NDI2ZmZlMzVhODJm",
+        "Playlist Name": "MoWeEd 2004-06-12 Sat Weekend Edition"
     },
     {
         "Title": "Senior Iraqi Official Killed",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Mississippi Suite: Huckleberry Finn",
         "MoWeEd Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'How Israel Lost: The Four Questions'",
@@ -52,7 +61,15 @@
         "MoWeEd Track": "Chasin' the Groove",
         "MoWeEd Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Chasing The Groove",
+        "Result Artist Names": [
+            "Brooks Williams"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6KG4QXzj5pzHjyZQ5YDM38",
+        "Result Album Name": "Live Solo"
     },
     {
         "Title": "Simon And Garfunkel, The Interview",
@@ -65,7 +82,16 @@
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WIQkCEoWnmzJInqarNeyX",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "Week in Review with Daniel Schorr",
@@ -83,13 +109,26 @@
         "MoWeEd Track": "Another Mind",
         "MoWeEd Artists": [
             "Hiromi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Joy",
         "MoWeEd Artists": [
             "Hiromi"
-        ]
+        ],
+        "Result Track Name": "Joy to the Flute",
+        "Result Artist Names": [
+            "Hiromi Motomiya"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Mt0DJpSOvxhzZrAlV2FtD",
+        "Result Album Name": "voice"
     },
     {
         "Title": "Nichols Spared Death Penalty",
@@ -114,7 +153,17 @@
         "MoWeEd Artists": [
             "Donald Moline",
             "Daniel Paul Horn"
-        ]
+        ],
+        "Result Track Name": "Cello Sonata in C Major: II. Rondeau",
+        "Result Artist Names": [
+            "Jean-Louis Duport",
+            "Donald Moline",
+            "Daniel Paul Horn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65i1UmDMxZxsfaYvkqA01p",
+        "Result Album Name": "Duport, J.-L.: Cello Music (Napoleon's Cellist)"
     },
     {
         "Title": "A Tribute to Ray Charles",
@@ -126,7 +175,12 @@
         "MoWeEd Track": "Lemontech",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Criterion DVD Collection",
@@ -144,7 +198,15 @@
         "MoWeEd Track": "The Favourite",
         "MoWeEd Artists": [
             "Directions In Groove"
-        ]
+        ],
+        "Result Track Name": "The Favourite (Live) (feat. Inga Liljestrom)",
+        "Result Artist Names": [
+            "DIG (Directions In Groove)"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BlbHI8lL1wPdInuIGRPUU",
+        "Result Album Name": "Dig Live 1999 @ Milton Theatre and the Basement"
     },
     {
         "Title": "Traditional French Songs Enjoy Revival",
@@ -156,6 +218,11 @@
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

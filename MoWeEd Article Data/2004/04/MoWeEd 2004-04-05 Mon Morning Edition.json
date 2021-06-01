@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-04-05",
         "Day": "Mon",
-        "Scanned Date": "2021-05-30 12:13:28"
+        "Scanned Date": "2021-05-30 12:13:28",
+        "Playlist URI": "64oIjGxbuut6wuAQlx2RSR",
+        "Playlist Link": "https://open.spotify.com/playlist/64oIjGxbuut6wuAQlx2RSR",
+        "Snapshot ID": "MSw0MDEwYzhmMzQyYzk4ZGVkN2Q5ZGQ5NThkZGRlZjFmMzYwZTcwYmNm",
+        "Playlist Name": "MoWeEd 2004-04-05 Mon Morning Edition"
     },
     {
         "Title": "Eight GIs Die in Iraq Unrest",
@@ -24,7 +28,15 @@
             "Herbie Mann",
             "Terra",
             "Sona"
-        ]
+        ],
+        "Result Track Name": "Gypsy Jazz",
+        "Result Artist Names": [
+            "Herbie Mann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3DxKPbawJ7DwW5kO8tBR4p",
+        "Result Album Name": "Herbie Mann & Sona Terra / Eastern European Roots"
     },
     {
         "MoWeEd Track": "Sera",
@@ -32,7 +44,15 @@
             "Herbie Mann",
             "Terra",
             "Sona"
-        ]
+        ],
+        "Result Track Name": "Sera",
+        "Result Artist Names": [
+            "Herbie Mann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5cer3n99SxFSUV6LudOqKJ",
+        "Result Album Name": "Herbie Mann & Sona Terra / Eastern European Roots"
     },
     {
         "Title": "Powell Visits Haiti",
@@ -50,13 +70,29 @@
         "MoWeEd Track": "Form 10",
         "MoWeEd Artists": [
             "Greg Ellis"
-        ]
+        ],
+        "Result Track Name": "Form 10",
+        "Result Artist Names": [
+            "Greg Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tTZwFbyXkLIBme4ItBzgy",
+        "Result Album Name": "Kala Rupa"
     },
     {
         "MoWeEd Track": "Form 7",
         "MoWeEd Artists": [
             "Greg Ellis"
-        ]
+        ],
+        "Result Track Name": "Form 7",
+        "Result Artist Names": [
+            "Greg Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Bo00y8pV9Pvh9YSRTBBAj",
+        "Result Album Name": "Kala Rupa"
     },
     {
         "Title": "'Morning Edition' Returns: Anger-Management Lessons Lost",
@@ -74,13 +110,31 @@
         "MoWeEd Track": "Let the Wind Carry You",
         "MoWeEd Artists": [
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Let The Wind Carry You",
+        "Result Artist Names": [
+            "Amy White",
+            "Al Petteway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PWfXmyWbCv4utLdcNBwGP",
+        "Result Album Name": "Golden Wing"
     },
     {
         "MoWeEd Track": "Tabby Wings",
         "MoWeEd Artists": [
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Tabby Wings",
+        "Result Artist Names": [
+            "Amy White",
+            "Al Petteway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PtOFhpCRZiVTZnYEY0tUg",
+        "Result Album Name": "Golden Wing"
     },
     {
         "Title": "Remembering Kurt Cobain, 10 Years Later",
@@ -92,7 +146,15 @@
         "MoWeEd Track": "Approaching Pavonis Mons by Balloon (Utopia Planitia)",
         "MoWeEd Artists": [
             "The Flaming Lips"
-        ]
+        ],
+        "Result Track Name": "Approaching Pavonis Mons by Balloon (Utopia Planitia)",
+        "Result Artist Names": [
+            "The Flaming Lips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zq5lyei1uoskShdtxQO1o",
+        "Result Album Name": "Yoshimi Battles the Pink Robots"
     },
     {
         "Title": "Gated Communities Surprisingly Diverse",
@@ -112,14 +174,27 @@
             "Beegie Adair",
             "Steinberg",
             "Jeff Orchestra"
-        ]
+        ],
+        "Result Track Name": "Let's Fall In Love",
+        "Result Artist Names": [
+            "Beegie Adair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1xWdzTwEfbMVW15uj0KLHq",
+        "Result Album Name": "Jazzy Valentine's Day"
     },
     {
         "MoWeEd Track": "Begin the Beguine",
         "MoWeEd Artists": [
             "The Frank",
             "Joe Show"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "This Week, All Eyes on Rice",
@@ -137,13 +212,23 @@
         "MoWeEd Track": "String Quartet No. 12 in F major (\"American\"), B. 179 (Op. 96)",
         "MoWeEd Artists": [
             "Philharmonia Virtuosi [members of]"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "String Quartet No. 9 in E flat major, Op. 117",
         "MoWeEd Artists": [
             "Philharmonia Virtuosi [members of]"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sharon Details Gaza Pullout",
@@ -161,13 +246,29 @@
         "MoWeEd Track": "Long Drive Home in the Rain",
         "MoWeEd Artists": [
             "Ralph E. Hayes"
-        ]
+        ],
+        "Result Track Name": "Long Drive Home in the Rain",
+        "Result Artist Names": [
+            "Ralph E. Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1yF0anlFzwSURlnOcpW5NA",
+        "Result Album Name": "Wellspring"
     },
     {
         "MoWeEd Track": "Walk at Low Tide",
         "MoWeEd Artists": [
             "Ralph E. Hayes"
-        ]
+        ],
+        "Result Track Name": "Walk at low tide",
+        "Result Artist Names": [
+            "Ralph E. Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WKlpdCylWMue9SU53DwRw",
+        "Result Album Name": "Wellspring"
     },
     {
         "Title": "'Morning Edition' Returns: Mulling Over Millions",
@@ -185,13 +286,23 @@
         "MoWeEd Track": "No. 1: Street Tango",
         "MoWeEd Artists": [
             "I Fiamminghi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "El Tango",
         "MoWeEd Artists": [
             "I Fiamminghi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "EPA: Little Known About Toxins' Effects on Children",
@@ -209,13 +320,26 @@
         "MoWeEd Track": "F M",
         "MoWeEd Artists": [
             "Plan 9"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Too Hot",
         "MoWeEd Artists": [
             "Plan 9"
-        ]
+        ],
+        "Result Track Name": "Too Hot",
+        "Result Artist Names": [
+            "Plan 9"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Mu8fBBSegroC3lGvXcwjF",
+        "Result Album Name": "Rearview"
     },
     {
         "Title": "Intersections: Hellboy Meets Dracula",
@@ -227,6 +351,14 @@
         "MoWeEd Track": "Armando's Rhumba",
         "MoWeEd Artists": [
             "Harmonious Wail"
-        ]
+        ],
+        "Result Track Name": "Armando's Rhumba",
+        "Result Artist Names": [
+            "Harmonious Wail"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gGb7EaKIR57YYQy7cU2c7",
+        "Result Album Name": "Nonchalant"
     }
 ]

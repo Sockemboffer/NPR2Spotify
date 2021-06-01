@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-04-20",
         "Day": "Tue",
-        "Scanned Date": "2021-05-30 12:15:04"
+        "Scanned Date": "2021-05-30 12:15:04",
+        "Playlist URI": "5gTKOdCSvnR3qZi5H9Pc37",
+        "Playlist Link": "https://open.spotify.com/playlist/5gTKOdCSvnR3qZi5H9Pc37",
+        "Snapshot ID": "MSxmYjdlMGJlMjNlMmUyMGU2YjNlYjBhYmJiNDEwYTc1YzM3YzJkNGI1",
+        "Playlist Name": "MoWeEd 2004-04-20 Tue Morning Edition"
     },
     {
         "Title": "Court Hears Detainees' Appeal",
@@ -16,13 +20,23 @@
         "MoWeEd Track": "Trio for Piano, Violin and Cello, Opus 11, Mvt 2 Adagio",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Trio for Piano, Violin and Cello, Opus 11, Mvt 3 Tema Con Variazioni",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Stumps for 'Independent-Minded' Specter",
@@ -34,13 +48,29 @@
         "MoWeEd Track": "Music Box",
         "MoWeEd Artists": [
             "Stuart Hoffman"
-        ]
+        ],
+        "Result Track Name": "Music Box",
+        "Result Artist Names": [
+            "Stuart Hoffman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oMEj6EZpggiixxzA9i6yo",
+        "Result Album Name": "Silent Longing"
     },
     {
         "MoWeEd Track": "Joy to Joy",
         "MoWeEd Artists": [
             "Stuart Hoffman"
-        ]
+        ],
+        "Result Track Name": "Joy to Joy",
+        "Result Artist Names": [
+            "Stuart Hoffman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0n4gntvoi2vqCz6yi22dsp",
+        "Result Album Name": "Silent Longing"
     },
     {
         "Title": "'Morning Edition' Returns: Penny Trail Trips Up Thieves",
@@ -60,13 +90,32 @@
             "Robert Macht",
             "Yu",
             "Hyunah"
-        ]
+        ],
+        "Result Track Name": "Vishnu",
+        "Result Artist Names": [
+            "Robert Macht",
+            "Hyunah Yu",
+            "John Seligman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Y5jZtze4aFCYkT2Swx2b8",
+        "Result Album Name": "Macht, Robert: Vishnu"
     },
     {
         "MoWeEd Track": "Ikan Kuning",
         "MoWeEd Artists": [
             "Robert Macht"
-        ]
+        ],
+        "Result Track Name": "Ikan Kuning",
+        "Result Artist Names": [
+            "Robert Macht",
+            "John Wubbenhorst"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RcubK4XMFz4cKoMvw1I8a",
+        "Result Album Name": "Macht, Robert: Vishnu"
     },
     {
         "Title": "Aging Water Systems Plague Cities",
@@ -78,13 +127,26 @@
         "MoWeEd Track": "Wellspring",
         "MoWeEd Artists": [
             "Ralph E. Hayes"
-        ]
+        ],
+        "Result Track Name": "Wellspring",
+        "Result Artist Names": [
+            "Ralph E. Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7m9CwyejlrTuVmkDJVJB7e",
+        "Result Album Name": "Wellspring"
     },
     {
         "MoWeEd Track": "Deep into the Moment",
         "MoWeEd Artists": [
             "Ralph E. Hayes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "MCI Emerges from Bankruptcy",
@@ -102,13 +164,29 @@
         "MoWeEd Track": "Time to Say Goodbye (Con Te Partiro)",
         "MoWeEd Artists": [
             "Lorie Line"
-        ]
+        ],
+        "Result Track Name": "Time To Say Goodbye (Con Te Partiró)",
+        "Result Artist Names": [
+            "Lorie Line"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2pA0ksCl898PGoBQd6PP1K",
+        "Result Album Name": "Simply Grand"
     },
     {
         "MoWeEd Track": "In the Looking Glass",
         "MoWeEd Artists": [
             "Lorie Line"
-        ]
+        ],
+        "Result Track Name": "In the Looking Glass",
+        "Result Artist Names": [
+            "Lorie Line"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qUtD7LROMg9J6bHTaHwOQ",
+        "Result Album Name": "Simply Grand"
     },
     {
         "Title": "Woodward on Bush's 'Plan of Attack'",
@@ -127,14 +205,24 @@
         "MoWeEd Artists": [
             "Charles Stier",
             "Molly Newton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Simple Gifts (Shaker Tune)",
         "MoWeEd Artists": [
             "Charles Stier",
             "Molly Newton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fallujah Fighting Traps Iraqi Family",
@@ -153,14 +241,30 @@
         "MoWeEd Artists": [
             "Mark Kaplan",
             "David Golub"
-        ]
+        ],
+        "Result Track Name": "Sonata in A minor ( Op.137, No.2); D.385: III. Minuetto: Allegro",
+        "Result Artist Names": [
+            "David Golub & Mark Kaplan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KZ2ZwZKdyLtoApjMX8t2F",
+        "Result Album Name": "Schubert: Works For Piano And Violin"
     },
     {
         "MoWeEd Track": "Sonata in A minor (Op.137, No.2); D.385: IV. Allegro",
         "MoWeEd Artists": [
             "Mark Kaplan",
             "David Golub"
-        ]
+        ],
+        "Result Track Name": "Sonata in A minor ( Op.137, No.2); D.385: IV. Allegro",
+        "Result Artist Names": [
+            "David Golub & Mark Kaplan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LoU8J80fhzKa3AFBi8E4t",
+        "Result Album Name": "Schubert: Works For Piano And Violin"
     },
     {
         "Title": "Milwaukee Tries to Attract 'Wet' Industries ",
@@ -172,13 +276,29 @@
         "MoWeEd Track": "The Voyager",
         "MoWeEd Artists": [
             "Mike Oldfield"
-        ]
+        ],
+        "Result Track Name": "The Voyager",
+        "Result Artist Names": [
+            "Mike Oldfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NxvQwHh4e44vBnrrjsrXS",
+        "Result Album Name": "The Voyager"
     },
     {
         "MoWeEd Track": "Dark Island",
         "MoWeEd Artists": [
             "Mike Oldfield"
-        ]
+        ],
+        "Result Track Name": "Dark Island",
+        "Result Artist Names": [
+            "Mike Oldfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45lxDAcZsoMwe8EOoTlK2R",
+        "Result Album Name": "The Voyager"
     },
     {
         "Title": "'Morning Edition' Returns: Going Once, Going Twice...",
@@ -202,13 +322,26 @@
         "MoWeEd Track": "People Get Ready",
         "MoWeEd Artists": [
             "Tom Constanten"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sweet Surrender [#]",
         "MoWeEd Artists": [
             "3rd Force"
-        ]
+        ],
+        "Result Track Name": "Sweet Surrender",
+        "Result Artist Names": [
+            "3rd Force"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vGpcMsZQ4RlcjqQXg3W7Q",
+        "Result Album Name": "Collective Force"
     },
     {
         "Title": "Prenatal Ultrasound Portraits Draw Criticism",
@@ -226,13 +359,23 @@
         "MoWeEd Track": "Slow Motion [Instrumental]",
         "MoWeEd Artists": [
             "Pole"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Hip Bone",
         "MoWeEd Artists": [
             "Johnny A."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jordan King Cancels D.C. Visit",

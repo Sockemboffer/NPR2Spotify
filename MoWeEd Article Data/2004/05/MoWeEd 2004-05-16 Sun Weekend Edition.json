@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2004-05-16",
         "Day": "Sun",
-        "Scanned Date": "2021-05-30 12:11:31"
+        "Scanned Date": "2021-05-30 12:11:31",
+        "Playlist URI": "2ZAYnkMFba77iU5LewJJVB",
+        "Playlist Link": "https://open.spotify.com/playlist/2ZAYnkMFba77iU5LewJJVB",
+        "Snapshot ID": "MSw3ZDlhNzI1MjNmMjVjNGQzZDVjMGJmZWVjYjllMjU0NjU1ZGUyMjIz",
+        "Playlist Name": "MoWeEd 2004-05-16 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -23,13 +27,26 @@
         "MoWeEd Artists": [
             "John Abercrombie",
             "J.Abercombie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mission: Impossible",
         "MoWeEd Artists": [
             "Lalo Schifrin"
-        ]
+        ],
+        "Result Track Name": "Mission: Impossible",
+        "Result Artist Names": [
+            "Lalo Schifrin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VlxbRzdOyA56BviBK9vkc",
+        "Result Album Name": "Music From Mission: Impossible (Original Television Soundtrack)"
     },
     {
         "Title": "Embedded in Fallujah, Commandeering Space",
@@ -60,7 +77,15 @@
         "MoWeEd Artists": [
             "Larry Coryell",
             "Mark Egan et. al."
-        ]
+        ],
+        "Result Track Name": "Stable Fantasy",
+        "Result Artist Names": [
+            "Larry Coryell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2jgZt61x9mDld9BmckyM4B",
+        "Result Album Name": "Tricycles"
     },
     {
         "Title": "'Weekend Edition' Sunday Puzzle",
@@ -78,13 +103,26 @@
         "MoWeEd Track": "Secret Agent Man",
         "MoWeEd Artists": [
             "Johnny Rivers"
-        ]
+        ],
+        "Result Track Name": "Secret Agent Man",
+        "Result Artist Names": [
+            "Johnny Rivers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BlaUfBTbWG50DoZHBD1uV",
+        "Result Album Name": "Greatest Hits"
     },
     {
         "MoWeEd Track": "Skipping",
         "MoWeEd Artists": [
             "Wynton Marsalis Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Iraqi Sovereignty, Writer Sees Shades of Lebanon",
@@ -108,7 +146,15 @@
         "MoWeEd Track": "Confined to Ice",
         "MoWeEd Artists": [
             "Nick Wood"
-        ]
+        ],
+        "Result Track Name": "Confined to Ice",
+        "Result Artist Names": [
+            "Nick Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74HtAfhHk7V2MaS3w6QCqY",
+        "Result Album Name": "Sound Virus"
     },
     {
         "Title": "Mexico Feels Pinch of Water Shortage",
@@ -132,7 +178,16 @@
         "MoWeEd Track": "World Cup Fever",
         "MoWeEd Artists": [
             "Air Miami"
-        ]
+        ],
+        "Result Track Name": "World Cup Fever (Guy Fixsen Mix)",
+        "Result Artist Names": [
+            "Air Miami",
+            "Guy Fixsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cWH39WROsOiyDCUgal2q6",
+        "Result Album Name": "World Cup Fever"
     },
     {
         "Title": "Listener Letters",
@@ -145,7 +200,12 @@
         "MoWeEd Artists": [
             "Monty Alexander",
             "Ernest Ranglin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Monty Alexander and Ernest Ranglin",
@@ -158,12 +218,25 @@
         "MoWeEd Artists": [
             "Monty Alexander",
             "Ernest Ranglin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "King Tubby Meets the Rockers",
         "MoWeEd Artists": [
             "Ernest Ranglin"
-        ]
+        ],
+        "Result Track Name": "King Tubby Meets The Rockers",
+        "Result Artist Names": [
+            "Ernest Ranglin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bJd0EmFdbz5wC6Td5VlgT",
+        "Result Album Name": "Below The Bassline"
     }
 ]

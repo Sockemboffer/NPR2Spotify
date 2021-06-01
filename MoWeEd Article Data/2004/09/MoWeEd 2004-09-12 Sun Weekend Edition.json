@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2004-09-12",
         "Day": "Sun",
-        "Scanned Date": "2021-05-30 11:59:19"
+        "Scanned Date": "2021-05-30 11:59:19",
+        "Playlist URI": "5nru9Mf1Cc5Ww8hNuGqQNI",
+        "Playlist Link": "https://open.spotify.com/playlist/5nru9Mf1Cc5Ww8hNuGqQNI",
+        "Snapshot ID": "MSxkMmY2ODM3OGE5MWZkYjAxY2RjZWUxY2I1MTY4ZTJmZWM3NjQxYjlm",
+        "Playlist Name": "MoWeEd 2004-09-12 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News: Bush, Kerry and Maj. Gen. Weaver",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Pas De Deux From \"three Romances\"",
         "MoWeEd Artists": [
             "Maria Schneider Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Italians Mark Sept. 11, Evoking Common Bonds",
@@ -52,7 +61,15 @@
         "MoWeEd Track": "Watch Over Us",
         "MoWeEd Artists": [
             "Nels Cline Singers"
-        ]
+        ],
+        "Result Track Name": "Watch Over Us",
+        "Result Artist Names": [
+            "Nels Cline"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5oeftwW43zQjhPlbRViYx9",
+        "Result Album Name": "The Giant Pin"
     },
     {
         "Title": "Putin's Domestic Issues, and Global Reputation",
@@ -64,13 +81,29 @@
         "MoWeEd Track": "That Night",
         "MoWeEd Artists": [
             "Darek Oleszkiewicz"
-        ]
+        ],
+        "Result Track Name": "That Night",
+        "Result Artist Names": [
+            "Darek Oleszkiewicz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XG91hwCcInvaOTv6BmZSd",
+        "Result Album Name": "Like A Dream"
     },
     {
         "MoWeEd Track": "Carmine St.",
         "MoWeEd Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Carmine Street",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QpoD2zvydKPoFIpjc05zE",
+        "Result Album Name": "Everybody Loves You"
     },
     {
         "Title": "'Weekend Edition' Puzzle: Silent E's, in Two Words",
@@ -94,7 +127,15 @@
         "MoWeEd Track": "Dave's Riddle",
         "MoWeEd Artists": [
             "Justin Morell"
-        ]
+        ],
+        "Result Track Name": "Dave's Riddle - a Parmeter's Bass Line",
+        "Result Artist Names": [
+            "Justin Morell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ihXKcDeDv5JZ7gFBbGT9r",
+        "Result Album Name": "Triorange"
     },
     {
         "Title": "Hurricane Hits Jamaica Hard",
@@ -118,7 +159,12 @@
         "MoWeEd Track": "Part Wolf",
         "MoWeEd Artists": [
             "Jim Black's AlasNoAxis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Star-Spangled Battle of Baltimore",
@@ -136,7 +182,12 @@
         "MoWeEd Track": "Buleria, Solea Y Rumba",
         "MoWeEd Artists": [
             "Maria Schneider Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gene Scheer's 'American Anthem'",
@@ -154,6 +205,14 @@
         "MoWeEd Track": "Post-Apocalyptic",
         "MoWeEd Artists": [
             "GrooveLily"
-        ]
+        ],
+        "Result Track Name": "Post-Apocalyptic",
+        "Result Artist Names": [
+            "GrooveLily"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FIbpd5f2NpUGq9xaydjgS",
+        "Result Album Name": "Are we there yet?"
     }
 ]

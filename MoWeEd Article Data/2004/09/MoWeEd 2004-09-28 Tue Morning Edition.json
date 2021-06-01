@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-09-28",
         "Day": "Tue",
-        "Scanned Date": "2021-05-30 12:00:47"
+        "Scanned Date": "2021-05-30 12:00:47",
+        "Playlist URI": "7LkpXUKANXdUOnrGrvT8mD",
+        "Playlist Link": "https://open.spotify.com/playlist/7LkpXUKANXdUOnrGrvT8mD",
+        "Snapshot ID": "MSwxYTc2ZGI3YTg2YmNkZjI3MTU4NjFjNjBkZmEwNmUxMmYxNWI4YTA2",
+        "Playlist Name": "MoWeEd 2004-09-28 Tue Morning Edition"
     },
     {
         "Title": "Fla. Works to Restore Power",
@@ -22,14 +26,35 @@
         "MoWeEd Track": "IV Allegro Molto [Sonata in F Major]",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Sonata No. 2 in F Major, Op. 99: IV. Allegro molto",
+        "Result Artist Names": [
+            "Johannes Brahms",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uIFNNhPDtEKK38zGXrUck",
+        "Result Album Name": "Brahms: Sonatas for Cello & Piano, Opp. 38, 99 and 108"
     },
     {
         "MoWeEd Track": "Slavonic Dance [In E Minor]",
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Boston Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Slavonic Dance No. 2 in E minor, Op. 72",
+        "Result Artist Names": [
+            "Boston Symphony Orchestra",
+            "Yo-Yo Ma, Boston Symphony Orchestra, Seiji Ozawa",
+            "Yo-Yo Ma",
+            "Seiji Ozawa",
+            "Itzhak Perlman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rNRM5wJuBxApcNhh3GVlP",
+        "Result Album Name": "The Dvorák Album"
     },
     {
         "Title": "Awards Honor Outstanding Public Servants",
@@ -47,13 +72,29 @@
         "MoWeEd Track": "Church of Trees",
         "MoWeEd Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": "Church of Trees",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BK7r9ouHRnNqr4MYPEI1i",
+        "Result Album Name": "Liz Story"
     },
     {
         "MoWeEd Track": "The Very Thought of You",
         "MoWeEd Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": "The Very Thought Of You",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NRR3UaAWxE3GyAeA4W72M",
+        "Result Album Name": "Liz Story"
     },
     {
         "Title": "'Morning Edition' Returns: Jesus of Rio Grande",
@@ -72,13 +113,26 @@
         "MoWeEd Artists": [
             "Kim Wilson",
             "Rusty Zinn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Prelude",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Prelude",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nBlMWbjBAT4xiEexLvbYo",
+        "Result Album Name": "The Water Garden"
     },
     {
         "Title": "Nigerian Rebels Threaten Oil Production",
@@ -97,13 +151,29 @@
         "MoWeEd Artists": [
             "John McLaughlin",
             "Shakti"
-        ]
+        ],
+        "Result Track Name": "Shringar - Live",
+        "Result Artist Names": [
+            "John McLaughlin"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:43dSwNSLQJfdjerSsIcczO",
+        "Result Album Name": "Remember Shakti: Saturday Night In Bombay"
     },
     {
         "MoWeEd Track": "Night and Day",
         "MoWeEd Artists": [
             "Susan Jones"
-        ]
+        ],
+        "Result Track Name": "Night And Day",
+        "Result Artist Names": [
+            "Vince Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4Fsxi1EMCk0LqAYq2Er0Yt",
+        "Result Album Name": "Spell"
     },
     {
         "Title": "IRS Cracks Down on Tax Shelters",
@@ -115,13 +185,23 @@
         "MoWeEd Track": "Freedom",
         "MoWeEd Artists": [
             "Checkfield"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Homecoming",
         "MoWeEd Artists": [
             "Checkfield"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Warlords Threaten Afghan Vote",
@@ -139,13 +219,26 @@
         "MoWeEd Track": "The Sad Balconies of Heavan",
         "MoWeEd Artists": [
             "Mark Darnell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "As for Us",
         "MoWeEd Artists": [
             "Fernando Ortega"
-        ]
+        ],
+        "Result Track Name": "As For Us",
+        "Result Artist Names": [
+            "Fernando Ortega"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zfudRUPi8QoVD5LlVSI5r",
+        "Result Album Name": "BEGINNINGS - 2 CD Set"
     },
     {
         "Title": "In Heated Season, Politics Infuse Pop Culture",
@@ -157,13 +250,29 @@
         "MoWeEd Track": "Hope Springs",
         "MoWeEd Artists": [
             "Wind Machine"
-        ]
+        ],
+        "Result Track Name": "Hope Springs",
+        "Result Artist Names": [
+            "Wind Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SwWVNjKh74lne66TDJ8ko",
+        "Result Album Name": "Distant Shores"
     },
     {
         "MoWeEd Track": "Distant Shores",
         "MoWeEd Artists": [
             "Wind Machine"
-        ]
+        ],
+        "Result Track Name": "Distant Shores",
+        "Result Artist Names": [
+            "Wind Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5vEy79zMnuuZ4NqVLkdhRG",
+        "Result Album Name": "Distant Shores"
     },
     {
         "Title": "'Morning Edition' Returns: A Facelift for the $50 Bill",
@@ -181,13 +290,29 @@
         "MoWeEd Track": "Augusträsse 18",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Augustrasse 18",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23Squ0lO7GNDC76WjXMx8a",
+        "Result Album Name": "Positive Thinking"
     },
     {
         "MoWeEd Track": "Passionelle",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Passionelle",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fRkYz6ZBj92QmKHpM7s8P",
+        "Result Album Name": "Positive Thinking"
     },
     {
         "Title": "Mass. Town Weighs PC Revision of Its History",
@@ -205,13 +330,29 @@
         "MoWeEd Track": "Why Not!",
         "MoWeEd Artists": [
             "David Benoit"
-        ]
+        ],
+        "Result Track Name": "Why Not!",
+        "Result Artist Names": [
+            "David Benoit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ta7jJmnIyI1geC6LGy0bW",
+        "Result Album Name": "Professional Dreamer"
     },
     {
         "MoWeEd Track": "Something You Said",
         "MoWeEd Artists": [
             "David Benoit"
-        ]
+        ],
+        "Result Track Name": "Something You Said",
+        "Result Artist Names": [
+            "David Benoit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Rg7BAkopryiYHVtr8wf23",
+        "Result Album Name": "Professional Dreamer"
     },
     {
         "Title": "Troops Encouraged to Write of War Experiences",
@@ -223,12 +364,28 @@
         "MoWeEd Track": "In the Looking Glass",
         "MoWeEd Artists": [
             "Lorie Line"
-        ]
+        ],
+        "Result Track Name": "In the Looking Glass",
+        "Result Artist Names": [
+            "Lorie Line"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qUtD7LROMg9J6bHTaHwOQ",
+        "Result Album Name": "Simply Grand"
     },
     {
         "MoWeEd Track": "Walker's Theme",
         "MoWeEd Artists": [
             "Gerald Albright"
-        ]
+        ],
+        "Result Track Name": "Walker's Theme",
+        "Result Artist Names": [
+            "Gerald Albright"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ZxZ0Ggj3vBk5MyY6HmYIe",
+        "Result Album Name": "Kickin' It Up"
     }
 ]

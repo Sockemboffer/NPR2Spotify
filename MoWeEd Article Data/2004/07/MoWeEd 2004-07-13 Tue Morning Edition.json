@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-07-13",
         "Day": "Tue",
-        "Scanned Date": "2021-05-30 12:05:12"
+        "Scanned Date": "2021-05-30 12:05:12",
+        "Playlist URI": "78Qzmyw19zACdWgOZBCB6c",
+        "Playlist Link": "https://open.spotify.com/playlist/78Qzmyw19zACdWgOZBCB6c",
+        "Snapshot ID": "MSxiYzRhMDNlODcxMjBmMzJlZWJlM2JhYjg0MmY1N2ZlN2EyM2RmOTZl",
+        "Playlist Name": "MoWeEd 2004-07-13 Tue Morning Edition"
     },
     {
         "Title": "Senate Gay Marriage Ban Debate",
@@ -23,13 +27,26 @@
         "MoWeEd Artists": [
             "Mark O'Connor",
             "Metamorphosen Chamber Orchestra et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Dadash",
         "MoWeEd Artists": [
             "Omar Faruk Tekbilek"
-        ]
+        ],
+        "Result Track Name": "Dadash",
+        "Result Artist Names": [
+            "Omar Faruk Tekbilek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KZHwDzCLrL6ooLB4uOzFR",
+        "Result Album Name": "Alif / Love Supreme"
     },
     {
         "Title": "Prairie Dogs Yield Bioterrorism Insight",
@@ -41,13 +58,29 @@
         "MoWeEd Track": "Water Song",
         "MoWeEd Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Water Song",
+        "Result Artist Names": [
+            "Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NboezfRFrLXEdB58HnaRM",
+        "Result Album Name": "Little Lion"
     },
     {
         "MoWeEd Track": "Belfast Blues",
         "MoWeEd Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Belfast Blues",
+        "Result Artist Names": [
+            "Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gFhtP0dG0e1xZrrrgu9ex",
+        "Result Album Name": "Little Lion"
     },
     {
         "Title": "'Morning Edition' Returns: Reagan Cheers the Dems",
@@ -65,14 +98,30 @@
         "MoWeEd Track": "Con Poco Coco",
         "MoWeEd Artists": [
             "Chucho Valdés"
-        ]
+        ],
+        "Result Track Name": "Con Poco Coco (Without Much Thought)",
+        "Result Artist Names": [
+            "Chucho Valdés"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5oSD0xV5WSlOiZuIM2LLMn",
+        "Result Album Name": "Bele Bele En La Habana"
     },
     {
         "MoWeEd Track": "Los Aretes de la Luna",
         "MoWeEd Artists": [
             "Sánchez",
             "Dave"
-        ]
+        ],
+        "Result Track Name": "Los Aretes de la Luna - Instrumental",
+        "Result Artist Names": [
+            "David Sánchez"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2HrhtE38lZtE3Qdi5OsEos",
+        "Result Album Name": "Obsesión"
     },
     {
         "Title": "International Law Leaves Mark on High Court Decisions",
@@ -84,13 +133,27 @@
         "MoWeEd Track": "Puerta del Sol (Gate of the Sun)",
         "MoWeEd Artists": [
             "Bernardo Rubaja"
-        ]
+        ],
+        "Result Track Name": "Puerta del Sol - Gate of the Sun",
+        "Result Artist Names": [
+            "Bernardo Rubaja",
+            "Cesar Hernandez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HZS5bKzjmqmwHnXwmFc5q",
+        "Result Album Name": "Windham Hill Chill 2"
     },
     {
         "MoWeEd Track": "Oro Blanco (White Gold)",
         "MoWeEd Artists": [
             "Bernardo Rubaja"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "DeBeers to Plead Guilty to Price-Fixing",
@@ -109,14 +172,28 @@
         "MoWeEd Artists": [
             "D.D. Jackson",
             "Jane Bunnett"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Black Ice",
         "MoWeEd Artists": [
             "John Petrucci",
             "Jordan Rudess"
-        ]
+        ],
+        "Result Track Name": "Black Ice - Live",
+        "Result Artist Names": [
+            "Jordan Rudess",
+            "John Petrucci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IWYl2IfQAdqxryXKJsws5",
+        "Result Album Name": "An Evening With John Petrucci & Jordan Rudess (Live)"
     },
     {
         "Title": "Iraq Amnesty Not for All Rebel",
@@ -135,14 +212,35 @@
         "MoWeEd Artists": [
             "Leonard Bernstein",
             "New York Philharmonic"
-        ]
+        ],
+        "Result Track Name": "Nocturnes, L. 91: I. Nuages. Modéré - Un peu animé",
+        "Result Artist Names": [
+            "Claude Debussy",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UCDtvSUTLhPptuREQoblQ",
+        "Result Album Name": "Bernstein Conducts Debussy (Remastered)"
     },
     {
         "MoWeEd Track": "Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
         "MoWeEd Artists": [
             "Leonard Bernstein",
             "Columbia Symphony Orchestra et. al."
-        ]
+        ],
+        "Result Track Name": "Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Glenn Gould",
+            "Columbia Symphony Orchestra",
+            "Leonard Bernstein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RLW5pntyL4yNlmv4OcDnC",
+        "Result Album Name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058"
     },
     {
         "Title": "San Francisco Eyes School Vote for Noncitizens",
@@ -160,14 +258,24 @@
         "MoWeEd Track": "Like Rain Through My Hands..., Pt. 4",
         "MoWeEd Artists": [
             "Michael Whalen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Violin Sonata No. 1 Op. 75 - Ii: Allegro Molto",
         "MoWeEd Artists": [
             "Sarah Chang",
             "Lars Vogt"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: Saving Pvt. Hammer",
@@ -185,13 +293,34 @@
         "MoWeEd Track": "Vocalise",
         "MoWeEd Artists": [
             "The London Cello Sound"
-        ]
+        ],
+        "Result Track Name": "14 Romances, Op. 34: XIV. Vocalise (Arr. Richard Balcombe)",
+        "Result Artist Names": [
+            "Sergei Rachmaninoff",
+            "Paul Watkins",
+            "Geoffrey Simon",
+            "The London Cello Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ibIKJnaZ3hQzhMWlDPwEL",
+        "Result Album Name": "The London Cello Sound"
     },
     {
         "MoWeEd Track": "Sardana",
         "MoWeEd Artists": [
             "The London Cello Sound"
-        ]
+        ],
+        "Result Track Name": "Sardana for Cello Orchestra",
+        "Result Artist Names": [
+            "Pablo Casals",
+            "The London Cello Sound",
+            "Geoffrey Simon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35y4rfaMR0DWxTynuQdspe",
+        "Result Album Name": "The London Cello Sound"
     },
     {
         "Title": "In India, A Paradox of Supply and Demand",
@@ -203,13 +332,26 @@
         "MoWeEd Track": "Nocturne for piano No. 20 in C sharp minor, KK IVa/16, CT. 127 (B. 49)",
         "MoWeEd Artists": [
             "Philip Hii"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Something You Said",
         "MoWeEd Artists": [
             "David Benoit"
-        ]
+        ],
+        "Result Track Name": "Something You Said",
+        "Result Artist Names": [
+            "David Benoit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Rg7BAkopryiYHVtr8wf23",
+        "Result Album Name": "Professional Dreamer"
     },
     {
         "Title": "A Teen Quest to Remake 'Raiders of the Lost Ark'",

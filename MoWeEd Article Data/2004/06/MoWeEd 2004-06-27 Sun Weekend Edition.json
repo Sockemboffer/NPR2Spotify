@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2004-06-27",
         "Day": "Sun",
-        "Scanned Date": "2021-05-30 12:09:44"
+        "Scanned Date": "2021-05-30 12:09:44",
+        "Playlist URI": "3bZH394QMIFB72GwLqumVW",
+        "Playlist Link": "https://open.spotify.com/playlist/3bZH394QMIFB72GwLqumVW",
+        "Snapshot ID": "MSwzNDNjYjc3OWQxYjU2ODI3YmQzNzNmMzBlNTEyZjY2ZTYzY2VhNWU4",
+        "Playlist Name": "MoWeEd 2004-06-27 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,13 +32,27 @@
         "MoWeEd Track": "Static: Terrible Canyons of Static; Chart #3; World Police and ...",
         "MoWeEd Artists": [
             "Godspeed You Black Emperor!"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Last Time I Felt Like This",
         "MoWeEd Artists": [
             "Jane Olivor"
-        ]
+        ],
+        "Result Track Name": "The Last Time I Felt Like This (with Jane Olivor)",
+        "Result Artist Names": [
+            "Johnny Mathis",
+            "Jane Olivor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:785vp1zvQfUCrsQsPhFuKf",
+        "Result Album Name": "Better Together - The Duet Album"
     },
     {
         "Title": "Serbia Holds National Elections",
@@ -58,7 +76,19 @@
         "MoWeEd Track": "Old Tears",
         "MoWeEd Artists": [
             "William Parker"
-        ]
+        ],
+        "Result Track Name": "Old Tears",
+        "Result Artist Names": [
+            "William Parker",
+            "Rob Brown",
+            "Hamid Drake",
+            "Louis Barnes",
+            "Leena Conquest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0f2ezUxjTtJULOYA1TVa6H",
+        "Result Album Name": "Raining On The Moon"
     },
     {
         "Title": "Essay: Clinton's Rock Tour",
@@ -70,13 +100,29 @@
         "MoWeEd Track": "I Want to Know What Love Is",
         "MoWeEd Artists": [
             "Foreigner"
-        ]
+        ],
+        "Result Track Name": "I Want to Know What Love Is - 1999 Remaster",
+        "Result Artist Names": [
+            "Foreigner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1JLn8RhQzHz3qDqsChcmBl",
+        "Result Album Name": "Agent Provocateur"
     },
     {
         "MoWeEd Track": "Where Have You Been?",
         "MoWeEd Artists": [
             "Bill Charlap"
-        ]
+        ],
+        "Result Track Name": "Where Have You Been?",
+        "Result Artist Names": [
+            "Bill Charlap Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5oq7aSx9jQCpUZkv5zWHXE",
+        "Result Album Name": "Written In The Stars"
     },
     {
         "Title": "'Weekend Edition' Sunday Puzzle",
@@ -94,13 +140,29 @@
         "MoWeEd Track": "Safe Return",
         "MoWeEd Artists": [
             "Jane Olivor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Equilibrium",
         "MoWeEd Artists": [
             "Matthew Shipp"
-        ]
+        ],
+        "Result Track Name": "Equilibrium",
+        "Result Artist Names": [
+            "Matthew Shipp",
+            "Khan Jamal",
+            "William Parker",
+            "Gerald Cleaver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jHIz4luRipikDDCzi0y9t",
+        "Result Album Name": "Equilibrium"
     },
     {
         "Title": "Iraqi Vote Could Be Delayed",
@@ -124,7 +186,12 @@
         "MoWeEd Track": "Sonata for trumpet & piano",
         "MoWeEd Artists": [
             "Scott Thornburg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Casualties in Iraq",
@@ -136,7 +203,15 @@
         "MoWeEd Track": "Disrupted Dreams",
         "MoWeEd Artists": [
             "Carl Hancock Rux"
-        ]
+        ],
+        "Result Track Name": "Disrupted Dreams",
+        "Result Artist Names": [
+            "Carl Hancock Rux"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6krZxGg6BEDblbUapicQLq",
+        "Result Album Name": "Apothecary Rx"
     },
     {
         "Title": "Commentary: Prisoners and Presidential Authority",
@@ -160,7 +235,15 @@
         "MoWeEd Track": "Thin Brown Layer",
         "MoWeEd Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "Thin Brown Layer",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6M7HJ3WaanAOFYC9MdmGbS",
+        "Result Album Name": "Soul Food Taqueria"
     },
     {
         "Title": "Listener Letters",
@@ -172,7 +255,12 @@
         "MoWeEd Track": "Pardon My Freedom (maurice Fulton Instrumental Mix)",
         "MoWeEd Artists": [
             "!!! (chk Chk Chk)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Enron Whistleblower Sherron Watkins' Book Picks",
@@ -184,7 +272,12 @@
         "MoWeEd Track": "Follow Me",
         "MoWeEd Artists": [
             "Bahia Black"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Carl Hancock Rux, Renaissance Man",
@@ -196,12 +289,28 @@
         "MoWeEd Track": "Trouble of This World",
         "MoWeEd Artists": [
             "Carl Hancock Rux"
-        ]
+        ],
+        "Result Track Name": "Trouble of This World",
+        "Result Artist Names": [
+            "Carl Hancock Rux"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LOUuKqM5dFGssaX8vzAcb",
+        "Result Album Name": "Anima/Animus"
     },
     {
         "MoWeEd Track": "Come Sunday",
         "MoWeEd Artists": [
             "Bill Ware"
-        ]
+        ],
+        "Result Track Name": "Come Sunday",
+        "Result Artist Names": [
+            "Bill Ware"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rstK9fhdyRweFeWnXdHEX",
+        "Result Album Name": "SIR DUKE"
     }
 ]

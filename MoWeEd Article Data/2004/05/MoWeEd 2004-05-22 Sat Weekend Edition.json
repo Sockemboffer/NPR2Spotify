@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2004-05-22",
         "Day": "Sat",
-        "Scanned Date": "2021-05-30 12:12:13"
+        "Scanned Date": "2021-05-30 12:12:13",
+        "Playlist URI": "1DbLoMvkvskopvHRUQCEYo",
+        "Playlist Link": "https://open.spotify.com/playlist/1DbLoMvkvskopvHRUQCEYo",
+        "Snapshot ID": "MSw3NjJjNGZlZjc4ZGIxNWNjNmI1ZDkwNjk1YzU0N2EyNDY4MDRjOGNi",
+        "Playlist Name": "MoWeEd 2004-05-22 Sat Weekend Edition"
     },
     {
         "Title": "Chalabi Denies Wrongdoing",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Sonata for Clarinet & Piano -- Andanitno/vivace E Leggiero",
         "MoWeEd Artists": [
             "Chester Brezniak"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Duo for Flute & Clarinet",
         "MoWeEd Artists": [
             "Chester Brezniak"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cambone at Center of Prison-Abuse Investigation",
@@ -52,7 +66,12 @@
         "MoWeEd Track": "Concerto for Oboe D'amore - Allegro",
         "MoWeEd Artists": [
             "Academy of London"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "1913 Nickel Sells for $3 Million",
@@ -64,7 +83,12 @@
         "MoWeEd Track": "Caffeinated Rag",
         "MoWeEd Artists": [
             "Noel Lester"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Castro's Health Good, Cuban Doctors Say",
@@ -77,7 +101,12 @@
         "MoWeEd Artists": [
             "Klazz Brothers",
             "Cuba Percussion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Clio Awards",
@@ -95,14 +124,28 @@
         "MoWeEd Track": "Saltaire Melody, for piano",
         "MoWeEd Artists": [
             "John Tilbury"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Robin's Nest",
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WIQkCEoWnmzJInqarNeyX",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "Week in Review with Daniel Schorr",
@@ -120,13 +163,29 @@
         "MoWeEd Track": "Let's Do It",
         "MoWeEd Artists": [
             "Noel Coward"
-        ]
+        ],
+        "Result Track Name": "Let's Do It (Let's Fall in Love)",
+        "Result Artist Names": [
+            "Noel Coward"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PZMPKJuYkSe7xGizS9AQm",
+        "Result Album Name": "Noël Coward at Las Vegas"
     },
     {
         "MoWeEd Track": "It's the Talk of the Town",
         "MoWeEd Artists": [
             "Joe Augustine"
-        ]
+        ],
+        "Result Track Name": "It's The Talk Of The Town",
+        "Result Artist Names": [
+            "Joe Sullivan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:56m094mWW7lYdtLvbLpvtV",
+        "Result Album Name": "Classic Capitol Jazz Sessions"
     },
     {
         "Title": "Kerry Strategy ",
@@ -150,7 +209,15 @@
         "MoWeEd Track": "The Machine",
         "MoWeEd Artists": [
             "Threnody Ensemble"
-        ]
+        ],
+        "Result Track Name": "The Machine",
+        "Result Artist Names": [
+            "Threnody Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DgKFXl5h4cMo1ogzUlgeQ",
+        "Result Album Name": "Timbre Hollow"
     },
     {
         "Title": "Rumor Control",
@@ -162,7 +229,15 @@
         "MoWeEd Track": "Escucha Mi Piano",
         "MoWeEd Artists": [
             "Pepesito Reyes"
-        ]
+        ],
+        "Result Track Name": "Escucha mi piano",
+        "Result Artist Names": [
+            "Pepesito Reyes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mdPtMEvt5Rkcv5uUf86IP",
+        "Result Album Name": "Latino Casino"
     },
     {
         "Title": "Report Details U. of Colorado Football Recruiting Scandal",
@@ -180,12 +255,22 @@
         "MoWeEd Track": "The Good, The Bad and the Ugly (Main Title)",
         "MoWeEd Artists": [
             "Cantori Moderni Di Alessandroni"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

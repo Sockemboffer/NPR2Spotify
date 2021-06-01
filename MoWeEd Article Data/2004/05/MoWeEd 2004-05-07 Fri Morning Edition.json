@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-05-07",
         "Day": "Fri",
-        "Scanned Date": "2021-05-30 12:10:40"
+        "Scanned Date": "2021-05-30 12:10:40",
+        "Playlist URI": "0abUdN8SozggaMK1YOOznc",
+        "Playlist Link": "https://open.spotify.com/playlist/0abUdN8SozggaMK1YOOznc",
+        "Snapshot ID": "MSwyNzU5YzNkZjBkYmI2OTcxMmU0ZmY0MmY1OThhMzMzZWEyMTEwODNl",
+        "Playlist Name": "MoWeEd 2004-05-07 Fri Morning Edition"
     },
     {
         "Title": "Dems Call for Rumsfeld to Quit",
@@ -23,14 +27,24 @@
         "MoWeEd Artists": [
             "David Davison",
             "Todd Rubenstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Shadow of the Sun",
         "MoWeEd Artists": [
             "David Davison",
             "Todd Rubenstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Filipino Film Star Runs for President",
@@ -43,14 +57,29 @@
         "MoWeEd Artists": [
             "Diaz Trio",
             "Julian Gray"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Cantabile",
         "MoWeEd Artists": [
             "Diaz Trio",
             "Julian Gray"
-        ]
+        ],
+        "Result Track Name": "Terzetto concertante in D Major, Op. 68, MS 114: III. Adagio cantabile",
+        "Result Artist Names": [
+            "Niccolò Paganini",
+            "Julian Gray",
+            "Diaz Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0u9Vbq5dRroZYDWQ0VTGzS",
+        "Result Album Name": "Paganini, N.: Music for String and Guitar"
     },
     {
         "Title": "Movie Review: 'Van Helsing'",
@@ -81,7 +110,15 @@
         "MoWeEd Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "Silenzio",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ih0rhxUuJlCJuGZ62gwUY",
+        "Result Album Name": "Absurdistan"
     },
     {
         "Title": "Pixar Profits Jump on 'Nemo' Sales",
@@ -99,13 +136,32 @@
         "MoWeEd Track": "Sonata No. 2 for Horn and Piano--andante Espressivo",
         "MoWeEd Artists": [
             "David Jolley"
-        ]
+        ],
+        "Result Track Name": "Sonata No. 2 for Horn and Piano: II. Andante espressivo",
+        "Result Artist Names": [
+            "David Jolley",
+            "David Oei",
+            "Alan Kay",
+            "Sam Pilafian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wiwHiJ5X8kLBPL4rANJHO",
+        "Result Album Name": "Alec Wilder: Music for Horn"
     },
     {
         "MoWeEd Track": "Sapatos Nóvos (New Shoes)",
         "MoWeEd Artists": [
             "Charlie Byrd"
-        ]
+        ],
+        "Result Track Name": "Sapatos Nóvos (New Shoes)",
+        "Result Artist Names": [
+            "Charlie Byrd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3laCfCLMGmiwBOlj165F9O",
+        "Result Album Name": "Byrd & Brazil"
     },
     {
         "Title": "U.N. Envoy in Iraq to Plan Transition",
@@ -129,13 +185,29 @@
         "MoWeEd Track": "Misterio",
         "MoWeEd Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Misterio",
+        "Result Artist Names": [
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dnHIimWt2EkjCRBKwkCkU",
+        "Result Album Name": "The Grande Passion"
     },
     {
         "MoWeEd Track": "Double Concerto",
         "MoWeEd Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Double Concerto",
+        "Result Artist Names": [
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4iyfZb0W8C7A0qUvmWnUwX",
+        "Result Album Name": "The Grande Passion"
     },
     {
         "Title": "Profile of Iraq Abuse Whistleblower Joseph Darby",
@@ -147,13 +219,23 @@
         "MoWeEd Track": "Street Mapping",
         "MoWeEd Artists": [
             "Cello"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Artificial Intelligence",
         "MoWeEd Artists": [
             "Cello"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: MLB Swats 'Spidey' Ads",
@@ -177,13 +259,26 @@
         "MoWeEd Track": "In A Sentimental Mood",
         "MoWeEd Artists": [
             "Count Bassie Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Darn That Dream",
         "MoWeEd Artists": [
             "Mimi Fox"
-        ]
+        ],
+        "Result Track Name": "Darn That Dream",
+        "Result Artist Names": [
+            "Mimi Fox"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5G0CrgL4pGjmhvwqdrCAYZ",
+        "Result Album Name": "She's the Woman"
     },
     {
         "Title": "'Safe in Hell': Absurdist Take on Salem Witch Trials",
@@ -195,7 +290,15 @@
         "MoWeEd Track": "Quiet Village",
         "MoWeEd Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "Quiet Village - Original Mono Version",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZI49HJE66dhI3EvYHDqSz",
+        "Result Album Name": "Exotica"
     },
     {
         "Title": "Greece, Turkey Look Past Rivalry to New Ties",

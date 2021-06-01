@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-01-13",
         "Day": "Tue",
-        "Scanned Date": "2021-05-30 12:21:43"
+        "Scanned Date": "2021-05-30 12:21:43",
+        "Playlist URI": "2boftJhmawjb0jLYkPzvDW",
+        "Playlist Link": "https://open.spotify.com/playlist/2boftJhmawjb0jLYkPzvDW",
+        "Snapshot ID": "MSw3Yjg2ZjJlNjNiMjBiYTQ2YzlkMjdjYzk5NGFhMjVlZGQ0ZDY0Mjli",
+        "Playlist Name": "MoWeEd 2004-01-13 Tue Morning Edition"
     },
     {
         "Title": "Iowa TV Ads Eschew Attacks",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "String Quartet No. 32 in C major (\"Bird\"), Op. 33/3, H. 3/39",
         "MoWeEd Artists": [
             "Alban Berg Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Original People",
         "MoWeEd Artists": [
             "Bob Mintzer Big Band"
-        ]
+        ],
+        "Result Track Name": "Original People",
+        "Result Artist Names": [
+            "Bob Mintzer Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WH1NymYG4BgREGaJDJxZm",
+        "Result Album Name": "Bob Mintzer Big Band - Live at MCG"
     },
     {
         "Title": "Parmalat's Collapse Roils Investors",
@@ -42,7 +59,12 @@
             "Beppe Gambetta",
             "Carlo Aonzo",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Godfather Waltz",
@@ -50,7 +72,17 @@
             "Beppe Gambetta",
             "Carlo Aonzo",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "The Godfather Waltz",
+        "Result Artist Names": [
+            "Beppe Gambetta",
+            "Carlo Aonzo",
+            "David Grisman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AbifbZLWA8UwYbKqj6pKw",
+        "Result Album Name": "Traversata"
     },
     {
         "Title": "'Morning Edition' Returns:  Pricey Fender Bender",
@@ -70,7 +102,12 @@
             "B. De Wetter-smith",
             "A.c.",
             "M.j. Carrasqueira"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sonata for Two Flutes, Op. 75/allegretto Scherzando",
@@ -78,7 +115,12 @@
             "B. De Wetter-smith",
             "A.c.",
             "M.j. Carrasqueira"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Calif. Grocery Strike Talks Collapse",
@@ -96,7 +138,15 @@
         "MoWeEd Track": "Airborne",
         "MoWeEd Artists": [
             "Harmonious Wail"
-        ]
+        ],
+        "Result Track Name": "Airborne",
+        "Result Artist Names": [
+            "Harmonious Wail"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QOWQCUXwe8C2n9Dsvb6za",
+        "Result Album Name": "Airborne"
     },
     {
         "Title": "Six to Try Dual Listing on NASDAQ, NYSE",
@@ -114,13 +164,29 @@
         "MoWeEd Track": "Days of Wine and Roses",
         "MoWeEd Artists": [
             "Charlie Byrd Trio"
-        ]
+        ],
+        "Result Track Name": "Days Of Wine And Roses",
+        "Result Artist Names": [
+            "Charlie Byrd Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dMdvXHsr8dNYj67SKDpuM",
+        "Result Album Name": "Au Courant"
     },
     {
         "MoWeEd Track": "On Broadway",
         "MoWeEd Artists": [
             "Tito Puente"
-        ]
+        ],
+        "Result Track Name": "On Broadway",
+        "Result Artist Names": [
+            "Tito Puente"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uvxd2l8yTs4how6sOO1gJ",
+        "Result Album Name": "\"Live\" Treasures \"Standards\" Vol.5"
     },
     {
         "Title": "Fox Backs Bush on Immigration",
@@ -138,13 +204,39 @@
         "MoWeEd Track": "Sonata in G Major, Op. 5 No. 1 for 2 Violins & Basso Continuo: Andante",
         "MoWeEd Artists": [
             "Philharmonia Virtuosi"
-        ]
+        ],
+        "Result Track Name": "Trio Sonata in G Major, Op. 5 No. 1 for 2 Violins & Basso Continuo: i. Andante",
+        "Result Artist Names": [
+            "Pietro Locatelli",
+            "Philharmonia Virtuosi",
+            "Mela Tenenbaum",
+            "Alexandr Tenenbaum",
+            "Dorothy Lawson",
+            "Richard Kapp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5SDWT4rELKpzzC9HJKGDR0",
+        "Result Album Name": "Musical Evenings with the Captain"
     },
     {
         "MoWeEd Track": "Sonata in G Major, Op. 5 No. 1 for 2 Violins & Basso Continuo: Allegro",
         "MoWeEd Artists": [
             "Philharmonia Virtuosi"
-        ]
+        ],
+        "Result Track Name": "Trio Sonata in G Major, Op. 5 No. 1 for 2 Violins & Basso Continuo: iii. Allegro",
+        "Result Artist Names": [
+            "Pietro Locatelli",
+            "Philharmonia Virtuosi",
+            "Mela Tenenbaum",
+            "Alexandr Tenenbaum",
+            "Dorothy Lawson",
+            "Richard Kapp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62uqlve4sSa0OZKxP8xiIi",
+        "Result Album Name": "Musical Evenings with the Captain"
     },
     {
         "Title": "'Morning Edition' Returns: City Identity Crisis",
@@ -168,13 +260,26 @@
         "MoWeEd Track": "RESTLESS",
         "MoWeEd Artists": [
             "GAVIN LURSSEN"
-        ]
+        ],
+        "Result Track Name": "Restless",
+        "Result Artist Names": [
+            "Gavin Lurssen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wgaA4JnJXF01UcmEqzFj0",
+        "Result Album Name": "Native Son"
     },
     {
         "MoWeEd Track": "STORYTELLER",
         "MoWeEd Artists": [
             "GAVIN LURSSEN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "College Basketball Review",
@@ -186,13 +291,29 @@
         "MoWeEd Track": "It Don't Make Sense (You Can't Make Peace)",
         "MoWeEd Artists": [
             "Robben Ford"
-        ]
+        ],
+        "Result Track Name": "It Don't Make Sense (You Can't Make Peace)",
+        "Result Artist Names": [
+            "Robben Ford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JJMMI4EZmLjC1J9Iuka7i",
+        "Result Album Name": "Blue Moon"
     },
     {
         "MoWeEd Track": "Spanish Blues",
         "MoWeEd Artists": [
             "Roy Rogers"
-        ]
+        ],
+        "Result Track Name": "Spanish Blues - Instrumental",
+        "Result Artist Names": [
+            "Roy Rogers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27Mo8cPFo9DnpTIc5qh8Yz",
+        "Result Album Name": "Blues On The Range"
     },
     {
         "Title": "Supreme Court Case Tests Rights for Disabled",
@@ -204,13 +325,26 @@
         "MoWeEd Track": "Captain April",
         "MoWeEd Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": "Captain April",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7DfEvaAPrzCHElmu7zzMeA",
+        "Result Album Name": "Pure Liz Story"
     },
     {
         "MoWeEd Track": "Bock to Bock",
         "MoWeEd Artists": [
             "The Derek Trucks Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Larry Gold and the Philly Sound",

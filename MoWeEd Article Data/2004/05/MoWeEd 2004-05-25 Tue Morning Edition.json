@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-05-25",
         "Day": "Tue",
-        "Scanned Date": "2021-05-30 12:12:30"
+        "Scanned Date": "2021-05-30 12:12:30",
+        "Playlist URI": "1kkARuaTKXIwOelntcQTkw",
+        "Playlist Link": "https://open.spotify.com/playlist/1kkARuaTKXIwOelntcQTkw",
+        "Snapshot ID": "MSwyMzQ3YTNkNzI0NDM4Njc5OTk2ODdiODUyZjViYjU1ODU2YjM1YzY4",
+        "Playlist Name": "MoWeEd 2004-05-25 Tue Morning Edition"
     },
     {
         "Title": "Bush Lays Out Plan for Iraq",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "First Movement: Allegretto Con Moto Moderato",
         "MoWeEd Artists": [
             "Julian Lloyd Webber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Scherzetto for Cello and Piano",
         "MoWeEd Artists": [
             "Julian Lloyd Webber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters from Listeners",
@@ -46,13 +60,23 @@
         "MoWeEd Track": "Elegy for Cello and Piano",
         "MoWeEd Artists": [
             "Julian Lloyd Webber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "K. 27: Allegro [Sonatas]",
         "MoWeEd Artists": [
             "Eliot Fisk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: Blue-Eye Cicada",
@@ -70,13 +94,26 @@
         "MoWeEd Track": "Les Berceaux (The Cradle)",
         "MoWeEd Artists": [
             "Clara Ponty"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Rapture",
         "MoWeEd Artists": [
             "Clara Ponty"
-        ]
+        ],
+        "Result Track Name": "Rapture",
+        "Result Artist Names": [
+            "Clara Ponty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gpQNIaljlNzviVjoXrR2Z",
+        "Result Album Name": "The Embrace"
     },
     {
         "Title": "Democracy in Afghanistan: Disarming the Warlords",
@@ -88,7 +125,15 @@
         "MoWeEd Track": "Drei Klavierstucke, D.946 (Impromptus): Allegro assai",
         "MoWeEd Artists": [
             "David Golub"
-        ]
+        ],
+        "Result Track Name": "Drei Klavierstücke, D. 946 (Impromptus) - Allegro Assai",
+        "Result Artist Names": [
+            "David Golub"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1GywMCtyYd1498hwIx2o4a",
+        "Result Album Name": "Schubert Piano Works"
     },
     {
         "Title": "Suit Targets Grasso's Pay",
@@ -106,13 +151,29 @@
         "MoWeEd Track": "I Remember",
         "MoWeEd Artists": [
             "Dan Myers"
-        ]
+        ],
+        "Result Track Name": "I Remember",
+        "Result Artist Names": [
+            "Dan Myers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hAy0U5XGDeFTBqp1plnDl",
+        "Result Album Name": "Winds of Wonder"
     },
     {
         "MoWeEd Track": "Tall Tale",
         "MoWeEd Artists": [
             "John Patitucci"
-        ]
+        ],
+        "Result Track Name": "Tall Tale",
+        "Result Artist Names": [
+            "John Patitucci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5JlMoTAPksLgT988ylFR1P",
+        "Result Album Name": "Songs, Stories & Spirituals"
     },
     {
         "Title": "A New Push for Iraqi Security",
@@ -132,7 +193,19 @@
             "Michael",
             "mccraw",
             "seattle Baroque"
-        ]
+        ],
+        "Result Track Name": "Concerto for Oboe and Bassoon in G Major, RV 545: II. Largo",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Washington McClain",
+            "Michael McCraw",
+            "Seattle Baroque Orchestra",
+            "Ingrid Matthews"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hXU2n429fXjnR848Jxtzs",
+        "Result Album Name": "Vivaldi, A.: Concertos - Rv 105, 114, 481, 489, 498, 545, 563"
     },
     {
         "MoWeEd Track": "Concerto In G Major - Allegro Molto",
@@ -140,7 +213,19 @@
             "Michael",
             "mccraw",
             "seattle Baroque"
-        ]
+        ],
+        "Result Track Name": "Concerto for Oboe and Bassoon in G Major, RV 545: III. Allegro molto",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Washington McClain",
+            "Michael McCraw",
+            "Seattle Baroque Orchestra",
+            "Ingrid Matthews"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5XUWD7ip9ik2hF5po4DMFv",
+        "Result Album Name": "Vivaldi, A.: Concertos - Rv 105, 114, 481, 489, 498, 545, 563"
     },
     {
         "Title": "Getting to the Bottom of Perchlorate, Part 2",
@@ -152,13 +237,29 @@
         "MoWeEd Track": "Spring",
         "MoWeEd Artists": [
             "Stuart Hoffman"
-        ]
+        ],
+        "Result Track Name": "Spring",
+        "Result Artist Names": [
+            "Stuart Hoffman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65nHte7z61cpz03y7MNgQC",
+        "Result Album Name": "Silent Longing"
     },
     {
         "MoWeEd Track": "Hand of Time",
         "MoWeEd Artists": [
             "Stuart Hoffman"
-        ]
+        ],
+        "Result Track Name": "Hand of Time",
+        "Result Artist Names": [
+            "Stuart Hoffman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fkZvNZ8AHUOqR21RB1bqh",
+        "Result Album Name": "Silent Longing"
     },
     {
         "Title": "'Morning Edition' Returns: High-Tech Napping on the Job",
@@ -177,13 +278,23 @@
         "MoWeEd Artists": [
             "Hansjorg Schellenberger",
             "Margit-Anna Suss"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Adagio - from Oboe Concerto in D minor Op.9 No.2",
         "MoWeEd Artists": [
             "Hansjorg Schellenberger"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Catholic Parishioners Weigh in on Iraq War",
@@ -201,13 +312,27 @@
         "MoWeEd Track": "Chaconne From Partita No. 2 for Unaccompanied Violin In D Minor",
         "MoWeEd Artists": [
             "Angel Romero"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Darn That Dream",
         "MoWeEd Artists": [
             "George Shearing"
-        ]
+        ],
+        "Result Track Name": "Darn That Dream",
+        "Result Artist Names": [
+            "George Shearing",
+            "The Montgomery Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WXgTDC27WhF5YptAMMlYH",
+        "Result Album Name": "Wes Montgomery Plays For Lovers"
     },
     {
         "Title": "Original 'Godzilla' to Make Uncut Debut in U.S.",
@@ -219,13 +344,26 @@
         "MoWeEd Track": "Kashira",
         "MoWeEd Artists": [
             "Kodo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Friday Night Shuffle",
         "MoWeEd Artists": [
             "Larry Carlton"
-        ]
+        ],
+        "Result Track Name": "Friday Night Shuffle - Live Version",
+        "Result Artist Names": [
+            "Larry Carlton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7E0bnUK88jiG8qRkW5LrRF",
+        "Result Album Name": "The Paris Concert (Live)"
     },
     {
         "Title": "New Commander Planned for Iraq",
@@ -237,6 +375,14 @@
         "MoWeEd Track": "La Sagrada Familia",
         "MoWeEd Artists": [
             "Michael Manring"
-        ]
+        ],
+        "Result Track Name": "La Sagrada Familia",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Izb4kwLrsOBmSOJNaY4vW",
+        "Result Album Name": "The Book of Flame"
     }
 ]

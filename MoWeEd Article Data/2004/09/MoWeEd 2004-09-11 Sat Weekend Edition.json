@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2004-09-11",
         "Day": "Sat",
-        "Scanned Date": "2021-05-30 11:59:14"
+        "Scanned Date": "2021-05-30 11:59:14",
+        "Playlist URI": "1U2NaPrR97fjxuahpTHWV4",
+        "Playlist Link": "https://open.spotify.com/playlist/1U2NaPrR97fjxuahpTHWV4",
+        "Snapshot ID": "MSxmZTkyMDIwZTVjM2QwNGVmZWMxMjBlYjMxMjAxZDliMTdiMDBiZmMw",
+        "Playlist Name": "MoWeEd 2004-09-11 Sat Weekend Edition"
     },
     {
         "Title": "Ivan Lashes Jamaica",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Spaces Between Days, Pt. 3",
         "MoWeEd Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Clandestine Adventures of Ms. Merz",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "The Clandestine Adventures of Ms. Merz",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mfGoWXxuZcPsKIgslzoxh",
+        "Result Album Name": "Book of Silk"
     },
     {
         "Title": "Auction Gives Music Fans Lots of (Johnny) Cash ",
@@ -58,7 +75,16 @@
         "MoWeEd Track": "Telephone and Rubber Band",
         "MoWeEd Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Telephone and Rubber Band",
+        "Result Artist Names": [
+            "Simon Jeffes",
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6NkvFa0WM1CUkprsMOsUQE",
+        "Result Album Name": "Concert Program"
     },
     {
         "Title": "Unearthing a Viking Graveyard",
@@ -71,7 +97,15 @@
         "MoWeEd Artists": [
             "Zero 7",
             "Henry Binns et. al."
-        ]
+        ],
+        "Result Track Name": "Out Of Town",
+        "Result Artist Names": [
+            "Zero 7"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2ZV2oUDzFy6zJxm1thNgEH",
+        "Result Album Name": "EP"
     },
     {
         "Title": "New Orleans Cemeteries Full of Music",
@@ -89,7 +123,15 @@
         "MoWeEd Track": "Gentle Piece",
         "MoWeEd Artists": [
             "Craig Armstrong"
-        ]
+        ],
+        "Result Track Name": "Gentle Piece",
+        "Result Artist Names": [
+            "Craig Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EJiS0hpZs5YQoTKsMZoPb",
+        "Result Album Name": "Piano Works"
     },
     {
         "Title": "Week in Review: Sept. 11, Terrorism,",
@@ -107,13 +149,26 @@
         "MoWeEd Track": "Brush Up Your Shakespeare",
         "MoWeEd Artists": [
             "Dick Hyman"
-        ]
+        ],
+        "Result Track Name": "Brush Up Your Shakespeare",
+        "Result Artist Names": [
+            "Dick Hyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7apDiBNavLeaeILQk4sNbA",
+        "Result Album Name": "Cole Porter: All Through the Night"
     },
     {
         "MoWeEd Track": "We See",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Appeal of Semi-Automatic Weapons",
@@ -138,7 +193,15 @@
         "MoWeEd Artists": [
             "Zero 7",
             "Henry Binns et. al."
-        ]
+        ],
+        "Result Track Name": "Give It Away",
+        "Result Artist Names": [
+            "Zero 7"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2dYexYOVMItMNUvGXl4gtR",
+        "Result Album Name": "Simple Things"
     },
     {
         "Title": "Warming Up to Cuddle Parties",
@@ -151,7 +214,17 @@
         "MoWeEd Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Sliding Down",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Mike Marshall",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KKAsmZmWc6eCuAutwGewl",
+        "Result Album Name": "The Best of Edgar Meyer"
     },
     {
         "Title": "Air Marshals Cite Security Concerns",
@@ -175,6 +248,14 @@
         "MoWeEd Track": "J'Ai Dormi Sous l'Eau",
         "MoWeEd Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "J'ai dormi sous l'eau",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CIlUgLNKzwjU59hPpqQ45",
+        "Result Album Name": "Premiers Symptômes"
     }
 ]

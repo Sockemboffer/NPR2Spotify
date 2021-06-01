@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-05-05",
         "Day": "Wed",
-        "Scanned Date": "2021-05-30 12:10:30"
+        "Scanned Date": "2021-05-30 12:10:30",
+        "Playlist URI": "6zaSj8rWgtOyQpSacHS6xY",
+        "Playlist Link": "https://open.spotify.com/playlist/6zaSj8rWgtOyQpSacHS6xY",
+        "Snapshot ID": "MSxkNmJlMTViODQ5NTZjZjE5ZTAyZjhkZTI1MjFiN2NjZjA5NGI5YWU0",
+        "Playlist Name": "MoWeEd 2004-05-05 Wed Morning Edition"
     },
     {
         "Title": "Army Probes Prisoner Deaths",
@@ -16,13 +20,30 @@
         "MoWeEd Track": "Trio in C Minor, Op. 5: Allegro assai",
         "MoWeEd Artists": [
             "The Yuval Trio"
-        ]
+        ],
+        "Result Track Name": "Trio in C Minor, Op. 5: Allegro assai",
+        "Result Artist Names": [
+            "The Yuval Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VnGjthlzgnP7mjXJgw7A3",
+        "Result Album Name": "Piano Trios: Clara Schumann, Bruch, Dvořák"
     },
     {
         "MoWeEd Track": "Trio in D Minor: Con Moto",
         "MoWeEd Artists": [
             "The Yuval Trio"
-        ]
+        ],
+        "Result Track Name": "Piano Trio No. 1 in D Minor, Op. 49, MWV Q29: II. Andante con moto tranquillo",
+        "Result Artist Names": [
+            "Felix Mendelssohn",
+            "The Yuval Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vxe0xfPiZwA23D6dbYQ8K",
+        "Result Album Name": "Mendelssohn, Felix: Piano Trios Nos. 1 and 2 / Haydn, F.J.: Keyboard Trio No. 16"
     },
     {
         "Title": "E-Voting Security Examined",
@@ -41,13 +62,26 @@
         "MoWeEd Artists": [
             "Leonard Bernstein",
             "New York Philharmonic"
-        ]
+        ],
+        "Result Track Name": "Symphony No. 9. In E Flat Major Op. 70: 3. Presto",
+        "Result Artist Names": [
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 0.5833333333333334,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:6d7yYMYKawQmnYzbHmlefq",
+        "Result Album Name": "Russian Masters, Vol. 5"
     },
     {
         "MoWeEd Track": "Cummington Story, documentary film score",
         "MoWeEd Artists": [
             "Eos Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: Mean Coach Award",
@@ -67,7 +101,17 @@
             "Larry Coryell",
             "John Abercrombie",
             "Badi Assad"
-        ]
+        ],
+        "Result Track Name": "After the Rain",
+        "Result Artist Names": [
+            "Larry Coryell",
+            "Badi Assad",
+            "John Abercrombie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31Ie9m9eHukVKI3PiToDpx",
+        "Result Album Name": "Three Guitars"
     },
     {
         "MoWeEd Track": "Descending Grace",
@@ -75,7 +119,17 @@
             "Larry Coryell",
             "John Abercrombie",
             "Badi Assad"
-        ]
+        ],
+        "Result Track Name": "Descending Grace",
+        "Result Artist Names": [
+            "Larry Coryell",
+            "John Abercrombie",
+            "Badi Assad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56M3X7wbBImtzyQx7ZHs7u",
+        "Result Album Name": "Three Guitars"
     },
     {
         "Title": "Georgia Tries to Rein In Rebel Region",
@@ -95,13 +149,31 @@
             "Robert Macht",
             "Yu",
             "Hyunah"
-        ]
+        ],
+        "Result Track Name": "Larasati Arab",
+        "Result Artist Names": [
+            "Robert Macht",
+            "Hyunah Yu",
+            "Global Percussion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5kTkEGNagMoUYT0wunmvz0",
+        "Result Album Name": "Macht, Robert: Vishnu"
     },
     {
         "MoWeEd Track": "Pelawak",
         "MoWeEd Artists": [
             "Robert Macht"
-        ]
+        ],
+        "Result Track Name": "Pelawak",
+        "Result Artist Names": [
+            "Robert Macht"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08ikLV4FfuFXjJ0GUSwIKB",
+        "Result Album Name": "Macht, Robert: Vishnu"
     },
     {
         "Title": "Martin Luther King Hospital",
@@ -113,13 +185,23 @@
         "MoWeEd Track": "Various",
         "MoWeEd Artists": [
             "Mark Rownd"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mama Soho",
         "MoWeEd Artists": [
             "Afrobop Alliance"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraqis Demonstrate Against Prison Abuses",
@@ -137,13 +219,23 @@
         "MoWeEd Track": "White Man Sleeps, Quartet No. 1: Third Dance",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "White Man Sleeps, Quartet No. 1: Fourth Dance",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Study: Poor Readers Can Improve Brain Function",
@@ -161,13 +253,29 @@
         "MoWeEd Track": "Yes. I'll Miss You",
         "MoWeEd Artists": [
             "Adrienne Torf"
-        ]
+        ],
+        "Result Track Name": "Yes, I'll Miss You",
+        "Result Artist Names": [
+            "Adrienne Torf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0h6rkeyhltN2qNsxe4aG0l",
+        "Result Album Name": "Two Hands Open"
     },
     {
         "MoWeEd Track": "Solitary Waltz",
         "MoWeEd Artists": [
             "Adrienne Torf"
-        ]
+        ],
+        "Result Track Name": "Solitary Waltz",
+        "Result Artist Names": [
+            "Adrienne Torf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ugPS6S8mXolOKWJX6HJch",
+        "Result Album Name": "Two Hands Open"
     },
     {
         "Title": "'Morning Edition' Returns: 'Dear John' Text Messages",
@@ -185,13 +293,29 @@
         "MoWeEd Track": "Variations On Themes By Bittner",
         "MoWeEd Artists": [
             "Tom Ball"
-        ]
+        ],
+        "Result Track Name": "Variations On Themes By Bittner",
+        "Result Artist Names": [
+            "Tom Ball"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nVndeJirOqdYSQvlOb6SI",
+        "Result Album Name": "18 Pieces for Solo Steel String Guitar"
     },
     {
         "MoWeEd Track": "Maria Elena",
         "MoWeEd Artists": [
             "Tom Ball"
-        ]
+        ],
+        "Result Track Name": "Maria Elena",
+        "Result Artist Names": [
+            "Tom Ball"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iGutCjAcpfpFHu5lhE0Zx",
+        "Result Album Name": "18 Pieces for Solo Steel String Guitar"
     },
     {
         "Title": "Hospital Financial Losses",
@@ -215,13 +339,30 @@
         "MoWeEd Track": "Tipper",
         "MoWeEd Artists": [
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Tipper",
+        "Result Artist Names": [
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kBj1XiEGjAEdci43XX4C6",
+        "Result Album Name": "58957: The Bluegrass Guitar Collection"
     },
     {
         "MoWeEd Track": "Monroe's Hornpipe",
         "MoWeEd Artists": [
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Monroe's Hornpipe",
+        "Result Artist Names": [
+            "Norman Blake",
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PyVNstHy7faBEERDEGEQs",
+        "Result Album Name": "Blake & Rice"
     },
     {
         "Title": "Political Documentaries Seek Wider Audience ",
@@ -233,7 +374,12 @@
         "MoWeEd Track": "Cummington Story, documentary film score",
         "MoWeEd Artists": [
             "Eos Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Grants Arab TV Interviews",

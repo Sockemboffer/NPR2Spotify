@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2004-02-18",
         "Day": "Wed",
-        "Scanned Date": "2021-05-30 12:19:33"
+        "Scanned Date": "2021-05-30 12:19:33",
+        "Playlist URI": "6DLRM8od45a0sCtjGJSrW1",
+        "Playlist Link": "https://open.spotify.com/playlist/6DLRM8od45a0sCtjGJSrW1",
+        "Snapshot ID": "MSw0MzZjMmEyNDVlNDhmZmMzNmYxODRlMzFhZWQ3N2IwYTU2Y2VjMTZj",
+        "Playlist Name": "MoWeEd 2004-02-18 Wed Morning Edition"
     },
     {
         "Title": "Kerry Narrowly Wins Wisconsin",
@@ -24,7 +28,15 @@
             "Bill Cunliffe",
             "Foster",
             "Gary Quartet"
-        ]
+        ],
+        "Result Track Name": "I Can't Forget",
+        "Result Artist Names": [
+            "Bill Cunliffe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3f7Hq4lUccnuyDOorKZk5L",
+        "Result Album Name": "It's About Love"
     },
     {
         "MoWeEd Track": "I Can't Forget",
@@ -32,7 +44,15 @@
             "Bill Cunliffe",
             "Foster",
             "Gary Quartet"
-        ]
+        ],
+        "Result Track Name": "I Can't Forget",
+        "Result Artist Names": [
+            "Bill Cunliffe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3f7Hq4lUccnuyDOorKZk5L",
+        "Result Album Name": "It's About Love"
     },
     {
         "Title": "Haiti Seeks Aid to Quell Coup",
@@ -51,20 +71,38 @@
         "MoWeEd Artists": [
             "Charles Stier",
             "Molly Newton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sonate Op. 1, No. 4 for Biolin and Basso Continuo",
         "MoWeEd Artists": [
             "Charles Stier",
             "Molly Newton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Neyem, Neyem...",
         "MoWeEd Artists": [
             "Besh O Drom"
-        ]
+        ],
+        "Result Track Name": "Neyem, Neyem",
+        "Result Artist Names": [
+            "Besh o droM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TVaKf7kMrTgXtnF2zbYm5",
+        "Result Album Name": "Can't Make Me!"
     },
     {
         "Title": "'Morning Edition' Returns: Sweets Gum Up Traffic",
@@ -82,13 +120,26 @@
         "MoWeEd Track": "Three Dances: Saraband",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Saraband",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kMcXJuvJGtch399HBEKny",
+        "Result Album Name": "Denouement"
     },
     {
         "MoWeEd Track": "Three Dances: Cigne",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Vietnamese Sue Agent Orange Maker",
@@ -106,13 +157,26 @@
         "MoWeEd Track": "Orange Light",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "U in the Orange Light",
+        "Result Artist Names": [
+            "Raccoon With a Groovebox"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7bsdb05BDh6T5Y9AMrKQkm",
+        "Result Album Name": "U in the Orange Light"
     },
     {
         "MoWeEd Track": "Romance Criollo",
         "MoWeEd Artists": [
             "David Russell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Banks Seek Customers with 'Friendly' Branches",
@@ -130,13 +194,26 @@
         "MoWeEd Track": "Hold It Right There",
         "MoWeEd Artists": [
             "Christopher Cortez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "A Fuego Lento",
         "MoWeEd Artists": [
             "Horacio Salgan"
-        ]
+        ],
+        "Result Track Name": "A Fuego Lento",
+        "Result Artist Names": [
+            "Horacio Salgán"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2gY8LmfIL5qRwrxyYD1Sqo",
+        "Result Album Name": "Historia Del Tango - Renovacion -Vol. 3"
     },
     {
         "Title": "Presidential Campaign Review",
@@ -154,13 +231,26 @@
         "MoWeEd Track": "A Touch of Magic",
         "MoWeEd Artists": [
             "Coen Bais"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Hanna's Mood",
         "MoWeEd Artists": [
             "Percy Heath"
-        ]
+        ],
+        "Result Track Name": "Hanna's Mood",
+        "Result Artist Names": [
+            "Percy Heath"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09qZiTOrwzxns7DhZatupg",
+        "Result Album Name": "A Love Song"
     },
     {
         "Title": "Iraq: A Case Study on the Roots of Genocide",
@@ -172,13 +262,23 @@
         "MoWeEd Track": "La Cruda Mia Nemica",
         "MoWeEd Artists": [
             "Orion Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Quartet for Saxophones--i",
         "MoWeEd Artists": [
             "Orion Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Morning Edition' Returns: More Suits Against Swappers",
@@ -198,7 +298,15 @@
             "Beegie Adair",
             "Steinberg",
             "Jeff Orchestra"
-        ]
+        ],
+        "Result Track Name": "I Left My Heart In San Francisco",
+        "Result Artist Names": [
+            "Beegie Adair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7KAcVQ5YlwAugIVnyul9tU",
+        "Result Album Name": "The Ultimate Romance Playlist"
     },
     {
         "MoWeEd Track": "Let's Fall in Love",
@@ -206,7 +314,15 @@
             "Beegie Adair",
             "Steinberg",
             "Jeff Orchestra"
-        ]
+        ],
+        "Result Track Name": "Let's Fall In Love",
+        "Result Artist Names": [
+            "Beegie Adair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1xWdzTwEfbMVW15uj0KLHq",
+        "Result Album Name": "Jazzy Valentine's Day"
     },
     {
         "Title": "Ga. Community Wins Landfill Battle",
@@ -224,13 +340,29 @@
         "MoWeEd Track": "Freddie Freeloader",
         "MoWeEd Artists": [
             "Monty Alexander"
-        ]
+        ],
+        "Result Track Name": "Freddie Freeloader Riddim - Live",
+        "Result Artist Names": [
+            "Monty Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79YNzGTDSIBBIGs2hLMCKE",
+        "Result Album Name": "Harlem-Kingston Express (Live at Dizzy's Club Coca-Cola, NYC)"
     },
     {
         "MoWeEd Track": "Once I Loved",
         "MoWeEd Artists": [
             "Monty Alexander"
-        ]
+        ],
+        "Result Track Name": "Once I Loved",
+        "Result Artist Names": [
+            "Monty Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eMzmsqL1RvyM8xnG3b05W",
+        "Result Album Name": "Steaming Hot"
     },
     {
         "Title": "Playing to Win: Politics and Auditions",
@@ -243,13 +375,31 @@
         "MoWeEd Artists": [
             "Leonard Bernstein",
             "Ny Philharmonic"
-        ]
+        ],
+        "Result Track Name": "Symphony No. 1 in C Major, Op. 21: IV. Finale. Adagio - Allegro molto e vivace",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6FPJxC9OHZMtaLYrm3b8EH",
+        "Result Album Name": "Beethoven: Symphonies Nos. 1 & 3 \"Eroica\""
     },
     {
         "MoWeEd Track": "Douce Ambiance",
         "MoWeEd Artists": [
             "Harmonious Wail"
-        ]
+        ],
+        "Result Track Name": "Douce Ambiance",
+        "Result Artist Names": [
+            "Harmonious Wail"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4X419ImI2rr8UXI6EepAw5",
+        "Result Album Name": "Nonchalant"
     },
     {
         "Title": "Iran Train Blast Kills 200",
