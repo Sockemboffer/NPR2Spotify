@@ -2,8 +2,7 @@ import json
 import base64
 import requests
 import datetime
-from ResponsesHandle import ResponseException
-from secrets import spotify_user_id, spotipyUserToken
+import Secrets
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 
@@ -12,14 +11,15 @@ class NPRPlaylistCreator:
 
     def __init__(self):
         self.requestSession = requests.Session()
-        self.retries = Retry(total=3, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
-        self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries))
+        self.retries = Retry(total=10, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
+        self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries, pool_maxsize=25))
+        self.secretsSession = Secrets.Secrets()
 
     def CreatePlaylist(self, playlistName):
         # Playlist name limit is 100 char
         request_body = json.dumps({"name": playlistName, "public": False})
-        query = "https://api.spotify.com/v1/users/{}/playlists".format(spotify_user_id)
-        response = self.requestSession.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        query = "https://api.spotify.com/v1/users/{}/playlists".format(self.secretsSession.spotify_user_id)
+        response = self.requestSession.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
         response_json = response.json()
         print("-- Playlist created.")
         return response_json
@@ -35,7 +35,7 @@ class NPRPlaylistCreator:
         urisData["uris"] = tracksURIs
         request_data = json.dumps(urisData)
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
-        self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
         print("-- Playlist tracks added.")
     
     def ReplaceTracksInPlaylist(self, editionDayData):
@@ -49,7 +49,7 @@ class NPRPlaylistCreator:
         urisData["uris"] = tracksURIs
         request_data = json.dumps(urisData)
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
-        response = self.requestSession.put(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = self.requestSession.put(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
         response_json = response.json()
         editionDayData[0]["Snapshot ID"] = response_json["snapshot_id"]
         print("-- Playlist tracks replaced.")
@@ -57,8 +57,8 @@ class NPRPlaylistCreator:
 
     def AddCoverArtToPlaylist(self, editionDayData):
         encoded_string = NPRPlaylistCreator.GetNewCover(editionDayData[0]["Day"])
-        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(spotify_user_id, editionDayData[0]['Playlist URI']) 
-        self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(spotipyUserToken), "Content-Type": "image/jpeg"})
+        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(self.secretsSession.spotify_user_id, editionDayData[0]['Playlist URI']) 
+        self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken()), "Content-Type": "image/jpeg"})
         print("-- Playlist cover image added.")
 
     # playlist descriptions have a 300 char limit
@@ -86,7 +86,7 @@ class NPRPlaylistCreator:
         newDescription["description"] += "💻 https://www.github.com/Sockemboffer/NPR2Spotify "
         newDescription["description"] += "Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍🧑🏽‍🤝‍🧑🏾👫🏿"
         query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
-        self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
         print("-- Playlist description updated.")
 
     def GetNewCover(day):

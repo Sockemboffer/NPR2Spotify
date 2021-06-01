@@ -2,11 +2,10 @@ import re
 import json
 import requests
 import time
+import Secrets
 from urllib import parse
 from collections import Counter
 from unidecode import unidecode
-from ResponsesHandle import ResponseException
-from secrets import spotify_user_id, spotipyUserToken
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 from difflib import SequenceMatcher
@@ -19,8 +18,9 @@ class NPRSpotifySearch:
 
     def __init__(self):
         self.requestSession = requests.Session()
-        self.retries = Retry(total=3, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
-        self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries))
+        self.retries = Retry(total=10, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
+        self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries, pool_maxsize=25))
+        self.secretsSession = Secrets.Secrets()
         self.nprTrackName = None
         self.nprArtistsName = list()
         self.track = None
@@ -184,20 +184,24 @@ class NPRSpotifySearch:
     # without those it can mean different results, etc.
     def SearchExplicitTrackAndArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        # time.sleep(0.05) # Don't hammer their server
         return response.json()
     
     def SearchImplicitTrackExplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        # time.sleep(0.05) # Don't hammer their server
         return response.json()
 
     def SearchImplicitTrackImplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + '"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        # time.sleep(0.05) # Don't hammer their server
         return response.json()
 
     def SearchImplicitTrackAndArtistCombined(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=5".format(parse.quote(str(track + " AND " + artist)))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(spotipyUserToken)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        # time.sleep(0.05) # Don't hammer their server
         return response.json()
