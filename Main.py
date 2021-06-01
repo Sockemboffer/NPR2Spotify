@@ -10,7 +10,7 @@ from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-startDate = datetime(2002, 12, 28)
+startDate = datetime(2005, 8, 18)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -18,7 +18,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate != datetime(2003, 1, 1):
+while startDate != datetime(2006, 1, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -33,6 +33,7 @@ while startDate != datetime(2003, 1, 1):
     # check if edition data is present
     if editionDay == None:
         print(">> No data for {0} ".format(startDate.date()))
+        print("\n")
         startDate = startDate + timedelta(days=+1)
     else:
         playlistURI = "Playlist URI"
@@ -69,7 +70,7 @@ while startDate != datetime(2003, 1, 1):
             print("\n")
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
-            time.sleep(1) # Don't hammer their server
+            # time.sleep(1) # Don't hammer their server
         # we update information
         elif playlistEntry == True:
             for story, entry in enumerate(editionDay):
@@ -84,7 +85,7 @@ while startDate != datetime(2003, 1, 1):
             print("\n")
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
-            time.sleep(1.5) # Don't hammer their server
+            time.sleep(1) # Don't hammer their server
         # we create an empty playlist with a description noting tracks are not detailed
         else:
             response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
@@ -96,14 +97,15 @@ while startDate != datetime(2003, 1, 1):
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print(">> No interlude Tracks for {0} ".format(startDate.date()))
+            print("\n")
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
-            time.sleep(1.5) # Don't hammer their server
+            # time.sleep(1.5) # Don't hammer their server
 
 # # Weekend edition shows up 1998 Jan
 # # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # # Used to create json output for each day with various article and track data
-# editionStartYear = 2002
+# editionStartYear = 2005
 # editionDayData = list()
 # projectName = "MoWeEd"
 # editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
