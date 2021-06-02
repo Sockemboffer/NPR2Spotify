@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2006-05-19",
         "Day": "Fri",
-        "Scanned Date": "2021-06-01 14:16:14"
+        "Scanned Date": "2021-06-01 14:16:14",
+        "Playlist URI": "5aEItE7Osb9fZEvDfLtmqA",
+        "Playlist Link": "https://open.spotify.com/playlist/5aEItE7Osb9fZEvDfLtmqA",
+        "Snapshot ID": "MSxmZmM4Njk5ODdkYjgyM2QzZjUzMGI3ZTkyMWQ2YTYxZTk0ZmNmNDA3",
+        "Playlist Name": "MoWeEd 2006-05-19 Fri Morning Edition"
     },
     {
         "Title": "Hayden Defends Domestic Surveillance to Senators",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Lying in Wait",
         "MoWeEd Artists": [
             "Cello"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Snow Pony",
         "MoWeEd Artists": [
             "Cello"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Researchers Fan Out to Find Bird Flu in Alaska",
@@ -40,7 +54,15 @@
         "MoWeEd Track": "Canopy",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Call of the Canopy",
+        "Result Artist Names": [
+            "David Arkenstone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Dffto4Hy7uuyEHn7h2zx4",
+        "Result Album Name": "Elements Enchanted (Original Game Soundtrack from Wizard Quest)"
     },
     {
         "Title": "Law Firm Allegedly Paid Kickbacks to Plaintiffs",
@@ -52,13 +74,29 @@
         "MoWeEd Track": "Segment",
         "MoWeEd Artists": [
             "Charlie Haden Quartet West"
-        ]
+        ],
+        "Result Track Name": "Segment - Instrumental",
+        "Result Artist Names": [
+            "Charlie Haden Quartet West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BD19NIAIWcd5RlffV7u3H",
+        "Result Album Name": "Haunted Heart"
     },
     {
         "MoWeEd Track": "Lennie's Pennies",
         "MoWeEd Artists": [
             "Charlie Haden Quartet West"
-        ]
+        ],
+        "Result Track Name": "Lennie's Pennies - Instrumental",
+        "Result Artist Names": [
+            "Charlie Haden Quartet West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rrEEyxjBBkV4MziK8yzt4",
+        "Result Album Name": "Haunted Heart"
     },
     {
         "Title": "Investigations Seek Answers to New Orleans Levee Failures",
@@ -76,13 +114,29 @@
         "MoWeEd Track": "Ripple",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Ripple",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2T6zV8cuqDMh0fFdLkaHKd",
+        "Result Album Name": "The Water Garden"
     },
     {
         "MoWeEd Track": "Vanishing Point",
         "MoWeEd Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Vanishing Point",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rvjvUCV1TJVrZIqHrvZbx",
+        "Result Album Name": "The Water Garden"
     },
     {
         "Title": "Fifty-Year Mortgage Offers Limited Advantages",
@@ -100,13 +154,26 @@
         "MoWeEd Track": "The Cat",
         "MoWeEd Artists": [
             "Tony Monaco"
-        ]
+        ],
+        "Result Track Name": "The Cat",
+        "Result Artist Names": [
+            "Tony Monaco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1c7edd1vHAsUVs9clsykcv",
+        "Result Album Name": "Intimately Live At The 501"
     },
     {
         "MoWeEd Track": "Yen on a Carousel",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Border Town Tries to Soothe Offended Neighbor",
@@ -130,7 +197,16 @@
         "MoWeEd Track": "Le Grand Tanho",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Le Grand Tango",
+        "Result Artist Names": [
+            "Kathryn Stott",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:1ytkFgNQKmsafaGdlJIrkf",
+        "Result Album Name": "Soul of the Tango"
     },
     {
         "Title": "New Orleans Readies for Mayoral Run-Off",
@@ -148,19 +224,40 @@
         "MoWeEd Track": "The Goon Drag",
         "MoWeEd Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Ray's Blues",
         "MoWeEd Artists": [
             "Dave Grusin"
-        ]
+        ],
+        "Result Track Name": "Ray's Blues",
+        "Result Artist Names": [
+            "Dave Grusin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bfdHWr6WItr6GGh1j94HW",
+        "Result Album Name": "The Firm"
     },
     {
         "MoWeEd Track": "I Want to Be Happy",
         "MoWeEd Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "I Want To Be Happy",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:53uySkMnjyo2WmzXhSjFks",
+        "Result Album Name": "Ivey-Divey"
     },
     {
         "Title": "How Private Are Phone Records?",
@@ -172,19 +269,40 @@
         "MoWeEd Track": "Harm-O-Lodge",
         "MoWeEd Artists": [
             "Isotope 217"
-        ]
+        ],
+        "Result Track Name": "Harm-o-Lodge",
+        "Result Artist Names": [
+            "Isotope 217"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2mh3Hl6jH3MJ1sCvu386ZE",
+        "Result Album Name": "Who Stole The I Walkman?"
     },
     {
         "MoWeEd Track": "Organica",
         "MoWeEd Artists": [
             "Alain Eskinasi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Meta Bass",
         "MoWeEd Artists": [
             "Isotope 217"
-        ]
+        ],
+        "Result Track Name": "Meta Bass",
+        "Result Artist Names": [
+            "Isotope 217"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CWUr4jXf9FVQYOYooKrp3",
+        "Result Album Name": "Who Stole The I Walkman?"
     },
     {
         "Title": "Cardinal McCarrick Retiring as Washington's Archbishop",
@@ -202,7 +320,15 @@
         "MoWeEd Track": "Untitled",
         "MoWeEd Artists": [
             "Sandy Bull"
-        ]
+        ],
+        "Result Track Name": "Untitled",
+        "Result Artist Names": [
+            "Sandy Bull"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GsStXKi5jPSX7EGv6BZcX",
+        "Result Album Name": "Imaginational Anthem"
     },
     {
         "Title": "DreamWorks Chases Profits with 'Hedge'",
@@ -220,13 +346,27 @@
         "MoWeEd Track": "Piano Intro",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "O Véio Máximo (Intro Piano)",
+        "Result Artist Names": [
+            "Various Artists",
+            "Fabrício Sofia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:089UtyvXiyEmGYnD1rO5Mj",
+        "Result Album Name": "O Manual de Instruções (Tributo ao Superguidis)"
     },
     {
         "MoWeEd Track": "Sleep Walk",
         "MoWeEd Artists": [
             "Totally Hot Nashville Steel Guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dipstick Caffeine Test for Coffee",

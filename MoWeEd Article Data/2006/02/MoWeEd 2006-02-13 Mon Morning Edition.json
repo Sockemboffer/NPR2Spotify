@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2006-02-13",
         "Day": "Mon",
-        "Scanned Date": "2021-06-01 14:25:50"
+        "Scanned Date": "2021-06-01 14:25:50",
+        "Playlist URI": "7GQal8KQa3gZk44uhrFO5y",
+        "Playlist Link": "https://open.spotify.com/playlist/7GQal8KQa3gZk44uhrFO5y",
+        "Snapshot ID": "MSwxMzBmNzE2ZTI5Njk0MGY1ZWFhMWUyNGQzNzc2ZmU3NjZkOGJjNzRh",
+        "Playlist Name": "MoWeEd 2006-02-13 Mon Morning Edition"
     },
     {
         "Title": "U.S. Military Looks to Security Handoff in Iraq",
@@ -23,14 +27,24 @@
         "MoWeEd Artists": [
             "Abdellatif Al Amnaoui",
             "Brasim Dahouz et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Moussem Mediouna",
         "MoWeEd Artists": [
             "Abdellatif Al Amnaoui",
             "Brasim Dahouz et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Two Gold Medals for United States in Olympic Opening Weekend",
@@ -49,13 +63,30 @@
         "MoWeEd Artists": [
             "Boston Symphony Orchestra",
             "Charles Munch"
-        ]
+        ],
+        "Result Track Name": "Bolero",
+        "Result Artist Names": [
+            "Boston Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:4m3CJOn12hqd9TFI4I6wha",
+        "Result Album Name": "Classic For Kids"
     },
     {
         "MoWeEd Track": "Sonata No 6/vivace",
         "MoWeEd Artists": [
             "Van Cliburn"
-        ]
+        ],
+        "Result Track Name": "Sonata No. 6, Op. 82: Vivace",
+        "Result Artist Names": [
+            "Sergei Prokofiev",
+            "Van Cliburn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75sFgWs9GhMKhikgpSMd7l",
+        "Result Album Name": "Van Cliburn - Complete Album Collection"
     },
     {
         "Title": "Clerical Error Jeopardizes Deficit-Reduction Law",
@@ -67,7 +98,15 @@
         "MoWeEd Track": "Val' Carretero",
         "MoWeEd Artists": [
             "Chico Alvarez"
-        ]
+        ],
+        "Result Track Name": "Val'Carretero",
+        "Result Artist Names": [
+            "Ernest \"Chico\" Alvarez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1pCOqQCSSM0SPQ6FmIrqC7",
+        "Result Album Name": "Soneros de Cuba y New York"
     },
     {
         "Title": "The Bright Lights of Freedom",
@@ -85,13 +124,29 @@
         "MoWeEd Track": "Ferns and Falls",
         "MoWeEd Artists": [
             "Ron Delano"
-        ]
+        ],
+        "Result Track Name": "Ferns and Falls",
+        "Result Artist Names": [
+            "Ron DeLano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HDFdh0pUaC9ZdubO0ltUn",
+        "Result Album Name": "Imaginary Travels"
     },
     {
         "MoWeEd Track": "Ragged Nail",
         "MoWeEd Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Ragged Nail",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03EX8iPhoGjADxnfx4xxPr",
+        "Result Album Name": "Waiting for a Dancer"
     },
     {
         "Title": "Crafting a Smarter, Gentler Cell Phone",
@@ -109,13 +164,34 @@
         "MoWeEd Track": "Things Ain't What They Used to Be",
         "MoWeEd Artists": [
             "Dave Grusin"
-        ]
+        ],
+        "Result Track Name": "Things Ain't What They Used To Be",
+        "Result Artist Names": [
+            "Dave Grusin",
+            "Harvey Mason",
+            "Clark Terry",
+            "Pete Christlieb",
+            "George Bohanon",
+            "Brian Bromberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Pk3iaNLd45EIyYfTqNCTP",
+        "Result Album Name": "Homage To Duke"
     },
     {
         "MoWeEd Track": "Pack Your Bags and Go-Go",
         "MoWeEd Artists": [
             "Tom Teasley"
-        ]
+        ],
+        "Result Track Name": "Pack your Bags and Go-Go",
+        "Result Artist Names": [
+            "Tom Teasley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1aet31xLTTEzlOKuPkKhFo",
+        "Result Album Name": "Global Groovilization"
     },
     {
         "Title": "Upcoming House Report on Katrina Details Failures",
@@ -133,13 +209,29 @@
         "MoWeEd Track": "Rai Baby",
         "MoWeEd Artists": [
             "Don Grusin"
-        ]
+        ],
+        "Result Track Name": "Rai Baby",
+        "Result Artist Names": [
+            "Don Grusin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7v0dZEH3GRoxqF3DotwerT",
+        "Result Album Name": "No Borders"
     },
     {
         "MoWeEd Track": "10 Degrees East",
         "MoWeEd Artists": [
             "Don Grusin"
-        ]
+        ],
+        "Result Track Name": "10 Degrees East",
+        "Result Artist Names": [
+            "Don Grusin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BuR4IjYABhsYTk3nP5XUa",
+        "Result Album Name": "No Borders"
     },
     {
         "Title": "Congo Violence Creates Medical Crisis",
@@ -151,13 +243,29 @@
         "MoWeEd Track": "Midnight",
         "MoWeEd Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Midnight",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:298B6Xop4MyYhqQbPJTJy7",
+        "Result Album Name": "At the Well - EP"
     },
     {
         "MoWeEd Track": "Roots",
         "MoWeEd Artists": [
             "Bonga"
-        ]
+        ],
+        "Result Track Name": "Roots",
+        "Result Artist Names": [
+            "Bonga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sVvjUYPuS30gZytX5Wuju",
+        "Result Album Name": "Angola 72/74"
     },
     {
         "Title": "Jury Deliberates in L.A. Priest Abuse Case",
@@ -169,13 +277,26 @@
         "MoWeEd Track": "Cafe Music: Andante Moderato: Rubato",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Piano Trio in A minor: Pantoum",
         "MoWeEd Artists": [
             "Eroica Trio"
-        ]
+        ],
+        "Result Track Name": "Piano Trio in A Minor: Pantoum: Assez vif",
+        "Result Artist Names": [
+            "Trio Solisti"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6YrZiq97bcb413CcgmGE99",
+        "Result Album Name": "Pictures At An Exhibition"
     },
     {
         "Title": "Makeshift Katrina Landfill Raises Safety Concerns",
@@ -193,13 +314,30 @@
         "MoWeEd Track": "L'ouragon",
         "MoWeEd Artists": [
             "Beausoleil"
-        ]
+        ],
+        "Result Track Name": "L'ouragon (The Hurricane)",
+        "Result Artist Names": [
+            "BeauSoleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vHRHBmYiee6HRDN2zLfUQ",
+        "Result Album Name": "Our New Orleans (Expanded Edition)"
     },
     {
         "MoWeEd Track": "What a Wonderful World",
         "MoWeEd Artists": [
             "The Wardell Quezergue Orchestra Featuring Donald Harrison"
-        ]
+        ],
+        "Result Track Name": "What a Wonderful World (feat. Donald Harrison)",
+        "Result Artist Names": [
+            "The Wardell Quezergue Orchestra",
+            "Donald Harrison"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 0.9230769230769231,
+        "Result Track URI": "spotify:track:4qApl50pWkR1TVjfXS3KNN",
+        "Result Album Name": "Our New Orleans (Expanded Edition)"
     },
     {
         "Title": "Chick Corea, on 'The Ultimate Adventure'",
@@ -211,7 +349,15 @@
         "MoWeEd Track": "Hang On Little Tomato",
         "MoWeEd Artists": [
             "Pink Martini"
-        ]
+        ],
+        "Result Track Name": "Hang on Little Tomato",
+        "Result Artist Names": [
+            "Pink Martini"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15ffrEHBHIbXWJcsGx402o",
+        "Result Album Name": "Hang on Little Tomato"
     },
     {
         "Title": "Top-Line Treatment, Treadmills and All, for Dog Show Entrants",

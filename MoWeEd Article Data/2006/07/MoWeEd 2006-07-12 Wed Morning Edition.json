@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2006-07-12",
         "Day": "Wed",
-        "Scanned Date": "2021-06-01 14:08:37"
+        "Scanned Date": "2021-06-01 14:08:37",
+        "Playlist URI": "77zvOGMRBqUIyztBuon91S",
+        "Playlist Link": "https://open.spotify.com/playlist/77zvOGMRBqUIyztBuon91S",
+        "Snapshot ID": "MSw0MGY0MTU1ZmZiYzExZDJkMzRiYjJmMjI2YmVkMjBmM2YzOWRmZDc2",
+        "Playlist Name": "MoWeEd 2006-07-12 Wed Morning Edition"
     },
     {
         "Title": "Investigators Search for India Train-Bombing Clues",
@@ -24,7 +28,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Concert Duo Movement 4",
@@ -32,7 +41,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Panel: EPA Should Reassess Dioxin Threat",
@@ -56,13 +70,31 @@
         "MoWeEd Track": "Blue in Green",
         "MoWeEd Artists": [
             "Alan Broadbent"
-        ]
+        ],
+        "Result Track Name": "Blue in Green",
+        "Result Artist Names": [
+            "Alan Broadbent",
+            "Brian Bromberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04DrYevBAbRTJ2oS3G4SPl",
+        "Result Album Name": "Every Time I Think Of You"
     },
     {
         "MoWeEd Track": "Autumn Variations",
         "MoWeEd Artists": [
             "Alan Broadbent"
-        ]
+        ],
+        "Result Track Name": "Autumn Variations",
+        "Result Artist Names": [
+            "Alan Broadbent",
+            "Brian Bromberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7J2XunEHM0mPDlQVyobrcg",
+        "Result Album Name": "Every Time I Think Of You"
     },
     {
         "Title": "Hezbollah Captures Two Israeli Soldiers",
@@ -75,7 +107,15 @@
         "MoWeEd Artists": [
             "Bill Frisell",
             "Dave Holland et. al."
-        ]
+        ],
+        "Result Track Name": "Blues Dream",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0OuoD830E4GKViIgK9S8Nl",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "Title": "Dems Back State Plans to Increase Minimum Wage",
@@ -93,13 +133,26 @@
         "MoWeEd Track": "March That Thang",
         "MoWeEd Artists": [
             "Jon Faddis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Forevermore",
         "MoWeEd Artists": [
             "Jon Faddis"
-        ]
+        ],
+        "Result Track Name": "Forevermore",
+        "Result Artist Names": [
+            "Jon Bauer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6xH8hoysLF3VSCxc9BrwHr",
+        "Result Album Name": "Roots of Worship"
     },
     {
         "Title": "Workers Vent on Web About Bad Bosses",
@@ -117,13 +170,26 @@
         "MoWeEd Track": "Work Song",
         "MoWeEd Artists": [
             "The Paul Butterfield Blues Band"
-        ]
+        ],
+        "Result Track Name": "Work Song",
+        "Result Artist Names": [
+            "The Paul Butterfield Blues Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2B7tBoinU21jdCbc0w1dfq",
+        "Result Album Name": "East West"
     },
     {
         "MoWeEd Track": "Caravan",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Detainee Questions Trip Federal Court Nominee",
@@ -141,13 +207,26 @@
         "MoWeEd Track": "Hey! Your Hat's On Backwards / Third Stone From the Sun",
         "MoWeEd Artists": [
             "Shadowfax"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Night Passage",
         "MoWeEd Artists": [
             "Shadowfax"
-        ]
+        ],
+        "Result Track Name": "Night Passage",
+        "Result Artist Names": [
+            "Shadowfax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CsQDFbn8cGtoBapZYvOVI",
+        "Result Album Name": "Magic Theater"
     },
     {
         "Title": "Interviewing an Al-Qaida Recruiter",
@@ -159,13 +238,23 @@
         "MoWeEd Track": "Waiting",
         "MoWeEd Artists": [
             "Waldeck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Cat People Dub",
         "MoWeEd Artists": [
             "Waldeck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "White House Projects Deficit Near $300 Billion",
@@ -177,13 +266,30 @@
         "MoWeEd Track": "Damn Skippy",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Damn Skippy",
+        "Result Artist Names": [
+            "The Electric Peanut Butter Company"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xKibKBc0JJFMI2yWFvtDm",
+        "Result Album Name": "Trans-Atlantic Psych Classics Vol.1"
     },
     {
         "MoWeEd Track": "Caprices (24) for solo violin, Op. 1, MS 25",
         "MoWeEd Artists": [
             "Itzhak Perlman"
-        ]
+        ],
+        "Result Track Name": "24 Caprices for Solo Violin, Op. 1, MS 25: No. 1 in E Major. Andante",
+        "Result Artist Names": [
+            "Niccolò Paganini",
+            "Itzhak Perlman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BGBelFpww8AHiKNNfMC4n",
+        "Result Album Name": "Itzhak Perlman - Selected Highlights from The Complete RCA and Columbia Album Collection"
     },
     {
         "Title": "States Move to Enact Voter Identification Laws",
@@ -201,13 +307,31 @@
         "MoWeEd Track": "Suite No 3 In C Major Gigue",
         "MoWeEd Artists": [
             "Yo Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Suite No. 3 in C Major, BWV 1009: VI. Gigue",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1M5hs1k7GLZU237dOqLdkH",
+        "Result Album Name": "Bach: Unaccompanied Cello Suites (Remastered)"
     },
     {
         "MoWeEd Track": "Suite No 3 In C Major Courante",
         "MoWeEd Artists": [
             "Yo Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Suite No. 3 in C Major, BWV 1009: III. Courante",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gKIaMUAXrVgjJBpxbPrSM",
+        "Result Album Name": "Bach: Unaccompanied Cello Suites (Remastered)"
     },
     {
         "Title": "Baseball Season Offers Some Surprises",
@@ -225,13 +349,26 @@
         "MoWeEd Track": "Wind Quintet",
         "MoWeEd Artists": [
             "The Pennsylvania Quintet"
-        ]
+        ],
+        "Result Track Name": "Wind Quintet",
+        "Result Artist Names": [
+            "The Georgia Woodwind Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1VbwA4Wua2q4duyXpewImz",
+        "Result Album Name": "Twigs"
     },
     {
         "MoWeEd Track": "Vianne Sets Up Shop",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "EU Fines Microsoft $357 Million, Threatens More",

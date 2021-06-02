@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2006-02-05",
         "Day": "Sun",
-        "Scanned Date": "2021-06-01 14:24:57"
+        "Scanned Date": "2021-06-01 14:24:57",
+        "Playlist URI": "4PIEuqFHDJANeafv42N3Dv",
+        "Playlist Link": "https://open.spotify.com/playlist/4PIEuqFHDJANeafv42N3Dv",
+        "Snapshot ID": "MSw4MmE2MWVlOTc5MDg5YjcxOGU5OTFmMGE0NmEzZDMwOWVkZTU0NDM5",
+        "Playlist Name": "MoWeEd 2006-02-05 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -29,14 +33,27 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Silk Road Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Blue as the Turquoise Night of Neyshabur",
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Silk Road Ensemble"
-        ]
+        ],
+        "Result Track Name": "Blue As The Turquoise Night of Neyshabur",
+        "Result Artist Names": [
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1Xi7DXFy0sosvgXYgMWadg",
+        "Result Album Name": "The War: A Ken Burns Film - The Soundtrack"
     },
     {
         "Title": "New Hampshire to Cut Oil Deal with Venezuela",
@@ -60,7 +77,15 @@
         "MoWeEd Track": "Attack",
         "MoWeEd Artists": [
             "Joe Satriani"
-        ]
+        ],
+        "Result Track Name": "Attack",
+        "Result Artist Names": [
+            "Joe Satriani"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eUgA1HfL8Dp3KJXwVavgx",
+        "Result Album Name": "Engines of Creation"
     },
     {
         "Title": "Seattle: Sensitive to Stereotypes on Super Sunday",
@@ -72,13 +97,29 @@
         "MoWeEd Track": "Catwalk",
         "MoWeEd Artists": [
             "Girls in Hawaii"
-        ]
+        ],
+        "Result Track Name": "Catwalk",
+        "Result Artist Names": [
+            "Girls In Hawaii"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6m9ZnZsZBaJ4kxMXudguSp",
+        "Result Album Name": "From Here to There"
     },
     {
         "MoWeEd Track": "Narcolepsy",
         "MoWeEd Artists": [
             "Ben Folds Five"
-        ]
+        ],
+        "Result Track Name": "Narcolepsy",
+        "Result Artist Names": [
+            "Ben Folds Five"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lcDVrzB1aHA5C5kIhBZAO",
+        "Result Album Name": "The Unauthorized Biography Of Reinhold Messner"
     },
     {
         "Title": "Two Ps, Please",
@@ -96,13 +137,29 @@
         "MoWeEd Track": "Flying Home",
         "MoWeEd Artists": [
             "Lionel Hampton"
-        ]
+        ],
+        "Result Track Name": "Flying Home",
+        "Result Artist Names": [
+            "Lionel Hampton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HzB0b9Yp27i5Xu1dy1cng",
+        "Result Album Name": "Walkman Jazz"
     },
     {
         "MoWeEd Track": "East Coasting [Take 4]",
         "MoWeEd Artists": [
             "Charles Mingus"
-        ]
+        ],
+        "Result Track Name": "East Coasting",
+        "Result Artist Names": [
+            "Charles Mingus"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37HhGXjw9lWNxJGsKNxL2C",
+        "Result Album Name": "East Coasting (Remastered 2013)"
     },
     {
         "Title": "The Legacy of Feminist Pioneer Betty Friedan",
@@ -121,13 +178,28 @@
         "MoWeEd Artists": [
             "Geri Allen",
             "Jack DeJohnette et. al."
-        ]
+        ],
+        "Result Track Name": "Unconditional Love",
+        "Result Artist Names": [
+            "Geri Allen",
+            "Dave Holland",
+            "Jack DeJohnette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00Y2oYJvLf3tdl2oQ1qVbx",
+        "Result Album Name": "The Life Of A Song"
     },
     {
         "MoWeEd Track": "If I'm Lucky",
         "MoWeEd Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Survivors of Ferry Disaster Question Crew's Actions",
@@ -151,7 +223,15 @@
         "MoWeEd Track": "Saor/Free/News From Nowhere",
         "MoWeEd Artists": [
             "Afro Celt Sound System"
-        ]
+        ],
+        "Result Track Name": "Saor / Free / News from Nowhere",
+        "Result Artist Names": [
+            "Afro Celt Sound System"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0z8Nm59jFNIC75V76ctmiC",
+        "Result Album Name": "Vol. 1: Sound Magic (Real World Gold)"
     },
     {
         "Title": "The Fine Art of Procrastination, Teen Style",
@@ -163,13 +243,23 @@
         "MoWeEd Track": "Procrastination",
         "MoWeEd Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Feel the Spirit of My Guitar [#]",
         "MoWeEd Artists": [
             "Johnny \"Guitar\" Watson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Oscar's Ever-Changing Rules",
@@ -194,6 +284,16 @@
         "MoWeEd Artists": [
             "Branford Marsalis",
             "Orpheus Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "La Création du monde, Op. 81",
+        "Result Artist Names": [
+            "Darius Milhaud",
+            "Branford Marsalis",
+            "Orpheus Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6czxhQRSnzWwI2AUNE3Cb0",
+        "Result Album Name": "Classic Branford Marsalis"
     }
 ]

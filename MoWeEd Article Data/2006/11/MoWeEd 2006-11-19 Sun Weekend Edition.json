@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2006-11-19",
         "Day": "Sun",
-        "Scanned Date": "2021-06-01 13:56:06"
+        "Scanned Date": "2021-06-01 13:56:06",
+        "Playlist URI": "1TjBtkTsIQhWJzFuZsVoaU",
+        "Playlist Link": "https://open.spotify.com/playlist/1TjBtkTsIQhWJzFuZsVoaU",
+        "Snapshot ID": "MSw5ZjhlODc1Y2NiOWNiNmYyZjJlMGZmZDVlNTcwM2I0YmE3OTc5ODVk",
+        "Playlist Name": "MoWeEd 2006-11-19 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Silk",
         "MoWeEd Artists": [
             "Nguyen Le"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rahm Emanuel, Architect for Democratic Rebound",
@@ -52,7 +61,15 @@
         "MoWeEd Track": "Keep Drawing Suns",
         "MoWeEd Artists": [
             "Japancakes"
-        ]
+        ],
+        "Result Track Name": "Keep Drawing Suns",
+        "Result Artist Names": [
+            "Japancakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:371tOklCzb6RXgH8Vtjzou",
+        "Result Album Name": "Waking Hours"
     },
     {
         "Title": "U.S. Officials Wisely Begin Dialogue with Iran",
@@ -64,13 +81,26 @@
         "MoWeEd Track": "Blue Nude Reclining",
         "MoWeEd Artists": [
             "Tony Levin"
-        ]
+        ],
+        "Result Track Name": "Blue Nude Reclining",
+        "Result Artist Names": [
+            "Tony Levin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iJEYKo5sJbc7b5PeOMeyF",
+        "Result Album Name": "Pieces Of The Sun"
     },
     {
         "MoWeEd Track": "Thumbs Out, No Ride",
         "MoWeEd Artists": [
             "Eric Krasno"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Thanksgiving to a T",
@@ -95,13 +125,23 @@
         "MoWeEd Artists": [
             "Ralph Myerz",
             "The Jack Herren Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Superhuman",
         "MoWeEd Artists": [
             "Gus Gus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq Study Group Takes Advice from 'Expert Groups'",
@@ -119,13 +159,23 @@
         "MoWeEd Track": "Rêve Pour Louis",
         "MoWeEd Artists": [
             "Brad Shepik"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "A Boogie",
         "MoWeEd Artists": [
             "Brad Shepik"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Syrian Village Hobbled by Years of Inbreeding",
@@ -150,7 +200,12 @@
         "MoWeEd Artists": [
             "Europa Galante",
             "Fabio Biondi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "West Virginia Town Unhappy with Pink Bridge",
@@ -174,7 +229,17 @@
         "MoWeEd Track": "Carolina Fox Trot",
         "MoWeEd Artists": [
             "Paragon Ragtime Orchestra"
-        ]
+        ],
+        "Result Track Name": "Carolina Fox Trot",
+        "Result Artist Names": [
+            "Will H. Vodery",
+            "Paragon Ragtime Orchestra",
+            "Rick Benjamin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UJ5nDCM01Bb4l6jh9dC40",
+        "Result Album Name": "Black Manhattan: Theater and Dance Music of James Reese Europe, Will Marion Cook, and Members of the Legendary Clef Club"
     },
     {
         "Title": "Sanjay Mishra: A Cross-Cultural Exploration in Music",
@@ -187,6 +252,15 @@
         "MoWeEd Artists": [
             "Sanjay Mishra",
             "Samir Chatterjee et. al."
-        ]
+        ],
+        "Result Track Name": "The Gateless Gate",
+        "Result Artist Names": [
+            "Sanjay Mishra",
+            "Keller Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:45WozMnBH92NT3bWtUThEq",
+        "Result Album Name": "Chateau Benares"
     }
 ]

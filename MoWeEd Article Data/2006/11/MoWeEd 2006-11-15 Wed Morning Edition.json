@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2006-11-15",
         "Day": "Wed",
-        "Scanned Date": "2021-06-01 13:55:43"
+        "Scanned Date": "2021-06-01 13:55:43",
+        "Playlist URI": "2J1Zu5KCNFSOhKfPXl0vVc",
+        "Playlist Link": "https://open.spotify.com/playlist/2J1Zu5KCNFSOhKfPXl0vVc",
+        "Snapshot ID": "MSxmMTVjOGVmZjdhZWY4MDkzOTM5NTgyZTNiOTM2NTRkNTlhNzJjNDY5",
+        "Playlist Name": "MoWeEd 2006-11-15 Wed Morning Edition"
     },
     {
         "Title": "Mass Baghdad Kidnapping Wrapped in Mystery",
@@ -23,7 +27,12 @@
         "MoWeEd Artists": [
             "Kenny Burrell",
             "Ron Carter et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Catholic Bishops Adopt Guidelines on Gays",
@@ -41,13 +50,30 @@
         "MoWeEd Track": "String Quartet No. 1, Op. 2: II Lento Assai, tranquillo",
         "MoWeEd Artists": [
             "The Audubon Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 1 in C Minor, Op. 2: II. Lento assai, tranquillo",
+        "Result Artist Names": [
+            "Zoltán Kodály",
+            "The Audubon Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4snSFUyMN0PiurAVwULZ8D",
+        "Result Album Name": "Kodaly: String Quartets Nos. 1 & 2"
     },
     {
         "MoWeEd Track": "Bemsha Swing",
         "MoWeEd Artists": [
             "Sara Caswell"
-        ]
+        ],
+        "Result Track Name": "Bemsha Swing",
+        "Result Artist Names": [
+            "Sara Caswell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JB9ZOzQwRHGBI1sGh0FNd",
+        "Result Album Name": "First Song"
     },
     {
         "Title": "Mount Rainier Park Starts Long Road to Recovery",
@@ -59,13 +85,26 @@
         "MoWeEd Track": "Medley: I Don't Want to Be Kissed By Anyone Else But You",
         "MoWeEd Artists": [
             "Ahmad Jamal Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "All of You",
         "MoWeEd Artists": [
             "Ahmad Jamal Trio"
-        ]
+        ],
+        "Result Track Name": "All Of You",
+        "Result Artist Names": [
+            "Ahmad Jamal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1OgCORVxyJ7GFX2GkBX3FB",
+        "Result Album Name": "Chamber Music Of The New Jazz"
     },
     {
         "Title": "Engineers Put Wood House to the Quake Test",
@@ -84,13 +123,31 @@
         "MoWeEd Artists": [
             "Alisa Weilerstein",
             "Vivian Hornik Weilerstein"
-        ]
+        ],
+        "Result Track Name": "Forest Quietude, Op. 68: V. Klid",
+        "Result Artist Names": [
+            "Antonín Dvořák",
+            "Alisa Weilerstein",
+            "Vivian Hornik Weilerstein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yiQsh9brB4MNqHCkua4yW",
+        "Result Album Name": "Quiet Classical"
     },
     {
         "MoWeEd Track": "Meteor",
         "MoWeEd Artists": [
             "Tal Farlow"
-        ]
+        ],
+        "Result Track Name": "Meteor",
+        "Result Artist Names": [
+            "Tal Farlow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JtAmbba40lRfGkpuUjQzC",
+        "Result Album Name": "The Swinging Guitar Of Tal Farlow"
     },
     {
         "Title": "Puerto Rico Institutes Sales Tax",
@@ -114,13 +171,29 @@
         "MoWeEd Track": "Free Willy",
         "MoWeEd Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Free Willy",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lTGJAaU6GZQ6heebahQr1",
+        "Result Album Name": "Largo"
     },
     {
         "MoWeEd Track": "Saudades",
         "MoWeEd Artists": [
             "Trio Beyond"
-        ]
+        ],
+        "Result Track Name": "Saudades",
+        "Result Artist Names": [
+            "Trio Beyond"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ac9R7fU7OPZOYxVLb3COV",
+        "Result Album Name": "Saudades"
     },
     {
         "Title": "Hoyer Aims to Win House Majority Leadership Post",
@@ -138,13 +211,29 @@
         "MoWeEd Track": "Dusty McNugget",
         "MoWeEd Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Dusty McNugget",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rLu8rOuwHPGFCmo1Yv5We",
+        "Result Album Name": "Largo"
     },
     {
         "MoWeEd Track": "Blueberry Rhyme",
         "MoWeEd Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Blueberry Rhyme",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ThD8hTgJ80laRFl4Lyopy",
+        "Result Album Name": "Gershwin's World"
     },
     {
         "Title": "Chinese Migrant Children Face Educational Hurdles",
@@ -162,13 +251,29 @@
         "MoWeEd Track": "Guitarra (Guitar)",
         "MoWeEd Artists": [
             "Madredeus"
-        ]
+        ],
+        "Result Track Name": "Guitarra",
+        "Result Artist Names": [
+            "Madredeus"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HCHRabVi2IxLDhmvnKW3b",
+        "Result Album Name": "Antologia"
     },
     {
         "MoWeEd Track": "Sagaba",
         "MoWeEd Artists": [
             "Blue Scholars"
-        ]
+        ],
+        "Result Track Name": "Sagaba",
+        "Result Artist Names": [
+            "Blue Scholars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GI3DlwrqMKzkN0iGR3PEj",
+        "Result Album Name": "Blue Scholars"
     },
     {
         "Title": "More Good News for Chocolate Lovers",
@@ -181,13 +286,26 @@
         "MoWeEd Artists": [
             "Kirov Orchestra",
             "valery Gergiev"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "African Mailman [*]",
         "MoWeEd Artists": [
             "Nina Simone"
-        ]
+        ],
+        "Result Track Name": "African Mailman",
+        "Result Artist Names": [
+            "Nina Simone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uKUgkrqWZUe5HRBLr34nA",
+        "Result Album Name": "Nina Simone and Her Friends (Remastered 2013)"
     },
     {
         "Title": "U.S. Leads Efforts to Transform Afghan Police Force",
@@ -199,7 +317,12 @@
         "MoWeEd Track": "Wahira",
         "MoWeEd Artists": [
             "Orlando \"Cachaito\" Lopez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Red Sox Pay $51 Million to Talk to Japanese Pitcher",
@@ -217,13 +340,29 @@
         "MoWeEd Track": "Play",
         "MoWeEd Artists": [
             "Mindi Abair"
-        ]
+        ],
+        "Result Track Name": "Play",
+        "Result Artist Names": [
+            "Mindi Abair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1La7Gd3FiHDzrPzpqxRSV8",
+        "Result Album Name": "It Just Happens That Way"
     },
     {
         "MoWeEd Track": "Thing for You [*]",
         "MoWeEd Artists": [
             "Alex Chilton"
-        ]
+        ],
+        "Result Track Name": "Thing For You",
+        "Result Artist Names": [
+            "Alex Chilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42df3jdVnRirixuWU0dWOv",
+        "Result Album Name": "High Priest"
     },
     {
         "Title": "Powerful Quake Triggers Japanese Tsunami Warning",

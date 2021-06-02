@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2006-04-23",
         "Day": "Sun",
-        "Scanned Date": "2021-06-01 14:20:33"
+        "Scanned Date": "2021-06-01 14:20:33",
+        "Playlist URI": "3hfGVNKgJehZreJg8jEFCX",
+        "Playlist Link": "https://open.spotify.com/playlist/3hfGVNKgJehZreJg8jEFCX",
+        "Snapshot ID": "MSxjNzEyNWY2YTk4ZTY0YjIzZjdjZGY5Y2E5MjJiMjQ4MzA3MTdmYWJm",
+        "Playlist Name": "MoWeEd 2006-04-23 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,14 +32,27 @@
         "MoWeEd Track": "Medley: b) Aire de Zamba",
         "MoWeEd Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "El Lobo (The Wolf)",
         "MoWeEd Artists": [
             "Herb Alpert",
             "Tijuana Brass"
-        ]
+        ],
+        "Result Track Name": "El Lobo (The Wolf)",
+        "Result Artist Names": [
+            "Herb Alpert & The Tijuana Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NXhchiyb50WG8JEEU4U6y",
+        "Result Album Name": "The Lonely Bull"
     },
     {
         "Title": "No End in Sight to Fighting in Nagorno-Karabakh",
@@ -65,7 +82,15 @@
         "MoWeEd Track": "Frantic",
         "MoWeEd Artists": [
             "The Lovely Feathers"
-        ]
+        ],
+        "Result Track Name": "Frantic",
+        "Result Artist Names": [
+            "The Lovely Feathers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mXyoYsJhhVBDYu2ucXBuo",
+        "Result Album Name": "Hind Hind Legs"
     },
     {
         "Title": "Fun with Proverbs",
@@ -83,13 +108,29 @@
         "MoWeEd Track": "Run",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Long May You Run",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WXa9iPDed5n15jkyu8GFa",
+        "Result Album Name": "Young Grass"
     },
     {
         "MoWeEd Track": "Spitting Games",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Spitting Games",
+        "Result Artist Names": [
+            "Snow Patrol"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FnPuMFgc7YDuwQkGpttr2",
+        "Result Album Name": "Final Straw"
     },
     {
         "Title": "Al-Maliki: An Insider Steps into the Limelight",
@@ -113,14 +154,27 @@
         "MoWeEd Track": "The Ubiquitous Mr. Lovegrove",
         "MoWeEd Artists": [
             "Dead Can Dance"
-        ]
+        ],
+        "Result Track Name": "The Ubiquitous Mr Lovegrove",
+        "Result Artist Names": [
+            "Dead Can Dance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46Uu8z4OhFr9o02bR4JDDU",
+        "Result Album Name": "Wake"
     },
     {
         "MoWeEd Track": "No Agreement",
         "MoWeEd Artists": [
             "Tony Allen",
             "Ray Lema et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "IMF, World Bank Talks Draw Few Protests",
@@ -150,13 +204,29 @@
         "MoWeEd Track": "La Chambre",
         "MoWeEd Artists": [
             "Anouar Brahem"
-        ]
+        ],
+        "Result Track Name": "La chambre",
+        "Result Artist Names": [
+            "Anouar Brahem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HmIdLBJix3RXAFMpJdfhR",
+        "Result Album Name": "Le Voyage De Sahar"
     },
     {
         "MoWeEd Track": "Jesus Loves You",
         "MoWeEd Artists": [
             "Cantinero"
-        ]
+        ],
+        "Result Track Name": "Jesus Loves You",
+        "Result Artist Names": [
+            "Cantinero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0bW44wcv5tr5i7YyeB9KeP",
+        "Result Album Name": "Championship Boxing"
     },
     {
         "Title": "Franklin's Princess, on Exhibit in Philly",
@@ -174,6 +244,14 @@
         "MoWeEd Track": "First Things First",
         "MoWeEd Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": "First Things First",
+        "Result Artist Names": [
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZTJrx4xxbm5Xzsqsl94Af",
+        "Result Album Name": "Edgar Meyer"
     }
 ]

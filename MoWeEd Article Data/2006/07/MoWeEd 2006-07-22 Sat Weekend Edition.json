@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2006-07-22",
         "Day": "Sat",
-        "Scanned Date": "2021-06-01 14:09:47"
+        "Scanned Date": "2021-06-01 14:09:47",
+        "Playlist URI": "2YiFRFkPB3jL13H1aKcu7R",
+        "Playlist Link": "https://open.spotify.com/playlist/2YiFRFkPB3jL13H1aKcu7R",
+        "Snapshot ID": "MSw5ODNlMjI3OWU1YjNhYmE5OGU4OWM5NDJkZTIzNWNjZWE5NDdiNWFk",
+        "Playlist Name": "MoWeEd 2006-07-22 Sat Weekend Edition"
     },
     {
         "Title": "Israeli Forces Clash with Hezbollah Inside Lebanon",
@@ -28,13 +32,27 @@
         "MoWeEd Track": "The Seagull (Fiskmas)/The Bad Day",
         "MoWeEd Artists": [
             "Darol Anger's Republic of Strings"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "When You Go (Djulaikta Waltz)",
         "MoWeEd Artists": [
             "Darol Anger's Republic of Strings"
-        ]
+        ],
+        "Result Track Name": "When You Go (Djulaikta Waltz)",
+        "Result Artist Names": [
+            "Darol Anger's Republic of Strings",
+            "Darol Anger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05vbICJ7vdCmk1DD5u7bfA",
+        "Result Album Name": "Generation Nation"
     },
     {
         "Title": "Exiting Iraq: Frederick Kagan's View",
@@ -58,7 +76,12 @@
         "MoWeEd Track": "La Capricciosa",
         "MoWeEd Artists": [
             "Salonorchester Colln"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'New Yorker' Rejects Find a Home on the Web",
@@ -70,7 +93,12 @@
         "MoWeEd Track": "Micky Fick",
         "MoWeEd Artists": [
             "Art Neville"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Air Sickness as an Advertising Opportunity",
@@ -94,7 +122,12 @@
         "MoWeEd Track": "Star Trek Theme",
         "MoWeEd Artists": [
             "Totally Hot Nashville Steel Guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week in Review: Crisis in the Middle East",
@@ -131,7 +164,15 @@
         "MoWeEd Artists": [
             "Bill Frisell",
             "Paul Motian et. al."
-        ]
+        ],
+        "Result Track Name": "Raise Four",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2YT6tyiVUN6FmWIYu53Ig8",
+        "Result Album Name": "Bill Frisell, Ron Carter, Paul Motian"
     },
     {
         "Title": "Letters: The Sound of Bonobo Chimps",
@@ -161,6 +202,14 @@
         "MoWeEd Track": "The Welsh Arrow",
         "MoWeEd Artists": [
             "Pierre Bensusan"
-        ]
+        ],
+        "Result Track Name": "The Welsh Arrow (To Sandy Alexander)",
+        "Result Artist Names": [
+            "Pierre Bensusan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VYmrZWbxU4qAFpCcIRbVU",
+        "Result Album Name": "Intuite"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2006-01-09",
         "Day": "Mon",
-        "Scanned Date": "2021-06-01 14:28:36"
+        "Scanned Date": "2021-06-01 14:28:36",
+        "Playlist URI": "0RBG1GG5SgqBhwSnXXTyg8",
+        "Playlist Link": "https://open.spotify.com/playlist/0RBG1GG5SgqBhwSnXXTyg8",
+        "Snapshot ID": "MSw2ODU2OWQ5MjZjYTI2YjQ1NDU5ODIzNGNlZjRkMzYzMDIyOWUzMDlj",
+        "Playlist Name": "MoWeEd 2006-01-09 Mon Morning Edition"
     },
     {
         "Title": "Opening Statements Awaited at Alito Hearings",
@@ -16,13 +20,31 @@
         "MoWeEd Track": "Trio No. 2 In E Minor, Op. 67 -- Iv. Allegretto",
         "MoWeEd Artists": [
             "Jupiter Trio"
-        ]
+        ],
+        "Result Track Name": "Piano Trio No. 2 in E Minor, Op. 67: IV. Allegretto",
+        "Result Artist Names": [
+            "Dmitri Shostakovich",
+            "Jupiter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NasxCuJKrdavrXBabvkyV",
+        "Result Album Name": "Beethoven & Shostakovich: Piano Trios"
     },
     {
         "MoWeEd Track": "Trio No. 2 In E Minor, Op. 67 -- Ii. Allegro Con Brio",
         "MoWeEd Artists": [
             "Jupiter Trio"
-        ]
+        ],
+        "Result Track Name": "Piano Trio No. 2 in E Minor, Op. 67: II. Allegro con brio",
+        "Result Artist Names": [
+            "Dmitri Shostakovich",
+            "Jupiter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JQ0e0g7SffovKPAwJq5zp",
+        "Result Album Name": "Beethoven & Shostakovich: Piano Trios"
     },
     {
         "Title": "House Republicans Prepare to Pick New Leader",
@@ -40,13 +62,29 @@
         "MoWeEd Track": "Ponce Preludio #8",
         "MoWeEd Artists": [
             "Tom Ball"
-        ]
+        ],
+        "Result Track Name": "Ponce Preludio #8",
+        "Result Artist Names": [
+            "Tom Ball"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ljditFYuJzvvwqt46hnHs",
+        "Result Album Name": "18 Pieces for Solo Steel String Guitar"
     },
     {
         "MoWeEd Track": "Suayo",
         "MoWeEd Artists": [
             "Tom Ball"
-        ]
+        ],
+        "Result Track Name": "Suayo",
+        "Result Artist Names": [
+            "Tom Ball"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TUjZUaccu01P4ELcAkRSe",
+        "Result Album Name": "18 Pieces for Solo Steel String Guitar"
     },
     {
         "Title": "Arrests Impose New Chill on Cambodian Dissent",
@@ -58,13 +96,29 @@
         "MoWeEd Track": "Tokyo",
         "MoWeEd Artists": [
             "Leon Parker"
-        ]
+        ],
+        "Result Track Name": "Tokyo",
+        "Result Artist Names": [
+            "Leon Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7bBkgnsEVD7L8PnbKUvOBq",
+        "Result Album Name": "Awakening"
     },
     {
         "MoWeEd Track": "Axe Bahia",
         "MoWeEd Artists": [
             "Leon Parker"
-        ]
+        ],
+        "Result Track Name": "Axe Bahia",
+        "Result Artist Names": [
+            "Leon Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5np6VhmOKcVSOza06p4ceD",
+        "Result Album Name": "Awakening"
     },
     {
         "Title": "Teen Depression Watch Draws Mixed Reviews",
@@ -83,14 +137,27 @@
         "MoWeEd Artists": [
             "Darol Anger",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "A Real Dragon",
+        "Result Artist Names": [
+            "Darol Anger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2JVl2LkFQR4YhKM5hFoYqh",
+        "Result Album Name": "Darol Anger'syear in Music"
     },
     {
         "MoWeEd Track": "Wedges",
         "MoWeEd Artists": [
             "Darol Anger",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Will Design Elegance Win the Gadget War?",
@@ -108,7 +175,15 @@
         "MoWeEd Track": "Oil Gusher",
         "MoWeEd Artists": [
             "Raymond Scott Orchestrette"
-        ]
+        ],
+        "Result Track Name": "Oil Gusher",
+        "Result Artist Names": [
+            "The Raymond Scott Orchestrette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UBnLFiDAPfj06FBuyZDDR",
+        "Result Album Name": "Pushbutton Parfait"
     },
     {
         "MoWeEd Track": "New Lute Prelude",
@@ -116,7 +191,17 @@
             "Larry Coryell",
             "Badi Assad",
             "John Abercrombie"
-        ]
+        ],
+        "Result Track Name": "New Lute Prelude",
+        "Result Artist Names": [
+            "Larry Coryell",
+            "John Abercrombie",
+            "Badi Assad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rCfS8rqs2zZvMTiHVtCj8",
+        "Result Album Name": "Three Guitars"
     },
     {
         "Title": "As Sharon Lies Ill, a Political Crisis Looms",
@@ -134,13 +219,26 @@
         "MoWeEd Track": "Explosive Corrosive Joseph",
         "MoWeEd Artists": [
             "John Schroeder"
-        ]
+        ],
+        "Result Track Name": "Explosive Corrosive Joseph",
+        "Result Artist Names": [
+            "The John Schroeder Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6G8Cfojv5PCRqpW7w9ZacX",
+        "Result Album Name": "Soul Coaxing: The Many Moods of John Schroeder"
     },
     {
         "MoWeEd Track": "The Real Story",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "More Cases of Bird Flu Emerge in Turkey",
@@ -158,13 +256,29 @@
         "MoWeEd Track": "From Ankara to Izmir",
         "MoWeEd Artists": [
             "Bering Strait"
-        ]
+        ],
+        "Result Track Name": "From Ankara To Izmir",
+        "Result Artist Names": [
+            "Bering Strait"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00m14fJjgwUwAJxA6XBZ8h",
+        "Result Album Name": "Pages"
     },
     {
         "MoWeEd Track": "Marimba Azucar",
         "MoWeEd Artists": [
             "Luis Garay Percussion World"
-        ]
+        ],
+        "Result Track Name": "Marimba Azucar",
+        "Result Artist Names": [
+            "Luis Garay Percussion World"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7soBTCUBdRMyT3BCRTaCFx",
+        "Result Album Name": "Humanity"
     },
     {
         "Title": "NFL Playoffs Free of Surprises",
@@ -176,13 +290,29 @@
         "MoWeEd Track": "Skinless Boneless",
         "MoWeEd Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Skinless Boneless",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ahs9amWPpEA1cTxCqGLkv",
+        "Result Album Name": "Big Lazy"
     },
     {
         "MoWeEd Track": "Roam/Sight Unseen",
         "MoWeEd Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Roam/Sight Unseen",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0x7Ktaag03KBllU9wacT2W",
+        "Result Album Name": "Big Lazy"
     },
     {
         "Title": "Weekend Crash in Iraq Deadliest in a Year",
@@ -200,13 +330,23 @@
         "MoWeEd Track": "American Dipper",
         "MoWeEd Artists": [
             "Jenny Scheinman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Milk Bottle",
         "MoWeEd Artists": [
             "Jenny Scheinman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Touring Cezanne's Cultural Roots",
@@ -218,13 +358,29 @@
         "MoWeEd Track": "Reverie",
         "MoWeEd Artists": [
             "Michel Beroff"
-        ]
+        ],
+        "Result Track Name": "Reverie",
+        "Result Artist Names": [
+            "Michel Prezman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5dUS844H1b9rSmDXn6PMhp",
+        "Result Album Name": "New Era"
     },
     {
         "MoWeEd Track": "Vapor",
         "MoWeEd Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Vapor",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1T6Kz6xCBz7ZrNwtejCVmi",
+        "Result Album Name": "Live at the Blue Note Tokyo"
     },
     {
         "Title": "Dutch Troops in Pakistan Say No to Booze",

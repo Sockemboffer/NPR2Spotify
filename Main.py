@@ -10,7 +10,7 @@ from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-startDate = datetime(2005, 8, 18)
+startDate = datetime(2006, 12, 11) # check 9 to 3, 28 for missing track playlists
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -18,7 +18,7 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate != datetime(2006, 1, 1):
+while startDate != datetime(2007, 1, 1):
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -105,7 +105,7 @@ while startDate != datetime(2006, 1, 1):
 # # Weekend edition shows up 1998 Jan
 # # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # # Used to create json output for each day with various article and track data
-# editionStartYear = 2005
+# editionStartYear = 2006
 # editionDayData = list()
 # projectName = "MoWeEd"
 # editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
