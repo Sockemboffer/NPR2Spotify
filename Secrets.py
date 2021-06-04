@@ -5,12 +5,11 @@ import spotipy.util as util
 
 class Secrets:
     def __init__(self):
-        self.SPOTIPY_CLIENT_ID = os.environ.get('SPOTIPY_CLIENT_ID') 
-        self.SPOTIPY_CLIENT_SECRET = os.environ.get('SPOTIPY_CLIENT_SECRET')
-        self.SPOTIPY_REDIRECT_URI = os.environ.get('SPOTIPY_REDIRECT_URI')
-        self.spotify_user_id = '1tnm7cyegqffdjtsz6mt1ozcl'
-        self.scope = 'ugc-image-upload playlist-modify-private'
-        # self.spotipyUserToken = util.prompt_for_user_token(spotify_user_id, scope, SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET, SPOTIPY_REDIRECT_URI)
+        self.SPOTIPY_CLIENT_ID = os.environ.get('SPOTIPY_CLIENT_ID') # This apps id
+        self.SPOTIPY_CLIENT_SECRET = os.environ.get('SPOTIPY_CLIENT_SECRET') # This apps secret
+        self.SPOTIPY_REDIRECT_URI = os.environ.get('SPOTIPY_REDIRECT_URI') # Points to localhost
+        self.spotify_user_id = os.environ.get('SPOTIFY_USER_ID') # The Spotify user we create the playlists for
+        self.scope = 'ugc-image-upload playlist-modify-private' # Type of permissions we need to modify this users playlists
         self.spo = oauth2.SpotifyOAuth(self.SPOTIPY_CLIENT_ID, self.SPOTIPY_CLIENT_SECRET, self.SPOTIPY_REDIRECT_URI, state=None, scope=self.scope, username=self.spotify_user_id)
         self.spotipySCC = spotipy.SpotifyClientCredentials(self.SPOTIPY_CLIENT_ID, self.SPOTIPY_CLIENT_SECRET)
         self.sp = spotipy.Spotify(client_credentials_manager=self.spotipySCC)
