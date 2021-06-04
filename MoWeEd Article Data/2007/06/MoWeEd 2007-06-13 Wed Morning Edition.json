@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2007-06-13",
         "Day": "Wed",
-        "Scanned Date": "2021-06-02 13:45:26"
+        "Scanned Date": "2021-06-02 13:45:26",
+        "Playlist URI": "0r8AFFN1w03jTFG1qTO53V",
+        "Playlist Link": "https://open.spotify.com/playlist/0r8AFFN1w03jTFG1qTO53V",
+        "Snapshot ID": "MSw3ZjM1N2E4ZmNlY2JhMDIxNTgxMTgzMDg3ZDcxMDUyNjcyNjk2ZTZm",
+        "Playlist Name": "MoWeEd 2007-06-13 Wed Morning Edition"
     },
     {
         "Title": "Hamas Gaining Upper Hand in Gaza Fighting",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Demands",
         "MoWeEd Artists": [
             "Original Score"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "5 Words",
         "MoWeEd Artists": [
             "Original Score"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stakes High for Las Vegas Water Czar",
@@ -40,14 +54,32 @@
         "MoWeEd Track": "I Just Can't Keep from Crying Sometimes",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "I Just Can't Keep From Crying Sometimes",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3Rmls1v8DjsVA0SbHHWIw3",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "MoWeEd Track": "Because of You, This",
         "MoWeEd Artists": [
             "Edward Gerhard",
             "Ray Brunelle et. al."
-        ]
+        ],
+        "Result Track Name": "Because of You, This",
+        "Result Artist Names": [
+            "Ed Gerhard",
+            "Randy Roos",
+            "Ray Brunelle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:2tkU6WSnQSyuhyw4VpFCs4",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "Title": "Texas Town Remembers Soldier Lost in Iraq",
@@ -59,13 +91,31 @@
         "MoWeEd Track": "Don't Wait",
         "MoWeEd Artists": [
             "Metheny Mehldau Quartet"
-        ]
+        ],
+        "Result Track Name": "Don't Wait",
+        "Result Artist Names": [
+            "Pat Metheny",
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7zAWQ56u9G95imJOQwxwT7",
+        "Result Album Name": "Quartet"
     },
     {
         "MoWeEd Track": "Towards the Light",
         "MoWeEd Artists": [
             "Metheny Mehldau Quartet"
-        ]
+        ],
+        "Result Track Name": "Towards the Light",
+        "Result Artist Names": [
+            "Pat Metheny",
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2px4OhKDNrzTSe6iVQBTD5",
+        "Result Album Name": "Quartet"
     },
     {
         "Title": "Insurgents Attack Revered Shiite Mosque",
@@ -89,13 +139,29 @@
         "MoWeEd Track": "Gypsy",
         "MoWeEd Artists": [
             "Spitznagel"
-        ]
+        ],
+        "Result Track Name": "Gypsy",
+        "Result Artist Names": [
+            "Spitznagel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qfUE2aRpddlFOFZnyrHEo",
+        "Result Album Name": "SMX"
     },
     {
         "MoWeEd Track": "Tuning In",
         "MoWeEd Artists": [
             "Groove Armada"
-        ]
+        ],
+        "Result Track Name": "Tuning In",
+        "Result Artist Names": [
+            "Groove Armada"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5p5yDX3befyTjWqnHzNZR9",
+        "Result Album Name": "Goodbye Country (Hello Nightclub)"
     },
     {
         "Title": "Lawmakers to Challenge China's Currency Practice",
@@ -125,13 +191,29 @@
         "MoWeEd Track": "Black Market",
         "MoWeEd Artists": [
             "Joe Zawinul"
-        ]
+        ],
+        "Result Track Name": "Black Market - Live",
+        "Result Artist Names": [
+            "Joe Zawinul"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MncUiLpDvVNbNegFWfnUl",
+        "Result Album Name": "Brown Street (Live)"
     },
     {
         "MoWeEd Track": "Wham-o",
         "MoWeEd Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": "Wham-O",
+        "Result Artist Names": [
+            "Rick Holmstrom"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3RFHqFiU82vk3rXrFrDNHI",
+        "Result Album Name": "Late In the Night"
     },
     {
         "Title": "Alabama's Sessions on Bush, Immigration",
@@ -149,13 +231,30 @@
         "MoWeEd Track": "Delicado",
         "MoWeEd Artists": [
             "Enrique Coria"
-        ]
+        ],
+        "Result Track Name": "Delicado",
+        "Result Artist Names": [
+            "David Grisman",
+            "Enrique Coria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QvDE6zT1R3zE1fiA3XAaO",
+        "Result Album Name": "Latin Touch"
     },
     {
         "MoWeEd Track": "Romance de Barrio",
         "MoWeEd Artists": [
             "Enrique Coria"
-        ]
+        ],
+        "Result Track Name": "Romance De Barrio",
+        "Result Artist Names": [
+            "Enrique Coria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6R0P1DuxNgsqdtmxdefBG4",
+        "Result Album Name": "Latin Touch"
     },
     {
         "Title": "Corporations Push Congress on Climate Policy",
@@ -174,13 +273,23 @@
         "MoWeEd Artists": [
             "Bill Frisell",
             "Matt Chamberlain"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Bach Tribute: Concerto for Violin in a Minor (1st MVT)",
         "MoWeEd Artists": [
             "Twelve Girls Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Thompson Edges Closer to Presidential Bid",
@@ -193,7 +302,16 @@
         "MoWeEd Artists": [
             "Anat Cohen",
             "Anzic Orchestra"
-        ]
+        ],
+        "Result Track Name": "La Comparsa",
+        "Result Artist Names": [
+            "Anat Cohen",
+            "The Anzic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1t6qpNNs4rn1DJL7GEicyn",
+        "Result Album Name": "Noir"
     },
     {
         "Title": "Banking Issue Has U.S., North Korea at Impasse",
@@ -217,13 +335,29 @@
         "MoWeEd Track": "The 13th Day",
         "MoWeEd Artists": [
             "Kenny Werner"
-        ]
+        ],
+        "Result Track Name": "The 13th Day",
+        "Result Artist Names": [
+            "Kenny Werner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gHpR2v3nvQOUuAG9gIFW8",
+        "Result Album Name": "Lawn Chair Society"
     },
     {
         "MoWeEd Track": "Kothbiro",
         "MoWeEd Artists": [
             "Kenny Werner"
-        ]
+        ],
+        "Result Track Name": "Kothbiro",
+        "Result Artist Names": [
+            "Kenny Werner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LemWBotSsl6gYKKKN17lT",
+        "Result Album Name": "Lawn Chair Society"
     },
     {
         "Title": "Target Adds Bridal Gowns to Its Cheap Chic",
@@ -243,7 +377,12 @@
             "Beppe Gambetta",
             "Carlo Aonzo",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mr. Wizard Passes Away",

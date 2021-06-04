@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2007-02-22",
         "Day": "Thu",
-        "Scanned Date": "2021-06-02 14:00:18"
+        "Scanned Date": "2021-06-02 14:00:18",
+        "Playlist URI": "1HXex7S48G4YYlytPEex6m",
+        "Playlist Link": "https://open.spotify.com/playlist/1HXex7S48G4YYlytPEex6m",
+        "Snapshot ID": "MSwzOTFkZTVkZmJiNzAxMzI4ZWVkMGJkYzE2YTA2NzYzYjcyZTAzMjU1",
+        "Playlist Name": "MoWeEd 2007-02-22 Thu Morning Edition"
     },
     {
         "Title": "'Coalition of the Willing' Suffering Losses",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Tequila",
         "MoWeEd Artists": [
             "Tony Levin"
-        ]
+        ],
+        "Result Track Name": "Tequila",
+        "Result Artist Names": [
+            "Tony Levin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hfbNu5bhcbhFZ94Wn4yol",
+        "Result Album Name": "Pieces Of The Sun"
     },
     {
         "MoWeEd Track": "Blue Nude Reclining",
         "MoWeEd Artists": [
             "Tony Levin"
-        ]
+        ],
+        "Result Track Name": "Blue Nude Reclining",
+        "Result Artist Names": [
+            "Tony Levin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iJEYKo5sJbc7b5PeOMeyF",
+        "Result Album Name": "Pieces Of The Sun"
     },
     {
         "Title": "Some Top Students Look for Hidden-Gem Colleges",
@@ -46,13 +66,26 @@
         "MoWeEd Track": "String Quartet In G major, op. 76 no. 1: Allegro con spirito",
         "MoWeEd Artists": [
             "Takacs String Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 8: Adagio, Andante, Allegro con spirito",
+        "Result Artist Names": [
+            "Potomac String Quartet"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6ljbxvidooXK1eNTsRfD42",
+        "Result Album Name": "Complete String Quartets, Vol. 1"
     },
     {
         "MoWeEd Track": "String Quartet In G major, op. 76 no. 1: Adagio sostenuto",
         "MoWeEd Artists": [
             "Takacs String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Departing U.N. Food Chief Reflects on World Hunger",
@@ -64,13 +97,23 @@
         "MoWeEd Track": "Children's Song",
         "MoWeEd Artists": [
             "Oystein Sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "My Mothers Voice",
         "MoWeEd Artists": [
             "Triona Ni Dhomhnaill"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ear Tubes in Children May Be Over-Prescribed",
@@ -88,13 +131,30 @@
         "MoWeEd Track": "Maria",
         "MoWeEd Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "Maria",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dQmO0TSFuCdmsdkFtZigJ",
+        "Result Album Name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'"
     },
     {
         "MoWeEd Track": "I Feel Pretty",
         "MoWeEd Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "I Feel Pretty",
+        "Result Artist Names": [
+            "Dave Brubeck",
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hYMujVqWOs6uRBlgffNWa",
+        "Result Album Name": "Jazz Moods: Cool"
     },
     {
         "Title": "Cisco, Apple Agree to Share 'iPhone' Name",
@@ -124,13 +184,52 @@
         "MoWeEd Track": "Thou Swell",
         "MoWeEd Artists": [
             "Rob McConnell"
-        ]
+        ],
+        "Result Track Name": "Thou Swell",
+        "Result Artist Names": [
+            "Rob McConnell Tentet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7e0MxvdWqX0dFv6FI724QM",
+        "Result Album Name": "Music of the Twenties"
     },
     {
         "MoWeEd Track": "Spain",
         "MoWeEd Artists": [
             "Jake Shimabukuro"
-        ]
+        ],
+        "Result Track Name": "Lover / Lady of Spain (Medley)",
+        "Result Artist Names": [
+            "Opihi Pickers",
+            "Imua Garza",
+            "Daniel Ho",
+            "Ken Emerson",
+            "Acoustic Soul",
+            "Mikel Gonzalez",
+            "'Ale'a",
+            "Ryan Gonzalez",
+            "Lyle Ritz",
+            "Herb Ohta Sr - Ohta-San",
+            "Benny Chong",
+            "Wilson Kanaka'ole",
+            "Kimo Hussey",
+            "Keoki Kaapana",
+            "Eddie Bush",
+            "Jessie Kalima",
+            "Jim Beloff",
+            "Na 'Oiwi",
+            "David Kamakahi",
+            "Herb Ohta, Jr.",
+            "Eddie Kamae",
+            "Jake Shimabukuro",
+            "Charles Michael Brotman",
+            "Bill Tapia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46Zy6NLJPZWX03U2AWku2V",
+        "Result Album Name": "Legends of the Ukulele - Hawaiian Masters"
     },
     {
         "Title": "Democratic Hopefuls Gather in Nevada",
@@ -148,13 +247,29 @@
         "MoWeEd Track": "Limestones",
         "MoWeEd Artists": [
             "David Grisman Quintet"
-        ]
+        ],
+        "Result Track Name": "Limestones",
+        "Result Artist Names": [
+            "DAVID GRISMAN QUINTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WgCn6MbOdu7pDZHBOIxlv",
+        "Result Album Name": "Dawg's Groove"
     },
     {
         "MoWeEd Track": "Zambola",
         "MoWeEd Artists": [
             "David Grisman Quintet"
-        ]
+        ],
+        "Result Track Name": "Zambola",
+        "Result Artist Names": [
+            "DAVID GRISMAN QUINTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PsEqWKgZk6xXh9ND4tN7I",
+        "Result Album Name": "Dawg's Groove"
     },
     {
         "Title": "Prodi Steps Down as Italian Prime Minister",
@@ -172,7 +287,12 @@
         "MoWeEd Track": "Incarnation",
         "MoWeEd Artists": [
             "Cubop"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Army Probes Reports of Neglect at Walter Reed",
@@ -184,13 +304,29 @@
         "MoWeEd Track": "Thanks for the Beautiful Land on the Delta",
         "MoWeEd Artists": [
             "Stefon Harris"
-        ]
+        ],
+        "Result Track Name": "From The New Orleans Suite: Thanks For The Beautiful Land On The Delta",
+        "Result Artist Names": [
+            "Stefon Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sI5jRSJcDyphKySoMrL4d",
+        "Result Album Name": "African Tarantella"
     },
     {
         "MoWeEd Track": "African Tarantella",
         "MoWeEd Artists": [
             "Stefon Harris"
-        ]
+        ],
+        "Result Track Name": "From The Gardner Meditations: African Tarantella",
+        "Result Artist Names": [
+            "Stefon Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Dyqsvfsu3hae5pssdJx69",
+        "Result Album Name": "African Tarantella"
     },
     {
         "Title": "Disaster Would Overwhelm Hospitals, Author Warns",
@@ -208,7 +344,15 @@
         "MoWeEd Track": "The Temptress",
         "MoWeEd Artists": [
             "Berends"
-        ]
+        ],
+        "Result Track Name": "Fifteen Exceptions for Piano: The Temptress",
+        "Result Artist Names": [
+            "David Berends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iPCGXImL4nLfgjznPAjbv",
+        "Result Album Name": "Fifteen Exceptions for Piano"
     },
     {
         "Title": "Costume Designer Dips into Hollywood's Closet",
@@ -220,7 +364,15 @@
         "MoWeEd Track": "Bangkok Cockfight",
         "MoWeEd Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "Bangkok Cockfight",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ztU8NphPZlplRqYOwHAur",
+        "Result Album Name": "Primitiva"
     },
     {
         "Title": "A Self-Enforcing Law",

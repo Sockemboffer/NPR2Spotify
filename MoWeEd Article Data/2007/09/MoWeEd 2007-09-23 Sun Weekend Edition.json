@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2007-09-23",
         "Day": "Sun",
-        "Scanned Date": "2021-06-02 13:36:47"
+        "Scanned Date": "2021-06-02 13:36:47",
+        "Playlist URI": "4hbIeQNlj3W7PNu4eBIPaG",
+        "Playlist Link": "https://open.spotify.com/playlist/4hbIeQNlj3W7PNu4eBIPaG",
+        "Snapshot ID": "MSxmMDJlYzIwZWM0YjdmNDc3YzIyZjNiOTYwM2NiZDFlNmUyNmI1MDZl",
+        "Playlist Name": "MoWeEd 2007-09-23 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -29,14 +33,24 @@
         "MoWeEd Artists": [
             "Bill Frisell",
             "Matt Chamberlain"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Floratone",
         "MoWeEd Artists": [
             "Bill Frisell",
             "Matt Chamberlain"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Deal Struck on FDA Financing",
@@ -61,7 +75,12 @@
         "MoWeEd Artists": [
             "Didi Duprat",
             "Didier Roussin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Thoughts on the Dan Rather Case",
@@ -73,7 +92,15 @@
         "MoWeEd Track": "Sidewalks of San Francisco",
         "MoWeEd Artists": [
             "Trey Anastasio"
-        ]
+        ],
+        "Result Track Name": "Sidewalks of San Francisco",
+        "Result Artist Names": [
+            "Trey Anastasio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nETyeP2risqAOpanzZrRs",
+        "Result Album Name": "The Horseshoe Curve"
     },
     {
         "Title": "Football Scramble",
@@ -91,13 +118,26 @@
         "MoWeEd Track": "Our House",
         "MoWeEd Artists": [
             "Fareed Hague"
-        ]
+        ],
+        "Result Track Name": "Our House",
+        "Result Artist Names": [
+            "Fareed Haque"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2mKq3Zy7PeCXOfTZKQHfB0",
+        "Result Album Name": "Deja Vu"
     },
     {
         "MoWeEd Track": "Déjà Vu",
         "MoWeEd Artists": [
             "Fareed Hague"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Support the Troops, But Drop the Rhetoric",
@@ -115,13 +155,29 @@
         "MoWeEd Track": "Callas",
         "MoWeEd Artists": [
             "Stefano Battaglia"
-        ]
+        ],
+        "Result Track Name": "Callas",
+        "Result Artist Names": [
+            "Stefano Battaglia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15ckfYndj1JCTluiZLWNNq",
+        "Result Album Name": "Re: Pasolini"
     },
     {
         "MoWeEd Track": "Canzone di Laura Betti",
         "MoWeEd Artists": [
             "Stefano Battaglia"
-        ]
+        ],
+        "Result Track Name": "Canzone Di Laura Betti",
+        "Result Artist Names": [
+            "Stefano Battaglia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FbIvQc8ddBYd3PM5hbFD8",
+        "Result Album Name": "Re: Pasolini"
     },
     {
         "Title": "Sex-Offender Law May Cause New Problems",
@@ -145,7 +201,15 @@
         "MoWeEd Track": "Share the Sea",
         "MoWeEd Artists": [
             "Will Bernard"
-        ]
+        ],
+        "Result Track Name": "Share the Sea",
+        "Result Artist Names": [
+            "Will Bernard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6t2WsK40BcvHrSSSy1bqXf",
+        "Result Album Name": "Party Hats"
     },
     {
         "Title": "Revisiting Rare Tracks with Emmylou Harris",
@@ -157,6 +221,14 @@
         "MoWeEd Track": "Fire and Water",
         "MoWeEd Artists": [
             "Buddy Miller"
-        ]
+        ],
+        "Result Track Name": "Fire and Water",
+        "Result Artist Names": [
+            "Buddy Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RKSL6cIdkxl8Jhr2LYbUL",
+        "Result Album Name": "Universal United House of Prayer"
     }
 ]

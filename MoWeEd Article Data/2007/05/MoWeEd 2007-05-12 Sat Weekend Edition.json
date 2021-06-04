@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2007-05-12",
         "Day": "Sat",
-        "Scanned Date": "2021-06-02 13:48:47"
+        "Scanned Date": "2021-06-02 13:48:47",
+        "Playlist URI": "2FVAocUrb2paZcPsR43Y0s",
+        "Playlist Link": "https://open.spotify.com/playlist/2FVAocUrb2paZcPsR43Y0s",
+        "Snapshot ID": "MSw5OGQxOGY0OTFiZjhlZTFlZDYyNGM1ZjgyZGUwNTFkYzU3Nzg2ZjAw",
+        "Playlist Name": "MoWeEd 2007-05-12 Sat Weekend Edition"
     },
     {
         "Title": "Victims Remembered at Virginia Tech Graduation",
@@ -28,13 +32,23 @@
         "MoWeEd Track": "River Man, song",
         "MoWeEd Artists": [
             "Christopher O'Riley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Fly, song",
         "MoWeEd Artists": [
             "Christopher O'Riley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Firefighters Save Catalina Island Town",
@@ -58,7 +72,15 @@
         "MoWeEd Track": "Bell Hop",
         "MoWeEd Artists": [
             "Carey Bell"
-        ]
+        ],
+        "Result Track Name": "Bell Hop",
+        "Result Artist Names": [
+            "Carey Bell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YMQcI7RGd3aVIEPtMYApU",
+        "Result Album Name": "Good Luck Man"
     },
     {
         "Title": "Catholic Church Losing Ground in Latin America",
@@ -70,7 +92,15 @@
         "MoWeEd Track": "Bell Hop",
         "MoWeEd Artists": [
             "Carey Bell"
-        ]
+        ],
+        "Result Track Name": "Bell Hop",
+        "Result Artist Names": [
+            "Carey Bell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YMQcI7RGd3aVIEPtMYApU",
+        "Result Album Name": "Good Luck Man"
     },
     {
         "Title": "Christian Tattoo Artist Creates Religious Scenes",
@@ -82,14 +112,31 @@
         "MoWeEd Track": "Relative Is Relative",
         "MoWeEd Artists": [
             "Asembly"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Oboe Concerto, Rondo",
         "MoWeEd Artists": [
             "Nancy Ambrose King",
             "Julien Benichou"
-        ]
+        ],
+        "Result Track Name": "Oboe Concerto: III. Rondo",
+        "Result Artist Names": [
+            "Rudolf Haken",
+            "Nancy Ambrose King",
+            "Scott Oakes",
+            "Studio Orchestra",
+            "Julien Benichou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:428BZ53CHhjqSoVzvgJlwV",
+        "Result Album Name": "Haken, R.: 5-String Viola Concerto / Clarinet Concerto / Oboe Concerto"
     },
     {
         "Title": "A Mother's Muse Breaks Away",
@@ -107,14 +154,31 @@
         "MoWeEd Track": "Heather's Song",
         "MoWeEd Artists": [
             "Andy Mckee"
-        ]
+        ],
+        "Result Track Name": "Heather's Song",
+        "Result Artist Names": [
+            "Andy McKee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0IckBeArn5uLK96ddfW8zK",
+        "Result Album Name": "Dreamcatcher"
     },
     {
         "MoWeEd Track": "Robin's Nest",
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dPxSiSc0OxvcdbAroHspU",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "Week in Review: Iraq Funding, Blair Stepping Down",
@@ -138,13 +202,29 @@
         "MoWeEd Track": "Little Star",
         "MoWeEd Artists": [
             "The Elegants"
-        ]
+        ],
+        "Result Track Name": "Little Star",
+        "Result Artist Names": [
+            "The Elegants"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3c7KT5CN8uYRaK3xThhdYt",
+        "Result Album Name": "Little Star: The Best Of The Elegants"
     },
     {
         "MoWeEd Track": "Swinging on a Star",
         "MoWeEd Artists": [
             "Joe Augustine"
-        ]
+        ],
+        "Result Track Name": "Swinging on a Star",
+        "Result Artist Names": [
+            "Joe Higgins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3NUjMXOONjWxlMVNowogWr",
+        "Result Album Name": "Home is Where the Heart Is"
     },
     {
         "Title": "Sudanese Return Home to Rebuild Juba",
@@ -174,7 +254,19 @@
         "MoWeEd Track": "Satin Doll",
         "MoWeEd Artists": [
             "Billy Strayhorn"
-        ]
+        ],
+        "Result Track Name": "Satin Doll",
+        "Result Artist Names": [
+            "Billy Strayhorn",
+            "Duke Ellington",
+            "Johnny Mercer",
+            "Boston Gay Men's Chorus",
+            "Reuben M. Reynolds III"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eUWWnJXcrd5WmkcufZQNl",
+        "Result Album Name": "In Need of Music"
     },
     {
         "Title": "Ooh that Smell: Designing a Stinkless Durian",
@@ -192,7 +284,16 @@
         "MoWeEd Track": "En La Tierra Que No Olvida",
         "MoWeEd Artists": [
             "Metheny Mehldau Quartet"
-        ]
+        ],
+        "Result Track Name": "En La Tierra Que No Olvida",
+        "Result Artist Names": [
+            "Pat Metheny",
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:25IjI3Uk0kLhBxSnlcaDLT",
+        "Result Album Name": "Quartet"
     },
     {
         "Title": "'Scheherazade,' 1001 Nights Retold in a Symphony",

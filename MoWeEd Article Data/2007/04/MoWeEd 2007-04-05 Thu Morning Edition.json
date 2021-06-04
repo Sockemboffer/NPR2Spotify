@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2007-04-05",
         "Day": "Thu",
-        "Scanned Date": "2021-06-02 13:51:25"
+        "Scanned Date": "2021-06-02 13:51:25",
+        "Playlist URI": "3IrXar6kTMmn6c3jdhCAQH",
+        "Playlist Link": "https://open.spotify.com/playlist/3IrXar6kTMmn6c3jdhCAQH",
+        "Snapshot ID": "MSwzZmU2Y2NkYjY3MmEwNDdkNmE5NTZkODExODY2YTliY2UwMzgyYjI4",
+        "Playlist Name": "MoWeEd 2007-04-05 Thu Morning Edition"
     },
     {
         "Title": "British Sailors Land in London",
@@ -22,13 +26,27 @@
         "MoWeEd Track": "Towards the Light",
         "MoWeEd Artists": [
             "Metheny Mehldau Quartet"
-        ]
+        ],
+        "Result Track Name": "Towards the Light",
+        "Result Artist Names": [
+            "Pat Metheny",
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2px4OhKDNrzTSe6iVQBTD5",
+        "Result Album Name": "Quartet"
     },
     {
         "MoWeEd Track": "In a Late Style of Fire",
         "MoWeEd Artists": [
             "Silence Magnifies"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Calcutta's Industrial Ambitions Clash with Tradition",
@@ -40,13 +58,26 @@
         "MoWeEd Track": "Smoke Rises Across the River",
         "MoWeEd Artists": [
             "Kronos Quartet and Asha Bhosle"
-        ]
+        ],
+        "Result Track Name": "Nodir Paare Uttchhe Dhnoa (Smoke Rises Across the River)",
+        "Result Artist Names": [
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 0.7142857142857143,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2FSscS0kaSNfVUsoevg0qJ",
+        "Result Album Name": "You've Stolen My Heart, Songs from R.D. Burman's Bollywood"
     },
     {
         "MoWeEd Track": "Take Another Toke",
         "MoWeEd Artists": [
             "Kronos Quartet and Asha Bhosle"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Will Jobs Report Predict Economy's Future?",
@@ -58,7 +89,12 @@
         "MoWeEd Track": "What Would You Rather Do",
         "MoWeEd Artists": [
             "September Sessions Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Online Project Promotes Autism Research",
@@ -76,7 +112,15 @@
         "MoWeEd Track": "Eyes In the Heat",
         "MoWeEd Artists": [
             "Viktor Krauss"
-        ]
+        ],
+        "Result Track Name": "Eyes In The Heat",
+        "Result Artist Names": [
+            "Viktor Krauss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gMBA8okrfJUXldrBlPdeg",
+        "Result Album Name": "Viktor Krauss II"
     },
     {
         "Title": "Audit of IRS Finds Security Lapses",
@@ -107,13 +151,27 @@
         "MoWeEd Artists": [
             "Harry Manx",
             "Kevin Breit"
-        ]
+        ],
+        "Result Track Name": "In Good We Trust",
+        "Result Artist Names": [
+            "Harry Manx",
+            "Kevin Breit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ZElLnZXxYVweYDiNnJKzm",
+        "Result Album Name": "In Good We Trust"
     },
     {
         "MoWeEd Track": "Thug Style",
         "MoWeEd Artists": [
             "September Sessions Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Britain Cheers Return of Sailors, Marines",
@@ -131,13 +189,30 @@
         "MoWeEd Track": "Saracen",
         "MoWeEd Artists": [
             "Jef Stott"
-        ]
+        ],
+        "Result Track Name": "Saracen - Kemanche Mix",
+        "Result Artist Names": [
+            "Jef Stott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0sHEakfTfjQPuqXBAwOXSi",
+        "Result Album Name": "SoukSonik"
     },
     {
         "MoWeEd Track": "Funky Nawari",
         "MoWeEd Artists": [
             "Jef Stott"
-        ]
+        ],
+        "Result Track Name": "Funky Nawari",
+        "Result Artist Names": [
+            "Jef Stott",
+            "Reda Darwish"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IprrYhOiaXvI0zAhTdOdd",
+        "Result Album Name": "SoukSonik"
     },
     {
         "Title": "Baltimore Police Combat 'No-Snitch' Mentality",
@@ -155,13 +230,26 @@
         "MoWeEd Track": "Morning Edition Theme",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Is There Any Reason",
         "MoWeEd Artists": [
             "Kelly Richey Band"
-        ]
+        ],
+        "Result Track Name": "Is There Any Reason",
+        "Result Artist Names": [
+            "Kelly Richey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:2weo0qItPvVotXN2ir7d3u",
+        "Result Album Name": "Speechless"
     },
     {
         "Title": "Will It Be Tiger vs. Phil at Masters?",
@@ -173,7 +261,12 @@
         "MoWeEd Track": "The Storm",
         "MoWeEd Artists": [
             "Clear Voyage"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Prods Democrats on War-Funds Bills",
@@ -197,7 +290,15 @@
         "MoWeEd Track": "Juke Joint Jump",
         "MoWeEd Artists": [
             "Elvin Bishop"
-        ]
+        ],
+        "Result Track Name": "Juke Joint Jump",
+        "Result Artist Names": [
+            "Elvin Bishop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JVWA7B2qjqyHCzR0B1LEA",
+        "Result Album Name": "Juke Joint Jump"
     },
     {
         "Title": "Theater Fans Endure, Enjoy at 'Utopia' Marathon",

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2007-01-28",
         "Day": "Sun",
-        "Scanned Date": "2021-06-02 14:03:44"
+        "Scanned Date": "2021-06-02 14:03:44",
+        "Playlist URI": "3rkcoqnxZHThGYFUHNnWTF",
+        "Playlist Link": "https://open.spotify.com/playlist/3rkcoqnxZHThGYFUHNnWTF",
+        "Snapshot ID": "MSwzZjNjMzE5NjJmY2RjZTBkMjhkZGI2OWMwMDJiZDA4YmYyNGUxMGFm",
+        "Playlist Name": "MoWeEd 2007-01-28 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,13 +32,27 @@
         "MoWeEd Track": "Prelude and Fugue No. 7 In a Major, Opus 87",
         "MoWeEd Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Prelude and Fugue No. 5 In D Major",
         "MoWeEd Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": "Preludes and Fugues for Piano, Op. 87: Prelude & Fugue No. 5 in D Major",
+        "Result Artist Names": [
+            "Dmitri Shostakovich",
+            "Keith Jarrett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Z2Ydgb3xaiX0iIHW2cJ96",
+        "Result Album Name": "Dmitri Shostakovich: 24 Preludes And Fugues, Op. 87"
     },
     {
         "Title": "Blazing a Trail for Alternative Fuels",
@@ -59,7 +77,12 @@
         "MoWeEd Artists": [
             "Philadelphia Orchestra",
             "Ormandy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Florida: Lots of Ice on Ice",
@@ -71,7 +94,15 @@
         "MoWeEd Track": "Summer Running",
         "MoWeEd Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Summer Running",
+        "Result Artist Names": [
+            "Marc Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GU3TYOPS1fZm7mxzyk9Sw",
+        "Result Album Name": "The Sound Of Summer Running"
     },
     {
         "Title": "Two Words from One",
@@ -90,14 +121,27 @@
         "MoWeEd Artists": [
             "Bethany",
             "Rufus"
-        ]
+        ],
+        "Result Track Name": "900 Miles",
+        "Result Artist Names": [
+            "Rufus Zuphall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5rpXsE76dKlFxwRAJtbatr",
+        "Result Album Name": "Outside The Gates Of Eden"
     },
     {
         "MoWeEd Track": "Forgiveness",
         "MoWeEd Artists": [
             "Bethany",
             "Rufus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Desperate Days for Iraq's Ambulance Drivers",
@@ -121,7 +165,15 @@
         "MoWeEd Track": "Like It Never Was",
         "MoWeEd Artists": [
             "Drew Gress' 7 Black Butterflies"
-        ]
+        ],
+        "Result Track Name": "Like It Never Was",
+        "Result Artist Names": [
+            "Drew Gress"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:31FHziPBFd6he8s5nGrl4P",
+        "Result Album Name": "7 Black Butterflies"
     },
     {
         "Title": "Intel Plans Smaller, Faster Computer Chip",
@@ -152,7 +204,15 @@
         "MoWeEd Artists": [
             "Katché",
             "Manu"
-        ]
+        ],
+        "Result Track Name": "November 99",
+        "Result Artist Names": [
+            "Manu Katché"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yb3CA5cygcmSxPk7WLQbv",
+        "Result Album Name": "Neighbourhood"
     },
     {
         "Title": "Letters: Oil Subsidies, Banjo Music",
@@ -165,7 +225,12 @@
         "MoWeEd Artists": [
             "Tony Trischka",
             "Steve Martin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Captive Audience for Subway Hip-Hop",
@@ -183,6 +248,14 @@
         "MoWeEd Track": "Number One",
         "MoWeEd Artists": [
             "Manu Katche"
-        ]
+        ],
+        "Result Track Name": "Number One",
+        "Result Artist Names": [
+            "Manu Katché"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1iyOD2uDn8ydcZR2avZrwv",
+        "Result Album Name": "Neighbourhood"
     }
 ]

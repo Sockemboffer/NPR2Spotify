@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2007-08-16",
         "Day": "Thu",
-        "Scanned Date": "2021-06-02 13:39:08"
+        "Scanned Date": "2021-06-02 13:39:08",
+        "Playlist URI": "0dGnXQO3DCzLlnvldKfP1f",
+        "Playlist Link": "https://open.spotify.com/playlist/0dGnXQO3DCzLlnvldKfP1f",
+        "Snapshot ID": "MSw0NzlkMjcwNTY3ODEyZTM2NDNkM2E4NGM0OGJiMDNjNTJkZTQyMGMw",
+        "Playlist Name": "MoWeEd 2007-08-16 Thu Morning Edition"
     },
     {
         "Title": "Engineers in New Orleans Test Levees",
@@ -28,14 +32,31 @@
         "MoWeEd Track": "Deep Six",
         "MoWeEd Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Deep Six",
+        "Result Artist Names": [
+            "Oregon",
+            "Paul McCandless",
+            "Mark Walker",
+            "Ralph Towner",
+            "Glen Moore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wL9wSmHQXJqkCrKum9vno",
+        "Result Album Name": "1000 Kilometers"
     },
     {
         "MoWeEd Track": "Burning Love",
         "MoWeEd Artists": [
             "Ettore Stratta and the Memphis Symphony Orchestra",
             "Charlie McCoy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pakistan's Media Raises Its Voice",
@@ -48,14 +69,30 @@
         "MoWeEd Artists": [
             "Benjy Wertheimer",
             "Michael Mandrell"
-        ]
+        ],
+        "Result Track Name": "Road Dogs (Guitar-Tabla Improv)",
+        "Result Artist Names": [
+            "Benjy Wertheimer and Michael Mandrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fBoANkJPMmpJoZU8Skn3s",
+        "Result Album Name": "Notes from Celtistan"
     },
     {
         "MoWeEd Track": "Montuno",
         "MoWeEd Artists": [
             "Benjy Wertheimer",
             "Michael Mandrell"
-        ]
+        ],
+        "Result Track Name": "Montuno",
+        "Result Artist Names": [
+            "Benjy Wertheimer and Michael Mandrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5hQ1kJXT5UefMbls4Zj2Gz",
+        "Result Album Name": "Notes from Celtistan"
     },
     {
         "Title": "Federal Cuts Prompt L.A. Hospital to Close ",
@@ -67,13 +104,29 @@
         "MoWeEd Track": "Night White",
         "MoWeEd Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Night White",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zRc259pg9Ia2MQI8pMDQE",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "MoWeEd Track": "untitled",
         "MoWeEd Artists": [
             "Emily Howell"
-        ]
+        ],
+        "Result Track Name": "Untitled",
+        "Result Artist Names": [
+            "Emily Montes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:32iWfmMlXdLQZgi24TUpjK",
+        "Result Album Name": "Emily Montes"
     },
     {
         "Title": "Parents Fight for Autism Insurance Coverage",
@@ -93,7 +146,12 @@
             "Ettore Stratta and the Memphis Symphony Orchestra",
             "Scotty Moore",
             "Brent Rowan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Main South Korean Stock Index Plunges",
@@ -123,7 +181,15 @@
         "MoWeEd Track": "Blue Christmas",
         "MoWeEd Artists": [
             "Joe Perry"
-        ]
+        ],
+        "Result Track Name": "Blue Christmas",
+        "Result Artist Names": [
+            "Joe Perry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Qi7LjcFKFnSrqoXUEPxk5",
+        "Result Album Name": "Merry Axemas - A Guitar Christmas"
     },
     {
         "MoWeEd Track": "Heartbreak Hotel",
@@ -131,7 +197,12 @@
             "Ettore Stratta and the Memphis Symphony Orchestra",
             "Boots Randolph",
             "Scotty Moore"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Surveillance Lawsuits Tricky to Prosecute",
@@ -149,13 +220,26 @@
         "MoWeEd Track": "Suspicious Minds",
         "MoWeEd Artists": [
             "Ettore Stratta and the Memphis Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Hungry Ghosts",
         "MoWeEd Artists": [
             "Club D'elf"
-        ]
+        ],
+        "Result Track Name": "Hungry Ghosts",
+        "Result Artist Names": [
+            "Club d'Elf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kARC61gXQJANeQHBIbiTj",
+        "Result Album Name": "Now I Understand"
     },
     {
         "Title": "NASA to Decide Endeavour Repair",
@@ -173,7 +257,15 @@
         "MoWeEd Track": "El Pico",
         "MoWeEd Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "El Pico",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tXcS1gWs0gGk4vB1wx9W4",
+        "Result Album Name": "Ratatat"
     },
     {
         "Title": "Calif. Budget Impasse Imperils Clinics, Child Care",
@@ -197,13 +289,26 @@
         "MoWeEd Track": "Child See the Rider",
         "MoWeEd Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Child See the Rider",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YNQyWzYa4rkrPBwYiVnxC",
+        "Result Album Name": "Nightbird"
     },
     {
         "MoWeEd Track": "Surrender - It's Now or Never",
         "MoWeEd Artists": [
             "Ettore Stratta and the Memphis Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Singer Brings a Modern Sound to Chinese Jazz",

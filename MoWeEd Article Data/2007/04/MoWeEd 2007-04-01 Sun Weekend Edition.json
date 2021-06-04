@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2007-04-01",
         "Day": "Sun",
-        "Scanned Date": "2021-06-02 13:50:59"
+        "Scanned Date": "2021-06-02 13:50:59",
+        "Playlist URI": "6twneWIZrpcinzO3PZlAoS",
+        "Playlist Link": "https://open.spotify.com/playlist/6twneWIZrpcinzO3PZlAoS",
+        "Snapshot ID": "MSwxNjE0ODAwYzJlYTU0ZjYxNDlhOThhZDUwNjYxMzlhYzdlNzdhM2Nl",
+        "Playlist Name": "MoWeEd 2007-04-01 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Miracle Mile",
         "MoWeEd Artists": [
             "Pompeii"
-        ]
+        ],
+        "Result Track Name": "Miracle Mile",
+        "Result Artist Names": [
+            "Pompeii"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7bFLHicJBoKVKfp8Iyttko",
+        "Result Album Name": "Assembly"
     },
     {
         "MoWeEd Track": "Angel",
         "MoWeEd Artists": [
             "Massive Attack"
-        ]
+        ],
+        "Result Track Name": "Angel",
+        "Result Artist Names": [
+            "Massive Attack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7uv632EkfwYhXoqf8rhYrg",
+        "Result Album Name": "Mezzanine"
     },
     {
         "Title": "Atlanta Hosts Lively 'Final Four' Crowds",
@@ -66,7 +86,15 @@
             "José González",
             "González",
             "José"
-        ]
+        ],
+        "Result Track Name": "Hints",
+        "Result Artist Names": [
+            "José González"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Xc243cF8DZPTmOq93Gvz5",
+        "Result Album Name": "Veneer"
     },
     {
         "Title": "'Perplexing Puzzlers' for April Fool's Day",
@@ -90,7 +118,15 @@
         "MoWeEd Track": "Hanazono",
         "MoWeEd Artists": [
             "Jazzanova"
-        ]
+        ],
+        "Result Track Name": "Hanazono",
+        "Result Artist Names": [
+            "Jazzanova"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Anag1IT5dDqM8X7mJOltm",
+        "Result Album Name": "Beautiful Field - Revisited -"
     },
     {
         "Title": "Political Roundup: Pelosi in Syria, Iraq Debate",
@@ -114,13 +150,29 @@
         "MoWeEd Track": "Tayata Om Bhaykandze",
         "MoWeEd Artists": [
             "Sizu Yantra"
-        ]
+        ],
+        "Result Track Name": "Tayata Om Bhaykandze Bhaykandze maha Bhaykandze Randza Samugate Soha",
+        "Result Artist Names": [
+            "Sizu Yantra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:631f51vw32pyvFZVD22xE1",
+        "Result Album Name": "Bienvenido Al Sueño"
     },
     {
         "MoWeEd Track": "Psykini",
         "MoWeEd Artists": [
             "Sizu Yantra"
-        ]
+        ],
+        "Result Track Name": "Psykini",
+        "Result Artist Names": [
+            "Sizu Yantra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:26JGfcNEBrHThkjVtLGWYY",
+        "Result Album Name": "Bienvenido Al Sueño (Exclusive) [Real Rhapsody]"
     },
     {
         "Title": "South Africa Absorbs Zimbabwe Refugees",
@@ -132,7 +184,12 @@
         "MoWeEd Track": "Kapitotsy",
         "MoWeEd Artists": [
             "D'Gary"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Orchestrating Goodwill for Northern Ireland",
@@ -145,7 +202,17 @@
         "MoWeEd Artists": [
             "Camerata Ireland",
             "Barry Douglas"
-        ]
+        ],
+        "Result Track Name": "Concerto for Violin, Cello and Piano \"Triple Concerto\" Op. 56: I. Allegro",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Barry Douglas",
+            "Camerata Ireland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fOpiOk99bpxxBtRolnxrv",
+        "Result Album Name": "Beethoven: Piano Concertos Nos 1-5"
     },
     {
         "Title": "A Country Store Shuts Its Doors",
@@ -163,7 +230,15 @@
         "MoWeEd Track": "Otis",
         "MoWeEd Artists": [
             "The Durutti Column"
-        ]
+        ],
+        "Result Track Name": "Otis",
+        "Result Artist Names": [
+            "The Durutti Column"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7A2yhrdnFspRjpX8RC8UW1",
+        "Result Album Name": "Vini Reilly"
     },
     {
         "Title": "The Local Debate over Spaceport America",
@@ -193,6 +268,14 @@
         "MoWeEd Track": "Baby Let Me Hold Your Hand",
         "MoWeEd Artists": [
             "Sex Mob"
-        ]
+        ],
+        "Result Track Name": "Baby Let Me Hold Your Hand",
+        "Result Artist Names": [
+            "Sex Mob"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20tlOqIdPOvQWjZmog0nux",
+        "Result Album Name": "Dime Grind Palace"
     }
 ]

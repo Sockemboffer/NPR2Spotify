@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2007-09-16",
         "Day": "Sun",
-        "Scanned Date": "2021-06-02 13:36:04"
+        "Scanned Date": "2021-06-02 13:36:04",
+        "Playlist URI": "5l73hlaEXxeOKXNrJPaHLC",
+        "Playlist Link": "https://open.spotify.com/playlist/5l73hlaEXxeOKXNrJPaHLC",
+        "Snapshot ID": "MSxmYTJkMTlhNzllYzE5MTQ3ZDUwNTFkMWFmZTg1MTI5OWY4Y2JhNjk4",
+        "Playlist Name": "MoWeEd 2007-09-16 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -28,7 +32,15 @@
         "MoWeEd Track": "JULIE-O",
         "MoWeEd Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Julie-O",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LouPkBV9O3DNg7EuXDiYC",
+        "Result Album Name": "Metropolis"
     },
     {
         "Title": "Publicly Funded Hebrew Charter School Opens in Fla.",
@@ -58,7 +70,15 @@
         "MoWeEd Track": "White Fang",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "White Fang",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Q7XKjSQrOvw5F1uIEymF1",
+        "Result Album Name": "Unspeakable"
     },
     {
         "Title": "Most Valuable Puzzle",
@@ -76,13 +96,30 @@
         "MoWeEd Track": "Tribute to Bud",
         "MoWeEd Artists": [
             "Lalo Schifrin"
-        ]
+        ],
+        "Result Track Name": "A Tribute to Bud",
+        "Result Artist Names": [
+            "Lalo Schifrin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:698T2bDN6YyAGoMmPSJryM",
+        "Result Album Name": "Lalo Schifrin and Friends"
     },
     {
         "MoWeEd Track": "Solamente una Vez (You Belong to My Heart)",
         "MoWeEd Artists": [
             "Charlie Haden"
-        ]
+        ],
+        "Result Track Name": "Solamente Una Vez (You Belong To My Heart)",
+        "Result Artist Names": [
+            "Charlie Haden",
+            "Gonzalo Rubalcaba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ADxFUW7aMIgrg4dMxLyzD",
+        "Result Album Name": "Tokyo Adagio"
     },
     {
         "Title": "Al-Sadr Loyalists Defect from Iraq Shiite Alliance",
@@ -106,7 +143,15 @@
         "MoWeEd Track": "Wanderlust",
         "MoWeEd Artists": [
             "Jerry Granelli"
-        ]
+        ],
+        "Result Track Name": "Wanderlust",
+        "Result Artist Names": [
+            "Jerry Granelli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77u9F2asVJG3xXKFAQz7Lw",
+        "Result Album Name": "A Song I Thought I Heard Buddy Sing (feat. Kenny Garrett, Julian Priester, Bill Frisell, Robben Ford & Anthony Cox)"
     },
     {
         "Title": "Campaign Songs Then and Now",
@@ -124,7 +169,12 @@
         "MoWeEd Track": "Selling of Waternish",
         "MoWeEd Artists": [
             "Kirk McLeod"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kentucky Auction Features Vintage Cars, Memories",
@@ -136,7 +186,12 @@
         "MoWeEd Track": "Droneland",
         "MoWeEd Artists": [
             "David Borden"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Teaching a Bad Dog New Tricks",
@@ -154,6 +209,11 @@
         "MoWeEd Track": "Hound Dog",
         "MoWeEd Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

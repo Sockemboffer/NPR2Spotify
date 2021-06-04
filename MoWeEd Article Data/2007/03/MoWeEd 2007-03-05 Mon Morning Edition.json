@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2007-03-05",
         "Day": "Mon",
-        "Scanned Date": "2021-06-02 13:54:39"
+        "Scanned Date": "2021-06-02 13:54:39",
+        "Playlist URI": "2Wo0KZZjpFNo00GseN6kjs",
+        "Playlist Link": "https://open.spotify.com/playlist/2Wo0KZZjpFNo00GseN6kjs",
+        "Snapshot ID": "MSwxYWNiN2M0ZDQ0OWVkOTRiZjdiYWIzNmVjZWViZjZhYjQxNDFmYWM1",
+        "Playlist Name": "MoWeEd 2007-03-05 Mon Morning Edition"
     },
     {
         "Title": "Afghan President Decries Attack, Civilian Deaths",
@@ -29,13 +33,26 @@
         "MoWeEd Artists": [
             "Milcho Leviev",
             "Bruce Stark"
-        ]
+        ],
+        "Result Track Name": "Night Mood",
+        "Result Artist Names": [
+            "Milcho Leviev"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2MXkqWhY76RizSM2EuDyeT",
+        "Result Album Name": "Milcho Leviev Chamber music"
     },
     {
         "MoWeEd Track": "King Bassie (To Count Basie)",
         "MoWeEd Artists": [
             "Milcho Leviev"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sam Brownback, 'Bleeding-Heart Conservative'",
@@ -49,14 +66,34 @@
             "Yo-Yo Ma",
             "Edgar Meyer",
             "Mark O'Connor"
-        ]
+        ],
+        "Result Track Name": "1B",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Yo-Yo Ma",
+            "Mark O'Connor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3T68Z2a7swJ2RAMBeLaa3o",
+        "Result Album Name": "Appalachian Journey"
     },
     {
         "MoWeEd Track": "Emily's Reel",
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Edgar Meyer et. al."
-        ]
+        ],
+        "Result Track Name": "Emily's Reel",
+        "Result Artist Names": [
+            "Mark O'Connor",
+            "Yo-Yo Ma",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NOfmEnrbuezkCOZJlQMIJ",
+        "Result Album Name": "Heartland: An Appalachian Anthology"
     },
     {
         "Title": "Researchers Investigate Weight-Puberty Link",
@@ -69,13 +106,31 @@
         "MoWeEd Artists": [
             "Anger",
             "Marshall Band"
-        ]
+        ],
+        "Result Track Name": "Goodnight Manatee",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Darol Anger",
+            "The Darol Anger / Mike Marshall Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3aCOfhesLuf9WhAk1uh0UZ",
+        "Result Album Name": "Brand New Can"
     },
     {
         "MoWeEd Track": "Shearing",
         "MoWeEd Artists": [
             "Luiz Bonfá"
-        ]
+        ],
+        "Result Track Name": "Shearing",
+        "Result Artist Names": [
+            "Luiz Bonfá"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vSBxuEQbUp1IIobWdHjhp",
+        "Result Album Name": "Solo in Rio 1959"
     },
     {
         "Title": "Political Questions Surround Prosecutor's Firing",
@@ -99,13 +154,26 @@
         "MoWeEd Track": "Moment Alone",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Leave a Tender Moment Alone",
+        "Result Artist Names": [
+            "Billy Joel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Qw41GUmS4rF7GR3am9Rt6",
+        "Result Album Name": "An Innocent Man"
     },
     {
         "MoWeEd Track": "Swamp Dream",
         "MoWeEd Artists": [
             "Roy Rogers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Asian Stock Markets Resume Decline",
@@ -135,13 +203,26 @@
         "MoWeEd Track": "House Growl",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Sound of House Rabbits' Growl",
+        "Result Artist Names": [
+            "White Noise Meditation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mJhaTOrFUa5CTLBDdEOmC",
+        "Result Album Name": "Sound of House Rabbits' Growl"
     },
     {
         "MoWeEd Track": "All in Love Is Fair",
         "MoWeEd Artists": [
             "Slide Hampton and the World of Trombones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Selma, Democratic Hopefuls Court the Black Vote",
@@ -159,13 +240,29 @@
         "MoWeEd Track": "Me Piano",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "PRODUCE 101: PICK ME (Piano Ver.)",
+        "Result Artist Names": [
+            "PRODUCE 101"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37pLXKZZKoeXXDYS7dREa0",
+        "Result Album Name": "PRODUCE 101: PICK ME (Piano Ver.)"
     },
     {
         "MoWeEd Track": "Green Screen",
         "MoWeEd Artists": [
             "The New Jersey Kings"
-        ]
+        ],
+        "Result Track Name": "Green Screen",
+        "Result Artist Names": [
+            "New Jersey Kings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:6b6Y6eHOBfUrZmfdps39lh",
+        "Result Album Name": "Acid Jazz Presents Riot on 103rd Street: Funk"
     },
     {
         "Title": "U.N. Nuclear Agency Meets to Discuss Iran",
@@ -189,13 +286,29 @@
         "MoWeEd Track": "Wake and Bake",
         "MoWeEd Artists": [
             "Four80East"
-        ]
+        ],
+        "Result Track Name": "Wake and Bake",
+        "Result Artist Names": [
+            "Four80East"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7wxRvLfgMURoPsCHhpXwVu",
+        "Result Album Name": "Nocturnal"
     },
     {
         "MoWeEd Track": "Shakedown",
         "MoWeEd Artists": [
             "Four80East"
-        ]
+        ],
+        "Result Track Name": "Shakedown",
+        "Result Artist Names": [
+            "Four80East"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bGfIHxqEESJVMsGVGP5ts",
+        "Result Album Name": "Nocturnal"
     },
     {
         "Title": "U.S. Shifts Policy on Talking to Enemies",
@@ -219,13 +332,23 @@
         "MoWeEd Track": "Pleasures of Home",
         "MoWeEd Artists": [
             "Winifred Horan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "9 Points of Roguery/crowleys",
         "MoWeEd Artists": [
             "Winifred Horan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Allen Shawn's 'Notes from a Phobic Life'",
@@ -237,13 +360,31 @@
         "MoWeEd Track": "Piano Concerto #2",
         "MoWeEd Artists": [
             "Albany Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Piano Concerto No. 2: III",
+        "Result Artist Names": [
+            "Benjamin Lees",
+            "Albany Symphony Orchestra",
+            "David Alan Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HjkxNeF8yvRtsohoKYM94",
+        "Result Album Name": "Shawn/Lees"
     },
     {
         "MoWeEd Track": "Edge Hill",
         "MoWeEd Artists": [
             "Groove Armada"
-        ]
+        ],
+        "Result Track Name": "Edge Hill",
+        "Result Artist Names": [
+            "Groove Armada"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mf8jY9FsGCAuWwJMmKIzF",
+        "Result Album Name": "Goodbye Country (Hello Nightclub)"
     },
     {
         "Title": "Angry Italian Father Attacks School Principal",

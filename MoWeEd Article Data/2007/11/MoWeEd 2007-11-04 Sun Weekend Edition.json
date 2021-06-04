@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2007-11-04",
         "Day": "Sun",
-        "Scanned Date": "2021-06-02 12:55:50"
+        "Scanned Date": "2021-06-02 12:55:50",
+        "Playlist URI": "6Sq4IJXVBksQXO3Vg8fYdM",
+        "Playlist Link": "https://open.spotify.com/playlist/6Sq4IJXVBksQXO3Vg8fYdM",
+        "Snapshot ID": "MSw2ZDM0MzQxMmI5N2VhYTU4ODYxNGQzNzhiNDE0YTljMGFjOTQzYTg4",
+        "Playlist Name": "MoWeEd 2007-11-04 Sun Weekend Edition"
     },
     {
         "Title": "Voices in the News",
@@ -29,7 +33,12 @@
         "MoWeEd Artists": [
             "Europa Galante",
             "Fabio Biondi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Hampshire GOP Looks Anew at Candidates",
@@ -53,13 +62,29 @@
         "MoWeEd Track": "Without A Word",
         "MoWeEd Artists": [
             "String Planet"
-        ]
+        ],
+        "Result Track Name": "Without A Word",
+        "Result Artist Names": [
+            "String Planet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yPl3xYG5ZByxkSnMtJ5J9",
+        "Result Album Name": "String Planet"
     },
     {
         "MoWeEd Track": "Without A Word",
         "MoWeEd Artists": [
             "String Planet"
-        ]
+        ],
+        "Result Track Name": "Without A Word",
+        "Result Artist Names": [
+            "String Planet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yPl3xYG5ZByxkSnMtJ5J9",
+        "Result Album Name": "String Planet"
     },
     {
         "Title": "Designated Hitters",
@@ -83,7 +108,15 @@
         "MoWeEd Track": "Rat Pack [Instrumental]",
         "MoWeEd Artists": [
             "Brian Setzer"
-        ]
+        ],
+        "Result Track Name": "Rat Pack Boogie",
+        "Result Artist Names": [
+            "Brian Setzer"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0GHR2lsbS68GqRHX3psLwk",
+        "Result Album Name": "Rat Pack Boogie"
     },
     {
         "Title": "U.S. Response to Pakistan",
@@ -107,13 +140,23 @@
         "MoWeEd Track": "Deep in the Clouds",
         "MoWeEd Artists": [
             "Paul Rutman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Jin Ke on the River",
         "MoWeEd Artists": [
             "Paul Rutman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Kurds Turn Out in Protest",
@@ -137,7 +180,15 @@
         "MoWeEd Track": "Gimme a Holler",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Gimme a Holler",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lVM3C4INRCFfBPATyWw7X",
+        "Result Album Name": "Nashville"
     },
     {
         "Title": "Letters from Listeners",
@@ -149,7 +200,15 @@
         "MoWeEd Track": "Upper Egypt",
         "MoWeEd Artists": [
             "Zony Mash"
-        ]
+        ],
+        "Result Track Name": "Upper Egypt",
+        "Result Artist Names": [
+            "Zony Mash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RXavOTxaZOxDCGqPU1GpJ",
+        "Result Album Name": "Live in Seattle"
     },
     {
         "Title": "The Celtic Journeys of Loreena McKennitt",
@@ -161,6 +220,11 @@
         "MoWeEd Track": "Araesque [From Deux Arabesques]",
         "MoWeEd Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
