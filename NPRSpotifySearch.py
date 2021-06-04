@@ -9,6 +9,11 @@ from unidecode import unidecode
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 from difflib import SequenceMatcher
+from ratelimit import limits, RateLimitException
+from backoff import on_exception, expo
+
+NUMBER_OF_CALLS = 15
+IN_SECONDS = 3
 
 # TODO create a way to make corrections and updates
     # TODO listener sends track correction (incorrect song, incorrect rendition), same as above
@@ -121,9 +126,6 @@ class NPRSpotifySearch:
                                 bestMatch["Result Track-Match Percent"] = 1.0
                                 bestMatch["Result Artists-Match Percent"] = 1.0
                                 bestMatch["Result Track URI"] = item["uri"]
-                                # print("--------- Best Match Found ----------")
-                                # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
-                                # print("    ---------   End   ----------")
                                 return bestMatch
                             # Fun weighting(?) results-land
                             else:
@@ -147,9 +149,6 @@ class NPRSpotifySearch:
                                         bestMatch["Result Track-Match Percent"] = trackMatchScore
                                         bestMatch["Result Artists-Match Percent"] = artistsMatchScore
                                         bestMatch["Result Track URI"] = item["uri"]
-            # print("--------- Best Match ----------")
-            # print(json.dumps(bestMatch, indent=4, sort_keys=True, ensure_ascii=False))
-            # print("---------    End     ----------")
             return bestMatch
 
     def RemoveBrackets(self, track):
@@ -182,26 +181,39 @@ class NPRSpotifySearch:
 
     # Explicit Track or Artist means I define a type encoded in what I send: eg. track:"Smells like teen spirit" artist:"Nirvana"
     # without those it can mean different results, etc.
+    # TODO better names
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchExplicitTrackAndArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
-        # time.sleep(0.05) # Don't hammer their server
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         return response.json()
     
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchImplicitTrackExplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
-        # time.sleep(0.05) # Don't hammer their server
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         return response.json()
 
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchImplicitTrackImplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + '"' + artist + '"'))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
-        # time.sleep(0.05) # Don't hammer their server
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         return response.json()
 
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchImplicitTrackAndArtistCombined(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=5".format(parse.quote(str(track + " AND " + artist)))
         response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
-        # time.sleep(0.05) # Don't hammer their server
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         return response.json()

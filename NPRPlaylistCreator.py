@@ -5,8 +5,12 @@ import datetime
 import Secrets
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
+from ratelimit import limits, RateLimitException
+from backoff import on_exception, expo
 
-# TODO figure out a way to re-make a session that times out
+NUMBER_OF_CALLS = 11
+IN_SECONDS = 3
+
 class NPRPlaylistCreator:
 
     def __init__(self):
@@ -15,15 +19,20 @@ class NPRPlaylistCreator:
         self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries, pool_maxsize=25))
         self.secretsSession = Secrets.Secrets()
 
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def CreatePlaylist(self, playlistName):
         # Playlist name limit is 100 char
         request_body = json.dumps({"name": playlistName, "public": False})
         query = "https://api.spotify.com/v1/users/{}/playlists".format(self.secretsSession.spotify_user_id)
         response = self.requestSession.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
-        response_json = response.json()
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         print("-- Playlist created.")
-        return response_json
+        return response.json()
 
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def AddTracksToPlaylist(self, editionDayData):
         tracksURIs = list()
         for item in editionDayData:
@@ -35,9 +44,13 @@ class NPRPlaylistCreator:
         urisData["uris"] = tracksURIs
         request_data = json.dumps(urisData)
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
-        self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        response = self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         print("-- Playlist tracks added.")
-    
+
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def ReplaceTracksInPlaylist(self, editionDayData):
         tracksURIs = list()
         for item in editionDayData:
@@ -50,18 +63,26 @@ class NPRPlaylistCreator:
         request_data = json.dumps(urisData)
         query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
         response = self.requestSession.put(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         response_json = response.json()
         editionDayData[0]["Snapshot ID"] = response_json["snapshot_id"]
         print("-- Playlist tracks replaced.")
         return editionDayData
 
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def AddCoverArtToPlaylist(self, editionDayData):
         encoded_string = NPRPlaylistCreator.GetNewCover(editionDayData[0]["Day"])
         query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(self.secretsSession.spotify_user_id, editionDayData[0]['Playlist URI']) 
-        self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken()), "Content-Type": "image/jpeg"})
+        response = self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken()), "Content-Type": "image/jpeg"})
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         print("-- Playlist cover image added.")
 
     # playlist descriptions have a 300 char limit
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def UpdatePlaylistDescription(self, editionDayData):
         missedTracksList = list()
         foundTracks = list()
@@ -86,7 +107,9 @@ class NPRPlaylistCreator:
         newDescription["description"] += "💻 https://www.github.com/Sockemboffer/NPR2Spotify "
         newDescription["description"] += "Created: " + str(datetime.datetime.now().__format__("%Y-%m-%d")) + " 🌎👩🏽‍🤝‍👩🏿👨🏻‍🤝‍👨🏼👫🏻🧑🏻‍🤝‍🧑🏾👭🏼👫🏽👭👬🏿👬🏼🧑🏻‍🤝‍🧑🏿🧑🏿‍🤝‍🧑🏿👫👩🏻‍🤝‍🧑🏽‍🤝‍🧑🏾👫🏿"
         query = "https://api.spotify.com/v1/playlists/{}".format(editionDayData[0]['Playlist URI'])
-        self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        response = self.requestSession.put(query, json.dumps(newDescription), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        if response.status_code not in [200, 201, 202]:
+            raise Exception('API response: {}'.format(response.status_code))
         print("-- Playlist description updated.")
 
     def GetNewCover(day):
