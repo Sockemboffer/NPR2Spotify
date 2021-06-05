@@ -8,8 +8,8 @@ from requests.packages.urllib3.util.retry import Retry
 from ratelimit import limits, RateLimitException
 from backoff import on_exception, expo
 
-NUMBER_OF_CALLS = 11
-IN_SECONDS = 3
+NUMBER_OF_CALLS = 1
+IN_SECONDS = 1
 
 class NPRPlaylistCreator:
 

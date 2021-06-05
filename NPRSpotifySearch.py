@@ -12,8 +12,8 @@ from difflib import SequenceMatcher
 from ratelimit import limits, RateLimitException
 from backoff import on_exception, expo
 
-NUMBER_OF_CALLS = 15
-IN_SECONDS = 3
+NUMBER_OF_CALLS = 5
+IN_SECONDS = 1
 
 # TODO create a way to make corrections and updates
     # TODO listener sends track correction (incorrect song, incorrect rendition), same as above
