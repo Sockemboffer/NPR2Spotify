@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2008-03-30",
         "Day": "Sun",
-        "Scanned Date": "2021-06-04 11:38:06"
+        "Scanned Date": "2021-06-04 11:38:06",
+        "Playlist URI": "741gbZgsoJV1pzhSLozeww",
+        "Playlist Link": "https://open.spotify.com/playlist/741gbZgsoJV1pzhSLozeww",
+        "Snapshot ID": "MSw3ODdmYzNiZDY0NGI0M2I4ODVmMWU4OGEzNWZjNzgzOTY4YWY3NTk5",
+        "Playlist Name": "MoWeEd 2008-03-30 Sun Weekend Edition"
     },
     {
         "Title": "Fed May Get New Oversight Authority",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "The Child Within",
         "MoWeEd Artists": [
             "Make Garson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Song For Susan",
         "MoWeEd Artists": [
             "Mike Garson"
-        ]
+        ],
+        "Result Track Name": "Song for Susan",
+        "Result Artist Names": [
+            "Mike Garson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bXqTLV9smxBtkKNtdgMKd",
+        "Result Album Name": "Conversations with My Family"
     },
     {
         "Title": "Does Basra Reflect a Defining Moment in War?",
@@ -52,7 +69,12 @@
         "MoWeEd Track": "String Quartet No. 3 (\"...songs Are Sung\"), Op. 67",
         "MoWeEd Artists": [
             "Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "50 Years Later, Rod Serling's Play Is Performed",
@@ -64,7 +86,12 @@
         "MoWeEd Track": "Samba Novo",
         "MoWeEd Artists": [
             "Los Angeles Guitar Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Getting in the Swing 'of' Things",
@@ -88,7 +115,20 @@
         "MoWeEd Track": "Ikhtitaf Fi Assaraya",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "De Courson: Ikhtitaf fi Assaraya (After the \"Overture\" from \"Die Entführung aus dem Serail, K. 384\")",
+        "Result Artist Names": [
+            "Hughes De Courson",
+            "Nasredine Dalil",
+            "Teg",
+            "Wolfgang Amadeus Mozart",
+            "Milen Natchev",
+            "Bulgarian Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4kOcXxGKqjoCNURzhaHRmi",
+        "Result Album Name": "Babel"
     },
     {
         "Title": "Sadr Urges Followers to Halt Fighting",
@@ -112,13 +152,29 @@
         "MoWeEd Track": "Projections Of (What) Might...",
         "MoWeEd Artists": [
             "Glenn Kotche"
-        ]
+        ],
+        "Result Track Name": "Projections Of (What) Might",
+        "Result Artist Names": [
+            "Glenn Kotche"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FM8EjK7dzDcF2nfHLs3nM",
+        "Result Album Name": "Mobile"
     },
     {
         "MoWeEd Track": "Monkey Chant",
         "MoWeEd Artists": [
             "Glenn Kotche"
-        ]
+        ],
+        "Result Track Name": "Monkey Chant",
+        "Result Artist Names": [
+            "Glenn Kotche"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ws0qtD9UC5YBeQMzz9nh6",
+        "Result Album Name": "Mobile"
     },
     {
         "Title": "Non-Profits Become Key Lenders in New Orleans",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2008-01-11",
         "Day": "Fri",
-        "Scanned Date": "2021-06-04 11:43:08"
+        "Scanned Date": "2021-06-04 11:43:08",
+        "Playlist URI": "5IyG0s8PpGipMjJiJUqcYJ",
+        "Playlist Link": "https://open.spotify.com/playlist/5IyG0s8PpGipMjJiJUqcYJ",
+        "Snapshot ID": "MSwxYzUxYmEzNjIwZjVhNGRlZjAxMDVmMjFiZGQwNjQwZWQwNzE5ZTll",
+        "Playlist Name": "MoWeEd 2008-01-11 Fri Morning Edition"
     },
     {
         "Title": "Fed Prepared to Lower Interest Rates",
@@ -29,13 +33,30 @@
         "MoWeEd Artists": [
             "Mike + the Mechanics",
             "Paul Carrack et. al."
-        ]
+        ],
+        "Result Track Name": "One Left Standing",
+        "Result Artist Names": [
+            "Mike & The Mechanics",
+            "Paul Carrack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TUwUyWQb2dL2PLzUSscb8",
+        "Result Album Name": "Rewired"
     },
     {
         "MoWeEd Track": "A Shot in the Dark",
         "MoWeEd Artists": [
             "Jimmy Thackery"
-        ]
+        ],
+        "Result Track Name": "A Shot In The Dark - Remastered",
+        "Result Artist Names": [
+            "Jimmy Haskell"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5ekPislD3R4VjMPvAkr81H",
+        "Result Album Name": "Ultra-Lounge / Bachelor Pad Royale Volume Four"
     },
     {
         "Title": "U.S. Improves Anbar by Partnering with Iraqis",
@@ -54,14 +75,34 @@
         "MoWeEd Artists": [
             "Billy Branch",
             "James Cotton et. al."
-        ]
+        ],
+        "Result Track Name": "Harp to Harp",
+        "Result Artist Names": [
+            "Charlie Musselwhite",
+            "Sugar Ray Norcia",
+            "Billy Branch",
+            "James Cotton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bQIHuUp2Sp5oeCXA127Tz",
+        "Result Album Name": "Superharps"
     },
     {
         "MoWeEd Track": "Starlight Diamond",
         "MoWeEd Artists": [
             "Lazy Lester",
             "Raful Neal"
-        ]
+        ],
+        "Result Track Name": "Starlight Diamond",
+        "Result Artist Names": [
+            "Lazy Lester",
+            "Raful Neal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vT7Tk5lQW9LZhLHCRzLTT",
+        "Result Album Name": "Superharps II"
     },
     {
         "Title": "Hillary Clinton Turns to Nevada for Votes",
@@ -73,13 +114,23 @@
         "MoWeEd Track": "Moment's Notice",
         "MoWeEd Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Model Trane",
         "MoWeEd Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Presses for Peace in the Middle East",
@@ -99,7 +150,17 @@
             "Beppe Gambetta",
             "Carlo Aonzo",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Tarantella Op. 18",
+        "Result Artist Names": [
+            "Beppe Gambetta",
+            "David Grisman",
+            "Carlo Aonzo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hsC29nlJLZ1Blxrz5Hxag",
+        "Result Album Name": "Traversata"
     },
     {
         "MoWeEd Track": "Pickin' the Guitar",
@@ -107,7 +168,17 @@
             "Beppe Gambetta",
             "Carlo Aonzo",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Pickin' The Guitar",
+        "Result Artist Names": [
+            "Beppe Gambetta",
+            "Carlo Aonzo",
+            "David Grisman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HwziB2GMcJ1sPP4qZtruG",
+        "Result Album Name": "Traversata"
     },
     {
         "Title": "American Express Hit by Slowing Economy",
@@ -137,13 +208,26 @@
         "MoWeEd Track": "Jazz Theme",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Rick and Morty Theme Song Jazz",
+        "Result Artist Names": [
+            "The Jackpot Golden Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VsRH44gweoQ2BGXjoVLzg",
+        "Result Album Name": "Rick and Morty Theme Song in Various Styles"
     },
     {
         "MoWeEd Track": "Funk In F",
         "MoWeEd Artists": [
             "The Dorian Michael Blues Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "GOP Debate in South Carolina Polite",
@@ -161,14 +245,24 @@
         "MoWeEd Track": "Tale of Tsar Saltan; Flight of the Bumble Bee",
         "MoWeEd Artists": [
             "The 5 Browns"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Flight of the Bumblebee",
         "MoWeEd Artists": [
             "Klazz Brothers",
             "Cuba Percussion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Colombian Rebels Free Two Female Hostages",
@@ -187,13 +281,26 @@
         "MoWeEd Artists": [
             "n",
             "a"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "In Particular",
         "MoWeEd Artists": [
             "Blonde Redhead"
-        ]
+        ],
+        "Result Track Name": "In Particular",
+        "Result Artist Names": [
+            "Blonde Redhead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43YeRGBeVHrTssEOCLPg6H",
+        "Result Album Name": "Melody of Certain Damaged Lemons"
     },
     {
         "Title": "Sierra Mountain Snow to Ease California Drought",
@@ -205,13 +312,26 @@
         "MoWeEd Track": "You Think, You Think",
         "MoWeEd Artists": [
             "The Matt Eakle Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Spare Change",
         "MoWeEd Artists": [
             "The Matt Eakle Band"
-        ]
+        ],
+        "Result Track Name": "Spare Change",
+        "Result Artist Names": [
+            "Matt Eakle Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5vafk8fZhe9mX4EBvxWugV",
+        "Result Album Name": "Hardly Work"
     },
     {
         "Title": "Edmund Hillary, First Atop Everest, Dead at 88",
@@ -229,13 +349,29 @@
         "MoWeEd Track": "Cobra",
         "MoWeEd Artists": [
             "Dr. Didg"
-        ]
+        ],
+        "Result Track Name": "Cobra",
+        "Result Artist Names": [
+            "Dr. Didge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:40792hf57pGJKz4rxr7HJD",
+        "Result Album Name": "Dust Devils"
     },
     {
         "MoWeEd Track": "Ely Nevada",
         "MoWeEd Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Ely Nevada",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5n1FPnU7CAs6RJJhoFGX47",
+        "Result Album Name": "My Blueberry Nights - Music From The Motion Picture"
     },
     {
         "Title": "At Home, at War: Tahmima Anam's 'Golden Age'",
@@ -247,13 +383,29 @@
         "MoWeEd Track": "Unwind You",
         "MoWeEd Artists": [
             "Suphala"
-        ]
+        ],
+        "Result Track Name": "Unwind You",
+        "Result Artist Names": [
+            "Suphala"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0v38j8ZJnlQ3t9wIeJBwhn",
+        "Result Album Name": "Blueprint"
     },
     {
         "MoWeEd Track": "Sleepwalk",
         "MoWeEd Artists": [
             "Albert Lee"
-        ]
+        ],
+        "Result Track Name": "Sleepwalk",
+        "Result Artist Names": [
+            "Jordan Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1SVH2qfaeq5OuoTJrQxXMh",
+        "Result Album Name": "Love Cruise"
     },
     {
         "Title": "Wedding Guests to Watch Football Game Too",

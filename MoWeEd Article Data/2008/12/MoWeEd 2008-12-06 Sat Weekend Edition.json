@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2008-12-06",
         "Day": "Sat",
-        "Scanned Date": "2021-06-04 11:01:12"
+        "Scanned Date": "2021-06-04 11:01:12",
+        "Playlist URI": "5UrLZYGCOQ792xUmHUMO4t",
+        "Playlist Link": "https://open.spotify.com/playlist/5UrLZYGCOQ792xUmHUMO4t",
+        "Snapshot ID": "MSw5NGE1ODJhMDMxNzI3MWZjM2NmZDgwODU2NzI4OTkyYjUwNjNlOWRj",
+        "Playlist Name": "MoWeEd 2008-12-06 Sat Weekend Edition"
     },
     {
         "Title": "How Low Has The Economy Sunk?",
@@ -28,13 +32,23 @@
         "MoWeEd Track": "Etienne",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Merpati",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Feeding A World In Crisis",
@@ -58,7 +72,12 @@
         "MoWeEd Track": "Seraphic Light",
         "MoWeEd Artists": [
             "Saxophone Summit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Your Letters: Mexico, YouTube And Scott's Mom",
@@ -70,7 +89,15 @@
         "MoWeEd Track": "Riddle Me This",
         "MoWeEd Artists": [
             "Aaron Parks"
-        ]
+        ],
+        "Result Track Name": "Riddle Me This",
+        "Result Artist Names": [
+            "Aaron Parks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eCWaKUpP6G603viKDibCQ",
+        "Result Album Name": "Invisible Cinema"
     },
     {
         "Title": "Before There Was Vegas, There Was Elko",
@@ -106,13 +133,29 @@
         "MoWeEd Track": "the frim fram sauce",
         "MoWeEd Artists": [
             "nat king cole"
-        ]
+        ],
+        "Result Track Name": "The Frim Fram Sauce",
+        "Result Artist Names": [
+            "Nat King Cole Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Y0KrrCX77hSTQS79DIVCZ",
+        "Result Album Name": "The Complete Capitol Recordings Of The Nat King Cole Trio"
     },
     {
         "MoWeEd Track": "Over the Rainbow",
         "MoWeEd Artists": [
             "Richard Elliot"
-        ]
+        ],
+        "Result Track Name": "Over The Rainbow",
+        "Result Artist Names": [
+            "Richard Elliot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ajvOMr5li8Mw9FCeyOYYq",
+        "Result Album Name": "The Best Of Richard Elliot"
     },
     {
         "Title": "Mining-Rule Change Creates Tremors In W.Va.",
@@ -136,7 +179,15 @@
         "MoWeEd Track": "Tended",
         "MoWeEd Artists": [
             "Viktor Krauss"
-        ]
+        ],
+        "Result Track Name": "Tended",
+        "Result Artist Names": [
+            "Viktor Krauss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hJO0cQW28VEOFPC6WhjxQ",
+        "Result Album Name": "Far from Enough"
     },
     {
         "Title": "Bad Boys Of Sports Pay The Price",
@@ -154,7 +205,15 @@
         "MoWeEd Track": "Vicar Street",
         "MoWeEd Artists": [
             "Tord Gustavsen Trio"
-        ]
+        ],
+        "Result Track Name": "Vicar Street",
+        "Result Artist Names": [
+            "Tord Gustavsen Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HRzGnjVkFndsMgUhMn1ay",
+        "Result Album Name": "Being There"
     },
     {
         "Title": "Pets Of Past Presidents",
@@ -174,6 +233,14 @@
             "Tom Jones",
             "Jones",
             "Tom"
-        ]
+        ],
+        "Result Track Name": "24 Hours",
+        "Result Artist Names": [
+            "Tom Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Z6sOGaXuedsK387TIVsj7",
+        "Result Album Name": "24 Hours"
     }
 ]

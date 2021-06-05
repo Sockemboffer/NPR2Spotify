@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2008-11-07",
         "Day": "Fri",
-        "Scanned Date": "2021-06-04 11:05:17"
+        "Scanned Date": "2021-06-04 11:05:17",
+        "Playlist URI": "7F3PzUsDoWyI4qdY6G1nqq",
+        "Playlist Link": "https://open.spotify.com/playlist/7F3PzUsDoWyI4qdY6G1nqq",
+        "Snapshot ID": "MSw0NTU1ZDk1YjkyZGNmNTU3ZTQ1ODc0ODg1ZjQxN2ExYTAzY2VlZjk1",
+        "Playlist Name": "MoWeEd 2008-11-07 Fri Morning Edition"
     },
     {
         "Title": "Investors Fear Dreaded Margin Call",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "See That My Grave Is Kept Clean",
         "MoWeEd Artists": [
             "B.B. King"
-        ]
+        ],
+        "Result Track Name": "See That My Grave Is Kept Clean",
+        "Result Artist Names": [
+            "B.B. King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:26hrGx39StNTJ8dEtAbfoB",
+        "Result Album Name": "One Kind Favor (Deluxe)"
     },
     {
         "MoWeEd Track": "Fooled Ya",
         "MoWeEd Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Reading Sarah Palin's Tea Leaves",
@@ -46,13 +63,31 @@
         "MoWeEd Track": "Wind",
         "MoWeEd Artists": [
             "Christian Howes"
-        ]
+        ],
+        "Result Track Name": "The Wind",
+        "Result Artist Names": [
+            "Christian Howes",
+            "Roger Kellaway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71HhIb1RR6hEqiakTPndoT",
+        "Result Album Name": "Heartfelt"
     },
     {
         "MoWeEd Track": "Cinema Paradiso",
         "MoWeEd Artists": [
             "Christian Howes"
-        ]
+        ],
+        "Result Track Name": "Cinema Paradiso",
+        "Result Artist Names": [
+            "Christian Howes",
+            "Roger Kellaway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OG7bficE0imAVdFIGmKdE",
+        "Result Album Name": "Heartfelt"
     },
     {
         "Title": "Schwarzenegger Risks Contempt On Prison Reform",
@@ -65,14 +100,31 @@
         "MoWeEd Artists": [
             "Zero 7",
             "Henry Binns et. al."
-        ]
+        ],
+        "Result Track Name": "I Have Seen",
+        "Result Artist Names": [
+            "Zero 7",
+            "Mozez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5mCo4K10tQf80jq6qHUqSQ",
+        "Result Album Name": "Simple Things"
     },
     {
         "MoWeEd Track": "Red Dust",
         "MoWeEd Artists": [
             "Zero 7",
             "Henry Binns et. al."
-        ]
+        ],
+        "Result Track Name": "Red Dust",
+        "Result Artist Names": [
+            "Zero 7"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0Xc02wFzRgNzQORE0xE9iW",
+        "Result Album Name": "Simple Things"
     },
     {
         "Title": "Latino Voters Defy Pundits, Vote For Obama",
@@ -96,13 +148,23 @@
         "MoWeEd Track": "The Stinger",
         "MoWeEd Artists": [
             "Earfood"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mr. Clean",
         "MoWeEd Artists": [
             "Earfood"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Detroit's Big Three Want Big Bucks",
@@ -133,7 +195,16 @@
         "MoWeEd Artists": [
             "Greyboy",
             "Muddie"
-        ]
+        ],
+        "Result Track Name": "Hold It Down",
+        "Result Artist Names": [
+            "Greyboy",
+            "Muddie"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38PKTzgLBm7K757cwC8GEB",
+        "Result Album Name": "15 Years of West Coast Cool"
     },
     {
         "MoWeEd Track": "69 Freedom Special",
@@ -142,7 +213,15 @@
             "Paul",
             "Les",
             "Friends"
-        ]
+        ],
+        "Result Track Name": "69 Freedom Special",
+        "Result Artist Names": [
+            "Les Paul And Friends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kOpsGT5B80TpgYlpaSfek",
+        "Result Album Name": "Les Paul And Friends"
     },
     {
         "Title": "Elections End, Musical Chairs Start",
@@ -161,14 +240,24 @@
         "MoWeEd Artists": [
             "Jimmy Thackery",
             "the Drivers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Land Locked",
         "MoWeEd Artists": [
             "Jimmy Thackery",
             "the Drivers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pope Meets With Muslim Scholars",
@@ -187,14 +276,28 @@
         "MoWeEd Artists": [
             "n",
             "a"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Besame Mucho",
         "MoWeEd Artists": [
             "Gene Bertoncini",
             "Roni Ben-Hur"
-        ]
+        ],
+        "Result Track Name": "Besame Mucho",
+        "Result Artist Names": [
+            "Roni Ben-Hur",
+            "Gene Bertoncini"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UtmgWv98WUufFd8XQh201",
+        "Result Album Name": "Jazz Therapy (Volume 1: Smile)"
     },
     {
         "Title": "Election Addicts May Want To Go Cold Turkey",
@@ -206,13 +309,29 @@
         "MoWeEd Track": "Take Me to the River",
         "MoWeEd Artists": [
             "Talking Heads"
-        ]
+        ],
+        "Result Track Name": "Take Me to the River - 2005 Remaster",
+        "Result Artist Names": [
+            "Talking Heads"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oV1tu8utgHQjLJsEK9sVl",
+        "Result Album Name": "More Songs About Buildings and Food (Deluxe Version)"
     },
     {
         "MoWeEd Track": "Stay Hungry",
         "MoWeEd Artists": [
             "Talking Heads"
-        ]
+        ],
+        "Result Track Name": "Stay Hungry",
+        "Result Artist Names": [
+            "Talking Heads"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73rPDCeL67jgj9CQxhjgnY",
+        "Result Album Name": "More Songs About Buildings and Food"
     },
     {
         "Title": "Can Obama Make Good On Promises About Wars?",
@@ -230,13 +349,23 @@
         "MoWeEd Track": "Twelve Variations on a Chorale by J.S. Bach -- Variation 6",
         "MoWeEd Artists": [
             "Simone Dinnerstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "A Ilha (The Island)",
         "MoWeEd Artists": [
             "Lori Bell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ex-Beauty Queen Becomes FBI Agent, Chef",
@@ -248,20 +377,38 @@
         "MoWeEd Track": "HONDERGEI",
         "MoWeEd Artists": [
             "Dalai Beldiri"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Fly Hawaii",
         "MoWeEd Artists": [
             "Luke Vibert",
             "B.J. Cole"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sleepwalk",
         "MoWeEd Artists": [
             "Jonathan Richman"
-        ]
+        ],
+        "Result Track Name": "Sleepwalk",
+        "Result Artist Names": [
+            "Jonathan Richman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XsMM4JnCfe6srntRmWXAX",
+        "Result Album Name": "Jonathan Richman"
     },
     {
         "Title": "Nation's Jobless Rate Hits A 14-Year High",

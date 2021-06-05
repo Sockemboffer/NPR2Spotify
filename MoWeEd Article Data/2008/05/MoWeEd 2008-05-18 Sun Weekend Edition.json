@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2008-05-18",
         "Day": "Sun",
-        "Scanned Date": "2021-06-04 11:29:18"
+        "Scanned Date": "2021-06-04 11:29:18",
+        "Playlist URI": "6nELa5HHavFEa5G5CAMqo5",
+        "Playlist Link": "https://open.spotify.com/playlist/6nELa5HHavFEa5G5CAMqo5",
+        "Snapshot ID": "MSwxM2RlMzVlNGFjNDZhY2Q4NjdjMzMzZjVjMGRhZjVkYmIwZDIxY2I1",
+        "Playlist Name": "MoWeEd 2008-05-18 Sun Weekend Edition"
     },
     {
         "Title": "Diplomats Tour Myanmar",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "That Infernal Optimist",
         "MoWeEd Artists": [
             "Bob Evans"
-        ]
+        ],
+        "Result Track Name": "That Infernal Optimist",
+        "Result Artist Names": [
+            "Bob Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wATYzrt0Wtngc7pvTCurK",
+        "Result Album Name": "Six Strings North of the Border - Volume 1"
     },
     {
         "MoWeEd Track": "3 Hands",
         "MoWeEd Artists": [
             "Don Ross"
-        ]
+        ],
+        "Result Track Name": "3 Hands",
+        "Result Artist Names": [
+            "Don Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yiHgmdWpWWlbmc908opti",
+        "Result Album Name": "Three Hands"
     },
     {
         "Title": "Food Crisis Felt Most Acutely By the Poor",
@@ -64,13 +84,23 @@
         "MoWeEd Track": "Paige",
         "MoWeEd Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "A Parade in Littleton",
         "MoWeEd Artists": [
             "Tom Verlaine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fill in the Blanks: Going Up, Anyone?",
@@ -95,7 +125,12 @@
         "MoWeEd Artists": [
             "Klazz Brothers",
             "Cuba Percussion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Speech Advances Peace Process",
@@ -125,13 +160,33 @@
         "MoWeEd Track": "Locked in a Basement",
         "MoWeEd Artists": [
             "Heernt"
-        ]
+        ],
+        "Result Track Name": "Locked in a Basement",
+        "Result Artist Names": [
+            "Heernt",
+            "Neal Persiani",
+            "Mark Guiliana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oQhW3EwYveO0WtKLtOLRY",
+        "Result Album Name": "Locked in a Basement"
     },
     {
         "MoWeEd Track": "Nice.",
         "MoWeEd Artists": [
             "Heernt"
-        ]
+        ],
+        "Result Track Name": "Nice.",
+        "Result Artist Names": [
+            "Heernt",
+            "Neal Persiani",
+            "Mark Guiliana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HdHKZV8pRiL91nQr84uoG",
+        "Result Album Name": "Locked in a Basement"
     },
     {
         "Title": "HIV Awareness Program Targets D.C. Students",
@@ -155,7 +210,12 @@
         "MoWeEd Track": "Rampage",
         "MoWeEd Artists": [
             "Marcus Miller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters: Global Warming, the Nile Delta and Umm",
@@ -167,7 +227,15 @@
         "MoWeEd Track": "Buffy the Vampire Slayer (Theme)",
         "MoWeEd Artists": [
             "Civil Tones"
-        ]
+        ],
+        "Result Track Name": "Buffy the Vampire Slayer (Tv Theme)",
+        "Result Artist Names": [
+            "The Civil Tones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BbDjQXl2o4d3UMSVi6QW7",
+        "Result Album Name": "Vodka And Peroxide"
     },
     {
         "Title": "'Canterbury' Spins Tale of New Old Age in America",
@@ -186,6 +254,15 @@
         "MoWeEd Artists": [
             "New York Philharmonic",
             "Leonard Bernstein (conductor)"
-        ]
+        ],
+        "Result Track Name": "Symphony No. 1, in D Major: III. Feierlich gemessen ''Der Titan''",
+        "Result Artist Names": [
+            "New York Philharmonic",
+            "Dimitri Mitropoulos"
+        ],
+        "Result Track-Match Percent": 0.7777777777777778,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:23BlL9BGECYcGndx3Xfuwg",
+        "Result Album Name": "Classic Cello"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2008-10-27",
         "Day": "Mon",
-        "Scanned Date": "2021-06-04 11:11:44"
+        "Scanned Date": "2021-06-04 11:11:44",
+        "Playlist URI": "4NMyVBpd9IQ7bBnQlW8bk8",
+        "Playlist Link": "https://open.spotify.com/playlist/4NMyVBpd9IQ7bBnQlW8bk8",
+        "Snapshot ID": "MSxjZDRmOGIzYmRkZWY2MTgwOGNlZjNlNGQ5MDA0NDVmZThjYzQ4NGZl",
+        "Playlist Name": "MoWeEd 2008-10-27 Mon Morning Edition"
     },
     {
         "Title": "Obama Tells Supporters To Vote Early",
@@ -28,14 +32,30 @@
         "MoWeEd Track": "The Thunderer",
         "MoWeEd Artists": [
             "U.S. Army Band"
-        ]
+        ],
+        "Result Track Name": "The Thunderer March",
+        "Result Artist Names": [
+            "U.S. Army Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2DTfHjFSmEKMZuYptPaXaz",
+        "Result Album Name": "Ceremonial Music, Marches, Fanfares and Bugle Calls"
     },
     {
         "MoWeEd Track": "Sweet Georgia Brown",
         "MoWeEd Artists": [
             "Latches",
             "Latchès"
-        ]
+        ],
+        "Result Track Name": "Sweet Georgia Brown",
+        "Result Artist Names": [
+            "Latchès"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6BqtBvl8B14WBFiR7B03r7",
+        "Result Album Name": "Latches"
     },
     {
         "Title": "Examining Democracy In Southeast Asia",
@@ -48,14 +68,30 @@
         "MoWeEd Artists": [
             "Mickey Hart",
             "Zakir Hussain et. al."
-        ]
+        ],
+        "Result Track Name": "Funky Zena",
+        "Result Artist Names": [
+            "Sikiru Adepoju",
+            "Zakir Hussain",
+            "Giovanni Hidalgo",
+            "Mickey Hart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4iq6KNJacvsi4Ij2NK4Zm3",
+        "Result Album Name": "Global Drum Project"
     },
     {
         "MoWeEd Track": "Heatspace",
         "MoWeEd Artists": [
             "Mickey Hart",
             "Zakir Hussain et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Furniture Sales Hurt By Slump In Home Sales",
@@ -67,14 +103,36 @@
         "MoWeEd Track": "The Green Groves of Erin",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "The Green Groves of Erin / The Flowers of Red Hill",
+        "Result Artist Names": [
+            "Traditional",
+            "Yo-Yo Ma",
+            "Mark O'Connor",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3x2VFYyOaKlWnGdlEwY5eW",
+        "Result Album Name": "Appalachia Waltz (Remastered)"
     },
     {
         "MoWeEd Track": "Chief Sitting in the Rain",
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Edgar Meyer et. al."
-        ]
+        ],
+        "Result Track Name": "Chief Sitting in the Rain",
+        "Result Artist Names": [
+            "Traditional",
+            "Yo-Yo Ma",
+            "Edgar Meyer",
+            "Mark O'Connor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43LYFQkw7nJeNDQHMUXKji",
+        "Result Album Name": "Appalachia Waltz (Remastered)"
     },
     {
         "Title": "South Dakotans Again Consider An Abortion Ban",
@@ -92,13 +150,31 @@
         "MoWeEd Track": "Living in the Country",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Living In The Country",
+        "Result Artist Names": [
+            "Leo Kottke",
+            "Mike Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27Cq0RPuH3Hf67hvJ2fOsc",
+        "Result Album Name": "Sixty Six Steps"
     },
     {
         "MoWeEd Track": "Cherry County",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Cherry County",
+        "Result Artist Names": [
+            "Leo Kottke",
+            "Mike Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FfhgYuxVOVS45bXgFwHql",
+        "Result Album Name": "Sixty Six Steps"
     },
     {
         "Title": "Thailand To Barter Grain For Oil",
@@ -128,7 +204,12 @@
         "MoWeEd Track": "No info about this song",
         "MoWeEd Artists": [
             "Song was part of previous story"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Brass Monkey",
@@ -138,7 +219,18 @@
             "Lafrae Olivia Sci",
             "Doug Munro",
             "Bernie Worrell"
-        ]
+        ],
+        "Result Track Name": "Brass Monkey",
+        "Result Artist Names": [
+            "Reuben Wilson",
+            "Andrew Beals",
+            "Doug Munro",
+            "LaFrae Olivia Sci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7,
+        "Result Track URI": "spotify:track:2aOTywhD0pqTAcVrempfM3",
+        "Result Album Name": "Boogaloo To The Beastie Boys - A tribute"
     },
     {
         "Title": "Campaigns Ratchet Up Ground Game In Ohio",
@@ -156,13 +248,29 @@
         "MoWeEd Track": "Swangalang",
         "MoWeEd Artists": [
             "Bob Mintzer Big Band"
-        ]
+        ],
+        "Result Track Name": "Swangalang",
+        "Result Artist Names": [
+            "Bob Mintzer Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zfEdJdAEVWbsTnHEfHZfg",
+        "Result Album Name": "Swing Out"
     },
     {
         "MoWeEd Track": "Someday My Prince Will Come",
         "MoWeEd Artists": [
             "Bob Mintzer Big Band"
-        ]
+        ],
+        "Result Track Name": "Someday My Prince Will Come",
+        "Result Artist Names": [
+            "Bob Mintzer Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ERstFYyncrkTtLyMN3xbs",
+        "Result Album Name": "Swing Out"
     },
     {
         "Title": "Pieces Of Bailout Pie Could Get Smaller",
@@ -180,13 +288,30 @@
         "MoWeEd Track": "Circle Blues",
         "MoWeEd Artists": [
             "Mr. B"
-        ]
+        ],
+        "Result Track Name": "Circle Blues",
+        "Result Artist Names": [
+            "Mr. B"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fA6Tl9mX3mQ2342FWH7g7",
+        "Result Album Name": "Joybox"
     },
     {
         "MoWeEd Track": "Little Brother",
         "MoWeEd Artists": [
             "Mr. B"
-        ]
+        ],
+        "Result Track Name": "Little Brother - Instrumental",
+        "Result Artist Names": [
+            "Mr. B",
+            "J.C. Heard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5M5Koy1MEDGQ081SivilWW",
+        "Result Album Name": "Shining The Pearls"
     },
     {
         "Title": "World Series: Phillies Gallop Past Rays",
@@ -198,13 +323,23 @@
         "MoWeEd Track": "No info about this song",
         "MoWeEd Artists": [
             "Song was part of previous story"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Old Time Sake",
         "MoWeEd Artists": [
             "Guitar Shorty"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Syria Says U.S. Strikes Within Its Borders",
@@ -222,13 +357,29 @@
         "MoWeEd Track": "Majaz",
         "MoWeEd Artists": [
             "Le Trio Joubran"
-        ]
+        ],
+        "Result Track Name": "Majaz",
+        "Result Artist Names": [
+            "Le Trio Joubran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WewhDQ0vkmUUTLwgOgHoU",
+        "Result Album Name": "À l'ombre des mots (Avec la voix de Mahmoud Darwich)"
     },
     {
         "MoWeEd Track": "Shajan",
         "MoWeEd Artists": [
             "Le Trio Joubran"
-        ]
+        ],
+        "Result Track Name": "Shajan",
+        "Result Artist Names": [
+            "Le Trio Joubran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MXU9vFbiqqhfKqMyu3eA6",
+        "Result Album Name": "Majâz"
     },
     {
         "Title": "A Light Take On The Gravity-Time Relationship",
@@ -241,13 +392,33 @@
         "MoWeEd Artists": [
             "Leonard Bernstein",
             "New York Philharmonic"
-        ]
+        ],
+        "Result Track Name": "The Firebird Suite (1919 Version): Finale - Remastered",
+        "Result Artist Names": [
+            "Igor Stravinsky",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:49MwiNWraem8DMGRGYwpAi",
+        "Result Album Name": "Stravinsky: Firebird Suite - Tchaikovsky: Romeo and Juliet (Remastered)"
     },
     {
         "MoWeEd Track": "Dance of the Comedians",
         "MoWeEd Artists": [
             "Leonard Bernstein"
-        ]
+        ],
+        "Result Track Name": "The Bartered Bride, JB 1:100: Dance of the Comedians",
+        "Result Artist Names": [
+            "Bedřich Smetana",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CAJug3icjLwhS5VXXTxMq",
+        "Result Album Name": "Dvorák: Symphony No. 9; Carnival Overture; Slavonic Dances [Expanded Edition]"
     },
     {
         "Title": "Michigan Alcohol Ballot Issue Could Be Confusing",

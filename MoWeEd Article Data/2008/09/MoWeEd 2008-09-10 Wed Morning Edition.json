@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2008-09-10",
         "Day": "Wed",
-        "Scanned Date": "2021-06-04 11:13:33"
+        "Scanned Date": "2021-06-04 11:13:33",
+        "Playlist URI": "6UZIqz2gX97XeAAh74jzYY",
+        "Playlist Link": "https://open.spotify.com/playlist/6UZIqz2gX97XeAAh74jzYY",
+        "Snapshot ID": "MSxmYjBiNjZmOWUzNGE1M2I4ODlkZDgzMWI0MjdjM2FhNjY5YmFjMmQ5",
+        "Playlist Name": "MoWeEd 2008-09-10 Wed Morning Edition"
     },
     {
         "Title": "Traveling In Ohio, Va., Obama Pans Bush's Iraq Plan",
@@ -23,14 +27,30 @@
         "MoWeEd Artists": [
             "Garcia-Fons",
             "Renaud Trio"
-        ]
+        ],
+        "Result Track Name": "Entre Continentes (Buleria)",
+        "Result Artist Names": [
+            "Renaud Garcia-Fons"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7DNpkCsOeegqOOJ4pEmzJt",
+        "Result Album Name": "Entremundo"
     },
     {
         "MoWeEd Track": "Entremundo",
         "MoWeEd Artists": [
             "Garcia-Fons",
             "Renaud Trio"
-        ]
+        ],
+        "Result Track Name": "Entremundo",
+        "Result Artist Names": [
+            "Renaud Garcia-Fons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2wY0WA7JnrMS01Mq9vz83B",
+        "Result Album Name": "Entremundo"
     },
     {
         "Title": "The Role Of Sept. 11 In Presidential Politics",
@@ -48,13 +68,31 @@
         "MoWeEd Track": "Infra 5",
         "MoWeEd Artists": [
             "Max Richter"
-        ]
+        ],
+        "Result Track Name": "Infra 5",
+        "Result Artist Names": [
+            "Max Richter",
+            "Louisa Fuller",
+            "Natalia Bonner",
+            "Nick Barr",
+            "Ian Burdge",
+            "Chris Worsey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Jt78FGkNfI3KOrlDgmvTC",
+        "Result Album Name": "Infra"
     },
     {
         "MoWeEd Track": "Jalla Jalla",
         "MoWeEd Artists": [
             "Frigg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "North Korea Denies Leader's Health Is Failing",
@@ -66,7 +104,15 @@
         "MoWeEd Track": "Waiting",
         "MoWeEd Artists": [
             "Joan Jeanrenaud"
-        ]
+        ],
+        "Result Track Name": "Waiting",
+        "Result Artist Names": [
+            "Joan Jeanrenaud"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ncdr6RgV1KYZD7EPtcsKO",
+        "Result Album Name": "Strange Toys"
     },
     {
         "Title": "Physicists Revving World's Most Powerful Smashup",
@@ -84,13 +130,31 @@
         "MoWeEd Track": "I Wasn't Talking to You",
         "MoWeEd Artists": [
             "Edgar Meyer and Chris Thile"
-        ]
+        ],
+        "Result Track Name": "I Wasn't Talking to You",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Chris Thile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08C81jj6WzIgBMfHRzdHOe",
+        "Result Album Name": "Edgar Meyer and Chris Thile"
     },
     {
         "MoWeEd Track": "Rabbit Cake",
         "MoWeEd Artists": [
             "Edgar Meyer and Chris Thile"
-        ]
+        ],
+        "Result Track Name": "Rabbit Cake",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Chris Thile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07UuRHLWi1kLm0FcWXjOd1",
+        "Result Album Name": "Edgar Meyer and Chris Thile"
     },
     {
         "Title": "$4 Billion Loss Is Latest Blow For Lehman Brothers",
@@ -120,13 +184,31 @@
         "MoWeEd Track": "Highview",
         "MoWeEd Artists": [
             "Joe Louis Walker"
-        ]
+        ],
+        "Result Track Name": "Highview",
+        "Result Artist Names": [
+            "Joe Louis Walker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1C04okjiwpqDV2x7gWeih6",
+        "Result Album Name": "The Best Of The Stony Plain Years"
     },
     {
         "MoWeEd Track": "Café Con Leche",
         "MoWeEd Artists": [
             "Bradley Leighton"
-        ]
+        ],
+        "Result Track Name": "Café Con Leche",
+        "Result Artist Names": [
+            "Bradley Leighton",
+            "Tom Braxton",
+            "Mic Gillette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34EzMpakYKU2iHp7FrUiSj",
+        "Result Album Name": "Soul Collective"
     },
     {
         "Title": "Bush To Withdraw Troops From Iraq",
@@ -144,13 +226,26 @@
         "MoWeEd Track": "Margin",
         "MoWeEd Artists": [
             "Bela Karoli"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Nuits de Saint-Germain-Des-Prés",
         "MoWeEd Artists": [
             "Latchès"
-        ]
+        ],
+        "Result Track Name": "Nuits de Saint-Germain des Près",
+        "Result Artist Names": [
+            "Latchès"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1VFUo8FnSPsyb6uiBcoZGD",
+        "Result Album Name": "Latches"
     },
     {
         "Title": "City Dweller Laments Loss Of Urban Trees",
@@ -162,13 +257,26 @@
         "MoWeEd Track": "It's Not Easy Being Green",
         "MoWeEd Artists": [
             "Jesse Palter"
-        ]
+        ],
+        "Result Track Name": "It's Not Easy Being Green",
+        "Result Artist Names": [
+            "Jesse Palter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KeP3oV1PnRQdT9TGe6evB",
+        "Result Album Name": "Beginning To See The Light"
     },
     {
         "MoWeEd Track": "Lahaini Luna",
         "MoWeEd Artists": [
             "Michael Kollwitz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kosher Meat Plant Faces Child Labor Allegations",
@@ -180,13 +288,23 @@
         "MoWeEd Track": "Hillbillies on a Quiet Afternoon",
         "MoWeEd Artists": [
             "S.M.V."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Mongoose Walk",
         "MoWeEd Artists": [
             "S.M.V"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Payouts For Ousted CEOs Anger Shareholders",
@@ -210,13 +328,29 @@
         "MoWeEd Track": "Mercy, Mercy, Mercy",
         "MoWeEd Artists": [
             "Lisa Hilton"
-        ]
+        ],
+        "Result Track Name": "Mercy, Mercy, Mercy",
+        "Result Artist Names": [
+            "Lisa Hilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jtehTzBIb7dH87AMqaqzd",
+        "Result Album Name": "Sunny Day Theory"
     },
     {
         "MoWeEd Track": "Melt Down",
         "MoWeEd Artists": [
             "Lisa Hilton"
-        ]
+        ],
+        "Result Track Name": "Melt Down",
+        "Result Artist Names": [
+            "Lisa Hilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77osMXNyAFznVYktvAAOs3",
+        "Result Album Name": "Sunny Day Theory"
     },
     {
         "Title": "Lance Armstrong Comes Back From Retirement",
@@ -234,13 +368,29 @@
         "MoWeEd Track": "Sycamore Creek",
         "MoWeEd Artists": [
             "Dorian Michael"
-        ]
+        ],
+        "Result Track Name": "Sycamore Creek",
+        "Result Artist Names": [
+            "Dorian Michael"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6836nwgEY7ggWFXKtDvDvf",
+        "Result Album Name": "Sycamore Creek"
     },
     {
         "MoWeEd Track": "One Day We'll Feel the Sun",
         "MoWeEd Artists": [
             "Kelly Richey Band"
-        ]
+        ],
+        "Result Track Name": "One Day We'll Feel the Sun",
+        "Result Artist Names": [
+            "Kelly Richey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:487khtE95mF1uOSTe9xtlS",
+        "Result Album Name": "Speechless"
     },
     {
         "Title": "Airline Aims To Advertise On Bald Heads",

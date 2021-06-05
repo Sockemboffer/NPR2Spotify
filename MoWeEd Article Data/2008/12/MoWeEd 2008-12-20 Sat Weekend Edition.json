@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2008-12-20",
         "Day": "Sat",
-        "Scanned Date": "2021-06-04 11:03:01"
+        "Scanned Date": "2021-06-04 11:03:01",
+        "Playlist URI": "1uyBunsrGQ6mJFpQL1oOXy",
+        "Playlist Link": "https://open.spotify.com/playlist/1uyBunsrGQ6mJFpQL1oOXy",
+        "Snapshot ID": "MSw2Mzg5NTUxZTE3ODIxZWFmZTQ5OTdhOWVjZGViOGY5ZTQ0ZjIzNzg0",
+        "Playlist Name": "MoWeEd 2008-12-20 Sat Weekend Edition"
     },
     {
         "Title": "Freshly Funded, It's Up To Automakers Now",
@@ -28,13 +32,23 @@
         "MoWeEd Track": "The Music And The Mirror",
         "MoWeEd Artists": [
             "A Chorus Line"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Chorus Line/The Music and the Mirror",
         "MoWeEd Artists": [
             "Musical Stage Company"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bartering Makes A Comeback Amid Tight Times",
@@ -58,7 +72,12 @@
         "MoWeEd Track": "Getting to Know You",
         "MoWeEd Artists": [
             "1992 Studio Cast"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters: Alternative Energy And Stealing Christmas",
@@ -70,7 +89,12 @@
         "MoWeEd Track": "Silent",
         "MoWeEd Artists": [
             "Jim's Big Ego"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Beloved Children's Book 'Thirteen Clocks' Is Back",
@@ -94,7 +118,15 @@
         "MoWeEd Track": "Silent Night",
         "MoWeEd Artists": [
             "Joemy Wilson"
-        ]
+        ],
+        "Result Track Name": "Silent Night",
+        "Result Artist Names": [
+            "Joemy Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08QfhbdMCl5NLsSlzyYxto",
+        "Result Album Name": "Gifts - Traditional Christmas Carols"
     },
     {
         "Title": "Week in Review With Daniel Schorr",
@@ -118,14 +150,28 @@
         "MoWeEd Track": "'Zat You, Santa Claus?",
         "MoWeEd Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "'Zat You, Santa Claus? - Single Version",
+        "Result Artist Names": [
+            "Louis Armstrong",
+            "The Commanders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zVXvYPvU4anhLlAQjvf5Y",
+        "Result Album Name": "The Decca Singles 1949-1958"
     },
     {
         "MoWeEd Track": "Jingle Bells",
         "MoWeEd Artists": [
             "Marian McPartland",
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Long Labors Of Willard Wirtz",
@@ -149,7 +195,12 @@
         "MoWeEd Track": "Jumpin' Jack Flash",
         "MoWeEd Artists": [
             "386DX"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Eco-nomical: Giving In Someone Else's Name",
@@ -174,6 +225,15 @@
         "MoWeEd Artists": [
             "Erran Baron Cohen",
             "Jules Brookes et. al."
-        ]
+        ],
+        "Result Track Name": "Rock Of Ages (feat. Jules Brookes)",
+        "Result Artist Names": [
+            "Erran Baron Cohen",
+            "Jules Brookes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1k5VaoTPFjBAJLaeL2gSdD",
+        "Result Album Name": "Erran Baron Cohen Presents: Songs In The Key Of Hanukkah"
     }
 ]
