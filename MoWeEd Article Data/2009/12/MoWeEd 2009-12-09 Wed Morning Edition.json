@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2009-12-09",
         "Day": "Wed",
-        "Scanned Date": "2021-06-05 17:55:52"
+        "Scanned Date": "2021-06-05 17:55:52",
+        "Playlist URI": "7juJS7g1aQMEZADQxKRvwk",
+        "Playlist Link": "https://open.spotify.com/playlist/7juJS7g1aQMEZADQxKRvwk",
+        "Snapshot ID": "MSwyMTc0YTdhODNhYThjNmJlNzM5M2YwODM5YjI0YWQ2YzNlZWM2YmYx",
+        "Playlist Name": "MoWeEd 2009-12-09 Wed Morning Edition"
     },
     {
         "Title": "McChrystal, Eikenberry Rally Behind Afghan Plan",
@@ -22,13 +26,27 @@
         "MoWeEd Track": "Oudaïwa",
         "MoWeEd Artists": [
             "Aïwa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Milonga de Mis Amores",
         "MoWeEd Artists": [
             "Tango Lorca"
-        ]
+        ],
+        "Result Track Name": "Milonga De Mis Amores",
+        "Result Artist Names": [
+            "Tango Lorca",
+            "Nathan Granner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PQmORxtDOwTaegd6TG0t4",
+        "Result Album Name": "Mujer Sola"
     },
     {
         "Title": "Senators Announce Tentative Deal On Public Option",
@@ -46,13 +64,31 @@
         "MoWeEd Track": "45:33 [Padded Cell Remix]",
         "MoWeEd Artists": [
             "LCD Soundsystem"
-        ]
+        ],
+        "Result Track Name": "45:33 - Padded Cell Remix",
+        "Result Artist Names": [
+            "LCD Soundsystem",
+            "Padded Cell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4QZTcSQ5Kj18BvmdAeuVKm",
+        "Result Album Name": "45:33 Remixes"
     },
     {
         "MoWeEd Track": "45:33 [Runaway Remix]",
         "MoWeEd Artists": [
             "LCD Soundsystem"
-        ]
+        ],
+        "Result Track Name": "45:33 - Runaway Remix",
+        "Result Artist Names": [
+            "LCD Soundsystem",
+            "Runaway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dOWM6n8aZ3Y74pyYF4PNj",
+        "Result Album Name": "45:33 Remixes"
     },
     {
         "Title": "Au Revoir: Restaurant Sells Part Of Wine Cellar",
@@ -64,13 +100,29 @@
         "MoWeEd Track": "Menage à Trois",
         "MoWeEd Artists": [
             "Jacques Pellarin"
-        ]
+        ],
+        "Result Track Name": "Menage A Trois",
+        "Result Artist Names": [
+            "Jacques Pellarin"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cV9eTtGqYK6HUL2kHsvYk",
+        "Result Album Name": "Loungo Soundo, Vol. 27"
     },
     {
         "MoWeEd Track": "Valse Pour Francois",
         "MoWeEd Artists": [
             "Jacques Pellarin"
-        ]
+        ],
+        "Result Track Name": "Valse Pour Francois",
+        "Result Artist Names": [
+            "Jacques Pellarin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xIFrULQBhhUC0sujvNeqt",
+        "Result Album Name": "Jacques Pellarin"
     },
     {
         "Title": "Bill Exempts Auto Dealers From Agency Oversight",
@@ -89,14 +141,24 @@
         "MoWeEd Artists": [
             "Timothy Day",
             "Sonos Handbell Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Alleluia",
         "MoWeEd Artists": [
             "Timothy Day",
             "Sonos Handbell Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congress Proposes Arbitration For Car Dealers",
@@ -126,13 +188,29 @@
         "MoWeEd Track": "Jelly Jam",
         "MoWeEd Artists": [
             "The Ford Blues Band"
-        ]
+        ],
+        "Result Track Name": "Jelly Jam",
+        "Result Artist Names": [
+            "Ford Blues Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0P8JAXR4RfhDqkFuLjAxsP",
+        "Result Album Name": "Another Fine Day"
     },
     {
         "MoWeEd Track": "Hard Rain",
         "MoWeEd Artists": [
             "Shout Out Louds"
-        ]
+        ],
+        "Result Track Name": "Hard Rain",
+        "Result Artist Names": [
+            "Shout Out Louds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6xPYk0U5Fs6q9DqnWf2RxX",
+        "Result Album Name": "Our Ill Wills"
     },
     {
         "Title": "U.S. To Settle Indian Trust Lawsuit",
@@ -150,13 +228,29 @@
         "MoWeEd Track": "Watchers of the Canyon",
         "MoWeEd Artists": [
             "Burning Sky"
-        ]
+        ],
+        "Result Track Name": "Watchers of the Canyon",
+        "Result Artist Names": [
+            "Burning Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iHoKljLxmLBQwRSYmcUE5",
+        "Result Album Name": "Enter The Earth"
     },
     {
         "MoWeEd Track": "Tribal Stomp",
         "MoWeEd Artists": [
             "Burning Sky"
-        ]
+        ],
+        "Result Track Name": "Tribal Stomp",
+        "Result Artist Names": [
+            "Burning Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ROBaCYhfuZV66iEa4SBU1",
+        "Result Album Name": "Enter The Earth"
     },
     {
         "Title": "New Mexico Dairy Pollution Sparks 'Manure War'",
@@ -168,13 +262,29 @@
         "MoWeEd Track": "Willow Weep for Me",
         "MoWeEd Artists": [
             "Jim Nichols"
-        ]
+        ],
+        "Result Track Name": "Willow Weep for Me",
+        "Result Artist Names": [
+            "Jim Nichols"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bgSICs1wgZaQgjAfIgI53",
+        "Result Album Name": "Jazz & Country"
     },
     {
         "MoWeEd Track": "Steel Guitar Rag",
         "MoWeEd Artists": [
             "Jim Nichols"
-        ]
+        ],
+        "Result Track Name": "Steel Guitar Rag",
+        "Result Artist Names": [
+            "Jim Nichols"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mEsT04OF63S3HCdzGtrCl",
+        "Result Album Name": "Jazz & Country"
     },
     {
         "Title": "Michigan Students Make Music With IPhones",
@@ -186,13 +296,29 @@
         "MoWeEd Track": "From Stardust to Sentience",
         "MoWeEd Artists": [
             "High Places"
-        ]
+        ],
+        "Result Track Name": "From Stardust to Sentience",
+        "Result Artist Names": [
+            "High Places"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PvVrbr3VyMDJmntVjTvy7",
+        "Result Album Name": "High Places"
     },
     {
         "MoWeEd Track": "Field Guide",
         "MoWeEd Artists": [
             "High Places"
-        ]
+        ],
+        "Result Track Name": "A Field Guide",
+        "Result Artist Names": [
+            "High Places"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5muW13WCSm7wqDtGUDldXz",
+        "Result Album Name": "High Places"
     },
     {
         "Title": "Surgeon: Health Care Debate Can Learn From Farmers",
@@ -210,13 +336,26 @@
         "MoWeEd Track": "Button",
         "MoWeEd Artists": [
             "No information available"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Happy Tune",
         "MoWeEd Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Happy Tune",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HOH8OdV6pH4I9EvatFqVT",
+        "Result Album Name": "House on Hill"
     },
     {
         "Title": "Injury-Prone Trail Blazers Wonder What Happened",
@@ -234,13 +373,26 @@
         "MoWeEd Track": "Last Minute Man",
         "MoWeEd Artists": [
             "Dave Holland Big Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Have Yourself a Merry Little Christmas [Instrumental]",
         "MoWeEd Artists": [
             "Sean Jones"
-        ]
+        ],
+        "Result Track Name": "Have Yourself a Merry Little Christmas",
+        "Result Artist Names": [
+            "Carrissa Jones"
+        ],
+        "Result Track-Match Percent": 0.9230769230769231,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0hlhcEFzyFRSoTBxNxuNgN",
+        "Result Album Name": "The Christmas EP"
     },
     {
         "Title": "Hawaii Waves Big Enough For Extreme Competition",

@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2009-08-01",
         "Day": "Sat",
-        "Scanned Date": "2021-06-05 18:09:07"
+        "Scanned Date": "2021-06-05 18:09:07",
+        "Playlist URI": "3x3W7Wx7WTkxxtBbcXxoEI",
+        "Playlist Link": "https://open.spotify.com/playlist/3x3W7Wx7WTkxxtBbcXxoEI",
+        "Snapshot ID": "MSxjMjUwYmJjNTNiMTFkNGYyMGQ0OWJlMGQ2ZWU0NTdjZmE0NTcyYTA2",
+        "Playlist Name": "MoWeEd 2009-08-01 Sat Weekend Edition"
     },
     {
         "Title": "GDP Report A Cause For Faint Hope",
@@ -28,13 +32,30 @@
         "MoWeEd Track": "The Bouy Song",
         "MoWeEd Artists": [
             "Jenny Scheinman"
-        ]
+        ],
+        "Result Track Name": "The Bouy Song",
+        "Result Artist Names": [
+            "Jenny Scheinman",
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:582pgu8b8bQCh5jhZSAsjf",
+        "Result Album Name": "12 Songs"
     },
     {
         "MoWeEd Track": "Hell's Heaven",
         "MoWeEd Artists": [
             "Enigma"
-        ]
+        ],
+        "Result Track Name": "Hell's Heaven",
+        "Result Artist Names": [
+            "Enigma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06IqbKR3z5pKWJrPHv1qZ0",
+        "Result Album Name": "Seven Lives Many Faces"
     },
     {
         "Title": "Crackdown On Smuggled Guns Hindered By U.S. Laws",
@@ -58,7 +79,16 @@
         "MoWeEd Track": "Soon",
         "MoWeEd Artists": [
             "Jazzanova"
-        ]
+        ],
+        "Result Track Name": "Soon",
+        "Result Artist Names": [
+            "Jazzanova",
+            "Vikter Duplaix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Xo899BVd8XT19Chczdx9X",
+        "Result Album Name": "Soon Part 1"
     },
     {
         "Title": "The 40-Year-Old Intern",
@@ -70,7 +100,16 @@
         "MoWeEd Track": "Hanazono",
         "MoWeEd Artists": [
             "Jazzanova"
-        ]
+        ],
+        "Result Track Name": "Hanazono",
+        "Result Artist Names": [
+            "Jazzanova",
+            "Hajime Yoshizawa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43ycySrgZPRfEV2nfRJFoi",
+        "Result Album Name": "In Between"
     },
     {
         "Title": "Choreographer Merce Cunningham: An Unconventional Life",
@@ -88,7 +127,12 @@
         "MoWeEd Track": "Blue Horizon",
         "MoWeEd Artists": [
             "Sidney Bechet and His Blue Note Jazz Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "An Oasis Of New Music At The Cabrillo Festival",
@@ -100,14 +144,31 @@
         "MoWeEd Track": "lady gazelle",
         "MoWeEd Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "MoWeEd Track": "Robin's Nest",
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dPxSiSc0OxvcdbAroHspU",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "Week In Review With Daniel Schorr",
@@ -125,7 +186,15 @@
         "MoWeEd Track": "8th Avenue",
         "MoWeEd Artists": [
             "Paul Bley"
-        ]
+        ],
+        "Result Track Name": "8th Avenue",
+        "Result Artist Names": [
+            "Paul Bley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YIBuhv6LOCDS0vLvfVx3w",
+        "Result Album Name": "Nothing to Declare"
     },
     {
         "Title": "One Beer Won't End The Race Conversation",
@@ -149,7 +218,15 @@
         "MoWeEd Track": "Falling Down",
         "MoWeEd Artists": [
             "Bob Belden"
-        ]
+        ],
+        "Result Track Name": "Falling Down",
+        "Result Artist Names": [
+            "Bob Belden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nvPjhWTUeV2prRxv3Omyp",
+        "Result Album Name": "Three Days Of Rain"
     },
     {
         "Title": "Your Letters: Gates And Lonesome George",
@@ -161,7 +238,12 @@
         "MoWeEd Track": "When I'm Sixty-Four",
         "MoWeEd Artists": [
             "L.A. Workshop"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Slick Swimsuits Stir Trouble In The Water",
@@ -185,12 +267,25 @@
         "MoWeEd Track": "I Believe [Theme from Baywatch]",
         "MoWeEd Artists": [
             "David Hasselhoff"
-        ]
+        ],
+        "Result Track Name": "I Believe",
+        "Result Artist Names": [
+            "David Hasselhoff"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2J3FHWtnVojWR9tYF3DuAx",
+        "Result Album Name": "Feeling So High"
     },
     {
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

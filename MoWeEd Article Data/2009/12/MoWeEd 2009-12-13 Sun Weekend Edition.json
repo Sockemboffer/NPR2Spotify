@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2009-12-13",
         "Day": "Sun",
-        "Scanned Date": "2021-06-05 17:56:16"
+        "Scanned Date": "2021-06-05 17:56:16",
+        "Playlist URI": "2MnbJm2f7iw1XLkIvN6OJQ",
+        "Playlist Link": "https://open.spotify.com/playlist/2MnbJm2f7iw1XLkIvN6OJQ",
+        "Snapshot ID": "MSxlNmI4ZGYzYWZjNzUxYjFlZGY5MDA2MDc5ZjMyMjg2ZTBjMzFmODE3",
+        "Playlist Name": "MoWeEd 2009-12-13 Sun Weekend Edition"
     },
     {
         "Title": "Climate Change Slow Going In Copenhagen",
@@ -28,13 +32,23 @@
         "MoWeEd Track": "In the Face of Day",
         "MoWeEd Artists": [
             "E.S.T."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Spam-Boo-Limbo",
         "MoWeEd Artists": [
             "E.S.T."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "States Release Inmates Early To Cut Prison Costs",
@@ -52,7 +66,12 @@
         "MoWeEd Track": "Shrewd Movements",
         "MoWeEd Artists": [
             "Fug"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Amanda Knox Trial A Tangle Of Cultural Tensions",
@@ -64,7 +83,15 @@
         "MoWeEd Track": "New Moon (The Meadow)",
         "MoWeEd Artists": [
             "Alexandre Desplat"
-        ]
+        ],
+        "Result Track Name": "New Moon (The Meadow)",
+        "Result Artist Names": [
+            "Alexandre Desplat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xHpqKKjWAULcbFlVefLrw",
+        "Result Album Name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "'I' Will Lead",
@@ -88,13 +115,29 @@
         "MoWeEd Track": "That Look You Give That Guy",
         "MoWeEd Artists": [
             "Eels"
-        ]
+        ],
+        "Result Track Name": "That Look You Give That Guy",
+        "Result Artist Names": [
+            "Eels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2DLfiDGID5hImlSz17wcDW",
+        "Result Album Name": "Hombre Lobo"
     },
     {
         "MoWeEd Track": "Pages",
         "MoWeEd Artists": [
             "The Sea and Cake"
-        ]
+        ],
+        "Result Track Name": "Pages",
+        "Result Artist Names": [
+            "The Sea and Cake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7HOjvdqBcAG0ngpJt7DsjM",
+        "Result Album Name": "Car Alarm"
     },
     {
         "Title": "A President's Murder Shadows Chilean Elections",
@@ -130,7 +173,15 @@
         "MoWeEd Track": "Love Songs on the Radio",
         "MoWeEd Artists": [
             "Mojave 3"
-        ]
+        ],
+        "Result Track Name": "Love Songs on the Radio",
+        "Result Artist Names": [
+            "Mojave 3"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FzK2g50oLcx8vqETwOn07",
+        "Result Album Name": "Ask Me Tomorrow"
     },
     {
         "Title": "'Dracula Is Dead,' But How Is Romania?",
@@ -154,6 +205,14 @@
         "MoWeEd Track": "One Morning in May",
         "MoWeEd Artists": [
             "Bill Charlap"
-        ]
+        ],
+        "Result Track Name": "One Morning In May",
+        "Result Artist Names": [
+            "Bill Charlap"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Q7mceACqvTPJQdRPbyasm",
+        "Result Album Name": "Stardust: The Music Of Hoagy Carmichael"
     }
 ]

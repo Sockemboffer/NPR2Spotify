@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2009-04-21",
         "Day": "Tue",
-        "Scanned Date": "2021-06-05 18:25:35"
+        "Scanned Date": "2021-06-05 18:25:35",
+        "Playlist URI": "2IgQ7za9zXVTQrY7VrigP8",
+        "Playlist Link": "https://open.spotify.com/playlist/2IgQ7za9zXVTQrY7VrigP8",
+        "Snapshot ID": "MSw2ODM1ZjBlN2YzMDdkNjExZDFmMDg4MzI4MzBjZDM5ZDZkNmEyNTNk",
+        "Playlist Name": "MoWeEd 2009-04-21 Tue Morning Edition"
     },
     {
         "Title": "Tensions Rise Between United States, Pakistan",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "The Triumph",
         "MoWeEd Artists": [
             "East West Quintet"
-        ]
+        ],
+        "Result Track Name": "The Summit",
+        "Result Artist Names": [
+            "East West Quintet"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qZ9sNq8mkAzFnRsGtKMaN",
+        "Result Album Name": "The Brooklyn EP"
     },
     {
         "MoWeEd Track": "Gangster Rap",
         "MoWeEd Artists": [
             "East West Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Can Los Angeles Make Skid Row Safer?",
@@ -42,7 +59,15 @@
             "J.J. Cale",
             "Cale",
             "JJ"
-        ]
+        ],
+        "Result Track Name": "Former Me",
+        "Result Artist Names": [
+            "J.J. Cale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:4OObnwqoSj8L37IyuUmoVW",
+        "Result Album Name": "Roll On"
     },
     {
         "MoWeEd Track": "Fonda-Lina",
@@ -50,7 +75,15 @@
             "J.J. Cale",
             "Cale",
             "JJ"
-        ]
+        ],
+        "Result Track Name": "Fonda-Lina",
+        "Result Artist Names": [
+            "J.J. Cale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:6zS0B5THS3K7IqHeL6Bj7y",
+        "Result Album Name": "Roll On"
     },
     {
         "Title": "Pulitzer High Offset By Low Newspaper Demand",
@@ -62,13 +95,29 @@
         "MoWeEd Track": "Bright Young Man",
         "MoWeEd Artists": [
             "Thomas Newman"
-        ]
+        ],
+        "Result Track Name": "The Bright Young Man",
+        "Result Artist Names": [
+            "Thomas Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25SiY49fwllqAsLpyLRJuV",
+        "Result Album Name": "Revolutionary Road"
     },
     {
         "MoWeEd Track": "Simple Clean Lines",
         "MoWeEd Artists": [
             "Thomas Newman"
-        ]
+        ],
+        "Result Track Name": "Simple Clean Lines",
+        "Result Artist Names": [
+            "Thomas Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0U4f07bTcSDUojZlv77WV6",
+        "Result Album Name": "Revolutionary Road"
     },
     {
         "Title": "Obama, King Abdullah To Discuss Middle East Peace",
@@ -92,13 +141,29 @@
         "MoWeEd Track": "Out of Nowhere",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Out Of Nowhere",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2l0NQinUWwLmm6OnfnY7b0",
+        "Result Album Name": "This Way"
     },
     {
         "MoWeEd Track": "Slampop",
         "MoWeEd Artists": [
             "Acoustic Alchemy"
-        ]
+        ],
+        "Result Track Name": "Slampop",
+        "Result Artist Names": [
+            "Acoustic Alchemy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cKR2Sa0GdasQtwTH2w3bw",
+        "Result Album Name": "This Way"
     },
     {
         "Title": "Obama To Take Aim At Credit Card Abuses",
@@ -122,13 +187,29 @@
         "MoWeEd Track": "Battlestar Scralatchtica",
         "MoWeEd Artists": [
             "Incubus"
-        ]
+        ],
+        "Result Track Name": "Battlestar Scralatchtica",
+        "Result Artist Names": [
+            "Incubus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wSLtkWKVDufABBcOVApB7",
+        "Result Album Name": "Make Yourself"
     },
     {
         "MoWeEd Track": "The Flintstones",
         "MoWeEd Artists": [
             "John Stetch"
-        ]
+        ],
+        "Result Track Name": "The Flintstones",
+        "Result Artist Names": [
+            "John Stetch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gE4PaPY06SFIK2soQSSr3",
+        "Result Album Name": "Tv Trio"
     },
     {
         "Title": "Obama Defends Releasing Interrogation Memos",
@@ -147,14 +228,30 @@
         "MoWeEd Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "The Key Role",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Ctooom3ZuIDln4Wg4Ckmf",
+        "Result Album Name": "Local Warming"
     },
     {
         "MoWeEd Track": "Nocturne of the Neon Night",
         "MoWeEd Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "Nocturne of the Neon Night",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GNs7OGiprhEJSOU9KQeuw",
+        "Result Album Name": "Local Warming"
     },
     {
         "Title": "Supreme Court To Hear School Strip-Search Case",
@@ -166,13 +263,23 @@
         "MoWeEd Track": "The Curious Case of Benjamin Button, film score",
         "MoWeEd Artists": [
             "Alexandre Desplat (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Curious Case of Benjamin Button, film score",
         "MoWeEd Artists": [
             "Alexandre Desplat (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Subsidized College Loans Under Fire In Congress",
@@ -184,13 +291,23 @@
         "MoWeEd Track": "Did You See the Moon Last Night?",
         "MoWeEd Artists": [
             "Los Angeles Guitar Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Catwalk",
         "MoWeEd Artists": [
             "Los Angeles Guitar Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Problem Loans Hurt Banks, Stock Market",
@@ -214,13 +331,35 @@
         "MoWeEd Track": "Over Nine Waves",
         "MoWeEd Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "Over Nine Waves",
+        "Result Artist Names": [
+            "Alison Brown",
+            "Garry West",
+            "Joe Craven",
+            "John R. Burr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4erIk5hwnqBVhf174MKdVH",
+        "Result Album Name": "The Company You Keep"
     },
     {
         "MoWeEd Track": "The Road West",
         "MoWeEd Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "The Road West",
+        "Result Artist Names": [
+            "Alison Brown",
+            "Garry West",
+            "Joe Craven",
+            "John R. Burr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AgFbcmnP6LXgLeCXlqcMQ",
+        "Result Album Name": "The Company You Keep"
     },
     {
         "Title": "Book Details South Africa From Mandela To Zuma",
@@ -232,13 +371,29 @@
         "MoWeEd Track": "Camote",
         "MoWeEd Artists": [
             "Novalima"
-        ]
+        ],
+        "Result Track Name": "Camote",
+        "Result Artist Names": [
+            "Novalima"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dx6dv8hDY2m6STRYx9xHJ",
+        "Result Album Name": "Coba Coba"
     },
     {
         "MoWeEd Track": "The Night Before",
         "MoWeEd Artists": [
             "Beatle Jazz"
-        ]
+        ],
+        "Result Track Name": "The Night Before",
+        "Result Artist Names": [
+            "Beatle Jazz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06Oo1kUzFia4r6xeTzJOhs",
+        "Result Album Name": "All You Need"
     },
     {
         "Title": "Porterhouse Wins Beautiful Bulldog Contest",

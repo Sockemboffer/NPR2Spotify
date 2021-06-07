@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2009-09-12",
         "Day": "Sat",
-        "Scanned Date": "2021-06-05 18:06:57"
+        "Scanned Date": "2021-06-05 18:06:57",
+        "Playlist URI": "4EBTaIMyYW4xjrxhObWrHo",
+        "Playlist Link": "https://open.spotify.com/playlist/4EBTaIMyYW4xjrxhObWrHo",
+        "Snapshot ID": "MSxjMDBlYmM1NzQwZjIyMTJlNmZiMmY5MzZlYjFmMTkxNjFlMjQ2ZDBh",
+        "Playlist Name": "MoWeEd 2009-09-12 Sat Weekend Edition"
     },
     {
         "Title": "Gingrich And Sharpton: Unlikely Pair Go On Tour",
@@ -22,14 +26,30 @@
         "MoWeEd Track": "Comedy Tonight",
         "MoWeEd Artists": [
             "Frankie Howerd"
-        ]
+        ],
+        "Result Track Name": "Comedy Tonight (From 'A Funny Thing Happened on the Way to the Forum')",
+        "Result Artist Names": [
+            "Stephen Sondheim",
+            "Frankie Howerd/Alyn Ainsworth/Strand Theatre Orchestra",
+            "Alyn Ainsworth",
+            "Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QFByW7ARzINZGaGqFgl8D",
+        "Result Album Name": "100 Best Songs from the Musicals"
     },
     {
         "MoWeEd Track": "Vier Ernste Gesange: Wenn ich mit Menschen",
         "MoWeEd Artists": [
             "Floyd Cooley",
             "Naomi Chaitkin Nimmo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Ariz. Town, Main Street Is A Border Crossing",
@@ -77,7 +97,15 @@
         "MoWeEd Track": "Little Girl",
         "MoWeEd Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Little Girl",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LU7ogz2YhvpQL3jZhnLrM",
+        "Result Album Name": "Disfarmer (Standard)"
     },
     {
         "Title": "Son Of The 'Fugitive' Defends His Father",
@@ -102,13 +130,30 @@
         "MoWeEd Artists": [
             "The London Symphony Orchestra",
             "Royal Choral Society"
-        ]
+        ],
+        "Result Track Name": "Eye of the Tiger (feat. The Royal Choral Society)",
+        "Result Artist Names": [
+            "London Symphony Orchestra",
+            "Royal Choral Society"
+        ],
+        "Result Track-Match Percent": 0.6153846153846154,
+        "Result Artists-Match Percent": 0.9230769230769231,
+        "Result Track URI": "spotify:track:0tvrtgWTEM3l1c7Eyw7TQr",
+        "Result Album Name": "Symphonic Rock - American Classics"
     },
     {
         "MoWeEd Track": "Peter Miller's Discovery",
         "MoWeEd Artists": [
             "Bil Frisell"
-        ]
+        ],
+        "Result Track Name": "Peter Miller's Discovery",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:32fD7ioh4049xeen865Q7D",
+        "Result Album Name": "Disfarmer (Standard)"
     },
     {
         "Title": "Healthy Eating Tips To Take From Ramadan",
@@ -138,6 +183,11 @@
         "MoWeEd Track": "Little Joe the Wrangler",
         "MoWeEd Artists": [
             "Steven Zdenek Eckels"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
