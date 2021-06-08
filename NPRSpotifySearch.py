@@ -31,7 +31,6 @@ class NPRSpotifySearch:
         self.track = None
         self.artists = list()
 
-    # GetTrackURIs transforms the data I send it, is that confusing to a user they get back different data?
     def SearchSpotify(self, track, artists):
         trackCopy = track
         trackResponses = list()
