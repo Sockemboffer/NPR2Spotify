@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-01-16",
         "Day": "Sat",
-        "Scanned Date": "2021-06-07 01:11:23"
+        "Scanned Date": "2021-06-07 01:11:23",
+        "Playlist URI": "7vGUq4HI06rXSXu501YSIV",
+        "Playlist Link": "https://open.spotify.com/playlist/7vGUq4HI06rXSXu501YSIV",
+        "Snapshot ID": "MSw4OGI2YTE4M2UxMDMyYWJlNzA2YjQ3MzA4N2I0ZjU2YzA2OGRjYzRm",
+        "Playlist Name": "MoWeEd 2010-01-16 Sat Weekend Edition"
     },
     {
         "Title": "Despite Aid, Haiti Very Much On Its Own",
@@ -32,7 +36,16 @@
             "Edgar",
             "Thile",
             "Chris"
-        ]
+        ],
+        "Result Track Name": "Ham and Cheese",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Chris Thile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Sd3tuN6zRpWnWHVm6veJl",
+        "Result Album Name": "Edgar Meyer and Chris Thile"
     },
     {
         "Title": " Peace Talks From The Israeli Perspective",
@@ -56,7 +69,12 @@
         "MoWeEd Track": "2 Butterflies",
         "MoWeEd Artists": [
             "Vibes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Scott Simon In The Valley Of The Monkeys",
@@ -68,7 +86,16 @@
         "MoWeEd Track": "Trio for Violin, Cello and Piano: Adagio Non Troppo- Allegro Vivace",
         "MoWeEd Artists": [
             "Ahn Trio"
-        ]
+        ],
+        "Result Track Name": "Trio for Violin, Cello & Piano - 1937: I. Adagio non troppo - Allegro vivace",
+        "Result Artist Names": [
+            "Leonard Bernstein",
+            "Ahn Trio"
+        ],
+        "Result Track-Match Percent": 0.8695652173913043,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6oyZZTz6XhK3YhUm3WRdpT",
+        "Result Album Name": "Ahn-Plugged"
     },
     {
         "Title": "'Hell To Pay' Sheds New Light On A-Bomb Decision",
@@ -98,13 +125,31 @@
         "MoWeEd Track": "A Night Away",
         "MoWeEd Artists": [
             "Metheny Mehldau Quartet"
-        ]
+        ],
+        "Result Track Name": "A Night Away",
+        "Result Artist Names": [
+            "Pat Metheny",
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3P0fCZXfhvmlWhE3J0AILK",
+        "Result Album Name": "Quartet"
     },
     {
         "MoWeEd Track": "Don't Wait",
         "MoWeEd Artists": [
             "Metheny Mehldau Quartet"
-        ]
+        ],
+        "Result Track Name": "Don't Wait",
+        "Result Artist Names": [
+            "Pat Metheny",
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7zAWQ56u9G95imJOQwxwT7",
+        "Result Album Name": "Quartet"
     },
     {
         "Title": "Obama Tax Targets Wall Street's Top Earners",
@@ -128,7 +173,15 @@
         "MoWeEd Track": "Riddle Me This",
         "MoWeEd Artists": [
             "Aaron Parks"
-        ]
+        ],
+        "Result Track Name": "Riddle Me This",
+        "Result Artist Names": [
+            "Aaron Parks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eCWaKUpP6G603viKDibCQ",
+        "Result Album Name": "Invisible Cinema"
     },
     {
         "Title": "Wyclef Jean's Haitian Charity Comes Under Scrutiny",
@@ -140,7 +193,15 @@
         "MoWeEd Track": "All You Need Is Love",
         "MoWeEd Artists": [
             "Jim Palmer"
-        ]
+        ],
+        "Result Track Name": "All You Need Is Love (Transcr. J. Palmer)",
+        "Result Artist Names": [
+            "Jim Palmer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0orjjLBEqpz8getMiyDNyB",
+        "Result Album Name": "Beatles for Harp"
     },
     {
         "Title": "Playoffs Offer Aging Legends One More Chance",

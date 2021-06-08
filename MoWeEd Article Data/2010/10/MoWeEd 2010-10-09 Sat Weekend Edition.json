@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-10-09",
         "Day": "Sat",
-        "Scanned Date": "2021-06-07 00:42:12"
+        "Scanned Date": "2021-06-07 00:42:12",
+        "Playlist URI": "7i2EoZcMyC4nxz1jTkmjTZ",
+        "Playlist Link": "https://open.spotify.com/playlist/7i2EoZcMyC4nxz1jTkmjTZ",
+        "Snapshot ID": "MSw0NzhkYjBiMDI4MThjZjZiM2I1ZThkNjcxZWIzZGVmYjU5Mjk4NTVh",
+        "Playlist Name": "MoWeEd 2010-10-09 Sat Weekend Edition"
     },
     {
         "Title": "Unemployment Refuses To Rally For Elections",
@@ -29,14 +33,33 @@
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Silk Road Ensemble"
-        ]
+        ],
+        "Result Track Name": "Yanzi (Swallow Song)",
+        "Result Artist Names": [
+            "Traditional",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:6RbfQCxKeuIzL4H2dKa2La",
+        "Result Album Name": "Appassionato [International Version]"
     },
     {
         "MoWeEd Track": "New Beginnings: Sacred Cloud Music",
         "MoWeEd Artists": [
             "Yo-Yo Ma",
             "Silk Road Ensemble"
-        ]
+        ],
+        "Result Track Name": "Sacred Cloud Music",
+        "Result Artist Names": [
+            "Zhao Ji-Ping",
+            "Yo-Yo Ma",
+            "The Silk Road Ensemble"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:0MZiElifizCV1UY17tzYx3",
+        "Result Album Name": "Enchantment"
     },
     {
         "Title": "Images Of N.Y. Islamic Center Meant To 'Educate'",
@@ -66,7 +89,15 @@
         "MoWeEd Track": "Dirt",
         "MoWeEd Artists": [
             "Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Dirt",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xOIq1yBsOQ1QWDITkCxsg",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "Title": "Enlightened Panda Imparts Wisdom In 'Zen Ghosts'",
@@ -91,7 +122,16 @@
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dPxSiSc0OxvcdbAroHspU",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": " A Shaft Of Hope Opens For Trapped Miners",
@@ -116,7 +156,12 @@
         "MoWeEd Artists": [
             "Jerry Douglas",
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Grim Mood At IMF, World Bank Meetings",
@@ -146,7 +191,12 @@
         "MoWeEd Track": "Allegro from Concerto No. 1 in F",
         "MoWeEd Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "All We Are Saying: Three Weeks With John Lennon",
@@ -158,6 +208,11 @@
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

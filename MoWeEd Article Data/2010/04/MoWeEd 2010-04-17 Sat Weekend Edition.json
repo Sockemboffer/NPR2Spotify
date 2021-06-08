@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-04-17",
         "Day": "Sat",
-        "Scanned Date": "2021-06-07 01:02:06"
+        "Scanned Date": "2021-06-07 01:02:06",
+        "Playlist URI": "0jPW5kAV5QWChzMpRy3FUe",
+        "Playlist Link": "https://open.spotify.com/playlist/0jPW5kAV5QWChzMpRy3FUe",
+        "Snapshot ID": "MSxlYWUyNjk2ODQzMTk2OGFiYWVhMjU2NzEzOTJiMmE1MmQxMThmMGM5",
+        "Playlist Name": "MoWeEd 2010-04-17 Sat Weekend Edition"
     },
     {
         "Title": "Scientists Keep Close Eye On Volcano In Iceland",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Mvt. 2 Sketch",
         "MoWeEd Artists": [
             "Lost in the Trees"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Light As a Feather",
         "MoWeEd Artists": [
             "Clutchy Hopkins"
-        ]
+        ],
+        "Result Track Name": "Light as a Feather",
+        "Result Artist Names": [
+            "Clutchy Hopkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BLjmqU7w2Z9duF7fpt7bB",
+        "Result Album Name": "The Story Teller"
     },
     {
         "Title": "Doing 'Penance' For The Church's Sins",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Back to the Future Overture",
         "MoWeEd Artists": [
             "Outatime Orchestra"
-        ]
+        ],
+        "Result Track Name": "Back To The Future - Original Score/End Credits",
+        "Result Artist Names": [
+            "The Outatime Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6153846153846154,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:7vdVtj9rwo5NEkn8DSlbLM",
+        "Result Album Name": "Study Session"
     },
     {
         "Title": "Cannery's Closure Marks End To Way Of Life In Maine",
@@ -64,7 +89,15 @@
         "MoWeEd Track": "Dreamt for Light Years in the Belly of a Mountain (aka Maxine)",
         "MoWeEd Artists": [
             "Sparklehorse"
-        ]
+        ],
+        "Result Track Name": "Dreamt For Light Years In The Belly Of A Mountain (Aka Maxine)",
+        "Result Artist Names": [
+            "Sparklehorse"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1RRguSPQ6wj82AN2eesvKc",
+        "Result Album Name": "Dreamt For Light Years In The Belly Of A Mountain"
     },
     {
         "Title": "Pulitzer-Winning Columnist Can't Be Pigeon-Holed",
@@ -82,7 +115,12 @@
         "MoWeEd Track": "Iyakutanda",
         "MoWeEd Artists": [
             "Rachel Z"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Protecting America's Film Legacy",
@@ -112,13 +150,29 @@
         "MoWeEd Track": "Good Morning Good Morning",
         "MoWeEd Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "Good Morning Good Morning - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xIuNHHcKI1JDuBPlSwzb1",
+        "Result Album Name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)"
     },
     {
         "MoWeEd Track": "Zither",
         "MoWeEd Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "Zither",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fihkVWJYi1swK3oDjQEiC",
+        "Result Album Name": "New Adventures In Hi-Fi"
     },
     {
         "Title": "Goldman Case Puts Spotlight On Wall Street Bankers",
@@ -142,7 +196,15 @@
         "MoWeEd Track": "Easier",
         "MoWeEd Artists": [
             "Grizzly Bear"
-        ]
+        ],
+        "Result Track Name": "Easier",
+        "Result Artist Names": [
+            "Grizzly Bear"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6lPjwgITcWpxVIiij1Iskw",
+        "Result Album Name": "Yellow House"
     },
     {
         "Title": "A Coal Miner's Granddaughter Reflects",
@@ -154,7 +216,15 @@
         "MoWeEd Track": "Bigtime",
         "MoWeEd Artists": [
             "The Soundtrack of Our Lives"
-        ]
+        ],
+        "Result Track Name": "Bigtime - Re-mastered 2014",
+        "Result Artist Names": [
+            "The Soundtrack Of Our Lives"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qZ5JH9H5CfPOdlUYoXHqe",
+        "Result Album Name": "Rest In Piece 1994 - 2012"
     },
     {
         "Title": "An Unofficial History Of The 'University Of Boxing'",
@@ -178,6 +248,14 @@
         "MoWeEd Track": "Spirit Of The Air",
         "MoWeEd Artists": [
             "Pat Metheny"
-        ]
+        ],
+        "Result Track Name": "Spirit of the Air",
+        "Result Artist Names": [
+            "Pat Metheny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LkpK2eL556nJlHfpNKF3k",
+        "Result Album Name": "The Orchestrion Project"
     }
 ]

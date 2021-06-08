@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2010-12-02",
         "Day": "Thu",
-        "Scanned Date": "2021-06-07 00:34:36"
+        "Scanned Date": "2021-06-07 00:34:36",
+        "Playlist URI": "6Hfsn4VAdg1kmApf7sITCT",
+        "Playlist Link": "https://open.spotify.com/playlist/6Hfsn4VAdg1kmApf7sITCT",
+        "Snapshot ID": "MSw4NmEwZjYxYWU3YmRiY2NhN2NkYjMxY2Q5YWY5ZDcwOTU1YzUwMzE5",
+        "Playlist Name": "MoWeEd 2010-12-02 Thu Morning Edition"
     },
     {
         "Title": "Debt Commission Recommends Shared Sacrifices",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Sprung Monkey",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Delta Skelta",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Irish Brace For Strict Austerity Budget",
@@ -46,14 +60,30 @@
         "MoWeEd Track": "Mood Indigo",
         "MoWeEd Artists": [
             "Ellington Allstars"
-        ]
+        ],
+        "Result Track Name": "Mood Indigo",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:77zlKibPvqudmNxMNpAtv6",
+        "Result Album Name": "In a Sentimental Mood"
     },
     {
         "MoWeEd Track": "Perdido",
         "MoWeEd Artists": [
             "Duke Ellington",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Perdido",
+        "Result Artist Names": [
+            "Duke Ellington and His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6jIHiquGNljKPVncJabz5t",
+        "Result Album Name": "Duke Ellington & His Orchestra"
     },
     {
         "Title": "Outgoing NY Governor May Have A Future In Radio",
@@ -65,7 +95,15 @@
         "MoWeEd Track": "Hang Up and Drive",
         "MoWeEd Artists": [
             "Jimmy Thackery"
-        ]
+        ],
+        "Result Track Name": "Hang up and Drive - Instrumental",
+        "Result Artist Names": [
+            "Jimmy Thackery"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ojCK0hrylXcZmyuus28Yh",
+        "Result Album Name": "Guitar"
     },
     {
         "Title": "WikiLeaks: U.S. Concerned About Pakistan's Nukes",
@@ -83,13 +121,23 @@
         "MoWeEd Track": "Sentimentos (Feelings)",
         "MoWeEd Artists": [
             "Oficina de Cordas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Manha de Carnaval (Morning of the Carnival) [From Black Orpheus]",
         "MoWeEd Artists": [
             "Oficina de Cordas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Foreclosure Sales Slump In 3rd Quarter",
@@ -119,13 +167,29 @@
         "MoWeEd Track": "The Lesson",
         "MoWeEd Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "The Lesson",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7K2kv5hSuJPi61vYJeGKEO",
+        "Result Album Name": "Palmystery"
     },
     {
         "MoWeEd Track": "The Ride of the Valkyries",
         "MoWeEd Artists": [
             "London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Ride of the Valkyries (The Watchmen)",
+        "Result Artist Names": [
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JczDg05i29N5C3VMZKIVA",
+        "Result Album Name": "The Very Best of Sci-fi & Fantasy (From Sucker Punch to V for Vendetta) [Original Motion Picture Soundtrack]"
     },
     {
         "Title": "WikiLeaks Yemen Cables Could Embolden Al-Qaida",
@@ -143,13 +207,23 @@
         "MoWeEd Track": "Ungaro",
         "MoWeEd Artists": [
             "Copa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "knight",
         "MoWeEd Artists": [
             "Copa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "House To Vote On Rangel Censure",
@@ -169,7 +243,12 @@
             "john harle",
             "sax",
             "albany symphony orchestra conducted by david alan miller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "MICHAEL TORKE SAXOPHONE CONCERTO I",
@@ -177,7 +256,18 @@
             "john harle",
             "sax",
             "albany symphony orchestra conducted by david alan miller"
-        ]
+        ],
+        "Result Track Name": "Saxophone Concerto: I",
+        "Result Artist Names": [
+            "Michael Torke",
+            "John Harle",
+            "Albany Symphony Orchestra",
+            "David Alan Miller"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8421052631578947,
+        "Result Track URI": "spotify:track:4cjzPsm87DeGqxfHwBXc0t",
+        "Result Album Name": "Sax Drive - Myers, Bennett & Torke: Saxophone Concertos"
     },
     {
         "Title": "A Collapse In Pompeii Highlights Neglect In Italy",
@@ -195,7 +285,15 @@
         "MoWeEd Track": "Mursiya",
         "MoWeEd Artists": [
             "Renaud Garcia-Fons"
-        ]
+        ],
+        "Result Track Name": "Mursiya",
+        "Result Artist Names": [
+            "Renaud Garcia-Fons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ne9TyuxjDi7PNNyWiMY1w",
+        "Result Album Name": "Entremundo"
     },
     {
         "Title": "Prices Rise As Drought Conditions Worsen In Israel",
@@ -209,7 +307,15 @@
             "Strunz",
             "Farah",
             "Farah"
-        ]
+        ],
+        "Result Track Name": "Caspian Night",
+        "Result Artist Names": [
+            "Strunz & Farah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Cl3TA1pLxdhLbfLG8BxHw",
+        "Result Album Name": "Desert Guitars"
     },
     {
         "MoWeEd Track": "Centellas",
@@ -217,7 +323,15 @@
             "Strunz",
             "Farah",
             "Farah"
-        ]
+        ],
+        "Result Track Name": "Centellas",
+        "Result Artist Names": [
+            "Strunz & Farah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4oJuUw2KaFZr2MU3vYZdbY",
+        "Result Album Name": "Desert Guitars"
     },
     {
         "Title": "Gay Portraiture Exhibit Sparks Funding Debate",
@@ -235,13 +349,29 @@
         "MoWeEd Track": "A. C. Strut",
         "MoWeEd Artists": [
             "Debbie Davies"
-        ]
+        ],
+        "Result Track Name": "A.C. Strut",
+        "Result Artist Names": [
+            "Debbie Davies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lsABCUSfEfo0dXLOANCBy",
+        "Result Album Name": "Round Every Corner"
     },
     {
         "MoWeEd Track": "Bayou Limbo",
         "MoWeEd Artists": [
             "The Matt Eakle Band"
-        ]
+        ],
+        "Result Track Name": "Bayou Limbo",
+        "Result Artist Names": [
+            "Matt Eakle Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:4x1BMiPtwOGjCdypFefDkz",
+        "Result Album Name": "Hardly Work"
     },
     {
         "Title": "Soccer's World Cup Bound For Russia, Qatar",

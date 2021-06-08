@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-05-23",
         "Day": "Sun",
-        "Scanned Date": "2021-06-07 00:59:31"
+        "Scanned Date": "2021-06-07 00:59:31",
+        "Playlist URI": "4UPUjl39GT01YZdMasjXAY",
+        "Playlist Link": "https://open.spotify.com/playlist/4UPUjl39GT01YZdMasjXAY",
+        "Snapshot ID": "MSwwMWFiZTk3MzVkMmQwOGYwMWJmMTM4NWVmY2NjZTMwMDc4NDE0ZTYx",
+        "Playlist Name": "MoWeEd 2010-05-23 Sun Weekend Edition"
     },
     {
         "Title": "Elections Point To What Candidates Haven't Done",
@@ -46,7 +50,12 @@
         "MoWeEd Track": "Sonatina for guitar [Allegro]",
         "MoWeEd Artists": [
             "Troy King"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Building A Medieval Castle In Arkansas",
@@ -58,7 +67,15 @@
         "MoWeEd Track": "Heartbreaker",
         "MoWeEd Artists": [
             "Section Quartet"
-        ]
+        ],
+        "Result Track Name": "Heartbreaker",
+        "Result Artist Names": [
+            "The Section Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Jwt02YP7nuFMUccyyJleF",
+        "Result Album Name": "Fuzzbox"
     },
     {
         "Title": "A Real American Hero",
@@ -84,7 +101,16 @@
             "Oliver Jones",
             "Jones",
             "Hank"
-        ]
+        ],
+        "Result Track Name": "Ripples",
+        "Result Artist Names": [
+            "Hank Jones",
+            "Oliver Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ho5UHqcAWVTbWnfO3rygI",
+        "Result Album Name": "Pleased To Meet You"
     },
     {
         "Title": "Drilling Advocate Frustrated By Handling Of Oil Spill",
@@ -108,7 +134,16 @@
         "MoWeEd Track": "Appalachia Waltz, version for solo cello",
         "MoWeEd Artists": [
             "Mark O'Connor"
-        ]
+        ],
+        "Result Track Name": "Appalachia Waltz (Version for Cello) - Solo Cello Version",
+        "Result Artist Names": [
+            "Mark O'Connor",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6su5ZAnXX5Wk32zlyl9sWo",
+        "Result Album Name": "Solo"
     },
     {
         "MoWeEd Track": "Johnny Appleseed Suite [Three Angel Brides]",
@@ -116,7 +151,17 @@
             "Mark O'Connor",
             "Colorado Symphony Orchestra",
             "Marin Alsop (conductor)"
-        ]
+        ],
+        "Result Track Name": "Johnny Appleseed Suite: Three Angel Brides",
+        "Result Artist Names": [
+            "Mark O'Connor",
+            "Colorado Symphony",
+            "Marin Alsop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.875,
+        "Result Track URI": "spotify:track:6WhbFvEsXmBo4m1fVCeAxD",
+        "Result Album Name": "Mark O'Connor: Double Violin Concerto"
     },
     {
         "Title": "What Went Wrong In Spain But Why It Isn't Greece",
@@ -140,7 +185,16 @@
         "MoWeEd Track": "Swing Gitane",
         "MoWeEd Artists": [
             "Frank Vignola"
-        ]
+        ],
+        "Result Track Name": "Swing Gitane",
+        "Result Artist Names": [
+            "Frank Vignola Trio",
+            "Julien Labro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5JpREbomMxjB4Pj44QDIFb",
+        "Result Album Name": "100 Years of Django"
     },
     {
         "Title": "Everyone Else Outsources, So Why Can't The Arts?",
@@ -158,6 +212,11 @@
         "MoWeEd Track": "Lost, television series score~Thinking Clairely",
         "MoWeEd Artists": [
             "Original TV Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

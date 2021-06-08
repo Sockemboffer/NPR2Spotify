@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-07-24",
         "Day": "Sat",
-        "Scanned Date": "2021-06-07 00:53:16"
+        "Scanned Date": "2021-06-07 00:53:16",
+        "Playlist URI": "2QpXonkpUMeQL4ryUIt4Yd",
+        "Playlist Link": "https://open.spotify.com/playlist/2QpXonkpUMeQL4ryUIt4Yd",
+        "Snapshot ID": "MSxjOTQ3ZTNlYTU5NDFmODBmNTNmNjBmYTA2YjI1MjhjMWY4ZjUwNGY0",
+        "Playlist Name": "MoWeEd 2010-07-24 Sat Weekend Edition"
     },
     {
         "Title": "Goodbye To Our Friend, Daniel Schorr",
@@ -34,13 +38,26 @@
         "MoWeEd Track": "La Vie en Rose",
         "MoWeEd Artists": [
             "Edith Piaf"
-        ]
+        ],
+        "Result Track Name": "La Vie en rose",
+        "Result Artist Names": [
+            "Édith Piaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3lAun9V0YdTlCSIEXPvfsY",
+        "Result Album Name": "Edith Piaf - The Best Of"
     },
     {
         "MoWeEd Track": "Padam, song",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "One More Ride On The Space Shuttle (Simulator)",
@@ -52,7 +69,15 @@
         "MoWeEd Track": "Such Great Heights",
         "MoWeEd Artists": [
             "The Section Quartet"
-        ]
+        ],
+        "Result Track Name": "Such Great Heights",
+        "Result Artist Names": [
+            "The Section Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7A4dZr5uXjb8qggBoAJttJ",
+        "Result Album Name": "Fuzzbox"
     },
     {
         "Title": "Listeners Miss Daniel Schorr",
@@ -64,13 +89,26 @@
         "MoWeEd Track": "Ten Cent Pistol",
         "MoWeEd Artists": [
             "The Black Keys"
-        ]
+        ],
+        "Result Track Name": "Ten Cent Pistol",
+        "Result Artist Names": [
+            "The Black Keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qoLCpTRYv6h8Vx94hxkvl",
+        "Result Album Name": "Brothers"
     },
     {
         "MoWeEd Track": "Song without Words for piano No. 1 in E major, Op. 19b/1",
         "MoWeEd Artists": [
             "Itzhak Perlman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Comic-Con Grows Up",
@@ -107,13 +145,29 @@
         "MoWeEd Artists": [
             "Grappelli",
             "Menuhin"
-        ]
+        ],
+        "Result Track Name": "Summertime",
+        "Result Artist Names": [
+            "George Gershwin",
+            "Yehudi Menuhin",
+            "Stéphane Grappelli",
+            "Max Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5h5LvfOG6kSVpnBmjorlZ9",
+        "Result Album Name": "Icon: Menuhin and Grappelli"
     },
     {
         "MoWeEd Track": "Oh, Lady Be Good (Overture)",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Friend Or Foe? In Afghanistan, The Picture Is Unclear",
@@ -138,7 +192,15 @@
         "MoWeEd Artists": [
             "Robert Randolph",
             "the Family Band"
-        ]
+        ],
+        "Result Track Name": "Back to the Wall (Live)",
+        "Result Artist Names": [
+            "Robert Randolph & The Family Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HmxQzmZ7r0rvWmoXVG4T4",
+        "Result Album Name": "Robert Randolph & The Family Band (Live In Concert)"
     },
     {
         "Title": "Biggest Star Still Managed To Hide Until Just Now",
@@ -150,7 +212,15 @@
         "MoWeEd Track": "Chicago [Adult Contemporary Easy Listening Version]",
         "MoWeEd Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "Chicago (adult contemporary easy listening version)",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jZPwBBF51zhCc9ZRKALMv",
+        "Result Album Name": "The Avalanche"
     },
     {
         "Title": "A London Cabbie's Summer Reading Picks",
@@ -174,6 +244,15 @@
         "MoWeEd Track": "Epilogue",
         "MoWeEd Artists": [
             "The Mothers of Invention"
-        ]
+        ],
+        "Result Track Name": "Epilogue",
+        "Result Artist Names": [
+            "Frank Zappa",
+            "The Mothers Of Invention"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:53w0uzGgxJofYDTknDzmks",
+        "Result Album Name": "Ahead Of Their Time"
     }
 ]

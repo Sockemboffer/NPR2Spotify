@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-12-04",
         "Day": "Sat",
-        "Scanned Date": "2021-06-07 00:34:51"
+        "Scanned Date": "2021-06-07 00:34:51",
+        "Playlist URI": "7obFFj12R9kXPjv0N9vHmy",
+        "Playlist Link": "https://open.spotify.com/playlist/7obFFj12R9kXPjv0N9vHmy",
+        "Snapshot ID": "MSxhZTg5ZjM5MWIyOWM2YTM1ZDA2OGVkNTFhM2JiOTY4NGYxNmQwZmIz",
+        "Playlist Name": "MoWeEd 2010-12-04 Sat Weekend Edition"
     },
     {
         "Title": "Deficit Plan Is Tough Medicine And A Tougher Vote",
@@ -28,14 +32,24 @@
         "MoWeEd Track": "Hey, Hey, Holy Mackerel",
         "MoWeEd Artists": [
             "The Chicago Cubs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Where's the Moment",
         "MoWeEd Artists": [
             "Gabrial McNair",
             "David Ralicke et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Female Vets Especially Vulnerable To Suicide",
@@ -59,7 +73,12 @@
         "MoWeEd Track": "Visual Machine, for ensemble",
         "MoWeEd Artists": [
             "The Project Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Your Letters: Boise State And The BCS",
@@ -71,7 +90,12 @@
         "MoWeEd Track": "The Planets, suite for orchestra & female chorus, Op. 32, H. 125",
         "MoWeEd Artists": [
             "Simon Rattle"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Jackie's Gift' A Baseball Tale For The Holidays",
@@ -90,7 +114,16 @@
         "MoWeEd Artists": [
             "Duke Robillard",
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Robin's Nest",
+        "Result Artist Names": [
+            "Duke Robillard",
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dPxSiSc0OxvcdbAroHspU",
+        "Result Album Name": "More Conversations In Swing Guitar"
     },
     {
         "Title": "Obama Goes A Long Way To Spread Holiday Cheer",
@@ -114,13 +147,29 @@
         "MoWeEd Track": "Chinatown",
         "MoWeEd Artists": [
             "The City Champs"
-        ]
+        ],
+        "Result Track Name": "Chinatown",
+        "Result Artist Names": [
+            "The City Champs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:334l01KJtGqvBc3FFwGix6",
+        "Result Album Name": "The Set-Up"
     },
     {
         "MoWeEd Track": "The Set-Up",
         "MoWeEd Artists": [
             "The City Champs"
-        ]
+        ],
+        "Result Track Name": "The Set-Up",
+        "Result Artist Names": [
+            "The City Champs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lANzboVZColxpQ9Iczprh",
+        "Result Album Name": "The Set-Up"
     },
     {
         "Title": "Stubborn Jobs Rate Pressures Unemployment Benefits",
@@ -144,7 +193,15 @@
         "MoWeEd Track": "Crazy House",
         "MoWeEd Artists": [
             "Jing Chi"
-        ]
+        ],
+        "Result Track Name": "Crazy House - Live",
+        "Result Artist Names": [
+            "Jing Chi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22T7p1MJ9TUqQXkAQ8q6dx",
+        "Result Album Name": "Jing Chi Live!"
     },
     {
         "Title": "Peewee Powerhouse Grows On A Dangerous Field",
@@ -156,13 +213,26 @@
         "MoWeEd Track": "Bear No Hair",
         "MoWeEd Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Second Dawn",
         "MoWeEd Artists": [
             "Brandi Disterheft"
-        ]
+        ],
+        "Result Track Name": "Second Dawn",
+        "Result Artist Names": [
+            "Brandi Disterheft"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0116NwEKaVYSDGXRHR8NQs",
+        "Result Album Name": "Second Side"
     },
     {
         "Title": "Eloise At 55: The Legacy Of Kay Thompson",
@@ -180,6 +250,11 @@
         "MoWeEd Track": "Set a Place for Me",
         "MoWeEd Artists": [
             "Guy Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

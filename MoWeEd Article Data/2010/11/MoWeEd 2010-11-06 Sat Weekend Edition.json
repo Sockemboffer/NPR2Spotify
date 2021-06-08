@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-11-06",
         "Day": "Sat",
-        "Scanned Date": "2021-06-07 00:38:29"
+        "Scanned Date": "2021-06-07 00:38:29",
+        "Playlist URI": "3z3G1MQDGIdFJd0kHSghLv",
+        "Playlist Link": "https://open.spotify.com/playlist/3z3G1MQDGIdFJd0kHSghLv",
+        "Snapshot ID": "MSw2OWQxNGU1NTZjNDBlZjY5NTMyNjA3ZGMyNjQwNWE4MmY1Yjc5ZTY4",
+        "Playlist Name": "MoWeEd 2010-11-06 Sat Weekend Edition"
     },
     {
         "Title": "And Now, Some Good News About Jobs",
@@ -28,7 +32,15 @@
         "MoWeEd Track": "Share the Sea",
         "MoWeEd Artists": [
             "Will Bernard"
-        ]
+        ],
+        "Result Track Name": "Share the Sea",
+        "Result Artist Names": [
+            "Will Bernard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6t2WsK40BcvHrSSSy1bqXf",
+        "Result Album Name": "Party Hats"
     },
     {
         "Title": "A Drug Lord Dies, But Mexico's War Goes On",
@@ -52,7 +64,15 @@
         "MoWeEd Track": "Eight Discernments: Snowflight",
         "MoWeEd Artists": [
             "Andrew York"
-        ]
+        ],
+        "Result Track Name": "Snowflight",
+        "Result Artist Names": [
+            "Andrew York"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4MHLKkkMHqpCt3dlK7BSoM",
+        "Result Album Name": "Denouement"
     },
     {
         "Title": "MSNBC Draws The Line At Keith Olbermann",
@@ -88,13 +108,27 @@
         "MoWeEd Track": "In a Landscape, for piano or harp",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Dream",
         "MoWeEd Artists": [
             "John Cage"
-        ]
+        ],
+        "Result Track Name": "Dream",
+        "Result Artist Names": [
+            "John Cage",
+            "Alexei Lubimov"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04O6YleCILNVtC81VlfKmB",
+        "Result Album Name": "John Cage: As It Is"
     },
     {
         "Title": "Midterm Losses Bite Blue Dog Democrats",
@@ -118,7 +152,18 @@
         "MoWeEd Track": "All Blues",
         "MoWeEd Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+        "Result Artist Names": [
+            "Miles Davis",
+            "John Coltrane",
+            "Cannonball Adderley",
+            "Bill Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5o3DSHw1ORhM3lWxqGRvEf",
+        "Result Album Name": "Kind Of Blue (Legacy Edition)"
     },
     {
         "Title": "Change Those Clocks -- The Brits Are Watching",
@@ -130,7 +175,15 @@
         "MoWeEd Track": "Time Has Come Today [Single Edit-Version 2]",
         "MoWeEd Artists": [
             "The Chambers Brothers"
-        ]
+        ],
+        "Result Track Name": "Time Has Come Today - Single Version One",
+        "Result Artist Names": [
+            "The Chambers Brothers"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2DdIuW3jGGbbAgRb7bxHWX",
+        "Result Album Name": "The Time Has Come"
     },
     {
         "Title": "Conroy's 'Reading Life': A Search For Safe Harbors",
@@ -150,6 +203,14 @@
             "Frank Sinatra",
             "Nelson Riddle",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "I've Got The World On A String",
+        "Result Artist Names": [
+            "Frank Sinatra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4LfgeOiPsAjDgDYSgmntCU",
+        "Result Album Name": "Ultimate Sinatra"
     }
 ]

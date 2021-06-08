@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2010-06-01",
         "Day": "Tue",
-        "Scanned Date": "2021-06-07 00:54:02"
+        "Scanned Date": "2021-06-07 00:54:02",
+        "Playlist URI": "0x95nmVwWjz6tUVhTlIkZd",
+        "Playlist Link": "https://open.spotify.com/playlist/0x95nmVwWjz6tUVhTlIkZd",
+        "Snapshot ID": "MSw4ZWZjY2Q1ZGViZDQ2MGExNjRkNWJmNTJkMTk0ZjcxYmQwMTFhOGI4",
+        "Playlist Name": "MoWeEd 2010-06-01 Tue Morning Edition"
     },
     {
         "Title": "Israeli Raid On Flotilla Draws Condemnation",
@@ -23,14 +27,24 @@
         "MoWeEd Artists": [
             "Khalifé",
             "Marcel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Taqasim, Pt. 1",
         "MoWeEd Artists": [
             "Khalifé",
             "Marcel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Consumer Protection Agency Contentious Issue",
@@ -48,13 +62,23 @@
         "MoWeEd Track": "(She Smells Like) Spring",
         "MoWeEd Artists": [
             "Vivid Low Sky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Donkey Jacket",
         "MoWeEd Artists": [
             "Vivid Low Sky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chinese Workers Demand Higher Pay",
@@ -66,7 +90,15 @@
         "MoWeEd Track": "Solid State Society",
         "MoWeEd Artists": [
             "Yoko Kanno"
-        ]
+        ],
+        "Result Track Name": "solid state society",
+        "Result Artist Names": [
+            "Yoko Kanno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0JASIek9LRwY27sefoa191",
+        "Result Album Name": "攻殻機動隊 S.A.C. Solid State Society O.S.T."
     },
     {
         "Title": "Months After Killing, Chicago School Looks Ahead",
@@ -84,13 +116,23 @@
         "MoWeEd Track": "\"La Meneuse de Tortues d'Or\" from Histories for Flute and Piano",
         "MoWeEd Artists": [
             "Masami Nakagawa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Siciliano",
         "MoWeEd Artists": [
             "Masami Nakagawa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "AIG Rejects Revised Prudential Offer For AIA",
@@ -120,13 +162,35 @@
         "MoWeEd Track": "Spirit Waltz",
         "MoWeEd Artists": [
             "One for All"
-        ]
+        ],
+        "Result Track Name": "Spirit Waltz",
+        "Result Artist Names": [
+            "One For All",
+            "Jim Rotondi",
+            "Eric Alexander",
+            "Steve Davis",
+            "Davis Hazeltine",
+            "John Webber",
+            "Joe Farnsworth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2s7CROVYVTWDlzZqloy43G",
+        "Result Album Name": "Incorrigible"
     },
     {
         "MoWeEd Track": "Killer Joe",
         "MoWeEd Artists": [
             "The Roger Kellaway Trio"
-        ]
+        ],
+        "Result Track Name": "Killer Joe",
+        "Result Artist Names": [
+            "The Joe Hurt Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5rIX8tD5bFbnmwTE1XlyG2",
+        "Result Album Name": "The Joe Hurt Trio Live"
     },
     {
         "Title": "BP Prepares For Next Attempt At Stopping Oil Leak",
@@ -144,13 +208,31 @@
         "MoWeEd Track": "Oh Well",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Oh Well",
+        "Result Artist Names": [
+            "Leo Kottke",
+            "Mike Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20Uw19kbKYBThkINc1sgLB",
+        "Result Album Name": "Sixty Six Steps"
     },
     {
         "MoWeEd Track": "From Spink to Correctionville",
         "MoWeEd Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "From Spink to Correctionville",
+        "Result Artist Names": [
+            "Leo Kottke",
+            "Mike Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Jqv3CNKMhd3f02EYb4yJn",
+        "Result Album Name": "Sixty Six Steps"
     },
     {
         "Title": "Approval Ratings Down, Reid In Re-Election Fight",
@@ -168,7 +250,15 @@
         "MoWeEd Track": "New Cimarron",
         "MoWeEd Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "New Cimarron",
+        "Result Artist Names": [
+            "Matt Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cdpqb7fB10WClLTVQA307",
+        "Result Album Name": "Latitude"
     },
     {
         "Title": "Al-Qaida Confirms No. 3 Official Killed",
@@ -180,7 +270,15 @@
         "MoWeEd Track": "Lifted",
         "MoWeEd Artists": [
             "Erik Telford"
-        ]
+        ],
+        "Result Track Name": "Lifted",
+        "Result Artist Names": [
+            "Erik Telford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3WVjREf00oDHM6luWTSMTP",
+        "Result Album Name": "Kinetic"
     },
     {
         "Title": "Repealing 'Don't Ask, Don't Tell' Faces Hurdles",
@@ -198,13 +296,31 @@
         "MoWeEd Track": "Suite No. 4 in E-flat Major: Gigue",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Suite No. 4 in E-Flat Major, BWV 1010: VI. Gigue",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Y9HshitG2sK0LZjNHsVJC",
+        "Result Album Name": "Bach: Unaccompanied Cello Suites (Remastered)"
     },
     {
         "MoWeEd Track": "Suite No. 5 in C Minor: Allemande",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Suite No. 5 in C Minor, BWV 1011: II. Allemande",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hB1M0RTIlrbC1DwA6XJ9Q",
+        "Result Album Name": "Bach: Unaccompanied Cello Suites (Remastered)"
     },
     {
         "Title": "Agatha Christie And Nuns Tell A Tale Of Alzheimer's",
@@ -216,7 +332,15 @@
         "MoWeEd Track": "Namorada do Vento (Freetempo Echoed Mix)",
         "MoWeEd Artists": [
             "Scoobie Do"
-        ]
+        ],
+        "Result Track Name": "Namorada do Vento(FREETEMPO echoed mix)",
+        "Result Artist Names": [
+            "Scoobie Do"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FRZuoiMWbXspUw0Ztve8M",
+        "Result Album Name": "風の恋人/茜色が燃えるとき"
     },
     {
         "Title": "Tech Company Hewlett Packard Cuts 9,000 Jobs",

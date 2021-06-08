@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2010-04-01",
         "Day": "Thu",
-        "Scanned Date": "2021-06-07 01:00:31"
+        "Scanned Date": "2021-06-07 01:00:31",
+        "Playlist URI": "4Tw6S31RnqJDkUhrIRZUTb",
+        "Playlist Link": "https://open.spotify.com/playlist/4Tw6S31RnqJDkUhrIRZUTb",
+        "Snapshot ID": "MSxjZmNiNDIzYWRjMTAzYzY1OTU2YWU3YWZmYTg1NDcwMTczMTc0YzU5",
+        "Playlist Name": "MoWeEd 2010-04-01 Thu Morning Edition"
     },
     {
         "Title": "New England Struggles After Record Flooding",
@@ -22,14 +26,27 @@
         "MoWeEd Track": "Get Right Church",
         "MoWeEd Artists": [
             "Paul Geremia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Monk's Mood",
         "MoWeEd Artists": [
             "Jones",
             "Hank"
-        ]
+        ],
+        "Result Track Name": "Monk's Mood",
+        "Result Artist Names": [
+            "Hank Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1l8seR4EsLpSkqNVhsc7cg",
+        "Result Album Name": "Hank Jones Trio"
     },
     {
         "Title": "Tina Brown's Must-Reads About ... This Working Life",
@@ -41,13 +58,23 @@
         "MoWeEd Track": "Fired by an Inner Spark",
         "MoWeEd Artists": [
             "Lew Anderson Big Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Red Blazer",
         "MoWeEd Artists": [
             "Lew Anderson Big Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Songbird DNA May Offer Clues To Human Speech",
@@ -60,14 +87,32 @@
         "MoWeEd Artists": [
             "Bill Cunliffe",
             "Holly Hofmann"
-        ]
+        ],
+        "Result Track Name": "Reunion",
+        "Result Artist Names": [
+            "Bill Cunliffe",
+            "Holly Hofman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:5YUXouybFZmUBNsMkujKhy",
+        "Result Album Name": "Three's Company"
     },
     {
         "MoWeEd Track": "Dalto",
         "MoWeEd Artists": [
             "Bill Cunliffe",
             "Holly Hofmann"
-        ]
+        ],
+        "Result Track Name": "Dalto",
+        "Result Artist Names": [
+            "Bill Cunliffe",
+            "Holly Hofman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:59eE0WvIo1Zi4o03tR4GbK",
+        "Result Album Name": "Three's Company"
     },
     {
         "Title": "RNC Raises A Lot Of Cash And Criticisms",
@@ -86,14 +131,30 @@
         "MoWeEd Artists": [
             "Benjy Wertheimer",
             "Michael Mandrell"
-        ]
+        ],
+        "Result Track Name": "Road Dogs (Guitar-Tabla Improv)",
+        "Result Artist Names": [
+            "Benjy Wertheimer and Michael Mandrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fBoANkJPMmpJoZU8Skn3s",
+        "Result Album Name": "Notes from Celtistan"
     },
     {
         "MoWeEd Track": "Naima",
         "MoWeEd Artists": [
             "Deepak Ram",
             "Jamey Haddad et. al."
-        ]
+        ],
+        "Result Track Name": "Naima",
+        "Result Artist Names": [
+            "Deepak Ram"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6lJ0KuPr2ClEz8VO33np8t",
+        "Result Album Name": "Steps"
     },
     {
         "Title": "Tough Fuel Efficiency Standards To Be Set",
@@ -129,13 +190,26 @@
         "MoWeEd Track": "Over the Rainbow",
         "MoWeEd Artists": [
             "Claude \"Fiddler\" Williams"
-        ]
+        ],
+        "Result Track Name": "Somewhere Over The Rainbow",
+        "Result Artist Names": [
+            "Claude \"Fiddler\" Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Ru52ua1ZFxNeuFYrXTEdR",
+        "Result Album Name": "Swingin' The Blues"
     },
     {
         "MoWeEd Track": "(Somebody Got) Soul, Soul, Soul",
         "MoWeEd Artists": [
             "The Wild Magnolias"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Countries Pledge Billions Toward Haiti's Recovery",
@@ -153,13 +227,29 @@
         "MoWeEd Track": "I Just Can't Keep from Crying Sometimes",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "I Just Can't Keep From Crying Sometimes",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3Rmls1v8DjsVA0SbHHWIw3",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "MoWeEd Track": "Poor Wayfaring Stranger",
         "MoWeEd Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "Poor Wayfaring Stranger",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2hiJfwnVgxrJAnbl6x8Ofq",
+        "Result Album Name": "House Of Guitars"
     },
     {
         "Title": "Journalist Chronicles 'Killing Fields' Of Juarez",
@@ -171,13 +261,26 @@
         "MoWeEd Track": "Child Heroes",
         "MoWeEd Artists": [
             "John Platania"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Re: Person I Knew",
         "MoWeEd Artists": [
             "Greg Reitan"
-        ]
+        ],
+        "Result Track Name": "Re: Person I Knew",
+        "Result Artist Names": [
+            "Greg Reitan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AHFPFpOlmmhBj7W99RDIN",
+        "Result Album Name": "Antibes"
     },
     {
         "Title": "Killer of Abortion Provider To Be Sentenced",
@@ -189,13 +292,31 @@
         "MoWeEd Track": "String Quartet No.5: II",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 5: II.",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:64ragyV6OOjq2Wwvgs90zE",
+        "Result Album Name": "Kronos Quartet Performs Philip Glass"
     },
     {
         "MoWeEd Track": "String Quartet No. 2 \"Company\": III",
         "MoWeEd Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 2 (Company): III.",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:614DkhUFYukfczBJCI22Fc",
+        "Result Album Name": "25 Years"
     },
     {
         "Title": "In Yemen, Anger Toward U.S. Grows Over Detainees",
@@ -213,14 +334,30 @@
         "MoWeEd Track": "Form 10",
         "MoWeEd Artists": [
             "Greg Ellis"
-        ]
+        ],
+        "Result Track Name": "Form 10",
+        "Result Artist Names": [
+            "Greg Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tTZwFbyXkLIBme4ItBzgy",
+        "Result Album Name": "Kala Rupa"
     },
     {
         "MoWeEd Track": "Saraab",
         "MoWeEd Artists": [
             "Simon Shaheen",
             "Qantara"
-        ]
+        ],
+        "Result Track Name": "Saraab",
+        "Result Artist Names": [
+            "Simon Shaheen & Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3h8o05iiD3UPk1XnVZEGAw",
+        "Result Album Name": "Blue Flame"
     },
     {
         "Title": "Classical Cutups For April Fools' Day",
@@ -233,13 +370,29 @@
         "MoWeEd Artists": [
             "Spike Jones",
             "His City Slickers"
-        ]
+        ],
+        "Result Track Name": "Pal-Yat-Chee",
+        "Result Artist Names": [
+            "Spike Jones & His City Slickers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1q8fQqR7FWWaHCnwCUbBrS",
+        "Result Album Name": "Spike Jones & His City Slickers"
     },
     {
         "MoWeEd Track": "In the 6th",
         "MoWeEd Artists": [
             "Trombone Shorty"
-        ]
+        ],
+        "Result Track Name": "In the 6th",
+        "Result Artist Names": [
+            "Trombone Shorty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ktXMg2y8lWaHooulEu9FM",
+        "Result Album Name": "Backatown"
     },
     {
         "Title": "Did You Know: Spaghetti Grows On Trees?",

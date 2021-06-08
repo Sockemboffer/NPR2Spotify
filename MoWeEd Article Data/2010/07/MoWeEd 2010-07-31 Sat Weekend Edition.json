@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2010-07-31",
         "Day": "Sat",
-        "Scanned Date": "2021-06-07 00:53:56"
+        "Scanned Date": "2021-06-07 00:53:56",
+        "Playlist URI": "4DTZsSWPY0PDPKN3cjNCvg",
+        "Playlist Link": "https://open.spotify.com/playlist/4DTZsSWPY0PDPKN3cjNCvg",
+        "Snapshot ID": "MSw5NDA3YzQ2YjU4M2IyMTkzNWU2NjQzMzZjMzVmMGI1YjI4ZjRjMjBi",
+        "Playlist Name": "MoWeEd 2010-07-31 Sat Weekend Edition"
     },
     {
         "Title": "By Hiring Gulf Scientists, BP May Be Buying Silence",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Mocerita Cu Trifoi (Auf dem Kleefeld)",
         "MoWeEd Artists": [
             "Gheorghe Zamfir"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Remembering",
         "MoWeEd Artists": [
             "Avishai Cohen"
-        ]
+        ],
+        "Result Track Name": "Remembering",
+        "Result Artist Names": [
+            "Avishai Cohen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1J24vNYCuLaJ3qm0SioL8A",
+        "Result Album Name": "At Home"
     },
     {
         "Title": "Mexico's Drug War More Sophisticated, Deadlier",
@@ -53,7 +70,16 @@
         "MoWeEd Artists": [
             "Ben Sollee",
             "Daniel Martin Moore"
-        ]
+        ],
+        "Result Track Name": "Flyrock #2",
+        "Result Artist Names": [
+            "Ben Sollee",
+            "Daniel Martin Moore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oKCVPyRnhPqSq0KV67B3W",
+        "Result Album Name": "Dear Companion"
     },
     {
         "Title": "'Trek In The Park': Drama In The Final Frontier",
@@ -65,7 +91,15 @@
         "MoWeEd Track": "Tears of the Gods",
         "MoWeEd Artists": [
             "Apollo 440"
-        ]
+        ],
+        "Result Track Name": "Tears of the Gods",
+        "Result Artist Names": [
+            "Apollo 440"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AHYAuYIteshpkaBKdofFa",
+        "Result Album Name": "Electro Glide In Blue"
     },
     {
         "Title": "'Ripe': One Man's Quest For The Perfect Tomato",
@@ -107,13 +141,30 @@
         "MoWeEd Track": "Drive My Car",
         "MoWeEd Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "Drive My Car - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06ypiqmILMdVeaiErMFA91",
+        "Result Album Name": "Rubber Soul (Remastered)"
     },
     {
         "MoWeEd Track": "Prelude",
         "MoWeEd Artists": [
             "Yesterdays New Quintet"
-        ]
+        ],
+        "Result Track Name": "Prelude",
+        "Result Artist Names": [
+            "Yesterday's New Quintet",
+            "Madlib"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:01V6zHAvh3KilxqfeBTWpp",
+        "Result Album Name": "Angles Without Edges"
     },
     {
         "Title": "Syria, Saudi Arabia Brace For Strife In Lebanon",
@@ -137,7 +188,15 @@
         "MoWeEd Track": "Sunny C (California)",
         "MoWeEd Artists": [
             "Ahmad Miller"
-        ]
+        ],
+        "Result Track Name": "Sunny C",
+        "Result Artist Names": [
+            "Ahmad Miller"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rGj5x2xgL5A5PkcpsdiEn",
+        "Result Album Name": "Yesterdays Universe: Prepare For A New Yesterday (Volume 1)"
     },
     {
         "Title": "War Games Lure Recruits For 'Real Thing'",
@@ -150,7 +209,15 @@
         "MoWeEd Artists": [
             "David Byrne",
             "Brian Eno"
-        ]
+        ],
+        "Result Track Name": "Strange Overtones",
+        "Result Artist Names": [
+            "David Byrne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7xy64TaKMaRdNimipwzAOd",
+        "Result Album Name": "Everything That Happens Will Happen on This Tour"
     },
     {
         "Title": "Holly Golightly: Breaking Rules In A Little Black Dress",
@@ -168,6 +235,14 @@
         "MoWeEd Track": "Welcome Home",
         "MoWeEd Artists": [
             "Punch Brothers"
-        ]
+        ],
+        "Result Track Name": "Welcome Home",
+        "Result Artist Names": [
+            "Punch Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zs4CWOs4rjgGf1joNKpzN",
+        "Result Album Name": "Antifogmatic"
     }
 ]
