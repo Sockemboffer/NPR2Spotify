@@ -10,7 +10,7 @@ from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-startDate = datetime(2009, 1, 1) # check 9 to 3, 28 for missing track playlists
+startDate = datetime(2010, 1, 1) # check 9 to 3, 28 for missing track playlists
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -18,7 +18,9 @@ nprPlaylistCreator = NPRPlaylistCreator()
 nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
-while startDate != datetime(2010, 1, 1):
+startTime = datetime.now()
+while startDate != datetime(2011, 1, 1):
+    processedTime = datetime.now()
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
@@ -33,7 +35,6 @@ while startDate != datetime(2010, 1, 1):
     # check if edition data is present
     if editionDay == None:
         print(">> No data for {0} ".format(startDate.date()))
-        print("\n")
         startDate = startDate + timedelta(days=+1)
     else:
         playlistURI = "Playlist URI"
@@ -67,7 +68,6 @@ while startDate != datetime(2010, 1, 1):
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
             print(editionDay[0]["Page Link"])
-            print("\n")
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
         # we update information
@@ -81,7 +81,6 @@ while startDate != datetime(2010, 1, 1):
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print("{0} finished updating {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
             print(editionDay[0]["Page Link"])
-            print("\n")
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
         # we create an empty playlist with a description noting tracks are not detailed
@@ -95,14 +94,17 @@ while startDate != datetime(2010, 1, 1):
             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
             print(">> No interlude Tracks for {0} ".format(startDate.date()))
-            print("\n")
             editionDay.clear()
             startDate = startDate + timedelta(days=+1)
+    dateTimeObj = datetime.now()
+    timestampStr = dateTimeObj.strftime("%I:%M %p")
+    print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
+    print("\n")
 
 # # Weekend edition shows up 1998 Jan
 # # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # # Used to create json output for each day with various article and track data
-# editionStartYear = 2009
+# editionStartYear = 2010
 # editionDayData = list()
 # projectName = "MoWeEd"
 # editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
