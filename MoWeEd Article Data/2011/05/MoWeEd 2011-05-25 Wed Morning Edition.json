@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2011-05-25",
         "Day": "Wed",
-        "Scanned Date": "2021-06-08 15:58:02"
+        "Scanned Date": "2021-06-08 15:58:02",
+        "Playlist URI": "2RRjZghYL2tSk022MoGoAz",
+        "Playlist Link": "https://open.spotify.com/playlist/2RRjZghYL2tSk022MoGoAz",
+        "Snapshot ID": "MSwwNjcyNzI5ZDg5YjYxNjM3NWRiN2U5ZWI1NTJlNWZhN2NmMzUzYWZh",
+        "Playlist Name": "MoWeEd 2011-05-25 Wed Morning Edition"
     },
     {
         "Title": "Joplin's Tornado Leaves 7 Mile Path Of Destruction",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Silent Sigh",
         "MoWeEd Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "Silent Sigh",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70wcWw5mdlri2oh6RjNUFO",
+        "Result Album Name": "About A Boy Soundtrack"
     },
     {
         "MoWeEd Track": "I Love N.Y.E.",
         "MoWeEd Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mubarak To Be Tried For Protesters' Deaths",
@@ -47,14 +64,28 @@
         "MoWeEd Artists": [
             "Rahim Alhaj",
             "Souhail Kaspar"
-        ]
+        ],
+        "Result Track Name": "Taqsīm Maqām Bayyat-Husayni",
+        "Result Artist Names": [
+            "Rahim AlHaj",
+            "Souhail Kaspar"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1G58j50942kmkrmTjtEvUA",
+        "Result Album Name": "When the Soul is Settled: Music of Iraq"
     },
     {
         "MoWeEd Track": "Taqsim Maqam Sika",
         "MoWeEd Artists": [
             "Rahim Alhaj",
             "Souhail Kaspar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tucson Shooting Suspect Faces Competency Hearing",
@@ -66,7 +97,15 @@
         "MoWeEd Track": "Lacrimae",
         "MoWeEd Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Lacrimae",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5dP3wOJfuszsGJNswN4YbH",
+        "Result Album Name": "Destroyed [Deluxe Edition]"
     },
     {
         "Title": "French Finance Minister Top Contender For IMF",
@@ -84,14 +123,30 @@
         "MoWeEd Track": "Moonglow",
         "MoWeEd Artists": [
             "Benny Goodman Quartet"
-        ]
+        ],
+        "Result Track Name": "Moonglow",
+        "Result Artist Names": [
+            "Benny Goodman Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KDn90F0oPMuJ36NaUSOlE",
+        "Result Album Name": "Killer Dillers!"
     },
     {
         "MoWeEd Track": "King Porter Stomp",
         "MoWeEd Artists": [
             "Benny Goodman",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "King Porter Stomp",
+        "Result Artist Names": [
+            "Benny Goodman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3DKYm6aKKirPaOQZrNbA7B",
+        "Result Album Name": "Compact Jazz: Best Of The Big Bands"
     },
     {
         "Title": "Financial Markets Are Lower On European Worries",
@@ -122,13 +177,33 @@
         "MoWeEd Artists": [
             "Alec Spiegelman",
             "Lefteris Kordis et. al."
-        ]
+        ],
+        "Result Track Name": "Celia",
+        "Result Artist Names": [
+            "Kordis/Spiegelman/Thorvaldsson",
+            "Lefteris Kordis, Alec Spiegelman, Thor Thorvaldsson",
+            "Lefteris Kordis",
+            "Alec Spiegelman",
+            "Thor Thorvaldsson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xi8S0wvSGoVZzAUG2R11w",
+        "Result Album Name": "Bebop Trio"
     },
     {
         "MoWeEd Track": "Rodeo Latino",
         "MoWeEd Artists": [
             "Jacques Pellarin Trio"
-        ]
+        ],
+        "Result Track Name": "Rodeo Latino",
+        "Result Artist Names": [
+            "Jacques Pellarin Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SywDjQjpGeX2uSihG1VUH",
+        "Result Album Name": "Karenita"
     },
     {
         "Title": "Deadly Tornadoes Strike Oklahoma, Other States",
@@ -146,13 +221,26 @@
         "MoWeEd Track": "The Quick Marble Tremble",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Waltz of the Skyscraper",
         "MoWeEd Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Night of the Skeptic",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0XfMJGQT1mlnQFrNkEbMGN",
+        "Result Album Name": "Nebraska (Original Soundtrack)"
     },
     {
         "Title": "In Burroughs' Family, One Saga, Three Memoirs, Many Competing Truths",
@@ -170,13 +258,29 @@
         "MoWeEd Track": "Redbone Let's Do It",
         "MoWeEd Artists": [
             "Lamplighter"
-        ]
+        ],
+        "Result Track Name": "Redbone Let's Do It",
+        "Result Artist Names": [
+            "Lamplighter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:102TQEC2G1T7pgtv5hDDoe",
+        "Result Album Name": "A Three Point Perspective"
     },
     {
         "MoWeEd Track": "Nocturn",
         "MoWeEd Artists": [
             "Lamplighter"
-        ]
+        ],
+        "Result Track Name": "Nocturn",
+        "Result Artist Names": [
+            "Lamplighter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ONZoIpFqNY2hydNHYfbtg",
+        "Result Album Name": "A Three Point Perspective"
     },
     {
         "Title": "Buffalo's Master Hatter Gets Customers Worldwide",
@@ -188,7 +292,12 @@
         "MoWeEd Track": "Chaplin's Studio Opening",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Suicide Bomber Targets Police In Peshawar, Pakistan",
@@ -213,14 +322,32 @@
         "MoWeEd Artists": [
             "Alberto Iglesias",
             "Hollywood Studio Symphony"
-        ]
+        ],
+        "Result Track Name": "Opening Titles",
+        "Result Artist Names": [
+            "The Hollywood Studio Symphony",
+            "Michael Nowak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:16atwk0sUUbZEHGa6K2rW8",
+        "Result Album Name": "The Kite Runner"
     },
     {
         "MoWeEd Track": "Kite Tournament",
         "MoWeEd Artists": [
             "Alberto Iglesias",
             "Hollywood Studio Symphony"
-        ]
+        ],
+        "Result Track Name": "Kite Tournament",
+        "Result Artist Names": [
+            "The Hollywood Studio Symphony",
+            "Michael Nowak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:7MM8Z18JQLVlEQX83ogXKh",
+        "Result Album Name": "The Kite Runner"
     },
     {
         "Title": "Oprah Says Goodbye After 25 Years",
@@ -244,13 +371,29 @@
         "MoWeEd Track": "Underneath the Sycamore",
         "MoWeEd Artists": [
             "Death Cab for Cutie"
-        ]
+        ],
+        "Result Track Name": "Underneath the Sycamore",
+        "Result Artist Names": [
+            "Death Cab for Cutie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38x5Xwz3mkH6iCghORp0gW",
+        "Result Album Name": "Codes and Keys"
     },
     {
         "MoWeEd Track": "San Antonio Rose",
         "MoWeEd Artists": [
             "Cow Bop"
-        ]
+        ],
+        "Result Track Name": "San Antonio Rose",
+        "Result Artist Names": [
+            "Cow Bop & Bruce Forman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cKRCh4khWwdauDxXilxCF",
+        "Result Album Name": "Too Hick For The Room"
     },
     {
         "Title": "Top Spirits Seller Diageo In Talks With Jose Cuervo",

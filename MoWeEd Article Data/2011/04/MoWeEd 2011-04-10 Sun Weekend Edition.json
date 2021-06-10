@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2011-04-10",
         "Day": "Sun",
-        "Scanned Date": "2021-06-08 15:59:45"
+        "Scanned Date": "2021-06-08 15:59:45",
+        "Playlist URI": "6n3nsbRc0MZIpc7t8K39HO",
+        "Playlist Link": "https://open.spotify.com/playlist/6n3nsbRc0MZIpc7t8K39HO",
+        "Snapshot ID": "MSxkYjY4ZDA4ZDNhZTc4ZjM5ZGI3NzA1ODNkYTQ3MGQwYzU2MWUyYTEy",
+        "Playlist Name": "MoWeEd 2011-04-10 Sun Weekend Edition"
     },
     {
         "Title": "Budget Details Slow To Emerge, Even To Congress",
@@ -52,7 +56,15 @@
         "MoWeEd Track": "Violet Hour",
         "MoWeEd Artists": [
             "The Civil Wars"
-        ]
+        ],
+        "Result Track Name": "The Violet Hour",
+        "Result Artist Names": [
+            "The Civil Wars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IN5LJsJQNPwzkytnTtrJC",
+        "Result Album Name": "Barton Hollow"
     },
     {
         "Title": "This Should Be A Piece Of Cake",
@@ -76,7 +88,12 @@
         "MoWeEd Track": "Cold Sweat/Mother Popcorn",
         "MoWeEd Artists": [
             "Pee Wee Ellis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Looming Budget Fights Offer GOP Opportunities",
@@ -100,13 +117,31 @@
         "MoWeEd Track": "Third Self-Portrait Series",
         "MoWeEd Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": "Third Self-Portrait Series",
+        "Result Artist Names": [
+            "Rachel Grimes",
+            "Rachel's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Uu1RkckBgUfOMmjCKMMK0",
+        "Result Album Name": "Music for Egon Schiele"
     },
     {
         "MoWeEd Track": "Egon & Edith",
         "MoWeEd Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": "Egon & Edith",
+        "Result Artist Names": [
+            "Rachel Grimes",
+            "Rachel's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3QtcguHZPPRNv7Y0bDHtNg",
+        "Result Album Name": "Music for Egon Schiele"
     },
     {
         "Title": "Which Children Should Get New Jersey's Funding?",
@@ -130,7 +165,15 @@
         "MoWeEd Track": "Huckleberry",
         "MoWeEd Artists": [
             "Jim Campilongo"
-        ]
+        ],
+        "Result Track Name": "Huckleberry",
+        "Result Artist Names": [
+            "Jim Campilongo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xvYEAM7jiukk6CCdDDqk5",
+        "Result Album Name": "Orange"
     },
     {
         "Title": "New Hotshot Takes Tiger At Masters' Final Round",
@@ -143,13 +186,29 @@
         "MoWeEd Artists": [
             "Lord Newborn",
             "The Magic Skulls"
-        ]
+        ],
+        "Result Track Name": "Dime Bag Conspiracy",
+        "Result Artist Names": [
+            "Lord Newborn and the Magic Skulls"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cxCmL9LGoBfopbxD19wpa",
+        "Result Album Name": "Lord Newborn and the Magic Skulls"
     },
     {
         "MoWeEd Track": "Sleep Gets Your Ghost",
         "MoWeEd Artists": [
             "Buke and Gass"
-        ]
+        ],
+        "Result Track Name": "Sleep Gets Your Ghost",
+        "Result Artist Names": [
+            "Buke & Gase"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3Cqacn83MHwqbWyJOtWbIp",
+        "Result Album Name": "Riposte"
     },
     {
         "Title": "'Catch Me If You Can' Takes Flight On Broadway",
@@ -174,12 +233,30 @@
         "MoWeEd Artists": [
             "Béla Fleck",
             "Chris Thile"
-        ]
+        ],
+        "Result Track Name": "Keyboard Sonata in C Major (K. 159, L. 104) - Instrumental",
+        "Result Artist Names": [
+            "Domenico Scarlatti",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 0.8235294117647058,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4oyuXZdyK1HghVIYrRFA8V",
+        "Result Album Name": "Perpetual Motion"
     },
     {
         "MoWeEd Track": "Keyboard Sonata in D Minor K. 213",
         "MoWeEd Artists": [
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "Keyboard Sonata in D minor (K. 213, L. 108) - Instrumental",
+        "Result Artist Names": [
+            "Domenico Scarlatti",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12CaH3PN8zzWvm5TDNcZgy",
+        "Result Album Name": "Perpetual Motion"
     }
 ]

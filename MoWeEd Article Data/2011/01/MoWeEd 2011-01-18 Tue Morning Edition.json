@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2011-01-18",
         "Day": "Tue",
-        "Scanned Date": "2021-06-08 16:12:14"
+        "Scanned Date": "2021-06-08 16:12:14",
+        "Playlist URI": "3XcLgK8ogIYF3caMLqeBHq",
+        "Playlist Link": "https://open.spotify.com/playlist/3XcLgK8ogIYF3caMLqeBHq",
+        "Snapshot ID": "MSw1MDk1ODY3Y2M4ZTUyYzZhNjU5Y2JmY2RkODc2ZmY3OTY3NGViNDE0",
+        "Playlist Name": "MoWeEd 2011-01-18 Tue Morning Edition"
     },
     {
         "Title": "U.S., China Leaders To Focus On Economic Frictions",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Bugaloo to You",
         "MoWeEd Artists": [
             "Bob Mintzer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Papa Lips",
         "MoWeEd Artists": [
             "Bob Mintzer"
-        ]
+        ],
+        "Result Track Name": "Papa Lips",
+        "Result Artist Names": [
+            "Bob Mintzer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TD1ZVewK7hWty94fxvNAr",
+        "Result Album Name": "Urban Contours"
     },
     {
         "Title": "Faulty Paperwork May Slow Millions Of Foreclosures",
@@ -46,13 +63,27 @@
         "MoWeEd Track": "Early WB Scores: The Depression Era [Medley]",
         "MoWeEd Artists": [
             "Carl Stalling"
-        ]
+        ],
+        "Result Track Name": "Early WB Scores: The Depression Era (1936-1941)",
+        "Result Artist Names": [
+            "Carl Stalling",
+            "The Carl Stalling Project"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4bpUrVBcMh0rumaiAdJCGf",
+        "Result Album Name": "The Carl Stalling Project - Music From Warner Bros. Cartoons 1936-1958"
     },
     {
         "MoWeEd Track": "The Good Egg",
         "MoWeEd Artists": [
             "Carl Stalling"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rep. Giffords Could Be Released Within Days Or Weeks",
@@ -64,13 +95,30 @@
         "MoWeEd Track": "He Ain't Heavy, He's My Brother",
         "MoWeEd Artists": [
             "Tommy Emmanuel"
-        ]
+        ],
+        "Result Track Name": "He Ain't Heavy, He's My Brother",
+        "Result Artist Names": [
+            "Tommy Emmanuel",
+            "John Knowles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37wnYRIcPm9FpXkfdoJhYn",
+        "Result Album Name": "Heart Songs"
     },
     {
         "MoWeEd Track": "Tapestry",
         "MoWeEd Artists": [
             "Tommy Emmanuel"
-        ]
+        ],
+        "Result Track Name": "Tapestry",
+        "Result Artist Names": [
+            "Tommy Emmanuel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kFYgzreQ9RZ7OIV7RBLuU",
+        "Result Album Name": "Little By Little"
     },
     {
         "Title": "Compton's Latinos Want Council Elections Revamped",
@@ -89,14 +137,30 @@
         "MoWeEd Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "Silenzio",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ih0rhxUuJlCJuGZ62gwUY",
+        "Result Album Name": "Absurdistan"
     },
     {
         "MoWeEd Track": "Hi and Lo",
         "MoWeEd Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "Hi & Lo",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22TFjUjADWjSpvCSBIfbAL",
+        "Result Album Name": "Absurdistan"
     },
     {
         "Title": "China Expands Its Influence Around The World",
@@ -120,13 +184,29 @@
         "MoWeEd Track": "Prelude No. 1 in C Major (From the Well-Tempered Clavier, BMV 846)",
         "MoWeEd Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": "Bach: Prelude No. 1 in C major from The Well-Tempered Clavier, BWV 846",
+        "Result Artist Names": [
+            "Jacques Loussier Trio"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:4HeDYfjT4QO2xCjkuX8NTM",
+        "Result Album Name": "The Bach Book"
     },
     {
         "MoWeEd Track": "This Must Be the Place (Naive Melody)",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+        "Result Artist Names": [
+            "Talking Heads"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6aBUnkXuCEQQHAlTokv9or",
+        "Result Album Name": "Speaking in Tongues (Deluxe Version)"
     },
     {
         "Title": "Tunisia's New Government Off To A Shaky Start",
@@ -144,13 +224,29 @@
         "MoWeEd Track": "Desert Phase",
         "MoWeEd Artists": [
             "Kaya Project"
-        ]
+        ],
+        "Result Track Name": "Desert Phase",
+        "Result Artist Names": [
+            "Kaya Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1B505WqihYp1iU2NttTTuq",
+        "Result Album Name": "Desert Phase"
     },
     {
         "MoWeEd Track": "Vijaya",
         "MoWeEd Artists": [
             "Kaya Project"
-        ]
+        ],
+        "Result Track Name": "Vijaya",
+        "Result Artist Names": [
+            "Kaya Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:61LP4khIQrkg3CUeaoGVpe",
+        "Result Album Name": "Desert Phase"
     },
     {
         "Title": "Steve Jobs Takes 2nd Medical Absence In 2 Years",
@@ -168,13 +264,29 @@
         "MoWeEd Track": "5 Minutes to Spare",
         "MoWeEd Artists": [
             "The Hellecasters"
-        ]
+        ],
+        "Result Track Name": "5 Minutes to Spare",
+        "Result Artist Names": [
+            "The Hellecasters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7qd5CxRXFpkLlWamUlKmUJ",
+        "Result Album Name": "The Return of the Hellecasters"
     },
     {
         "MoWeEd Track": "Hellecaster Stomp",
         "MoWeEd Artists": [
             "The Hellecasters"
-        ]
+        ],
+        "Result Track Name": "Hellecaster Stomp",
+        "Result Artist Names": [
+            "The Hellecasters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58rYAbge5AQN7sCRknkCkB",
+        "Result Album Name": "The Return of the Hellecasters"
     },
     {
         "Title": "Resort Draws Investors With Immigrant Visa Program",
@@ -186,13 +298,23 @@
         "MoWeEd Track": "The Law of Three (Dervish Dance)",
         "MoWeEd Artists": [
             "Dave Morgan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Law of Three (Dervish Dance)",
         "MoWeEd Artists": [
             "Dave Morgan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "China's Leader Comes To U.S. Amid Tense Ties",
@@ -210,13 +332,23 @@
         "MoWeEd Track": "Gavotte in B Minor (From Suite in D Major, BMV 1068)",
         "MoWeEd Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Brandenburg Concerto No. 5 in D Major, BMV 1050 III. Allegro",
         "MoWeEd Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Musical Innovation: A Grander Grand Piano",
@@ -234,13 +366,26 @@
         "MoWeEd Track": "Digital Loom, for organ & electonics [Deliver Us From Evil]",
         "MoWeEd Artists": [
             "Mason Bates"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The 5th",
         "MoWeEd Artists": [
             "David Garrett"
-        ]
+        ],
+        "Result Track Name": "The 5th",
+        "Result Artist Names": [
+            "David Garrett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:443pcLTasCSJ81AnHZ4ABd",
+        "Result Album Name": "Rock Symphonies"
     },
     {
         "Title": "Wheat Prices Push Cost Of Baguettes Higher",

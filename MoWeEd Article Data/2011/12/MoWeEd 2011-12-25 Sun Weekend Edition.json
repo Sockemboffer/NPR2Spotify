@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2011-12-25",
         "Day": "Sun",
-        "Scanned Date": "2021-06-08 15:34:42"
+        "Scanned Date": "2021-06-08 15:34:42",
+        "Playlist URI": "4ldyw9pNdjwOTGOll8bHME",
+        "Playlist Link": "https://open.spotify.com/playlist/4ldyw9pNdjwOTGOll8bHME",
+        "Snapshot ID": "MSwxZDc1NzhkY2RkNmI4NGM4MGY4MzlhNTk3MmZmZTQ3YzQ2ZmNmOTMz",
+        "Playlist Name": "MoWeEd 2011-12-25 Sun Weekend Edition"
     },
     {
         "Title": "Fears Renewed In Iraq With Wave Of Violence",
@@ -28,7 +32,16 @@
         "MoWeEd Track": "White Christmas",
         "MoWeEd Artists": [
             "Jack Jezzro"
-        ]
+        ],
+        "Result Track Name": "White Christmas - Bossa Nova Christmas Album Version",
+        "Result Artist Names": [
+            "Lori Mechem",
+            "Jack Jezzro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hd7yH3a7UoANAtmSgEmjI",
+        "Result Album Name": "Bossa Nova Christmas"
     },
     {
         "Title": "With New Strategy, Record Number Of Deportations",
@@ -52,7 +65,15 @@
         "MoWeEd Track": "Santa Claus Is Coming to Town",
         "MoWeEd Artists": [
             "Beegie Adair"
-        ]
+        ],
+        "Result Track Name": "Santa Claus Is Coming to Town",
+        "Result Artist Names": [
+            "Beegie Adair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wUoiDbDRzKTzD098YuSd2",
+        "Result Album Name": "Christmas Jazz"
     },
     {
         "Title": "Loose Moose Make Anchorage A Winter Wanderland",
@@ -82,7 +103,15 @@
         "MoWeEd Track": "Christmas Wrapping",
         "MoWeEd Artists": [
             "Vitamin String Quartet"
-        ]
+        ],
+        "Result Track Name": "Christmas Wrapping",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LkGUPjuW9f7ymHSZa6pak",
+        "Result Album Name": "The VSQ Christmas Album"
     },
     {
         "Title": "Gingrich Camp: More Talk Than Action?",
@@ -106,13 +135,26 @@
         "MoWeEd Track": "Smooth Jazz All Tribute to Kanye West",
         "MoWeEd Artists": [
             "Smooth Jazz All Stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Baby, It's Cold Outside",
         "MoWeEd Artists": [
             "Holiday Smooth Jazz Classics"
-        ]
+        ],
+        "Result Track Name": "Baby, It's Cold Outside",
+        "Result Artist Names": [
+            "Smooth Jazz All Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4Vd8i21RWUZ3L2HlioR9Jd",
+        "Result Album Name": "Holiday Smooth Jazz Classics"
     },
     {
         "Title": "The News Tip: Takeaways From 2011",
@@ -137,7 +179,12 @@
         "MoWeEd Artists": [
             "Sellers International Brass Band",
             "The Huddersfield Choral Society"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "NBA's Opening Day",
@@ -149,7 +196,15 @@
         "MoWeEd Track": "Let It Snow! Let It Snow! Let It Snow!",
         "MoWeEd Artists": [
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": "Let It Snow",
+        "Result Artist Names": [
+            "Oscar Peterson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pctt0uFOGc7NxJvzwIv1x",
+        "Result Album Name": "An Oscar Peterson Christmas"
     },
     {
         "Title": "Trees In Trouble: Grim Future For Frankincense",
@@ -173,6 +228,14 @@
         "MoWeEd Track": "Christmas Song",
         "MoWeEd Artists": [
             "The Salvation Army"
-        ]
+        ],
+        "Result Track Name": "The Christmas Song",
+        "Result Artist Names": [
+            "The Salvation Army"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PUDiaUVDB0VgoeXnaIQZC",
+        "Result Album Name": "The Salvation Army All Time Christmas Classics"
     }
 ]

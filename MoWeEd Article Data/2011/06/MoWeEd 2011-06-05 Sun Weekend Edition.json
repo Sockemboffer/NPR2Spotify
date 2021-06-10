@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2011-06-05",
         "Day": "Sun",
-        "Scanned Date": "2021-06-08 15:52:20"
+        "Scanned Date": "2021-06-08 15:52:20",
+        "Playlist URI": "1Xf6EBdBY1cA9d6LxdFNBE",
+        "Playlist Link": "https://open.spotify.com/playlist/1Xf6EBdBY1cA9d6LxdFNBE",
+        "Snapshot ID": "MSw3OGQ2N2IyOWZhM2FmYzU1ODBjMzk0NzEzODMyYWM0Y2U2YTY2MGJm",
+        "Playlist Name": "MoWeEd 2011-06-05 Sun Weekend Edition"
     },
     {
         "Title": "As AIDS Turns 30, Scientists Reminisce",
@@ -22,13 +26,30 @@
         "MoWeEd Track": "BARCAROLE",
         "MoWeEd Artists": [
             "John Nauman"
-        ]
+        ],
+        "Result Track Name": "Barcarole",
+        "Result Artist Names": [
+            "John Schneiderman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5VQ1TqfzGQ1hj8W0QJVLA6",
+        "Result Album Name": "Johann Kaspar Mertz (1806-1856) Guitar Duets"
     },
     {
         "MoWeEd Track": "JOY",
         "MoWeEd Artists": [
             "John Nauman"
-        ]
+        ],
+        "Result Track Name": "Five Dances - 5. Joy",
+        "Result Artist Names": [
+            "Ricky Ian Gordon",
+            "John Nauman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:370zuasahXNG3ORmSjJlTx",
+        "Result Album Name": "Piano Music of Ricky Ian Gordon"
     },
     {
         "Title": "Amid Unrest Over Austerity, Portugal Votes",
@@ -54,7 +75,17 @@
             "Christian McBride",
             "Nicholas Payton",
             "Mark Whitfield"
-        ]
+        ],
+        "Result Track Name": "One Finger Snap",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Nicholas Payton",
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fyTXJLdISSGtPUAgAFgqy",
+        "Result Album Name": "Fingerpainting: The Music Of Herbie Hancock"
     },
     {
         "Title": "Letters: Hansen, Doctor, Libraries",
@@ -102,7 +133,15 @@
         "MoWeEd Track": "CEDAR TREE",
         "MoWeEd Artists": [
             "RUSSELL MALONE"
-        ]
+        ],
+        "Result Track Name": "Cedar Tree",
+        "Result Artist Names": [
+            "Russell Malone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0MmB6Su28GliDlq4CwQnM5",
+        "Result Album Name": "Black Butterfly"
     },
     {
         "Title": "Wisconsin Democrats Target GOP Recall",
@@ -132,7 +171,15 @@
         "MoWeEd Track": "My Foolish Heart",
         "MoWeEd Artists": [
             "John McLaughlin"
-        ]
+        ],
+        "Result Track Name": "My Foolish Heart",
+        "Result Artist Names": [
+            "John McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GrzytjjfP6JNxXuHydxNk",
+        "Result Album Name": "Electric Guitarist"
     },
     {
         "Title": "Italian Cuisine Thrives Under The Sicilian Sun",
@@ -145,7 +192,12 @@
         "MoWeEd Artists": [
             "Chuckerbutty Ocarina Quartet",
             "Michael Copley (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Colombia, Baristas Get Double-Shot At Fame",
@@ -169,6 +221,15 @@
         "MoWeEd Track": "WALTZ",
         "MoWeEd Artists": [
             "John Nauman"
-        ]
+        ],
+        "Result Track Name": "Five Dances - 2. Waltz",
+        "Result Artist Names": [
+            "Ricky Ian Gordon",
+            "John Nauman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:13lmgiUtHDBydUMYZph937",
+        "Result Album Name": "Piano Music of Ricky Ian Gordon"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2011-05-17",
         "Day": "Tue",
-        "Scanned Date": "2021-06-08 15:57:03"
+        "Scanned Date": "2021-06-08 15:57:03",
+        "Playlist URI": "3bfw4t9sA5pqTeF8uPerBh",
+        "Playlist Link": "https://open.spotify.com/playlist/3bfw4t9sA5pqTeF8uPerBh",
+        "Snapshot ID": "MSwwNDlmOWNhNGU2ZTAyMTcxOGQ2ZGUwYTlmM2Y0YjVmMmIwODk0YzM1",
+        "Playlist Name": "MoWeEd 2011-05-17 Tue Morning Edition"
     },
     {
         "Title": "If IMF's Strauss-Kahn Steps Down, Who Takes Over?",
@@ -22,13 +26,26 @@
         "MoWeEd Track": "Les Blues de la Prison",
         "MoWeEd Artists": [
             "Beausoleil"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Newz Reel",
         "MoWeEd Artists": [
             "Beausoleil"
-        ]
+        ],
+        "Result Track Name": "Newz Reel",
+        "Result Artist Names": [
+            "BeauSoleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mJkgkz9uetMJesS4uXsMP",
+        "Result Album Name": "L'Amour Ou La Folie"
     },
     {
         "Title": "From Monkey Bars To The Money Playground",
@@ -46,13 +63,29 @@
         "MoWeEd Track": "Tabouli",
         "MoWeEd Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Tabouli",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pVO15RG2K7Sum1AF7G06W",
+        "Result Album Name": "The Velvet Touch of Los Straitjackets"
     },
     {
         "MoWeEd Track": "State Fair",
         "MoWeEd Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "State Fair (Live)",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tLf1iRS1eBMz1fgcXqzcf",
+        "Result Album Name": "Damas y Caballeros! (Live)"
     },
     {
         "Title": "Potential GOP Candidates Find Their Way To Iowa",
@@ -64,7 +97,15 @@
         "MoWeEd Track": "Volcanic Jig",
         "MoWeEd Artists": [
             "Natalie MacMaster"
-        ]
+        ],
+        "Result Track Name": "Volcanic Jig",
+        "Result Artist Names": [
+            "Natalie MacMaster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BBeJLLRyLRYfsaov636mG",
+        "Result Album Name": "Yours Truly"
     },
     {
         "Title": "Presence Of His Family Likely Helped Bring Down Bin Laden",
@@ -84,7 +125,16 @@
             "Zaman 8",
             "Hafez Modir",
             "Hafez Modir"
-        ]
+        ],
+        "Result Track Name": "Sani",
+        "Result Artist Names": [
+            "Zaman 8",
+            "Hafez Modir"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72TQ5q6DzOaFImQ5WZq2Oc",
+        "Result Album Name": "Suryaghati EP 1"
     },
     {
         "MoWeEd Track": "Surya",
@@ -92,7 +142,16 @@
             "Zaman 8",
             "Hafez Modir",
             "Hafez Modir"
-        ]
+        ],
+        "Result Track Name": "Surya",
+        "Result Artist Names": [
+            "Zaman 8",
+            "Hafez Modir"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1O0h3Lid50WJzT7CDo2VKs",
+        "Result Album Name": "Suryaghati EP 1"
     },
     {
         "Title": "EU Approves Bailout Package For Portugal",
@@ -123,14 +182,30 @@
         "MoWeEd Artists": [
             "Béla Fleck",
             "the Flecktones"
-        ]
+        ],
+        "Result Track Name": "Bottle Rocket",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FasENH3NLI8Ishtdt0Org",
+        "Result Album Name": "Rocket Science"
     },
     {
         "MoWeEd Track": "Twist and Shout",
         "MoWeEd Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Twist and Shout",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0qNtIFlZu3t4j2AZWX30KE",
+        "Result Album Name": "The Locomotion: 60's Dance Classics"
     },
     {
         "Title": "As U.S. Military Exits Iraq, Contractors To Enter",
@@ -155,14 +230,34 @@
         "MoWeEd Artists": [
             "Booka",
             "the Flaming Geckos"
-        ]
+        ],
+        "Result Track Name": "Western Sunrise",
+        "Result Artist Names": [
+            "Booka Michel",
+            "John X. Reed",
+            "Cindy Cashdollar",
+            "Glen Fukunaga",
+            "Booka and the Flaming Geckos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59Ivt3iRskWR6GyP6XW3MH",
+        "Result Album Name": "Baghdad Texas (Original Motion Picture Soundtrack)"
     },
     {
         "MoWeEd Track": "Carmen's Dance",
         "MoWeEd Artists": [
             "Booka",
             "the Flaming Geckos"
-        ]
+        ],
+        "Result Track Name": "Carmen's Dance",
+        "Result Artist Names": [
+            "Booka and the Flaming Geckos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fAOENTxGl22AdP3zJ0v7o",
+        "Result Album Name": "Baghdad Texas"
     },
     {
         "Title": "U.S., Pakistan 'Mutually Exploited' Their Relationship",
@@ -174,13 +269,23 @@
         "MoWeEd Track": "Trigana",
         "MoWeEd Artists": [
             "Trigana"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Zeus",
         "MoWeEd Artists": [
             "Trigana"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Veterans Compete For Gold At Warrior Games",
@@ -192,13 +297,29 @@
         "MoWeEd Track": "Hardcore Days & Softcore Nights",
         "MoWeEd Artists": [
             "Aqueduct"
-        ]
+        ],
+        "Result Track Name": "Hardcore Days & Softcore Nights",
+        "Result Artist Names": [
+            "Aqueduct"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HwwCJdKHNcAi5Dna3HZbE",
+        "Result Album Name": "Music From The O.C. Mix 4"
     },
     {
         "MoWeEd Track": "Farewell Ride",
         "MoWeEd Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Farewell Ride",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3RvaJkMZ2iqKuLNHe2Mg4O",
+        "Result Album Name": "Guero"
     },
     {
         "Title": "Trump Tells NBC Execs He Won't Run For President",
@@ -216,13 +337,29 @@
         "MoWeEd Track": "Banished",
         "MoWeEd Artists": [
             "Mychael Danna"
-        ]
+        ],
+        "Result Track Name": "Banished",
+        "Result Artist Names": [
+            "Mychael Danna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EuYSsGNSghNMrousXqyMQ",
+        "Result Album Name": "Monsoon Wedding"
     },
     {
         "MoWeEd Track": "Good Indian Girls",
         "MoWeEd Artists": [
             "Mychael Danna"
-        ]
+        ],
+        "Result Track Name": "Good Indian Girls",
+        "Result Artist Names": [
+            "Mychael Danna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7s0DuNeaN2j27KFu8wux5U",
+        "Result Album Name": "Monsoon Wedding"
     },
     {
         "Title": "You Bug Me. Now Science Explains Why.",
@@ -240,14 +377,27 @@
         "MoWeEd Track": "Theme from Cyrano/Mr. Tambourine Man",
         "MoWeEd Artists": [
             "William Shatner"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Divertimento: Pas De Deux, Adagio",
         "MoWeEd Artists": [
             "Jasper Wood",
             "David Riley"
-        ]
+        ],
+        "Result Track Name": "Divertimento: IV. Pas de Deux - a - Adagio",
+        "Result Artist Names": [
+            "Jasper Wood"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5dcO9HXQjx0HmUQwIZoHw0",
+        "Result Album Name": "Stravinky: Works for Violin & Piano"
     },
     {
         "Title": "Wal-Mart's Profits Up, Portugal Gets Bailout",

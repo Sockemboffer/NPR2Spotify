@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2011-09-03",
         "Day": "Sat",
-        "Scanned Date": "2021-06-08 15:42:18"
+        "Scanned Date": "2021-06-08 15:42:18",
+        "Playlist URI": "2Fvw4NCd1JA0qjiTRrknyD",
+        "Playlist Link": "https://open.spotify.com/playlist/2Fvw4NCd1JA0qjiTRrknyD",
+        "Snapshot ID": "MSxjZjliNTA0MzRhMzQzNjc5Yzg1ZGEzNzhlY2Q2ZmYxMzg0Y2IyNDc2",
+        "Playlist Name": "MoWeEd 2011-09-03 Sat Weekend Edition"
     },
     {
         "Title": "Jobs Numbers Paint 'Very Gloomy' Picture For All",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Avril 14th",
         "MoWeEd Artists": [
             "Acoustica"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Dot",
         "MoWeEd Artists": [
             "Gonzales"
-        ]
+        ],
+        "Result Track Name": "Dot",
+        "Result Artist Names": [
+            "Chilly Gonzales"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Hhx9fvYGzgm9PXCuMW9eB",
+        "Result Album Name": "Solo Piano"
     },
     {
         "Title": "Divisions Emerge Over Libya's Next Steps",
@@ -64,7 +81,15 @@
         "MoWeEd Track": "Bosco's Blues",
         "MoWeEd Artists": [
             "The Sugarman 3"
-        ]
+        ],
+        "Result Track Name": "Bosco's Blues",
+        "Result Artist Names": [
+            "The Sugarman 3"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:612DuSQPYxZ2rAxSlPRsxd",
+        "Result Album Name": "Sugarman 3 & Co: Pure Cane Sugar"
     },
     {
         "Title": "A Stellar Explosion In The Big Dipper's Handle",
@@ -95,7 +120,16 @@
         "MoWeEd Artists": [
             "Prince",
             "the Revolution"
-        ]
+        ],
+        "Result Track Name": "Purple Rain - Live in Syracuse, NY, 3/30/85",
+        "Result Artist Names": [
+            "Prince",
+            "The Revolution"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yfYG12p66mQ2NsD7EuqEu",
+        "Result Album Name": "Prince and The Revolution: Live"
     },
     {
         "Title": "Israel Seen Increasingly Isolated In Middle East",
@@ -119,13 +153,29 @@
         "MoWeEd Track": "Sound & Vision",
         "MoWeEd Artists": [
             "The Sea and Cake"
-        ]
+        ],
+        "Result Track Name": "Sound & Vision",
+        "Result Artist Names": [
+            "The Sea and Cake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7IQAuxUG4VczKl85gVcPaX",
+        "Result Album Name": "One Bedroom"
     },
     {
         "MoWeEd Track": "Four Corners",
         "MoWeEd Artists": [
             "The Sea and Cake"
-        ]
+        ],
+        "Result Track Name": "Four Corners",
+        "Result Artist Names": [
+            "The Sea and Cake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:407hbarbrm57SHWECg5OiS",
+        "Result Album Name": "One Bedroom"
     },
     {
         "Title": "Thousands Still Feeling Blow From Hurricane Irene",
@@ -155,7 +205,15 @@
         "MoWeEd Track": "Breathe",
         "MoWeEd Artists": [
             "Delicate Cutters"
-        ]
+        ],
+        "Result Track Name": "Breathe",
+        "Result Artist Names": [
+            "Delicate Cutters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:492W7pRzN4OvWj4pfEZet4",
+        "Result Album Name": "Some Creatures"
     },
     {
         "Title": "Fortune Telling Machine Worth A Fortune",
@@ -186,6 +244,15 @@
         "MoWeEd Artists": [
             "Dave Stewart",
             "Stevie Nicks"
-        ]
+        ],
+        "Result Track Name": "Cheaper Than Free (feat. Stevie Nicks)",
+        "Result Artist Names": [
+            "Dave Stewart",
+            "Stevie Nicks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27OP3WXH752wByiCnIGVth",
+        "Result Album Name": "The Blackbird Diaries"
     }
 ]

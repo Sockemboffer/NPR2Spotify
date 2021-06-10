@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2011-07-04",
         "Day": "Mon",
-        "Scanned Date": "2021-06-08 15:48:51"
+        "Scanned Date": "2021-06-08 15:48:51",
+        "Playlist URI": "1D9hV4gZjxjSbRcfHjoqiO",
+        "Playlist Link": "https://open.spotify.com/playlist/1D9hV4gZjxjSbRcfHjoqiO",
+        "Snapshot ID": "MSwwMmI1NGRmOWNmOTY4NDE3MDdmOTkzNTM3YjlhOWU2MTUwMWEzZjJl",
+        "Playlist Name": "MoWeEd 2011-07-04 Mon Morning Edition"
     },
     {
         "Title": "Reading The Declaration Of Independence Aloud",
@@ -16,13 +20,26 @@
         "MoWeEd Track": "No Information",
         "MoWeEd Artists": [
             "No Artist Information"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "The Stars and Stripes Forever",
         "MoWeEd Artists": [
             "United States Marine Band"
-        ]
+        ],
+        "Result Track Name": "The Stars and Stripes Forever",
+        "Result Artist Names": [
+            "United States Marine Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1aUTYVGXr4MENCCuk2iptM",
+        "Result Album Name": "Patriotic Songs"
     },
     {
         "Title": "Ousted Thai Leader's Sister Becomes Prime Minister",
@@ -40,13 +57,29 @@
         "MoWeEd Track": "Laleïché",
         "MoWeEd Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Laleïché",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NYhTbNjwZwU9BoqRvLlJV",
+        "Result Album Name": "Red & Green"
     },
     {
         "MoWeEd Track": "Baliky Lalo",
         "MoWeEd Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Baliky Lalo",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sLg4riFNAC5INJh7CDuRk",
+        "Result Album Name": "Red & Green"
     },
     {
         "Title": "Djokovic Defeats Nadal To Win Wimbledon Trophy",
@@ -58,7 +91,17 @@
         "MoWeEd Track": "Sonata, Op. 9 No. 3 In D; Allegro",
         "MoWeEd Artists": [
             "Itzhak Perlman"
-        ]
+        ],
+        "Result Track Name": "Sonata, Op. 9 No. 3 in D: Allegro",
+        "Result Artist Names": [
+            "Jean-Marie Leclair",
+            "Itzhak Perlman",
+            "David Garvey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2k1fKg9wNeI8rDTnRE3JYR",
+        "Result Album Name": "Itzhak Perlman Plays Concertos & Sonatas"
     },
     {
         "Title": "'Evil Scientist' Wants To Teach People To Do Good",
@@ -70,13 +113,30 @@
         "MoWeEd Track": "The Bronx",
         "MoWeEd Artists": [
             "Booker T. Jones feat. Lou Reed"
-        ]
+        ],
+        "Result Track Name": "The Bronx",
+        "Result Artist Names": [
+            "Booker T. Jones",
+            "Lou Reed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9090909090909091,
+        "Result Track URI": "spotify:track:1ENGe5j5pdmz1YKiW6NhK9",
+        "Result Album Name": "The Road From Memphis (Deluxe Edition)"
     },
     {
         "MoWeEd Track": "The Hive",
         "MoWeEd Artists": [
             "Booker T. Jones"
-        ]
+        ],
+        "Result Track Name": "The Hive",
+        "Result Artist Names": [
+            "Booker T. Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rMrPbHmnDMzWfGLaWUrLo",
+        "Result Album Name": "The Road From Memphis (Deluxe Edition)"
     },
     {
         "Title": "Budget Woes Darken July 4 Fireworks Displays",
@@ -101,13 +161,29 @@
         "MoWeEd Artists": [
             "Ray Stevens",
             "Henhouse Five Plus Too"
-        ]
+        ],
+        "Result Track Name": "In the Mood",
+        "Result Artist Names": [
+            "Ray Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5X9pqMMZEpb9rCq28OWjUA",
+        "Result Album Name": "Pop For Children"
     },
     {
         "MoWeEd Track": "Rose Room",
         "MoWeEd Artists": [
             "Jeremy Cohen"
-        ]
+        ],
+        "Result Track Name": "Rose Room",
+        "Result Artist Names": [
+            "Jeremy Cohen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21ZM0KeAJYeoeQTiDFptmP",
+        "Result Album Name": "Jeremy Cohen: Violin Jazz"
     },
     {
         "Title": "In Iowa, Corn Is King And Candidates Are Everywhere",
@@ -125,13 +201,26 @@
         "MoWeEd Track": "Jean De Fleur",
         "MoWeEd Artists": [
             "Jordan Young Group"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Afro-Centric",
         "MoWeEd Artists": [
             "Jordan Young Group"
-        ]
+        ],
+        "Result Track Name": "Afro-centric",
+        "Result Artist Names": [
+            "Jordan Young Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iGnc09K3vj7vDhRzeY944",
+        "Result Album Name": "Jordan Young Group"
     },
     {
         "Title": "For Some, The Decision To Enlist Offers Direction",
@@ -143,7 +232,15 @@
         "MoWeEd Track": "Aberdeen",
         "MoWeEd Artists": [
             "David Goodrich"
-        ]
+        ],
+        "Result Track Name": "Aberdeen",
+        "Result Artist Names": [
+            "David Porteous"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4yLHXlQDhsQVn56RbCnJhG",
+        "Result Album Name": "Aberdeen Willowdale St. Charles"
     },
     {
         "Title": "Searching History For The Hot Dog's Origin",
@@ -155,13 +252,31 @@
         "MoWeEd Track": "The Easy Winners",
         "MoWeEd Artists": [
             "Marcus Roberts"
-        ]
+        ],
+        "Result Track Name": "The Easy Winners - Instrumental",
+        "Result Artist Names": [
+            "Scott Joplin",
+            "Marcus Roberts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45rrRAipgChGgvjHufzLG5",
+        "Result Album Name": "Marcus Roberts: The Joy of Joplin"
     },
     {
         "MoWeEd Track": "The Easy Winners",
         "MoWeEd Artists": [
             "Marcus Roberts"
-        ]
+        ],
+        "Result Track Name": "The Easy Winners - Instrumental",
+        "Result Artist Names": [
+            "Scott Joplin",
+            "Marcus Roberts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45rrRAipgChGgvjHufzLG5",
+        "Result Album Name": "Marcus Roberts: The Joy of Joplin"
     },
     {
         "Title": "Fears Of Renewed Syrian Crackdown In Hama",
@@ -179,13 +294,29 @@
         "MoWeEd Track": "Pingyrpong",
         "MoWeEd Artists": [
             "Splinters"
-        ]
+        ],
+        "Result Track Name": "Pingyrpong",
+        "Result Artist Names": [
+            "Splinters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GLd1fE8PWEVpZN3rCh00G",
+        "Result Album Name": "Metal Petals"
     },
     {
         "MoWeEd Track": "When Circuits Sleep",
         "MoWeEd Artists": [
             "Splinters"
-        ]
+        ],
+        "Result Track Name": "When Circuits Sleep",
+        "Result Artist Names": [
+            "Splinters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7KwMWV1SuMCFIQkLhpYfKT",
+        "Result Album Name": "Metal Petals"
     },
     {
         "Title": "Light-Skin Cubans Cross Baseball's Color Line",
@@ -197,13 +328,30 @@
         "MoWeEd Track": "Rendezvous",
         "MoWeEd Artists": [
             "Caribbean Jazz Project"
-        ]
+        ],
+        "Result Track Name": "Rendezvous",
+        "Result Artist Names": [
+            "Caribbean Jazz Project",
+            "Dave Samuels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4RQIdZm3sIOFofjACu5oNL",
+        "Result Album Name": "Afro Bop Alliance"
     },
     {
         "MoWeEd Track": "Feline Blues",
         "MoWeEd Artists": [
             "Stefon Harris"
-        ]
+        ],
+        "Result Track Name": "Feline Blues",
+        "Result Artist Names": [
+            "Stefon Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lAoavyYtac0grAKFVlKCB",
+        "Result Album Name": "Black Action Figure"
     },
     {
         "Title": "NYPD Sets Off Confiscated Fireworks Stash",

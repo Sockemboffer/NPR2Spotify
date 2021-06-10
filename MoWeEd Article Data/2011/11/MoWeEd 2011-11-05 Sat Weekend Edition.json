@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2011-11-05",
         "Day": "Sat",
-        "Scanned Date": "2021-06-08 15:35:52"
+        "Scanned Date": "2021-06-08 15:35:52",
+        "Playlist URI": "3UfRsQcNtCc9DhAoPokjst",
+        "Playlist Link": "https://open.spotify.com/playlist/3UfRsQcNtCc9DhAoPokjst",
+        "Snapshot ID": "MSxhNTBjZWM5OWI3MmViYzRmOGE5MTJhODNkZjVkODhiZjIwMjM1NjEx",
+        "Playlist Name": "MoWeEd 2011-11-05 Sat Weekend Edition"
     },
     {
         "Title": "Greece Votes To Keep Its Head, For Now",
@@ -28,13 +32,30 @@
         "MoWeEd Track": "La Vie en Rose",
         "MoWeEd Artists": [
             "Louis Armstron"
-        ]
+        ],
+        "Result Track Name": "La vie en rose",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1GJCQMFysvt2S9WXSBaWYP",
+        "Result Album Name": "The Decca Singles 1949-1958"
     },
     {
         "MoWeEd Track": "Nobody Else but Me",
         "MoWeEd Artists": [
             "Jay Leonhart"
-        ]
+        ],
+        "Result Track Name": "Nobody Else but Me",
+        "Result Artist Names": [
+            "Jamile",
+            "Jay Leonhart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6fZzCpmpJiSStA3VTBdm0k",
+        "Result Album Name": "If You Could See Me Now"
     },
     {
         "Title": "Generation X Divided Over 2012 Candidates",
@@ -64,7 +85,15 @@
         "MoWeEd Track": "Raining Patterns",
         "MoWeEd Artists": [
             "CFCF"
-        ]
+        ],
+        "Result Track Name": "Raining Patterns",
+        "Result Artist Names": [
+            "CFCF"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jygeqDFLoZmkBSlAScl4F",
+        "Result Album Name": "Continent"
     },
     {
         "Title": "Catherine The Great: First She Read, Then She Ruled",
@@ -82,7 +111,12 @@
         "MoWeEd Track": "Scene I: Les Voix Du Ciel",
         "MoWeEd Artists": [
             "Arthur Honegger"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Week Of Harassment For Herman Cain",
@@ -106,13 +140,26 @@
         "MoWeEd Track": "Fat Kid",
         "MoWeEd Artists": [
             "Todd Phillips"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Psalm for the Elks Lodge Last Call",
         "MoWeEd Artists": [
             "The Weakerthans"
-        ]
+        ],
+        "Result Track Name": "Psalm For The Elks Lodge Last Call",
+        "Result Artist Names": [
+            "The Weakerthans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50fBHxSJMSvCdQITydVLc2",
+        "Result Album Name": "Reconstruction Site"
     },
     {
         "Title": "Latest Jobs Numbers Not Great, But Not Bad, Either",
@@ -136,7 +183,15 @@
         "MoWeEd Track": "Tange Rine",
         "MoWeEd Artists": [
             "Deelay Ceelay"
-        ]
+        ],
+        "Result Track Name": "Tanga Rine",
+        "Result Artist Names": [
+            "Deelay Ceelay"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XlZU2zVNg2K1IoN7b3G7p",
+        "Result Album Name": "Sunset Drumsets"
     },
     {
         "Title": "Daniel Ortega Seeks Re-Election In Nicaragua",
@@ -160,6 +215,11 @@
         "MoWeEd Track": "Calling Off the Experiment",
         "MoWeEd Artists": [
             "John Wesley Harding"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

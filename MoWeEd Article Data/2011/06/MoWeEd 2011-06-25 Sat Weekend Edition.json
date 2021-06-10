@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2011-06-25",
         "Day": "Sat",
-        "Scanned Date": "2021-06-08 15:54:38"
+        "Scanned Date": "2021-06-08 15:54:38",
+        "Playlist URI": "2PlqYgjtq9iQ4xS66z5qqF",
+        "Playlist Link": "https://open.spotify.com/playlist/2PlqYgjtq9iQ4xS66z5qqF",
+        "Snapshot ID": "MSw5NWE2NzdlNTU0YzM1YzkyN2E2MDU5Y2M4ZDBkMzg4ZWQyMWRhYTZk",
+        "Playlist Name": "MoWeEd 2011-06-25 Sat Weekend Edition"
     },
     {
         "Title": "House Votes On Libya Split Both Parties",
@@ -28,7 +32,12 @@
         "MoWeEd Track": "Wild Is The Wind",
         "MoWeEd Artists": [
             "Steven King"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New York Legalizes Gay Marriage",
@@ -58,7 +67,15 @@
         "MoWeEd Track": "GET YOUR KICKS ON ROUTE 66",
         "MoWeEd Artists": [
             "Nat King Cole Trio"
-        ]
+        ],
+        "Result Track Name": "(Get Your Kicks On) Route 66 - Remastered",
+        "Result Artist Names": [
+            "Nat King Cole Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:49YyG9fPCRNq5eP3fMwD88",
+        "Result Album Name": "The Nat King Cole Trio - The Complete Capitol Transcription Sessions"
     },
     {
         "Title": "BBC Host Becomes A 'Bad Beekeeper'",
@@ -82,7 +99,15 @@
         "MoWeEd Track": "Tormenta",
         "MoWeEd Artists": [
             "Carmen Cuesta"
-        ]
+        ],
+        "Result Track Name": "Tormenta",
+        "Result Artist Names": [
+            "Carmen Cuesta"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5GqT6nRCHYLX0aGyZhzeS9",
+        "Result Album Name": "Mi Bossa Nova"
     },
     {
         "Title": "The President's Week Ends On A Productive Note",
@@ -100,7 +125,15 @@
         "MoWeEd Track": "Etude No. 2",
         "MoWeEd Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Etude No. 2",
+        "Result Artist Names": [
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bi8ryL6gy6a1BRXOf43y9",
+        "Result Album Name": "Etudes for Piano Vol 1 No. 1-10"
     },
     {
         "Title": "Has Greece Been Prescribed Bad Medicine For Crisis?",
@@ -154,6 +187,14 @@
         "MoWeEd Track": "Swing Low, Sweet Chariot",
         "MoWeEd Artists": [
             "Big Bill Broonzy"
-        ]
+        ],
+        "Result Track Name": "Swing Low, Sweet Chariot",
+        "Result Artist Names": [
+            "Big Bill Broonzy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ROFzHqrs7RhIICltOdb3K",
+        "Result Album Name": "The Big Bill Broonzy Story"
     }
 ]
