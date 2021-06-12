@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2012-02-18",
         "Day": "Sat",
-        "Scanned Date": "2021-06-10 09:27:06"
+        "Scanned Date": "2021-06-10 09:27:06",
+        "Playlist URI": "1BGdGeiYPHJJUORWZh0m59",
+        "Playlist Link": "https://open.spotify.com/playlist/1BGdGeiYPHJJUORWZh0m59",
+        "Snapshot ID": "MSw1ZjcwZWZlNTkzZjE5Y2JkZjViZWUxNWFlN2FlNjZlNzhiZTcyZWQ0",
+        "Playlist Name": "MoWeEd 2012-02-18 Sat Weekend Edition"
     },
     {
         "Title": "'Made  In The USA' Not Enough For Campaign Trail",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Breaking the Sound Barrier",
         "MoWeEd Artists": [
             "The London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sunny's Song",
         "MoWeEd Artists": [
             "Benevento-Russo Duo"
-        ]
+        ],
+        "Result Track Name": "Sunny's Song",
+        "Result Artist Names": [
+            "Benevento/Russo Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Njbke3AvuVlpqBYGU2GKK",
+        "Result Album Name": "Best Reason to Buy the Sun"
     },
     {
         "Title": "Payroll Tax Cut Brings Other Benefits",
@@ -64,7 +81,15 @@
         "MoWeEd Track": "Pair of Brown Eyes",
         "MoWeEd Artists": [
             "The Pogues"
-        ]
+        ],
+        "Result Track Name": "A Pair of Brown Eyes",
+        "Result Artist Names": [
+            "The Pogues"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32soEc9h0wDy1BEjV5egeh",
+        "Result Album Name": "Rum Sodomy & The Lash (Expanded Edition)"
     },
     {
         "Title": "You Say 'Nay,' I Say 'Neigh': Goats Have Accents",
@@ -76,7 +101,15 @@
         "MoWeEd Track": "Tange Rine",
         "MoWeEd Artists": [
             "Deelay Ceelay"
-        ]
+        ],
+        "Result Track Name": "Tanga Rine",
+        "Result Artist Names": [
+            "Deelay Ceelay"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XlZU2zVNg2K1IoN7b3G7p",
+        "Result Album Name": "Sunset Drumsets"
     },
     {
         "Title": "At Gates Bar-B-Q, The Ultimate Flavor Lies in Burnt Ends",
@@ -100,7 +133,12 @@
         "MoWeEd Track": "Star Trek - TV theme",
         "MoWeEd Artists": [
             "The City of Prague Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Not Afraid To Say It: China's The Cyber Bad Guy",
@@ -124,7 +162,15 @@
         "MoWeEd Track": "Picking Flowers",
         "MoWeEd Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Picking Flowers",
+        "Result Artist Names": [
+            "Boy In Space"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25DhGXCrAoGppWiU8beWqX",
+        "Result Album Name": "FRONTYARD EP"
     },
     {
         "Title": "Kansas City's Failed Schools Leave Students Behind",
@@ -149,7 +195,15 @@
         "MoWeEd Artists": [
             "Messina",
             "Mateo"
-        ]
+        ],
+        "Result Track Name": "Up the Spout",
+        "Result Artist Names": [
+            "Mateo Messina"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bZP9KqLuqpH51I43LpJcw",
+        "Result Album Name": "Juno - Music From The Motion Picture"
     },
     {
         "Title": "Sports: Spring Training Begins; Basketball All-Star Ahead",
@@ -173,6 +227,14 @@
         "MoWeEd Track": "Oh Darling",
         "MoWeEd Artists": [
             "Roberta Flack"
-        ]
+        ],
+        "Result Track Name": "Oh Darling",
+        "Result Artist Names": [
+            "Roberta Flack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2js0Fns26Tlwvz45GbFeat",
+        "Result Album Name": "Let It Be Roberta - Roberta Flack Sings The Beatles (Exclusive Version)"
     }
 ]

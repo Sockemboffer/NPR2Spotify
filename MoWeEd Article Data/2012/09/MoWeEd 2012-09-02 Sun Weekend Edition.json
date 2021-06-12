@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2012-09-02",
         "Day": "Sun",
-        "Scanned Date": "2021-06-10 07:12:06"
+        "Scanned Date": "2021-06-10 07:12:06",
+        "Playlist URI": "1Jj0BebWyx27Ru5aNElG3A",
+        "Playlist Link": "https://open.spotify.com/playlist/1Jj0BebWyx27Ru5aNElG3A",
+        "Snapshot ID": "MSwzZTQ3MjAyNzA1NDhjZjZmYWU5OTUyMjE4NGQxOWM5NGYwYTkzNzA2",
+        "Playlist Name": "MoWeEd 2012-09-02 Sun Weekend Edition"
     },
     {
         "Title": "Before DNC, Contrasting Views Of Host City",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Fat, Furious and Fluffy",
         "MoWeEd Artists": [
             "Roots of Orchis"
-        ]
+        ],
+        "Result Track Name": "Fat, Furious and Fluffy",
+        "Result Artist Names": [
+            "The Roots of Orchis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0OEmFnh4FtkgfmSg4EPxEx",
+        "Result Album Name": "EP"
     },
     {
         "MoWeEd Track": "Cowgirl",
         "MoWeEd Artists": [
             "Album Leaf"
-        ]
+        ],
+        "Result Track Name": "Cowgirl",
+        "Result Artist Names": [
+            "The Album Leaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TTiRSNcgCK0NMwMjOs83I",
+        "Result Album Name": "Torey's Distraction - Original Soundtrack"
     },
     {
         "Title": "Isaac Aftermath: Did New Orleans Pass The Test?",
@@ -59,7 +79,12 @@
         "MoWeEd Artists": [
             "Boston Pops Orchestra",
             "Keith Lockhart (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Remembering Award-Winning Lyricist Hal David",
@@ -71,7 +96,15 @@
         "MoWeEd Track": "Northern Lights",
         "MoWeEd Artists": [
             "Lisa Lynne"
-        ]
+        ],
+        "Result Track Name": "Northern Lights",
+        "Result Artist Names": [
+            "Lisa Lynne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hcO5zr1VJbWgWiiQj3Wzr",
+        "Result Album Name": "Winter's Solstice VI"
     },
     {
         "Title": "An 'Amusing' Set Of 19th Century Riddles",
@@ -96,7 +129,15 @@
         "MoWeEd Artists": [
             "George Martin",
             "Jeff Beck"
-        ]
+        ],
+        "Result Track Name": "A Day In The Life",
+        "Result Artist Names": [
+            "Jeff Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4GsGSyvXoluiM88H1Ha0fA",
+        "Result Album Name": "The 25th Anniversary Rock & Roll Hall Of Fame Concerts"
     },
     {
         "Title": "Refugees Continue To Flee From Violence In Syria",
@@ -120,7 +161,15 @@
         "MoWeEd Track": "Intro",
         "MoWeEd Artists": [
             "The xx"
-        ]
+        ],
+        "Result Track Name": "Intro",
+        "Result Artist Names": [
+            "The xx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VfEuwErhx6X4eaPbyBfyu",
+        "Result Album Name": "xx"
     },
     {
         "Title": "Romney Takes Message To Key Battleground States",
@@ -150,7 +199,20 @@
         "MoWeEd Track": "On the Nature of Daylight",
         "MoWeEd Artists": [
             "Max Richter"
-        ]
+        ],
+        "Result Track Name": "On The Nature Of Daylight",
+        "Result Artist Names": [
+            "Max Richter",
+            "Louisa Fuller",
+            "Natalia Bonner",
+            "John Metcalfe",
+            "Philip Sheppard",
+            "Chris Worsey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AKxlKKuYk8ToMbtEPmp0y",
+        "Result Album Name": "Focus Music"
     },
     {
         "Title": "Wanted: Sitter For Rural Bookshop. Must Like Cats",
@@ -162,7 +224,15 @@
         "MoWeEd Track": "Take On Me",
         "MoWeEd Artists": [
             "a-ha"
-        ]
+        ],
+        "Result Track Name": "Take on Me",
+        "Result Artist Names": [
+            "a-ha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L",
+        "Result Album Name": "Hunting High and Low"
     },
     {
         "Title": "Fans Not Pleased With NFL's Replacement Refs",
@@ -187,6 +257,15 @@
         "MoWeEd Artists": [
             "Bonobo",
             "Bajka"
-        ]
+        ],
+        "Result Track Name": "Walk In The Sky",
+        "Result Artist Names": [
+            "Bonobo",
+            "Bajka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fsQsL36PH1G8mn68lsFRK",
+        "Result Album Name": "Days To Come"
     }
 ]

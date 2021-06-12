@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2012-04-01",
         "Day": "Sun",
-        "Scanned Date": "2021-06-10 07:31:12"
+        "Scanned Date": "2021-06-10 07:31:12",
+        "Playlist URI": "4pzDg4tC4znNlT0iSXZO6Q",
+        "Playlist Link": "https://open.spotify.com/playlist/4pzDg4tC4znNlT0iSXZO6Q",
+        "Snapshot ID": "MSxmMTRlNGVkNzE0ZDMwMTU0YmYzOGJkMjRkZmYyM2IzOTUyYWU3YWNl",
+        "Playlist Name": "MoWeEd 2012-04-01 Sun Weekend Edition"
     },
     {
         "Title": "Turkey Hosts 'Friends Of Syria' Conference ",
@@ -29,13 +33,29 @@
         "MoWeEd Artists": [
             "Joan Jeanrenaud",
             "PC Munoz"
-        ]
+        ],
+        "Result Track Name": "Noise",
+        "Result Artist Names": [
+            "Joan Jeanrenaud & PC Muñoz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:3G0i1ovTeeIHcMxjN9xiSs",
+        "Result Album Name": "Pop-Pop"
     },
     {
         "MoWeEd Track": "I Slept With Bonhomme at the CBC",
         "MoWeEd Artists": [
             "Broken Social Scene"
-        ]
+        ],
+        "Result Track Name": "I Slept With Bonhomme At The CBC",
+        "Result Artist Names": [
+            "Broken Social Scene"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6jQTFWlHucPzd1dt0jEKxG",
+        "Result Album Name": "Feel Good Lost"
     },
     {
         "Title": "'Faith And Freedom' In Wis. Primary Push",
@@ -65,7 +85,15 @@
         "MoWeEd Track": "Slow Baby",
         "MoWeEd Artists": [
             "Black Dub"
-        ]
+        ],
+        "Result Track Name": "Slow Baby",
+        "Result Artist Names": [
+            "Black Dub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1yRpbgH5lK8Zhln1Bmadgo",
+        "Result Album Name": "Black Dub"
     },
     {
         "Title": "Testing Your Wits With Knowledge Of Spirits",
@@ -91,7 +119,15 @@
             "Tony Trischka",
             "Bela Fleck",
             "Steve Martin"
-        ]
+        ],
+        "Result Track Name": "The Crow",
+        "Result Artist Names": [
+            "Steve Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3T9XRhAyRRs2KJC9gfekeQ",
+        "Result Album Name": "The Crow: New Songs For the Five-String Banjo"
     },
     {
         "Title": "A Rest Stop On The Road From Soldier To Civilian",
@@ -103,7 +139,15 @@
         "MoWeEd Track": "For a Good Time",
         "MoWeEd Artists": [
             "Viktor Krauss"
-        ]
+        ],
+        "Result Track Name": "For a Good Time",
+        "Result Artist Names": [
+            "Viktor Krauss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sg8tmUA1qGSJBR58wKx2v",
+        "Result Album Name": "Far from Enough"
     },
     {
         "Title": "Myanmar Party Says Dissident Leader Wins Election",
@@ -127,7 +171,15 @@
         "MoWeEd Track": "Dirty Orchestra",
         "MoWeEd Artists": [
             "Black Violin"
-        ]
+        ],
+        "Result Track Name": "Dirty Orchestra",
+        "Result Artist Names": [
+            "Black Violin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Z8aJvQUDq6wUq2HGXtkHt",
+        "Result Album Name": "Black Violin (Rediscovered)"
     },
     {
         "Title": "Kentucky To Face Kansas In NCAA Title Game",
@@ -139,7 +191,15 @@
         "MoWeEd Track": "To the Grain",
         "MoWeEd Artists": [
             "Junip"
-        ]
+        ],
+        "Result Track Name": "To The Grain",
+        "Result Artist Names": [
+            "Junip"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5YTx7DOoXJTqpV8WeMP21g",
+        "Result Album Name": "Fields (Deluxe Edition)"
     },
     {
         "Title": "Willem Dafoe: A 'Hunter' With A Restless Eye",
@@ -157,6 +217,11 @@
         "MoWeEd Track": "No Me Comprendes",
         "MoWeEd Artists": [
             "Cafe Tacuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

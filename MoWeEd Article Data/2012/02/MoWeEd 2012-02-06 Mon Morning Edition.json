@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2012-02-06",
         "Day": "Mon",
-        "Scanned Date": "2021-06-10 09:25:34"
+        "Scanned Date": "2021-06-10 09:25:34",
+        "Playlist URI": "60MDyDf1vQbyWEaDq5Lb0l",
+        "Playlist Link": "https://open.spotify.com/playlist/60MDyDf1vQbyWEaDq5Lb0l",
+        "Snapshot ID": "MSxmNjVlYTcxYmJmZTVhYzc4MjEzYjNiYzU2ZGM1N2RjM2U1NzBjZDNh",
+        "Playlist Name": "MoWeEd 2012-02-06 Mon Morning Edition"
     },
     {
         "Title": "Syrian Troops Strike Neighborhoods In Homs",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Delay-o",
         "MoWeEd Artists": [
             "M N O"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sub(nautic)",
         "MoWeEd Artists": [
             "M N O"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "After Deep Cuts, New Mexico Now Has Budget Surplus",
@@ -46,7 +60,15 @@
         "MoWeEd Track": "Bad Luck",
         "MoWeEd Artists": [
             "Tom Rothrock"
-        ]
+        ],
+        "Result Track Name": "Bad Luck Charm",
+        "Result Artist Names": [
+            "Lo Tom"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:633W8iAtqm75628Nkr135B",
+        "Result Album Name": "Lo Tom"
     },
     {
         "Title": "Chef Picked To Represent U.S. In France's Bocuse d'Or",
@@ -59,13 +81,30 @@
         "MoWeEd Artists": [
             "Dennis Rollins Velocity Trio",
             "Dennis Rollins"
-        ]
+        ],
+        "Result Track Name": "Samba Galactica",
+        "Result Artist Names": [
+            "Dennis Rollins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7voE0tMoQwv3TpNJ8Mbq8q",
+        "Result Album Name": "The 11th Gate"
     },
     {
         "MoWeEd Track": "Echoes of Harlem",
         "MoWeEd Artists": [
             "Graham Reynolds"
-        ]
+        ],
+        "Result Track Name": "Echoes of Harlem (arr. G. Reynolds)",
+        "Result Artist Names": [
+            "Graham Reynolds",
+            "Golden Arm Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PDJZF3X61whTB2v5Oda7T",
+        "Result Album Name": "Duke!: Three Portraits of Ellington"
     },
     {
         "Title": "The Morning-After Pill: How It Works And Who Uses It",
@@ -83,13 +122,29 @@
         "MoWeEd Track": "Night White",
         "MoWeEd Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Night White",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zRc259pg9Ia2MQI8pMDQE",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "MoWeEd Track": "Block Ice & Propane",
         "MoWeEd Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Block Ice & Propane",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cta7iSOQRWtidQ8THG2fL",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "Title": "Deadline Closes In For Mortgage Relief Settlement",
@@ -113,13 +168,26 @@
         "MoWeEd Track": "The Last Time I Saw Paris",
         "MoWeEd Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "The Last Time I Saw Paris",
+        "Result Artist Names": [
+            "David Arkenstone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4F2Nem26uLlAx9r5D46rJz",
+        "Result Album Name": "Parisian Nights"
     },
     {
         "MoWeEd Track": "$165 Million + Interest (into) The Round Up",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "GOP Contests Move To Colorado, Minnesota",
@@ -137,7 +205,15 @@
         "MoWeEd Track": "New Movements",
         "MoWeEd Artists": [
             "Splinters"
-        ]
+        ],
+        "Result Track Name": "New Movements",
+        "Result Artist Names": [
+            "Splinters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NdrrKBIS62rENoc2V85Q3",
+        "Result Album Name": "The Watchmaker"
     },
     {
         "Title": "California's Stevia Growers Bet On Fast Track To Sweetener Success",
@@ -155,7 +231,15 @@
         "MoWeEd Track": "You Spin Me 'Round (Like a Record)",
         "MoWeEd Artists": [
             "Dead or Alive"
-        ]
+        ],
+        "Result Track Name": "You Spin Me Round (Like a Record)",
+        "Result Artist Names": [
+            "Dead Or Alive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ChulFMnwxoD74Me8eX2TU",
+        "Result Album Name": "Evolution: The Hits"
     },
     {
         "Title": "Storing Grain Can Aid Farmers In Commodity Pricing",
@@ -167,7 +251,12 @@
         "MoWeEd Track": "Afro Blake",
         "MoWeEd Artists": [
             "Slow Poke"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Senor Mouse",
@@ -175,7 +264,15 @@
             "Corea",
             "Clark",
             "White"
-        ]
+        ],
+        "Result Track Name": "Señor Mouse",
+        "Result Artist Names": [
+            "Corea, Clarke & White"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4nDKw5J1ZhEyABlAJj5Xx7",
+        "Result Album Name": "Forever"
     },
     {
         "Title": "Giants Tower Over Patriots As Super Bowl Champs",
@@ -199,7 +296,15 @@
         "MoWeEd Track": "Grenade Piano Version - Bruno Mars",
         "MoWeEd Artists": [
             "Dagmar Krug"
-        ]
+        ],
+        "Result Track Name": "Grenade Piano Version - Bruno Mars",
+        "Result Artist Names": [
+            "Dagmar Krug"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WTCKjeayaJXUFegGvsH04",
+        "Result Album Name": "Grenade Piano Version - Bruno Mars"
     },
     {
         "Title": "Robert Harris, In 'Fear' Of A Financial Frankenstein",
@@ -211,7 +316,15 @@
         "MoWeEd Track": "Kool It Man",
         "MoWeEd Artists": [
             "Liftoff"
-        ]
+        ],
+        "Result Track Name": "Kool It Man",
+        "Result Artist Names": [
+            "Liftoff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mpS44kavXUPLJCo5vvwTb",
+        "Result Album Name": "The New Gold Standard EP"
     },
     {
         "Title": "Polar Bear Clubs Finder Warmer Than Normal Water",

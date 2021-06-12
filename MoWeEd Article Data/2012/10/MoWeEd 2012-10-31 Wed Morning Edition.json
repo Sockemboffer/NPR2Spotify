@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2012-10-31",
         "Day": "Wed",
-        "Scanned Date": "2021-06-10 07:11:53"
+        "Scanned Date": "2021-06-10 07:11:53",
+        "Playlist URI": "46ZJsO2Ih7pjm3pK2zAxPc",
+        "Playlist Link": "https://open.spotify.com/playlist/46ZJsO2Ih7pjm3pK2zAxPc",
+        "Snapshot ID": "MSwwNWEyZjZjOTk2OWQ1MjcwZTVlOTc2ZTNkY2M2MGQ5ZTNlM2ExZjI5",
+        "Playlist Name": "MoWeEd 2012-10-31 Wed Morning Edition"
     },
     {
         "Title": "For Famously Impatient New Yorkers, Lots Of Waiting",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Stormy Weather (Keeps Rainin' All the Time)",
         "MoWeEd Artists": [
             "Sam Arlen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Between the Devil and the Deep Blue Sea",
         "MoWeEd Artists": [
             "Sam Arlen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Night A Computer Predicted The Next President",
@@ -40,14 +54,27 @@
         "MoWeEd Track": "Not Fit for Human Consumption",
         "MoWeEd Artists": [
             "Antneely"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Intriguing Possibilities",
         "MoWeEd Artists": [
             "Trent Reznor",
             "Atticus Ross"
-        ]
+        ],
+        "Result Track Name": "Intriguing Possibilities",
+        "Result Artist Names": [
+            "Trent Reznor and Atticus Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5hQGVKSgTsh7qaReZzVgtq",
+        "Result Album Name": "The Social Network"
     },
     {
         "Title": "Walt Disney Co. To Buy George Lucas Film Studio ",
@@ -59,7 +86,15 @@
         "MoWeEd Track": "Star Wars Suite",
         "MoWeEd Artists": [
             "London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Star Wars Suite",
+        "Result Artist Names": [
+            "London Studio Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0ocBd7Vczr6S6EVTIrwRMa",
+        "Result Album Name": "Space Themes and Synthesizer Greats"
     },
     {
         "Title": "New York's Breezy Point Endures Fire And Flood",
@@ -83,13 +118,26 @@
         "MoWeEd Track": "PCIL",
         "MoWeEd Artists": [
             "Dean Magraw"
-        ]
+        ],
+        "Result Track Name": "Pcil",
+        "Result Artist Names": [
+            "Dean Magraw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JOXoH36R2lPm2Cm3WSBAE",
+        "Result Album Name": "Kitchen Man"
     },
     {
         "MoWeEd Track": "Get Inside",
         "MoWeEd Artists": [
             "Johnny A."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New York Markets Set To Reopen On Tuesday",
@@ -119,13 +167,26 @@
         "MoWeEd Track": "Thriller [Michael Jackson]",
         "MoWeEd Artists": [
             "Henry Mancini"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Night on Bald Mountain",
         "MoWeEd Artists": [
             "Mannheim Steamroller"
-        ]
+        ],
+        "Result Track Name": "Night On Bald Mountain",
+        "Result Artist Names": [
+            "Mannheim Steamroller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WSK91pYMbVOHhqClEviAC",
+        "Result Album Name": "Halloween"
     },
     {
         "Title": "N.J. Residents Recount Experiences During Storm",
@@ -144,14 +205,34 @@
         "MoWeEd Artists": [
             "Joshua Bell",
             "Marvin Hamlisch"
-        ]
+        ],
+        "Result Track Name": "I'll Take Manhattan",
+        "Result Artist Names": [
+            "Richard Rodgers",
+            "Joshua Bell",
+            "Marvin Hamlisch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0lGtkHhq1aiw1B1of3TcZd",
+        "Result Album Name": "At Home With Friends"
     },
     {
         "MoWeEd Track": "Look Away",
         "MoWeEd Artists": [
             "Joshua Bell",
             "Edgar Meyer et. al."
-        ]
+        ],
+        "Result Track Name": "Look Away",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Chris Thile",
+            "Joshua Bell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ruJr78fWXaIAYAWTlpdT9",
+        "Result Album Name": "At Home With Friends"
     },
     {
         "Title": "Can Drug-Sniffing Dog Prompt Home Search?",
@@ -169,13 +250,29 @@
         "MoWeEd Track": "Homeland Suite",
         "MoWeEd Artists": [
             "Larry Pattis"
-        ]
+        ],
+        "Result Track Name": "Homeland Suite",
+        "Result Artist Names": [
+            "Larry Pattis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fd5WzqTOY4BUnVdX8OSRA",
+        "Result Album Name": "Hands Of Time"
     },
     {
         "MoWeEd Track": "Through the Eyes of a Child",
         "MoWeEd Artists": [
             "Larry Pattis"
-        ]
+        ],
+        "Result Track Name": "Through The Eyes Of A Child",
+        "Result Artist Names": [
+            "Larry Pattis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LQWzFDQPaORIf38wANPHj",
+        "Result Album Name": "Hands Of Time"
     },
     {
         "Title": "Shift In Mormon Age Policy Widens Women's Options",
@@ -187,14 +284,24 @@
         "MoWeEd Track": "Walking",
         "MoWeEd Artists": [
             "Paul Meyers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "You Make Me Smile",
         "MoWeEd Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "N.J. Transit Agency Discusses Service Shutdown",
@@ -218,7 +325,12 @@
         "MoWeEd Track": "Radiance, Pt. 3",
         "MoWeEd Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Businesses Try To Get By During Hockey Lockout",
@@ -236,13 +348,29 @@
         "MoWeEd Track": "Sporting Highlights",
         "MoWeEd Artists": [
             "Keith Mansfield"
-        ]
+        ],
+        "Result Track Name": "Sporting Highlights",
+        "Result Artist Names": [
+            "Keith Mansfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zyRVuRxAgpwIsVXCLVPrK",
+        "Result Album Name": "Sounds of the 60's & 70's - 1"
     },
     {
         "MoWeEd Track": "Monster Tango",
         "MoWeEd Artists": [
             "Mucca Pazza"
-        ]
+        ],
+        "Result Track Name": "Monster Tango",
+        "Result Artist Names": [
+            "Mucca Pazza"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZplMG57GZcMH0jHNw3pD9",
+        "Result Album Name": "Safety Fifth"
     },
     {
         "Title": "Assessing The Damage From Superstorm Sandy",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2012-07-24",
         "Day": "Tue",
-        "Scanned Date": "2021-06-10 07:22:51"
+        "Scanned Date": "2021-06-10 07:22:51",
+        "Playlist URI": "4WmRoZnFzu0oXBCTTGizKn",
+        "Playlist Link": "https://open.spotify.com/playlist/4WmRoZnFzu0oXBCTTGizKn",
+        "Snapshot ID": "MSwwYTMwOTIyYWEyZGJmOGY2NTJhOWY1N2NmZDBmM2UyZjNmZTdiYWRm",
+        "Playlist Name": "MoWeEd 2012-07-24 Tue Morning Edition"
     },
     {
         "Title": "Border Battles A Cat-And-Mouse Game In Syria",
@@ -22,13 +26,29 @@
         "MoWeEd Track": "Bolero",
         "MoWeEd Artists": [
             "Shawn Lee's Ping Pong Orchestra"
-        ]
+        ],
+        "Result Track Name": "Bolero",
+        "Result Artist Names": [
+            "Shawn Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7dGjVa9yyRMku5T9gMnxDN",
+        "Result Album Name": "Ape Breaks, Vol. 5"
     },
     {
         "MoWeEd Track": "Funeral March",
         "MoWeEd Artists": [
             "Shawn Lee's Ping Pong Orchestra"
-        ]
+        ],
+        "Result Track Name": "Funeral March",
+        "Result Artist Names": [
+            "Shawn Lee's Ping Pong Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FFAGQzWiGXRkitFWntEjB",
+        "Result Album Name": "Hooked up Classics"
     },
     {
         "Title": "At Silicon Valley Boot Camp, Perfecting The Pitch",
@@ -40,7 +60,12 @@
         "MoWeEd Track": "Stayin' True",
         "MoWeEd Artists": [
             "Clear Voyage"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kenny Chesney's Steamy Summer Jam",
@@ -53,13 +78,30 @@
         "MoWeEd Artists": [
             "Kenny Chesney",
             "Tim McGraw"
-        ]
+        ],
+        "Result Track Name": "Feel Like a Rock Star (Duet with Tim McGraw)",
+        "Result Artist Names": [
+            "Kenny Chesney",
+            "Tim McGraw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IwjYtPMOebrz61UEayrrS",
+        "Result Album Name": "Welcome To The Fishbowl"
     },
     {
         "MoWeEd Track": "Border Town",
         "MoWeEd Artists": [
             "The Hellecasters"
-        ]
+        ],
+        "Result Track Name": "Border Town",
+        "Result Artist Names": [
+            "The Rustlanders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2IPzuGgKEeEcXh2azV6fMo",
+        "Result Album Name": "The Rustlanders"
     },
     {
         "Title": "The Space Trip That Made Sally Ride A Folk Hero",
@@ -71,13 +113,31 @@
         "MoWeEd Track": "The Planets, Suite For Large Orchestra, Op. 32 - Saturn, The Bringer Of Old Age",
         "MoWeEd Artists": [
             "Berliner Philharmoniker"
-        ]
+        ],
+        "Result Track Name": "The Planets - Suite for large orchestra, Op.32: V. Saturn, the Bringer of Old Age (Adagio)",
+        "Result Artist Names": [
+            "Gustav Holst",
+            "Sir Simon Rattle",
+            "Berliner Philharmoniker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rMWc01OyOaUregehns5bN",
+        "Result Album Name": "Holst: The Planets"
     },
     {
         "MoWeEd Track": "Contact",
         "MoWeEd Artists": [
             "Vayder X"
-        ]
+        ],
+        "Result Track Name": "Contact",
+        "Result Artist Names": [
+            "Vayder X"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BpnJhoCcw5dDBqnlI7QY5",
+        "Result Album Name": "Capacity"
     },
     {
         "Title": "Obama To Vets: Tough Fights Abroad, At Home",
@@ -95,13 +155,29 @@
         "MoWeEd Track": "Workaday World",
         "MoWeEd Artists": [
             "Jack Beaver"
-        ]
+        ],
+        "Result Track Name": "Workaday World",
+        "Result Artist Names": [
+            "Jack Beaver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4e8TcIK19P0bzkCkD80nAy",
+        "Result Album Name": "Kpm 1000 Series: Archive Series Volume 1 - Light Atmospheres"
     },
     {
         "MoWeEd Track": "Mexican Ding Dong",
         "MoWeEd Artists": [
             "Syd Dale"
-        ]
+        ],
+        "Result Track Name": "Mexican Ding Dong",
+        "Result Artist Names": [
+            "Syd Dale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iNDAI031Ppvi6oYy9ILbZ",
+        "Result Album Name": "Kpm 1000 Series: Pleasure Spectacle"
     },
     {
         "Title": "'Dark Knight Rises' Tops Weekend Box Office",
@@ -126,13 +202,26 @@
         "MoWeEd Artists": [
             "The Frank",
             "Joe Show"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Gritty Shaker",
         "MoWeEd Artists": [
             "David Holmes"
-        ]
+        ],
+        "Result Track Name": "Gritty Shaker",
+        "Result Artist Names": [
+            "David Holmes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Q4apI1afNqKP5Ibw6VyKo",
+        "Result Album Name": "Let's Get Killed"
     },
     {
         "Title": "Are Penn State Penalties Too Tough?",
@@ -151,14 +240,31 @@
         "MoWeEd Artists": [
             "Ballake Sissoko",
             "Vincent Segal"
-        ]
+        ],
+        "Result Track Name": "Chamber Music",
+        "Result Artist Names": [
+            "Ballaké Sissoko & Vincent Segal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:2R7q27J4T7i7tRbYLX1J7H",
+        "Result Album Name": "Chamber Music (Amazon MP3 Giveaway)"
     },
     {
         "MoWeEd Track": "Oscarine",
         "MoWeEd Artists": [
             "Ballake Sissoko",
             "Vincent Segal"
-        ]
+        ],
+        "Result Track Name": "Oscarine",
+        "Result Artist Names": [
+            "Ballaké Sissoko",
+            "Vincent Ségal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6w2oMhiQWX2nkH0jnQeGI9",
+        "Result Album Name": "Chamber Music"
     },
     {
         "Title": "Bird Flu Researchers To Meet About Research Moratorium",
@@ -170,13 +276,29 @@
         "MoWeEd Track": "Burn",
         "MoWeEd Artists": [
             "Subthunk"
-        ]
+        ],
+        "Result Track Name": "Burn",
+        "Result Artist Names": [
+            "Subthunk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1AwUIPqoQttRWYCJAMDrxv",
+        "Result Album Name": "You Should've Been Here Yesterday"
     },
     {
         "MoWeEd Track": "Toast",
         "MoWeEd Artists": [
             "Subthunk"
-        ]
+        ],
+        "Result Track Name": "Toast",
+        "Result Artist Names": [
+            "Subthunk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67OY5SiVOzgHkOBhx1cD0u",
+        "Result Album Name": "Just A Few Notes Before You Go"
     },
     {
         "Title": "Ryan Offers Romney Risk, Reward",
@@ -188,13 +310,26 @@
         "MoWeEd Track": "Village of the Virgins",
         "MoWeEd Artists": [
             "Vijay Iyer Trio"
-        ]
+        ],
+        "Result Track Name": "The Village of the Virgins",
+        "Result Artist Names": [
+            "Vijay Iyer Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KnoF5IUOco0uF6qXoAk21",
+        "Result Album Name": "Accelerando (Bonus Track Version)"
     },
     {
         "MoWeEd Track": "String Quartet No. 3 \"Old-Time\" VIII",
         "MoWeEd Artists": [
             "Mark O'Connor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "London Olympics: A Cabbie's View",
@@ -212,13 +347,29 @@
         "MoWeEd Track": "Carried Away",
         "MoWeEd Artists": [
             "Passion Pit"
-        ]
+        ],
+        "Result Track Name": "Carried Away",
+        "Result Artist Names": [
+            "Passion Pit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52a6VcF23v5HB7KfDEmBHq",
+        "Result Album Name": "Gossamer"
     },
     {
         "MoWeEd Track": "Almost Undamaged",
         "MoWeEd Artists": [
             "Ronald Jenkees"
-        ]
+        ],
+        "Result Track Name": "Almost Undamaged",
+        "Result Artist Names": [
+            "Ronald Jenkees"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MJRAyZpScjE4O7XYA6dOq",
+        "Result Album Name": "Ronald Jenkees"
     },
     {
         "Title": "Watch This: William Friedkin's Unlikely Inspirations",
@@ -230,14 +381,27 @@
         "MoWeEd Track": "Citizen Kane: Main Title",
         "MoWeEd Artists": [
             "RKO Radio Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Singin' In The Rain",
         "MoWeEd Artists": [
             "Fred Rich",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Singin' in the Rain (Hollywood Revue of 1929)",
+        "Result Artist Names": [
+            "Fred Rich & His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0aMVjimQ2Vjh62ruyVDjdT",
+        "Result Album Name": "Show Tunes of the 1920's Vol. 2"
     },
     {
         "Title": "'News Of The World' Editors Charged In Hacking",

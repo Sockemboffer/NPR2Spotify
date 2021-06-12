@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2012-07-14",
         "Day": "Sat",
-        "Scanned Date": "2021-06-10 07:21:36"
+        "Scanned Date": "2021-06-10 07:21:36",
+        "Playlist URI": "4HkiVAXzEQJfNdFI2f2Iz0",
+        "Playlist Link": "https://open.spotify.com/playlist/4HkiVAXzEQJfNdFI2f2Iz0",
+        "Snapshot ID": "MSxiMWYzMTFlM2U3OWEyOWU2OWVkNTY0YWQyMzZlNDZmNmQxNzZhODUx",
+        "Playlist Name": "MoWeEd 2012-07-14 Sat Weekend Edition"
     },
     {
         "Title": "Toil And Trouble: Eurozone Pot Continues To Boil",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Baseball Boogie",
         "MoWeEd Artists": [
             "Mabel Scott"
-        ]
+        ],
+        "Result Track Name": "Baseball Boogie",
+        "Result Artist Names": [
+            "Mabel Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ifFwa9e05NlBoBHzdSV3Z",
+        "Result Album Name": "Baseball A Film By Ken Burns - Original Soundtrack Recording"
     },
     {
         "MoWeEd Track": "Somewhere",
         "MoWeEd Artists": [
             "Paul Asbell"
-        ]
+        ],
+        "Result Track Name": "Somewhere",
+        "Result Artist Names": [
+            "Paul Asbell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2DJeyYlCejRdT8sMRhacoN",
+        "Result Album Name": "Roots & Branches: Further Adventures in Steel String Americana"
     },
     {
         "Title": "Osama's Driver Freed In Latest Guantanamo Release",
@@ -82,7 +102,12 @@
         "MoWeEd Track": "Where's My Bow?, for bass, cello, fiddle & mandolin",
         "MoWeEd Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bain, Bain, Go Away: In Defense, Romney Attacks",
@@ -106,7 +131,12 @@
         "MoWeEd Track": "Explosions in the Sky",
         "MoWeEd Artists": [
             "Electrelane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cruise Ship's Salvage A Wreck For Italian Island",
@@ -130,7 +160,15 @@
         "MoWeEd Track": "Gone Daddy Gone",
         "MoWeEd Artists": [
             "Violent Femmes"
-        ]
+        ],
+        "Result Track Name": "Gone Daddy Gone",
+        "Result Artist Names": [
+            "Violent Femmes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2z8MYvOr9kJw5O5bKY2rhD",
+        "Result Album Name": "Violent Femmes"
     },
     {
         "Title": "Found In Musical Translation: Higgs Boson Explained",
@@ -160,6 +198,14 @@
         "MoWeEd Track": "The Cascades",
         "MoWeEd Artists": [
             "Fleet Foxes"
-        ]
+        ],
+        "Result Track Name": "The Cascades",
+        "Result Artist Names": [
+            "Fleet Foxes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0doAllpYP3hnusnTwFqmdG",
+        "Result Album Name": "Helplessness Blues"
     }
 ]

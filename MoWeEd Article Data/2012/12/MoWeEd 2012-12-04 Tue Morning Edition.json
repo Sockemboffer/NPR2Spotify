@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2012-12-04",
         "Day": "Tue",
-        "Scanned Date": "2021-06-10 06:59:40"
+        "Scanned Date": "2021-06-10 06:59:40",
+        "Playlist URI": "7AqaDgxMQ7e0J9vRJKG2qI",
+        "Playlist Link": "https://open.spotify.com/playlist/7AqaDgxMQ7e0J9vRJKG2qI",
+        "Snapshot ID": "MSxlMWNmNTJiZDM0MGI5ZDgzMmFiNTAzMDQ0YWY1M2Q1Nzk4MjQxNDFj",
+        "Playlist Name": "MoWeEd 2012-12-04 Tue Morning Edition"
     },
     {
         "Title": "Obama Starts His Second Term By Bringing Tougher Talk",
@@ -22,7 +26,12 @@
         "MoWeEd Track": "Comet",
         "MoWeEd Artists": [
             "East West Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nairobi Film Depicts Crime And The City",
@@ -40,13 +49,26 @@
         "MoWeEd Track": "Reading Rainbow Theme Song",
         "MoWeEd Artists": [
             "Tina Fabrique"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Louisiana Fairytale",
         "MoWeEd Artists": [
             "Firecracker Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Louisiana Fairytale",
+        "Result Artist Names": [
+            "Firecracker Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BA01eom36GguvFCAJayPY",
+        "Result Album Name": "The Firecracker Jazz Band Meets the Wild Man"
     },
     {
         "Title": "Baby On The Way For Britain's Royals",
@@ -59,14 +81,32 @@
         "MoWeEd Artists": [
             "Danger Mouse",
             "Daniele Luppi et. al."
-        ]
+        ],
+        "Result Track Name": "The World (Interlude)",
+        "Result Artist Names": [
+            "Danger Mouse",
+            "Daniele Luppi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2H0NMcahR24XGJrMc3y0Mq",
+        "Result Album Name": "Rome"
     },
     {
         "MoWeEd Track": "Morning Fog (Interlude)",
         "MoWeEd Artists": [
             "Danger Mouse",
             "Daniele Luppi"
-        ]
+        ],
+        "Result Track Name": "Morning Fog (Interlude)",
+        "Result Artist Names": [
+            "Danger Mouse",
+            "Daniele Luppi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6iJ6QCR3fvkar0SaNEbrcG",
+        "Result Album Name": "Rome"
     },
     {
         "Title": "Despite Ban, Protests Continue In Bahrain",
@@ -85,14 +125,32 @@
         "MoWeEd Artists": [
             "Sylvain Luc",
             "Bireli Lagrene"
-        ]
+        ],
+        "Result Track Name": "Stompin' at the Savoy",
+        "Result Artist Names": [
+            "Biréli Lagrène",
+            "Sylvain Luc"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1Ju3pY6Zl6nrSxQnezAKQm",
+        "Result Album Name": "Best Moments"
     },
     {
         "MoWeEd Track": "Made in France",
         "MoWeEd Artists": [
             "Sylvain Luc",
             "Bireli Lagrene"
-        ]
+        ],
+        "Result Track Name": "Made in France",
+        "Result Artist Names": [
+            "Biréli Lagrène",
+            "Sylvain Luc"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7bZnOv5hz0Pd9OCPh1GDCE",
+        "Result Album Name": "Best Moments"
     },
     {
         "Title": "Feds Sue Chinese Audit Firms",
@@ -122,13 +180,29 @@
         "MoWeEd Track": "Go Your Own Way",
         "MoWeEd Artists": [
             "Fleetwood Mac"
-        ]
+        ],
+        "Result Track Name": "Go Your Own Way - 2004 Remaster",
+        "Result Artist Names": [
+            "Fleetwood Mac"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xh7W7tlNMIczFhupCPniY",
+        "Result Album Name": "Rumours (Super Deluxe)"
     },
     {
         "MoWeEd Track": "Landslide",
         "MoWeEd Artists": [
             "Relaxing Instrumental Jazz Ensemble"
-        ]
+        ],
+        "Result Track Name": "Landslide",
+        "Result Artist Names": [
+            "Relaxing Instrumental Jazz Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6BHglvXFVNSdp8xkO2djyr",
+        "Result Album Name": "Chill Music, Romantic Dinner Party, Cool Instrumental Songs, Chill Songs, Dinner Guitar, Acoustic Background Guitar, Cool Music"
     },
     {
         "Title": "A Rebel Fighter Sees Islamic Law In Syria's Future",
@@ -146,7 +220,15 @@
         "MoWeEd Track": "Origine Orients",
         "MoWeEd Artists": [
             "Abaji"
-        ]
+        ],
+        "Result Track Name": "Origine Orients",
+        "Result Artist Names": [
+            "Abaji"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pFd473cxSuRkBGIYb7wza",
+        "Result Album Name": "Origine Orients"
     },
     {
         "Title": "The Huge (And Rarely Discussed) Health Insurance Tax Break",
@@ -164,13 +246,26 @@
         "MoWeEd Track": "Wichita Lineman",
         "MoWeEd Artists": [
             "David Goodrich"
-        ]
+        ],
+        "Result Track Name": "Wichita Lineman",
+        "Result Artist Names": [
+            "David Baroni"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1wOCQ2OyVSwkJHuKSgibxA",
+        "Result Album Name": "The Great Songs: Solo Piano"
     },
     {
         "MoWeEd Track": "Now Go There",
         "MoWeEd Artists": [
             "David Goodrich"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rupert Murdoch Reveals Plan To Split Conglomerate",
@@ -182,13 +277,29 @@
         "MoWeEd Track": "To Wisdom The Prize",
         "MoWeEd Artists": [
             "The Roy Hargrove Quintet"
-        ]
+        ],
+        "Result Track Name": "To Wisdom The Prize",
+        "Result Artist Names": [
+            "Roy Hargrove"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:02xj9PujiFZy1eR1vNA5qj",
+        "Result Album Name": "Earfood"
     },
     {
         "MoWeEd Track": "The Stinger",
         "MoWeEd Artists": [
             "The Roy Hargrove Quintet"
-        ]
+        ],
+        "Result Track Name": "The Stinger",
+        "Result Artist Names": [
+            "Roy Hargrove"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5jjwUNSXotl4oXCuHYp3xM",
+        "Result Album Name": "Earfood"
     },
     {
         "Title": "Nielsen Study Notices Growth In Social TV",
@@ -212,13 +323,26 @@
         "MoWeEd Track": "Mission Impossible",
         "MoWeEd Artists": [
             "Lizzy Mercier Descloux"
-        ]
+        ],
+        "Result Track Name": "Mission Impossible",
+        "Result Artist Names": [
+            "Lizzy Mercier Descloux"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iBggOLgXiScPJUAKFG3ah",
+        "Result Album Name": "Press Color (Deluxe Edition)"
     },
     {
         "MoWeEd Track": "7/29/04 the Day Of",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A $100 Guitar Makes A 30,000-Mile Odyssey",
@@ -230,13 +354,26 @@
         "MoWeEd Track": "Impossible Germany",
         "MoWeEd Artists": [
             "Wilco"
-        ]
+        ],
+        "Result Track Name": "Impossible Germany",
+        "Result Artist Names": [
+            "Wilco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6L0BBPYeWnaQJeDa0ox0IA",
+        "Result Album Name": "Sky Blue Sky"
     },
     {
         "MoWeEd Track": "Yoake No Uta",
         "MoWeEd Artists": [
             "Eastern Youth"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Online Courses Force Changes To Higher Education",
