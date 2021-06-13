@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2013-10-12",
         "Day": "Sat",
-        "Scanned Date": "2021-06-12 07:14:51"
+        "Scanned Date": "2021-06-12 07:14:51",
+        "Playlist URI": "20K8ijXvs3wU0w13MM3m1B",
+        "Playlist Link": "https://open.spotify.com/playlist/20K8ijXvs3wU0w13MM3m1B",
+        "Snapshot ID": "MSxkMjI3NTE0MmJjYjU4NDBhM2VhMjNkN2ZiMzg3NzBlZmE4ZjIzNTFl",
+        "Playlist Name": "MoWeEd 2013-10-12 Sat Weekend Edition"
     },
     {
         "Title": "D.C. To IMF: 'Welcome To Crazy Town'",
@@ -29,13 +33,29 @@
         "MoWeEd Artists": [
             "Buddy Holly",
             "The Crickets et. al."
-        ]
+        ],
+        "Result Track Name": "That'll Be The Day",
+        "Result Artist Names": [
+            "Buddy Holly & The Crickets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7w9UuIaDrfyey4dV3AbwGW",
+        "Result Album Name": "20 Golden Greats: Buddy Holly Lives"
     },
     {
         "MoWeEd Track": "Feels Like Home",
         "MoWeEd Artists": [
             "Orianthi"
-        ]
+        ],
+        "Result Track Name": "Feels Like Home",
+        "Result Artist Names": [
+            "Orianthi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BbPPobfo0CbGOyRU54clS",
+        "Result Album Name": "Believe (II)"
     },
     {
         "Title": "Would The U.S. Be Better Off With A Parliament?",
@@ -71,7 +91,16 @@
         "MoWeEd Track": "Closing",
         "MoWeEd Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 3, \"Mishima\": VI. Mishima / Closing",
+        "Result Artist Names": [
+            "Philip Glass",
+            "The Modern String Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bovcVVVLFjVJgNf7sx0us",
+        "Result Album Name": "Dark Academia Studying and Reading"
     },
     {
         "Title": "Shutdown's Reach Extends To  South Pole",
@@ -110,7 +139,12 @@
             "St. Petersburg Radio",
             "TV Symphony Orchestra",
             "Stanislav Gorkovenko (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Obamacare Drops Off The Shutdown Script",
@@ -134,7 +168,12 @@
         "MoWeEd Track": "Money's Tight [*]",
         "MoWeEd Artists": [
             "Leon Huff"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Health Insurance Exchanges Suffer Ills Of Geography",
@@ -164,7 +203,15 @@
         "MoWeEd Track": "Detroit Rock City",
         "MoWeEd Artists": [
             "Alex Skolnick"
-        ]
+        ],
+        "Result Track Name": "Detroit Rock City",
+        "Result Artist Names": [
+            "Alex Skolnick Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:452oZFMWxbFac52oCvkKBr",
+        "Result Album Name": "Goodbye To Romance (Euro-Release)"
     },
     {
         "Title": "From Divided States, A 'United' Nation — Thanks To These Men",
@@ -188,6 +235,14 @@
         "MoWeEd Track": "Outlands",
         "MoWeEd Artists": [
             "Daft Punk"
-        ]
+        ],
+        "Result Track Name": "Outlands",
+        "Result Artist Names": [
+            "Daft Punk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1lQZ7fJRndezv3hnEtadcI",
+        "Result Album Name": "TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)"
     }
 ]

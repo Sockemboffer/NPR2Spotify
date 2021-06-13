@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2013-10-27",
         "Day": "Sun",
-        "Scanned Date": "2021-06-12 07:16:20"
+        "Scanned Date": "2021-06-12 07:16:20",
+        "Playlist URI": "4bgPBw4zvHQLnqCbfNv7sT",
+        "Playlist Link": "https://open.spotify.com/playlist/4bgPBw4zvHQLnqCbfNv7sT",
+        "Snapshot ID": "MSxmNjkxNDI1YjAyZGM0OTUwNDA1M2U5ZmZlMDg5NjJjYTJmZTBlNmJh",
+        "Playlist Name": "MoWeEd 2013-10-27 Sun Weekend Edition"
     },
     {
         "Title": "Saudi Women Hold A Drive-In Protest",
@@ -29,7 +33,17 @@
         "MoWeEd Artists": [
             "National Symphony Orchestra of Ukraine",
             "Theodore Kuchar (conductor)"
-        ]
+        ],
+        "Result Track Name": "Symphony No. 5 in B-Flat Major, Op. 100: I. Andante",
+        "Result Artist Names": [
+            "Sergei Prokofiev",
+            "Ukraine National Symphony Orchestra",
+            "Theodore Kuchar"
+        ],
+        "Result Track-Match Percent": 0.9523809523809523,
+        "Result Artists-Match Percent": 0.625,
+        "Result Track URI": "spotify:track:26M2icHVf9zNo9TlBlEMRD",
+        "Result Album Name": "Prokofiev: Complete Symphonies and Concertos"
     },
     {
         "Title": "Is Rebuilding Storm-Struck Coastlines Worth The Cost?",
@@ -54,7 +68,15 @@
         "MoWeEd Artists": [
             "Ray Parker",
             "Jr."
-        ]
+        ],
+        "Result Track Name": "Ghostbusters",
+        "Result Artist Names": [
+            "Ray Parker Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:300zfRaCgTmEm5Eqe3HqZZ",
+        "Result Album Name": "Arista Heritage Series: Ray Parker"
     },
     {
         "Title": "Does A Bear Drive In The Woods?",
@@ -66,7 +88,15 @@
         "MoWeEd Track": "FRANZ SCHUBERT",
         "MoWeEd Artists": [
             "KRAFTWERK"
-        ]
+        ],
+        "Result Track Name": "Franz Schubert - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4aJulXrGlrQFi2cHLc6kSd",
+        "Result Album Name": "Trans-Europe Express (2009 Remaster)"
     },
     {
         "Title": "Hungry For A Hidden Word",
@@ -90,7 +120,19 @@
         "MoWeEd Track": "Crouching Tiger, Hidden Dragon",
         "MoWeEd Artists": [
             "Tan Dun"
-        ]
+        ],
+        "Result Track Name": "Crouching Tiger, Hidden Dragon",
+        "Result Artist Names": [
+            "Tan Dun",
+            "Yo-Yo Ma",
+            "Chen Xie Yang",
+            "Shanghai Symphony Orchestra",
+            "Shanghai National Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zO6zyBZd6zqdFBBDZKIds",
+        "Result Album Name": "Crouching Tiger, Hidden Dragon (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Hacking Trial Puts U.K. Press, Politicos, Police On Defense",
@@ -114,14 +156,30 @@
         "MoWeEd Track": "She's Waiting",
         "MoWeEd Artists": [
             "Rita Hosking"
-        ]
+        ],
+        "Result Track Name": "She's Waiting",
+        "Result Artist Names": [
+            "Rita Hosking"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3r77nLEfOJsdH8Xi9XQYLL",
+        "Result Album Name": "Come Sunrise"
     },
     {
         "MoWeEd Track": "Hi-Heel Sneakers",
         "MoWeEd Artists": [
             "Jeff Beck",
             "Jed Leiber"
-        ]
+        ],
+        "Result Track Name": "Hi-Heel Sneakers",
+        "Result Artist Names": [
+            "Jeff Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2H1A6NNz6ms6A2EawemfCa",
+        "Result Album Name": "Frankie's House (Music From The Original Soundtrack)"
     },
     {
         "Title": "American's Death Still A Greek Mystery, 65 Years Later ",
@@ -151,7 +209,12 @@
         "MoWeEd Track": "Haïti",
         "MoWeEd Artists": [
             "Arcade Fire"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ghostwriter Carries On V.C. Andrews' Gothic Legacy",
@@ -176,6 +239,11 @@
         "MoWeEd Artists": [
             "Black Dyke Band",
             "Nicholas J. Childs (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
