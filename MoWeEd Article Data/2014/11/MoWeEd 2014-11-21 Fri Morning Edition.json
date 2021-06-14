@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2014-11-21",
         "Day": "Fri",
-        "Scanned Date": "2021-06-13 01:08:03"
+        "Scanned Date": "2021-06-13 01:08:03",
+        "Playlist URI": "5FcD54q0hR1mBHPBviMcgA",
+        "Playlist Link": "https://open.spotify.com/playlist/5FcD54q0hR1mBHPBviMcgA",
+        "Snapshot ID": "MSwwZTg0MzU1YjVlMjI4YWU4NTMzM2NiNzcyZTk0M2RjMmMxMGFkMmUw",
+        "Playlist Name": "MoWeEd 2014-11-21 Fri Morning Edition"
     },
     {
         "Title": "Obama Unveils Temporary Protection From Deportation",
@@ -28,20 +32,38 @@
         "MoWeEd Track": "Galactic Diamonds",
         "MoWeEd Artists": [
             "Outer Bridge Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "At Ease",
         "MoWeEd Artists": [
             "Outer Bridge Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Soul Power '74",
         "MoWeEd Artists": [
             "Maceo",
             "the Macks"
-        ]
+        ],
+        "Result Track Name": "Soul Power 74 - Pt. 2",
+        "Result Artist Names": [
+            "Maceo And The Macks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rFS1AleVTvi4Ye5fzLL44",
+        "Result Album Name": "Us"
     },
     {
         "Title": "Skiers Rejoice! Upstate New York Has Snow",
@@ -59,7 +81,15 @@
         "MoWeEd Track": "Doldrums",
         "MoWeEd Artists": [
             "The Pirate Ship Quintet"
-        ]
+        ],
+        "Result Track Name": "Doldrums",
+        "Result Artist Names": [
+            "The Pirate Ship Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pgADGOusiAoidxYVBaU8Z",
+        "Result Album Name": "Rope For No-Hopers"
     },
     {
         "Title": "Device Lets You Experience A Hockey Hit",
@@ -71,7 +101,12 @@
         "MoWeEd Track": "Erda",
         "MoWeEd Artists": [
             "Spaces"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mama Stamberg's Cranberry Relish Put To The Test At Amish Market",
@@ -83,19 +118,47 @@
         "MoWeEd Track": "Rose Room",
         "MoWeEd Artists": [
             "Violinjazz"
-        ]
+        ],
+        "Result Track Name": "Rose Room",
+        "Result Artist Names": [
+            "Andrea Liguori",
+            "Harold Jones",
+            "Violinjazz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63BmPoOItQTnaitHU7xWS1",
+        "Result Album Name": "Violinjazz: The Music of Eddie South"
     },
     {
         "MoWeEd Track": "Idaho",
         "MoWeEd Artists": [
             "Violinjazz"
-        ]
+        ],
+        "Result Track Name": "Idaho",
+        "Result Artist Names": [
+            "Andrea Liguori",
+            "Harold Jones",
+            "Violinjazz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0sqoSjbjdzrT8WozAXQspY",
+        "Result Album Name": "Violinjazz: The Music of Eddie South"
     },
     {
         "MoWeEd Track": "Perdido",
         "MoWeEd Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Perdido",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2e3cWhsr13mmgv2mEXf5sN",
+        "Result Album Name": "Great Jazz Bands the Harlem Collection the Essential Series"
     },
     {
         "Title": "In Liberia, A New Focus On Tracking Down Rural Ebola Cases",
@@ -107,7 +170,15 @@
         "MoWeEd Track": "Heimat",
         "MoWeEd Artists": [
             "Hauschka"
-        ]
+        ],
+        "Result Track Name": "Heimat",
+        "Result Artist Names": [
+            "Hauschka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0fw3JTCaow7EsL4F7AblaA",
+        "Result Album Name": "Ferndorf"
     },
     {
         "Title": "Violence Breaks Out At Protest For Missing Mexican Students",
@@ -131,13 +202,29 @@
         "MoWeEd Track": "Strange Steps",
         "MoWeEd Artists": [
             "God Is An Astronaut"
-        ]
+        ],
+        "Result Track Name": "Strange Steps",
+        "Result Artist Names": [
+            "God Is An Astronaut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7x8DkaVXONX6H1L8mrJUfD",
+        "Result Album Name": "Origins"
     },
     {
         "MoWeEd Track": "Spiral Code",
         "MoWeEd Artists": [
             "God Is An Astronaut"
-        ]
+        ],
+        "Result Track Name": "Spiral Code",
+        "Result Artist Names": [
+            "God Is An Astronaut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Dudr2BEd5oNTqQkMclc5K",
+        "Result Album Name": "Origins"
     },
     {
         "Title": "Obama Defies Republicans, Lays Out Immigration Policy",
@@ -155,19 +242,40 @@
         "MoWeEd Track": "Can I",
         "MoWeEd Artists": [
             "J Mascis"
-        ]
+        ],
+        "Result Track Name": "Can I",
+        "Result Artist Names": [
+            "J Mascis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kJyNRt7mvgp3VHhbltoae",
+        "Result Album Name": "Several Shades of Why"
     },
     {
         "MoWeEd Track": "What Happened",
         "MoWeEd Artists": [
             "J Mascis"
-        ]
+        ],
+        "Result Track Name": "What Happened",
+        "Result Artist Names": [
+            "J Mascis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dzfDQdxfU5LhaQoSeyV6b",
+        "Result Album Name": "Several Shades of Why"
     },
     {
         "MoWeEd Track": "Pet Food",
         "MoWeEd Artists": [
             "Yoko Kanno"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Blind From Birth, But Able To Use Sound To 'See' Faces ",
@@ -185,7 +293,15 @@
         "MoWeEd Track": "Saunter",
         "MoWeEd Artists": [
             "Podington Bear"
-        ]
+        ],
+        "Result Track Name": "Saunter",
+        "Result Artist Names": [
+            "Podington Bear"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wzhVbhaipNwYBXSCRXAhU",
+        "Result Album Name": "Backbeat"
     },
     {
         "Title": "Update: Venice Isn't Banning Rolling Suitcases",
@@ -197,7 +313,15 @@
         "MoWeEd Track": "Budsbursting 2.0",
         "MoWeEd Artists": [
             "Podington Bear"
-        ]
+        ],
+        "Result Track Name": "Budsbursting 2.0",
+        "Result Artist Names": [
+            "Podington Bear"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RHaLWJug0hDxOa4zbc1IQ",
+        "Result Album Name": "Backbeat"
     },
     {
         "Title": "White House Adviser Cecilia Munoz Answers Immigration Questions",
@@ -209,13 +333,26 @@
         "MoWeEd Track": "De Jorge a Paola -Guaguanco-",
         "MoWeEd Artists": [
             "Roberto Fonseca"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Cimarrón",
         "MoWeEd Artists": [
             "Harold Lopez Nussa"
-        ]
+        ],
+        "Result Track Name": "Cimarrón",
+        "Result Artist Names": [
+            "Harold López-Nussa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5MJhIBfAFSoQFSvfcljRVd",
+        "Result Album Name": "New Day (Bonus Track Version)"
     },
     {
         "Title": "Iran Nuclear Negotiators Face Monday Deadline",
@@ -227,19 +364,43 @@
         "MoWeEd Track": "Girl From Pirdop",
         "MoWeEd Artists": [
             "Hijaz"
-        ]
+        ],
+        "Result Track Name": "Girl From Pirdop",
+        "Result Artist Names": [
+            "Hijaz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32ihBnyzuTZBpiZdvCdomE",
+        "Result Album Name": "Dunes"
     },
     {
         "MoWeEd Track": "Evasion",
         "MoWeEd Artists": [
             "Hijaz"
-        ]
+        ],
+        "Result Track Name": "Evasion",
+        "Result Artist Names": [
+            "Hijaz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QCRdBYG3xOdjeX1bnwIQr",
+        "Result Album Name": "10 Years - Live Recording"
     },
     {
         "MoWeEd Track": "Start a Band",
         "MoWeEd Artists": [
             "And So I Watch You from Afar"
-        ]
+        ],
+        "Result Track Name": "Start a Band",
+        "Result Artist Names": [
+            "And So I Watch You from Afar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EFjQ4BWOp0QyxztIvr6m4",
+        "Result Album Name": "And So I Watch You From Afar"
     },
     {
         "Title": "GOP Rep. Cole Says Obama Is Playing Politics With Immigration",

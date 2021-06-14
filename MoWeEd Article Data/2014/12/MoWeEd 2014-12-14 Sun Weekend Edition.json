@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2014-12-14",
         "Day": "Sun",
-        "Scanned Date": "2021-06-13 01:04:28"
+        "Scanned Date": "2021-06-13 01:04:28",
+        "Playlist URI": "3LIAWXkY7KCeJGd2gkri7S",
+        "Playlist Link": "https://open.spotify.com/playlist/3LIAWXkY7KCeJGd2gkri7S",
+        "Snapshot ID": "MSxkNmUyMGZhZjgyNDIxMDY0NGQ4MGVhZGJlODliMDNmZjEwMDg5YTQx",
+        "Playlist Name": "MoWeEd 2014-12-14 Sun Weekend Edition"
     },
     {
         "Title": "Senate Passes $1.1 Trillion Spending Bill",
@@ -28,13 +32,29 @@
         "MoWeEd Track": "Dandelions In Bullet Holes",
         "MoWeEd Artists": [
             "Sarah Harmer"
-        ]
+        ],
+        "Result Track Name": "Dandelions In Bullet Holes",
+        "Result Artist Names": [
+            "Sarah Harmer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wiGxlYaHq6cdj0eDPh2fY",
+        "Result Album Name": "All Of Our Names"
     },
     {
         "MoWeEd Track": "We Could Forever",
         "MoWeEd Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "We Could Forever",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2y1cW84gbL4ghBD2HwcQ3x",
+        "Result Album Name": "Black Sands"
     },
     {
         "Title": "Survivor Of Mexican Student Attacks Tells Of Bullet-Riddled Escape",
@@ -76,7 +96,15 @@
         "MoWeEd Track": "Barefoot Adventure",
         "MoWeEd Artists": [
             "Bud Shank"
-        ]
+        ],
+        "Result Track Name": "Barefoot Adventure",
+        "Result Artist Names": [
+            "Bud Shank"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UvAy1Im5ZN2asXPNLlumv",
+        "Result Album Name": "Barefoot Adventure"
     },
     {
         "Title": "Charli XCX's Stockholm Scream Led To One Big 'Sucker'",
@@ -88,7 +116,15 @@
         "MoWeEd Track": "Marzipan Children",
         "MoWeEd Artists": [
             "Little People"
-        ]
+        ],
+        "Result Track Name": "Marzipan Children",
+        "Result Artist Names": [
+            "Little People"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2itlnIU9u5VkBO0wr6ajtT",
+        "Result Album Name": "We Are but Hunks of Wood"
     },
     {
         "Title": "Two Views Of The CIA's 'Enhanced' Interrogations",
@@ -101,13 +137,32 @@
         "MoWeEd Artists": [
             "Raine",
             "The City of Prague Philharmonic"
-        ]
+        ],
+        "Result Track Name": "May It Be (From \"The Lord of the Rings: The Fellowship of the Ring\") (Vocal)",
+        "Result Artist Names": [
+            "Tara Scammell",
+            "Nic Raine",
+            "The City of Prague Philharmonic Orchestra",
+            "Crouch End Festival Chorus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35FCRSI7mXe7ccijhjaos7",
+        "Result Album Name": "Lord Of The Rings Trilogy"
     },
     {
         "MoWeEd Track": "Apogee",
         "MoWeEd Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Apogee",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3RpWjYMS78Q2v2OmPO7A1x",
+        "Result Album Name": "Awake"
     },
     {
         "Title": "Protesters Of Police Violence Divided By Generation",
@@ -164,6 +219,11 @@
             "Crouch End Festiv",
             "Prague Philharmonic Orchestra",
             "Nic Raine (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

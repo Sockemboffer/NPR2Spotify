@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2014-10-04",
         "Day": "Sat",
-        "Scanned Date": "2021-06-13 01:09:07"
+        "Scanned Date": "2021-06-13 01:09:07",
+        "Playlist URI": "5dS0ETJF9rVNW11svJw1tW",
+        "Playlist Link": "https://open.spotify.com/playlist/5dS0ETJF9rVNW11svJw1tW",
+        "Snapshot ID": "MSxmM2I3ZGQ3ZWMxYmE1OTZlMDAxZjg5YWZiYmZmMjU0MTkwODQ4NTJh",
+        "Playlist Name": "MoWeEd 2014-10-04 Sat Weekend Edition"
     },
     {
         "Title": "CDC Says 10 At Serious Risk Of Ebola After Dallas Case",
@@ -29,13 +33,26 @@
         "MoWeEd Artists": [
             "Raúl Esparza",
             "Angel Desai et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Kickin' the Clouds Away",
         "MoWeEd Artists": [
             "George Gershwin"
-        ]
+        ],
+        "Result Track Name": "Gershwin: Kickin The Clouds Away",
+        "Result Artist Names": [
+            "George Gershwin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0TlScB54KcGt7Gjy1BzK2S",
+        "Result Album Name": "Little Big Gershwin Box"
     },
     {
         "Title": "Secret Service's Hollywood Allure Fueled By Its Secrecy",
@@ -65,7 +82,15 @@
         "MoWeEd Track": "Empty Station",
         "MoWeEd Artists": [
             "Pretty Lights"
-        ]
+        ],
+        "Result Track Name": "Empty Station",
+        "Result Artist Names": [
+            "Pretty Lights"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37BZDvoX0pXPOaKE4GkSS1",
+        "Result Album Name": "Taking up Your Precious Time"
     },
     {
         "Title": "Art Project Opens Long-Closed Ellis Island Hospital",
@@ -84,7 +109,16 @@
         "MoWeEd Artists": [
             "Trent Reznor",
             "Atticus Ross"
-        ]
+        ],
+        "Result Track Name": "Procedural",
+        "Result Artist Names": [
+            "Trent Reznor",
+            "Atticus Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Xh2KojMDhs4OzshvUhlZZ",
+        "Result Album Name": "Gone Girl (Soundtrack from the Motion Picture)"
     },
     {
         "Title": "The Man Who Casts The Metal For The Master Sculptors",
@@ -114,7 +148,15 @@
         "MoWeEd Track": "O Sole Mio",
         "MoWeEd Artists": [
             "Royal Festival Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": "O Sole Mio",
+        "Result Artist Names": [
+            "Bavarian Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3wKLqAOgBWwSdL5kx1bIGm",
+        "Result Album Name": "Tijuana Pan Pot Dixie"
     },
     {
         "Title": "Islamic State Beheads British Aid Worker, Makes New Threat",
@@ -144,7 +186,15 @@
         "MoWeEd Track": "Content Is Irrelevant",
         "MoWeEd Artists": [
             "Because of Ghosts"
-        ]
+        ],
+        "Result Track Name": "The Content Is Irrelevant",
+        "Result Artist Names": [
+            "Because Of Ghosts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0A0XdEkhCRzqGJ3vQVIXWt",
+        "Result Album Name": "This Culture Of Background Noise"
     },
     {
         "Title": "Dancer Needed To Move To Think",
@@ -156,7 +206,12 @@
         "MoWeEd Track": "AC/DC",
         "MoWeEd Artists": [
             "Shane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Cardinals As The New Yankees: The Week In Sports",
@@ -180,6 +235,14 @@
         "MoWeEd Track": "Paper Airplanes",
         "MoWeEd Artists": [
             "Signal Hill"
-        ]
+        ],
+        "Result Track Name": "Paper Airplanes",
+        "Result Artist Names": [
+            "Signal Hill"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38JtIk0diRp38KpgGZlma7",
+        "Result Album Name": "Distance"
     }
 ]

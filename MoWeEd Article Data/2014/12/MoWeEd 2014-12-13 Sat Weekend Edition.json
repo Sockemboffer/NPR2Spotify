@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2014-12-13",
         "Day": "Sat",
-        "Scanned Date": "2021-06-13 01:04:24"
+        "Scanned Date": "2021-06-13 01:04:24",
+        "Playlist URI": "5MHPgTkcJp1rWwA0rdmi1U",
+        "Playlist Link": "https://open.spotify.com/playlist/5MHPgTkcJp1rWwA0rdmi1U",
+        "Snapshot ID": "MSw0ZmNkNzZiYjlkMzc3OTZiNjVkYmMyN2QzYmIzMmVkYzc2YjBiYTE2",
+        "Playlist Name": "MoWeEd 2014-12-13 Sat Weekend Edition"
     },
     {
         "Title": "Activists Gather On Washington Mall To Protest Police Violence",
@@ -28,13 +32,23 @@
         "MoWeEd Track": "Everybody Has The Right To Be Wrong",
         "MoWeEd Artists": [
             "Bobby Darin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Je suis seul ce soir",
         "MoWeEd Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Outrage Over Chinese Takeout Brings To Mind A Maxim",
@@ -64,7 +78,15 @@
         "MoWeEd Track": "The Christmas Song ( Merry Christmas to You)",
         "MoWeEd Artists": [
             "Nat King Cole"
-        ]
+        ],
+        "Result Track Name": "The Christmas Song (Merry Christmas To You)",
+        "Result Artist Names": [
+            "Nat King Cole"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4PS1e8f2LvuTFgUs1Cn3ON",
+        "Result Album Name": "The Christmas Song (Expanded Edition)"
     },
     {
         "Title": "Hanukkah History: Those Chocolate Coins Were Once Real Tips",
@@ -76,7 +98,16 @@
         "MoWeEd Track": "Shoe Stealing",
         "MoWeEd Artists": [
             "Danny Elfman"
-        ]
+        ],
+        "Result Track Name": "Shoe Stealing",
+        "Result Artist Names": [
+            "Danny Elfman",
+            "Nick Ingman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7qqdk0AdU4AgBZdlhXy3Nb",
+        "Result Album Name": "Big Fish (Music from the Motion Picture)"
     },
     {
         "Title": "Forced To Seat Blacks, Ala. Restaurant Complied With History",
@@ -106,14 +137,27 @@
         "MoWeEd Track": "I'm Too Sexy",
         "MoWeEd Artists": [
             "Right Said Fred"
-        ]
+        ],
+        "Result Track Name": "I'm Too Sexy",
+        "Result Artist Names": [
+            "Right Said Fred"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WElktskrNJEwgpp5Vouxk",
+        "Result Album Name": "Up"
     },
     {
         "MoWeEd Track": "Thrift Shop Fashion Shoot",
         "MoWeEd Artists": [
             "Stewart Copeland",
             "Vicki Randle"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "NYT Reporter: Brutal Interrogations Rose In CIA's Post-9/11 Chaos",
@@ -138,7 +182,15 @@
         "MoWeEd Artists": [
             "Bill Haley",
             "His Comets"
-        ]
+        ],
+        "Result Track Name": "Farewell, So Long, Goodbye",
+        "Result Artist Names": [
+            "Bill Haley & His Comets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cj7MfZHoLdpgSNl5bswf4",
+        "Result Album Name": "Tonight: Rock and Roll Dance Party (Remastered from the Original Somerset Tapes)"
     },
     {
         "Title": "Hong Kong Protesters Leave The Streets, Not Their Cause",
@@ -162,7 +214,15 @@
         "MoWeEd Track": "Antenna",
         "MoWeEd Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Antenna",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5YhKjllHOmPJMcTdctlOGe",
+        "Result Album Name": "The North Borders"
     },
     {
         "Title": "Oil Prices Go Down, Russia's Gold Buying Goes Up ",
@@ -198,6 +258,14 @@
         "MoWeEd Track": "Summer Song",
         "MoWeEd Artists": [
             "Joe Satriani"
-        ]
+        ],
+        "Result Track Name": "Summer Song",
+        "Result Artist Names": [
+            "Joe Satriani"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3zvBkrRyrDFmcJAfmZLEOT",
+        "Result Album Name": "The Extremist"
     }
 ]

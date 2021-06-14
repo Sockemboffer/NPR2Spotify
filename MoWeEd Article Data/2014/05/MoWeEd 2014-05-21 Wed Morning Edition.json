@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2014-05-21",
         "Day": "Wed",
-        "Scanned Date": "2021-06-13 01:24:27"
+        "Scanned Date": "2021-06-13 01:24:27",
+        "Playlist URI": "7Bbc9QpXqlTzCG7kta9JLq",
+        "Playlist Link": "https://open.spotify.com/playlist/7Bbc9QpXqlTzCG7kta9JLq",
+        "Snapshot ID": "MSxlZDAwMzc2ZjA4ZmY0MTY1MWM1NjQ4ZjJiMjFjOWQ3ZTdiMWU2NjU1",
+        "Playlist Name": "MoWeEd 2014-05-21 Wed Morning Edition"
     },
     {
         "Title": "House To Vote On Fate Of A-10 Warthogs",
@@ -22,13 +26,23 @@
         "MoWeEd Track": "Penny Lane",
         "MoWeEd Artists": [
             "Count Basie Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Can't Buy Me Love",
         "MoWeEd Artists": [
             "Count Basie Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Should HPV Testing Replace The Pap Smear?",
@@ -53,14 +67,32 @@
         "MoWeEd Artists": [
             "Mikael Jorgensen",
             "Greg O'Keeffe"
-        ]
+        ],
+        "Result Track Name": "Ohayou",
+        "Result Artist Names": [
+            "Mikael Jorgensen",
+            "Greg O'Keeffe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1XKHDjjgSJ24yKQJPwJFrz",
+        "Result Album Name": "Mikael Jorgensen & Greg O'keeffe"
     },
     {
         "MoWeEd Track": "ARMZ",
         "MoWeEd Artists": [
             "Mikael Jorgensen",
             "Greg O'Keeffe"
-        ]
+        ],
+        "Result Track Name": "Armz",
+        "Result Artist Names": [
+            "Mikael Jorgensen",
+            "Greg O'Keeffe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tle12XUVs11OoRXjswsVO",
+        "Result Album Name": "Mikael Jorgensen & Greg O'keeffe"
     },
     {
         "Title": "Pleasant Hills, Calf., Is Looking For A New City Clerk",
@@ -78,13 +110,29 @@
         "MoWeEd Track": "Lecker",
         "MoWeEd Artists": [
             "Kinski"
-        ]
+        ],
+        "Result Track Name": "Lecker",
+        "Result Artist Names": [
+            "Kinski"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uzGbOUc7ca2Dt4priJBbD",
+        "Result Album Name": "SpaceLaunch For Frenchie"
     },
     {
         "MoWeEd Track": "She Always Made Us Work Like Dogs [Spacelaunch Outtake][*]",
         "MoWeEd Artists": [
             "Kinski"
-        ]
+        ],
+        "Result Track Name": "She Always Made Us Work Like Dogs - Outtake",
+        "Result Artist Names": [
+            "Kinski"
+        ],
+        "Result Track-Match Percent": 0.9411764705882353,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iUYoUib5RQnHaFoniB2Li",
+        "Result Album Name": "SpaceLaunch For Frenchie"
     },
     {
         "Title": "For N.J. Mayor, The Time To Adapt To Rising Sea Levels Is Now ",
@@ -102,7 +150,15 @@
         "MoWeEd Track": "On Guyot",
         "MoWeEd Artists": [
             "Wild Nothing"
-        ]
+        ],
+        "Result Track Name": "On Guyot",
+        "Result Artist Names": [
+            "Wild Nothing"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3V32OwyeOyttmQR87PDjMR",
+        "Result Album Name": "Empty Estate"
     },
     {
         "Title": "General Motors Issues Another Major Recall",
@@ -132,13 +188,29 @@
         "MoWeEd Track": "Jumping Frenchmen of Maine",
         "MoWeEd Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Jumping Frenchmen of Maine",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fp6Bxj3nq7c6cGX88qDs1",
+        "Result Album Name": "These Promises Are Being Videotaped"
     },
     {
         "MoWeEd Track": "I Like Van Halen Because My Sister Says They Are Cool",
         "MoWeEd Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "I Like Van Halen Because My Sister Says They Are Cool",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1GbmVgIjLHpVJsUWgJ4x7r",
+        "Result Album Name": "These Promises Are Being Videotaped"
     },
     {
         "Title": "In Kentucky, McConnell Wins Big Over Tea Party Candidate",
@@ -156,7 +228,19 @@
         "MoWeEd Track": "Nu au parloir",
         "MoWeEd Artists": [
             "Vincent Gagnon"
-        ]
+        ],
+        "Result Track Name": "Nu au parloir",
+        "Result Artist Names": [
+            "Vincent Gagnon",
+            "Alain Boies",
+            "Michel Côté",
+            "Guillaume Bouchard",
+            "Michel Lambert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vf4kcsgYXwBTHcYYfTdFg",
+        "Result Album Name": "Tome III Errances (feat. Boies Alain, Guillaume Bouchard, Michel Cote & Michael Lambert)"
     },
     {
         "Title": "Supreme Court Ruling Not Enough To Prevent Debtors Prisons",
@@ -168,7 +252,12 @@
         "MoWeEd Track": "Snowed In",
         "MoWeEd Artists": [
             "David \"Goody\" Goodrich"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rise In Cyber Crime Challenges FBI",
@@ -186,13 +275,23 @@
         "MoWeEd Track": "To the Unknown",
         "MoWeEd Artists": [
             "Omer Klein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "One for the Road",
         "MoWeEd Artists": [
             "Omer Klein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Russia's Putin Goes To Shanghai For Talks With Jinping",
@@ -217,14 +316,30 @@
         "MoWeEd Artists": [
             "Avishai Cohen",
             "Lionel Loueke"
-        ]
+        ],
+        "Result Track Name": "Miryama",
+        "Result Artist Names": [
+            "Avishai Cohen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3zmW0LFaSH3IE0n5nDBlu5",
+        "Result Album Name": "After The Big Rain"
     },
     {
         "MoWeEd Track": "Meditation on Two Chords",
         "MoWeEd Artists": [
             "Avishai Cohen",
             "Lionel Loueke"
-        ]
+        ],
+        "Result Track Name": "Meditation on Two Chords",
+        "Result Artist Names": [
+            "Avishai Cohen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4jZadmcjhLs4d8plx9FuFh",
+        "Result Album Name": "After The Big Rain"
     },
     {
         "Title": "What Does It Take To Surf Lake Tahoe In The Sierra Nevada?",
@@ -242,12 +357,28 @@
         "MoWeEd Track": "Burncycle",
         "MoWeEd Artists": [
             "Sabzi"
-        ]
+        ],
+        "Result Track Name": "Burncycle",
+        "Result Artist Names": [
+            "Sabzi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00yfM1ess2EPykXFJIVYO3",
+        "Result Album Name": "Dakota [TOWNFOLK Instrumental Chronicles 02]"
     },
     {
         "MoWeEd Track": "Supreme",
         "MoWeEd Artists": [
             "Sabzi"
-        ]
+        ],
+        "Result Track Name": "Supreme",
+        "Result Artist Names": [
+            "Sabzi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4OLMjWC1XRVlnBSqV7kVuU",
+        "Result Album Name": "Dakota [TOWNFOLK Instrumental Chronicles 02]"
     }
 ]

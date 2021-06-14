@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2014-01-25",
         "Day": "Sat",
-        "Scanned Date": "2021-06-13 11:04:26"
+        "Scanned Date": "2021-06-13 11:04:26",
+        "Playlist URI": "1tVtrWe8Qcl4Y7A8sxhufB",
+        "Playlist Link": "https://open.spotify.com/playlist/1tVtrWe8Qcl4Y7A8sxhufB",
+        "Snapshot ID": "MSwzNThhOTE4YmE3N2FlZjk3MTNhOThlZWRjMTZlMGY1MDNjODhiY2Fh",
+        "Playlist Name": "MoWeEd 2014-01-25 Sat Weekend Edition"
     },
     {
         "Title": "Brief Meeting Still Significant For Syria Talks",
@@ -28,13 +32,30 @@
         "MoWeEd Track": "Glow",
         "MoWeEd Artists": [
             "Fennesz"
-        ]
+        ],
+        "Result Track Name": "Glow",
+        "Result Artist Names": [
+            "Fennesz",
+            "Ryuichi Sakamoto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6E1iEtMrKCOIyvrGyGC04s",
+        "Result Album Name": "Cendre"
     },
     {
         "MoWeEd Track": "Home",
         "MoWeEd Artists": [
             "Okamotonoriaki"
-        ]
+        ],
+        "Result Track Name": "I'm Home",
+        "Result Artist Names": [
+            "okamotonoriaki"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ICZTuCk7WERdaLTwzXVaH",
+        "Result Album Name": "A Little Planet"
     },
     {
         "Title": "Eyes On 2016, GOP Revisits The Rebranding",
@@ -64,7 +85,15 @@
         "MoWeEd Track": "Smoke & Mirrors",
         "MoWeEd Artists": [
             "Tokimonsta"
-        ]
+        ],
+        "Result Track Name": "Smoke & Mirrors",
+        "Result Artist Names": [
+            "TOKiMONSTA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Zb19M8DGaIEreIyyFTo5k",
+        "Result Album Name": "Cosmic Intoxication"
     },
     {
         "Title": "The Art Of Vanity On Display In 'The History Of The Dressing Table'",
@@ -88,13 +117,26 @@
         "MoWeEd Track": "Overture",
         "MoWeEd Artists": [
             "Stage Door Orchestra"
-        ]
+        ],
+        "Result Track Name": "Doctor Zhivago (Overture)",
+        "Result Artist Names": [
+            "Cinema Stage Orchestra"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4Fc02MxvwUnGes3aDCPFOR",
+        "Result Album Name": "Doctor Zhivago"
     },
     {
         "MoWeEd Track": "Tossed Salads and Scrambled Eggs",
         "MoWeEd Artists": [
             "Kelsey Grammer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Three Years Later, Tahrir Protesters Drained And Defeated",
@@ -118,7 +160,15 @@
         "MoWeEd Track": "Black Blizzard/Red Umbrella",
         "MoWeEd Artists": [
             "The Octopus Project"
-        ]
+        ],
+        "Result Track Name": "Black Blizzard/Red Umbrella",
+        "Result Artist Names": [
+            "The Octopus Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gEZEUNmUjj0uJsE15qQxZ",
+        "Result Album Name": "Hello, Avalanche"
     },
     {
         "Title": "Security Fears Jangle Olympic Nerves In Sochi",
@@ -164,6 +214,11 @@
     },
     {
         "MoWeEd Track": "The Life, musical play [Use What You Got]",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

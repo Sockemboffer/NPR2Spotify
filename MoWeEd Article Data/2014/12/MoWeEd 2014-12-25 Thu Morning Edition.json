@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2014-12-25",
         "Day": "Thu",
-        "Scanned Date": "2021-06-13 01:05:25"
+        "Scanned Date": "2021-06-13 01:05:25",
+        "Playlist URI": "51Z8LbalRNNPe6RrpH37Xm",
+        "Playlist Link": "https://open.spotify.com/playlist/51Z8LbalRNNPe6RrpH37Xm",
+        "Snapshot ID": "MSxmYWVkNTEzOGY5NzNkYmYwZTA0ODJiZmNiOGE1MjU3M2ExNmViM2Rl",
+        "Playlist Name": "MoWeEd 2014-12-25 Thu Morning Edition"
     },
     {
         "Title": "Committed's 'Home For Christmas' Has Fun Songs And Some Classics",
@@ -16,19 +20,44 @@
         "MoWeEd Track": "I'll Be Home For Christmas",
         "MoWeEd Artists": [
             "Committed"
-        ]
+        ],
+        "Result Track Name": "I'll Be Home For Christmas",
+        "Result Artist Names": [
+            "Committed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SuuTCrrGeYPks1kHAUT46",
+        "Result Album Name": "Home For Christmas"
     },
     {
         "MoWeEd Track": "Hark! The Herald Angels Sing",
         "MoWeEd Artists": [
             "Dave Koz and David Benoit"
-        ]
+        ],
+        "Result Track Name": "Hark! The Herald Angels Sing",
+        "Result Artist Names": [
+            "Dave Koz",
+            "David Benoit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fSYt18BT5RLafg8vIUK7O",
+        "Result Album Name": "A Smooth Jazz Christmas"
     },
     {
         "MoWeEd Track": "Christmas Time Is Here",
         "MoWeEd Artists": [
             "David Benoit"
-        ]
+        ],
+        "Result Track Name": "Christmas Time Is Here",
+        "Result Artist Names": [
+            "David Benoit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2SZ4r2fcHeyi2nCUWOym0O",
+        "Result Album Name": "Here's To You Charlie Brown - 50 Great Years!"
     },
     {
         "Title": "Pittsburgh Tries To Attract Enterprising Immigrants And Refugees",
@@ -46,7 +75,15 @@
         "MoWeEd Track": "O Christmas Tree",
         "MoWeEd Artists": [
             "Peter Green"
-        ]
+        ],
+        "Result Track Name": "O Christmas Tree",
+        "Result Artist Names": [
+            "Peter Green And The Men In Blue"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QgoZl7D4wANEVnffmmVO5",
+        "Result Album Name": "I Got The Blues For Christmas"
     },
     {
         "Title": "Dog Races To Catch Up With Ambulance",
@@ -58,7 +95,15 @@
         "MoWeEd Track": "Silent Night",
         "MoWeEd Artists": [
             "Brian Jarboe"
-        ]
+        ],
+        "Result Track Name": "Silent Night",
+        "Result Artist Names": [
+            "Brian Betz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:07RsKW49frnVUR8yGk9k2K",
+        "Result Album Name": "Denis DiBlasio/Brian Betz"
     },
     {
         "Title": "Inside The Indiana Megadairy Making Coca-Cola's New Milk",
@@ -76,19 +121,43 @@
         "MoWeEd Track": "A Walk",
         "MoWeEd Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "A Walk",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6koWevx9MqN6efQ6qreIbm",
+        "Result Album Name": "Dive"
     },
     {
         "MoWeEd Track": "Daydream",
         "MoWeEd Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Daydream",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zTmKEtaxIqi2ByGBLmI3s",
+        "Result Album Name": "Dive"
     },
     {
         "MoWeEd Track": "Pittsburgh Left [Eliot Lipp Remix]",
         "MoWeEd Artists": [
             "Lymbyc Systym"
-        ]
+        ],
+        "Result Track Name": "Pittsburgh Left (Eliot Lipp Remix)",
+        "Result Artist Names": [
+            "Lymbyc Systym"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EJS4iTJxlbdAOj3Y3Tiu8",
+        "Result Album Name": "Love Your Abuser Remixed"
     },
     {
         "Title": "A Punch Line In The U.S., Christmas Fruitcake Is Big In Calcutta",
@@ -100,13 +169,26 @@
         "MoWeEd Track": "Medley: Ode to Joy, Angels We Have Heard on High, Silent Night, Little Drummer Boy",
         "MoWeEd Artists": [
             "Stephan Mikes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "We Three Kings/What Child Is This?",
         "MoWeEd Artists": [
             "Stephan Mikes"
-        ]
+        ],
+        "Result Track Name": "We Three Kings / What Child is This?",
+        "Result Artist Names": [
+            "Stephan Mikes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SZtxXtSfJDziitWVWTvRH",
+        "Result Album Name": "Sitar Christmas"
     },
     {
         "Title": "A Century Ago, When The Guns Fell Silent On Christmas ",
@@ -118,13 +200,26 @@
         "MoWeEd Track": "Stille Nacht, Heilige Nacht (Silent Night)",
         "MoWeEd Artists": [
             "Chanticleer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Bring a Torch, Jeanette, Isabella",
         "MoWeEd Artists": [
             "Chris Thile"
-        ]
+        ],
+        "Result Track Name": "Bring A Torch, Jeanette Isabella",
+        "Result Artist Names": [
+            "Chris Thile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vh3gGcW49L9LubiTQDDzo",
+        "Result Album Name": "Tinsel Tunes - More Holiday Treats From Sugar Hill"
     },
     {
         "Title": "Pope Francis And His Gift For Blending The Spiritual And The Political",
@@ -142,19 +237,43 @@
         "MoWeEd Track": "Time Lapse",
         "MoWeEd Artists": [
             "Ludovico Einaudi"
-        ]
+        ],
+        "Result Track Name": "Time Lapse",
+        "Result Artist Names": [
+            "Ludovico Einaudi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xoI9GNzL78JT3GF0CLpJk",
+        "Result Album Name": "Cinema"
     },
     {
         "MoWeEd Track": "Brothers",
         "MoWeEd Artists": [
             "Ludovico Einaudi"
-        ]
+        ],
+        "Result Track Name": "Brothers",
+        "Result Artist Names": [
+            "Ludovico Einaudi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Vm84U9XTBlFpEP0ud1Hgl",
+        "Result Album Name": "In A Time Lapse (Deluxe Edition)"
     },
     {
         "MoWeEd Track": "Somewhere",
         "MoWeEd Artists": [
             "PDP"
-        ]
+        ],
+        "Result Track Name": "Somewhere",
+        "Result Artist Names": [
+            "PDP"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VRG8AwCYAeKwfujoAkRv2",
+        "Result Album Name": "Somewhere"
     },
     {
         "Title": "The French Go Crazy For 'An American In Paris' ",
@@ -172,7 +291,15 @@
         "MoWeEd Track": "Trip To Omori",
         "MoWeEd Artists": [
             "Alexandre Desplat"
-        ]
+        ],
+        "Result Track Name": "Trip To Omori",
+        "Result Artist Names": [
+            "Alexandre Desplat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SdgQTTu2TAaaSM3IUK5Zi",
+        "Result Album Name": "Unbroken (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "28 Years Later, Lynda Alsip Gets Her Mustang Back",
@@ -184,7 +311,15 @@
         "MoWeEd Track": "Good King Wenceslas",
         "MoWeEd Artists": [
             "Mannheim Steamroller"
-        ]
+        ],
+        "Result Track Name": "Good King Wenceslas",
+        "Result Artist Names": [
+            "Mannheim Steamroller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vZpIZxwZTP4kbwsxARjRx",
+        "Result Album Name": "Christmas"
     },
     {
         "Title": "Ecologists Take On Tiny Green Beetles That Infest Ash Trees",
@@ -202,19 +337,43 @@
         "MoWeEd Track": "Radar (Michael Mayer Remix)",
         "MoWeEd Artists": [
             "Hauschka"
-        ]
+        ],
+        "Result Track Name": "Radar (Michael Mayer Remix)",
+        "Result Artist Names": [
+            "Hauschka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dhwvK6xwCH3tQNPEBCW2B",
+        "Result Album Name": "Salon Des Amateurs (Remixes)"
     },
     {
         "MoWeEd Track": "Sunrise (Matthew Herbert's Dawn Mix)",
         "MoWeEd Artists": [
             "Hauschka"
-        ]
+        ],
+        "Result Track Name": "Sunrise (Matthew Herberts Dawn Mix)",
+        "Result Artist Names": [
+            "Hauschka"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5W3lBEVhGvujOEkAs2SmsD",
+        "Result Album Name": "Salon Des Amateurs (Remixes)"
     },
     {
         "MoWeEd Track": "Silver",
         "MoWeEd Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Silver",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QsflwbClPPXicGQRpfY2E",
+        "Result Album Name": "Animal Magic"
     },
     {
         "Title": "Barry Manilow: I Jump At The Chance To Do A Christmas Album",
@@ -226,20 +385,38 @@
         "MoWeEd Track": "I've Got My Love to Keep Me Warm",
         "MoWeEd Artists": [
             "Barry Manilow"
-        ]
+        ],
+        "Result Track Name": "I've Got My Love to Keep Me Warm",
+        "Result Artist Names": [
+            "Barry Manilow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QvxgCuASFOTaD7ZTTWcPi",
+        "Result Album Name": "The Classic Christmas Album"
     },
     {
         "MoWeEd Track": "Rockin' Around the Christmas Tree",
         "MoWeEd Artists": [
             "Becky Barksdale",
             "Albert Carter et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "I Saw Mommy Kissing Santa Claus",
         "MoWeEd Artists": [
             "Kirk Fletcher",
             "Sugar Blue et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
