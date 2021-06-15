@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2015-01-26",
         "Day": "Mon",
-        "Scanned Date": "2021-06-14 08:11:09"
+        "Scanned Date": "2021-06-14 08:11:09",
+        "Playlist URI": "6VfIhapRZWgtovNsp4w7SU",
+        "Playlist Link": "https://open.spotify.com/playlist/6VfIhapRZWgtovNsp4w7SU",
+        "Snapshot ID": "MSw3YTgxZTdjYTQ2OWQ2NjM2YTdkZDdiYzUzNjFhMDQ0ZTYyOTNmNWU4",
+        "Playlist Name": "MoWeEd 2015-01-26 Mon Morning Edition"
     },
     {
         "Title": "Obama Honored As Chief Guest At India's Republic Day Festivities",
@@ -22,19 +26,37 @@
         "MoWeEd Track": "Madison, for cello & piano",
         "MoWeEd Artists": [
             "Ola Gjeilo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Snow in New York, for piano",
         "MoWeEd Artists": [
             "Ola Gjeilo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Taboo",
         "MoWeEd Artists": [
             "Dizzy Gillespie"
-        ]
+        ],
+        "Result Track Name": "Taboo",
+        "Result Artist Names": [
+            "Dizzy Gillespie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31HQU0uqGRk4KgDu4hUztX",
+        "Result Album Name": "Talkin' Verve"
     },
     {
         "Title": "Rising Football Star: Prepare For The Worst, Pray For The Best",
@@ -46,7 +68,15 @@
         "MoWeEd Track": "World Might Not Live Through the Night",
         "MoWeEd Artists": [
             "Atmosphere"
-        ]
+        ],
+        "Result Track Name": "The World Might Not Live Through The Night",
+        "Result Artist Names": [
+            "Atmosphere"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rKAPqc4yeOCD4lxtnNyN7",
+        "Result Album Name": "Southsiders (Deluxe Version)"
     },
     {
         "Title": "Fallen Prey To Love's Cruel Sting?",
@@ -58,7 +88,15 @@
         "MoWeEd Track": "Fri-end? [Instrumental]",
         "MoWeEd Artists": [
             "Kate Nash"
-        ]
+        ],
+        "Result Track Name": "Fri-End? - Instrumental",
+        "Result Artist Names": [
+            "Kate Nash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LmbAuJeAd5gSscQZyrAND",
+        "Result Album Name": "Fri-End?"
     },
     {
         "Title": "DNA Blood Test Gives Women A New Option For Prenatal Screening",
@@ -70,19 +108,43 @@
         "MoWeEd Track": "Silo Song",
         "MoWeEd Artists": [
             "Laura Veirs"
-        ]
+        ],
+        "Result Track Name": "Silo Song (Instrumental)",
+        "Result Artist Names": [
+            "Laura Veirs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GuG7pdui65RrLb0dus4MJ",
+        "Result Album Name": "Hello I Must Be Going"
     },
     {
         "MoWeEd Track": "Carol Kaye",
         "MoWeEd Artists": [
             "Laura Veirs"
-        ]
+        ],
+        "Result Track Name": "Carol Kaye (Instrumental)",
+        "Result Artist Names": [
+            "Laura Veirs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2EB7aZJY5imWcpnuqJPmoB",
+        "Result Album Name": "Hello I Must Be Going"
     },
     {
         "MoWeEd Track": "Whipped Cream",
         "MoWeEd Artists": [
             "Herb Alpert"
-        ]
+        ],
+        "Result Track Name": "Whipped Cream",
+        "Result Artist Names": [
+            "Herb Alpert & The Tijuana Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XdUwMWATBQCwemga7jfjA",
+        "Result Album Name": "Whipped Cream & Other Delights"
     },
     {
         "Title": "Greek Voters Usher Leftist Party Into Office",
@@ -94,13 +156,26 @@
         "MoWeEd Track": "At The End Of The Day",
         "MoWeEd Artists": [
             "Amon Tobin"
-        ]
+        ],
+        "Result Track Name": "At The End Of The Day",
+        "Result Artist Names": [
+            "Amon Tobin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kmOzndbVl8GomtgVGmEHS",
+        "Result Album Name": "Foley Room"
     },
     {
         "MoWeEd Track": "Easy Muffin",
         "MoWeEd Artists": [
             "Amon Tobin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Obama Proposes New Protections For Arctic National Wildlife Refuge",
@@ -118,13 +193,29 @@
         "MoWeEd Track": "Avril 14th",
         "MoWeEd Artists": [
             "Aphex Twin"
-        ]
+        ],
+        "Result Track Name": "Avril 14th",
+        "Result Artist Names": [
+            "Aphex Twin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MZSXhq4XDJWu6coGoXX1V",
+        "Result Album Name": "Drukqs"
     },
     {
         "MoWeEd Track": "Take Me Out to the Ballgame",
         "MoWeEd Artists": [
             "Marty Bartolomeo"
-        ]
+        ],
+        "Result Track Name": "Take Me Out to the Ballgame",
+        "Result Artist Names": [
+            "Marty Bartolomeo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PL8Uzt1rW102JE7IIdVRh",
+        "Result Album Name": "Keys To Survival"
     },
     {
         "Title": "Possible GOP Presidential Candidates Woo Iowa",
@@ -148,7 +239,15 @@
         "MoWeEd Track": "Good Evening",
         "MoWeEd Artists": [
             "Near the Parenthesis"
-        ]
+        ],
+        "Result Track Name": "Good Evening",
+        "Result Artist Names": [
+            "Near The Parenthesis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s692dVuVwIm76I49zOOh2",
+        "Result Album Name": "Music for the Forest Concourse"
     },
     {
         "Title": "High Schools Seek A Safer Path Back From Concussion",
@@ -166,7 +265,15 @@
         "MoWeEd Track": "New Siberia",
         "MoWeEd Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "New Siberia",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hv5S1haHiCCKYTMCgUYIO",
+        "Result Album Name": "Jet Set"
     },
     {
         "Title": "Another Coyote Found Wandering New York City",
@@ -178,7 +285,15 @@
         "MoWeEd Track": "Crime Scene",
         "MoWeEd Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Crime Scene",
+        "Result Artist Names": [
+            "Los Straitjacket"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6AQNm9FYd931m0eKGAXp6Z",
+        "Result Album Name": "Jet Set"
     },
     {
         "Title": "Hagel: Stress Of 'Nonstop War' Forcing Out Good Soldiers",
@@ -190,19 +305,37 @@
         "MoWeEd Track": "Stillness",
         "MoWeEd Artists": [
             "Jacob Varmus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Union",
         "MoWeEd Artists": [
             "Jacob Varmus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Director",
         "MoWeEd Artists": [
             "The Antlers"
-        ]
+        ],
+        "Result Track Name": "Director",
+        "Result Artist Names": [
+            "The Antlers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0X78GEIahwt0DrbUhSAoRy",
+        "Result Album Name": "Familiars"
     },
     {
         "Title": "Argentinians Doubt Prosecutor's Death Was Suicide",
@@ -214,12 +347,28 @@
         "MoWeEd Track": "Sun Will Set",
         "MoWeEd Artists": [
             "Zoe Keating"
-        ]
+        ],
+        "Result Track Name": "Sun Will Set",
+        "Result Artist Names": [
+            "Zoë Keating"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4P1NbXfy88kP5QpV4pcWVh",
+        "Result Album Name": "One Cello x 16: Natoma"
     },
     {
         "MoWeEd Track": "Piano Fights",
         "MoWeEd Artists": [
             "65daysofstatic"
-        ]
+        ],
+        "Result Track Name": "Piano Fights",
+        "Result Artist Names": [
+            "65daysofstatic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AQjLKLuN65JHGKkWZPv8b",
+        "Result Album Name": "We Were Exploding Anyway"
     }
 ]

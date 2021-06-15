@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2015-04-15",
         "Day": "Wed",
-        "Scanned Date": "2021-06-14 08:00:40"
+        "Scanned Date": "2021-06-14 08:00:40",
+        "Playlist URI": "0EIo0eYdxvCGRRjUFlUg3K",
+        "Playlist Link": "https://open.spotify.com/playlist/0EIo0eYdxvCGRRjUFlUg3K",
+        "Snapshot ID": "MSxjNzBkN2UxNzAzYzg3ZTVhYjA4ZTk3ZWQ4NzllZGQ0YjcyZGY5ZWQw",
+        "Playlist Name": "MoWeEd 2015-04-15 Wed Morning Edition"
     },
     {
         "Title": "A Decade After Blowing The Whistle On The FBI, Vindication",
@@ -28,14 +32,29 @@
         "MoWeEd Track": "Rain",
         "MoWeEd Artists": [
             "Anna Puccinelli"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Crazy Quilt",
         "MoWeEd Artists": [
             "Kevin Hays",
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Crazy Quilt",
+        "Result Artist Names": [
+            "Brad Mehldau",
+            "Kevin Hays",
+            "Patrick Zimmerli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CEA5YTKPDHiAYYeCYufzh",
+        "Result Album Name": "Modern Music"
     },
     {
         "Title": "Who Was John Wilkes Booth Before He Became Lincoln's Assassin?",
@@ -59,7 +78,15 @@
         "MoWeEd Track": "Let's Be Still",
         "MoWeEd Artists": [
             "Yo La Tengo"
-        ]
+        ],
+        "Result Track Name": "Let's Be Still",
+        "Result Artist Names": [
+            "Yo La Tengo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qk4ATMnxXWYTrTsBE058G",
+        "Result Album Name": "Summer Sun"
     },
     {
         "Title": "Radio Connects North Dakota Residents Divided On Gay Rights",
@@ -71,19 +98,43 @@
         "MoWeEd Track": "Who In Time",
         "MoWeEd Artists": [
             "Israel Nash Gripka"
-        ]
+        ],
+        "Result Track Name": "Who in Time",
+        "Result Artist Names": [
+            "Israel Nash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1rP847PYBEtlzsYKcnzWqC",
+        "Result Album Name": "Israel Nash's Rain Plans"
     },
     {
         "MoWeEd Track": "Rain Plans",
         "MoWeEd Artists": [
             "Israel Nash Gripka"
-        ]
+        ],
+        "Result Track Name": "Rain Plans",
+        "Result Artist Names": [
+            "Israel Nash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1UTJHcxqphjjlOjsGbC6uN",
+        "Result Album Name": "Israel Nash's Rain Plans"
     },
     {
         "MoWeEd Track": "I'm a Mindless Idiot",
         "MoWeEd Artists": [
             "Meat Puppets"
-        ]
+        ],
+        "Result Track Name": "I'm a Mindless Idiot",
+        "Result Artist Names": [
+            "Meat Puppets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qhZyhcF8UDwQhn9jd4GUh",
+        "Result Album Name": "II"
     },
     {
         "Title": "Obama, Senate Compromise Gives Congress A Say On Iran Nuclear Deal",
@@ -95,7 +146,15 @@
         "MoWeEd Track": "Blue Moon",
         "MoWeEd Artists": [
             "Ahmad Jamal"
-        ]
+        ],
+        "Result Track Name": "Blue Moon",
+        "Result Artist Names": [
+            "Ahmad Jamal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2GLq7bVRIV8HzmeAQAvYq4",
+        "Result Album Name": "Blue Moon"
     },
     {
         "Title": "The All-Work, No-Play Culture Of South Korean Education",
@@ -113,13 +172,29 @@
         "MoWeEd Track": "Arms Like Boulders",
         "MoWeEd Artists": [
             "The War on Drugs"
-        ]
+        ],
+        "Result Track Name": "Arms Like Boulders",
+        "Result Artist Names": [
+            "The War On Drugs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0dpuzK0KWOcmJpMSwA0bZY",
+        "Result Album Name": "Wagonwheel Blues"
     },
     {
         "MoWeEd Track": "Black Water Falls",
         "MoWeEd Artists": [
             "The War on Drugs"
-        ]
+        ],
+        "Result Track Name": "Black Water Falls",
+        "Result Artist Names": [
+            "The War On Drugs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4axESr4EGLopfbz8cFDvEJ",
+        "Result Album Name": "Slave Ambient"
     },
     {
         "Title": "Latest Protests Keep Attention On Police Killings Of Unarmed Minorities",
@@ -143,20 +218,44 @@
         "MoWeEd Track": "Los Federales",
         "MoWeEd Artists": [
             "Signal Hill"
-        ]
+        ],
+        "Result Track Name": "Los Federales",
+        "Result Artist Names": [
+            "Signal Hill"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lqhrTeUyFP46NZCJf34vA",
+        "Result Album Name": "Self-Titled EP"
     },
     {
         "MoWeEd Track": "Standby, Sir",
         "MoWeEd Artists": [
             "Signal Hill"
-        ]
+        ],
+        "Result Track Name": "Standby, Sir",
+        "Result Artist Names": [
+            "Signal Hill"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:236Ayc1Ae775OFYPoXZeNW",
+        "Result Album Name": "Self-Titled EP"
     },
     {
         "MoWeEd Track": "Speaker Breaker",
         "MoWeEd Artists": [
             "Ray Barbee",
             "The Mattson 2"
-        ]
+        ],
+        "Result Track Name": "Speaker Breaker",
+        "Result Artist Names": [
+            "Ray Barbee Meets the Mattson 2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rLWqBMqssrS847rHgEzPn",
+        "Result Album Name": "Ray Barbee Meet the Mattson 2"
     },
     {
         "Title": "From Horses To High-Rises: An Insider 'Unmasks' China's Economic Rise",
@@ -168,7 +267,15 @@
         "MoWeEd Track": "Same Dream China",
         "MoWeEd Artists": [
             "Gold Panda"
-        ]
+        ],
+        "Result Track Name": "Same Dream China",
+        "Result Artist Names": [
+            "Gold Panda"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7j4ohEIJTW80F6jHUSeovJ",
+        "Result Album Name": "Lucky Shiner"
     },
     {
         "Title": "S.C. Teen's Promprosal Required An Airplane ",
@@ -180,7 +287,15 @@
         "MoWeEd Track": "Before We Talked",
         "MoWeEd Artists": [
             "Gold Panda"
-        ]
+        ],
+        "Result Track Name": "Before We Talked",
+        "Result Artist Names": [
+            "Gold Panda"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4OvODQNcSRJhjCY4vpYGWv",
+        "Result Album Name": "Lucky Shiner"
     },
     {
         "Title": "Redistribute California's Water? Not Without A Fight",
@@ -198,19 +313,43 @@
         "MoWeEd Track": "Parliament of Owls",
         "MoWeEd Artists": [
             "The Water"
-        ]
+        ],
+        "Result Track Name": "Parliament of Owls",
+        "Result Artist Names": [
+            "The Water"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6B5x2Ht4V8oXaNxNFeAiQx",
+        "Result Album Name": "Scandals and Animals"
     },
     {
         "MoWeEd Track": "Groundhog Day",
         "MoWeEd Artists": [
             "The Water"
-        ]
+        ],
+        "Result Track Name": "Groundhog Day",
+        "Result Artist Names": [
+            "The Water"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VcqXReje1WAZWDTHyOhSb",
+        "Result Album Name": "Scandals and Animals"
     },
     {
         "MoWeEd Track": "Robespierre",
         "MoWeEd Artists": [
             "Gifts from Enola"
-        ]
+        ],
+        "Result Track Name": "Robespierre",
+        "Result Artist Names": [
+            "Gifts From Enola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uK7Ihf4sLpO0ga71Lnph2",
+        "Result Album Name": "A Healthy Fear"
     },
     {
         "Title": "Educators Sentenced To Jail In Atlanta Cheating Scandal",
@@ -222,13 +361,29 @@
         "MoWeEd Track": "Bubbles",
         "MoWeEd Artists": [
             "Ambrose Akinmusire"
-        ]
+        ],
+        "Result Track Name": "Bubbles (John William Sublett)",
+        "Result Artist Names": [
+            "Ambrose Akinmusire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ht3XtHfeoi62aHnDVNqCw",
+        "Result Album Name": "The Imagined Savior Is Far Easier To Paint"
     },
     {
         "MoWeEd Track": "Intruders",
         "MoWeEd Artists": [
             "The Antlers"
-        ]
+        ],
+        "Result Track Name": "Intruders",
+        "Result Artist Names": [
+            "The Antlers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nj2KuM1x5tFhWz27l2KWA",
+        "Result Album Name": "Familiars"
     },
     {
         "Title": "European Union Accuses Google Of Abusing Its Market Dominance",

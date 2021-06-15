@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2015-09-16",
         "Day": "Wed",
-        "Scanned Date": "2021-06-14 07:44:52"
+        "Scanned Date": "2021-06-14 07:44:52",
+        "Playlist URI": "1Nv8skeReEjwjWkYfqJ8Zs",
+        "Playlist Link": "https://open.spotify.com/playlist/1Nv8skeReEjwjWkYfqJ8Zs",
+        "Snapshot ID": "MSw5YWFlY2VmNDk5N2Y0YTE3NWRmY2NlOGU2MGM0YmI2NzE3Y2MwYjVj",
+        "Playlist Name": "MoWeEd 2015-09-16 Wed Morning Edition"
     },
     {
         "Title": "16 People Die In Flash Floods In Desert Southwest",
@@ -28,13 +32,26 @@
         "MoWeEd Track": "Arabic Gum",
         "MoWeEd Artists": [
             "Metal Fingers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Passing Me By",
         "MoWeEd Artists": [
             "The Pharcyde"
-        ]
+        ],
+        "Result Track Name": "Passing Me By - Roche Remix",
+        "Result Artist Names": [
+            "The Pharcyde"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71vnTUFoXjqP9W8sCVcMQG",
+        "Result Album Name": "Solos In Stereo"
     },
     {
         "Title": "Seattle Teachers Reach Tentative Agreement With School District",
@@ -50,7 +67,15 @@
     },
     {
         "MoWeEd Track": "Hand-Me-Downs",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Hand Me Downs",
+        "Result Artist Names": [
+            "Mac Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Yv2mHzr5AQavVdwQjEokV",
+        "Result Album Name": "Circles"
     },
     {
         "Title": "Air Canada Pilot Praised For Saving French Bulldog's Life",
@@ -62,7 +87,15 @@
         "MoWeEd Track": "Fess Up",
         "MoWeEd Artists": [
             "Dr. John"
-        ]
+        ],
+        "Result Track Name": "Fess Up - Instrumental Version",
+        "Result Artist Names": [
+            "Dr. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fEtWRsaIeBce3nfjl5XBk",
+        "Result Album Name": "Goin' Back To New Orleans"
     },
     {
         "Title": "Migrants Trapped In Border Space Between Hungary And Serbia",
@@ -81,19 +114,44 @@
         "MoWeEd Artists": [
             "Solange",
             "Bilal"
-        ]
+        ],
+        "Result Track Name": "Cosmic Journey",
+        "Result Artist Names": [
+            "Solange",
+            "Bilal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kQDmyVs5Tj45MqVQ8GXP7",
+        "Result Album Name": "Sol-Angel and the Hadley St. Dreams (Deluxe)"
     },
     {
         "MoWeEd Track": "Happy Lawyers",
         "MoWeEd Artists": [
             "The Books"
-        ]
+        ],
+        "Result Track Name": "Happy Lawyers",
+        "Result Artist Names": [
+            "The Books"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3F72G0zu8AnVOQQB3P6KBf",
+        "Result Album Name": "Music For A French Elevator And Other Oddities"
     },
     {
         "MoWeEd Track": "Sinker",
         "MoWeEd Artists": [
             "Zammuto"
-        ]
+        ],
+        "Result Track Name": "Sinker",
+        "Result Artist Names": [
+            "Zammuto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JlEzwroi8Sm9tdcMvKDUO",
+        "Result Album Name": "Anchor"
     },
     {
         "Title": "Wildfires Hit Northwest Tribal Lands Particularly Hard",
@@ -105,13 +163,29 @@
         "MoWeEd Track": "Animal Rap [Micky Ward Mix][Instrumental]",
         "MoWeEd Artists": [
             "Jedi Mind Tricks"
-        ]
+        ],
+        "Result Track Name": "Micky Ward Mix (Instrumental)",
+        "Result Artist Names": [
+            "Jedi Mind Tricks"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5KJuXL149GiLEB3eSlPPY4",
+        "Result Album Name": "Animal Rap (EP)"
     },
     {
         "MoWeEd Track": "Chonkyfire",
         "MoWeEd Artists": [
             "OutKast"
-        ]
+        ],
+        "Result Track Name": "Chonkyfire",
+        "Result Artist Names": [
+            "Outkast"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mrR64jwacrmiZluhBelDB",
+        "Result Album Name": "Aquemini"
     },
     {
         "Title": "To Follow The Yellow Brick Road, You'll Have To Go To North Carolina",
@@ -130,13 +204,32 @@
         "MoWeEd Artists": [
             "Exile",
             "Black Spade et. al."
-        ]
+        ],
+        "Result Track Name": "Maybe One Day",
+        "Result Artist Names": [
+            "Blu & Exile",
+            "Blu",
+            "Exile",
+            "Black Spade"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5hYEaLnayI7QbBV9vXyu5Y",
+        "Result Album Name": "Give Me My Flowers While I Can Still Smell Them"
     },
     {
         "MoWeEd Track": "Otha Fish [Instrumental]",
         "MoWeEd Artists": [
             "The Pharcyde"
-        ]
+        ],
+        "Result Track Name": "Otha Fish",
+        "Result Artist Names": [
+            "The Pharcyde"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Q3FXyqFhO1Bo3MUqim8hP",
+        "Result Album Name": "Cydeways: The Best Of The Pharcyde"
     },
     {
         "Title": "In Defiance Of The Church, Some Catholic Women Seek Priesthood",
@@ -160,20 +253,44 @@
         "MoWeEd Track": "Lecker",
         "MoWeEd Artists": [
             "Kinski"
-        ]
+        ],
+        "Result Track Name": "Lecker",
+        "Result Artist Names": [
+            "Kinski"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uzGbOUc7ca2Dt4priJBbD",
+        "Result Album Name": "SpaceLaunch For Frenchie"
     },
     {
         "MoWeEd Track": "Space Oddity",
         "MoWeEd Artists": [
             "The London Symphony Orchestra",
             "Royal Choral Society"
-        ]
+        ],
+        "Result Track Name": "Space Oddity",
+        "Result Artist Names": [
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:4OeV0GPtP7ycbetC8xwiZe",
+        "Result Album Name": "We Can Be Heroes - An Orchestral Tribute to David Bowie"
     },
     {
         "MoWeEd Track": "Come Sail Away",
         "MoWeEd Artists": [
             "Styx"
-        ]
+        ],
+        "Result Track Name": "Come Sail Away",
+        "Result Artist Names": [
+            "Styx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PsbWiVtix5FoTZ1s00mEl",
+        "Result Album Name": "The Grand Illusion"
     },
     {
         "Title": "Campaign Urges Black Men To Focus More On Their Children's Education",
@@ -191,7 +308,16 @@
         "MoWeEd Track": "All You Got Is Your Word [Instrumental] [Instrumental]",
         "MoWeEd Artists": [
             "Souls of Mischief"
-        ]
+        ],
+        "Result Track Name": "All You Got Is Your Word - Instrumental",
+        "Result Artist Names": [
+            "Souls Of Mischief",
+            "Adrian Younge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YStjUA0rjw8BQKTbftZkJ",
+        "Result Album Name": "Adrian Younge Presents: There Is Only Now"
     },
     {
         "Title": "Food Chains Look To Alcoholic Beverages To Attract Customers",
@@ -203,7 +329,15 @@
         "MoWeEd Track": "Flight #5",
         "MoWeEd Artists": [
             "Dr. John"
-        ]
+        ],
+        "Result Track Name": "Flight #5",
+        "Result Artist Names": [
+            "Dr. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5deD3HZhKT6BCWWlzN4fED",
+        "Result Album Name": "Doctor John - the Crazy Cajun Recordings"
     },
     {
         "Title": "Red Cross Effort To Shut Down Inquiry Fails; Report Calls For Outside Oversight",
@@ -221,19 +355,40 @@
         "MoWeEd Track": "Charmed Life",
         "MoWeEd Artists": [
             "Icebird"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Song For Junior",
         "MoWeEd Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Song For Junior - Remastered",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3EJweHq5GBpdeMIHmBAi6v",
+        "Result Album Name": "Hello Nasty (Deluxe Version/Remastered 2009)"
     },
     {
         "MoWeEd Track": "Transatlantic",
         "MoWeEd Artists": [
             "Quantic"
-        ]
+        ],
+        "Result Track Name": "Transatlantic",
+        "Result Artist Names": [
+            "Quantic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pJ0rv6o5HeIBWiO7mB1th",
+        "Result Album Name": "Apricot Morning"
     },
     {
         "Title": "School Nurses Stock Drug To Reverse Opioid Overdoses",
@@ -245,18 +400,40 @@
         "MoWeEd Track": "Epilogue",
         "MoWeEd Artists": [
             "The Books"
-        ]
+        ],
+        "Result Track Name": "Epilogue",
+        "Result Artist Names": [
+            "The Books"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hMuaSQXEwYpeEkQUOplLH",
+        "Result Album Name": "Music For A French Elevator And Other Oddities"
     },
     {
         "MoWeEd Track": "Cineramascope",
         "MoWeEd Artists": [
             "Galactic feat. Trombone Shorty and Corey Henry"
-        ]
+        ],
+        "Result Track Name": "Cineramascope",
+        "Result Artist Names": [
+            "Galactic",
+            "Trombone Shorty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0jWRzRPxYJbxbCpqCWr1Ks",
+        "Result Album Name": "The Other Side Of Midnight: Live In New Orleans"
     },
     {
         "MoWeEd Track": "Bluerunner",
         "MoWeEd Artists": [
             "Geno Delafose"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
