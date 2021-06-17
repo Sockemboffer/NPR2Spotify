@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2016-11-01",
         "Day": "Tue",
-        "Scanned Date": "2021-06-15 11:02:26"
+        "Scanned Date": "2021-06-15 11:02:26",
+        "Playlist URI": "3BFbLmj2lxCbde4mQKCfQs",
+        "Playlist Link": "https://open.spotify.com/playlist/3BFbLmj2lxCbde4mQKCfQs",
+        "Snapshot ID": "MSw0ODlmMTc3MmUxZjljMWUwMjNlMzg4Mzg2ZTE4MThlYWNhYWI3ZGJm",
+        "Playlist Name": "MoWeEd 2016-11-01 Tue Morning Edition"
     },
     {
         "Title": "Bridgegate Case Is In Jurors' Hands",
@@ -28,19 +32,40 @@
         "MoWeEd Track": "Elected",
         "MoWeEd Artists": [
             "Alice Cooper"
-        ]
+        ],
+        "Result Track Name": "Elected",
+        "Result Artist Names": [
+            "Alice Cooper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6avV0X27a8FKFbX8JOdHbc",
+        "Result Album Name": "Billion Dollar Babies (Deluxe Reissue)"
     },
     {
         "MoWeEd Track": "My God",
         "MoWeEd Artists": [
             "Alice Cooper"
-        ]
+        ],
+        "Result Track Name": "My God",
+        "Result Artist Names": [
+            "Alice Cooper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sBxUNIxwWuWzh2oRRFW33",
+        "Result Album Name": "Lace and Whiskey"
     },
     {
         "MoWeEd Track": "Do You Feel Me (Instrumental)",
         "MoWeEd Artists": [
             "Dam-Funk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Despite Police Blockades, Pakistani Opposition Plans Major Protest",
@@ -64,7 +89,16 @@
         "MoWeEd Track": "Sonnentanz",
         "MoWeEd Artists": [
             "Klangkarussell"
-        ]
+        ],
+        "Result Track Name": "Sonnentanz - Sun Don't Shine",
+        "Result Artist Names": [
+            "Klangkarussell",
+            "Will Heard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NKfB21hWeirObQjEN44x1",
+        "Result Album Name": "Sonnentanz"
     },
     {
         "Title": "Fish Vendor's Gruesome Death Ignites Protests In Morocco",
@@ -82,19 +116,43 @@
         "MoWeEd Track": "Linguis",
         "MoWeEd Artists": [
             "Throwing Snow"
-        ]
+        ],
+        "Result Track Name": "Linguis",
+        "Result Artist Names": [
+            "Throwing Snow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3nSKaLoEtYML7eGZCvKJU1",
+        "Result Album Name": "Mosaic"
     },
     {
         "MoWeEd Track": "Saltare - Parts 1 & 2",
         "MoWeEd Artists": [
             "Throwing Snow"
-        ]
+        ],
+        "Result Track Name": "Saltare (Parts 1 & 2)",
+        "Result Artist Names": [
+            "Throwing Snow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6d2itfywqnTNRM5aml4ZUG",
+        "Result Album Name": "Mosaic"
     },
     {
         "MoWeEd Track": "Walk on the Wild Side",
         "MoWeEd Artists": [
             "Dizzy Gillespie"
-        ]
+        ],
+        "Result Track Name": "Walk On The Wild Side",
+        "Result Artist Names": [
+            "Dizzy Gillespie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2f7vnETYXqWYBJNfa3zkYj",
+        "Result Album Name": "Talkin' Verve"
     },
     {
         "Title": "Several States, Some Employers Help Workers Make Time To Vote",
@@ -106,13 +164,29 @@
         "MoWeEd Track": "Can It All Be So Simple",
         "MoWeEd Artists": [
             "El Michels Affair"
-        ]
+        ],
+        "Result Track Name": "Can It All Be So Simple",
+        "Result Artist Names": [
+            "El Michels Affair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UTIaNm0myRUwCOaVuZJHR",
+        "Result Album Name": "Enter The 37th Chamber"
     },
     {
         "MoWeEd Track": "C.R.E.A.M.",
         "MoWeEd Artists": [
             "El Michels Affair"
-        ]
+        ],
+        "Result Track Name": "C.R.E.A.M.",
+        "Result Artist Names": [
+            "El Michels Affair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B",
+        "Result Album Name": "Enter The 37th Chamber"
     },
     {
         "Title": "The Transatlantic Collaboration Behind Wynton Marsalis' New Violin Concerto",
@@ -124,13 +198,32 @@
         "MoWeEd Track": "Concerto In D",
         "MoWeEd Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Violin Concerto in D Major: 1. Rhapsody",
+        "Result Artist Names": [
+            "Wynton Marsalis",
+            "Nicola Benedetti",
+            "Philadelphia Orchestra",
+            "Cristian Măcelaru"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LnAA0p20ZggkTkfuKXm8i",
+        "Result Album Name": "Marsalis: Violin Concerto; Fiddle Dance Suite"
     },
     {
         "MoWeEd Track": "New Orleans",
         "MoWeEd Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "New Orleans",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2z6D5bIA9Wprdqi1B8nnVh",
+        "Result Album Name": "Marsalis Standard Time - Volume I"
     },
     {
         "Title": "Comey Faces Sharp Criticism; Ex-FBI Official Calls Clinton A 'Criminal'",
@@ -148,19 +241,43 @@
         "MoWeEd Track": "Countach",
         "MoWeEd Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Countach",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mFQU4B6xxPlfKOvYeH8e1",
+        "Result Album Name": "Magnifique"
     },
     {
         "MoWeEd Track": "Cream on Chrome",
         "MoWeEd Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Cream On Chrome - Single Edit",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WxVxmxKgXTgvQaRmAG4ub",
+        "Result Album Name": "Cream On Chrome"
     },
     {
         "MoWeEd Track": "Aelopolis",
         "MoWeEd Artists": [
             "Sabzi"
-        ]
+        ],
+        "Result Track Name": "Aelopolis",
+        "Result Artist Names": [
+            "Sabzi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0tiMRRmQGNagxXIqPSx1cJ",
+        "Result Album Name": "Exit 163a"
     },
     {
         "Title": "On One Thing The Candidates Agree: Infrastructure Needs Work",
@@ -178,7 +295,12 @@
         "MoWeEd Track": "Tell Me Anything",
         "MoWeEd Artists": [
             "Andy Stott"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bachelor Party Comes Home With Puppies",
@@ -190,7 +312,15 @@
         "MoWeEd Track": "Space Cadet",
         "MoWeEd Artists": [
             "Flume"
-        ]
+        ],
+        "Result Track Name": "Space Cadet",
+        "Result Artist Names": [
+            "Flume"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3M0aO0Tj9NomSOn8LuA3YN",
+        "Result Album Name": "Flume: Deluxe Edition"
     },
     {
         "Title": "Dutch Far-Right Politician Leads In Polls Despite Legal Charges",
@@ -208,19 +338,43 @@
         "MoWeEd Track": "Beth/Rest",
         "MoWeEd Artists": [
             "Bon Iver"
-        ]
+        ],
+        "Result Track Name": "Beth/Rest",
+        "Result Artist Names": [
+            "Bon Iver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UI6aabe8NSRgTVySHn6CP",
+        "Result Album Name": "Bon Iver"
     },
     {
         "MoWeEd Track": "Beach Baby",
         "MoWeEd Artists": [
             "Bon Iver"
-        ]
+        ],
+        "Result Track Name": "Beach Baby",
+        "Result Artist Names": [
+            "Bon Iver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7oRNU7Tmek0nm2lqyDojoG",
+        "Result Album Name": "Blood Bank"
     },
     {
         "MoWeEd Track": "C (Radio Edit)",
         "MoWeEd Artists": [
             "JK Soul"
-        ]
+        ],
+        "Result Track Name": "C - Radio Edit",
+        "Result Artist Names": [
+            "JK Soul"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sDFJ0TRaE5JwZPnT9KUvY",
+        "Result Album Name": "Universal Love EP"
     },
     {
         "Title": "Hacked Emails Highlight The Controversial Role Of Paid Partisan Pundits",
@@ -232,13 +386,26 @@
         "MoWeEd Track": "Fièvre",
         "MoWeEd Artists": [
             "Oddisee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Hey Ya",
         "MoWeEd Artists": [
             "Booker T"
-        ]
+        ],
+        "Result Track Name": "Hey Ya",
+        "Result Artist Names": [
+            "Booker T."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MCSwuZiKyatvdQKR1L4pZ",
+        "Result Album Name": "Potato Hole"
     },
     {
         "Title": "Attack On Mosul Moving Faster Than Expected",

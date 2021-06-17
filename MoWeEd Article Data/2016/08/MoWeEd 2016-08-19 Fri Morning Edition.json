@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2016-08-19",
         "Day": "Fri",
-        "Scanned Date": "2021-06-15 11:12:45"
+        "Scanned Date": "2021-06-15 11:12:45",
+        "Playlist URI": "68y73vXpIDrz5ntKspcFiL",
+        "Playlist Link": "https://open.spotify.com/playlist/68y73vXpIDrz5ntKspcFiL",
+        "Snapshot ID": "MSxiMWMzNGY0MjRlZDM1ODBjZDAxYmRiZWRmMjRkOTFjMTZkOTAxOWE4",
+        "Playlist Name": "MoWeEd 2016-08-19 Fri Morning Edition"
     },
     {
         "Title": "Trump Apologizes For Not Always Using The Right Words",
@@ -30,7 +34,12 @@
             "Paulo Moura",
             "Rafael Rabello",
             "Joel Nascimento"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "El Negro del Blanco",
@@ -38,13 +47,30 @@
             "Paulo Moura",
             "Costa",
             "Yamandú et. al."
-        ]
+        ],
+        "Result Track Name": "El Negro del Blanco",
+        "Result Artist Names": [
+            "Paulo Moura",
+            "Yamandu Costa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:5kU4tcJv0P6QyqVpoAT3RT",
+        "Result Album Name": "El Negro del Blanco"
     },
     {
         "MoWeEd Track": "Avril 14th",
         "MoWeEd Artists": [
             "Aphex Twin"
-        ]
+        ],
+        "Result Track Name": "Avril 14th",
+        "Result Artist Names": [
+            "Aphex Twin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MZSXhq4XDJWu6coGoXX1V",
+        "Result Album Name": "Drukqs"
     },
     {
         "Title": "In Leak Of Democratic Emails, Questions About Russia's Role",
@@ -62,7 +88,17 @@
         "MoWeEd Track": "There Is Only Now [Instrumental]",
         "MoWeEd Artists": [
             "Souls of Mischief"
-        ]
+        ],
+        "Result Track Name": "There Is Only Now - Instrumental",
+        "Result Artist Names": [
+            "Souls Of Mischief",
+            "Adrian Younge",
+            "Snoop Dogg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4PtYVwCYVkrDBOnOlxCgsh",
+        "Result Album Name": "Adrian Younge Presents: There Is Only Now"
     },
     {
         "Title": "Mother Bird's Song Helps Her Young Cope With Global Warming",
@@ -74,7 +110,16 @@
         "MoWeEd Track": "Panic Struck [Instrumental]",
         "MoWeEd Artists": [
             "Souls of Mischief"
-        ]
+        ],
+        "Result Track Name": "Panic Struck - Instrumental",
+        "Result Artist Names": [
+            "Souls Of Mischief",
+            "Adrian Younge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Zhw7HcffBggAAIUTJa2qL",
+        "Result Album Name": "Adrian Younge Presents: There Is Only Now"
     },
     {
         "Title": "Doctor In Battle-Ravaged Aleppo Reveals How Civilians Endure",
@@ -92,20 +137,44 @@
         "MoWeEd Track": "Bye Ya",
         "MoWeEd Artists": [
             "Jeff Hamilton Trio"
-        ]
+        ],
+        "Result Track Name": "Bye Ya",
+        "Result Artist Names": [
+            "Jeff Hamilton Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wmnbrvv1IeJMs8ViNMIQB",
+        "Result Album Name": "Red Sparkle"
     },
     {
         "MoWeEd Track": "Red Sparkle",
         "MoWeEd Artists": [
             "The Jeff Hamilton Trio"
-        ]
+        ],
+        "Result Track Name": "Red Sparkle",
+        "Result Artist Names": [
+            "Jeff Hamilton Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:7b20fwehV1s1so0Nqx9cQ4",
+        "Result Album Name": "Red Sparkle"
     },
     {
         "MoWeEd Track": "April Sonata",
         "MoWeEd Artists": [
             "Adrian Younge",
             "Venice Dawn"
-        ]
+        ],
+        "Result Track Name": "April Sonata",
+        "Result Artist Names": [
+            "Adrian Younge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3bOp1ZOmSdv0Uy6xDzr2KV",
+        "Result Album Name": "Adrian Younge Presents: Something About April II"
     },
     {
         "Title": "Bolt Wins 8th Gold Medal; Eaton Repeats As Olympic Decathlon Winner",
@@ -117,13 +186,29 @@
         "MoWeEd Track": "C.R.E.A.M.",
         "MoWeEd Artists": [
             "El Michels Affair"
-        ]
+        ],
+        "Result Track Name": "C.R.E.A.M.",
+        "Result Artist Names": [
+            "El Michels Affair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B",
+        "Result Album Name": "Enter The 37th Chamber"
     },
     {
         "MoWeEd Track": "Protect Ya Neck",
         "MoWeEd Artists": [
             "El Michels Affair"
-        ]
+        ],
+        "Result Track Name": "Protect Ya Neck",
+        "Result Artist Names": [
+            "El Michels Affair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ZhovLmj7HALLd7mhKZFlt",
+        "Result Album Name": "Enter The 37th Chamber"
     },
     {
         "Title": "Amy Schumer Bares Her Soul In 'The Girl With The Lower Back Tattoo'",
@@ -135,13 +220,29 @@
         "MoWeEd Track": "Swan Dive",
         "MoWeEd Artists": [
             "Ani DiFranco"
-        ]
+        ],
+        "Result Track Name": "Swan Dive",
+        "Result Artist Names": [
+            "Ani DiFranco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6npEPLgNyJ4UzWyjSyH1KJ",
+        "Result Album Name": "Little Plastic Castle"
     },
     {
         "MoWeEd Track": "Pulse",
         "MoWeEd Artists": [
             "Ani DiFranco"
-        ]
+        ],
+        "Result Track Name": "Pulse",
+        "Result Artist Names": [
+            "Ani DiFranco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KkrML0fryl6CGP2u5ltZd",
+        "Result Album Name": "Little Plastic Castle"
     },
     {
         "Title": "FEMA Chief Craig Fugate Tours Louisiana Flooding",
@@ -159,19 +260,43 @@
         "MoWeEd Track": "Kars 2 (Wounds of the Centuries)",
         "MoWeEd Artists": [
             "Tigran Hamasyan"
-        ]
+        ],
+        "Result Track Name": "Kars 2 (Wounds of the Centuries)",
+        "Result Artist Names": [
+            "Tigran Hamasyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1E8bimk2ksyWNy2bCxCUJf",
+        "Result Album Name": "Mockroot"
     },
     {
         "MoWeEd Track": "Out of The Grid",
         "MoWeEd Artists": [
             "Tigran Hamasyan"
-        ]
+        ],
+        "Result Track Name": "Out of the Grid",
+        "Result Artist Names": [
+            "Tigran Hamasyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1X0CGkkSBK6umJGL8PiZeE",
+        "Result Album Name": "Mockroot"
     },
     {
         "MoWeEd Track": "Eel Oil",
         "MoWeEd Artists": [
             "The Bamboos"
-        ]
+        ],
+        "Result Track Name": "Eel Oil",
+        "Result Artist Names": [
+            "The Bamboos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Kh9XXjFmyV6cGjO9aPrau",
+        "Result Album Name": "Step It Up"
     },
     {
         "Title": "Brexit: The Tale Of Two Towns",
@@ -189,7 +314,15 @@
         "MoWeEd Track": "Mannenberg (Revisited)",
         "MoWeEd Artists": [
             "Abdullah Ibrahim"
-        ]
+        ],
+        "Result Track Name": "Mannenberg Revisited",
+        "Result Artist Names": [
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ddgBRk8vVyrH31mTpLsXY",
+        "Result Album Name": "A Celebration"
     },
     {
         "Title": "Dick Van Dyke Is Still Going Strong At 90",
@@ -201,7 +334,15 @@
         "MoWeEd Track": "Township Sunday",
         "MoWeEd Artists": [
             "Abdullah Ibrahim"
-        ]
+        ],
+        "Result Track Name": "Township Sunday - Solo Piano",
+        "Result Artist Names": [
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gPqHChqIZrKPRPN6nj0Vd",
+        "Result Album Name": "Memories"
     },
     {
         "Title": "State Department: Iran Payment Used As 'Leverage' In Prisoner Swap",
@@ -219,19 +360,43 @@
         "MoWeEd Track": "Silent Moving",
         "MoWeEd Artists": [
             "Post Jazz Mistress"
-        ]
+        ],
+        "Result Track Name": "Silent Moving",
+        "Result Artist Names": [
+            "Post Jazz Mistress"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56JofNcTdD68Hl8oSdkfqX",
+        "Result Album Name": "Global Warming"
     },
     {
         "MoWeEd Track": "Listen to Me, My J.",
         "MoWeEd Artists": [
             "Post Jazz Mistress"
-        ]
+        ],
+        "Result Track Name": "Listen to Me, My J.",
+        "Result Artist Names": [
+            "Post Jazz Mistress"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VbmLpnPi7LUtAMNiBOvFT",
+        "Result Album Name": "Global Warming"
     },
     {
         "MoWeEd Track": "Odd Elegy",
         "MoWeEd Artists": [
             "Dhafer Youssef"
-        ]
+        ],
+        "Result Track Name": "Odd Elegy",
+        "Result Artist Names": [
+            "Dhafer Youssef"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VeRYS0L6KHMPycfUibMqF",
+        "Result Album Name": "Abu Navas Rhapsody"
     },
     {
         "Title": "Movie Review: Paramount Remakes The MGM Classic 'Ben-Hur'",
@@ -243,18 +408,43 @@
         "MoWeEd Track": "Chariots of Fire",
         "MoWeEd Artists": [
             "London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Chariots of Fire (feat. The Royal Choral Society)",
+        "Result Artist Names": [
+            "London Symphony Orchestra",
+            "Royal Choral Society"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YxUUv14D45YMBT7Uki8sE",
+        "Result Album Name": "Classic Rock - Rock Symphonies"
     },
     {
         "MoWeEd Track": "Training",
         "MoWeEd Artists": [
             "Marco Beltrami"
-        ]
+        ],
+        "Result Track Name": "Training Day",
+        "Result Artist Names": [
+            "Marco Beltrami"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gtIstSlDooWgJjMk1387V",
+        "Result Album Name": "A Quiet Place Part II (Music from the Motion Picture)"
     },
     {
         "MoWeEd Track": "Call",
         "MoWeEd Artists": [
             "Julianna Barwick"
-        ]
+        ],
+        "Result Track Name": "Call",
+        "Result Artist Names": [
+            "Julianna Barwick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zDWBaPHoM9n39TVKNShWx",
+        "Result Album Name": "Pacing"
     }
 ]
