@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2017-12-07",
         "Day": "Thu",
-        "Scanned Date": "2021-06-17 14:14:34"
+        "Scanned Date": "2021-06-17 14:14:34",
+        "Playlist URI": "5I80ZAgBORsE2iLXXvxjUx",
+        "Playlist Link": "https://open.spotify.com/playlist/5I80ZAgBORsE2iLXXvxjUx",
+        "Snapshot ID": "MSw5YzgwZTRjZTk1NGE2YzA0OWFiYjJkYThjOWI1MTU4ZWNkODg0MDkz",
+        "Playlist Name": "MoWeEd 2017-12-07 Thu Morning Edition"
     },
     {
         "Title": "News Brief: Jerusalem Reaction, Franken To Resign, California Fires",
@@ -16,19 +20,44 @@
         "MoWeEd Track": "Feel the Void",
         "MoWeEd Artists": [
             "Fat Jon"
-        ]
+        ],
+        "Result Track Name": "Feel The Void",
+        "Result Artist Names": [
+            "Fat Jon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WmjnIkP5seTcDRZYDtgYy",
+        "Result Album Name": "Wave Motion"
     },
     {
         "MoWeEd Track": "Where?",
         "MoWeEd Artists": [
             "Fat Jon"
-        ]
+        ],
+        "Result Track Name": "Where",
+        "Result Artist Names": [
+            "Fat Jon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DfxHiweR2oXksTqKo5Hjx",
+        "Result Album Name": "Wave Motion"
     },
     {
         "MoWeEd Track": "Last Page",
         "MoWeEd Artists": [
             "Funky DL"
-        ]
+        ],
+        "Result Track Name": "Last Page",
+        "Result Artist Names": [
+            "Funky DL",
+            "Lei-an"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4oP6lDT9oqIyRZv4FA9yXT",
+        "Result Album Name": "Autonomy: The 4th Quarter 2"
     },
     {
         "Title": "Names Written In Blood And Rust: Documenting Syria's Disappeared",
@@ -40,7 +69,12 @@
         "MoWeEd Track": "Rajeen Ya Hawa",
         "MoWeEd Artists": [
             "Nabil Azzam"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Russian 7-Year-Old Gets Military Draft Orders",
@@ -52,7 +86,15 @@
         "MoWeEd Track": "Approach",
         "MoWeEd Artists": [
             "Beats Antique"
-        ]
+        ],
+        "Result Track Name": "The Approach",
+        "Result Artist Names": [
+            "Beats Antique"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tXg2L37cEDoVZIYKEjJrx",
+        "Result Album Name": "A Thousand Faces: Act 1"
     },
     {
         "Title": "Southern California Fires Continue",
@@ -70,17 +112,38 @@
         "MoWeEd Track": "Le Sud",
         "MoWeEd Artists": [
             "L'Indecis"
-        ]
+        ],
+        "Result Track Name": "Le Sud",
+        "Result Artist Names": [
+            "L'Indécis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:62IrYUCs5DK1LBlh5bVDSC",
+        "Result Album Name": "Chillhop Essentials Fall 2017"
     },
     {
         "MoWeEd Track": "Happy Hours",
         "MoWeEd Artists": [
             "L'Indecis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Tired Boy",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Tired Boy",
+        "Result Artist Names": [
+            "Joey Pecoraro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SkTfsjWUy2rp40d2Ayfmv",
+        "Result Album Name": "Tired Boy"
     },
     {
         "Title": "As GOP Lawmakers Eye Cutting Estate Tax, Will They Increase Income Inequality?",
@@ -92,13 +155,29 @@
         "MoWeEd Track": "Planet Life",
         "MoWeEd Artists": [
             "Random Rab"
-        ]
+        ],
+        "Result Track Name": "Planet Life",
+        "Result Artist Names": [
+            "Random Rab"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jxrnuigrVemeGal0dcwvY",
+        "Result Album Name": "Awoke"
     },
     {
         "MoWeEd Track": "Nartha",
         "MoWeEd Artists": [
             "Random Rab"
-        ]
+        ],
+        "Result Track Name": "Nartha",
+        "Result Artist Names": [
+            "Random Rab"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75l5eSFeG5hWe0GrTOtGGz",
+        "Result Album Name": "Awoke"
     },
     {
         "Title": "Bluegrass Legend Bobby Osborne Shows No Signs Of Slowing Down",
@@ -110,13 +189,29 @@
         "MoWeEd Track": "Country Boy",
         "MoWeEd Artists": [
             "Bobby Osborne"
-        ]
+        ],
+        "Result Track Name": "Thank God I'm A Country Boy",
+        "Result Artist Names": [
+            "Bobby Osborne & The Rocky Top X-Press"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2SeBTxR7JN5neULAHBWKX5",
+        "Result Album Name": "Bluegrass Melodies"
     },
     {
         "MoWeEd Track": "Reuben [Instrumental]",
         "MoWeEd Artists": [
             "Osborne Brothers"
-        ]
+        ],
+        "Result Track Name": "Reuben - Instrumental",
+        "Result Artist Names": [
+            "The Osborne Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FeXoYQ2qUZoRpzEBxxFSP",
+        "Result Album Name": "Hats Off! The Bluegrass Tribute To Lester Flatt & Earl Scruggs"
     },
     {
         "Title": "Jerusalem's Mayor On The U.S. Embassy Move",
@@ -134,19 +229,43 @@
         "MoWeEd Track": "Paused",
         "MoWeEd Artists": [
             "Kiasmos"
-        ]
+        ],
+        "Result Track Name": "Paused",
+        "Result Artist Names": [
+            "Kiasmos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LT8fCP8IiaDV6oNL2r5w1",
+        "Result Album Name": "Blurred"
     },
     {
         "MoWeEd Track": "Jarred",
         "MoWeEd Artists": [
             "Kiasmos"
-        ]
+        ],
+        "Result Track Name": "Jarred",
+        "Result Artist Names": [
+            "Kiasmos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rHJ52s5MLNmYwLewMMnQp",
+        "Result Album Name": "Blurred"
     },
     {
         "MoWeEd Track": "Memory",
         "MoWeEd Artists": [
             "Mouse On The Keys"
-        ]
+        ],
+        "Result Track Name": "memory",
+        "Result Artist Names": [
+            "mouse on the keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JpjvsIsz2T615TP533CiQ",
+        "Result Album Name": "machinic phylum"
     },
     {
         "Title": "Does Disaster Relief Favor Some States Over Others?",
@@ -164,7 +283,15 @@
         "MoWeEd Track": "Primer",
         "MoWeEd Artists": [
             "Koloto"
-        ]
+        ],
+        "Result Track Name": "Primer",
+        "Result Artist Names": [
+            "Koloto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pgX8ESoFn6OduZhBY700y",
+        "Result Album Name": "Mechanica"
     },
     {
         "Title": "Plane Lands For Bathroom Break",
@@ -174,7 +301,15 @@
     },
     {
         "MoWeEd Track": "Dr. Dings",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Dr. Dings",
+        "Result Artist Names": [
+            "Tosca"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6SRzDtcpOeSqIErftw8CQW",
+        "Result Album Name": "Going Going Going"
     },
     {
         "Title": "Palestinians Say Trump's Decision Means U.S. Can't Broker Peace Process",
@@ -192,17 +327,41 @@
         "MoWeEd Track": "The World Connects",
         "MoWeEd Artists": [
             "Don Philippe"
-        ]
+        ],
+        "Result Track Name": "The World Connects",
+        "Result Artist Names": [
+            "Don Philippe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1boOJEEIhrueC5puNYBH1c",
+        "Result Album Name": "Between Now and Now"
     },
     {
         "MoWeEd Track": "Entering It",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Entering It",
+        "Result Artist Names": [
+            "Don Philippe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PO6awtuiewdtjXyBtFJuP",
+        "Result Album Name": "Between Now and Now"
     },
     {
         "MoWeEd Track": "Older",
         "MoWeEd Artists": [
             "Parcels"
-        ]
+        ],
+        "Result Track Name": "Older",
+        "Result Artist Names": [
+            "Parcels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27CgDxfu01fKsQCzn2UFVR",
+        "Result Album Name": "Older"
     },
     {
         "Title": "What A Tax Overhaul Could Mean For Students And Schools",
@@ -214,17 +373,38 @@
         "MoWeEd Track": "Opus One",
         "MoWeEd Artists": [
             "Russ Liquid"
-        ]
+        ],
+        "Result Track Name": "Opus One",
+        "Result Artist Names": [
+            "Russ Liquid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SQyguPI469Poain6nfS8e",
+        "Result Album Name": "Purple"
     },
     {
         "MoWeEd Track": "Carefully",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Carefully",
+        "Result Artist Names": [
+            "Demi Lovato"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Zm2hTV7EqbqsFrraKBkyh",
+        "Result Album Name": "Dancing With The Devil…The Art of Starting Over"
     },
     {
         "MoWeEd Track": "Backyard Barbecue",
         "MoWeEd Artists": [
             "Blue Wednesday"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "What The White House Wants In Tax Overhaul",

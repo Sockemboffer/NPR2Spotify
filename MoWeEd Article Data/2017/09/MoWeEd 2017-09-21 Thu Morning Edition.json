@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2017-09-21",
         "Day": "Thu",
-        "Scanned Date": "2021-06-17 14:24:55"
+        "Scanned Date": "2021-06-17 14:24:55",
+        "Playlist URI": "5qfw5y5EVN5FDt9gH8mdbV",
+        "Playlist Link": "https://open.spotify.com/playlist/5qfw5y5EVN5FDt9gH8mdbV",
+        "Snapshot ID": "MSxhZDcxMDcyYzBkMTUyN2Y2MTEyMzExMGNkNjU2YmFlY2ExNWMzMTBk",
+        "Playlist Name": "MoWeEd 2017-09-21 Thu Morning Edition"
     },
     {
         "Title": "News Brief: Natural Disasters Strike Mexico And Puerto Rico",
@@ -16,19 +20,42 @@
         "MoWeEd Track": "Mighty Jungle",
         "MoWeEd Artists": [
             "Lazerbreak"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Sorama Love",
         "MoWeEd Artists": [
             "DJ Sorama"
-        ]
+        ],
+        "Result Track Name": "Sorama Love",
+        "Result Artist Names": [
+            "DJ Sorama"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fp8nRSHzwgptDaIbn2i1W",
+        "Result Album Name": "Trebla LP"
     },
     {
         "MoWeEd Track": "Dancing",
         "MoWeEd Artists": [
             "Ulf Wakenius"
-        ]
+        ],
+        "Result Track Name": "Dancing",
+        "Result Artist Names": [
+            "Ulf Wakenius",
+            "Lars Danielsson",
+            "Morten Lund"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1lMk5erfxbJXN2qsJwaRTP",
+        "Result Album Name": "Notes from the Heart"
     },
     {
         "Title": "Manafort Offered 'Private Briefings' To Putin Ally, 'Washington Post' Reports",
@@ -46,7 +73,15 @@
         "MoWeEd Track": "We Learn",
         "MoWeEd Artists": [
             "Rob Cross"
-        ]
+        ],
+        "Result Track Name": "We Learn",
+        "Result Artist Names": [
+            "Rob Cross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lJZkyXis4hV22pG52vL6b",
+        "Result Album Name": "The Rhythm of Change"
     },
     {
         "Title": "NFL Lineman Says He Was Losing Too Much Weight",
@@ -58,7 +93,15 @@
         "MoWeEd Track": "Birth",
         "MoWeEd Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Birth",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nk79UXPvCnmA3NCyuHyBw",
+        "Result Album Name": "Transitions"
     },
     {
         "Title": "After Inflicting Major Damage, Maria Moves Away From Puerto Rico",
@@ -70,19 +113,40 @@
         "MoWeEd Track": "Coffin Nails",
         "MoWeEd Artists": [
             "Metal Fingers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Medical Fly",
         "MoWeEd Artists": [
             "Mujo"
-        ]
+        ],
+        "Result Track Name": "Medical Fly",
+        "Result Artist Names": [
+            "Mujo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NpIjcSPY58k2eVl01Ejt2",
+        "Result Album Name": "Reel Street Jazz"
     },
     {
         "MoWeEd Track": "Angels (Kygo Edit)",
         "MoWeEd Artists": [
             "The XX"
-        ]
+        ],
+        "Result Track Name": "Angels",
+        "Result Artist Names": [
+            "The xx"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3zsRP8rH1kaIAo9fmiP4El",
+        "Result Album Name": "Coexist"
     },
     {
         "Title": "SEC Reveals It Was Hacked Last Year",
@@ -101,13 +165,29 @@
         "MoWeEd Artists": [
             "T-Bone Burnett",
             "The Civil Wars"
-        ]
+        ],
+        "Result Track Name": "I Do Exist",
+        "Result Artist Names": [
+            "The Civil Wars & T Bone Burnett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qGyZvzP4jFBDb68QUeWlH",
+        "Result Album Name": "A Place at the Table (Original Motion Picture Soundtrack)"
     },
     {
         "MoWeEd Track": "Paint Vibrant Colors",
         "MoWeEd Artists": [
             "Mark Preston"
-        ]
+        ],
+        "Result Track Name": "Paint Vibrant Colors",
+        "Result Artist Names": [
+            "Mark Preston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WW8Z2nh1Np3byqXiaD5o6",
+        "Result Album Name": "...and it will rise with the sun"
     },
     {
         "Title": "'Battle Of The Sexes' Takes Center Court",
@@ -119,13 +199,29 @@
         "MoWeEd Track": "Dream On",
         "MoWeEd Artists": [
             "Aerosmith"
-        ]
+        ],
+        "Result Track Name": "Dream On",
+        "Result Artist Names": [
+            "Aerosmith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MxNLUsfh7uzROypsoO5qe",
+        "Result Album Name": "Aerosmith"
     },
     {
         "MoWeEd Track": "Funeral for a Friend/Love Lies Bleeding",
         "MoWeEd Artists": [
             "Elton John"
-        ]
+        ],
+        "Result Track Name": "Funeral For A Friend / Love Lies Bleeding - Remastered 2014",
+        "Result Artist Names": [
+            "Elton John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NERbS7923kF471NLKDZkB",
+        "Result Album Name": "Goodbye Yellow Brick Road (Remastered)"
     },
     {
         "Title": "Afghan President Is In Favor Of Trump's Strategy To End The War",
@@ -144,19 +240,43 @@
         "MoWeEd Artists": [
             "Benevento",
             "Russo Duo"
-        ]
+        ],
+        "Result Track Name": "Sunny's Song",
+        "Result Artist Names": [
+            "Benevento/Russo Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Njbke3AvuVlpqBYGU2GKK",
+        "Result Album Name": "Best Reason to Buy the Sun"
     },
     {
         "MoWeEd Track": "Zephyr",
         "MoWeEd Artists": [
             "Dans Dans"
-        ]
+        ],
+        "Result Track Name": "Zephyr",
+        "Result Artist Names": [
+            "Dans Dans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0O6DYdkkolitbzIcuSMYPF",
+        "Result Album Name": "3"
     },
     {
         "MoWeEd Track": "Passionfruit",
         "MoWeEd Artists": [
             "Drake"
-        ]
+        ],
+        "Result Track Name": "Passionfruit",
+        "Result Artist Names": [
+            "Drake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+        "Result Album Name": "More Life"
     },
     {
         "Title": "Democratic Voters Are Skeptical Of Any Immigration Deal With Trump",
@@ -168,7 +288,15 @@
         "MoWeEd Track": "Soundgirl Personal",
         "MoWeEd Artists": [
             "Fat Jon The Ample Soul Physician"
-        ]
+        ],
+        "Result Track Name": "Soundgirl Personal",
+        "Result Artist Names": [
+            "Fat Jon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5Z1JjbL2RQyIdN35SdpdNv",
+        "Result Album Name": "Repaint Tomorrow"
     },
     {
         "Title": "Portugal Has a Pigeon Population Problem",
@@ -180,7 +308,15 @@
         "MoWeEd Track": "Parting",
         "MoWeEd Artists": [
             "Mitis"
-        ]
+        ],
+        "Result Track Name": "Parting",
+        "Result Artist Names": [
+            "MitiS"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6osFlYL0q8xSsMAkTmluzf",
+        "Result Album Name": "Influential Past"
     },
     {
         "Title": "Parents Wait To Hear About Their Child's Fate After School Collapse In Mexico",
@@ -198,19 +334,43 @@
         "MoWeEd Track": "The Western Boy",
         "MoWeEd Artists": [
             "Little Comets"
-        ]
+        ],
+        "Result Track Name": "The Western Boy",
+        "Result Artist Names": [
+            "Little Comets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jNPDFR4CrfTY3cppjtBTr",
+        "Result Album Name": "Life Is Elsewhere"
     },
     {
         "MoWeEd Track": "Levo",
         "MoWeEd Artists": [
             "Recondite"
-        ]
+        ],
+        "Result Track Name": "Levo",
+        "Result Artist Names": [
+            "Recondite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Xgg0bhjK57PJ6WLYOi3oY",
+        "Result Album Name": "Iffy"
     },
     {
         "MoWeEd Track": "It's Obvious",
         "MoWeEd Artists": [
             "Chastity Belt"
-        ]
+        ],
+        "Result Track Name": "It's Obvious",
+        "Result Artist Names": [
+            "Chastity Belt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2a6140USzPYdfha2aN00rm",
+        "Result Album Name": "I Used to Spend So Much Time Alone"
     },
     {
         "Title": "Examining Links Between Academic Performance And Food Stamps",
@@ -222,19 +382,43 @@
         "MoWeEd Track": "On My Mind",
         "MoWeEd Artists": [
             "Delavega"
-        ]
+        ],
+        "Result Track Name": "On My Mind",
+        "Result Artist Names": [
+            "Delavega"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zrkY7icZJiPhRaFSMscdn",
+        "Result Album Name": "The Day After"
     },
     {
         "MoWeEd Track": "Brooklyn",
         "MoWeEd Artists": [
             "Youngblood Brass Band"
-        ]
+        ],
+        "Result Track Name": "Brooklyn",
+        "Result Artist Names": [
+            "Youngblood Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7aNwURnV4t19bPQM4mvpLY",
+        "Result Album Name": "Live. Places."
     },
     {
         "MoWeEd Track": "Infinite Mirror",
         "MoWeEd Artists": [
             "LITE"
-        ]
+        ],
+        "Result Track Name": "Infinite Mirror",
+        "Result Artist Names": [
+            "LITE"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ud16saJTj7RYZolKEENE3",
+        "Result Album Name": "Phantasia"
     },
     {
         "Title": "World Leaders Urge Trump Not To Pull Out Of Iran Nuclear Pact",

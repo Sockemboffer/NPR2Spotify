@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2017-06-08",
         "Day": "Thu",
-        "Scanned Date": "2021-06-17 14:32:20"
+        "Scanned Date": "2021-06-17 14:32:20",
+        "Playlist URI": "5wK9YAZ2YkuKSo5WvmHT8Z",
+        "Playlist Link": "https://open.spotify.com/playlist/5wK9YAZ2YkuKSo5WvmHT8Z",
+        "Snapshot ID": "MSwxZDMyYjE2ZTk4NGNjYWI3MWVjMmM0MzE2MTBhMDM4YTJkYTQ0ZmRl",
+        "Playlist Name": "MoWeEd 2017-06-08 Thu Morning Edition"
     },
     {
         "Title": "Morning News Brief: Comey's Testimony, And Russians React",
@@ -16,17 +20,41 @@
         "MoWeEd Track": "Aurora",
         "MoWeEd Artists": [
             "Nigel Stanford"
-        ]
+        ],
+        "Result Track Name": "Aurora",
+        "Result Artist Names": [
+            "Nigel Stanford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xwuyl6rPGtPbjGTKB2sso",
+        "Result Album Name": "Solar Echoes"
     },
     {
         "MoWeEd Track": "Entropy",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "ENTROPY",
+        "Result Artist Names": [
+            "Daniel Caesar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:795p3jKj5stjPf8IFpZkdD",
+        "Result Album Name": "CASE STUDY 01"
     },
     {
         "MoWeEd Track": "Wasp Nest",
         "MoWeEd Artists": [
             "The National"
-        ]
+        ],
+        "Result Track Name": "Wasp Nest",
+        "Result Artist Names": [
+            "The National"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gOpXrNN8jtZL0I3REk8G8",
+        "Result Album Name": "Cherry Tree"
     },
     {
         "Title": "Trump Talks Up Infrastructure Plan In Cincinnati",
@@ -44,7 +72,15 @@
         "MoWeEd Track": "Chinese Radio",
         "MoWeEd Artists": [
             "Puff Dragon"
-        ]
+        ],
+        "Result Track Name": "Chinese Radio",
+        "Result Artist Names": [
+            "Puff Dragon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EyhYl7kdCDE3Xp3FtZHkW",
+        "Result Album Name": "Fahrenheit Project, Part 4"
     },
     {
         "Title": "Anyone Can Lend A Helping Hand",
@@ -56,7 +92,15 @@
         "MoWeEd Track": "Cryface",
         "MoWeEd Artists": [
             "Pogo"
-        ]
+        ],
+        "Result Track Name": "Cryface",
+        "Result Artist Names": [
+            "Pogo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7HzPWPxsdvKlXTrJ8SVYEa",
+        "Result Album Name": "Wonderpuff"
     },
     {
         "Title": "Despite ISIS Claim, Many In Iran Blame Saudi Arabia For Terrorist Attacks",
@@ -74,19 +118,43 @@
         "MoWeEd Track": "Take Wing",
         "MoWeEd Artists": [
             "The Polish Ambassador"
-        ]
+        ],
+        "Result Track Name": "Take Wing",
+        "Result Artist Names": [
+            "The Polish Ambassador"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GM2cjY0taFBM6dzRqvv4g",
+        "Result Album Name": "Color of Flight"
     },
     {
         "MoWeEd Track": "Moon Mobius",
         "MoWeEd Artists": [
             "The Polish Ambassador"
-        ]
+        ],
+        "Result Track Name": "Moon Mobius",
+        "Result Artist Names": [
+            "The Polish Ambassador"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79KyzJKMagdsrU2S5Lq2p9",
+        "Result Album Name": "Color of Flight"
     },
     {
         "MoWeEd Track": "Getting There",
         "MoWeEd Artists": [
             "Cyril Hahn"
-        ]
+        ],
+        "Result Track Name": "Getting There",
+        "Result Artist Names": [
+            "Cyril Hahn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HNADpJhvL2yXKRT7Yj8vv",
+        "Result Album Name": "Voices"
     },
     {
         "Title": "Kenya Announces Ban On Plastic Bags",
@@ -104,13 +172,26 @@
         "MoWeEd Track": "Khashoggi's Ship",
         "MoWeEd Artists": [
             "Queen"
-        ]
+        ],
+        "Result Track Name": "Khashoggi's Ship - Remastered 2011",
+        "Result Artist Names": [
+            "Queen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PJtAR39eaGGkuPKwwAUOr",
+        "Result Album Name": "The Miracle (Deluxe Remastered Version)"
     },
     {
         "MoWeEd Track": "Under Pressure - Instrumental",
         "MoWeEd Artists": [
             "Queen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Eager To Burst His Own Bubble, A Techie Made Apps To Randomize His Life",
@@ -122,13 +203,26 @@
         "MoWeEd Track": "Wild Blue Yonder",
         "MoWeEd Artists": [
             "Carl Matthews and Joe Bevan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Beebs",
         "MoWeEd Artists": [
             "The Flashbulb"
-        ]
+        ],
+        "Result Track Name": "Beebs",
+        "Result Artist Names": [
+            "The Flashbulb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pYzCNghaY9iRTqAdyX7eW",
+        "Result Album Name": "Opus At The End Of Everything"
     },
     {
         "Title": "Sen. Angus King On Heated Exchange With Intelligence Chiefs",
@@ -146,19 +240,43 @@
         "MoWeEd Track": "The Thaumaturge",
         "MoWeEd Artists": [
             "Ian Boddy"
-        ]
+        ],
+        "Result Track Name": "The Thaumaturge",
+        "Result Artist Names": [
+            "Ian Boddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jr6wCNTQdfi0ZsLmNTp7g",
+        "Result Album Name": "Index06"
     },
     {
         "MoWeEd Track": "Lazarus",
         "MoWeEd Artists": [
             "David Bowie"
-        ]
+        ],
+        "Result Track Name": "Lazarus",
+        "Result Artist Names": [
+            "David Bowie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Vn9oCZbdI1EMO7jxdz2Rc",
+        "Result Album Name": "Blackstar"
     },
     {
         "MoWeEd Track": "Spooky Couch",
         "MoWeEd Artists": [
             "Albert Hammond Jr."
-        ]
+        ],
+        "Result Track Name": "Spooky Couch",
+        "Result Artist Names": [
+            "Albert Hammond Jr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wRCg1JyRmbJEg9ESOMlVp",
+        "Result Album Name": "Como Te Llama?"
     },
     {
         "Title": "Uber Drivers Don't Feel Like Their Own Bosses",
@@ -176,7 +294,15 @@
         "MoWeEd Track": "Sleepwalkers",
         "MoWeEd Artists": [
             "Omer Klein"
-        ]
+        ],
+        "Result Track Name": "Sleepwalkers",
+        "Result Artist Names": [
+            "Omer Klein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15Eh03xKqrAd8aiXKuz4T4",
+        "Result Album Name": "Sleepwalkers"
     },
     {
         "Title": "A Musical Opus In A Single Note",
@@ -188,7 +314,15 @@
         "MoWeEd Track": "Underground - Instrumental",
         "MoWeEd Artists": [
             "David Bowie"
-        ]
+        ],
+        "Result Track Name": "Underground - Instrumental",
+        "Result Artist Names": [
+            "David Bowie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HVQzLfbldIxawvKdZApcC",
+        "Result Album Name": "Underground E.P."
     },
     {
         "Title": "Voters Head To The Polls In The U.K.",
@@ -204,19 +338,43 @@
     },
     {
         "MoWeEd Track": "Jay Dee 46",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Jay Dee 46 - Instrumental",
+        "Result Artist Names": [
+            "J Dilla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IYhGoD5cuVgQeRE0lINyY",
+        "Result Album Name": "The King of Beats, Vol 2: Lost Scrolls"
     },
     {
         "MoWeEd Track": "Gobstopper",
         "MoWeEd Artists": [
             "J Dilla"
-        ]
+        ],
+        "Result Track Name": "Gobstopper",
+        "Result Artist Names": [
+            "J Dilla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39XY5TmM47I3WsO07knVZg",
+        "Result Album Name": "Donuts"
     },
     {
         "MoWeEd Track": "Passionfruit",
         "MoWeEd Artists": [
             "Drake"
-        ]
+        ],
+        "Result Track Name": "Passionfruit",
+        "Result Artist Names": [
+            "Drake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+        "Result Album Name": "More Life"
     },
     {
         "Title": "Former FBI Adviser On Comey Testimony",
@@ -226,17 +384,42 @@
     },
     {
         "MoWeEd Track": "Time Is The Enemy",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Time Is the Enemy",
+        "Result Artist Names": [
+            "Quantic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iNj5fdyY62N1ycufQ3E2M",
+        "Result Album Name": "The 5th Exotic"
     },
     {
         "MoWeEd Track": "Wider Than Sky",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Wider Than the Sky",
+        "Result Artist Names": [
+            "Quantic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72Mi6LQJJtic4MBFIcfeCE",
+        "Result Album Name": "Apricot Morning"
     },
     {
         "MoWeEd Track": "Whole Heart",
         "MoWeEd Artists": [
             "Gryffin and Bipolar Sunshine"
-        ]
+        ],
+        "Result Track Name": "Whole Heart",
+        "Result Artist Names": [
+            "Gryffin",
+            "Bipolar Sunshine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Z1t1aMRif8ES212kTN8H2",
+        "Result Album Name": "Whole Heart"
     },
     {
         "Title": "A Month After He Was Fired, Comey Will Tell His Side Of The Story",

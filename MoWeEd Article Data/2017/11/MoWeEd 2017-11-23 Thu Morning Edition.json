@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2017-11-23",
         "Day": "Thu",
-        "Scanned Date": "2021-06-17 14:19:09"
+        "Scanned Date": "2021-06-17 14:19:09",
+        "Playlist URI": "3D4DDiITJQfsXRxG1eUFnr",
+        "Playlist Link": "https://open.spotify.com/playlist/3D4DDiITJQfsXRxG1eUFnr",
+        "Snapshot ID": "MSw0NmM4MzM3YTcyYzY0MGQ0OWEzMWMwY2E5NTljOWZhZTFlNDBjZTU5",
+        "Playlist Name": "MoWeEd 2017-11-23 Thu Morning Edition"
     },
     {
         "Title": "News Brief: Roy Moore's Communication Director Resigns, Politics In Lebanon",
@@ -16,19 +20,43 @@
         "MoWeEd Track": "Grace",
         "MoWeEd Artists": [
             "WMD"
-        ]
+        ],
+        "Result Track Name": "Grace",
+        "Result Artist Names": [
+            "WMD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PhE4i4eSjuk7d6BdX3M9U",
+        "Result Album Name": "Still"
     },
     {
         "MoWeEd Track": "Geranium",
         "MoWeEd Artists": [
             "WMD"
-        ]
+        ],
+        "Result Track Name": "Geranium",
+        "Result Artist Names": [
+            "WMD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FNAhwPaWYDrTV0Z59SZHV",
+        "Result Album Name": "Still"
     },
     {
         "MoWeEd Track": "Good Gravy",
         "MoWeEd Artists": [
             "Teddy Edwards Quartet"
-        ]
+        ],
+        "Result Track Name": "Good Gravy",
+        "Result Artist Names": [
+            "Teddy Edwards Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MluIoZzylGSJTMbma2V68",
+        "Result Album Name": "Good Gravy"
     },
     {
         "Title": "Is Sports A Safe Conversation Topic At Thanksgiving Anymore?",
@@ -46,7 +74,12 @@
         "MoWeEd Track": "Panorama Shama",
         "MoWeEd Artists": [
             "daze"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "D.R.E.A.M.: Dogs Rule Everything Around Me",
@@ -58,7 +91,15 @@
         "MoWeEd Track": "Add And",
         "MoWeEd Artists": [
             "Broke For Free"
-        ]
+        ],
+        "Result Track Name": "Add And",
+        "Result Artist Names": [
+            "Broke For Free"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Xn9vkq4nvHOWhagf3168L",
+        "Result Album Name": "Petal"
     },
     {
         "Title": "Saad Hariri Returns To Lebanon As Saudi Arabia And Iran Vie For Influence",
@@ -76,19 +117,41 @@
         "MoWeEd Track": "Meeting with Month",
         "MoWeEd Artists": [
             "Lorne Balfe"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Ghosts in the Brazos",
         "MoWeEd Artists": [
             "Slow Meadows"
-        ]
+        ],
+        "Result Track Name": "Ghosts in the Brazos",
+        "Result Artist Names": [
+            "Slow Meadow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5f2Rqsfh16FwYnaKfOI3eF",
+        "Result Album Name": "Palemote"
     },
     {
         "MoWeEd Track": "Yams",
         "MoWeEd Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Yams",
+        "Result Artist Names": [
+            "Jackie McLean",
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57B6gMEI1E4E3kKLKvfX3U",
+        "Result Album Name": "Vertigo"
     },
     {
         "Title": "Walmart And Amazon's Food Fight",
@@ -100,13 +163,30 @@
         "MoWeEd Track": "Cedar Shed",
         "MoWeEd Artists": [
             "Koloto"
-        ]
+        ],
+        "Result Track Name": "Cedar Shed",
+        "Result Artist Names": [
+            "Koloto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Zo9qZVD1Ha1nlr6UV2RHh",
+        "Result Album Name": "Mechanica"
     },
     {
         "MoWeEd Track": "Superhigh",
         "MoWeEd Artists": [
             "Drrtyhaze"
-        ]
+        ],
+        "Result Track Name": "Superhigh - Ilya Santana Mix",
+        "Result Artist Names": [
+            "Drrtyhaze",
+            "Ilya Santana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Um0Z3NBR3iUXsJHNvoGFQ",
+        "Result Album Name": "Superhigh"
     },
     {
         "Title": "Your Thanksgiving Stress Playlist",
@@ -116,13 +196,33 @@
     },
     {
         "MoWeEd Track": "An Die Musik",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "An die Musik, D. 547 (Transc. for Cello & Piano)",
+        "Result Artist Names": [
+            "Franz Schubert",
+            "Kian Soltani",
+            "Aaron Pilsan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JO2JdlX7oBTu2jIvjclbG",
+        "Result Album Name": "Schubert: An die Musik, D. 547 (Transc. for Cello & Piano)"
     },
     {
         "MoWeEd Track": "Holst: Second Suit in F For Military Band",
         "MoWeEd Artists": [
             "The Central Band of The R.A.F."
-        ]
+        ],
+        "Result Track Name": "Holst: Second Suite in F for Military Band",
+        "Result Artist Names": [
+            "Gustav Holst",
+            "The Central Band Of The R.A.F.",
+            "Wing Commander Eric Banks"
+        ],
+        "Result Track-Match Percent": 0.875,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1pHn13CJm6UlKdI6RxPrBb",
+        "Result Album Name": "British Music for Concert Band"
     },
     {
         "Title": "Alabama Senate Race Roundup",
@@ -146,17 +246,38 @@
         "MoWeEd Track": "Shoouss Lullaby",
         "MoWeEd Artists": [
             "Teebs"
-        ]
+        ],
+        "Result Track Name": "Shoouss Lullaby",
+        "Result Artist Names": [
+            "Teebs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xD1CNqJBOgrSM7eIOhbya",
+        "Result Album Name": "E s t a r a"
     },
     {
         "MoWeEd Track": "Hello/Lacrimosa",
         "MoWeEd Artists": [
             "The Piano Guys"
-        ]
+        ],
+        "Result Track Name": "Hello / Lacrimosa",
+        "Result Artist Names": [
+            "The Piano Guys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5KaNi4AEXhiqfouONO5fM0",
+        "Result Album Name": "Uncharted"
     },
     {
         "MoWeEd Track": "Elecktrickery",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Yemen On 'The Brink Of Famine' After Saudi Blockade",
@@ -172,7 +293,16 @@
     },
     {
         "MoWeEd Track": "Unknown",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Into the Unknown",
+        "Result Artist Names": [
+            "Idina Menzel",
+            "AURORA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Z0oQ8r78OUaHvGPiDBR3W",
+        "Result Album Name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)"
     },
     {
         "Title": "Navy To No Longer Require Pepper-Spraying For Sailors Every 3 Years",
@@ -184,7 +314,15 @@
         "MoWeEd Track": "Detroit",
         "MoWeEd Artists": [
             "Marcus Miller"
-        ]
+        ],
+        "Result Track Name": "Detroit",
+        "Result Artist Names": [
+            "Marcus Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hp0D02uXVXvmaDSLhFjAa",
+        "Result Album Name": "Renaissance"
     },
     {
         "Title": "China Grows Bolder On The World Stage",
@@ -202,19 +340,43 @@
         "MoWeEd Track": "Far Away Coast",
         "MoWeEd Artists": [
             "Koresma"
-        ]
+        ],
+        "Result Track Name": "Far Away Coast",
+        "Result Artist Names": [
+            "Koresma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vgYDcITQiPQYFedrmQWu9",
+        "Result Album Name": "Far Away Coast"
     },
     {
         "MoWeEd Track": "Bridges",
         "MoWeEd Artists": [
             "Koresma"
-        ]
+        ],
+        "Result Track Name": "Bridges",
+        "Result Artist Names": [
+            "Koresma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5GiEgcvmqbD1WgHzICDvOb",
+        "Result Album Name": "Bridges"
     },
     {
         "MoWeEd Track": "1979 Semi-Finalist",
         "MoWeEd Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "1979 Semi-Finalist",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17uPeGmP6DrxfIRcNy9067",
+        "Result Album Name": "Give"
     },
     {
         "Title": "'Just Time Together': For Some Workers, A Thanksgiving Off Is A Rare Treat",
@@ -226,19 +388,43 @@
         "MoWeEd Track": "Mashed Potato Time",
         "MoWeEd Artists": [
             "The Ronettes"
-        ]
+        ],
+        "Result Track Name": "Mashed Potato Time",
+        "Result Artist Names": [
+            "The Ronettes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rYfCntu03mahG8mo2Wd20",
+        "Result Album Name": "The Crystals Sing The Greatest Hits Vol. 1"
     },
     {
         "MoWeEd Track": "Thanksgiving Theme",
         "MoWeEd Artists": [
             "Vince Guaraldi Trio"
-        ]
+        ],
+        "Result Track Name": "Thanksgiving Theme",
+        "Result Artist Names": [
+            "Vince Guaraldi Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wygvWnq8gpWnMMNUfuEih",
+        "Result Album Name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]"
     },
     {
         "MoWeEd Track": "Turkey in the Straw",
         "MoWeEd Artists": [
             "United States Air Force Strolling String Band"
-        ]
+        ],
+        "Result Track Name": "Turkey in the Straw",
+        "Result Artist Names": [
+            "The United States Air Force Strolling Strings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7142857142857143,
+        "Result Track URI": "spotify:track:38GvTbOusCidWUWABv2aRd",
+        "Result Album Name": "Thanksgiving: 50 Songs for a Beautiful Thanksgiving Dinner"
     },
     {
         "Title": "Zimbabwe Gets A New Leader For The First Time",
