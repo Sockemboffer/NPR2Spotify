@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2018-03-05",
         "Day": "Mon",
-        "Scanned Date": "2021-06-19 00:59:37"
+        "Scanned Date": "2021-06-19 00:59:37",
+        "Playlist URI": "2TOlEuUZ2ZyPJvwI7qZP5g",
+        "Playlist Link": "https://open.spotify.com/playlist/2TOlEuUZ2ZyPJvwI7qZP5g",
+        "Snapshot ID": "MSw0OWI0ZDgzNTdhNGMxNmVjNTA5YjIxODE2ODI2ZmI1NTEzNzYyNGMx",
+        "Playlist Name": "MoWeEd 2018-03-05 Mon Morning Edition"
     },
     {
         "Title": "Morning News Brief",
@@ -16,19 +20,43 @@
         "MoWeEd Track": "Slightest Right",
         "MoWeEd Artists": [
             "Makaya McCraven"
-        ]
+        ],
+        "Result Track Name": "Slightest Right",
+        "Result Artist Names": [
+            "Makaya McCraven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rhANcb2MlC5avd0kgDfUc",
+        "Result Album Name": "In the Moment"
     },
     {
         "MoWeEd Track": "Gnawa",
         "MoWeEd Artists": [
             "Makaya McCraven"
-        ]
+        ],
+        "Result Track Name": "Gnawa",
+        "Result Artist Names": [
+            "Makaya McCraven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6igyRQ6DmkFQwb32OVqPwW",
+        "Result Album Name": "In the Moment"
     },
     {
         "MoWeEd Track": "Hallelujah Junction - 1st Movement",
         "MoWeEd Artists": [
             "John Adams"
-        ]
+        ],
+        "Result Track Name": "Hallelujah Junction: 1st Movement",
+        "Result Artist Names": [
+            "John Adams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4A1VmZQ2rdCS07En1TLDNb",
+        "Result Album Name": "Road Movies"
     },
     {
         "Title": "Preliminary Results: Italy's Center-Right Coalition Leads After Election",
@@ -46,7 +74,16 @@
         "MoWeEd Track": "Let's Get Back",
         "MoWeEd Artists": [
             "Cuong Vu Trio"
-        ]
+        ],
+        "Result Track Name": "Let's Get Back",
+        "Result Artist Names": [
+            "Cuong Vu",
+            "Pat Metheny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:33QKz9v9WK3etIcToD88vz",
+        "Result Album Name": "Cuong Vu Trio Meets Pat Metheny"
     },
     {
         "Title": "Composer Robert Lopez Is The First To Double EGOT",
@@ -61,7 +98,18 @@
             "Nico Muhly",
             "James McAlister",
             "Bryce Dessner"
-        ]
+        ],
+        "Result Track Name": "Mercury",
+        "Result Artist Names": [
+            "Bryce Dessner",
+            "James McAlister",
+            "Nico Muhly",
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3guCiFyHrkbEVQdhy6boxQ",
+        "Result Album Name": "Planetarium"
     },
     {
         "Title": "Sunday's Academy Awards Ceremony Was The First Of The #MeToo Era",
@@ -79,19 +127,40 @@
         "MoWeEd Track": "D-Town Tabernacle Choir",
         "MoWeEd Artists": [
             "Dabrye"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "No Child of God",
         "MoWeEd Artists": [
             "Dabrye"
-        ]
+        ],
+        "Result Track Name": "No Child of God",
+        "Result Artist Names": [
+            "Dabrye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:547qJ2KDRPB5MZoPbVWSTV",
+        "Result Album Name": "Instrmntl"
     },
     {
         "MoWeEd Track": "Lady Bird",
         "MoWeEd Artists": [
             "Jon Brion"
-        ]
+        ],
+        "Result Track Name": "Lady Bird",
+        "Result Artist Names": [
+            "Jon Brion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yzzno5cXBkh5c6UzRxcyM",
+        "Result Album Name": "Lady Bird (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "A Nation With Some Of The World's Highest Mountains Is Finally Starting To Ski",
@@ -104,14 +173,33 @@
         "MoWeEd Artists": [
             "Ghostface Killah",
             "BadBadNotGood et. al."
-        ]
+        ],
+        "Result Track Name": "Six Degrees",
+        "Result Artist Names": [
+            "BADBADNOTGOOD",
+            "Ghostface Killah",
+            "Danny Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37ZADMiSxNnF4qfDgTMP2x",
+        "Result Album Name": "Sour Soul"
     },
     {
         "MoWeEd Track": "Stark's Reality",
         "MoWeEd Artists": [
             "Ghostface Killah",
             "BadBadNotGood"
-        ]
+        ],
+        "Result Track Name": "Stark's Reality",
+        "Result Artist Names": [
+            "BADBADNOTGOOD",
+            "Ghostface Killah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4g0Wf7LI9Tkc2bguydczrK",
+        "Result Album Name": "Sour Soul"
     },
     {
         "Title": "This Chef Lost 50 Pounds And Reversed Prediabetes With A Digital Program",
@@ -129,13 +217,30 @@
         "MoWeEd Track": "Shining - Instrumental Version",
         "MoWeEd Artists": [
             "BRNFKD"
-        ]
+        ],
+        "Result Track Name": "Shining - Instrumental Version",
+        "Result Artist Names": [
+            "BRNFKD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MvbFeYHGrhaKMvYNov1YK",
+        "Result Album Name": "BRNFKD"
     },
     {
         "MoWeEd Track": "Spectre [Bibio Remix]",
         "MoWeEd Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Spectre - Bibio Remix",
+        "Result Artist Names": [
+            "Tycho",
+            "Bibio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Sf7rZtL2hCqqrnu6d9XKZ",
+        "Result Album Name": "Awake (Deluxe Version)"
     },
     {
         "Title": "Israeli Prime Minister Netanyahu To Visit Trump For The 5th Time",
@@ -159,19 +264,43 @@
         "MoWeEd Track": "Rays of Light",
         "MoWeEd Artists": [
             "Tigran Hamasyan"
-        ]
+        ],
+        "Result Track Name": "Rays of Light",
+        "Result Artist Names": [
+            "Tigran Hamasyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zmQtH3V58v9zuDU8VJes0",
+        "Result Album Name": "For Gyumri"
     },
     {
         "MoWeEd Track": "The American",
         "MoWeEd Artists": [
             "Tigran Hamasyan"
-        ]
+        ],
+        "Result Track Name": "The American",
+        "Result Artist Names": [
+            "Tigran Hamasyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6SeqJB6CauIJVdCi21otGd",
+        "Result Album Name": "For Gyumri"
     },
     {
         "MoWeEd Track": "Ronsel Leaves",
         "MoWeEd Artists": [
             "Tamar-kali"
-        ]
+        ],
+        "Result Track Name": "Ronsel Leaves",
+        "Result Artist Names": [
+            "Tamar-Kali"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nbQMMXYSJmuOxxzyabs1z",
+        "Result Album Name": "Mudbound (Original Soundtrack Album)"
     },
     {
         "Title": "After 2017's Surprising Oscars, 2018's Awards Went Pretty Much As Expected",
@@ -183,7 +312,16 @@
         "MoWeEd Track": "The Shape Of Water",
         "MoWeEd Artists": [
             "Alexandre Desplat"
-        ]
+        ],
+        "Result Track Name": "Elisa's Theme - From \"The Shape Of Water\" Soundtrack",
+        "Result Artist Names": [
+            "Alexandre Desplat",
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6R6E7KTIyymT65UNmoXYnP",
+        "Result Album Name": "dark academia (soundtracks)"
     },
     {
         "Title": "Truck Driver's Miscalculation Damaged Luxury Cars, Police Report Says",
@@ -195,7 +333,15 @@
         "MoWeEd Track": "Overflow Of Love",
         "MoWeEd Artists": [
             "Alexandre Desplat"
-        ]
+        ],
+        "Result Track Name": "Overflow Of Love",
+        "Result Artist Names": [
+            "Alexandre Desplat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5RvMBGXe1JqZ25nMobzw26",
+        "Result Album Name": "The Shape Of Water (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Salary Snag Keeps West Virginia Teachers Out Of Classrooms",
@@ -214,20 +360,44 @@
         "MoWeEd Artists": [
             "Bremer",
             "McCoy"
-        ]
+        ],
+        "Result Track Name": "Sophia",
+        "Result Artist Names": [
+            "Bremer/McCoy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ByOzErugqIjQljXNAW4wS",
+        "Result Album Name": "Forsvinder"
     },
     {
         "MoWeEd Track": "Himalaya",
         "MoWeEd Artists": [
             "Bremer",
             "McCoy"
-        ]
+        ],
+        "Result Track Name": "Himalaya",
+        "Result Artist Names": [
+            "Bremer/McCoy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bVil8g2TEokXHR6GrOEzt",
+        "Result Album Name": "Ordet"
     },
     {
         "MoWeEd Track": "Chris & Rose (Love Theme)",
         "MoWeEd Artists": [
             "Michael Abels"
-        ]
+        ],
+        "Result Track Name": "Chris & Rose (Love Theme)",
+        "Result Artist Names": [
+            "Michael Abels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7i5sNWJqrlMXYpAVgl37zV",
+        "Result Album Name": "Get Out (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "YouTube Restores Account For Far-Right Activist Jerome Corsi",
@@ -239,13 +409,26 @@
         "MoWeEd Track": "Alarmed",
         "MoWeEd Artists": [
             "Oddisee"
-        ]
+        ],
+        "Result Track Name": "Alarmed",
+        "Result Artist Names": [
+            "Oddisee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uPc8UjfmiuzmAJj3VBs8N",
+        "Result Album Name": "The Odd Tape"
     },
     {
         "MoWeEd Track": "Trakors",
         "MoWeEd Artists": [
             "1900"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Deadline For Congressional Action On DACA Program Has Come And Gone ",

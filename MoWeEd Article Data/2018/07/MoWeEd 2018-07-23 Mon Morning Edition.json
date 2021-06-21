@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2018-07-23",
         "Day": "Mon",
-        "Scanned Date": "2021-06-19 00:50:33"
+        "Scanned Date": "2021-06-19 00:50:33",
+        "Playlist URI": "3CKSrhabiTBr2ClKXwfW14",
+        "Playlist Link": "https://open.spotify.com/playlist/3CKSrhabiTBr2ClKXwfW14",
+        "Snapshot ID": "MSwyNmI0Njk4YjQwYjFjYzljM2ViODVkZTZhMTlkNWFiYzdjNDQ4MDI3",
+        "Playlist Name": "MoWeEd 2018-07-23 Mon Morning Edition"
     },
     {
         "Title": "Morning News Brief",
@@ -16,19 +20,37 @@
         "MoWeEd Track": "In My Thoughts (Remix)",
         "MoWeEd Artists": [
             "Handbook"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Blunt Season",
         "MoWeEd Artists": [
             "Handbook"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Angels (Kygo Edit)",
         "MoWeEd Artists": [
             "The XX"
-        ]
+        ],
+        "Result Track Name": "Angels",
+        "Result Artist Names": [
+            "The xx"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3zsRP8rH1kaIAo9fmiP4El",
+        "Result Album Name": "Coexist"
     },
     {
         "Title": "Replacing Vacant Lots With Green Spaces Can Ease Depression In Urban Communities",
@@ -46,7 +68,15 @@
         "MoWeEd Track": "YVR",
         "MoWeEd Artists": [
             "Teen Daze"
-        ]
+        ],
+        "Result Track Name": "YVR",
+        "Result Artist Names": [
+            "Teen Daze"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TnWV8n8Py4X1p0Txm1c4Q",
+        "Result Album Name": "Paradiso"
     },
     {
         "Title": "Alabama Minor League Baseball Team Tries To Honor Millennials ",
@@ -58,7 +88,15 @@
         "MoWeEd Track": "Tokyo Winter",
         "MoWeEd Artists": [
             "Teen Daze"
-        ]
+        ],
+        "Result Track Name": "Tokyo Winter",
+        "Result Artist Names": [
+            "Teen Daze"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g5zJafeT5E5HL5qebmnuj",
+        "Result Album Name": "Paradiso"
     },
     {
         "Title": "'Rescuing The Rescuers': Stranded Syrian White Helmets Evacuated By Israel",
@@ -76,19 +114,43 @@
         "MoWeEd Track": "Decades",
         "MoWeEd Artists": [
             "Whale Fall"
-        ]
+        ],
+        "Result Track Name": "Decades",
+        "Result Artist Names": [
+            "Whale Fall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JAnQt29CIHHvfMhdB9sVW",
+        "Result Album Name": "Sondersongs"
     },
     {
         "MoWeEd Track": "Holarctica",
         "MoWeEd Artists": [
             "Whale Fall"
-        ]
+        ],
+        "Result Track Name": "Holarctica",
+        "Result Artist Names": [
+            "Whale Fall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Vd5vEhHZY4hQrvNbsy1rQ",
+        "Result Album Name": "Sondersongs"
     },
     {
         "MoWeEd Track": "Chameleon",
         "MoWeEd Artists": [
             "Brendan Canning"
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Brendan Canning"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FEOPd2uvBSp8qP7vajwPI",
+        "Result Album Name": "Something For All Of Us"
     },
     {
         "Title": "Ex-White House Stenographer: With No Official Transcript, Trump Can Muddle The Truth",
@@ -100,13 +162,29 @@
         "MoWeEd Track": "Reactor",
         "MoWeEd Artists": [
             "GoGo Penguin"
-        ]
+        ],
+        "Result Track Name": "Reactor",
+        "Result Artist Names": [
+            "GoGo Penguin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YXkts9ukYmGM7yqyePfP4",
+        "Result Album Name": "A Humdrum Star (Deluxe)"
     },
     {
         "MoWeEd Track": "Bardo",
         "MoWeEd Artists": [
             "GoGo Penguin"
-        ]
+        ],
+        "Result Track Name": "Bardo",
+        "Result Artist Names": [
+            "GoGo Penguin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RbwGr6dhNGGjgPb6vgDkd",
+        "Result Album Name": "A Humdrum Star"
     },
     {
         "Title": "Food Critic Jonathan Gold Dies At Age 57",
@@ -124,13 +202,29 @@
         "MoWeEd Track": "Distorted Skylines",
         "MoWeEd Artists": [
             "Clyde Guevara"
-        ]
+        ],
+        "Result Track Name": "Distorted Skylines",
+        "Result Artist Names": [
+            "Clyde Guevara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4z5A4TGRH8fZMq8ujGXKS3",
+        "Result Album Name": "Distorted Skylines"
     },
     {
         "MoWeEd Track": "Quiet Storm [Instrumental]",
         "MoWeEd Artists": [
             "Mobb Deep"
-        ]
+        ],
+        "Result Track Name": "Quiet Storm",
+        "Result Artist Names": [
+            "Mobb Deep"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nwAubYnLGl7F7cDuOoVLp",
+        "Result Album Name": "Murda Muzik"
     },
     {
         "Title": "Trump Tweet Threatens Iran After It Warns Of 'Mother Of All Wars'",
@@ -142,19 +236,43 @@
         "MoWeEd Track": "Endless",
         "MoWeEd Artists": [
             "Portico Quartet"
-        ]
+        ],
+        "Result Track Name": "Endless",
+        "Result Artist Names": [
+            "Portico Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2u9iBS6KFPz7CPenzUpXsm",
+        "Result Album Name": "Art in the Age of Automation"
     },
     {
         "MoWeEd Track": "A Luminous Beam",
         "MoWeEd Artists": [
             "Portico Quartet"
-        ]
+        ],
+        "Result Track Name": "A Luminous Beam",
+        "Result Artist Names": [
+            "Portico Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40ND5coNJijMSZ9OCjiDa8",
+        "Result Album Name": "Art in the Age of Automation"
     },
     {
         "MoWeEd Track": "Passionfruit",
         "MoWeEd Artists": [
             "Drake"
-        ]
+        ],
+        "Result Track Name": "Passionfruit",
+        "Result Artist Names": [
+            "Drake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+        "Result Album Name": "More Life"
     },
     {
         "Title": "Spring Is Springing Sooner, Throwing Nature's Rhythms Out Of Whack",
@@ -166,7 +284,15 @@
         "MoWeEd Track": "Solace",
         "MoWeEd Artists": [
             "Fait"
-        ]
+        ],
+        "Result Track Name": "Solace",
+        "Result Artist Names": [
+            "Fait"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0u8pDmE1s33sfHEZCU0tlw",
+        "Result Album Name": "Sonder"
     },
     {
         "Title": "Cleveland DMV Tries To Thwart Smiling In Driver's License Photos",
@@ -178,7 +304,15 @@
         "MoWeEd Track": "Reverie",
         "MoWeEd Artists": [
             "Fait"
-        ]
+        ],
+        "Result Track Name": "Reverie",
+        "Result Artist Names": [
+            "Fait"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0APskjErOhuLPTFxRTaER9",
+        "Result Album Name": "Sonder"
     },
     {
         "Title": "U.S. Tension With Iran Heats Up After Early Morning Trump Tweet",
@@ -196,19 +330,43 @@
         "MoWeEd Track": "Martyrs",
         "MoWeEd Artists": [
             "Beautiful Killing Machine"
-        ]
+        ],
+        "Result Track Name": "Martyrs",
+        "Result Artist Names": [
+            "Beautiful Killing Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CWjpVs60HBTNIQDy9S5ox",
+        "Result Album Name": "Beautiful Killing Machine"
     },
     {
         "MoWeEd Track": "Right Is",
         "MoWeEd Artists": [
             "Beautiful Killing Machine"
-        ]
+        ],
+        "Result Track Name": "Right Is",
+        "Result Artist Names": [
+            "Beautiful Killing Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30vX6huEwyPrFdANUL7KeY",
+        "Result Album Name": "Beautiful Killing Machine"
     },
     {
         "MoWeEd Track": "It's Obvious",
         "MoWeEd Artists": [
             "Chastity Belt"
-        ]
+        ],
+        "Result Track Name": "It's Obvious",
+        "Result Artist Names": [
+            "Chastity Belt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2a6140USzPYdfha2aN00rm",
+        "Result Album Name": "I Used to Spend So Much Time Alone"
     },
     {
         "Title": "Rep. Karen Bass On Her Border Trip To Texas Last Week",
@@ -220,19 +378,43 @@
         "MoWeEd Track": "Reel Life (Evolution II)",
         "MoWeEd Artists": [
             "The Cinematic Orchestra"
-        ]
+        ],
+        "Result Track Name": "Reel Life - Evolution II",
+        "Result Artist Names": [
+            "The Cinematic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6o8uVpZERX9FbwAfT7WaEp",
+        "Result Album Name": "Man With A Movie Camera"
     },
     {
         "MoWeEd Track": "The Awakening of a Woman (Burnout)",
         "MoWeEd Artists": [
             "The Cinematic Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Awakening Of A Woman - Burnout",
+        "Result Artist Names": [
+            "The Cinematic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2CB8NTimUFSiYb6TAskdeH",
+        "Result Album Name": "Man With A Movie Camera"
     },
     {
         "MoWeEd Track": "Emersion",
         "MoWeEd Artists": [
             "Lamplighter"
-        ]
+        ],
+        "Result Track Name": "Emersion",
+        "Result Artist Names": [
+            "Lamplighter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ge8aE2SlCQSQgWVSOHtMw",
+        "Result Album Name": "A Three Point Perspective"
     },
     {
         "Title": "DOJ Documents On Page Give Fuel To Critics And Administration Allies",
