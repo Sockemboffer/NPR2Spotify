@@ -17,7 +17,7 @@ Spotify account these will go live on: [MoWeEd2Spotify](https://open.spotify.com
 
 ----------------------------------------------------------------------------------------------------
 
-**TODO:** Playlists are all currently private until I've finished creating them (atm on 2018) or when the Spotify team yells at me for actually using 9k-ish playlists 😅
+**TODO:** Playlists are all currently private until I've finished creating them (atm on 2019) or when the Spotify team yells at me for actually using 9k-ish playlists 😅
 
 **TODO:** Create a dependiencies manifest.
 
