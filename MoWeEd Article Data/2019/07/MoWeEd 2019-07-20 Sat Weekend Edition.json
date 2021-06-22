@@ -4,7 +4,11 @@
         "Edition": "Weekend Edition",
         "Date Numbered": "2019-07-20",
         "Day": "Sat",
-        "Scanned Date": "2021-06-21 10:52:05"
+        "Scanned Date": "2021-06-21 10:52:05",
+        "Playlist URI": "5WWN6Eb3Q03UBLGyEM9hHN",
+        "Playlist Link": "https://open.spotify.com/playlist/5WWN6Eb3Q03UBLGyEM9hHN",
+        "Snapshot ID": "MSw4YzY1MGRjNDVmODliZTljNzExN2U3NWQ0Yjk1YmQ1NjBmMTU5ZTA3",
+        "Playlist Name": "MoWeEd 2019-07-20 Sat Weekend Edition"
     },
     {
         "Title": "The Week In Politics: Trump's Remarks Attacking 4 Congresswomen",
@@ -26,11 +30,25 @@
     },
     {
         "MoWeEd Track": "Hundred Mile",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Steadfast",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "Steadfast",
+        "Result Artist Names": [
+            "Kainbeats",
+            "Hoogway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5YEv1KhmaI9C0YellAtPAt",
+        "Result Album Name": "Angelic"
     },
     {
         "Title": "Democrats Issue Warnings Against Viral Russia-Based Face-Morphing App",
@@ -54,7 +72,15 @@
         "MoWeEd Track": "...and It Will Rise with the Sun",
         "MoWeEd Artists": [
             "Mark Preston"
-        ]
+        ],
+        "Result Track Name": "...and It Will Rise With the Sun",
+        "Result Artist Names": [
+            "Mark Preston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4EILNHKCaocfAfQiSlg8uf",
+        "Result Album Name": "...and it will rise with the sun"
     },
     {
         "Title": "Man, It's A Hot One. Here Are Some Ideas For Staying Distracted From The Heat",
@@ -66,14 +92,31 @@
         "MoWeEd Track": "Dark Come Soon",
         "MoWeEd Artists": [
             "Tegan and Sara"
-        ]
+        ],
+        "Result Track Name": "Dark Come Soon",
+        "Result Artist Names": [
+            "Tegan and Sara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xVMcVFgrtyy11QFAJuS1f",
+        "Result Album Name": "The Con"
     },
     {
         "MoWeEd Track": "More (Theme From \"Mondo Cane\")",
         "MoWeEd Artists": [
             "Count Basie",
             "Frank Sinatra"
-        ]
+        ],
+        "Result Track Name": "More (Theme From Mondo Cane)",
+        "Result Artist Names": [
+            "Frank Sinatra",
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0a545c4gOsyYupVvliDOy0",
+        "Result Album Name": "Sinatra/Basie: The Complete Reprise Studio Recordings"
     },
     {
         "Title": "Beyond 'Good' Vs. 'Bad' Touch: 4 Lessons To Help Prevent Child Sexual Abuse",
@@ -104,11 +147,30 @@
         "MoWeEd Artists": [
             "Betty Buckley",
             "Cynthia Onrubia"
-        ]
+        ],
+        "Result Track Name": "Memory",
+        "Result Artist Names": [
+            "Andrew Lloyd Webber",
+            "\"Cats\" 1983 Broadway Cast",
+            "Cynthia Onrubia",
+            "Betty Buckley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Qw6jgFXAmCBjTgpu18Nv2",
+        "Result Album Name": "Cats (Original Broadway Cast Recording / 1983)"
     },
     {
         "MoWeEd Track": "Overture",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "OK Overture",
+        "Result Artist Names": [
+            "AJR"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NgsFDgvexIMJdvLsKKXeB",
+        "Result Album Name": "OK ORCHESTRA"
     },
     {
         "Title": "What Could Come At The Mueller Hearings",
@@ -132,11 +194,27 @@
         "MoWeEd Track": "As Day Breaks",
         "MoWeEd Artists": [
             "Molife"
-        ]
+        ],
+        "Result Track Name": "As Day Breaks",
+        "Result Artist Names": [
+            "Molife"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:60LXsDhSWvQ5SqhUSgexlu",
+        "Result Album Name": "Dazed Summer"
     },
     {
         "MoWeEd Track": "When The Dust Settles",
-        "MoWeEd Artists": " "
+        "MoWeEd Artists": " ",
+        "Result Track Name": "When the Dust Settles",
+        "Result Artist Names": [
+            "STS9"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6u5DUWiBBfMbi69uIkPgbP",
+        "Result Album Name": "When the Dust Settles - EP"
     },
     {
         "Title": "Trump's Remarks Against Congresswomen Are Not The Only Example Of The 'Go Back' Taunt",
@@ -162,7 +240,15 @@
             "Lisa Loeb",
             "Lisa Loeb",
             "Nine Stories"
-        ]
+        ],
+        "Result Track Name": "Stay",
+        "Result Artist Names": [
+            "Lisa Loeb & Nine Stories"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jlgrHvssAloyAidZ1aJzs",
+        "Result Album Name": "The Very Best Of"
     },
     {
         "Title": "Russians Demonstrate Against Putin Over Health Care, Controversial Projects",
@@ -174,13 +260,29 @@
         "MoWeEd Track": "Farewell",
         "MoWeEd Artists": [
             "Stan Forebee"
-        ]
+        ],
+        "Result Track Name": "Farewell",
+        "Result Artist Names": [
+            "Stan Forebee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yCj4TUYq3CmUSe2svAVuJ",
+        "Result Album Name": "Single Releases"
     },
     {
         "MoWeEd Track": "Packet Reprise",
         "MoWeEd Artists": [
             "Digital Underground"
-        ]
+        ],
+        "Result Track Name": "Packet Reprise",
+        "Result Artist Names": [
+            "Digital Underground"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CSICirFAy7vhZE5tMZKTf",
+        "Result Album Name": "Sex Packets"
     },
     {
         "Title": "Now Starring In Children's Cartoons: Authentic Indigenous Characters",
@@ -204,13 +306,26 @@
         "MoWeEd Track": "Everyone's Gone to the Moon",
         "MoWeEd Artists": [
             "Jonathan King"
-        ]
+        ],
+        "Result Track Name": "Everyone's Gone to the Moon",
+        "Result Artist Names": [
+            "Jonathan King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tuup6TfHtbNdqlbF01HrX",
+        "Result Album Name": "Jonathan King - Combined 60's/70's Singles Sales Over 40 Million"
     },
     {
         "MoWeEd Track": "Moon Song (That Wasn't Meant for Me)",
         "MoWeEd Artists": [
             "Louis Armstrong",
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

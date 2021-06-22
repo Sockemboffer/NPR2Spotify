@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2019-06-13",
         "Day": "Thu",
-        "Scanned Date": "2021-06-21 10:54:19"
+        "Scanned Date": "2021-06-21 10:54:19",
+        "Playlist URI": "4qVMQESXU6Hghtk3Krmu9c",
+        "Playlist Link": "https://open.spotify.com/playlist/4qVMQESXU6Hghtk3Krmu9c",
+        "Snapshot ID": "MSxmMGYzZWY3ODJjNWJlYTYzNGMxMGUzZGIwYTJjMWUxOGVmNmE5ZjIx",
+        "Playlist Name": "MoWeEd 2019-06-13 Thu Morning Edition"
     },
     {
         "Title": "News Brief: Political Dirt, Census Question, Uganda's Ebola Case",
@@ -16,13 +20,29 @@
         "MoWeEd Track": "Focus I",
         "MoWeEd Artists": [
             "Laurel Halo"
-        ]
+        ],
+        "Result Track Name": "Focus I",
+        "Result Artist Names": [
+            "Laurel Halo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48FGDJFP7ENQj2wZmppEhU",
+        "Result Album Name": "In Situ"
     },
     {
         "MoWeEd Track": "Situation",
         "MoWeEd Artists": [
             "Laurel Halo"
-        ]
+        ],
+        "Result Track Name": "Situation",
+        "Result Artist Names": [
+            "Laurel Halo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SOaIUrl9t6Ji1PKwCvhCA",
+        "Result Album Name": "In Situ"
     },
     {
         "Title": "'Throughline' Examines An American Who Became A Chinese Revolutionary",
@@ -34,19 +54,40 @@
         "MoWeEd Track": "No Country For Sidney",
         "MoWeEd Artists": [
             "Drop Electric"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Blue Dream",
         "MoWeEd Artists": [
             "Drop Electric"
-        ]
+        ],
+        "Result Track Name": "Blue Dream",
+        "Result Artist Names": [
+            "Drop Electric"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Sg7XTNyW3RRvaHhRc8Ucj",
+        "Result Album Name": "Waking up to the Fire"
     },
     {
         "MoWeEd Track": "Szechuan",
         "MoWeEd Artists": [
             "Fatima Al Qadiri"
-        ]
+        ],
+        "Result Track Name": "Szechuan",
+        "Result Artist Names": [
+            "Fatima Al Qadiri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5kRtxIt3hkEJ4veuyr04jk",
+        "Result Album Name": "Asiatisch"
     },
     {
         "Title": "Ebola Outbreak Spreads: Uganda Reports Its 1st Cases",
@@ -65,14 +106,30 @@
         "MoWeEd Artists": [
             "Brian Eno",
             "Karl Hyde"
-        ]
+        ],
+        "Result Track Name": "To Us All",
+        "Result Artist Names": [
+            "Eno • Hyde"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2l4UtN2PqjYIhEAQMx2VIu",
+        "Result Album Name": "Someday World"
     },
     {
         "MoWeEd Track": "Satellites",
         "MoWeEd Artists": [
             "Brian Eno",
             "Karl Hyde"
-        ]
+        ],
+        "Result Track Name": "The Satellites",
+        "Result Artist Names": [
+            "Eno • Hyde"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5K7qa4y2hzLwnix872ugId",
+        "Result Album Name": "Someday World"
     },
     {
         "Title": "Street Outside NASA Headquarters Renamed: Hidden Figures Way",
@@ -90,7 +147,15 @@
         "MoWeEd Track": "Lagartijeando-Chakana Cosmica,",
         "MoWeEd Artists": [
             "Lagartijeando"
-        ]
+        ],
+        "Result Track Name": "Chakana Cosmica",
+        "Result Artist Names": [
+            "Lagartijeando"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HXcFFnWN5hbnRxTayOTDE",
+        "Result Album Name": "Jallalla"
     },
     {
         "Title": "Researchers May Have Found A Way To Improve Black Men's Life Expectancy",
@@ -102,14 +167,27 @@
         "MoWeEd Track": "Forward Thinking",
         "MoWeEd Artists": [
             "Akinola"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Echo Hill",
         "MoWeEd Artists": [
             "Tiffany Seal",
             "Rod Hamilton"
-        ]
+        ],
+        "Result Track Name": "Echo Hill",
+        "Result Artist Names": [
+            "Rod Hamilton & Tiffany Seal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03TxACyGBLgeTTjDhTe9Pk",
+        "Result Album Name": "Versatile Ambience"
     },
     {
         "Title": "The Philippines' Marawi City Remains Wrecked Nearly 2 Years After ISIS War",
@@ -127,13 +205,29 @@
         "MoWeEd Track": "Peroration Six",
         "MoWeEd Artists": [
             "Floating Points"
-        ]
+        ],
+        "Result Track Name": "Peroration Six",
+        "Result Artist Names": [
+            "Floating Points"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NPpu0Q0hkTkUGB9iCdczu",
+        "Result Album Name": "Elaenia"
     },
     {
         "MoWeEd Track": "Silhouettes (I, II, III)",
         "MoWeEd Artists": [
             "Floating Points"
-        ]
+        ],
+        "Result Track Name": "Silhouettes (I, II, III)",
+        "Result Artist Names": [
+            "Floating Points"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2D4VTAyHTFegKvcw9oRZhX",
+        "Result Album Name": "Elaenia"
     },
     {
         "Title": "Rising Democratic Party Star Urges Hollywood Not To Leave Georgia Over Abortion Law",
@@ -151,19 +245,40 @@
         "MoWeEd Track": "Strip Mall Church",
         "MoWeEd Artists": [
             "Televangel"
-        ]
+        ],
+        "Result Track Name": "Strip Mall Church",
+        "Result Artist Names": [
+            "Televangel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Q9gUdEYG7yifvERlw1Pbb",
+        "Result Album Name": "Anthropocene Blues"
     },
     {
         "MoWeEd Track": "Florence Reese",
         "MoWeEd Artists": [
             "Televangel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Bowen Island",
         "MoWeEd Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Bowen Island",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HInMgktCFmyvZesbLhduq",
+        "Result Album Name": "Glow"
     },
     {
         "Title": "House Panel Approves Funds For Sept. 11 First Responders",
@@ -181,13 +296,29 @@
         "MoWeEd Track": "Upstate",
         "MoWeEd Artists": [
             "Rudemanners"
-        ]
+        ],
+        "Result Track Name": "Upstate",
+        "Result Artist Names": [
+            "RudeManners"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kRpLppjc7TQXQMHK0lqQp",
+        "Result Album Name": "Resurrection"
     },
     {
         "MoWeEd Track": "Boiling",
         "MoWeEd Artists": [
             "Rudemanners"
-        ]
+        ],
+        "Result Track Name": "Boiling",
+        "Result Artist Names": [
+            "RudeManners"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1d42KRtFqju4vLlmQM4mQE",
+        "Result Album Name": "Resurrection"
     },
     {
         "Title": "Tree Of Friendship From France's Macron To Trump Dies",
@@ -205,20 +336,46 @@
         "MoWeEd Track": "Drift",
         "MoWeEd Artists": [
             "Kris Bowers"
-        ]
+        ],
+        "Result Track Name": "Drift",
+        "Result Artist Names": [
+            "Kris Bowers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dFXVsyHptcrUOTDT6FXmU",
+        "Result Album Name": "Heroes + Misfits"
     },
     {
         "MoWeEd Track": "#TheProtester",
         "MoWeEd Artists": [
             "Kris Bowers"
-        ]
+        ],
+        "Result Track Name": "#TheProtester",
+        "Result Artist Names": [
+            "Kris Bowers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DluWHze4Ag1zj0LUve3ts",
+        "Result Album Name": "Heroes + Misfits"
     },
     {
         "MoWeEd Track": "Day Without You [Leech Edit]",
         "MoWeEd Artists": [
             "Maria Minerva",
             "Cherushii"
-        ]
+        ],
+        "Result Track Name": "A Day Without You (Leech Edit)",
+        "Result Artist Names": [
+            "Cherushii",
+            "Maria Minerva",
+            "Leech"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nxSRfeApcwsnxubC903s7",
+        "Result Album Name": "Cherushii & Maria Minerva"
     },
     {
         "Title": "What Has The U.S. Gained From Tariff Talks With Mexico?",

@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2019-11-06",
         "Day": "Wed",
-        "Scanned Date": "2021-06-21 10:39:03"
+        "Scanned Date": "2021-06-21 10:39:03",
+        "Playlist URI": "0zw3YRgb1bw6C9bvKXF64Y",
+        "Playlist Link": "https://open.spotify.com/playlist/0zw3YRgb1bw6C9bvKXF64Y",
+        "Snapshot ID": "MSw4YWI3ODY1N2VhZjA0NzE4ZGMxMDhmODQzMGQ1YTVmZTJhNTFmN2My",
+        "Playlist Name": "MoWeEd 2019-11-06 Wed Morning Edition"
     },
     {
         "Title": "News Brief: Impeachment Transcripts, Election Results, Clean Water Case",
@@ -16,13 +20,29 @@
         "MoWeEd Track": "Sun Dress",
         "MoWeEd Artists": [
             "Freddie Joachim"
-        ]
+        ],
+        "Result Track Name": "Sun Dress",
+        "Result Artist Names": [
+            "Freddie Joachim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QLeDxan9CdQsUm026Erst",
+        "Result Album Name": "Beyond the Sea of Trees"
     },
     {
         "MoWeEd Track": "Dreamstate",
         "MoWeEd Artists": [
             "Freddie Joachim"
-        ]
+        ],
+        "Result Track Name": "Dreamstate",
+        "Result Artist Names": [
+            "Freddie Joachim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AArQBxnfgLZ6umTwN9s6P",
+        "Result Album Name": "Beyond the Sea of Trees"
     },
     {
         "Title": "The Changes In Science And Technology Over The Last 4 Decades",
@@ -34,19 +54,45 @@
         "MoWeEd Track": "Changes",
         "MoWeEd Artists": [
             "David Bowie"
-        ]
+        ],
+        "Result Track Name": "Changes - 2015 Remaster",
+        "Result Artist Names": [
+            "David Bowie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0LrwgdLsFaWh9VXIjBRe8t",
+        "Result Album Name": "Hunky Dory (2015 Remaster)"
     },
     {
         "MoWeEd Track": "Changes [Instrumental]",
         "MoWeEd Artists": [
             "2Pac"
-        ]
+        ],
+        "Result Track Name": "Changes",
+        "Result Artist Names": [
+            "2Pac",
+            "Talent"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0pNaQMzgtuJL0VrQdVQoUG",
+        "Result Album Name": "Discover More Hip Hop"
     },
     {
         "MoWeEd Track": "Latitude (Remix)",
         "MoWeEd Artists": [
             "Nujabes feat. Five Deez"
-        ]
+        ],
+        "Result Track Name": "Latitude -remix (feat. Five Deez)",
+        "Result Artist Names": [
+            "Nujabes",
+            "Five Deez"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:65u7IbuZ4viAlVBHxnpos1",
+        "Result Album Name": "Metaphorical Music"
     },
     {
         "Title": "Critics Doubt Barr Can Restore Stability To The Justice Department",
@@ -58,13 +104,29 @@
         "MoWeEd Track": "Straight up Raining",
         "MoWeEd Artists": [
             "Mammal Hands"
-        ]
+        ],
+        "Result Track Name": "Straight up Raining",
+        "Result Artist Names": [
+            "Mammal Hands"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5suxU1IRr3LjslKzWzoxyt",
+        "Result Album Name": "Shadow Work"
     },
     {
         "MoWeEd Track": "Transfixed",
         "MoWeEd Artists": [
             "Mammal Hands"
-        ]
+        ],
+        "Result Track Name": "Transfixed",
+        "Result Artist Names": [
+            "Mammal Hands"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZxTLqpafc4pKt71ZJJNK8",
+        "Result Album Name": "Shadow Work"
     },
     {
         "Title": "Space Station Astronaut Casts Absentee Ballot From Space",
@@ -82,13 +144,31 @@
         "MoWeEd Track": "Melancholy Hopeful",
         "MoWeEd Artists": [
             "Marcus D"
-        ]
+        ],
+        "Result Track Name": "Melancholy Hopeful",
+        "Result Artist Names": [
+            "Marcus D",
+            "Cise Star"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1JSSi1zfL2tHyn6ueRds01",
+        "Result Album Name": "Melancholy Hopeful"
     },
     {
         "MoWeEd Track": "Fly",
         "MoWeEd Artists": [
             "Marcus D"
-        ]
+        ],
+        "Result Track Name": "Fly",
+        "Result Artist Names": [
+            "Marcus D",
+            "Choklate"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pdguagazaT3kqbmLnhzhe",
+        "Result Album Name": "Melancholy Hopeful"
     },
     {
         "Title": "In 'Mobituaries,' Mo Rocca Gives People The Second Send-Offs They Deserved",
@@ -101,14 +181,38 @@
         "MoWeEd Artists": [
             "Brian Carrick",
             "Gregg Stafford"
-        ]
+        ],
+        "Result Track Name": "All of Me",
+        "Result Artist Names": [
+            "Gregg Stafford",
+            "Brian Carrick",
+            "Emil Mark",
+            "colin bray",
+            "Sven Stahlberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cEEHFh2XnexTkKmJnxZnz",
+        "Result Album Name": "Streets of the City - Greg Stafford Meets Brian Carrick"
     },
     {
         "MoWeEd Track": "Doctor Jazz",
         "MoWeEd Artists": [
             "Brian Carrick",
             "Gregg Stafford"
-        ]
+        ],
+        "Result Track Name": "Doctor Jazz",
+        "Result Artist Names": [
+            "Gregg Stafford",
+            "Brian Carrick",
+            "Emil Mark",
+            "colin bray",
+            "Sven Stahlberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37QakVyuSOPdtQfwqMQgl6",
+        "Result Album Name": "Streets of the City - Greg Stafford Meets Brian Carrick"
     },
     {
         "Title": "Democrats Are Celebrating Big Victories In Tuesday's Election",
@@ -132,13 +236,29 @@
         "MoWeEd Track": "Wake",
         "MoWeEd Artists": [
             "Tacoma Narrows Bridge Disaster"
-        ]
+        ],
+        "Result Track Name": "Wake",
+        "Result Artist Names": [
+            "Tacoma Narrows Bridge Disaster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HCEJxMW0Crju0jyZWnh2D",
+        "Result Album Name": "Exegesis"
     },
     {
         "MoWeEd Track": "Valis",
         "MoWeEd Artists": [
             "Tacoma Narrows Bridge Disaster"
-        ]
+        ],
+        "Result Track Name": "Valis",
+        "Result Artist Names": [
+            "Tacoma Narrows Bridge Disaster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zV0U1GM1g64c6zU6s7DIc",
+        "Result Album Name": "Exegesis"
     },
     {
         "Title": "Iraqi Prime Minister's Resignation Fails To Satisfy Protesters",
@@ -150,19 +270,43 @@
         "MoWeEd Track": "Los Angeles",
         "MoWeEd Artists": [
             "The Shaolin Afronauts"
-        ]
+        ],
+        "Result Track Name": "Los Angeles",
+        "Result Artist Names": [
+            "The Shaolin Afronauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58hEQDHwlXE6Vc1Z8vKhmt",
+        "Result Album Name": "Quest Under Capricorn"
     },
     {
         "MoWeEd Track": "Quest Under Capricorn",
         "MoWeEd Artists": [
             "The Shaolin Afronauts"
-        ]
+        ],
+        "Result Track Name": "Quest Under Capricorn",
+        "Result Artist Names": [
+            "The Shaolin Afronauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jRtzy3LW5MDFk4I3rym77",
+        "Result Album Name": "Quest Under Capricorn"
     },
     {
         "MoWeEd Track": "Bismillah",
         "MoWeEd Artists": [
             "Tinariwen"
-        ]
+        ],
+        "Result Track Name": "Bismillah",
+        "Result Artist Names": [
+            "Tinariwen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nNvWDtrotc7vvfdL5zEP1",
+        "Result Album Name": "The Radio Tisdas Sessions"
     },
     {
         "Title": "Giuliani's Name Is Featured Prominently In Impeachment Transcripts",
@@ -180,13 +324,23 @@
         "MoWeEd Track": "Dunes",
         "MoWeEd Artists": [
             "Oldtwig feat. Lime Kain"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Wild Coast",
         "MoWeEd Artists": [
             "Oldtwig"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Shelter Cat Repeatedly Lets Other Felines Out Of Their Rooms",
@@ -204,19 +358,43 @@
         "MoWeEd Track": "Octopus's Garden",
         "MoWeEd Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "Octopus's Garden - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0suLngfo7rJoetk7Ub6N8l",
+        "Result Album Name": "Abbey Road (Remastered)"
     },
     {
         "MoWeEd Track": "Day Tripper",
         "MoWeEd Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Day Tripper",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3I9N1FJLNSFLOhtkmamMQS",
+        "Result Album Name": "Rubber Soulive"
     },
     {
         "MoWeEd Track": "Hey Ya",
         "MoWeEd Artists": [
             "Booker T"
-        ]
+        ],
+        "Result Track Name": "Hey Ya",
+        "Result Artist Names": [
+            "Booker T."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MCSwuZiKyatvdQKR1L4pZ",
+        "Result Album Name": "Potato Hole"
     },
     {
         "Title": "House Impeachment Panels Publish Testimony From Volker And Sondland",

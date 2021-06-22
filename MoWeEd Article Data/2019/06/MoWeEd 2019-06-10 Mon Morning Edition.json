@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2019-06-10",
         "Day": "Mon",
-        "Scanned Date": "2021-06-21 10:54:02"
+        "Scanned Date": "2021-06-21 10:54:02",
+        "Playlist URI": "6NLBWyp7KRUiPkO5JEvCOi",
+        "Playlist Link": "https://open.spotify.com/playlist/6NLBWyp7KRUiPkO5JEvCOi",
+        "Snapshot ID": "MSw4MmJmZDZmYjFkMWY4MWRlM2JjYjc5YzY2OTNmMjk0MTgwNDFmYWFk",
+        "Playlist Name": "MoWeEd 2019-06-10 Mon Morning Edition"
     },
     {
         "Title": "Morning News Brief",
@@ -16,13 +20,26 @@
         "MoWeEd Track": "Westcoast Trail",
         "MoWeEd Artists": [
             "Segue"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "La Rue",
         "MoWeEd Artists": [
             "Segue"
-        ]
+        ],
+        "Result Track Name": "La Rue",
+        "Result Artist Names": [
+            "Segue"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:285Kkvm7u09nXUJwRFcMEa",
+        "Result Album Name": "Pacifica"
     },
     {
         "Title": "Cybersecurity Official On Bridging The Divide Between The U.S. And China",
@@ -34,19 +51,43 @@
         "MoWeEd Track": "Bund [Instrumental]",
         "MoWeEd Artists": [
             "Shanghai Restoration"
-        ]
+        ],
+        "Result Track Name": "The Bund - Instrumental",
+        "Result Artist Names": [
+            "The Shanghai Restoration Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50IMvjSBLUFeJzqrrGkDtN",
+        "Result Album Name": "Instrumentals"
     },
     {
         "MoWeEd Track": "Nanjing Road East",
         "MoWeEd Artists": [
             "Shanghai Restoration Project"
-        ]
+        ],
+        "Result Track Name": "Nanjing Road East - Instrumental",
+        "Result Artist Names": [
+            "The Shanghai Restoration Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fIZjUTjTIolsDSFYJ5t0q",
+        "Result Album Name": "Instrumentals"
     },
     {
         "MoWeEd Track": "Cycles of 9",
         "MoWeEd Artists": [
             "Mark Pritchard"
-        ]
+        ],
+        "Result Track Name": "Cycles of 9",
+        "Result Artist Names": [
+            "Mark Pritchard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wxTsGCcnkfQs4EY1HOHIO",
+        "Result Album Name": "Under The Sun"
     },
     {
         "Title": "Mexico Promises To Harden Its Border With Guatemala",
@@ -64,14 +105,32 @@
         "MoWeEd Track": "Lift",
         "MoWeEd Artists": [
             "Honey Dijon"
-        ]
+        ],
+        "Result Track Name": "Lift",
+        "Result Artist Names": [
+            "Honey Dijon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eYKXv88pdft8hkkVFSTHa",
+        "Result Album Name": "The Best Of Both Worlds"
     },
     {
         "MoWeEd Track": "Burn [Black Water Remix]",
         "MoWeEd Artists": [
             "Honey Dijon",
             "Tim K. et. al."
-        ]
+        ],
+        "Result Track Name": "Burn (feat. Jason Walker) - Black Water Remix",
+        "Result Artist Names": [
+            "Honey Dijon",
+            "Tim K",
+            "Jason Walker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wD82zUmhRRCWwvsQxGRSv",
+        "Result Album Name": "The Best Of Both Worlds"
     },
     {
         "Title": "Speeding Teenage Driver In Canada Blames Hot Wings",
@@ -89,7 +148,15 @@
         "MoWeEd Track": "Deep Blue",
         "MoWeEd Artists": [
             "Bowery Electric"
-        ]
+        ],
+        "Result Track Name": "Deep Blue",
+        "Result Artist Names": [
+            "Bowery Electric"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gwpGe0ZvxFbjbbYx4aVWs",
+        "Result Album Name": "Lushlife"
     },
     {
         "Title": "Alone Together: Robyn's 'Dancing On My Own' Opens The Corners Of Community",
@@ -101,13 +168,29 @@
         "MoWeEd Track": "Dancing On My Own",
         "MoWeEd Artists": [
             "Robyn"
-        ]
+        ],
+        "Result Track Name": "Dancing On My Own - Radio Edit",
+        "Result Artist Names": [
+            "Robyn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7g13jf3zqlP5S68Voo5v9m",
+        "Result Album Name": "Body Talk"
     },
     {
         "MoWeEd Track": "Call Your Girlfriend",
         "MoWeEd Artists": [
             "Robyn"
-        ]
+        ],
+        "Result Track Name": "Call Your Girlfriend",
+        "Result Artist Names": [
+            "Robyn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sCoROOlNQyFpRQEe6A5lv",
+        "Result Album Name": "Body Talk"
     },
     {
         "Title": "Hong Kong Streets Filled With Protesters Against China Extradition Bill",
@@ -125,13 +208,26 @@
         "MoWeEd Track": "Lo-Bean",
         "MoWeEd Artists": [
             "Red Snapper"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "Thomas the Fib",
         "MoWeEd Artists": [
             "Red Snapper"
-        ]
+        ],
+        "Result Track Name": "Thomas The Fib",
+        "Result Artist Names": [
+            "Red Snapper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7aWDd1MdZrgOb0W2DyAKq9",
+        "Result Album Name": "Prince Blimey"
     },
     {
         "Title": "Can You Reshape Your Brain's Response To Pain?",
@@ -143,13 +239,29 @@
         "MoWeEd Track": "Airplaneshadows",
         "MoWeEd Artists": [
             "Kiln"
-        ]
+        ],
+        "Result Track Name": "Airplaneshadows",
+        "Result Artist Names": [
+            "Kiln"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Wulhog7JIxb1xFR1wWAD5",
+        "Result Album Name": "Dusker"
     },
     {
         "MoWeEd Track": "Fyrepond",
         "MoWeEd Artists": [
             "Kiln"
-        ]
+        ],
+        "Result Track Name": "Fyrepond",
+        "Result Artist Names": [
+            "Kiln"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:744jq5D9NgHDBbCWHL7LCv",
+        "Result Album Name": "Dusker"
     },
     {
         "Title": "Tariff Battle With Mexico Ends, But What About Trade War With China?",
@@ -167,13 +279,29 @@
         "MoWeEd Track": "India",
         "MoWeEd Artists": [
             "Roxy Music"
-        ]
+        ],
+        "Result Track Name": "India",
+        "Result Artist Names": [
+            "Roxy Music"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2mFQ1UwlVpbzHSDv0qnioP",
+        "Result Album Name": "Avalon"
     },
     {
         "MoWeEd Track": "Take A Chance With Me",
         "MoWeEd Artists": [
             "Roxy Music"
-        ]
+        ],
+        "Result Track Name": "Take A Chance With Me",
+        "Result Artist Names": [
+            "Roxy Music"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1i7udkWd7YzALjdYQnzqvM",
+        "Result Album Name": "Avalon"
     },
     {
         "Title": "Pizza Place In California Wants Patrons To Put Away Their Cellphones",
@@ -191,19 +319,45 @@
         "MoWeEd Track": "Rethink",
         "MoWeEd Artists": [
             "Tane"
-        ]
+        ],
+        "Result Track Name": "Rethink",
+        "Result Artist Names": [
+            "Tane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wxW0Iv3dmVVLwyR6FTw2t",
+        "Result Album Name": "Movin' In"
     },
     {
         "MoWeEd Track": "Down",
         "MoWeEd Artists": [
             "Tane"
-        ]
+        ],
+        "Result Track Name": "Down",
+        "Result Artist Names": [
+            "Tane",
+            "Phøn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6syEtqQweJopDGDbWpvRId",
+        "Result Album Name": "Movin' In"
     },
     {
         "MoWeEd Track": "Sides",
         "MoWeEd Artists": [
             "Perfume Genius"
-        ]
+        ],
+        "Result Track Name": "Sides",
+        "Result Artist Names": [
+            "Perfume Genius",
+            "Weyes Blood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZNJRZiN2qUQmyQVcaxvUI",
+        "Result Album Name": "No Shape"
     },
     {
         "Title": "Watergate's John Dean To Testify Before House Inquiry ",
