@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2020-08-21",
         "Day": "Fri",
-        "Scanned Date": "2021-06-22 15:18:30"
+        "Scanned Date": "2021-06-22 15:18:30",
+        "Playlist URI": "7GEukjLeZYyIHCfd2Brwl4",
+        "Playlist Link": "https://open.spotify.com/playlist/7GEukjLeZYyIHCfd2Brwl4",
+        "Snapshot ID": "MSxmNWRiNWQwZmJlMzZhOWZmYzA4Yzg4ODNmYjUxNTI3MDIxYWJjNWJj",
+        "Playlist Name": "MoWeEd 2020-08-21 Fri Morning Edition"
     },
     {
         "Title": "News Brief: DNC Ends, Postmaster General To Testify, Navalny In Grave Condition",
@@ -16,13 +20,31 @@
         "MoWeEd Track": "2am Samba",
         "MoWeEd Artists": [
             "Mecca:83"
-        ]
+        ],
+        "Result Track Name": "2am Samba",
+        "Result Artist Names": [
+            "Mecca:83"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LgGxwDNMtbr5qKcOIn0A5",
+        "Result Album Name": "Loosies, Vol. 2"
     },
     {
         "MoWeEd Track": "Inbetween Times",
         "MoWeEd Artists": [
             "Mecca:83 feat. Octavio Santos and J Vibes"
-        ]
+        ],
+        "Result Track Name": "Inbetween Times",
+        "Result Artist Names": [
+            "Mecca:83",
+            "Octavio Santos",
+            "J Vibes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9230769230769231,
+        "Result Track URI": "spotify:track:4VWP29lSJbIrQBIfhh8S1M",
+        "Result Album Name": "Loosies, Vol. 2"
     },
     {
         "Title": "Roem Makes Groundbreaking Appearance At Democratic National Convention",
@@ -40,19 +62,43 @@
         "MoWeEd Track": "Flóð",
         "MoWeEd Artists": [
             "For A Minor Reflection"
-        ]
+        ],
+        "Result Track Name": "Flóð",
+        "Result Artist Names": [
+            "For a Minor Reflection"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HlZwC3jrX63Rs6nHNfFqE",
+        "Result Album Name": "Höldum Í Átt Að Óreiðu"
     },
     {
         "MoWeEd Track": "Andlega Veðurtepptir",
         "MoWeEd Artists": [
             "For A Minor Reflection"
-        ]
+        ],
+        "Result Track Name": "Andlega Veðurtepptir",
+        "Result Artist Names": [
+            "For a Minor Reflection"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fM2EfYLrZVDzKon0QjiNO",
+        "Result Album Name": "Höldum Í Átt Að Óreiðu"
     },
     {
         "MoWeEd Track": "Wasp Nest",
         "MoWeEd Artists": [
             "The National"
-        ]
+        ],
+        "Result Track Name": "Wasp Nest",
+        "Result Artist Names": [
+            "The National"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gOpXrNN8jtZL0I3REk8G8",
+        "Result Album Name": "Cherry Tree"
     },
     {
         "Title": "Single Mom On Navajo Nation Describes How Her Worries Will Shape Her Vote",
@@ -64,13 +110,29 @@
         "MoWeEd Track": "Hakea",
         "MoWeEd Artists": [
             "Thrupence"
-        ]
+        ],
+        "Result Track Name": "Hakea",
+        "Result Artist Names": [
+            "Thrupence"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oiwm0xIfVRKookXoFlc4b",
+        "Result Album Name": "Piano Works"
     },
     {
         "MoWeEd Track": "Wait",
         "MoWeEd Artists": [
             "Thrupence"
-        ]
+        ],
+        "Result Track Name": "Wait",
+        "Result Artist Names": [
+            "Thrupence"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Mu4bYApUa7T0eBblFbFA2",
+        "Result Album Name": "Ideas of Aesthetics"
     },
     {
         "Title": "German University Offering Scholarships For Doing Nothing",
@@ -88,13 +150,29 @@
         "MoWeEd Track": "My Friend Coma",
         "MoWeEd Artists": [
             "Rocket Miner"
-        ]
+        ],
+        "Result Track Name": "My Friend Coma",
+        "Result Artist Names": [
+            "Rocket Miner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UB4vYvECsn6momlcIUnDl",
+        "Result Album Name": "The Long Goodbye"
     },
     {
         "MoWeEd Track": "Somewhere Between Nightmares and Dreams",
         "MoWeEd Artists": [
             "Rocket Miner"
-        ]
+        ],
+        "Result Track Name": "Somewhere Between Nightmares and Dreams",
+        "Result Artist Names": [
+            "Rocket Miner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WE6hp4B34fZrRewWlOjr5",
+        "Result Album Name": "The Long Goodbye"
     },
     {
         "Title": "The Mavericks Are Back, This Time 'En Español'",
@@ -106,14 +184,30 @@
         "MoWeEd Track": "La Sitiera",
         "MoWeEd Artists": [
             "The Mavericks"
-        ]
+        ],
+        "Result Track Name": "La Sitiera",
+        "Result Artist Names": [
+            "The Mavericks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EhjP1tvklvKOkZY5k4y6J",
+        "Result Album Name": "En Español"
     },
     {
         "MoWeEd Track": "The Alchemist Manifesto",
         "MoWeEd Artists": [
             "Ocote Soul Sounds",
             "Adrian Quesada"
-        ]
+        ],
+        "Result Track Name": "The Alchemist Manifesto",
+        "Result Artist Names": [
+            "Ocote Soul Sounds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:1X0WzKerDqtMw0AsR0UvnH",
+        "Result Album Name": "The Alchemist Manifesto"
     },
     {
         "Title": "Voters React After The Last Night Of The Democratic National Convention",
@@ -131,7 +225,15 @@
         "MoWeEd Track": "Kamaloka",
         "MoWeEd Artists": [
             "GoGo Penguin"
-        ]
+        ],
+        "Result Track Name": "Kamaloka",
+        "Result Artist Names": [
+            "GoGo Penguin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zX5TgLtHZRhfkAigwZT2b",
+        "Result Album Name": "v2.0"
     },
     {
         "Title": "Philadelphia Residents Worried About Postal Delays As Election Draws Near",
@@ -149,19 +251,43 @@
         "MoWeEd Track": "That Kid in Fourth Grade Who Really Liked the Denver Broncos",
         "MoWeEd Artists": [
             "Chris Zabriskie"
-        ]
+        ],
+        "Result Track Name": "That Kid in Fourth Grade Who Really Liked the Denver Broncos",
+        "Result Artist Names": [
+            "Chris Zabriskie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WMN9O3A5fYqP84fWnDrxl",
+        "Result Album Name": "Undercover Vampire Policeman"
     },
     {
         "MoWeEd Track": "NirvanaVEVO",
         "MoWeEd Artists": [
             "Chris Zabriskie"
-        ]
+        ],
+        "Result Track Name": "NirvanaVEVO",
+        "Result Artist Names": [
+            "Chris Zabriskie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55j54I3rOCFNpnfTQNAMbr",
+        "Result Album Name": "Undercover Vampire Policeman"
     },
     {
         "MoWeEd Track": "Brothers On A Hotel Bed",
         "MoWeEd Artists": [
             "Death Cab for Cutie"
-        ]
+        ],
+        "Result Track Name": "Brothers on a Hotel Bed",
+        "Result Artist Names": [
+            "Death Cab for Cutie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MASSWjF0hSSj6nj9OftoR",
+        "Result Album Name": "Plans"
     },
     {
         "Title": "Opposition Leader Alexei Navalny To Remain In Russia After Suspected Poisoning",
@@ -179,13 +305,29 @@
         "MoWeEd Track": "Reflexion",
         "MoWeEd Artists": [
             "Mouse on the Keys"
-        ]
+        ],
+        "Result Track Name": "reflexion",
+        "Result Artist Names": [
+            "mouse on the keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wBhkwkUafBmdyftus0ssh",
+        "Result Album Name": "The Flowers Of Romance"
     },
     {
         "MoWeEd Track": "The Lonely Crowd",
         "MoWeEd Artists": [
             "Mouse on the Keys"
-        ]
+        ],
+        "Result Track Name": "the lonely crowd",
+        "Result Artist Names": [
+            "mouse on the keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AMK5EiKbAdqLEmBZwUpWx",
+        "Result Album Name": "The Flowers Of Romance"
     },
     {
         "Title": "South Dakota Community Saves Beloved Curbside Cornstalk",
@@ -203,19 +345,43 @@
         "MoWeEd Track": "Surfer's Paradise",
         "MoWeEd Artists": [
             "Handbook"
-        ]
+        ],
+        "Result Track Name": "Surfer's Paradise",
+        "Result Artist Names": [
+            "Handbook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NbJWKEQo1xsLCQ3IZZpML",
+        "Result Album Name": "Oz"
     },
     {
         "MoWeEd Track": "Dandenong",
         "MoWeEd Artists": [
             "Handbook"
-        ]
+        ],
+        "Result Track Name": "Dandenong",
+        "Result Artist Names": [
+            "Handbook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4kkN3JWP06QUcS9lLfTgCq",
+        "Result Album Name": "Oz"
     },
     {
         "MoWeEd Track": "Friday I'm In Love (Focus Mix)",
         "MoWeEd Artists": [
             "ST*RMAN"
-        ]
+        ],
+        "Result Track Name": "Friday I'm In Love - Focus Mix",
+        "Result Artist Names": [
+            "ST*RMAN"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05iIUkTBXKLHWQtd7X4AgM",
+        "Result Album Name": "Friday I'm In Love"
     },
     {
         "Title": "Who Is Louis DeJoy? U.S. Postmaster General In Spotlight Ahead Of 2020 Election",

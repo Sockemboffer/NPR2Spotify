@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2020-03-20",
         "Day": "Fri",
-        "Scanned Date": "2021-06-22 15:32:50"
+        "Scanned Date": "2021-06-22 15:32:50",
+        "Playlist URI": "1bOVdtxEi7m3t8mfRSEZLi",
+        "Playlist Link": "https://open.spotify.com/playlist/1bOVdtxEi7m3t8mfRSEZLi",
+        "Snapshot ID": "MSxkMWZiZjE3MmFiNjA3YTQyOWRkNmMzZmZlNTViZThiMmQ2ZTkyMGNj",
+        "Playlist Name": "MoWeEd 2020-03-20 Fri Morning Edition"
     },
     {
         "Title": "News Brief: California Order, ProPublica Probe, Italy Pandemic Deaths",
@@ -16,13 +20,31 @@
         "MoWeEd Track": "2am Samba",
         "MoWeEd Artists": [
             "Mecca:83"
-        ]
+        ],
+        "Result Track Name": "2am Samba",
+        "Result Artist Names": [
+            "Mecca:83"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LgGxwDNMtbr5qKcOIn0A5",
+        "Result Album Name": "Loosies, Vol. 2"
     },
     {
         "MoWeEd Track": "Inbetween Times",
         "MoWeEd Artists": [
             "Mecca:83 feat. Octavio Santos and J Vibes"
-        ]
+        ],
+        "Result Track Name": "Inbetween Times",
+        "Result Artist Names": [
+            "Mecca:83",
+            "Octavio Santos",
+            "J Vibes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9230769230769231,
+        "Result Track URI": "spotify:track:4VWP29lSJbIrQBIfhh8S1M",
+        "Result Album Name": "Loosies, Vol. 2"
     },
     {
         "Title": "Kansas Cancels In-Person Classes For The Rest Of The School Year",
@@ -41,20 +63,48 @@
         "MoWeEd Artists": [
             "goosetaf",
             "Kyle McEvoy feat. Blue Wednesday"
-        ]
+        ],
+        "Result Track Name": "Maple",
+        "Result Artist Names": [
+            "goosetaf",
+            "Kyle McEvoy",
+            "Blue Wednesday"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9090909090909091,
+        "Result Track URI": "spotify:track:5wmwm1eb0DzZ0JkeNUGqrk",
+        "Result Album Name": "Momentum"
     },
     {
         "MoWeEd Track": "Mongo",
         "MoWeEd Artists": [
             "goosetaf",
             "Kyle McEvoy feat. azula"
-        ]
+        ],
+        "Result Track Name": "Mongo",
+        "Result Artist Names": [
+            "goosetaf",
+            "Kyle McEvoy",
+            "azula"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8888888888888888,
+        "Result Track URI": "spotify:track:11GEgjJccq1S0ON926k5x4",
+        "Result Album Name": "Mongo"
     },
     {
         "MoWeEd Track": "Acid Raindrops (Instrumental)",
         "MoWeEd Artists": [
             "People Under The Stairs"
-        ]
+        ],
+        "Result Track Name": "Acid Raindrops - Instrumental",
+        "Result Artist Names": [
+            "People Under The Stairs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:13VTI8Azbyt0HW8XEMZIKY",
+        "Result Album Name": "Acid Raindrops"
     },
     {
         "Title": "Doctors Experiment With Existing Medicines To Find COVID-19 Cure",
@@ -72,13 +122,29 @@
         "MoWeEd Track": "Sunrise Intro",
         "MoWeEd Artists": [
             "Astronautica"
-        ]
+        ],
+        "Result Track Name": "Sunrise Intro",
+        "Result Artist Names": [
+            "Astronautica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24MUCPRLfjko9adQJbOU0r",
+        "Result Album Name": "Death Valley"
     },
     {
         "MoWeEd Track": "Racetracks",
         "MoWeEd Artists": [
             "Astronautica"
-        ]
+        ],
+        "Result Track Name": "Racetracks",
+        "Result Artist Names": [
+            "Astronautica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0n4Z5roWDa6LFAekO02UE8",
+        "Result Album Name": "Death Valley"
     },
     {
         "Title": "Instagram Monologue Leads To An Unlikely Anthem For Uncertain Times",
@@ -96,13 +162,29 @@
         "MoWeEd Track": "Love Above",
         "MoWeEd Artists": [
             "Mokhov"
-        ]
+        ],
+        "Result Track Name": "Love Above",
+        "Result Artist Names": [
+            "Mokhov"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5YwcJHLO81EvNNn0Yl1D8N",
+        "Result Album Name": "Euphoric Magic"
     },
     {
         "MoWeEd Track": "Emotion Motion",
         "MoWeEd Artists": [
             "Mokhov"
-        ]
+        ],
+        "Result Track Name": "Emotion Motion",
+        "Result Artist Names": [
+            "Mokhov"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Ivq5mG4ViYDJqTukBehuO",
+        "Result Album Name": "Euphoric Magic"
     },
     {
         "Title": "With College Sports Shut Down, NCAA Hopes To Give Senior Athletes A 2nd Chance",
@@ -120,13 +202,29 @@
         "MoWeEd Track": "Post-Cards",
         "MoWeEd Artists": [
             "New Century Classics"
-        ]
+        ],
+        "Result Track Name": "Post-Cards",
+        "Result Artist Names": [
+            "New Century Classics"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ND9c9SSQPdZXttieT2sC4",
+        "Result Album Name": "Natural Process"
     },
     {
         "MoWeEd Track": "Buddha Pilot",
         "MoWeEd Artists": [
             "New Century Classics"
-        ]
+        ],
+        "Result Track Name": "Buddha Pilot",
+        "Result Artist Names": [
+            "New Century Classics"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2D1L9jcds7YjiklozBRKIM",
+        "Result Album Name": "Natural Process"
     },
     {
         "Title": "ProPublica: Sen. Burr Dumped Stock After Calming Public About Coronavirus",
@@ -144,13 +242,29 @@
         "MoWeEd Track": "Mandarin",
         "MoWeEd Artists": [
             "Mooncake"
-        ]
+        ],
+        "Result Track Name": "Mandarin",
+        "Result Artist Names": [
+            "Mooncake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Y0bJdxesaGluue13R9gjt",
+        "Result Album Name": "Lagrange Points"
     },
     {
         "MoWeEd Track": "Rain in the Ashtray",
         "MoWeEd Artists": [
             "Mooncake"
-        ]
+        ],
+        "Result Track Name": "Rain in the Ashtray",
+        "Result Artist Names": [
+            "Mooncake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PhKCbw5e0WtquF6fZdkoV",
+        "Result Album Name": "Lagrange Points"
     },
     {
         "Title": "Head Of National Guard Says Tens Of Thousands Could Be Called Up",
@@ -168,19 +282,43 @@
         "MoWeEd Track": "Step In Step Out",
         "MoWeEd Artists": [
             "Blue Dot Sessions"
-        ]
+        ],
+        "Result Track Name": "Step in Step Out",
+        "Result Artist Names": [
+            "Blue Dot Sessions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0AGA5t3eaXdijUnvOs3NHn",
+        "Result Album Name": "Crab Shack"
     },
     {
         "MoWeEd Track": "Dropped Ticket",
         "MoWeEd Artists": [
             "Blue Dot Sessions"
-        ]
+        ],
+        "Result Track Name": "Dropped Ticket",
+        "Result Artist Names": [
+            "Blue Dot Sessions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Mbhs9WYbNsifrlUWeKmnY",
+        "Result Album Name": "Crab Shack"
     },
     {
         "MoWeEd Track": "A Go Go",
         "MoWeEd Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "A Go Go",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bcyZfaAWCN5SwJgYToxkN",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Johnson, Directed Homeland's Ebola Response, Discusses COVID-19 Strategy",
@@ -199,14 +337,32 @@
         "MoWeEd Artists": [
             "Kupla",
             "Philanthrope"
-        ]
+        ],
+        "Result Track Name": "Nautical",
+        "Result Artist Names": [
+            "Kupla",
+            "Philanthrope"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YHHXbj91wgP4zUh1N2RFe",
+        "Result Album Name": "Allure"
     },
     {
         "MoWeEd Track": "Chimney",
         "MoWeEd Artists": [
             "Kupla",
             "Philanthrope"
-        ]
+        ],
+        "Result Track Name": "Chimney",
+        "Result Artist Names": [
+            "Kupla",
+            "Philanthrope"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RWNazEAfaJ4wXRITn4ukL",
+        "Result Album Name": "Allure"
     },
     {
         "Title": "Police In Pembroke Pines, Fla., Finally Apprehend Missing Cow",
@@ -227,7 +383,17 @@
             "Omaure",
             "Flitz",
             "Suppe"
-        ]
+        ],
+        "Result Track Name": "Ay - Instrumental",
+        "Result Artist Names": [
+            "Philanthrope",
+            "Omaure",
+            "Flitz&Suppe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Wkq7fV7WoGpGybARq6QJ7",
+        "Result Album Name": "Todai moto kurashi"
     },
     {
         "MoWeEd Track": "Arthur (Instrumental)",
@@ -236,13 +402,31 @@
             "Omaure",
             "Flitz",
             "Suppe"
-        ]
+        ],
+        "Result Track Name": "Arthur - Instrumental",
+        "Result Artist Names": [
+            "Philanthrope",
+            "Omaure",
+            "Flitz&Suppe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PwEo6EaEnQ3vs72cTTRQ3",
+        "Result Album Name": "Todai moto kurashi"
     },
     {
         "MoWeEd Track": "Friday I'm in Love",
         "MoWeEd Artists": [
             "The Imaginary Trio"
-        ]
+        ],
+        "Result Track Name": "Friday I'm in Love",
+        "Result Artist Names": [
+            "The Imaginary Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10tvQ3CbIjqX9NzHVNXJOw",
+        "Result Album Name": "The Imaginary Trio Plays the Cure"
     },
     {
         "Title": "Gov. Gavin Newsom Orders Californians To Stay At Home",

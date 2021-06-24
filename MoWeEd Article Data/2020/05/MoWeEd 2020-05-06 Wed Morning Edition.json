@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2020-05-06",
         "Day": "Wed",
-        "Scanned Date": "2021-06-22 15:25:42"
+        "Scanned Date": "2021-06-22 15:25:42",
+        "Playlist URI": "2MzJuJAVFzBlmDkPEaIY65",
+        "Playlist Link": "https://open.spotify.com/playlist/2MzJuJAVFzBlmDkPEaIY65",
+        "Snapshot ID": "MSwxYzNkMzM5MzIyMGNlZDdiODg1M2I4NjI4YTZhOTM2ZDRlYjZlYjdj",
+        "Playlist Name": "MoWeEd 2020-05-06 Wed Morning Edition"
     },
     {
         "Title": "News Brief: Task Force Transition, Liability Lawsuit Debate, Stimulus Checks ",
@@ -16,13 +20,30 @@
         "MoWeEd Track": "River",
         "MoWeEd Artists": [
             "Freddie Joachim"
-        ]
+        ],
+        "Result Track Name": "River",
+        "Result Artist Names": [
+            "Freddie Joachim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Fr5Zirir4ZgEKjaNfZyuM",
+        "Result Album Name": "Beyond the Sea of Trees"
     },
     {
         "MoWeEd Track": "Beyond the Sea of Trees",
         "MoWeEd Artists": [
             "Freddie Joachim feat. FloFilz"
-        ]
+        ],
+        "Result Track Name": "Beyond the Sea of Trees",
+        "Result Artist Names": [
+            "Freddie Joachim",
+            "FloFilz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:4Wy8pp6Jql4y4M1T7SaCuv",
+        "Result Album Name": "Beyond the Sea of Trees"
     },
     {
         "Title": "As COVID-19 Restrictions Ease, Restaurants Rethink Their Business Model",
@@ -40,19 +61,44 @@
         "MoWeEd Track": "When You Wish Upon a Star",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "When You Wish Upon a Star - Mono Version",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nVtVkk3HDfT4lN2qkt8id",
+        "Result Album Name": "Dave Digs Disney (Legacy Edition)"
     },
     {
         "MoWeEd Track": "Someday My Prince Will Come",
         "MoWeEd Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Someday My Prince Will Come - Stereo Version",
+        "Result Artist Names": [
+            "Dave Brubeck",
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7utGdMIU7Wwnu8f1kY7bmx",
+        "Result Album Name": "Dave Digs Disney (Legacy Edition)"
     },
     {
         "MoWeEd Track": "Remembering",
         "MoWeEd Artists": [
             "Avishai Cohen"
-        ]
+        ],
+        "Result Track Name": "Remembering",
+        "Result Artist Names": [
+            "Avishai Cohen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1J24vNYCuLaJ3qm0SioL8A",
+        "Result Album Name": "At Home"
     },
     {
         "Title": "U.K. Surpasses Italy To Lead Europe In Recorded Coronavirus Deaths",
@@ -70,13 +116,29 @@
         "MoWeEd Track": "Disconnection Notice",
         "MoWeEd Artists": [
             "Sonic Youth"
-        ]
+        ],
+        "Result Track Name": "Disconnection Notice",
+        "Result Artist Names": [
+            "Sonic Youth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04pdroSBYn8G41Z6RlweJb",
+        "Result Album Name": "Murray St."
     },
     {
         "MoWeEd Track": "Rain on Tin",
         "MoWeEd Artists": [
             "Sonic Youth"
-        ]
+        ],
+        "Result Track Name": "Rain On Tin",
+        "Result Artist Names": [
+            "Sonic Youth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XG4LalV67aatvPyLv41sl",
+        "Result Album Name": "Murray St."
     },
     {
         "Title": "Mask Fashion Week Is Underway In Lithuanian Capital Vilnius",
@@ -94,13 +156,29 @@
         "MoWeEd Track": "Lit From Underneath",
         "MoWeEd Artists": [
             "Andrew Bird"
-        ]
+        ],
+        "Result Track Name": "Lit from Underneath",
+        "Result Artist Names": [
+            "Andrew Bird"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69Rf00gat6GCwJjfI0OhHW",
+        "Result Album Name": "I Want to See Pulaski at Night"
     },
     {
         "MoWeEd Track": "Ethio Invention No. 1",
         "MoWeEd Artists": [
             "Andrew Bird"
-        ]
+        ],
+        "Result Track Name": "Ethio Invention no. 1",
+        "Result Artist Names": [
+            "Andrew Bird"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Cg5DjQZAObfBYQRuVzFGi",
+        "Result Album Name": "I Want to See Pulaski at Night"
     },
     {
         "Title": "Georgia Suspends In-Person Driving Tests During Pandemic",
@@ -118,13 +196,29 @@
         "MoWeEd Track": "Because I Hear You",
         "MoWeEd Artists": [
             "toe"
-        ]
+        ],
+        "Result Track Name": "Because I Hear You",
+        "Result Artist Names": [
+            "toe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ERni7bSpmqnePVcqtJfop",
+        "Result Album Name": "Hear You"
     },
     {
         "MoWeEd Track": "A Desert of Human",
         "MoWeEd Artists": [
             "toe"
-        ]
+        ],
+        "Result Track Name": "A Desert of Human",
+        "Result Artist Names": [
+            "toe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pSpiZ3Cm3N9OynsjCQZb7",
+        "Result Album Name": "Hear You"
     },
     {
         "Title": "COVID-19 Task Force To End Soon, Scientist Files Whistleblower Complaint",
@@ -148,13 +242,29 @@
         "MoWeEd Track": "Clouds",
         "MoWeEd Artists": [
             "IHF"
-        ]
+        ],
+        "Result Track Name": "Clouds",
+        "Result Artist Names": [
+            "IHF"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74afSXinmO8d7hyopaoAbi",
+        "Result Album Name": "Floating EP"
     },
     {
         "MoWeEd Track": "Autumn Leaves",
         "MoWeEd Artists": [
             "IHF"
-        ]
+        ],
+        "Result Track Name": "Autumn Leaves",
+        "Result Artist Names": [
+            "IHF"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GB5vPGpaZeTapeNaR0Vam",
+        "Result Album Name": "Floating EP"
     },
     {
         "Title": "COVID-19 Fears May Be Causing People To Ignore Medical Emergencies",
@@ -166,19 +276,43 @@
         "MoWeEd Track": "Vainglory",
         "MoWeEd Artists": [
             "Helios"
-        ]
+        ],
+        "Result Track Name": "Vainglory",
+        "Result Artist Names": [
+            "Helios"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31njGVvv18brxIqBzhCERc",
+        "Result Album Name": "Remembrance"
     },
     {
         "MoWeEd Track": "Isostacy",
         "MoWeEd Artists": [
             "Helios"
-        ]
+        ],
+        "Result Track Name": "Isostacy",
+        "Result Artist Names": [
+            "Helios"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zwtd6jCS3T4ol5cjVnwNu",
+        "Result Album Name": "Remembrance"
     },
     {
         "MoWeEd Track": "Airlanes",
         "MoWeEd Artists": [
             "Run_Return"
-        ]
+        ],
+        "Result Track Name": "Airlanes",
+        "Result Artist Names": [
+            "Run_Return"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:372SSOr0MfT9FakwIKYcpV",
+        "Result Album Name": "Sum of an Abstract"
     },
     {
         "Title": "Businesses Liability: When Is It Safe For People To Go Back To Work?",
@@ -196,13 +330,29 @@
         "MoWeEd Track": "What's Cooking in the Kitchen",
         "MoWeEd Artists": [
             "The Irish Rovers"
-        ]
+        ],
+        "Result Track Name": "What's Cooking in the Kitchen",
+        "Result Artist Names": [
+            "The Irish Rovers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hhpfKPkM1X8RYjJuNuSS6",
+        "Result Album Name": "Songs for the Wee Folk"
     },
     {
         "MoWeEd Track": "Sometimes It's Not So Bad",
         "MoWeEd Artists": [
             "Goonies Never Say Die"
-        ]
+        ],
+        "Result Track Name": "Sometimes It's Not So Bad",
+        "Result Artist Names": [
+            "Goonies Never Say Die"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0q9oqh8HD6tCczsfOSVZCx",
+        "Result Album Name": "In A Forest Without Trees"
     },
     {
         "Title": "Organizers Cancel 40th Annual Ernest Hemingway Look-Alike Contest ",
@@ -220,20 +370,44 @@
         "MoWeEd Track": "A God Like You",
         "MoWeEd Artists": [
             "Kirk Franklin"
-        ]
+        ],
+        "Result Track Name": "A God Like You",
+        "Result Artist Names": [
+            "Kirk Franklin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Gfp6euoNJPw5AvSpGZSRZ",
+        "Result Album Name": "Hello Fear"
     },
     {
         "MoWeEd Track": "The Daybreak",
         "MoWeEd Artists": [
             "Flitz",
             "Suppe"
-        ]
+        ],
+        "Result Track Name": "The Daybreak",
+        "Result Artist Names": [
+            "Flitz&Suppe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2luQkvXEE9iHce5i9Sl36h",
+        "Result Album Name": "Ijin"
     },
     {
         "MoWeEd Track": "The Line",
         "MoWeEd Artists": [
             "Ahmad Jamal"
-        ]
+        ],
+        "Result Track Name": "The Line",
+        "Result Artist Names": [
+            "Ahmad Jamal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GC3TeWjLc33lvHgSSrfGP",
+        "Result Album Name": "Saturday Morning"
     },
     {
         "Title": "Former CDC Official Warns Of 2nd COVID-19 Wave: Most Americans Are Still Susceptible",
