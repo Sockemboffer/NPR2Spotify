@@ -5,7 +5,6 @@ import time
 import requests
 import datetime
 from parsel import Selector
-from NPRPlaylistCreator import NPRPlaylistCreator
 
 class NPRPageParser:
     def __init__(self):

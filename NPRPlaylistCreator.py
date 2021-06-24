@@ -1,3 +1,4 @@
+from NPRPageParser import NPRPageParser
 import json
 import base64
 import time
@@ -131,3 +132,30 @@ class NPRPlaylistCreator:
             with open("MoWeEd Logos/npr_we_sun.jpg", "rb") as im:
                 encoded_string = base64.b64encode(im.read())
                 return encoded_string
+    
+    @on_exception(expo, RateLimitException, max_tries=8)
+    @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
+    def ChangePlaylistToPublic(self, startDate, endDate, timeDelta):
+        projectName = "MoWeEd"
+        while startDate != endDate:
+            projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+            morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
+            weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
+            fileType = ".json"
+            # Load article data from disk
+            if startDate.weekday() <= 4:
+                editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
+            else:
+                editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
+            if editionDay == None:
+                startDate = startDate + timeDelta(days=+1)
+                continue
+            else:
+                editionPlaylistURI = editionDay[0]["Playlist URI"]
+                query = "https://api.spotify.com/v1/playlists/{}".format(editionPlaylistURI)
+                payload = {"public": True}
+                response = self.requestSession.put(query, json.dumps(payload), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+                if response.status_code not in [200, 201, 202]:
+                    raise Exception('API response: {}'.format(response.status_code))
+                print("-- Day {0} at {1} now public.\n".format(startDate, editionDay[0]["Playlist Link"]))
+                startDate = startDate + timeDelta(days=+1)
