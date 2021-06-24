@@ -4,7 +4,11 @@
         "Edition": "Morning Edition",
         "Date Numbered": "2021-02-05",
         "Day": "Fri",
-        "Scanned Date": "2021-06-23 21:23:18"
+        "Scanned Date": "2021-06-23 21:23:18",
+        "Playlist URI": "5a96MSW7ZFdSDlGpXAq7po",
+        "Playlist Link": "https://open.spotify.com/playlist/5a96MSW7ZFdSDlGpXAq7po",
+        "Snapshot ID": "MSxiZjdkMTMyN2M4OGQwZjRjZTk5ODdmOGQxMTYwMzc1NzU1Y2UzNDMx",
+        "Playlist Name": "MoWeEd 2021-02-05 Fri Morning Edition"
     },
     {
         "Title": "News Brief: War In Yemen, COVID-19 Numbers, Fox News Lawsuit",
@@ -16,13 +20,30 @@
         "MoWeEd Track": "Relief",
         "MoWeEd Artists": [
             "Philanthrope"
-        ]
+        ],
+        "Result Track Name": "Relief",
+        "Result Artist Names": [
+            "Philanthrope"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xZraw5CLpfkaLM16poKv4",
+        "Result Album Name": "Waking Dreams"
     },
     {
         "MoWeEd Track": "Deserted",
         "MoWeEd Artists": [
             "Philanthrope feat. Mono:Massive"
-        ]
+        ],
+        "Result Track Name": "Deserted",
+        "Result Artist Names": [
+            "Philanthrope",
+            "Mono:Massive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:2gIPuTZKKHfly8yfwmLdHB",
+        "Result Album Name": "Waking Dreams"
     },
     {
         "Title": "Journalist In Myanmar Recounts Ongoing Military Coup",
@@ -40,19 +61,43 @@
         "MoWeEd Track": "Choros no. 1",
         "MoWeEd Artists": [
             "Alvaro Pierri"
-        ]
+        ],
+        "Result Track Name": "Choros no. 1",
+        "Result Artist Names": [
+            "Alvaro Pierri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZO38ROstKFACEWRkxJhwJ",
+        "Result Album Name": "Villa-Lobos: Chôros No.1, 12 Etudes, 5 Préludes"
     },
     {
         "MoWeEd Track": "Etude no. 1",
         "MoWeEd Artists": [
             "Alvaro Pierri"
-        ]
+        ],
+        "Result Track Name": "Etude no. 1",
+        "Result Artist Names": [
+            "Alvaro Pierri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3WvnXjpfwjPCQjlwg4Y9Rb",
+        "Result Album Name": "Villa-Lobos: Chôros No.1, 12 Etudes, 5 Préludes"
     },
     {
         "MoWeEd Track": "Bayan Ko",
         "MoWeEd Artists": [
             "Florante Aguilar"
-        ]
+        ],
+        "Result Track Name": "Bayan Ko",
+        "Result Artist Names": [
+            "Florante Aguilar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gfxkhxB2KNrkAux07dmkk",
+        "Result Album Name": "Tipanan - A Celebration of the Philippine Guitar"
     },
     {
         "Title": "Across The South, COVID-19 Vaccine Sites Missing From Black And Hispanic Neighborhoods",
@@ -64,7 +109,12 @@
         "MoWeEd Track": "The Birds & Bees",
         "MoWeEd Artists": [
             "Tülpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pets Cause A Stir At New Hampshire Bill Hearings",
@@ -83,13 +133,26 @@
         "MoWeEd Artists": [
             "Wilbur Hatch",
             "Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "MoWeEd Track": "El Toro",
         "MoWeEd Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "El Toro",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bwcWOibIUyOJQ2FgMbeIH",
+        "Result Album Name": "Black Sands"
     },
     {
         "Title": "Dave Grohl Talks Foo Fighters' New Saturday-Night Party Album, 'Medicine At Midnight'",
@@ -101,13 +164,26 @@
         "MoWeEd Track": "Making a Fire",
         "MoWeEd Artists": [
             "Foo Fighters"
-        ]
+        ],
+        "Result Track Name": "Making A Fire",
+        "Result Artist Names": [
+            "Foo Fighters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2u8NmvhYX6wiviyxJTOhEi",
+        "Result Album Name": "Medicine At Midnight"
     },
     {
         "MoWeEd Track": "Best of You",
         "MoWeEd Artists": [
             "FabiWz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Researchers' New Model Predicts Number Of People Currently Contagious With COVID-19",
@@ -131,13 +207,29 @@
         "MoWeEd Track": "Black Sails",
         "MoWeEd Artists": [
             "Mammal Hands"
-        ]
+        ],
+        "Result Track Name": "Black Sails",
+        "Result Artist Names": [
+            "Mammal Hands"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bSjFyslz7l4kOcx85syHA",
+        "Result Album Name": "Shadow Work"
     },
     {
         "MoWeEd Track": "Transfixed",
         "MoWeEd Artists": [
             "Mammal Hands"
-        ]
+        ],
+        "Result Track Name": "Transfixed",
+        "Result Artist Names": [
+            "Mammal Hands"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZxTLqpafc4pKt71ZJJNK8",
+        "Result Album Name": "Shadow Work"
     },
     {
         "Title": "Election Tech Company Sues Fox News, Giuliani And Others For $2.7 Billion",
@@ -155,19 +247,43 @@
         "MoWeEd Track": "Home Home at Last",
         "MoWeEd Artists": [
             "Blue Dot Sessions"
-        ]
+        ],
+        "Result Track Name": "Home Home at Last",
+        "Result Artist Names": [
+            "Blue Dot Sessions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20O617AP5AQYwoV8iZICnm",
+        "Result Album Name": "Warmbody"
     },
     {
         "MoWeEd Track": "The Big Ten",
         "MoWeEd Artists": [
             "Blue Dot Sessions"
-        ]
+        ],
+        "Result Track Name": "The Big Ten",
+        "Result Artist Names": [
+            "Blue Dot Sessions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0fhLDuNxvinnhu7nsuCnA7",
+        "Result Album Name": "Warmbody"
     },
     {
         "MoWeEd Track": "Soothing",
         "MoWeEd Artists": [
             "Laura Marling"
-        ]
+        ],
+        "Result Track Name": "Soothing",
+        "Result Artist Names": [
+            "Laura Marling"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KKBONcn6UBAH3paFgPkfZ",
+        "Result Album Name": "Semper Femina"
     },
     {
         "Title": "Biden Announces U.S. Will Engage Diplomatically To End War In Yemen",
@@ -179,13 +295,29 @@
         "MoWeEd Track": "Gaunt",
         "MoWeEd Artists": [
             "Kiasmos"
-        ]
+        ],
+        "Result Track Name": "Gaunt",
+        "Result Artist Names": [
+            "Kiasmos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54S7IAZlP3fftrIoQfybJw",
+        "Result Album Name": "Swept EP"
     },
     {
         "MoWeEd Track": "Swept",
         "MoWeEd Artists": [
             "Kiasmos"
-        ]
+        ],
+        "Result Track Name": "Swept",
+        "Result Artist Names": [
+            "Kiasmos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:308ht8jmkm9XE1Hh0aotnI",
+        "Result Album Name": "Swept EP"
     },
     {
         "Title": "Divinity, Prince's White Dove, Dead at 28",
@@ -203,19 +335,43 @@
         "MoWeEd Track": "Battleground",
         "MoWeEd Artists": [
             "Sam Spence"
-        ]
+        ],
+        "Result Track Name": "Battleground",
+        "Result Artist Names": [
+            "Sam Spence"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s38zJ4F0LCLBI5sU4LWNX",
+        "Result Album Name": "Music From NFL Films, Vol. 4"
     },
     {
         "MoWeEd Track": "Danger",
         "MoWeEd Artists": [
             "Sam Spence"
-        ]
+        ],
+        "Result Track Name": "Danger",
+        "Result Artist Names": [
+            "Sam Spence"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0JA5BSRTEU60UHnfs5rqMJ",
+        "Result Album Name": "Music From NFL Films, Vol. 6"
     },
     {
         "MoWeEd Track": "Friday I'm in Love",
         "MoWeEd Artists": [
             "Midnite String Quartet"
-        ]
+        ],
+        "Result Track Name": "Friday I'm in Love",
+        "Result Artist Names": [
+            "Midnite String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lN5CcKKRLt7jAzRcRTcEx",
+        "Result Album Name": "MSQ Performs The Cure"
     },
     {
         "Title": "Barbara Comstock On The Future Of The GOP",
