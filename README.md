@@ -28,7 +28,7 @@ Playlists all public now: [NPR MoWeEd](https://open.spotify.com/user/1tnm7cyegqf
 ----------------------------------------------------------------------------------------------------
 
 ## Problem
-Would take a long time (*like, 95ish days non-stop for one person*) to go verify and create playlists for NPR's Morning and Weekend Edition interludes. While this little project took me a year-ish to complete, I was able to learn some more about programming and Python.
+Would take a long time (*like, 95ish days non-stop for one person*) to go verify and create playlists for NPR's Morning and Weekend Edition interludes. While this little project took near 2 years to complete, I was able to learn some more about programming and Python.
 
 One of my first programming projects. I'm new to GitHub and Python.
 
