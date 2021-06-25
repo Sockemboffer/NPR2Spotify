@@ -9,6 +9,8 @@ from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
+# TODO come up with some way to automate this daily
+
 # # Set all playlists to public
 # startDate = datetime(1996, 1, 1)
 # timeDelta = timedelta()
