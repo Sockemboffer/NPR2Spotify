@@ -1,6 +1,8 @@
 # NPR2Spotify
 Generally, this program parses an NPR Show page (I've only tested with Morning and Weekend Edition pages so far) and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
 
+Playlists all public now: [MoWeEd2Spotify](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
+
 **/MoWeEd Article Data/** - Each day's output for each year
 
 **/MoWeEd Article Link Cache/** - Output that feeds day links into Main.py below.
@@ -13,15 +15,13 @@ Generally, this program parses an NPR Show page (I've only tested with Morning a
 
 **Main.py** - Entry point (that's gross looking.)
 
-Spotify account these will go live on: [MoWeEd2Spotify](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
-
 ----------------------------------------------------------------------------------------------------
-
-**TODO:** Playlists are all currently private until I've finished creating them (atm on 2019) or when the Spotify team yells at me for actually using 9k-ish playlists 😅
 
 **TODO:** Create a dependiencies manifest.
 
 **TODO:** Make more pythonic all around.
+
+**TODO:** Automate to run daily.
 
 **TODO:** Figure out how best to track emailed corrections that I recieve.
 
