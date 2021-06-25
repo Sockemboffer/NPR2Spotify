@@ -30,7 +30,7 @@ class NPRPlaylistCreator:
     def CreatePlaylist(self, playlistName):
         # Playlist name limit is 100 char
         time.sleep(1) # maybe a delay soon after the last search track but before we create playlist will help prevent 10054 error??
-        request_body = json.dumps({"name": playlistName, "public": False})
+        request_body = json.dumps({"name": playlistName, "public": True})
         query = "https://api.spotify.com/v1/users/{}/playlists".format(self.secretsSession.spotify_user_id)
         response = self.requestSession.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
         if response.status_code not in [200, 201, 202]:
