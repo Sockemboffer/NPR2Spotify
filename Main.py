@@ -11,14 +11,14 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # TODO come up with some way to automate this daily
 
-# Set all playlists to public
-startDate = datetime(2021, 7, 6)
-timeDelta = timedelta()
-nprPlaylistCreator = NPRPlaylistCreator()
-nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 7, 7), timedelta)
+# # Set all playlists to public
+# startDate = datetime(2021, 7, 7)
+# timeDelta = timedelta()
+# nprPlaylistCreator = NPRPlaylistCreator()
+# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 7, 8), timedelta)
 
 # # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-# startDate = datetime(2021, 7, 3) # check 9 to 3, 28 for missing track playlists
+# startDate = datetime(2021, 7, 7) # check 9 to 3, 28 for missing track playlists
 # projectName = "MoWeEd"
 # weekendEdition = "Weekend Edition"
 # morningEdition = "Morning Edition"
@@ -120,7 +120,7 @@ nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 7, 7), timed
 # for month, daylinks in editionYearLinkCache.items():
 #     for idx, link in enumerate(daylinks):
 #         if int(month) == 7:
-#             if idx >= 2:
+#             if idx >= 6:
 #                 nprSpotifySearch = NPRSpotifySearch()
 #                 nprPlaylistCreator = NPRPlaylistCreator()
 #                 nprPageParser = NPRPageParser()
