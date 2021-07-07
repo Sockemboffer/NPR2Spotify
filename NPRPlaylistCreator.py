@@ -56,6 +56,7 @@ class NPRPlaylistCreator:
             raise Exception('API response: {}'.format(response.status_code))
         print("-- Playlist tracks added.")
 
+    # TODO understand I'm calling replace when I haven't actually created the playlist
     @on_exception(expo, RateLimitException, max_tries=8)
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def ReplaceTracksInPlaylist(self, editionDayData):
