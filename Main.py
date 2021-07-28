@@ -11,103 +11,103 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # TODO come up with some way to automate this daily
 
-# # Set all playlists to public
-# startDate = datetime(2021, 7, 22)
-# timeDelta = timedelta()
-# nprPlaylistCreator = NPRPlaylistCreator()
-# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 7, 27), timedelta)
+# Set all playlists to public
+startDate = datetime(2021, 7, 26)
+timeDelta = timedelta()
+nprPlaylistCreator = NPRPlaylistCreator()
+nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 7, 29), timedelta)
 
-# # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-# startDate = datetime(2021, 7, 22) # check 9 to 3, 28 for missing track playlists
-# projectName = "MoWeEd"
-# weekendEdition = "Weekend Edition"
-# morningEdition = "Morning Edition"
-# nprPlaylistCreator = NPRPlaylistCreator()
-# nprSpotifySearch = NPRSpotifySearch()
-# nprPageParser = NPRPageParser()
-# spotifyTracks = list()
-# startTime = datetime.now()
-# while startDate != datetime(2021, 8, 1):
-#     processedTime = datetime.now()
-#     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
-#     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
-#     weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
-#     fileType = ".json"
-#     # Load article data from disk
-#     if startDate.weekday() <= 4:
-#         editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
-#         filename = morningEditionFileName
-#     else:
-#         editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
-#         filename = weekendEditionFileName
-#     # check if edition data is present
-#     if editionDay == None:
-#         print(">> No data for {0} ".format(startDate.date()))
-#         startDate = startDate + timedelta(days=+1)
-#     else:
-#         playlistURI = "Playlist URI"
-#         searchKey = "MoWeEd Track"
-#         pageLinkID = "Page Link"
-#         playlistEntry = False
-#         trackEntry = False
-#         if editionDay[0].get(playlistURI) != None:
-#             playlistEntry = True # would only be in the first entry currently
-#         for item in editionDay:
-#             if item.get(searchKey) == None:
-#                 continue
-#             else:
-#                 trackEntry = True
-#                 break
-#         # Create a new playlist and search tracks
-#         if playlistEntry == False and trackEntry == True:
-#             # Search interlude tracks and add results back into edition data
-#             for story, entry in enumerate(editionDay):
-#                 if searchKey in entry:
-#                     track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
-#                     entry.update(track)
-#             response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
-#             editionDay[0]["Playlist URI"] = response["id"]
-#             editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
-#             editionDay[0]["Snapshot ID"] = response["snapshot_id"]
-#             editionDay[0]["Playlist Name"] = filename
-#             nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
-#             nprPlaylistCreator.AddTracksToPlaylist(editionDay)
-#             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
-#             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
-#             print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
-#             print(editionDay[0]["Page Link"])
-#             editionDay.clear()
-#             startDate = startDate + timedelta(days=+1)
-#         # we update information
-#         elif playlistEntry == True:
-#             for story, entry in enumerate(editionDay):
-#                 if searchKey in entry:
-#                     track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
-#                     entry.update(track)
-#             editionDay = nprPlaylistCreator.ReplaceTracksInPlaylist(editionDay)
-#             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
-#             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
-#             print("{0} finished updating {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
-#             print(editionDay[0]["Page Link"])
-#             editionDay.clear()
-#             startDate = startDate + timedelta(days=+1)
-#         # we create an empty playlist with a description noting tracks are not detailed
-#         else:
-#             response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
-#             editionDay[0]["Playlist URI"] = response["id"]
-#             editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
-#             editionDay[0]["Snapshot ID"] = response["snapshot_id"]
-#             editionDay[0]["Playlist Name"] = filename
-#             nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
-#             nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
-#             nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
-#             print(">> No interlude Tracks for {0} ".format(startDate.date()))
-#             editionDay.clear()
-#             startDate = startDate + timedelta(days=+1)
-#     dateTimeObj = datetime.now()
-#     timestampStr = dateTimeObj.strftime("%I:%M %p")
-#     print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
-#     print("\n")
+# Used to parse a range of dates, load the json for those days, and make playlists on spotify
+startDate = datetime(2021, 7, 26) # check 9 to 3, 28 for missing track playlists
+projectName = "MoWeEd"
+weekendEdition = "Weekend Edition"
+morningEdition = "Morning Edition"
+nprPlaylistCreator = NPRPlaylistCreator()
+nprSpotifySearch = NPRSpotifySearch()
+nprPageParser = NPRPageParser()
+spotifyTracks = list()
+startTime = datetime.now()
+while startDate != datetime(2021, 7, 27):
+    processedTime = datetime.now()
+    projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+    morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
+    weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
+    fileType = ".json"
+    # Load article data from disk
+    if startDate.weekday() <= 4:
+        editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
+        filename = morningEditionFileName
+    else:
+        editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
+        filename = weekendEditionFileName
+    # check if edition data is present
+    if editionDay == None:
+        print(">> No data for {0} ".format(startDate.date()))
+        startDate = startDate + timedelta(days=+1)
+    else:
+        playlistURI = "Playlist URI"
+        searchKey = "MoWeEd Track"
+        pageLinkID = "Page Link"
+        playlistEntry = False
+        trackEntry = False
+        if editionDay[0].get(playlistURI) != None:
+            playlistEntry = True # would only be in the first entry currently
+        for item in editionDay:
+            if item.get(searchKey) == None:
+                continue
+            else:
+                trackEntry = True
+                break
+        # Create a new playlist and search tracks
+        if playlistEntry == False and trackEntry == True:
+            # Search interlude tracks and add results back into edition data
+            for story, entry in enumerate(editionDay):
+                if searchKey in entry:
+                    track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+                    entry.update(track)
+            response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
+            editionDay[0]["Playlist URI"] = response["id"]
+            editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
+            editionDay[0]["Snapshot ID"] = response["snapshot_id"]
+            editionDay[0]["Playlist Name"] = filename
+            nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
+            nprPlaylistCreator.AddTracksToPlaylist(editionDay)
+            nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
+            nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
+            print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
+            print(editionDay[0]["Page Link"])
+            editionDay.clear()
+            startDate = startDate + timedelta(days=+1)
+        # we update information
+        elif playlistEntry == True:
+            for story, entry in enumerate(editionDay):
+                if searchKey in entry:
+                    track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
+                    entry.update(track)
+            editionDay = nprPlaylistCreator.ReplaceTracksInPlaylist(editionDay)
+            nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
+            nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
+            print("{0} finished updating {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
+            print(editionDay[0]["Page Link"])
+            editionDay.clear()
+            startDate = startDate + timedelta(days=+1)
+        # we create an empty playlist with a description noting tracks are not detailed
+        else:
+            response = nprPlaylistCreator.CreatePlaylist(filename) # should I deal with passing in my editionDay or manage updates/changes out here?
+            editionDay[0]["Playlist URI"] = response["id"]
+            editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
+            editionDay[0]["Snapshot ID"] = response["snapshot_id"]
+            editionDay[0]["Playlist Name"] = filename
+            nprPlaylistCreator.AddCoverArtToPlaylist(editionDay)
+            nprPlaylistCreator.UpdatePlaylistDescription(editionDay)
+            nprPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
+            print(">> No interlude Tracks for {0} ".format(startDate.date()))
+            editionDay.clear()
+            startDate = startDate + timedelta(days=+1)
+    dateTimeObj = datetime.now()
+    timestampStr = dateTimeObj.strftime("%I:%M %p")
+    print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
+    print("\n")
 
 # # Weekend edition shows up 1998 Jan
 # # July 25th 2000's seems to be when some morning edition interlude data is being documented
@@ -120,7 +120,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # for month, daylinks in editionYearLinkCache.items():
 #     for idx, link in enumerate(daylinks):
 #         if int(month) == 7:
-#             if idx >= 21:
+#             if idx >= 25:
 #                 nprSpotifySearch = NPRSpotifySearch()
 #                 nprPlaylistCreator = NPRPlaylistCreator()
 #                 nprPageParser = NPRPageParser()
