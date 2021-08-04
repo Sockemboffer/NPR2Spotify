@@ -138,7 +138,7 @@ class NPRPlaylistCreator:
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def ChangePlaylistToPublic(self, startDate, endDate, timeDelta):
         projectName = "MoWeEd"
-        while startDate != endDate:
+        while startDate <= endDate:
             projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
             morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
             weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
