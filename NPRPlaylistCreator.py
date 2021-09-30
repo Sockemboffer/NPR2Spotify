@@ -34,7 +34,7 @@ class NPRPlaylistCreator:
         query = "https://api.spotify.com/v1/users/{}/playlists".format(self.secretsSession.spotify_user_id)
         response = self.requestSession.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
         if response.status_code not in [200, 201, 202]:
-            raise Exception('API response: {}'.format(response.status_code))
+            raise Exception('API response code: {0}, {1}'.format(response.status_code, response.text))
         print("-- Playlist created.")
         return response.json()
 
