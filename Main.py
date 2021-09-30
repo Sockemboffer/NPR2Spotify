@@ -12,13 +12,13 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # TODO come up with some way to automate this daily
 
 # # Set all playlists to public
-# startDate = datetime(2021, 8, 5)
+# startDate = datetime(2021, 8, 16)
 # timeDelta = timedelta()
 # nprPlaylistCreator = NPRPlaylistCreator()
-# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 8, 15), timedelta)
+# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 9, 30), timedelta)
 
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-startDate = datetime(2021, 8, 16)
+startDate = datetime(2021, 9, 15)
 projectName = "MoWeEd"
 weekendEdition = "Weekend Edition"
 morningEdition = "Morning Edition"
@@ -27,7 +27,7 @@ nprSpotifySearch = NPRSpotifySearch()
 nprPageParser = NPRPageParser()
 spotifyTracks = list()
 startTime = datetime.now()
-while startDate >= datetime(2021, 8, 16):
+while startDate == datetime(2021, 9, 15):
     processedTime = datetime.now()
     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
@@ -119,8 +119,8 @@ while startDate >= datetime(2021, 8, 16):
 # editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
 # for month, daylinks in editionYearLinkCache.items():
 #     for idx, link in enumerate(daylinks):
-#         if int(month) == 9:
-#             if idx == 29:
+#         if # int(month) == 9:
+#             # if idx == 0:
 #                 nprSpotifySearch = NPRSpotifySearch()
 #                 nprPlaylistCreator = NPRPlaylistCreator()
 #                 nprPageParser = NPRPageParser()
