@@ -19,15 +19,10 @@ Follow on Twitter: [@MoWeEd2Spotify](https://twitter.com/MoWeEd2Spotify)
 **Main.py** - Entry point (that's gross looking.)
 
 ----------------------------------------------------------------------------------------------------
-
-**TODO:** Create a dependiencies manifest.
-
-**TODO:** Make more pythonic all around.
-
-**TODO:** Automate to run daily.
-
-**TODO:** Figure out how best to track emailed corrections that I recieve.
-
+- [ ] Create a dependiencies manifest.
+- [ ] Make more pythonic all around.
+- [ ] Automate to run daily.
+- [ ] Figure out how best to track emailed corrections that I recieve.
 ----------------------------------------------------------------------------------------------------
 
 ## Problem
