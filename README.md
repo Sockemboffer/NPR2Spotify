@@ -3,6 +3,8 @@ Generally, this program parses an NPR Show page (I've only tested with Morning a
 
 Playlists all public now: [NPR MoWeEd](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
 
+Follow on Twitter: [@MoWeEd2Spotify](https://twitter.com/MoWeEd2Spotify)
+
 **/MoWeEd Article Data/** - Each day's output for each year
 
 **/MoWeEd Article Link Cache/** - Output that feeds day links into Main.py below.
