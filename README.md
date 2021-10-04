@@ -1,3 +1,4 @@
+![npr2spotifylogo](https://github.com/Sockemboffer/NPR2Spotify/blob/master/MoWeEd%20Logos/npr2spotify_twitter_header.png)
 # NPR2Spotify
 Generally, this program parses an NPR Show page (I've only tested with Morning and Weekend Edition pages so far) and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
 
@@ -18,15 +19,10 @@ Follow on Twitter: [@MoWeEd2Spotify](https://twitter.com/MoWeEd2Spotify)
 **Main.py** - Entry point (that's gross looking.)
 
 ----------------------------------------------------------------------------------------------------
-
-**TODO:** Create a dependiencies manifest.
-
-**TODO:** Make more pythonic all around.
-
-**TODO:** Automate to run daily.
-
-**TODO:** Figure out how best to track emailed corrections that I recieve.
-
+- [ ] Create a dependiencies manifest.
+- [ ] Make more pythonic all around.
+- [ ] Automate to run daily.
+- [ ] Figure out how best to track emailed corrections that I recieve.
 ----------------------------------------------------------------------------------------------------
 
 ## Problem
