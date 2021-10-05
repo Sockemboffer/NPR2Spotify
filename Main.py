@@ -12,13 +12,13 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # TODO come up with some way to automate this daily
 
 # Set playlist(s) to public
-startDate = datetime(2021, 10, 4)
+startDate = datetime(2021, 10, 5)
 timeDelta = timedelta()
 nprPlaylistCreator = NPRPlaylistCreator()
-nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 4), timedelta)
+nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 5), timedelta)
 
 # # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-# startDate = datetime(2021, 10, 4)
+# startDate = datetime(2021, 10, 5)
 # projectName = "MoWeEd"
 # weekendEdition = "Weekend Edition"
 # morningEdition = "Morning Edition"
@@ -27,7 +27,7 @@ nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 4), time
 # nprPageParser = NPRPageParser()
 # spotifyTracks = list()
 # startTime = datetime.now()
-# while startDate == datetime(2021, 10, 4):
+# while startDate == datetime(2021, 10, 5):
 #     processedTime = datetime.now()
 #     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
 #     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
@@ -120,7 +120,7 @@ nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 4), time
 # for month, daylinks in editionYearLinkCache.items():
 #     for idx, link in enumerate(daylinks):
 #         if int(month) == 10:
-#             if idx == 3:
+#             if idx == 4:
 #                 nprSpotifySearch = NPRSpotifySearch()
 #                 nprPlaylistCreator = NPRPlaylistCreator()
 #                 nprPageParser = NPRPageParser()
