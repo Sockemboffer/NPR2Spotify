@@ -11,14 +11,56 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # TODO come up with some way to automate this daily
 
-# Set playlist(s) to public
-startDate = datetime(2021, 10, 5)
-timeDelta = timedelta()
-nprPlaylistCreator = NPRPlaylistCreator()
-nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 5), timedelta)
+# # Step 1
+# # Create a json file for the year that contains a link for each day (only need to run one time per year)
+# NPRPageParser.NPRArticleLinkCacheCreator(2021) # 1996 - 2020
 
+# # Step 2
+# # Weekend edition shows up 1998 Jan
+# # July 25th 2000's seems to be when some morning edition interlude data is being documented
+# # Used to create json output for each day with various article and track data
+# # TODO catch and handle badgateway error that happens seldomly
+# editionStartYear = 2021
+# editionDayData = list()
+# projectName = "MoWeEd"
+# editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
+# for month, daylinks in editionYearLinkCache.items():
+#     for idx, link in enumerate(daylinks):
+#         if int(month) == 10:
+#             if idx == 5:
+#                 nprSpotifySearch = NPRSpotifySearch()
+#                 nprPlaylistCreator = NPRPlaylistCreator()
+#                 nprPageParser = NPRPageParser()
+#                 requestedHTML = NPRPageParser.RequestURL(link)
+#                 selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
+#                 editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML)) # get various article data from this day
+#                 for story in selectedHTML.xpath('.//div[@id="story-list"]/*'):
+#                     if story.attrib['class'] == 'rundown-segment':
+#                         editionDayData.append(NPRPageParser.GetArticleInfo(story))
+#                     elif story.attrib['class'] == 'music-interlude responsive-rundown':
+#                         for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
+#                             interlude = dict()
+#                             interlude["MoWeEd Track"] = NPRPageParser.GetInterludeSongName(songMETA)
+#                             interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
+#                             editionDayData.append(interlude)
+#                             print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
+#                 editionYear = editionDayData[0]['Date Numbered'][0:4]
+#                 editionMonth = editionDayData[0]['Date Numbered'].partition("-")[2].partition("-")[0]
+#                 editionDate = editionDayData[0]['Date Numbered']
+#                 editionDay = editionDayData[0]['Day']
+#                 editionEdition = editionDayData[0]["Edition"][0:15]
+#                 projectName = "MoWeEd"
+#                 fileType = ".json"
+#                 fileName = projectName + " " + editionDate + " " + editionDay + " " + editionEdition + fileType
+#                 directoryPath = "MoWeEd Article Data/{0}/{1}/".format(editionYear, editionMonth)
+#                 nprPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
+#                 print("Finished {0}\n".format(editionDayData[0]['Page Link']))
+#                 editionDayData.clear()
+#                 time.sleep(1) # Don't hammer their server
+
+# # Step 3
 # # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-# startDate = datetime(2021, 10, 5)
+# startDate = datetime(2021, 10, 6)
 # projectName = "MoWeEd"
 # weekendEdition = "Weekend Edition"
 # morningEdition = "Morning Edition"
@@ -27,7 +69,7 @@ nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 5), time
 # nprPageParser = NPRPageParser()
 # spotifyTracks = list()
 # startTime = datetime.now()
-# while startDate == datetime(2021, 10, 5):
+# while startDate == datetime(2021, 10, 6):
 #     processedTime = datetime.now()
 #     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
 #     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
@@ -109,47 +151,9 @@ nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 5), time
 #     print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
 #     print("\n")
 
-# # Weekend edition shows up 1998 Jan
-# # July 25th 2000's seems to be when some morning edition interlude data is being documented
-# # Used to create json output for each day with various article and track data
-# # TODO catch and handle badgateway error that happens seldomly
-# editionStartYear = 2021
-# editionDayData = list()
-# projectName = "MoWeEd"
-# editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(editionStartYear) + " " + projectName + " Article Link Cache.json")
-# for month, daylinks in editionYearLinkCache.items():
-#     for idx, link in enumerate(daylinks):
-#         if int(month) == 10:
-#             if idx == 4:
-#                 nprSpotifySearch = NPRSpotifySearch()
-#                 nprPlaylistCreator = NPRPlaylistCreator()
-#                 nprPageParser = NPRPageParser()
-#                 requestedHTML = NPRPageParser.RequestURL(link)
-#                 selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
-#                 editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML)) # get various article data from this day
-#                 for story in selectedHTML.xpath('.//div[@id="story-list"]/*'):
-#                     if story.attrib['class'] == 'rundown-segment':
-#                         editionDayData.append(NPRPageParser.GetArticleInfo(story))
-#                     elif story.attrib['class'] == 'music-interlude responsive-rundown':
-#                         for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
-#                             interlude = dict()
-#                             interlude["MoWeEd Track"] = NPRPageParser.GetInterludeSongName(songMETA)
-#                             interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
-#                             editionDayData.append(interlude)
-#                             print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
-#                 editionYear = editionDayData[0]['Date Numbered'][0:4]
-#                 editionMonth = editionDayData[0]['Date Numbered'].partition("-")[2].partition("-")[0]
-#                 editionDate = editionDayData[0]['Date Numbered']
-#                 editionDay = editionDayData[0]['Day']
-#                 editionEdition = editionDayData[0]["Edition"][0:15]
-#                 projectName = "MoWeEd"
-#                 fileType = ".json"
-#                 fileName = projectName + " " + editionDate + " " + editionDay + " " + editionEdition + fileType
-#                 directoryPath = "MoWeEd Article Data/{0}/{1}/".format(editionYear, editionMonth)
-#                 nprPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
-#                 print("Finished {0}\n".format(editionDayData[0]['Page Link']))
-#                 editionDayData.clear()
-#                 time.sleep(1) # Don't hammer their server
-
-# # Create a json file for the year that contains a link for each day (only need to run one time per year)
-# NPRPageParser.NPRArticleLinkCacheCreator(2021) # 1996 - 2020
+# # Step 4
+# # Set playlist(s) to public
+# startDate = datetime(2021, 10, 6)
+# timeDelta = timedelta()
+# nprPlaylistCreator = NPRPlaylistCreator()
+# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 6), timedelta)
