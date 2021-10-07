@@ -9,7 +9,10 @@ from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
-# TODO come up with some way to automate this daily
+# TODO Create a dependiencies manifest.
+# TODO Make more pythonic all around.
+# TODO Automate to run daily.
+# TODO Figure out how best to track emailed corrections that I recieve.
 
 # # Step 1 - only run once for a year
 # # Create a json file for the year that contains a link for each day (only need to run one time per year)
