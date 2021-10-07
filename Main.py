@@ -11,7 +11,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # TODO come up with some way to automate this daily
 
-# # Step 1
+# # Step 1 - only run once for a year
 # # Create a json file for the year that contains a link for each day (only need to run one time per year)
 # NPRPageParser.NPRArticleLinkCacheCreator(2021) # 1996 - 2020
 
@@ -27,7 +27,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # for month, daylinks in editionYearLinkCache.items():
 #     for idx, link in enumerate(daylinks):
 #         if int(month) == 10:
-#             if idx == 5:
+#             if idx == 6:
 #                 nprSpotifySearch = NPRSpotifySearch()
 #                 nprPlaylistCreator = NPRPlaylistCreator()
 #                 nprPageParser = NPRPageParser()
@@ -60,7 +60,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # # Step 3
 # # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-# startDate = datetime(2021, 10, 6)
+# startDate = datetime(2021, 10, 7)
 # projectName = "MoWeEd"
 # weekendEdition = "Weekend Edition"
 # morningEdition = "Morning Edition"
@@ -69,7 +69,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # nprPageParser = NPRPageParser()
 # spotifyTracks = list()
 # startTime = datetime.now()
-# while startDate == datetime(2021, 10, 6):
+# while startDate == datetime(2021, 10, 7):
 #     processedTime = datetime.now()
 #     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
 #     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
@@ -153,7 +153,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # # Step 4
 # # Set playlist(s) to public
-# startDate = datetime(2021, 10, 6)
+# startDate = datetime(2021, 10, 7)
 # timeDelta = timedelta()
 # nprPlaylistCreator = NPRPlaylistCreator()
-# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 6), timedelta)
+# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 7), timedelta)
