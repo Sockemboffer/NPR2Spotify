@@ -31,7 +31,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # for month, daylinks in editionYearLinkCache.items():
 #     for idx, link in enumerate(daylinks):
 #         if int(month) == 10:
-#             if idx >= 15: # TODO use dates rather than indexing
+#             if idx >= 16: # TODO use dates rather than indexing
 #                 nprSpotifySearch = NPRSpotifySearch()
 #                 nprPlaylistCreator = NPRPlaylistCreator()
 #                 nprPageParser = NPRPageParser()
@@ -64,7 +64,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 
 # # Step 3
 # # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-# startDate = datetime(2021, 10, 16)
+# startDate = datetime(2021, 10, 17)
 # projectName = "MoWeEd"
 # weekendEdition = "Weekend Edition"
 # morningEdition = "Morning Edition"
@@ -73,7 +73,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # nprPageParser = NPRPageParser()
 # spotifyTracks = list()
 # startTime = datetime.now()
-# while startDate <= datetime(2021, 10, 16):
+# while startDate <= datetime(2021, 10, 17):
 #     processedTime = datetime.now()
 #     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
 #     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
@@ -155,9 +155,9 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #     print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
 #     print("\n")
 
-# # Step 4
-# # Set playlist(s) to public
-# startDate = datetime(2021, 10, 16)
-# timeDelta = timedelta()
-# nprPlaylistCreator = NPRPlaylistCreator()
-# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 16), timedelta)
+# Step 4
+# Set playlist(s) to public
+startDate = datetime(2021, 10, 17)
+timeDelta = timedelta()
+nprPlaylistCreator = NPRPlaylistCreator()
+nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 17), timedelta)
