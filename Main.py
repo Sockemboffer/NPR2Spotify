@@ -9,6 +9,7 @@ from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
 from NPRPlaylistCreator import NPRPlaylistCreator
 
+# Pitfall sometimes matches the wrong rendition than the one NPR choose (Maybe there is a Shazam API?)
 # TODO Create a dependiencies manifest.
 # TODO Make more pythonic all around.
 # TODO Automate to run daily.
@@ -19,6 +20,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # # Create a json file for the year that contains a link for each day (only need to run one time per year)
 # NPRPageParser.NPRArticleLinkCacheCreator(2021) # 1996 - 2020
 
+# TODO Turn into method that can accept a date range
 # # Step 2
 # # Weekend edition shows up 1998 Jan
 # # July 25th 2000's seems to be when some morning edition interlude data is being documented
@@ -31,7 +33,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # for month, daylinks in editionYearLinkCache.items():
 #     for idx, link in enumerate(daylinks):
 #         if int(month) == 10:
-#             if idx >= 22: # TODO use dates rather than indexing
+#             if idx >= 25: # TODO use dates rather than indexing
 #                 nprSpotifySearch = NPRSpotifySearch()
 #                 nprPlaylistCreator = NPRPlaylistCreator()
 #                 nprPageParser = NPRPageParser()
@@ -62,9 +64,10 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #                 editionDayData.clear()
 #                 time.sleep(1) # Don't hammer their server
 
+# # TODO Turn into method that can accept a date range
 # # Step 3
 # # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-# startDate = datetime(2021, 10, 23)
+# startDate = datetime(2021, 10, 26)
 # projectName = "MoWeEd"
 # weekendEdition = "Weekend Edition"
 # morningEdition = "Morning Edition"
@@ -73,7 +76,7 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # nprPageParser = NPRPageParser()
 # spotifyTracks = list()
 # startTime = datetime.now()
-# while startDate <= datetime(2021, 10, 25):
+# while startDate <= datetime(2021, 10, 26):
 #     processedTime = datetime.now()
 #     projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
 #     morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
@@ -155,9 +158,10 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 #     print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
 #     print("\n")
 
+# # TODO Turn into method that can accept a date range
 # # Step 4
 # # Set playlist(s) to public
-# startDate = datetime(2021, 10, 23)
+# startDate = datetime(2021, 10, 26)
 # timeDelta = timedelta()
 # nprPlaylistCreator = NPRPlaylistCreator()
-# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 25), timedelta)
+# nprPlaylistCreator.ChangePlaylistToPublic(startDate, datetime(2021, 10, 26), timedelta)
