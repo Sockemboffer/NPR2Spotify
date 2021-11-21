@@ -3,7 +3,7 @@ import spotipy
 from spotipy import oauth2
 # from spotipy import cache_handler
 # from spotipy.cache_handler import CacheFileHandler, CacheHandler
-import spotipy.util as util
+# import spotipy.util as util
 
 class Secrets:
     def __init__(self):
@@ -25,7 +25,7 @@ class Secrets:
             refreshed_token = self.cacheToken['refresh_token']
             new_token = self.spo.refresh_access_token(refreshed_token)
             print(new_token['access_token'])
-            self.sp = spotipy.Spotify(auth=new_token['access_token'])
+            # self.spo = spotipy.Spotify(auth=new_token['access_token'])
             return new_token['access_token']
         else:
             return self.cacheToken['access_token']
