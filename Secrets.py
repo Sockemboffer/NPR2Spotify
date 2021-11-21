@@ -1,8 +1,8 @@
 import os
 import spotipy
 from spotipy import oauth2
-from spotipy import cache_handler
-from spotipy.cache_handler import CacheFileHandler, CacheHandler
+# from spotipy import cache_handler
+# from spotipy.cache_handler import CacheFileHandler, CacheHandler
 import spotipy.util as util
 
 class Secrets:
