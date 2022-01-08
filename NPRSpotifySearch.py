@@ -2,7 +2,6 @@ import re
 import json
 import requests
 import time
-import Secrets
 from urllib import parse
 from collections import Counter
 from unidecode import unidecode
@@ -11,6 +10,7 @@ from requests.packages.urllib3.util.retry import Retry
 from difflib import SequenceMatcher
 from ratelimit import limits, RateLimitException
 from backoff import on_exception, expo
+import Secrets
 
 NUMBER_OF_CALLS = 5
 IN_SECONDS = 1
@@ -23,6 +23,8 @@ class NPRSpotifySearch:
 
     def __init__(self):
         self.requestSession = requests.Session()
+        self.secrets = Secrets.Secrets()
+        self.token = self.secrets.GiveToken()
         self.retries = Retry(total=10, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
         self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries, pool_maxsize=25))
         self.secretsSession = Secrets.Secrets()
@@ -185,7 +187,7 @@ class NPRSpotifySearch:
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchExplicitTrackAndArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()
@@ -194,7 +196,7 @@ class NPRSpotifySearch:
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchImplicitTrackExplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()
@@ -203,7 +205,7 @@ class NPRSpotifySearch:
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchImplicitTrackImplicitArtist(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + '"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()
@@ -212,7 +214,7 @@ class NPRSpotifySearch:
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def SearchImplicitTrackAndArtistCombined(self, track, artist):
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=5".format(parse.quote(str(track + " AND " + artist)))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secretsSession.RefreshMyToken())})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()

@@ -1,31 +1,17 @@
 import os
 import spotipy
-from spotipy import oauth2
-# from spotipy import cache_handler
-# from spotipy.cache_handler import CacheFileHandler, CacheHandler
-# import spotipy.util as util
 
+# Make sure browser allows popups
+# After adding and or modifying any environment variables, RESTART VSCode
 class Secrets:
     def __init__(self):
-        # After adding and or modifying any environment variables, RESTART VSCode
-        self.SPOTIPY_CLIENT_ID = os.environ.get('SPOTIPY_CLIENT_ID') # This apps id
-        self.SPOTIPY_CLIENT_SECRET = os.environ.get('SPOTIPY_CLIENT_SECRET') # This apps secret
-        self.SPOTIPY_REDIRECT_URI = os.environ.get('SPOTIPY_REDIRECT_URI') # Points to localhost
-        self.spotify_user_id = os.environ.get('SPOTIFY_USER_ID') # The user ID we create the playlists for (NOT username)
+        self.SPOTIPY_CLIENT_ID = os.environ.get('SPOTIPY_CLIENT_ID') # This apps id from dashboard login
+        self.SPOTIPY_CLIENT_SECRET = os.environ.get('SPOTIPY_CLIENT_SECRET') # This apps secret from dashboard login
+        self.SPOTIPY_REDIRECT_URI = os.environ.get('SPOTIPY_REDIRECT_URI') # Points to redirect URI (http://localhost:8888/callback)
+        self.SPOTIFY_USER_ID = os.environ.get('SPOTIFY_USER_ID') # The user ID/username listed on the profile page
         self.scope = 'ugc-image-upload playlist-modify-private' # Type of permissions we need to modify this users playlists
-        self.spo = oauth2.SpotifyOAuth(self.SPOTIPY_CLIENT_ID, self.SPOTIPY_CLIENT_SECRET, self.SPOTIPY_REDIRECT_URI, state=None, scope=self.scope, username=self.spotify_user_id)
-        self.cacheToken = self.spo.get_access_token()
-        # self.spotipySCC = spotipy.SpotifyClientCredentials(self.SPOTIPY_CLIENT_ID, self.SPOTIPY_CLIENT_SECRET)
-        # self.sp = spotipy.Spotify(client_credentials_manager=self.spotipySCC)
-
-    # Make sure browser allows popups
-    def RefreshMyToken(self):
-        if self.cacheToken == None or self.spo.is_token_expired(self.cacheToken):
-            print("Cached token is {0}".format(self.cacheToken))
-            refreshed_token = self.cacheToken['refresh_token']
-            new_token = self.spo.refresh_access_token(refreshed_token)
-            print(new_token['access_token'])
-            # self.spo = spotipy.Spotify(auth=new_token['access_token'])
-            return new_token['access_token']
-        else:
-            return self.cacheToken['access_token']
+        self.oauthManager = spotipy.SpotifyOAuth(self.SPOTIPY_CLIENT_ID, self.SPOTIPY_CLIENT_SECRET, self.SPOTIPY_REDIRECT_URI, None, self.scope, None, self.SPOTIFY_USER_ID, None, True)
+    
+    def GiveToken(self):
+        token = spotipy.util.prompt_for_user_token(self.SPOTIFY_USER_ID, self.scope, self.SPOTIPY_CLIENT_ID, self.SPOTIPY_CLIENT_SECRET, self.SPOTIPY_REDIRECT_URI, None, self.oauthManager, True)
+        return token
