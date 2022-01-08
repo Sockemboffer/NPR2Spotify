@@ -173,8 +173,8 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
 projectName = "MoWeEd"
 today = datetime.today()
 nprPlaylistCreator = NPRPlaylistCreator()
-leftOffDate = datetime(2021, 11, 22) # createLeftOffDate(today, projectName)
-# NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, today, projectName)
-# ParseDayLinks(leftOffDate, today, projectName)
-# createPlaylists(leftOffDate, today, projectName)
+leftOffDate = createLeftOffDate(today, projectName)
+NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, today, projectName)
+ParseDayLinks(leftOffDate, today, projectName)
+createPlaylists(leftOffDate, today, projectName)
 nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectName)
