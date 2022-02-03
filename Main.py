@@ -171,10 +171,10 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
             print("\n")
 
 projectName = "MoWeEd"
-today = datetime.today()
-nprPlaylistCreator = NPRPlaylistCreator()
-leftOffDate = createLeftOffDate(today, projectName)
-NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, today, projectName)
+today = datetime(2022, 1, 31)    # datetime.today()
+# leftOffDate = createLeftOffDate(today, projectName)
+NPRPageParser.NPRArticleLinkCacheCreator(today, today, projectName)
 ParseDayLinks(leftOffDate, today, projectName)
 createPlaylists(leftOffDate, today, projectName)
+nprPlaylistCreator = NPRPlaylistCreator()
 nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectName)
