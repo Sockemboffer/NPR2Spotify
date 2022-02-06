@@ -1,14 +1,14 @@
 ![npr2spotifylogo](https://github.com/Sockemboffer/NPR2Spotify/blob/master/MoWeEd%20Logos/npr2spotify_twitter_header.png)
 # NPR2Spotify
-Generally, this program parses an NPR Show page (I've only tested with Morning and Weekend Edition pages so far) and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
+Generally, this program parses NPR Morning Edition, Weekend Edition, and All Things Considered and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
 
 Playlists all public now: [NPR MoWeEd](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
 
 Follow on Twitter: [@MoWeEd2Spotify](https://twitter.com/MoWeEd2Spotify)
 
-**/MoWeEd Article Data/** - Each day's output for each year
+**/showname Article Data/** - Each day's output for each year
 
-**/MoWeEd Article Link Cache/** - Output that feeds day links into Main.py below.
+**/showname Article Link Cache/** - Output that feeds day links into Main.py below.
 
 **NPRPageParser.py** - Takes in an NPR show link and saves out to json files various info about that day including any track information.
 
@@ -22,7 +22,7 @@ Follow on Twitter: [@MoWeEd2Spotify](https://twitter.com/MoWeEd2Spotify)
 - [ ] Create a dependiencies manifest.
 - [ ] Make more pythonic all around.
 - [ ] Automate to run daily.
-- [ ] Figure out how best to track emailed corrections that I recieve.
+- [ ] On going, All Things Considered Archive
 ----------------------------------------------------------------------------------------------------
 
 ## Problem
@@ -40,6 +40,7 @@ Support your local [NPR station](https://www.npr.org/donations/support) today.
 [Weekend Edition Saturday](https://www.npr.org/programs/weekend-edition-saturday/)
 
 [Weekend Edition Sunday](https://www.npr.org/programs/weekend-edition-sunday/)
+[All Things Considered](https://www.npr.org/programs/all-things-considered/)
 ## Thanks
 My pal at [MBGameDev](https://github.com/mbgamedev/) for holding my hand a couple-few times.
 
