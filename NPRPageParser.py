@@ -89,6 +89,16 @@ class NPRPageParser:
         with open(path + file, 'w', encoding='utf-8') as json_file:
             json.dump(editionData, json_file, ensure_ascii=False, indent=4)
 
+    def CreateLinkCacheJSONFile(editionData, date: datetime):
+        linkCachePath = editionData + " Article Link Cache/"
+        linkCacheFileName = str(date.year) + " " + editionData + " Article Link Cache"
+        linkCacheFileType = ".json"
+        linkCachePathFileNameType = linkCachePath + linkCacheFileName + linkCacheFileType
+        if not os.path.exists(linkCachePath):
+            os.makedirs(linkCachePath)
+        with open(linkCachePathFileNameType, 'w') as f:
+            print("Link cache file created: " + linkCachePathFileNameType)
+
     # request/fetch artist data from json file
     def GetArtistsAndTrack(jsonData):
         interludes = list()
@@ -99,77 +109,144 @@ class NPRPageParser:
         return interludes
 
     # Grab all day links for date range entered save back to json file
-    def NPRArticleLinkCacheCreator(leftOffDate: datetime, today: datetime, projectName: str):
+    def NPRArticleLinkCacheCreator(leftOffDate: datetime, projectName: str):
         editionYearLinkCache = dict()
+        today = datetime.today()
         cachePath = projectName + " Article Link Cache/"
-        while leftOffDate <= today:
-            cacheFileName = str(leftOffDate.year) + " " + projectName + " Article Link Cache.json"
-            editionYearLinkCache = NPRPageParser.LoadJSONFile(cachePath + cacheFileName)
-            articleDayLinks = list()
-            print(leftOffDate.month)
-            # Any archive date seems to set us at the last day of the month (handy)
-            # Generate archive month link - use the 1st of every month
-            # Grab all Sunday Editions for this month
-            sunday = "https://www.npr.org/programs/weekend-edition-sunday/archive?date={}-{}-{}".format(str(leftOffDate.month).zfill(2), str(1).zfill(2), leftOffDate.year)
-            request = requests.get(sunday).text
-            selector = Selector(text=request)
-            print("Getting Sundays")
-            for item in selector.xpath('.//div[@id="episode-list"]/*'):
-                if item.attrib['class'] != 'episode-list__header':
-                    articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
-            # Grab all Saturday Edition links for this month
-            saturday = "https://www.npr.org/programs/weekend-edition-saturday/archive?date={}-{}-{}".format(str(leftOffDate.month).zfill(2), str(1).zfill(2), leftOffDate.year)
-            request = requests.get(saturday).text
-            selector = Selector(text=request)
-            print("Getting Saturdays")
-            for item in selector.xpath('.//div[@id="episode-list"]/*'):
-                if item.attrib['class'] != 'episode-list__header':
-                    articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
-            # Grab intial amount of Morning Edition links for this month
-            weekday = "https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(str(leftOffDate.month).zfill(2), str(1).zfill(2), leftOffDate.year)
-            request = requests.get(weekday).text
-            selector = Selector(text=request)
-            print("Getting initial weekdays")
-            for item in selector.xpath('.//div[@id="episode-list"]/*'):
-                if item.attrib['class'] != 'episode-list__header':
-                    articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
-            # NPR only loads more days once the user scrolls to the bottom of their page,
-            # we need to fetch the "scrolllink" link to grab more days untill a new month is found
-            nextMonthNotFound = True
-            checkMonth = str(leftOffDate.year) + "/" + str(leftOffDate.month).zfill(2) + "/"
-            while nextMonthNotFound:
-                print("Getting more weekdays")
-                loadMoreDaysLink = selector.xpath('//div[@id="scrolllink"]/a/@href').get()
-                # Check we have more days to load
-                if loadMoreDaysLink == None:
-                    break
-                moreDaysLink = "https://www.npr.org" + loadMoreDaysLink
-                request = requests.get(moreDaysLink).text
+        if leftOffDate.year >= today.year and projectName == "MoWeEd":
+            while leftOffDate.month <= today.month:
+                cacheFileName = str(leftOffDate.year) + " " + projectName + " Article Link Cache.json"
+                editionYearLinkCache = NPRPageParser.LoadJSONFile(cachePath + cacheFileName)
+                # ATCNPR check for none here
+                articleDayLinks = list()
+                print(leftOffDate.month)
+                # Any archive date seems to set us at the last day of the month (handy)
+                # Generate archive month link - use the 1st of every month
+                # Grab all Sunday Editions for this month
+                # ATCNPR add Archive link program name 'all-things-considered' & 'weekend-edition-sunday' as argument?
+                sunday = "https://www.npr.org/programs/weekend-edition-sunday/archive?date={}-{}-{}".format(str(leftOffDate.month).zfill(2), str(1).zfill(2), leftOffDate.year)
+                request = requests.get(sunday).text
                 selector = Selector(text=request)
+                print("Getting Sundays")
                 for item in selector.xpath('.//div[@id="episode-list"]/*'):
                     if item.attrib['class'] != 'episode-list__header':
-                        newLink = item.xpath('./h2[@class="program-show__title"]/a/@href').get()
-                        if checkMonth in newLink:
-                            articleDayLinks.append(newLink)
-                        else:
-                            nextMonthNotFound = False
-                            break
-            print("Sorting links")
-            # filter out links that aren't the same month
-            articleDayLinks = list(filter(lambda x: "/" + str(leftOffDate.month).zfill(2) + "/" in x, articleDayLinks))
-            # sort them in decending order
-            articleDayLinks = sorted(articleDayLinks, key=lambda x: int(x.partition("/" + str(leftOffDate.month).zfill(2) + "/")[2].partition("/")[0]))
-            # create first month of new year if none
-            if editionYearLinkCache == None:
-                editionYearLinkCache = dict()
-                editionYearLinkCache = {"01": articleDayLinks}
-            else:
-                newDict = {str(leftOffDate.month).zfill(2): articleDayLinks}
-                if str(leftOffDate.month).zfill(2) in editionYearLinkCache:
-                    editionYearLinkCache.update(newDict)
+                        articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
+                # Grab all Saturday Edition links for this month
+                # ATCNPR no need for checking weekends
+                saturday = "https://www.npr.org/programs/weekend-edition-saturday/archive?date={}-{}-{}".format(str(leftOffDate.month).zfill(2), str(1).zfill(2), leftOffDate.year)
+                request = requests.get(saturday).text
+                selector = Selector(text=request)
+                print("Getting Saturdays")
+                for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                    if item.attrib['class'] != 'episode-list__header':
+                        articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
+                # Grab intial amount of Morning Edition links for this month
+                # ATCNPR no need for checking weekends
+                day = "https://www.npr.org/programs/morning-edition/archive?date={}-{}-{}".format(str(leftOffDate.month).zfill(2), str(1).zfill(2), leftOffDate.year)
+                request = requests.get(day).text
+                selector = Selector(text=request)
+                print("Getting initial weekdays")
+                for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                    if item.attrib['class'] != 'episode-list__header':
+                        articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
+                # NPR only loads more days once the user scrolls to the bottom of their page,
+                # we need to fetch the "scrolllink" link to grab more days untill a new month is found
+                nextMonth = True
+                checkMonth = str(leftOffDate.year) + "/" + str(leftOffDate.month).zfill(2) + "/"
+                while nextMonth:
+                    print("Getting more weekdays")
+                    loadMoreDaysLink = selector.xpath('//div[@id="scrolllink"]/a/@href').get()
+                    # Check we have more days to load
+                    if loadMoreDaysLink == None:
+                        break
+                    moreDaysLink = "https://www.npr.org" + loadMoreDaysLink
+                    request = requests.get(moreDaysLink).text
+                    selector = Selector(text=request)
+                    for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                        if item.attrib['class'] != 'episode-list__header':
+                            newLink = item.xpath('./h2[@class="program-show__title"]/a/@href').get()
+                            if checkMonth in newLink:
+                                articleDayLinks.append(newLink)
+                            else:
+                                nextMonth = False
+                                break
+                print("Sorting links")
+                # filter out links that aren't the same month
+                articleDayLinks = list(filter(lambda x: "/" + str(leftOffDate.month).zfill(2) + "/" in x, articleDayLinks))
+                # sort them in decending order
+                articleDayLinks = sorted(articleDayLinks, key=lambda x: int(x.partition("/" + str(leftOffDate.month).zfill(2) + "/")[2].partition("/")[0]))
+                # create first month of new year if none
+                if editionYearLinkCache == None:
+                    editionYearLinkCache = dict()
+                    editionYearLinkCache = {"01": articleDayLinks}
                 else:
-                    updatedDict = {**newDict, **editionYearLinkCache}
-                    editionYearLinkCache = updatedDict
-            leftOffDate = leftOffDate + timedelta(days=+(len(articleDayLinks) - int(leftOffDate.day) + 1))
-            NPRPageParser.SaveJSONFile(editionYearLinkCache, cachePath, cacheFileName)
+                    newDict = {str(leftOffDate.month).zfill(2): articleDayLinks}
+                    if str(leftOffDate.month).zfill(2) in editionYearLinkCache:
+                        editionYearLinkCache.update(newDict)
+                    else:
+                        updatedDict = {**newDict, **editionYearLinkCache}
+                        editionYearLinkCache = updatedDict
+                leftOffDate = leftOffDate + timedelta(days=+(len(articleDayLinks) - int(leftOffDate.day) + 1))
+                NPRPageParser.SaveJSONFile(editionYearLinkCache, cachePath, cacheFileName)
+        elif leftOffDate.year <= today.year and projectName == "MoWeEd":
+            print("-- Are we redoing a past month of MoWeEd links???")
+            return None
+        elif leftOffDate.year <= today.year and projectName == "ATC":
+            while leftOffDate.month <= 12:
+                cacheFileName = str(leftOffDate.year) + " " + projectName + " Article Link Cache.json"
+                editionYearLinkCache = NPRPageParser.LoadJSONFile(cachePath + cacheFileName)
+                articleDayLinks = list()
+                print(leftOffDate.month)
+                # ATCNPR no need for checking weekends
+                day = "https://www.npr.org/programs/all-things-considered/archive?date={}-{}-{}".format(str(leftOffDate.month).zfill(2), str(1).zfill(2), leftOffDate.year)
+                request = requests.get(day).text
+                selector = Selector(text=request)
+                print("Getting initial days")
+                for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                    if item.attrib['class'] != 'episode-list__header':
+                        articleDayLinks.append(item.xpath('./h2[@class="program-show__title"]/a/@href').get())
+                # NPR only loads more days once the user scrolls to the bottom of their page,
+                # we need to fetch the "scrolllink" link to grab more days untill a new month is found
+                nextMonth = False
+                checkMonth = str(leftOffDate.year) + "/" + str(leftOffDate.month).zfill(2) + "/"
+                while not nextMonth:
+                    print("Getting more days")
+                    loadMoreDaysLink = selector.xpath('//div[@id="scrolllink"]/a/@href').get()
+                    # Check we have more days to load
+                    if loadMoreDaysLink == None:
+                        nextMonth = False # really isn't a next month in archive
+                        break
+                    moreDaysLink = "https://www.npr.org" + loadMoreDaysLink
+                    request = requests.get(moreDaysLink).text
+                    selector = Selector(text=request)
+                    for item in selector.xpath('.//div[@id="episode-list"]/*'):
+                        if item.attrib['class'] != 'episode-list__header':
+                            newLink = item.xpath('./h2[@class="program-show__title"]/a/@href').get()
+                            if checkMonth in newLink:
+                                articleDayLinks.append(newLink)
+                            else:
+                                nextMonth = True
+                print("Sorting links")
+                # filter out links that aren't the same month
+                articleDayLinks = list(filter(lambda x: "/" + str(leftOffDate.month).zfill(2) + "/" in x, articleDayLinks))
+                # sort them in decending order
+                articleDayLinks = sorted(articleDayLinks, key=lambda x: int(x.partition("/" + str(leftOffDate.month).zfill(2) + "/")[2].partition("/")[0]))
+                # create first month of new year if none
+                if editionYearLinkCache == None:
+                    editionYearLinkCache = dict()
+                    editionYearLinkCache = {"01": articleDayLinks}
+                else:
+                    newDict = {str(leftOffDate.month).zfill(2): articleDayLinks}
+                    if str(leftOffDate.month).zfill(2) in editionYearLinkCache:
+                        editionYearLinkCache.update(newDict)
+                    else:
+                        updatedDict = {**newDict, **editionYearLinkCache}
+                        editionYearLinkCache = updatedDict
+                # check so we don't increment past 12th month
+                if leftOffDate.month == 12:
+                    NPRPageParser.SaveJSONFile(editionYearLinkCache, cachePath, cacheFileName)
+                    break
+                else:
+                    leftOffDate = datetime(leftOffDate.year, leftOffDate.month+1, 1)
+                    NPRPageParser.SaveJSONFile(editionYearLinkCache, cachePath, cacheFileName)
         return

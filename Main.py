@@ -5,6 +5,7 @@ import json
 import calendar
 from datetime import datetime
 from datetime import timedelta
+from turtle import left
 from urllib.parse import urlparse
 from NPRPageParser import NPRPageParser
 from NPRSpotifySearch import NPRSpotifySearch
@@ -21,24 +22,39 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # TODO catch and handle badgateway error that happens seldomly
 # TODO figure out 10054 error with Stopiy
 
-# Understand what day we left off
+# Understand what day we left off or if left off is new year
 def createLeftOffDate(today: datetime, projectName: str):
     leftOffDate = today
     editionYearLinkCache = dict()
     isLeftOffYear = False
-    while isLeftOffYear != True:
-        editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(leftOffDate.year) + " " + projectName + " Article Link Cache.json")
-        if editionYearLinkCache == None:
-            leftOffDate = datetime(today.year-1, 1, 1)
-        else:
-            isLeftOffYear = True
-            break
-    # left off month will be first entry in the dictionary
+    # Checking if we're ahead of left off date
+    if leftOffDate.year >= datetime.today().year:
+        while isLeftOffYear != True:
+            editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(leftOffDate.year) + " " + projectName + " Article Link Cache.json")
+            if editionYearLinkCache == None:
+                leftOffDate = datetime(leftOffDate.year-1, 1, 1)
+            else:
+                isLeftOffYear = True
+    else:
+        while isLeftOffYear != True:
+            editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(leftOffDate.year) + " " + projectName + " Article Link Cache.json")
+            if editionYearLinkCache == None:
+                return leftOffDate
+            else:
+                isLeftOffYear = True
+    # # left off month will be first entry in the dictionary or a new entry for new year
+    # if editionYearLinkCache != None:
     for month, links in editionYearLinkCache.items():
-        leftOffDate = datetime(leftOffDate.year, int(month), len(links))
-        leftOffDate = leftOffDate + timedelta(days=+1)
-        break
-    return leftOffDate
+        # ATC check if no entry yet (new year)
+        if len(links) != 0:
+            leftOffDate = datetime(leftOffDate.year, int(month), len(links))
+            leftOffDate = leftOffDate + timedelta(days=+1)
+            return leftOffDate
+        elif len(links) == leftOffDate.day:
+            leftOffDate = datetime(leftOffDate.year, int(month), 1)
+            return leftOffDate
+    else:
+        return leftOffDate
 
 # Step 2
 # Weekend edition shows up 1998 Jan
@@ -49,38 +65,44 @@ def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
     # some how starting at the 1st of Nov rather than 22nd
     while leftOffDate <= today:
         editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(leftOffDate.year) + " " + projectName + " Article Link Cache.json")
-        links = editionYearLinkCache[str(leftOffDate.month).zfill(2)]
-        for i, link in enumerate(links):
-            if i >= leftOffDate.day - 1:
-                requestedHTML = NPRPageParser.RequestURL(link)
-                selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
-                editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML)) # get various article data from this day
-                for story in selectedHTML.xpath('.//div[@id="story-list"]/*'):
-                    if story.attrib['class'] == 'rundown-segment':
-                        editionDayData.append(NPRPageParser.GetArticleInfo(story))
-                    elif story.attrib['class'] == 'music-interlude responsive-rundown':
-                        for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
-                            interlude = dict()
-                            interlude["MoWeEd Track"] = NPRPageParser.GetInterludeSongName(songMETA)
-                            interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
-                            editionDayData.append(interlude)
-                            print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
-                editionYear = editionDayData[0]['Date Numbered'][0:4]
-                editionMonth = editionDayData[0]['Date Numbered'].partition("-")[2].partition("-")[0]
-                editionDate = editionDayData[0]['Date Numbered']
-                editionDay = editionDayData[0]['Day']
-                editionEdition = editionDayData[0]["Edition"][0:15]
-                fileType = ".json"
-                fileName = projectName + " " + editionDate + " " + editionDay + " " + editionEdition + fileType
-                directoryPath = projectName + " Article Data/{0}/{1}/".format(editionYear, editionMonth)
-                NPRPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
-                editionDayData.clear()
-                leftOffDate = leftOffDate + timedelta(days=+1)
+        # ATCNPR Check for none
+        if editionYearLinkCache != None:
+            links = editionYearLinkCache[str(leftOffDate.month).zfill(2)]
+            for i, link in enumerate(links):
+                if i >= leftOffDate.day - 1:
+                    requestedHTML = NPRPageParser.RequestURL(link)
+                    selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
+                    editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML)) # get various article data from this day
+                    for story in selectedHTML.xpath('.//div[@id="story-list"]/*'):
+                        if story.attrib['class'] == 'rundown-segment':
+                            editionDayData.append(NPRPageParser.GetArticleInfo(story))
+                        elif story.attrib['class'] == 'music-interlude responsive-rundown':
+                            for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
+                                interlude = dict()
+                                # ATCNPR Pass project names for keys
+                                interlude["MoWeEd Track"] = NPRPageParser.GetInterludeSongName(songMETA)
+                                interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
+                                editionDayData.append(interlude)
+                                print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
+                    editionYear = editionDayData[0]['Date Numbered'][0:4]
+                    editionMonth = editionDayData[0]['Date Numbered'].partition("-")[2].partition("-")[0]
+                    editionDate = editionDayData[0]['Date Numbered']
+                    editionDay = editionDayData[0]['Day']
+                    editionEdition = editionDayData[0]["Edition"][0:15]
+                    fileType = ".json"
+                    fileName = projectName + " " + editionDate + " " + editionDay + " " + editionEdition + fileType
+                    directoryPath = projectName + " Article Data/{0}/{1}/".format(editionYear, editionMonth)
+                    NPRPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
+                    editionDayData.clear()
+                    leftOffDate = leftOffDate + timedelta(days=+1)
+        else:
+            NPRPageParser.CreateLinkCacheJSONFile(projectName)
 
 # Step 3
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
 def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
     startDate = leftOffDate
+    # ATCNPR Rework how path and file are created
     weekendEdition = "Weekend Edition"
     morningEdition = "Morning Edition"
     nprPlaylistCreator = NPRPlaylistCreator()
@@ -90,6 +112,7 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
     startTime = datetime.now()
     while startDate <= today:
         processedTime = datetime.now()
+        # ATCNPR Rework how path and file are created
         projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
         morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), morningEdition)
         weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), weekendEdition)
@@ -170,11 +193,13 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
             print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
             print("\n")
 
-projectName = "MoWeEd"
-today = datetime(2022, 1, 31)    # datetime.today()
-# leftOffDate = createLeftOffDate(today, projectName)
-NPRPageParser.NPRArticleLinkCacheCreator(today, today, projectName)
-ParseDayLinks(leftOffDate, today, projectName)
-createPlaylists(leftOffDate, today, projectName)
-nprPlaylistCreator = NPRPlaylistCreator()
-nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectName)
+# ATC has music listed starting from January 2nd, 1996
+# projectName = "MoWeEd"
+projectName = "ATC"
+today = datetime(2022, 1, 1)
+leftOffDate = createLeftOffDate(today, projectName)
+NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectName)
+# ParseDayLinks(today, today, projectName)
+# createPlaylists(today, today, projectName)
+# nprPlaylistCreator = NPRPlaylistCreator()
+# nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectName)
