@@ -61,15 +61,14 @@ def createLeftOffDate(today: datetime, projectName: str):
 # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # Used to create json output for each day with various article and track data
 def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
-    editionDayData = list()
-    # some how starting at the 1st of Nov rather than 22nd
+    leftOffYear = leftOffDate
     while leftOffDate <= today:
+        editionDayData = list() 
         editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(leftOffDate.year) + " " + projectName + " Article Link Cache.json")
-        # ATCNPR Check for none
         if editionYearLinkCache != None:
-            links = editionYearLinkCache[str(leftOffDate.month).zfill(2)]
-            for i, link in enumerate(links):
-                if i >= leftOffDate.day - 1:
+            year = editionYearLinkCache # editionYearLinkCache[str(leftOffDate.month).zfill(2)]
+            for month, links in year.items():
+                for i, link in enumerate(links):
                     requestedHTML = NPRPageParser.RequestURL(link)
                     selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
                     editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML)) # get various article data from this day
@@ -80,8 +79,8 @@ def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
                             for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
                                 interlude = dict()
                                 # ATCNPR Pass project names for keys
-                                interlude["MoWeEd Track"] = NPRPageParser.GetInterludeSongName(songMETA)
-                                interlude["MoWeEd Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
+                                interlude["ATC Track"] = NPRPageParser.GetInterludeSongName(songMETA)
+                                interlude["ATC Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
                                 editionDayData.append(interlude)
                                 print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
                     editionYear = editionDayData[0]['Date Numbered'][0:4]
@@ -90,13 +89,14 @@ def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
                     editionDay = editionDayData[0]['Day']
                     editionEdition = editionDayData[0]["Edition"][0:15]
                     fileType = ".json"
-                    fileName = projectName + " " + editionDate + " " + editionDay + " " + editionEdition + fileType
+                    fileName = projectName + " " + editionDate + " " + editionDay + " " + editionEdition + " Considered" + fileType
                     directoryPath = projectName + " Article Data/{0}/{1}/".format(editionYear, editionMonth)
-                    NPRPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
                     editionDayData.clear()
+                    NPRPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
                     leftOffDate = leftOffDate + timedelta(days=+1)
-        else:
-            NPRPageParser.CreateLinkCacheJSONFile(projectName)
+        # else:
+        #     NPRPageParser.CreateLinkCacheJSONFile(projectName)
+        leftOffDate = datetime(leftOffYear.year+1, 1, 1)
 
 # Step 3
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
@@ -196,10 +196,10 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
 # ATC has music listed starting from January 2nd, 1996
 # projectName = "MoWeEd"
 projectName = "ATC"
-today = datetime(2022, 1, 1)
-leftOffDate = createLeftOffDate(today, projectName)
-NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectName)
-# ParseDayLinks(today, today, projectName)
+today = datetime.today()
+leftOffDate = datetime(1999, 1, 1)# createLeftOffDate(today, projectName)
+# NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectName)
+ParseDayLinks(leftOffDate, today, projectName)
 # createPlaylists(today, today, projectName)
 # nprPlaylistCreator = NPRPlaylistCreator()
 # nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectName)

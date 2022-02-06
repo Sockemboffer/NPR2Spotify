@@ -191,8 +191,8 @@ class NPRPageParser:
         elif leftOffDate.year <= today.year and projectName == "MoWeEd":
             print("-- Are we redoing a past month of MoWeEd links???")
             return None
-        elif leftOffDate.year <= today.year and projectName == "ATC":
-            while leftOffDate.month <= 12:
+        elif leftOffDate.year >= today.year and projectName == "ATC":
+            while leftOffDate.month <= today.month:
                 cacheFileName = str(leftOffDate.year) + " " + projectName + " Article Link Cache.json"
                 editionYearLinkCache = NPRPageParser.LoadJSONFile(cachePath + cacheFileName)
                 articleDayLinks = list()
