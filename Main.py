@@ -161,7 +161,6 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
                 startDate = startDate + timedelta(days=+1)
             elif playlistEntry == False and trackEntry == True:
                 # Create a new playlist
-                # TODO handle when only one track and 0.0 match
                 for story, entry in enumerate(editionDay):
                     if entry.get(trackKey):
                         track = nprSpotifySearch.SearchSpotify(entry["MoWeEd Track"], entry["MoWeEd Artists"])
@@ -285,12 +284,13 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
 
 # ATC has music listed starting from January 2nd, 1996
 # projectName = "MoWeEd"
-projectName = "ATC"
+projectPrefix = "ATC"
+projectName = "All Things Considered"
 user_id = "SPOTIFY_USER_ID_ATC"
-today = datetime(1996, 12, 31)
-leftOffDate = datetime(1996, 11, 6)# createLeftOffDate(today, projectName)
+today = datetime(1997, 12, 31)
+leftOffDate = datetime(1997, 1, 7)# createLeftOffDate(today, projectName)
 # NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectName)
 # ParseDayLinks(leftOffDate, today, projectName)
-createPlaylists(leftOffDate, today, projectName, user_id)
+createPlaylists(leftOffDate, today, projectPrefix, user_id)
 # nprPlaylistCreator = NPRPlaylistCreator()
-# nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectName)
+# nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectPrefix, projectName, user_id)

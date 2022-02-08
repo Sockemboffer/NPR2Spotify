@@ -145,17 +145,17 @@ class NPRPlaylistCreator:
     
     # @on_exception(expo, RateLimitException, max_tries=8)
     # @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
-    def ChangePlaylistToPublic(self, leftOffDate: datetime, today: datetime, projectName: str):
+    def ChangePlaylistToPublic(self, leftOffDate: datetime, today: datetime, projectPrefix: str, projectName: str, user_id: str):
         startDate = leftOffDate
-        if projectName != "ATC":
+        if projectPrefix != "ATC":
             while startDate <= today:
-                projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
-                ATCFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
-                weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
+                projectPath = projectPrefix + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+                morningEditionFileName = projectPrefix + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), projectName)
+                weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), projectName)
                 fileType = ".json"
                 # Load article data from disk
                 if startDate.weekday() <= 4:
-                    editionDay = NPRPageParser.LoadJSONFile(projectPath + ATCFileName + fileType)
+                    editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
                 else:
                     editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
                 if editionDay == None:
@@ -175,8 +175,8 @@ class NPRPlaylistCreator:
                     startDate = startDate + timedelta(days=+1)
         else:
             while startDate <= today:
-                projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
-                ATCFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "ATC")
+                projectPath = projectPrefix + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+                ATCFileName = projectPrefix + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), projectName)
                 fileType = ".json"
                 # Load article data from disk
                 editionDay = NPRPageParser.LoadJSONFile(projectPath + ATCFileName + fileType)
