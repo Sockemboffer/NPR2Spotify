@@ -50,14 +50,15 @@ class NPRPlaylistCreator:
                 if entry == "Result Track-Match Percent":
                     if item["Result Track-Match Percent"] >= 0.5 and item["Result Artists-Match Percent"] >= 0.5:
                         tracksURIs.append(item["Result Track URI"])
-        urisData = dict()
-        urisData["uris"] = tracksURIs
-        request_data = json.dumps(urisData)
-        query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
-        response = self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
-        if response.status_code not in [200, 201, 202]:
-            raise Exception('API response: {}'.format(response.status_code))
-        print("-- Playlist tracks added.")
+        if len(tracksURIs) != 0:
+            urisData = dict()
+            urisData["uris"] = tracksURIs
+            request_data = json.dumps(urisData)
+            query = "https://api.spotify.com/v1/playlists/{}/tracks".format(editionDayData[0]['Playlist URI'])
+            response = self.requestSession.post(query, request_data, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
+            if response.status_code not in [200, 201, 202]:
+                raise Exception('API response: {}'.format(response.status_code))
+            print("-- Playlist tracks added.")
 
     # TODO understand I'm calling replace when I haven't actually created the playlist
     @on_exception(expo, RateLimitException, max_tries=8)
@@ -146,28 +147,51 @@ class NPRPlaylistCreator:
     # @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def ChangePlaylistToPublic(self, leftOffDate: datetime, today: datetime, projectName: str):
         startDate = leftOffDate
-        while startDate <= today:
-            projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
-            morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
-            weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
-            fileType = ".json"
-            # Load article data from disk
-            if startDate.weekday() <= 4:
-                editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
-            else:
-                editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
-            if editionDay == None:
-                startDate = startDate + timedelta(days=+1)
-                continue
-            elif editionDay[0]["Playlist URI"] == None:
-                print("Uhhhh..........")
-                exception(editionDay)
-            else:
-                editionPlaylistURI = editionDay[0]["Playlist URI"]
-                query = "https://api.spotify.com/v1/playlists/{}".format(editionPlaylistURI)
-                payload = {"public": True}
-                response = self.requestSession.put(query, json.dumps(payload), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
-                if response.status_code not in [200, 201, 202]:
-                    raise Exception('API response: {}'.format(response.status_code))
-                print("-- Day {0} at {1} now public.\n".format(startDate, editionDay[0]["Playlist Link"]))
-                startDate = startDate + timedelta(days=+1)
+        if projectName != "ATC":
+            while startDate <= today:
+                projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+                ATCFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
+                weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
+                fileType = ".json"
+                # Load article data from disk
+                if startDate.weekday() <= 4:
+                    editionDay = NPRPageParser.LoadJSONFile(projectPath + ATCFileName + fileType)
+                else:
+                    editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
+                if editionDay == None:
+                    startDate = startDate + timedelta(days=+1)
+                    continue
+                elif editionDay[0]["Playlist URI"] == None:
+                    print("Uhhhh..........")
+                    exception(editionDay)
+                else:
+                    editionPlaylistURI = editionDay[0]["Playlist URI"]
+                    query = "https://api.spotify.com/v1/playlists/{}".format(editionPlaylistURI)
+                    payload = {"public": True}
+                    response = self.requestSession.put(query, json.dumps(payload), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
+                    if response.status_code not in [200, 201, 202]:
+                        raise Exception('API response: {}'.format(response.status_code))
+                    print("-- Day {0} at {1} now public.\n".format(startDate, editionDay[0]["Playlist Link"]))
+                    startDate = startDate + timedelta(days=+1)
+        else:
+            while startDate <= today:
+                projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+                ATCFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "ATC")
+                fileType = ".json"
+                # Load article data from disk
+                editionDay = NPRPageParser.LoadJSONFile(projectPath + ATCFileName + fileType)
+                if editionDay == None:
+                    startDate = startDate + timedelta(days=+1)
+                    continue
+                elif editionDay[0]["Playlist URI"] == None:
+                    print("Uhhhh..........")
+                    exception(editionDay)
+                else:
+                    editionPlaylistURI = editionDay[0]["Playlist URI"]
+                    query = "https://api.spotify.com/v1/playlists/{}".format(editionPlaylistURI)
+                    payload = {"public": True}
+                    response = self.requestSession.put(query, json.dumps(payload), headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
+                    if response.status_code not in [200, 201, 202]:
+                        raise Exception('API response: {}'.format(response.status_code))
+                    print("-- Day {0} at {1} now public.\n".format(startDate, editionDay[0]["Playlist Link"]))
+                    startDate = startDate + timedelta(days=+1)
