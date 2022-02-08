@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-04-11",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:05:07"
+        "Scanned Date": "2022-02-06 19:05:07",
+        "Playlist URI": "5FY2QGnaXel0jthOvGq3IP",
+        "Playlist Link": "https://open.spotify.com/playlist/5FY2QGnaXel0jthOvGq3IP",
+        "Snapshot ID": "MSwyMzAyNDhhNTkyZTIxZjA5N2ZkMDc0ODc3ZTMwYzBmOTMyOGQzMmUx",
+        "Playlist Name": "ATC 1997-04-11 Fri All Things Considered"
     },
     {
         "Title": "E.U. & Iran",
@@ -29,13 +33,26 @@
         "ATC Artists": [
             "Martin Simpson",
             "Wu Man"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Queenie's Waltz",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Queenie's Waltz",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71873AY22GZwjDxA2B1ErA",
+        "Result Album Name": "Wine, Women & Waltz"
     },
     {
         "Title": "Lithuania's Nato Bid",

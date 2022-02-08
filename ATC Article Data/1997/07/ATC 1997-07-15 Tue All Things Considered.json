@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-07-15",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:01:26"
+        "Scanned Date": "2022-02-06 19:01:26",
+        "Playlist URI": "2QY1E3mGBTOHmh8XUZyh1D",
+        "Playlist Link": "https://open.spotify.com/playlist/2QY1E3mGBTOHmh8XUZyh1D",
+        "Snapshot ID": "MSxiZDIyMjIxNWIwYWY0MTQ2NTA5YjY2ODE0MTEyZDk1NGI0Zjk2MTJi",
+        "Playlist Name": "ATC 1997-07-15 Tue All Things Considered"
     },
     {
         "Title": "Passive Smoking Trial",
@@ -16,7 +20,12 @@
         "ATC Track": "GRDLATEN",
         "ATC Artists": [
             "HORIZONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Clinton & Taxes",
@@ -34,13 +43,29 @@
         "ATC Track": "Miles Near",
         "ATC Artists": [
             "Øystein Sevåg"
-        ]
+        ],
+        "Result Track Name": "Miles Near",
+        "Result Artist Names": [
+            "ØYSTEIN SEVÅG"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yLj2CQjE7c0PBBxWM0Ok3",
+        "Result Album Name": "Link"
     },
     {
         "ATC Track": "Dance of the Rain Forest",
         "ATC Artists": [
             "Ancient Future"
-        ]
+        ],
+        "Result Track Name": "Dance Of The Rain Forest",
+        "Result Artist Names": [
+            "Ancient Future"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1A9IaPeZNQxCuqsPqfx39a",
+        "Result Album Name": "World Without Walls"
     },
     {
         "Title": "Evolving Terrorism",
@@ -53,14 +78,30 @@
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "Our Man In Havana",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UrRgnmkrFyDWvOiqYccM9",
+        "Result Album Name": "The Familiar"
     },
     {
         "ATC Track": "Mister Bosco",
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "Mister Bosco",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4aPB8SZ8Lf8sqrWRCwIovo",
+        "Result Album Name": "Little Things Left Behind 1988 - 1998"
     },
     {
         "Title": "Wellstone's Poverty Tour",
@@ -72,7 +113,15 @@
         "ATC Track": "Now It's Raining",
         "ATC Artists": [
             "Todd Phillips"
-        ]
+        ],
+        "Result Track Name": "Now It's Raining",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17aqUJJgcS0BvW2dBttPGH",
+        "Result Album Name": "Timeframe"
     },
     {
         "Title": "Red Zone",
@@ -85,14 +134,28 @@
         "ATC Artists": [
             "Sir Yehudi Menuhin",
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Jive at Five",
         "ATC Artists": [
             "Stéphane Grappelli",
             "Martin Taylor"
-        ]
+        ],
+        "Result Track Name": "Jive at Five",
+        "Result Artist Names": [
+            "Pearl Django",
+            "Martin Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0mTQ1BxazCyyOsupXoYXaq",
+        "Result Album Name": "Eleven"
     },
     {
         "Title": "Summer Reading",
@@ -104,7 +167,15 @@
         "ATC Track": "GEORGIA SWING",
         "ATC Artists": [
             "THE DIRTY DOZEN BRASS BAND"
-        ]
+        ],
+        "Result Track Name": "Georgia Swing",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5l1LZcuLt9nvJsj0k83B3o",
+        "Result Album Name": "This is Jazz 30: The Dirty Dozen Brass Band"
     },
     {
         "Title": "Campaign Finance",
@@ -116,7 +187,15 @@
         "ATC Track": "SISTERS",
         "ATC Artists": [
             "THE MICHAEL NYMAN BAND"
-        ]
+        ],
+        "Result Track Name": "Sisters",
+        "Result Artist Names": [
+            "Michael Nyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0gDQzEqtthhJKN7Kb6IB1Y",
+        "Result Album Name": "Six Days, Six Nights"
     },
     {
         "Title": "Death Row Releases",
@@ -134,14 +213,24 @@
         "ATC Track": "Weeping Willow Blues",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "I'll Never Be the Same",
         "ATC Artists": [
             "Butch Thompson",
             "Doc Cheatham"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Aids Rate For Women",
@@ -153,7 +242,12 @@
         "ATC Track": "GETZ VARIATIONS: THE LADY FROM PORTOLA",
         "ATC Artists": [
             "DAVID DEMPSEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Life Before Death",
@@ -165,13 +259,29 @@
         "ATC Track": "HACKY SACK JIG",
         "ATC Artists": [
             "RICH NIEBAUM"
-        ]
+        ],
+        "Result Track Name": "Hacky Sack Jig",
+        "Result Artist Names": [
+            "Rich Niebaum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5kNyfgnBGrERNeVsBheOvo",
+        "Result Album Name": "Little Tantrums"
     },
     {
         "ATC Track": "LAURIE WYNNE WENDED",
         "ATC Artists": [
             "RICH NIEBAUM"
-        ]
+        ],
+        "Result Track Name": "Laurie Wynne Wended",
+        "Result Artist Names": [
+            "Rich Niebaum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Kk1bLgGsUCKomRRsS5AVG",
+        "Result Album Name": "Little Tantrums"
     },
     {
         "Title": "Naacp & Police",
@@ -189,7 +299,15 @@
         "ATC Track": "MOPTI",
         "ATC Artists": [
             "DEAN MAGRAW"
-        ]
+        ],
+        "Result Track Name": "Mopti",
+        "Result Artist Names": [
+            "Dean Magraw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vRFD9sOyVoAz6wyHapMBh",
+        "Result Album Name": "Broken Silence"
     },
     {
         "Title": "Papers & Dancing",
@@ -201,13 +319,28 @@
         "ATC Track": "FIVE PIANO SKETCHES: MONSIEUR LAPLACE SINKS THE ROWBOAT",
         "ATC Artists": [
             "DAVE LESLIE WITH MIKE CURTIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "in a black box",
         "ATC Artists": [
             "ian anderson"
-        ]
+        ],
+        "Result Track Name": "Anderson: In a Black Box (Orch. Ian Anderson and Andrew Giddings)",
+        "Result Artist Names": [
+            "Andrew Giddings",
+            "Ian Anderson",
+            "Ian Anderson/Andrew Giddings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2A1A0jvUKxekSiAs19ex4C",
+        "Result Album Name": "Divinities: Twelve Dances With God"
     },
     {
         "Title": "Versace Murder",
@@ -219,7 +352,15 @@
         "ATC Track": "MIRROR IN BLUE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mirror In Blue",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mqoSKloGP24YYzptURqR4",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "Modesty",
@@ -232,13 +373,31 @@
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Children of the Dark",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CUDKNMkhXN67AifWbbaFs",
+        "Result Album Name": "Industry"
     },
     {
         "ATC Track": "Pitfalls",
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Pitfalls",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yf9CjExvcDAqLamZtsLMr",
+        "Result Album Name": "Industry"
     }
 ]

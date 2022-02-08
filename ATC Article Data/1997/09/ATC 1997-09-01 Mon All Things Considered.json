@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-09-01",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 18:58:34"
+        "Scanned Date": "2022-02-06 18:58:34",
+        "Playlist URI": "0B9UydHvGO9Mv0Eujhv0MV",
+        "Playlist Link": "https://open.spotify.com/playlist/0B9UydHvGO9Mv0Eujhv0MV",
+        "Snapshot ID": "MSw4NzFhZDJlNzE1MDllNzY5Mjg1ZTNhZmJiNzlhZjY0MmM4MjIwNDJi",
+        "Playlist Name": "ATC 1997-09-01 Mon All Things Considered"
     },
     {
         "Title": "Investigation",
@@ -29,7 +33,12 @@
         "ATC Artists": [
             "philharmonia virtuosi",
             "richard kapp-conductor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fall Movies",
@@ -41,13 +50,27 @@
         "ATC Track": "THE JAMES BOND THEME",
         "ATC Artists": [
             "stephane grappelli\rlive"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Suite for keyboard in G minor, HWV 452",
         "ATC Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": "Suite in G Minor, HWV 452: 4. Gigue",
+        "Result Artist Names": [
+            "George Frideric Handel",
+            "Keith Jarrett"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:0bCmsuemBZMLBRev1TI3nQ",
+        "Result Album Name": "Handel: Suites For Keyboard"
     },
     {
         "Title": "Picture Me Rolling: Shomari's Story",
@@ -59,7 +82,15 @@
         "ATC Track": "HARD TIMES COME NO MORE",
         "ATC Artists": [
             "HARVEY REID"
-        ]
+        ],
+        "Result Track Name": "Hard Times (Come Again No More)",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eHDApeXyYSUVrJfcTCYh0",
+        "Result Album Name": "Capo Voodoo: Solo Guitar"
     },
     {
         "Title": "Diana Copy",
@@ -89,7 +120,15 @@
         "ATC Track": "Knoxville Rag",
         "ATC Artists": [
             "Etta Baker"
-        ]
+        ],
+        "Result Track Name": "Knoxville Rag",
+        "Result Artist Names": [
+            "Etta Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5K1Kv6jHiMTZafOuQo8OjQ",
+        "Result Album Name": "One-Dime Blues"
     },
     {
         "Title": "Mir",
@@ -107,7 +146,12 @@
         "ATC Track": "Suite for keyboard (Suite de piece), Vol.1, No.4 in E minor, HWV 429",
         "ATC Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congressional Agenda",
@@ -119,7 +163,15 @@
         "ATC Track": "DOLLY'S ARRIVAL",
         "ATC Artists": [
             "TAJ MAHAL"
-        ]
+        ],
+        "Result Track Name": "Dolly's Arrival - The Hot Spot/Soundtrack Version",
+        "Result Artist Names": [
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71TbvgYnvfb0gUCVcOegSY",
+        "Result Album Name": "The Hot Spot (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Bus I",
@@ -131,13 +183,29 @@
         "ATC Track": "HARRY'S PHILOSOPHY",
         "ATC Artists": [
             "JOHN LEE HOOKER"
-        ]
+        ],
+        "Result Track Name": "Harry's Philosophy - The Hot Spot/Soundtrack Version",
+        "Result Artist Names": [
+            "John Lee Hooker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:696gRWlgSMfozFDWsgOHWg",
+        "Result Album Name": "The Hot Spot (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "HARRY'S PHILOSOPHY",
         "ATC Artists": [
             "JOHN LEE HOOKER"
-        ]
+        ],
+        "Result Track Name": "Harry's Philosophy - The Hot Spot/Soundtrack Version",
+        "Result Artist Names": [
+            "John Lee Hooker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:696gRWlgSMfozFDWsgOHWg",
+        "Result Album Name": "The Hot Spot (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Bus Ii",
@@ -149,6 +217,14 @@
         "ATC Track": "Spanish Fandango",
         "ATC Artists": [
             "Etta Baker"
-        ]
+        ],
+        "Result Track Name": "Spanish Fandango",
+        "Result Artist Names": [
+            "Etta Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cMuCMv77EEMslIUG7tFfG",
+        "Result Album Name": "One-Dime Blues"
     }
 ]

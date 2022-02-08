@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-08-01",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:59:38"
+        "Scanned Date": "2022-02-06 18:59:38",
+        "Playlist URI": "6T2AEQhWxGvuOLL3APY7Mr",
+        "Playlist Link": "https://open.spotify.com/playlist/6T2AEQhWxGvuOLL3APY7Mr",
+        "Snapshot ID": "MSwyYzMwNzY2NzcwOWY4N2I5Mjg0NWE5YWY5N2YwMzYxNTdkMWYwYzEx",
+        "Playlist Name": "ATC 1997-08-01 Fri All Things Considered"
     },
     {
         "Title": "Brooklyn Folo",
@@ -28,13 +32,26 @@
         "ATC Track": "GINGERBREAD BOY",
         "ATC Artists": [
             "MILES DAVIS QUINTET"
-        ]
+        ],
+        "Result Track Name": "Gingerbread Boy",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3Gi69Wjht0q3AZQu6tQwxi",
+        "Result Album Name": "Miles Smiles"
     },
     {
         "ATC Track": "ORGAN GRINDER BLUES",
         "ATC Artists": [
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Azerbaijan",
@@ -52,13 +69,26 @@
         "ATC Track": "All the Things You Are",
         "ATC Artists": [
             "Lennie Tristano"
-        ]
+        ],
+        "Result Track Name": "All the Things You Are",
+        "Result Artist Names": [
+            "Lennie Tristano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58zUkKsIW9UEWNW4bZ5E3b",
+        "Result Album Name": "Lennie Tristano / The New Tristano"
     },
     {
         "ATC Track": "SHE SAID",
         "ATC Artists": [
             "THE TRISAXUAL SOUL CHAMPS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Medicaid Suit",
@@ -76,7 +106,12 @@
         "ATC Track": "ACHINE HEARTED BLUES",
         "ATC Artists": [
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Office Wars",
@@ -88,13 +123,30 @@
         "ATC Track": "WALKIN' BOSS",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": "Walkin' Boss",
+        "Result Artist Names": [
+            "Jerry Garcia",
+            "David Grisman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7yaPeKHH0nbXsOjKb6sk81",
+        "Result Album Name": "Jerry Garcia & David Grisman"
     },
     {
         "ATC Track": "SISTERS",
         "ATC Artists": [
             "THE MICHAEL NYMAN BAND"
-        ]
+        ],
+        "Result Track Name": "Sisters",
+        "Result Artist Names": [
+            "Michael Nyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0gDQzEqtthhJKN7Kb6IB1Y",
+        "Result Album Name": "Six Days, Six Nights"
     },
     {
         "Title": "May Sarton Letters",
@@ -106,13 +158,26 @@
         "ATC Track": "A NEW BEGINNING",
         "ATC Artists": [
             "THE MICHAEL NYMAN BAND"
-        ]
+        ],
+        "Result Track Name": "A New Beginning",
+        "Result Artist Names": [
+            "Michael Nyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:61pyvObUuRK91P9AhCV528",
+        "Result Album Name": "Six Days, Six Nights"
     },
     {
         "ATC Track": "GRANDE VALSE BRILLANTE",
         "ATC Artists": [
             "ARTUR RUBENSTEIN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ups",
@@ -130,7 +195,15 @@
         "ATC Track": "Go Jake",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Go Jake",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gpWwJmw14wu3LDQgpwq9m",
+        "Result Album Name": "Nashville"
     },
     {
         "Title": "Hidden Tax Breaks",
@@ -143,7 +216,16 @@
         "ATC Artists": [
             "Speedy West",
             "Jimmy Bryant"
-        ]
+        ],
+        "Result Track Name": "Blue Bonnet Rag",
+        "Result Artist Names": [
+            "Jimmy Bryant",
+            "Speedy West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4OXYk998yXFQSxr8nle5NE",
+        "Result Album Name": "2 Guitars Country Style"
     },
     {
         "Title": "Hs Grads",
@@ -157,13 +239,29 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Think",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5l5SZDzVKWqjoDGfNBDPQi",
+        "Result Album Name": "Shack-man"
     },
     {
         "ATC Track": "CARRY ON",
         "ATC Artists": [
             "FAREED HAQUE"
-        ]
+        ],
+        "Result Track Name": "Carry On",
+        "Result Artist Names": [
+            "Fareed Haque"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ef7kvA2MMNiU7sh8XLIwD",
+        "Result Album Name": "Deja Vu"
     },
     {
         "Title": "I-131 Risk",
@@ -193,6 +291,11 @@
         "ATC Track": "CAPRICE XXIV",
         "ATC Artists": [
             "BENNY GOODMAN AND HIS ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

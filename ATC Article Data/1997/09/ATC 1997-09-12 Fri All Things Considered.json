@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-09-12",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:59:04"
+        "Scanned Date": "2022-02-06 18:59:04",
+        "Playlist URI": "3CQZfbMjWmOtO4cpVF9hOC",
+        "Playlist Link": "https://open.spotify.com/playlist/3CQZfbMjWmOtO4cpVF9hOC",
+        "Snapshot ID": "MSwzYzZiMGQxNGZkZGUxNTJkNTIwNWNhZjRjMzhlOWVlODJiZWVjMmEw",
+        "Playlist Name": "ATC 1997-09-12 Fri All Things Considered"
     },
     {
         "Title": "Surgeon General",
@@ -28,14 +32,29 @@
         "ATC Track": "ARIA FROM CONCERTO FOR COLORATURA, OP. 82",
         "ATC Artists": [
             "RED SQUARE BLUE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Brady Bunch - in the style of Mozart",
         "ATC Artists": [
             "Grant Gershon",
             "Hollywood Chamber Symphony"
-        ]
+        ],
+        "Result Track Name": "Piano Concerto in F Major, \"Rerun\" (in the style of Mozart) (D. Fraser): III. The Brady Bunch",
+        "Result Artist Names": [
+            "Donald Fraser",
+            "Grant Gershon",
+            "Hollywood Chamber Symphony"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LGm0ckWwsFukodMwr8ksQ",
+        "Result Album Name": "Mozart Tv - Favorite Tv Tunes in the Style of Great Classical Composers"
     },
     {
         "Title": "Kennedy Center Honors",
@@ -48,7 +67,15 @@
         "ATC Artists": [
             "Booker T",
             "the MG'S"
-        ]
+        ],
+        "Result Track Name": "Gotta Serve Somebody",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:4C0jeqnMpP88F5PesWB4a2",
+        "Result Album Name": "Time Is Tight"
     },
     {
         "Title": "Fall Tv Season",
@@ -114,13 +141,29 @@
         "ATC Track": "Triangle",
         "ATC Artists": [
             "Trisan"
-        ]
+        ],
+        "Result Track Name": "Triangle",
+        "Result Artist Names": [
+            "Trisan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ztfaFAvL29Nd7xBhomxxL",
+        "Result Album Name": "TrÌsan"
     },
     {
         "ATC Track": "Yr Mother Called Them Farmhouses",
         "ATC Artists": [
             "Robin Holcomb"
-        ]
+        ],
+        "Result Track Name": "Yr Mother Called Them Farmhouses",
+        "Result Artist Names": [
+            "Robin Holcomb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1faF0j6zg8kHOizte8MNML",
+        "Result Album Name": "Robin Holcomb"
     },
     {
         "Title": "Scotland",
@@ -144,7 +187,16 @@
         "ATC Track": "PRELUDEUM",
         "ATC Artists": [
             "PERCEPTUAL OUTER DIMENSIONS"
-        ]
+        ],
+        "Result Track Name": "Preludeum",
+        "Result Artist Names": [
+            "Holmes Ives",
+            "Perceptual Outer Dimensions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wutDCrU8zLhHErcI2CE5S",
+        "Result Album Name": "Euphonia"
     },
     {
         "Title": "Miss America",

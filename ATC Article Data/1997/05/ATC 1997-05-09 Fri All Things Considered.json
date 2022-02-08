@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-05-09",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:03:33"
+        "Scanned Date": "2022-02-06 19:03:33",
+        "Playlist URI": "5DV3rLRJkWnn3R9fXlLsSD",
+        "Playlist Link": "https://open.spotify.com/playlist/5DV3rLRJkWnn3R9fXlLsSD",
+        "Snapshot ID": "MSw3NmRiMzMxOWNmMzc4NmU2MTNmMGE3ZmFkZTMyZWFhYTE3ZTJiMTkx",
+        "Playlist Name": "ATC 1997-05-09 Fri All Things Considered"
     },
     {
         "Title": "Mobutu",
@@ -23,7 +27,17 @@
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Los Them",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DeGlfGREhIwt9qWYsrs0P",
+        "Result Album Name": "Rios"
     },
     {
         "Title": "Un-Israel",
@@ -35,7 +49,12 @@
         "ATC Track": "Mama Tried",
         "ATC Artists": [
             "Nashville Super Guitars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mothers' Work",
@@ -71,7 +90,15 @@
         "ATC Track": "Muddy Water",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Muddy Water",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BCI3ExssHBO6cq5oJ46dk",
+        "Result Album Name": "Smith, Bessie: Empty Bed Blues (1927-1928)"
     },
     {
         "Title": "Bulls Empire?",
@@ -89,7 +116,15 @@
         "ATC Track": "Muddy Water",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Muddy Water",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BCI3ExssHBO6cq5oJ46dk",
+        "Result Album Name": "Smith, Bessie: Empty Bed Blues (1927-1928)"
     },
     {
         "Title": "Trial Testimony",
@@ -113,7 +148,15 @@
         "ATC Track": "NICE WORK IF YOU CAN GET IT",
         "ATC Artists": [
             "JOHN HICKS"
-        ]
+        ],
+        "Result Track Name": "Nice Work If You Can Get It",
+        "Result Artist Names": [
+            "John Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1AuWLJkWlA2r5CYBecmgYw",
+        "Result Album Name": "Biding My Time: John Miller Plays George Gershwin"
     },
     {
         "Title": "Prescription Drugs",
@@ -131,13 +174,26 @@
         "ATC Track": "Berceuse",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "sandu",
         "ATC Artists": [
             "james carter"
-        ]
+        ],
+        "Result Track Name": "SANDU",
+        "Result Artist Names": [
+            "JAMES CARTER QUARTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LFS94sXKtqnCyWerL8YJX",
+        "Result Album Name": "JURASSIC CLASSICS"
     },
     {
         "Title": "Cuban Capitalists",
@@ -155,7 +211,15 @@
         "ATC Track": "Cutting Branches for a Temporary Shelter",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Cutting Branches For A Temporary Shelter - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0Lm3loChnSsNS37nxvLYcN",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "Title": "Frogs",
@@ -167,13 +231,29 @@
         "ATC Track": "Cutting Branches for a Temporary Shelter",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Cutting Branches For A Temporary Shelter - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0Lm3loChnSsNS37nxvLYcN",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "ATC Track": "St. Louis Blues",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "St. Louis Blues",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5CLj17X0Dh6amugItMGn9Z",
+        "Result Album Name": "Bug Music"
     },
     {
         "Title": "The Alan Lomax Collection",

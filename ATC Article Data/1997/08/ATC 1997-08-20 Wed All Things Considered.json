@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-08-20",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:00:21"
+        "Scanned Date": "2022-02-06 19:00:21",
+        "Playlist URI": "47XZWeAbZ1OMAFrWakFGVc",
+        "Playlist Link": "https://open.spotify.com/playlist/47XZWeAbZ1OMAFrWakFGVc",
+        "Snapshot ID": "MSw2NTkyOTgwNjkyZDEzZDMwOWJjMDcyNjIxNjMwNDQxZjE5YjA4OTFh",
+        "Playlist Name": "ATC 1997-08-20 Wed All Things Considered"
     },
     {
         "Title": "Mir Plans",
@@ -29,7 +33,16 @@
         "ATC Artists": [
             "nursat fateh ali khan",
             "michael brooks"
-        ]
+        ],
+        "Result Track Name": "Longing",
+        "Result Artist Names": [
+            "Michael Brook",
+            "Nusrat Fateh Ali Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:36RxCz8eUDCc6nKp9cvlhb",
+        "Result Album Name": "Night Song"
     },
     {
         "ATC Track": "Bubblehouse",
@@ -37,7 +50,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Bubblehouse",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YtX5xh7y5FoQywRmsGCeK",
+        "Result Album Name": "Shack-man"
     },
     {
         "Title": "Trends In Tobacco",
@@ -55,13 +76,31 @@
         "ATC Track": "MONTICELLO",
         "ATC Artists": [
             "ROMANE"
-        ]
+        ],
+        "Result Track Name": "Monticello",
+        "Result Artist Names": [
+            "Romane",
+            "Francis Varis & Florin Niculescu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3w4G7IwLIetk31OsQYOUto",
+        "Result Album Name": "Ombre (Intégrale Romane, vol. 3)"
     },
     {
         "ATC Track": "deep henderson",
         "ATC Artists": [
             "king oliver and his dixie syncopators"
-        ]
+        ],
+        "Result Track Name": "Deep Henderson",
+        "Result Artist Names": [
+            "King Oliver",
+            "King Oliver's Dixie Syncopators"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2BqYzvMGaxT6Ktp9afGsJC",
+        "Result Album Name": "Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1"
     },
     {
         "Title": "Needle Exchange",
@@ -85,7 +124,12 @@
         "ATC Track": "A SHOT IN THE DARK",
         "ATC Artists": [
             "JUMP WITH JOEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Blue Wall Of Silence",
@@ -109,7 +153,15 @@
         "ATC Track": "The Desert Sky",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Desert Sky",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71JCjjV7lGK2bc7avnv0TP",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "Title": "Arafat Meetings",
@@ -127,13 +179,23 @@
         "ATC Track": "The Golem",
         "ATC Artists": [
             "Davka"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "K.P.",
         "ATC Artists": [
             "CAFE NOIR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Smithsonian Folk Music",
@@ -145,7 +207,15 @@
         "ATC Track": "Mr. Memory",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Mr. Memory",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0nRiLwiYVTYEug5J4zepI3",
+        "Result Album Name": "Nashville"
     },
     {
         "Title": "Nh Killings",
@@ -163,6 +233,11 @@
         "ATC Track": "PART NO. 3",
         "ATC Artists": [
             "JAN SANDELL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

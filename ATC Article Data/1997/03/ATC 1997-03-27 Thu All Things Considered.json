@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-03-27",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:06:07"
+        "Scanned Date": "2022-02-06 19:06:07",
+        "Playlist URI": "68i38J4rBs5NghOxo8ylZM",
+        "Playlist Link": "https://open.spotify.com/playlist/68i38J4rBs5NghOxo8ylZM",
+        "Snapshot ID": "MSxjMDg3NmMyMWM5M2QxMmU3ZjZlNDE0MmVkMzIwZjlkMmIyMjE1Zjcx",
+        "Playlist Name": "ATC 1997-03-27 Thu All Things Considered"
     },
     {
         "Title": "Ca Suicides",
@@ -28,13 +32,26 @@
         "ATC Track": "PANINI PUA KEA",
         "ATC Artists": [
             "CYRIL PAHINUI"
-        ]
+        ],
+        "Result Track Name": "Panini Pua Kea",
+        "Result Artist Names": [
+            "Cyril Pahinui"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0W42rEwiNcycinEvToaFCF",
+        "Result Album Name": "6 & 12 String Slack Key Guitar"
     },
     {
         "ATC Track": "Children's Corner, suite for piano (or orchestra), L. 113",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Russia Strikes",
@@ -52,7 +69,15 @@
         "ATC Track": "Red Wind",
         "ATC Artists": [
             "Jan Garbarek"
-        ]
+        ],
+        "Result Track Name": "Red Wind",
+        "Result Artist Names": [
+            "Jan Garbarek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MB1W09LUZCYrXTA0JdW3M",
+        "Result Album Name": "Visible World"
     },
     {
         "Title": "Chicago Neighborhood",
@@ -76,7 +101,15 @@
         "ATC Track": "In Water",
         "ATC Artists": [
             "Roger Eno"
-        ]
+        ],
+        "Result Track Name": "In Water",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0tmX1AHjvqVOjWyduYgGmC",
+        "Result Album Name": "Swimming"
     },
     {
         "Title": "Hale-Bopp",
@@ -88,7 +121,15 @@
         "ATC Track": "DOGGIE DOG",
         "ATC Artists": [
             "MICHAEL BROOK"
-        ]
+        ],
+        "Result Track Name": "Doggie Dog",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5J01beTv1ad8op7CqsfrPe",
+        "Result Album Name": "Albino Alligator"
     },
     {
         "Title": "Letter From Mir",

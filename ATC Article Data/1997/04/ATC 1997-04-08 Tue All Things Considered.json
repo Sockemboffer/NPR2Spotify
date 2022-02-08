@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-04-08",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:04:51"
+        "Scanned Date": "2022-02-06 19:04:51",
+        "Playlist URI": "76ZZfO2MD7sjUuFKAIshJN",
+        "Playlist Link": "https://open.spotify.com/playlist/76ZZfO2MD7sjUuFKAIshJN",
+        "Snapshot ID": "MSw4YWViYmQ2YTc1MmIyNTAxNTIyM2E0M2IyMTE4Y2RhYjAyZjM3ZWIw",
+        "Playlist Name": "ATC 1997-04-08 Tue All Things Considered"
     },
     {
         "Title": "Hebron Shooting",
@@ -28,7 +32,12 @@
         "ATC Track": "GETZ VARIATIONS: THE LADY FROM PORTOLA",
         "ATC Artists": [
             "DAVID DEMPSEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Archbishop",
@@ -40,13 +49,39 @@
         "ATC Track": "Baal T'Shuvah",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Baal T'shuvah",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FgjPyH8VvGfld7DQtc9Vt",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "THE LITTLE CLOWN",
         "ATC Artists": [
             "TONY ELMAN"
-        ]
+        ],
+        "Result Track Name": "The Little Clown",
+        "Result Artist Names": [
+            "Tony Elman",
+            "Joe Craven",
+            "Darol Anger",
+            "Todd Phillips",
+            "Mike Marshall",
+            "Matt Eakle",
+            "Rob Ickles",
+            "Edgar Meyer",
+            "Peter Elman",
+            "Odile Lagault",
+            "Jim Kerwin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2e3yulFuDP2cLqwfaBBgpH",
+        "Result Album Name": "Earthtones"
     },
     {
         "Title": "Florida Electric Chair",
@@ -58,7 +93,15 @@
         "ATC Track": "Blessing in Disguise",
         "ATC Artists": [
             "Trilok Gurtu"
-        ]
+        ],
+        "Result Track Name": "Blessing In Disguise",
+        "Result Artist Names": [
+            "Trilok Gurtu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pq2n6smY8XErXdVugG9IM",
+        "Result Album Name": "Izzat The Remix Album"
     },
     {
         "Title": "Big Brother",
@@ -70,13 +113,29 @@
         "ATC Track": "MORNING SONG",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Morning Song",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IyRhloiDQSQzL2D3ntFFN",
+        "Result Album Name": "Stick Figures"
     },
     {
         "ATC Track": "ADRIFT",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Adrift",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28BQtBXSXXO8zsUlCUUmFd",
+        "Result Album Name": "Stick Figures"
     },
     {
         "Title": "Chemical Weapons",
@@ -100,13 +159,29 @@
         "ATC Track": "ADOBE ABODE",
         "ATC Artists": [
             "THE HENRYS"
-        ]
+        ],
+        "Result Track Name": "Adobe Abode",
+        "Result Artist Names": [
+            "The Henrys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UWwQrADOi4MfSccSvmByC",
+        "Result Album Name": "The Yearly Ears"
     },
     {
         "ATC Track": "MOUNTAINEER CREEK",
         "ATC Artists": [
             "CHRIS PROCTOR"
-        ]
+        ],
+        "Result Track Name": "Mountaineer Creek",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ss2nKnNZXRojr8o8eTuwg",
+        "Result Album Name": "The Chris Proctor Collection"
     },
     {
         "Title": "Whittaker Chambers",
@@ -118,13 +193,29 @@
         "ATC Track": "FABLES OF FAUBUS",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Fables of Faubus",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LSLq8XCSrvoAMLSGsK7r0",
+        "Result Album Name": "Charlie Hunter Trio"
     },
     {
         "ATC Track": "MULE",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Mule",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xi9dhKzdowRkMmSOS5DnI",
+        "Result Album Name": "Charlie Hunter Trio"
     },
     {
         "Title": "Campaign Finance",
@@ -136,7 +227,12 @@
         "ATC Track": "GRDLATEN",
         "ATC Artists": [
             "HORIZONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Girls Grow Up",
@@ -148,13 +244,29 @@
         "ATC Track": "Variations on a Theme by W.C. Handy",
         "ATC Artists": [
             "Wayne Horvitz"
-        ]
+        ],
+        "Result Track Name": "Variations on a Theme by W.C. Handy",
+        "Result Artist Names": [
+            "Wayne Horvitz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tyB34dPbelLokYJBKI1QC",
+        "Result Album Name": "Miracle Mile"
     },
     {
         "ATC Track": "Wish the Children Would Come on Home",
         "ATC Artists": [
             "The President"
-        ]
+        ],
+        "Result Track Name": "Wish the Children Would Come On Home",
+        "Result Artist Names": [
+            "The Westerlies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7Dv3nnECkgIDLoupc0217x",
+        "Result Album Name": "Wish The Children Would Come On Home"
     },
     {
         "Title": "Zaire Talks End",
@@ -172,13 +284,31 @@
         "ATC Track": "EKITUNDU EKISOOKA",
         "ATC Artists": [
             "KRONOS QUARTET"
-        ]
+        ],
+        "Result Track Name": "Ekitundu Ekisooka (\"First Movement\")",
+        "Result Artist Names": [
+            "Justinian Tamasuza",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0tV1TT1u2qRb0H6JC904bi",
+        "Result Album Name": "Pieces of Africa"
     },
     {
         "ATC Track": "MAI NOZIPO",
         "ATC Artists": [
             "KRONOS QUARTET"
-        ]
+        ],
+        "Result Track Name": "Mai Nozipo (\"Mother Nozipo\")",
+        "Result Artist Names": [
+            "Dumisani Maraire",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18OhfSqbz9oDBlUORhLQDH",
+        "Result Album Name": "Pieces of Africa"
     },
     {
         "Title": "Hormone Therapy",
@@ -196,7 +326,15 @@
         "ATC Track": "A Little Luck",
         "ATC Artists": [
             "Mike Stern"
-        ]
+        ],
+        "Result Track Name": "A Little Luck",
+        "Result Artist Names": [
+            "Mike Stern"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GRJ7X0luc2ZqsJjU8pnP8",
+        "Result Album Name": "Is What It Is"
     },
     {
         "Title": "Tuskegee Apology",
@@ -208,7 +346,15 @@
         "ATC Track": "WALTZ FOR MA",
         "ATC Artists": [
             "JOHNNY GRIFFIN"
-        ]
+        ],
+        "Result Track Name": "Waltz For Ma",
+        "Result Artist Names": [
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57C5z94TueExjKlhCQO43w",
+        "Result Album Name": "The Cat"
     },
     {
         "Title": "Trout Fishing In 4a",

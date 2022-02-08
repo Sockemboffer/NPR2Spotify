@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-07-17",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:01:34"
+        "Scanned Date": "2022-02-06 19:01:34",
+        "Playlist URI": "4eGNNPBSyhtt5W1Yx7JVto",
+        "Playlist Link": "https://open.spotify.com/playlist/4eGNNPBSyhtt5W1Yx7JVto",
+        "Snapshot ID": "MSwwODgwNTQ3MTkxNjc1MTQzYzZkOGNlNWE5YzAxNmVlNTQ2ZjcwOGJm",
+        "Playlist Name": "ATC 1997-07-17 Thu All Things Considered"
     },
     {
         "Title": "Nasa & Mir",
@@ -28,13 +32,23 @@
         "ATC Track": "yellow cello",
         "ATC Artists": [
             "trio globo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hologram",
         "ATC Artists": [
             "Paul McCandless"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Videotape Profits Down",
@@ -52,13 +66,26 @@
         "ATC Track": "DRIVING THROUGH THE RAIN",
         "ATC Artists": [
             "TOM HOWARD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "trust",
         "ATC Artists": [
             "PATRICK O'HEARN"
-        ]
+        ],
+        "Result Track Name": "Trust",
+        "Result Artist Names": [
+            "Patrick O'Hearn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4F2LUCJpRFScchR6fcFjeW",
+        "Result Album Name": "Trust"
     },
     {
         "Title": "Twa Anniversary",
@@ -83,7 +110,16 @@
         "ATC Artists": [
             "ENO",
             "WOBBLE"
-        ]
+        ],
+        "Result Track Name": "Where We Lived",
+        "Result Artist Names": [
+            "Brian Eno",
+            "Jah Wobble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0LHwhtADY3HcxbZRFJaWQN",
+        "Result Album Name": "Spinner [Expanded Edition]"
     },
     {
         "Title": "Medicare Fraud",
@@ -107,13 +143,26 @@
         "ATC Track": "STREET SCENE IN A FRONTIER TOWN",
         "ATC Artists": [
             "BILL FRISELL"
-        ]
+        ],
+        "Result Track Name": "Billy the Kid, Street Scene in a Frontier Town",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jhzjM6K4lxYtCtPYtjLCb",
+        "Result Album Name": "Have a Little Faith"
     },
     {
         "ATC Track": "Moten Swing",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Woolworth's Stores Closing",
@@ -131,13 +180,23 @@
         "ATC Track": "HANDFULL OF KEYS",
         "ATC Artists": [
             "HANK JONES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SPREADIN' RYTHYM AROUND",
         "ATC Artists": [
             "HANK JONES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Palestinian Arrests",
@@ -167,6 +226,14 @@
         "ATC Track": "Étouffée Brutus?",
         "ATC Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "Étouffée Brutus?",
+        "Result Artist Names": [
+            "Alison Brown Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rn4PGrlWhDOBVw4m5QPrd",
+        "Result Album Name": "Replay"
     }
 ]

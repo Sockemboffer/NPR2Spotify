@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-04-14",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:05:10"
+        "Scanned Date": "2022-02-06 19:05:10",
+        "Playlist URI": "5hGc4ypxSkXTbR4zV13xO8",
+        "Playlist Link": "https://open.spotify.com/playlist/5hGc4ypxSkXTbR4zV13xO8",
+        "Snapshot ID": "MSxkZGFkODMyOGQyMDY3N2EyNWZlZGI4NDcwNjdiOGE1YjBjYjkzNWQ5",
+        "Playlist Name": "ATC 1997-04-14 Mon All Things Considered"
     },
     {
         "Title": "Prophylactic Mastectomy",
@@ -22,7 +26,12 @@
         "ATC Track": "GRAHAM'S TANGO",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Aa Pilots Vote",
@@ -35,7 +44,16 @@
         "ATC Artists": [
             "hamish moore",
             "dick lee"
-        ]
+        ],
+        "Result Track Name": "Thunderhead/The Easy Club Reel/",
+        "Result Artist Names": [
+            "Hamish Moore",
+            "Dick Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7sExDlsvvr5lnhPMm8rsT3",
+        "Result Album Name": "The Bees Knees"
     },
     {
         "Title": "Scotland Parliament",
@@ -48,14 +66,28 @@
         "ATC Artists": [
             "hamish moore",
             "dick lee"
-        ]
+        ],
+        "Result Track Name": "Staten Island/Trip To Pakistan/",
+        "Result Artist Names": [
+            "Hamish Moore",
+            "Dick Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0dNQm2ca6S1HioNRZnvXsq",
+        "Result Album Name": "The Bees Knees"
     },
     {
         "ATC Track": "maggie's reel, the slippit bar, paddy in the sauna",
         "ATC Artists": [
             "hamish moore",
             "dick lee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Doctors & Hmo's, Pt. I",
@@ -67,7 +99,15 @@
         "ATC Track": "Jimmy Was",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "Jimmy Was",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aNEjs1DuINBCBpFkcAOrR",
+        "Result Album Name": "Sling Blade (Music from the Motion Picture)"
     },
     {
         "Title": "Tax Survey",
@@ -79,31 +119,71 @@
         "ATC Track": "Money",
         "ATC Artists": [
             "London Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": "Money",
+        "Result Artist Names": [
+            "Royal Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5AhmgaGgmmU215RForgVGD",
+        "Result Album Name": "Best of Rpo"
     },
     {
         "ATC Track": "MOTHER TONGUE",
         "ATC Artists": [
             "DEAD CAN DANCE"
-        ]
+        ],
+        "Result Track Name": "Mother Tongue - Remastered",
+        "Result Artist Names": [
+            "Dead Can Dance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nRTbFgIbe6Yl5tuPRQUhX",
+        "Result Album Name": "The Serpent's Egg (Remastered)"
     },
     {
         "ATC Track": "And Sing This Song",
         "ATC Artists": [
             "Wayne Horvitz"
-        ]
+        ],
+        "Result Track Name": "and sing this song",
+        "Result Artist Names": [
+            "Wayne Horvitz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yNLftlSwuJV4QjoBTH6Il",
+        "Result Album Name": "Miracle Mile"
     },
     {
         "ATC Track": "LIVE OAK",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Live Oak",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3uPyBQADmGOEM1fCH36DDA",
+        "Result Album Name": "Charlie Hunter Trio"
     },
     {
         "ATC Track": "Jack's Back",
         "ATC Artists": [
             "Maceo Parker"
-        ]
+        ],
+        "Result Track Name": "Jack's Back",
+        "Result Artist Names": [
+            "Maceo Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0j4Ba5vF2b7ApjxkKCm9Fe",
+        "Result Album Name": "Mo' Roots"
     },
     {
         "Title": "Macdougal Sentencing",

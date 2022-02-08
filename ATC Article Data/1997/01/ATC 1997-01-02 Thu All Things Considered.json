@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-01-02",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:06:23"
+        "Scanned Date": "2022-02-06 19:06:23",
+        "Playlist URI": "19HVm9OdyilUKwZ54G6Ay3",
+        "Playlist Link": "https://open.spotify.com/playlist/19HVm9OdyilUKwZ54G6Ay3",
+        "Snapshot ID": "MSxmNGFmODgwOTVmNmVmZWRmNTljODFjOTYwMDk4MGUxOWQ4NTJiZmJl",
+        "Playlist Name": "ATC 1997-01-02 Thu All Things Considered"
     },
     {
         "Title": "Newt Reprimand",
@@ -28,7 +32,12 @@
         "ATC Track": "BASSE DANSE BERGERET",
         "ATC Artists": [
             "MILLER BRASS ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Outpatient Mastectomies",
@@ -40,14 +49,28 @@
         "ATC Track": "Le petit nègre, cakewalk for piano, L. 114",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "After You've Gone",
         "ATC Artists": [
             "Butch Thompson",
             "Doc Cheatham"
-        ]
+        ],
+        "Result Track Name": "After You've Gone",
+        "Result Artist Names": [
+            "Doc Cheatham",
+            "Sammy Price"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1x9CDY4OZtbeltsTpXDtFS",
+        "Result Album Name": "Duets & Solos"
     },
     {
         "Title": "Hotel Training I",
@@ -59,7 +82,15 @@
         "ATC Track": "The Dicty Glide",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "The Dicty Glide",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lxG2ka4qsFHupB2tpQJrI",
+        "Result Album Name": "Bug Music"
     },
     {
         "Title": "Bomb Me Elmo",
@@ -72,7 +103,12 @@
         "ATC Artists": [
             "John Coleman",
             "National Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hebron Update",
@@ -96,7 +132,15 @@
         "ATC Track": "Goye Kur",
         "ATC Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Goye Kur - 2017 Remastered Version",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VkD522syW1UKAEMHPNhF2",
+        "Result Album Name": "The Source (2017 Remastered Version)"
     },
     {
         "Title": "Burkina Faso Black Market",

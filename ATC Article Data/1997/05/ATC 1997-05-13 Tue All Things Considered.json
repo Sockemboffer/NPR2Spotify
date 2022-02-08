@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-05-13",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:03:49"
+        "Scanned Date": "2022-02-06 19:03:49",
+        "Playlist URI": "0wbvPiaLHMkA6ibmMRh3Uc",
+        "Playlist Link": "https://open.spotify.com/playlist/0wbvPiaLHMkA6ibmMRh3Uc",
+        "Snapshot ID": "MSw4MzhlODY3ZWM3NTRiMjI0NGU3MjBmMWQ4NGQ2NWJkNzZhZDlkMWYx",
+        "Playlist Name": "ATC 1997-05-13 Tue All Things Considered"
     },
     {
         "Title": "Fortier Cross-Examined",
@@ -22,7 +26,12 @@
         "ATC Track": "GRDLATEN",
         "ATC Artists": [
             "HORIZONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Talks At A Standstill",
@@ -35,14 +44,27 @@
         "ATC Artists": [
             "Vishwa Mohan Bhatt",
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ganges Delta Blues",
         "ATC Artists": [
             "Ry Cooder",
             "Vishwa Mohan Bhatt"
-        ]
+        ],
+        "Result Track Name": "Ganges Delta Blues",
+        "Result Artist Names": [
+            "Ry Cooder & V.M. Bhatt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:6Q8FLlX9nZZRBdmEpbbGKD",
+        "Result Album Name": "A Meeting by the River"
     },
     {
         "Title": "Taming Everest",
@@ -54,13 +76,29 @@
         "ATC Track": "The 2nd Law",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The 2nd Law",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ss9DlUJ5tnBYWGWiYfLqg",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "Jitterboogie",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Jitterboogie",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LzUgmDDM1yuS9v2bR1th3",
+        "Result Album Name": "Oracle"
     },
     {
         "Title": "Iranian Hospital",
@@ -78,7 +116,15 @@
         "ATC Track": "MIRROR IN BLUE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mirror In Blue",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mqoSKloGP24YYzptURqR4",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "Junk Drawer",
@@ -90,13 +136,23 @@
         "ATC Track": "Clint Meets Topov",
         "ATC Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "partita # 1 allemande",
         "ATC Artists": [
             "riko kohazame"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dodgers 4 Sale",
@@ -120,7 +176,12 @@
         "ATC Track": "SIX STUDIES AND AN IMPROVISATION: WINDUP",
         "ATC Artists": [
             "DAVID DEMPSEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Counterterrorism",

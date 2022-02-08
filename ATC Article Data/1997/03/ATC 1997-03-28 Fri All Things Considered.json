@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-03-28",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:06:11"
+        "Scanned Date": "2022-02-06 19:06:11",
+        "Playlist URI": "3EPqiDYlCxr7K7YlZu7xIH",
+        "Playlist Link": "https://open.spotify.com/playlist/3EPqiDYlCxr7K7YlZu7xIH",
+        "Snapshot ID": "MSxhOGIwNzc5OGI4MjI1ZGM1NDc5MGNjMWIzMTNiM2MyNThkODhlYmQ4",
+        "Playlist Name": "ATC 1997-03-28 Fri All Things Considered"
     },
     {
         "Title": "Suicide Update",
@@ -23,7 +27,12 @@
         "ATC Artists": [
             "Lenny Breau",
             "Dave Young"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Zaire Scene",
@@ -35,7 +44,12 @@
         "ATC Track": "1002 NIGHTS",
         "ATC Artists": [
             "DJAMEL BEN YELLES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ross Tour",
@@ -53,14 +67,24 @@
         "ATC Track": "The Golem",
         "ATC Artists": [
             "Davka"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Isn't This a Lovely Day?",
         "ATC Artists": [
             "Sir Yehudi Menuhin",
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Standardized Tests",
@@ -73,13 +97,29 @@
         "ATC Artists": [
             "Jim Henry",
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "I Think It's Going to Work Out Fine",
+        "Result Artist Names": [
+            "Jim Henry & Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZwVWB7lO6bImytdEA1fvp",
+        "Result Album Name": "Ring Some Changes"
     },
     {
         "ATC Track": "The Glendy Burke",
         "ATC Artists": [
             "Ed Sweeney"
-        ]
+        ],
+        "Result Track Name": "The Glendy Burke",
+        "Result Artist Names": [
+            "Ed Sweeney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WBVOiJP5vAIbXhpfYreeE",
+        "Result Album Name": "Passing Through"
     },
     {
         "Title": "Pitchers Hit",
@@ -97,7 +137,12 @@
         "ATC Track": "BE THOU MY VISION",
         "ATC Artists": [
             "THE CHRISTMASTIDE MUSICIANS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Story So Far",
@@ -115,7 +160,12 @@
         "ATC Track": "Voices in the Liquid Air",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Doe Settlement",
@@ -127,7 +177,12 @@
         "ATC Track": "AN OLDER ROAD THAN THIS",
         "ATC Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Simpson's Stuff",
@@ -145,7 +200,15 @@
         "ATC Track": "epistrophy",
         "ATC Artists": [
             "james carter"
-        ]
+        ],
+        "Result Track Name": "EPISTROPHY",
+        "Result Artist Names": [
+            "JAMES CARTER QUARTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FC3e1ElUrv1gQef2KYxSp",
+        "Result Album Name": "JURASSIC CLASSICS"
     },
     {
         "Title": "McVeigh Profile",
@@ -163,7 +226,15 @@
         "ATC Track": "secret solution",
         "ATC Artists": [
             "michael masley"
-        ]
+        ],
+        "Result Track Name": "Secret Solution",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0G3wg2mKwsmsXjGfzyKZqB",
+        "Result Album Name": "Mystery Repeats Itself"
     },
     {
         "Title": "Tyndale Bible",
@@ -182,6 +253,11 @@
         "ATC Artists": [
             "JON HASSELL",
             "BRAIN ENO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-07-14",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:01:22"
+        "Scanned Date": "2022-02-06 19:01:22",
+        "Playlist URI": "69lVRzYcyaOydVBjIyisQX",
+        "Playlist Link": "https://open.spotify.com/playlist/69lVRzYcyaOydVBjIyisQX",
+        "Snapshot ID": "MSw4MTg2YzFkYjc1MzAzOGJjZTQ2ZDJkZGIzYzVkMDQxNzU3OGFhYTVm",
+        "Playlist Name": "ATC 1997-07-14 Mon All Things Considered"
     },
     {
         "Title": "Twa Test Flights",
@@ -22,7 +26,15 @@
         "ATC Track": "Blessing in Disguise",
         "ATC Artists": [
             "Trilok Gurtu"
-        ]
+        ],
+        "Result Track Name": "Blessing In Disguise",
+        "Result Artist Names": [
+            "Trilok Gurtu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pq2n6smY8XErXdVugG9IM",
+        "Result Album Name": "Izzat The Remix Album"
     },
     {
         "Title": "Tadic Sentenced",
@@ -34,13 +46,26 @@
         "ATC Track": "Harlem in Brunn",
         "ATC Artists": [
             "Die Knodel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "ENTRANCE",
         "ATC Artists": [
             "CLUB FOOT ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Entrance - Kidnapped LP",
+        "Result Artist Names": [
+            "Club Foot Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Bz1fhMV43PNtbCFVWKREk",
+        "Result Album Name": "Wild Beasts, Kidnapped, And More"
     },
     {
         "Title": "Ins Raid Update",
@@ -52,13 +77,29 @@
         "ATC Track": "Asylum",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "Asylum",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RpLehnCIP5j7Fz2UJca7n",
+        "Result Album Name": "Sling Blade (Music from the Motion Picture)"
     },
     {
         "ATC Track": "Jimmy Was",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "Jimmy Was",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aNEjs1DuINBCBpFkcAOrR",
+        "Result Album Name": "Sling Blade (Music from the Motion Picture)"
     },
     {
         "Title": "Cambodian Coup & Economy",
@@ -76,13 +117,26 @@
         "ATC Track": "NOD TO N20",
         "ATC Artists": [
             "Rainer Ptacek"
-        ]
+        ],
+        "Result Track Name": "Nod to N20",
+        "Result Artist Names": [
+            "Rainer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3KmcoSkxHzN8mJTu76P5wS",
+        "Result Album Name": "Mediterraneo"
     },
     {
         "ATC Track": "You and Me",
         "ATC Artists": [
             "Snooks Eaglin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Simpson Auction",
@@ -94,7 +148,15 @@
         "ATC Track": "nicaragua: prelude and dance",
         "ATC Artists": [
             "peter ostroushko et al"
-        ]
+        ],
+        "Result Track Name": "Nicaragua: Prelude and Dance",
+        "Result Artist Names": [
+            "Peter Ostroushko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1y4JWGgLYeDlWgGnfybx9g",
+        "Result Album Name": "Heart of the Heartland"
     },
     {
         "Title": "On The Bus",
@@ -106,13 +168,29 @@
         "ATC Track": "BANK ROBBERY",
         "ATC Artists": [
             "TAJ MAHAL"
-        ]
+        ],
+        "Result Track Name": "Bank Robbery - The Hot Spot/Soundtrack Version",
+        "Result Artist Names": [
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:47brXAMckpDxrAxxmCthtn",
+        "Result Album Name": "The Hot Spot (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "EMPTY BANK",
         "ATC Artists": [
             "TAJ MAHAL"
-        ]
+        ],
+        "Result Track Name": "Empty Bank - The Hot Spot/Soundtrack Version",
+        "Result Artist Names": [
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yARN4pNgDqnr7JDw3UvIj",
+        "Result Album Name": "The Hot Spot (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Passive Smoking Trial",
@@ -130,7 +208,12 @@
         "ATC Track": "THE SPELL OF ARMS AND VOICES",
         "ATC Artists": [
             "PAUL CARROL BINKLEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Okc Grand Jury",
@@ -142,7 +225,15 @@
         "ATC Track": "Scenes from a Marriage",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Scenes From A Marriage",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bZarvk8WKw9l6O9tfd24d",
+        "Result Album Name": "Grace Under Pressure"
     },
     {
         "Title": "Foreign Lobby",
@@ -160,7 +251,15 @@
         "ATC Track": "AFTER YOU'VE GONE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "After You've Gone",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uNsuvocn2PuMUd3MjCHpx",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "Genetic Discrimination",
@@ -173,7 +272,12 @@
         "ATC Artists": [
             "kaila flexer",
             "third ear"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Internet Indecency",
@@ -185,13 +289,29 @@
         "ATC Track": "The Front",
         "ATC Artists": [
             "Wayne Horvitz"
-        ]
+        ],
+        "Result Track Name": "The Front",
+        "Result Artist Names": [
+            "Wayne Horvitz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6st48cFjaiPuaeILqAvd1k",
+        "Result Album Name": "Miracle Mile"
     },
     {
         "ATC Track": "A Bad Dream",
         "ATC Artists": [
             "The President"
-        ]
+        ],
+        "Result Track Name": "Just a Bad Dream",
+        "Result Artist Names": [
+            "The Bugs"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6lfXpG1InywECZo5HCAimw",
+        "Result Album Name": "Dark Side"
     },
     {
         "Title": "Rock Climbers & Indians",
@@ -203,13 +323,31 @@
         "ATC Track": "dance in the sunlight",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": "Dance in the Sunlight",
+        "Result Artist Names": [
+            "Muano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ms9hpe8RYRDPkNqVUS8Zd",
+        "Result Album Name": "Dance in the Sunlight"
     },
     {
         "ATC Track": "spring",
         "ATC Artists": [
             "Debussy"
-        ]
+        ],
+        "Result Track Name": "Salut Printemps! (We Sing to Spring)",
+        "Result Artist Names": [
+            "Claude Debussy",
+            "Adolf Fredrik Girls Choir",
+            "Bo Johansson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rdeczPc9f5ZPcLnkRnZ1l",
+        "Result Album Name": "I'm Here! And You?"
     },
     {
         "Title": "Sunset At The Hospital",

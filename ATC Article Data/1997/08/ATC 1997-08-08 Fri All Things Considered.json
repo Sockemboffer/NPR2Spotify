@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-08-08",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:59:54"
+        "Scanned Date": "2022-02-06 18:59:54",
+        "Playlist URI": "62reeuQIhtCvhcPbSALzvO",
+        "Playlist Link": "https://open.spotify.com/playlist/62reeuQIhtCvhcPbSALzvO",
+        "Snapshot ID": "MSw1MThjNjczMDgxZDcxY2MwYTg3YzEwYmVkOWI0MzM4MGMyZmU1ZTRm",
+        "Playlist Name": "ATC 1997-08-08 Fri All Things Considered"
     },
     {
         "Title": "Dow",
@@ -30,7 +34,18 @@
             "john harle",
             "sax",
             "albany symphony orchestra conducted by david alan miller"
-        ]
+        ],
+        "Result Track Name": "Saxophone Concerto: I",
+        "Result Artist Names": [
+            "Michael Torke",
+            "John Harle",
+            "Albany Symphony Orchestra",
+            "David Alan Miller"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8421052631578947,
+        "Result Track URI": "spotify:track:4cjzPsm87DeGqxfHwBXc0t",
+        "Result Album Name": "Sax Drive - Myers, Bennett & Torke: Saxophone Concertos"
     },
     {
         "Title": "Somalia",
@@ -44,13 +59,29 @@
             "john harle",
             "sax",
             "albany symphony orchestra conducted by david alan miller"
-        ]
+        ],
+        "Result Track Name": "Saxophone Concerto: I",
+        "Result Artist Names": [
+            "Michael Torke",
+            "John Harle",
+            "Albany Symphony Orchestra",
+            "David Alan Miller"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8421052631578947,
+        "Result Track URI": "spotify:track:4cjzPsm87DeGqxfHwBXc0t",
+        "Result Album Name": "Sax Drive - Myers, Bennett & Torke: Saxophone Concertos"
     },
     {
         "ATC Track": "die wurst",
         "ATC Artists": [
             "die knodel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israel-Lebanon",
@@ -68,13 +99,29 @@
         "ATC Track": "GINGERBREAD BOY",
         "ATC Artists": [
             "MILES DAVIS QUINTET"
-        ]
+        ],
+        "Result Track Name": "Gingerbread Boy",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3Gi69Wjht0q3AZQu6tQwxi",
+        "Result Album Name": "Miles Smiles"
     },
     {
         "ATC Track": "Klezmer Nuthouse",
         "ATC Artists": [
             "Tom Mcdermott"
-        ]
+        ],
+        "Result Track Name": "Klezmer Nuthouse (D Minor)",
+        "Result Artist Names": [
+            "Tom McDermott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HCEuiQ3WFTPe653fm8v4X",
+        "Result Album Name": "All the Keys & Then Some (Piano Music from New Orleans)"
     },
     {
         "Title": "Aids In Prisons",
@@ -87,7 +134,12 @@
         "ATC Artists": [
             "Peter Apfelbaum",
             "The Hieroglyphics Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Conspiracy Theory",
@@ -105,7 +157,15 @@
         "ATC Track": "Saturday Night Church",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Saturday Night Church",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62cuCgFjOSQHFCa2WxphyA",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "Title": "Kal 801",
@@ -130,13 +190,29 @@
         "ATC Artists": [
             "ABDULLAHIBRAHIM",
             "DOLLAR BRAND"
-        ]
+        ],
+        "Result Track Name": "Zimbabwe",
+        "Result Artist Names": [
+            "Dollar Brand (Abdullah Ibrahim)"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:64xXfgx93DSELn6dU6YHjP",
+        "Result Album Name": "Zimbabwe"
     },
     {
         "ATC Track": "WHITE RABBIT",
         "ATC Artists": [
             "THE TANGO PROJECT"
-        ]
+        ],
+        "Result Track Name": "White Rabbit",
+        "Result Artist Names": [
+            "The Heartcore Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2F0opR6tw1RSKlXGxCiv6q",
+        "Result Album Name": "Vintage Beauty of Nonsense"
     },
     {
         "Title": "Rx Ads",
@@ -166,13 +242,29 @@
         "ATC Track": "New Bourgeoisie",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "New Bourgeoisie",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6YqikUezGcoZUgIoOu3z86",
+        "Result Album Name": "Waiting for a Dancer"
     },
     {
         "ATC Track": "The Dance",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Dance Of The World",
+        "Result Artist Names": [
+            "Yogi Lash & Mojo Twin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IRjrNCFpEZrmUEPngus7f",
+        "Result Album Name": "Body & Mood - Spiritual Moods"
     },
     {
         "Title": "Central Park Singers",
@@ -190,12 +282,28 @@
         "ATC Track": "Not Counting You",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Not Counting You",
+        "Result Artist Names": [
+            "Robert Mizzell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08WLjA6aqaPOxvpIzUoCcM",
+        "Result Album Name": "Robert Mizzell Sing Garth Brooks"
     },
     {
         "ATC Track": "Go Jake",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Go Jake",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gpWwJmw14wu3LDQgpwq9m",
+        "Result Album Name": "Nashville"
     }
 ]

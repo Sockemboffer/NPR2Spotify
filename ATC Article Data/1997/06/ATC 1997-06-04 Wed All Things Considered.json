@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-06-04",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:02:10"
+        "Scanned Date": "2022-02-06 19:02:10",
+        "Playlist URI": "163nDtiq9KgMcfttMAsyf4",
+        "Playlist Link": "https://open.spotify.com/playlist/163nDtiq9KgMcfttMAsyf4",
+        "Snapshot ID": "MSwwNzM0ZWFkYmYzZTMxZDFjNzJlNjcwZWQ0OTExY2U4MzQyNGRhNjAy",
+        "Playlist Name": "ATC 1997-06-04 Wed All Things Considered"
     },
     {
         "Title": "Penalty Phase",
@@ -28,7 +32,16 @@
         "ATC Track": "Closing",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 3, \"Mishima\": VI. Mishima / Closing",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Carducci String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qZh3yJ7tILlDD0Wmv7Ftj",
+        "Result Album Name": "Glass: String Quartets Nos. 1-4"
     },
     {
         "Title": "Tiananmen Anniversary",
@@ -47,13 +60,30 @@
         "ATC Artists": [
             "Martin Simpson",
             "Wu Man"
-        ]
+        ],
+        "Result Track Name": "Sometimes I Feel Like a Motherless Child",
+        "Result Artist Names": [
+            "Martin Simpson",
+            "Wu Man"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6n3Ml1iTp6qW1Gechvo3Ps",
+        "Result Album Name": "Music for the Motherless Child"
     },
     {
         "ATC Track": "Let's Stay Together",
         "ATC Artists": [
             "The Memphis Horns"
-        ]
+        ],
+        "Result Track Name": "Let's Stay Together",
+        "Result Artist Names": [
+            "The Memphis Horns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DOvFihWuuB5PvpEn7q2Mm",
+        "Result Album Name": "Flame Out"
     },
     {
         "Title": "Algeria",
@@ -77,13 +107,26 @@
         "ATC Track": "Without Express Intention",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "WHOLE LOTTA LOVE",
         "ATC Artists": [
             "KING CURTIS AND THE KINGPINS"
-        ]
+        ],
+        "Result Track Name": "Whole Lotta Love (Single Version)",
+        "Result Artist Names": [
+            "King Curtis"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7MdA4YOT6SmN17DYTfEOoc",
+        "Result Album Name": "The Complete ATCO Singles"
     },
     {
         "Title": "Making A Mix Tape",
@@ -95,7 +138,16 @@
         "ATC Track": "Black and Tan Fantasy",
         "ATC Artists": [
             "Lincoln Center Jazz Orchestra"
-        ]
+        ],
+        "Result Track Name": "Black and Tan Fantasy - Live",
+        "Result Artist Names": [
+            "Lincoln Center Jazz Orchestra",
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BE2LQ6GSGURMRuDP0fKqk",
+        "Result Album Name": "Live In Swing City- Swingin' With Duke"
     },
     {
         "Title": "Soft Money",
@@ -119,14 +171,27 @@
         "ATC Track": "BRANDENBURG CONCERTO NO. 6: 1. ALLEGRO",
         "ATC Artists": [
             "LOS ANGELES GUITAR QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Green Onions",
         "ATC Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Green Onions",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:4fQMGlCawbTkH9yPPZ49kP",
+        "Result Album Name": "Green Onions"
     },
     {
         "Title": "McFranchise",
@@ -138,7 +203,12 @@
         "ATC Track": "SUNFLOWER SLOW DOG",
         "ATC Artists": [
             "NEW ENGLAND RAGTIME ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Tooth",
@@ -150,13 +220,29 @@
         "ATC Track": "Pipe Down",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Pipe Down",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54zIf2raPjExtkyukUe80c",
+        "Result Album Name": "East/West"
     },
     {
         "ATC Track": "MCGRIFF'S BLUES",
         "ATC Artists": [
             "JIMMY MCGRIFF"
-        ]
+        ],
+        "Result Track Name": "McGriff's Blues",
+        "Result Artist Names": [
+            "Jimmy McGriff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nA12uZrC7grLa32xEPXSl",
+        "Result Album Name": "McGriff's Blues"
     },
     {
         "Title": "Okc & The Death Penalty",
@@ -174,13 +260,26 @@
         "ATC Track": "DEPOT (1951)",
         "ATC Artists": [
             "TOM VERLAINE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Paddington Frisk",
         "ATC Artists": [
             "Roger Eno"
-        ]
+        ],
+        "Result Track Name": "The Paddington Frisk",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PMZ9Wsz8OGtvZtGSVuyzQ",
+        "Result Album Name": "Swimming"
     },
     {
         "Title": "French Open - Wide Open",
@@ -198,12 +297,28 @@
         "ATC Track": "9 de Julio",
         "ATC Artists": [
             "New York Tango Trio"
-        ]
+        ],
+        "Result Track Name": "9 de Julio",
+        "Result Artist Names": [
+            "New York Tango Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59maAVmKO0DhAFe7yJiphg",
+        "Result Album Name": "Cabarute - An Episode in Sensuality"
     },
     {
         "ATC Track": "Saturday Night Church",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Saturday Night Church",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62cuCgFjOSQHFCa2WxphyA",
+        "Result Album Name": "Breaking The Ethers"
     }
 ]

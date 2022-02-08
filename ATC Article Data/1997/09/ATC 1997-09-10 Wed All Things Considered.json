@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1997-09-10",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 18:58:56"
+        "Scanned Date": "2022-02-06 18:58:56",
+        "Playlist URI": "3GB625Ea3atCMEQm8bG3u9",
+        "Playlist Link": "https://open.spotify.com/playlist/3GB625Ea3atCMEQm8bG3u9",
+        "Snapshot ID": "MSw1ZWEwYWMxMDU3MTgwYjg5YmM1Y2NlYTliMmFlMjlkMmFjZTA2YmQ4",
+        "Playlist Name": "ATC 1997-09-10 Wed All Things Considered"
     },
     {
         "Title": "Albright",
@@ -30,7 +34,12 @@
             "DAVE BRUBECK",
             "ROLAND HANNA",
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bosnia",
@@ -54,19 +63,40 @@
         "ATC Track": "MOTHER TONGUE",
         "ATC Artists": [
             "DEAD CAN DANCE"
-        ]
+        ],
+        "Result Track Name": "Mother Tongue - Remastered",
+        "Result Artist Names": [
+            "Dead Can Dance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nRTbFgIbe6Yl5tuPRQUhX",
+        "Result Album Name": "The Serpent's Egg (Remastered)"
     },
     {
         "ATC Track": "Put a Lid on It",
         "ATC Artists": [
             "Squirrel Nut Zippers"
-        ]
+        ],
+        "Result Track Name": "Put A Lid On It",
+        "Result Artist Names": [
+            "Squirrel Nut Zippers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06HM8m5kmKG8AOt7eelGhI",
+        "Result Album Name": "The Best of Squirrel Nut Zippers"
     },
     {
         "ATC Track": "CLAYCUSSION",
         "ATC Artists": [
             "WARD HARTENSTEIN WITH THE EASTMAN PERCUSSION ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Biko",
