@@ -24,7 +24,6 @@ class NPRSpotifySearch:
     def __init__(self):
         self.requestSession = requests.Session()
         self.secrets = Secrets.Secrets()
-        self.token = self.secrets.GiveToken()
         self.retries = Retry(total=10, backoff_factor=1, status_forcelist=[ 204, 304, 400, 401, 403, 404, 500, 502, 503, 504 ])
         self.requestSession.mount('https://api.spotify.com/', HTTPAdapter(max_retries=self.retries, pool_maxsize=25))
         self.secretsSession = Secrets.Secrets()
@@ -33,7 +32,7 @@ class NPRSpotifySearch:
         self.track = None
         self.artists = list()
 
-    def SearchSpotify(self, track, artists):
+    def SearchSpotify(self, track, artists, user_id):
         trackCopy = track
         trackResponses = list()
         auxiliaryList = list()
@@ -51,22 +50,22 @@ class NPRSpotifySearch:
         for artist in auxiliaryList:
             artistResponses = list()
             # TODO could probably drop all non-alphanumeric instead of an incremental hunt and drop approach
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist), user_id))
             trackCopy = self.RemoveBrackets(unidecode(trackCopy))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist), user_id))
             trackCopy = self.RemoveParenthesis(unidecode(track))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist), user_id))
             trackCopy = self.RemoveCommonPhrasesTracks(unidecode(trackCopy))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist), user_id))
             trackCopy = self.RemoveNumbers(unidecode(trackCopy))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist)))
-            artistResponses.append(self.SearchImplicitTrackExplicitArtist(unidecode(trackCopy), unidecode(artist)))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("(")[0]), unidecode(artist)))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("[")[0]), unidecode(artist)))
-            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.partition(":")[2]), unidecode(artist)))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy), unidecode(artist), user_id))
+            artistResponses.append(self.SearchImplicitTrackExplicitArtist(unidecode(trackCopy), unidecode(artist), user_id))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("(")[0]), unidecode(artist), user_id))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.split("[")[0]), unidecode(artist), user_id))
+            artistResponses.append(self.SearchExplicitTrackAndArtist(unidecode(trackCopy.partition(":")[2]), unidecode(artist), user_id))
             # hail Marry's
-            artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
-            artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist))))
+            artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(self.ReplaceAmpersand(artist)), user_id))
+            artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist)), user_id))
             trackResponses.append(artistResponses)
         print("-- MoWeEd Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
@@ -185,36 +184,36 @@ class NPRSpotifySearch:
     # TODO better names
     @on_exception(expo, RateLimitException, max_tries=8)
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
-    def SearchExplicitTrackAndArtist(self, track, artist):
+    def SearchExplicitTrackAndArtist(self, track, artist, user_id):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('track:' + '"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()
     
     @on_exception(expo, RateLimitException, max_tries=8)
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
-    def SearchImplicitTrackExplicitArtist(self, track, artist):
+    def SearchImplicitTrackExplicitArtist(self, track, artist, user_id):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + 'artist:"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()
 
     @on_exception(expo, RateLimitException, max_tries=8)
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
-    def SearchImplicitTrackImplicitArtist(self, track, artist):
+    def SearchImplicitTrackImplicitArtist(self, track, artist, user_id):
         query = "https://api.spotify.com/v1/search?q={}&type=track%2Cartist&market=US&limit=5".format(parse.quote('"' + track + '"' + ' ' + '"' + artist + '"'))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()
 
     @on_exception(expo, RateLimitException, max_tries=8)
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
-    def SearchImplicitTrackAndArtistCombined(self, track, artist):
+    def SearchImplicitTrackAndArtistCombined(self, track, artist, user_id):
         query = "https://api.spotify.com/v1/search?q={}&type=track&market=US&limit=5".format(parse.quote(str(track + " AND " + artist)))
-        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.token)})
+        response = self.requestSession.get(query, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
         return response.json()

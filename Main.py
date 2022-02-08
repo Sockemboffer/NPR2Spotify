@@ -61,8 +61,8 @@ def createLeftOffDate(today: datetime, projectName: str):
 # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # Used to create json output for each day with various article and track data
 def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
-    leftOffYear = leftOffDate
     while leftOffDate <= today:
+        leftOffYear = leftOffDate
         editionDayData = list() 
         editionYearLinkCache = NPRPageParser.LoadJSONFile(projectName + " Article Link Cache/" + str(leftOffDate.year) + " " + projectName + " Article Link Cache.json")
         if editionYearLinkCache != None:
@@ -70,6 +70,8 @@ def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
             for month, links in year.items():
                 for i, link in enumerate(links):
                     requestedHTML = NPRPageParser.RequestURL(link)
+                    while requestedHTML == None:
+                        requestedHTML = NPRPageParser.RequestURL(link)
                     selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
                     editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML)) # get various article data from this day
                     for story in selectedHTML.xpath('.//div[@id="story-list"]/*'):
@@ -91,26 +93,28 @@ def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
                     fileType = ".json"
                     fileName = projectName + " " + editionDate + " " + editionDay + " " + editionEdition + " Considered" + fileType
                     directoryPath = projectName + " Article Data/{0}/{1}/".format(editionYear, editionMonth)
-                    editionDayData.clear()
                     NPRPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
+                    editionDayData.clear()
                     leftOffDate = leftOffDate + timedelta(days=+1)
         # else:
         #     NPRPageParser.CreateLinkCacheJSONFile(projectName)
         leftOffDate = datetime(leftOffYear.year+1, 1, 1)
 
+
 # Step 3
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
-def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
+def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, user_id):
     startDate = leftOffDate
     # ATCNPR Rework how path and file are created
     weekendEdition = "Weekend Edition"
     morningEdition = "Morning Edition"
+    allThingsConsidered = "All Things Considered"
     nprPlaylistCreator = NPRPlaylistCreator()
     nprSpotifySearch = NPRSpotifySearch()
     # nprPageParser = NPRPageParser()
     # spotifyTracks = list()
     startTime = datetime.now()
-    while startDate <= today:
+    while startDate <= today and projectName == "MoWeEd":
         processedTime = datetime.now()
         # ATCNPR Rework how path and file are created
         projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
@@ -192,14 +196,100 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str):
             timestampStr = dateTimeObj.strftime("%I:%M %p")
             print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
             print("\n")
+    while startDate <= today and projectName == "ATC":
+        processedTime = datetime.now()
+        # ATCNPR Rework how path and file are created
+        projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
+        ATCPathFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), allThingsConsidered)
+        filename = ATCPathFileName
+        # morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), morningEdition)
+        # weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), weekendEdition)
+        fileType = ".json"
+        # Load article data from disk
+        editionDay = NPRPageParser.LoadJSONFile(projectPath + ATCPathFileName + fileType)
+        # if startDate.weekday() <= 4:
+        #     editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
+        #     filename = morningEditionFileName
+        # else:
+        #     editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
+        #     filename = weekendEditionFileName
+        # check if edition data is present
+        if editionDay == None:
+            print(">> No data for {0} ".format(startDate.date()))
+            startDate = startDate + timedelta(days=+1)
+        else:
+            playlistKey = "Playlist URI"
+            playlistEntry = False
+            if editionDay[0].get(playlistKey) != None:
+                playlistEntry = True # would only be in the first entry currently
+            trackKey = "ATC Track"
+            trackEntry = False
+            for item in editionDay:
+                if item.get(trackKey) == None:
+                    continue
+                else:
+                    trackEntry = True
+                    break
+            if playlistEntry == True and trackEntry == True:
+                # Search interlude tracks and add results back into edition data
+                for story, entry in enumerate(editionDay):
+                    if trackKey in entry:
+                        track = nprSpotifySearch.SearchSpotify(entry["ATC Track"], entry["ATC Artists"])
+                        entry.update(track)
+                editionDay = nprPlaylistCreator.ReplaceTracksInPlaylist(editionDay, user_id)
+                nprPlaylistCreator.UpdatePlaylistDescription(editionDay, user_id)
+                NPRPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
+                print("{0} finished updating {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
+                print(editionDay[0]["Page Link"])
+                editionDay.clear()
+                startDate = startDate + timedelta(days=+1)
+            elif playlistEntry == False and trackEntry == True:
+                # Create a new playlist
+                for story, entry in enumerate(editionDay):
+                    if entry.get(trackKey):
+                        track = nprSpotifySearch.SearchSpotify(entry["ATC Track"], entry["ATC Artists"], user_id)
+                        entry.update(track)
+                response = nprPlaylistCreator.CreatePlaylist(filename, user_id)
+                editionDay[0]["Playlist URI"] = response["id"]
+                editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
+                editionDay[0]["Snapshot ID"] = response["snapshot_id"]
+                editionDay[0]["Playlist Name"] = filename
+                nprPlaylistCreator.AddCoverArtToPlaylist(editionDay, user_id)
+                nprPlaylistCreator.AddTracksToPlaylist(editionDay, user_id)
+                nprPlaylistCreator.UpdatePlaylistDescription(editionDay, user_id)
+                NPRPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
+                print("{0} finished {1}".format(startDate.date(), editionDay[0]['Playlist Link']))
+                print(editionDay[0]["Page Link"])
+                editionDay.clear()
+                startDate = startDate + timedelta(days=+1)
+            else:
+                # we create an empty playlist with a description noting tracks are not detailed
+                # Some articles have no track data and we still make a playlist
+                response = nprPlaylistCreator.CreatePlaylist(filename, user_id)
+                editionDay[0]["Playlist URI"] = response["id"]
+                editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
+                editionDay[0]["Snapshot ID"] = response["snapshot_id"]
+                editionDay[0]["Playlist Name"] = filename
+                nprPlaylistCreator.AddCoverArtToPlaylist(editionDay, user_id)
+                nprPlaylistCreator.UpdatePlaylistDescription(editionDay, user_id)
+                NPRPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
+                print(">> No interlude Tracks for {0} ".format(startDate.date()))
+                editionDay.clear()
+                startDate = startDate + timedelta(days=+1)
+            dateTimeObj = datetime.now()
+            timestampStr = dateTimeObj.strftime("%I:%M %p")
+            print("Current time: {0}, Process time: {1}, Run time: {2}".format(timestampStr, datetime.now() - processedTime, datetime.now() - startTime))
+            print("\n")
+
 
 # ATC has music listed starting from January 2nd, 1996
 # projectName = "MoWeEd"
 projectName = "ATC"
+user_id = "SPOTIFY_USER_ID_ATC"
 today = datetime.today()
-leftOffDate = datetime(1999, 1, 1)# createLeftOffDate(today, projectName)
+leftOffDate = datetime(1996, 1, 1)# createLeftOffDate(today, projectName)
 # NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectName)
-ParseDayLinks(leftOffDate, today, projectName)
-# createPlaylists(today, today, projectName)
+# ParseDayLinks(leftOffDate, today, projectName)
+createPlaylists(leftOffDate, today, projectName, user_id)
 # nprPlaylistCreator = NPRPlaylistCreator()
 # nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectName)
