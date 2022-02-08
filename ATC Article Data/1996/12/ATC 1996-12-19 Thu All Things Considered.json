@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-12-19",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 18:46:52"
+        "Scanned Date": "2022-02-06 18:46:52",
+        "Playlist URI": "69IHFrkiFrWolVR197iTIf",
+        "Playlist Link": "https://open.spotify.com/playlist/69IHFrkiFrWolVR197iTIf",
+        "Snapshot ID": "MSw0ZjlhYzliYWUzYjc0ZDlkZDY2MGRhNDNmODZlZDg1NGFkNzhkOGFl",
+        "Playlist Name": "ATC 1996-12-19 Thu All Things Considered"
     },
     {
         "Title": "Tv Ratings",
@@ -28,13 +32,29 @@
         "ATC Track": "Nutman's Invention, No. 1",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Gymnopédie No. 1",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0JZdR8HqssK4QAqf1PWDrH",
+        "Result Album Name": "Kaleidoscope"
     },
     {
         "ATC Track": "Blue Buick",
         "ATC Artists": [
             "Tom Mcdermott"
-        ]
+        ],
+        "Result Track Name": "Blue Buick",
+        "Result Artist Names": [
+            "Tom McDermott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gqbqQ9VZ8w3bgMVvpZmxY",
+        "Result Album Name": "Louisianthology"
     },
     {
         "Title": "Fbi & Jewell",
@@ -46,13 +66,30 @@
         "ATC Track": "SALTAIRE MELODY",
         "ATC Artists": [
             "JOHN TILBURY"
-        ]
+        ],
+        "Result Track Name": "Saltaire Melody",
+        "Result Artist Names": [
+            "Howard Skempton",
+            "John Tilbury"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74gAUvfKS4SrnFUR79YKto",
+        "Result Album Name": "Skempton: Well, well Cornelius"
     },
     {
         "ATC Track": "SLEIGH RIDE",
         "ATC Artists": [
             "GREGG MINER"
-        ]
+        ],
+        "Result Track Name": "Sleigh Ride",
+        "Result Artist Names": [
+            "Gregg Miner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RkgZuAFzlWInLB1ZzpcAv",
+        "Result Album Name": "A Christmas Collection: Vol 1 & 2"
     },
     {
         "Title": "Alternative Christmas",
@@ -64,7 +101,12 @@
         "ATC Track": "Music in Twelve Parts, for chamber ensemble",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Anton Bruckner Limited Edition Leica",
@@ -76,7 +118,15 @@
         "ATC Track": "WHITE CHRISTMAS",
         "ATC Artists": [
             "GREGG MINER"
-        ]
+        ],
+        "Result Track Name": "White Christmas",
+        "Result Artist Names": [
+            "Gregg Miner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AD2tYYEIWyDTMekw1lNsb",
+        "Result Album Name": "A Christmas Collection: Vol 1 & 2"
     },
     {
         "Title": "Toolbox Christmas",
@@ -94,7 +144,15 @@
         "ATC Track": "DECK THE HALLS",
         "ATC Artists": [
             "WOODY PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Deck The Halls",
+        "Result Artist Names": [
+            "Woody Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7uVoqnW2amA8Rrw63iwm0Q",
+        "Result Album Name": "A Toolbox Christmas"
     },
     {
         "Title": "Japan Reaction",
@@ -118,13 +176,27 @@
         "ATC Track": "SHARE THE FIRE",
         "ATC Artists": [
             "DAVID HEWITT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sweet Meat",
         "ATC Artists": [
             "Ritual Trio"
-        ]
+        ],
+        "Result Track Name": "Sweet Meat",
+        "Result Artist Names": [
+            "Kahil El Zabar",
+            "Ritual Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:782pVHXaDpFaEc1meXE8EY",
+        "Result Album Name": "Renaissance of the Resistance"
     },
     {
         "Title": "Hoffa",
@@ -136,7 +208,15 @@
         "ATC Track": "LITTLE WALTZ",
         "ATC Artists": [
             "FRANK MORGAN"
-        ]
+        ],
+        "Result Track Name": "Little Waltz",
+        "Result Artist Names": [
+            "Frank Morgan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zGnLCYN146g985q3eQrto",
+        "Result Album Name": "Listen To The Dawn"
     },
     {
         "Title": "Gingrich Ethics",
@@ -148,13 +228,29 @@
         "ATC Track": "Waltz for Debby",
         "ATC Artists": [
             "John McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Waltz For Debby - Instrumental",
+        "Result Artist Names": [
+            "John McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UPMNBeU9BkGk5LSt0dima",
+        "Result Album Name": "Time Remembered"
     },
     {
         "ATC Track": "O LITTLE TOWN OF BETHLEHEM",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "O Little Town of Bethlehem",
+        "Result Artist Names": [
+            "Keith Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5xMPbxryXRvdfYd6DR1VFd",
+        "Result Album Name": "A King's Christmas"
     },
     {
         "Title": "Politics",
@@ -178,7 +274,12 @@
         "ATC Track": "LA DOLCE VITA SUITE",
         "ATC Artists": [
             "NOTTUTNO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "No Problem",
@@ -196,12 +297,26 @@
         "ATC Track": "PARTITA NO. 2 IN D MINOR: ALLEMANDA",
         "ATC Artists": [
             "LARA ST. JOHN"
-        ]
+        ],
+        "Result Track Name": "Partita No. 2 In D minor, BWV 1004: Allemanda",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Lara St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qrzOeX4BU9KwXYn94qJNw",
+        "Result Album Name": "Bach: The Six Sonatas & Partitas for Violin Solo"
     },
     {
         "ATC Track": "8 1/2",
         "ATC Artists": [
             "THE CARLA BLEY BAND"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

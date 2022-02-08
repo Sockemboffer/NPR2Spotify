@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-12-03",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 18:46:17"
+        "Scanned Date": "2022-02-06 18:46:17",
+        "Playlist URI": "3LipEDd31CAuSUbzYqJ0fY",
+        "Playlist Link": "https://open.spotify.com/playlist/3LipEDd31CAuSUbzYqJ0fY",
+        "Snapshot ID": "MSwxYzlmYzFkOGUwMzU0YTIwNjYzMjkzOGYyYzg1YzRhZmEyMWVlZWI5",
+        "Playlist Name": "ATC 1996-12-03 Tue All Things Considered"
     },
     {
         "Title": "B92",
@@ -28,7 +32,15 @@
         "ATC Track": "Wherever You Are",
         "ATC Artists": [
             "Mike Stern"
-        ]
+        ],
+        "Result Track Name": "Wherever You Are",
+        "Result Artist Names": [
+            "Mike Stern"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2t3JM93GMtqHzSwxrByHzO",
+        "Result Album Name": "Is What It Is"
     },
     {
         "Title": "Paris Subway",
@@ -41,14 +53,30 @@
         "ATC Artists": [
             "ROLF KUHN",
             "JOACHIM KUHN"
-        ]
+        ],
+        "Result Track Name": "Opal",
+        "Result Artist Names": [
+            "Rolf & Joachim Kühn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5WXbXFLvqzHwi6HuALFKml",
+        "Result Album Name": "Brothers"
     },
     {
         "ATC Track": "walk",
         "ATC Artists": [
             "ROLF KUHN",
             "JOACHIM KUHN"
-        ]
+        ],
+        "Result Track Name": "Walk",
+        "Result Artist Names": [
+            "Rolf & Joachim Kühn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:6CD5CdzcDfN8ZqTio2SUYz",
+        "Result Album Name": "Brothers"
     },
     {
         "Title": "Un & Bbg",
@@ -60,7 +88,12 @@
         "ATC Track": "DERDIA DEATH CHANT",
         "ATC Artists": [
             "TERRY RILEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "ADM Indictments",
@@ -72,7 +105,15 @@
         "ATC Track": "CHANTING THE LIGHT OF FORESIGHT",
         "ATC Artists": [
             "TERRY RILEY"
-        ]
+        ],
+        "Result Track Name": "Chanting The Light Of Foresight",
+        "Result Artist Names": [
+            "Terry Riley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ZIiQPOLqbcdzzalG9yZll",
+        "Result Album Name": "Chanting The Light Of Foresight"
     },
     {
         "Title": "Releasing Condors into the Wild",
@@ -115,13 +156,30 @@
         "ATC Artists": [
             "THE BRASS PROJECT (JOHN SURMAN",
             "JOHN WARREN)"
-        ]
+        ],
+        "Result Track Name": "Wider Vision",
+        "Result Artist Names": [
+            "John Surman",
+            "John Warren"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:7MP8Z9TW5yFYRjEP5aE31B",
+        "Result Album Name": "The Brass Project"
     },
     {
         "ATC Track": "Barcelona",
         "ATC Artists": [
             "Mark Isham"
-        ]
+        ],
+        "Result Track Name": "Barcelona",
+        "Result Artist Names": [
+            "Mark Isham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7DWGismh6pJrhf51wkpLOT",
+        "Result Album Name": "Blue Sun"
     },
     {
         "Title": "T.V. Ratings",
@@ -133,7 +191,12 @@
         "ATC Track": "FIVE PIANO SKETCHES: JANUSZ",
         "ATC Artists": [
             "DAVE LESLIE WITH MIKE CURTIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Miami",
@@ -145,13 +208,29 @@
         "ATC Track": "GONZALO'S DREAM",
         "ATC Artists": [
             "BOB TELSON"
-        ]
+        ],
+        "Result Track Name": "Gonzalo's Dream",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TBbg3O434aJTjSABNtbca",
+        "Result Album Name": "Calling You"
     },
     {
         "ATC Track": "REGALITO",
         "ATC Artists": [
             "BOB TELSON"
-        ]
+        ],
+        "Result Track Name": "Regalito",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0e2vbESqAChSs18kjMVCah",
+        "Result Album Name": "Calling You"
     },
     {
         "Title": "Pres. Disability",
@@ -170,7 +249,12 @@
         "ATC Artists": [
             "andy partridge",
             "harold budd"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Motel",

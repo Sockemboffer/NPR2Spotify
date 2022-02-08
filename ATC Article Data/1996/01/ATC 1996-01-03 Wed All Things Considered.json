@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-01-03",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 18:50:48"
+        "Scanned Date": "2022-02-06 18:50:48",
+        "Playlist URI": "2XVqnGzie9BMUJwukeTq9W",
+        "Playlist Link": "https://open.spotify.com/playlist/2XVqnGzie9BMUJwukeTq9W",
+        "Snapshot ID": "MSw5YTc5ZmQ0ZjQ1ZWRhYTg2ZmFkMzRiM2FmYjNiNjU5N2QzYjY4NmYz",
+        "Playlist Name": "ATC 1996-01-03 Wed All Things Considered"
     },
     {
         "Title": "Clinton / Gop Shutdown",
@@ -31,7 +35,18 @@
             "Bley",
             "Peacock",
             "Oxley"
-        ]
+        ],
+        "Result Track Name": "Only Yesterday",
+        "Result Artist Names": [
+            "John Surman",
+            "Paul Bley",
+            "Gary Peacock",
+            "Tony Oxley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zDv5mG0uiiapdtz0aN3xn",
+        "Result Album Name": "Adventure Playground"
     },
     {
         "Title": "Cypress Knees",
@@ -49,7 +64,12 @@
         "ATC Track": "Nineteen Ninety Two",
         "ATC Artists": [
             "Unu Mondo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Texas Gun Training",
@@ -61,14 +81,27 @@
         "ATC Track": "Smiling Back",
         "ATC Artists": [
             "Unu Mondo"
-        ]
+        ],
+        "Result Track Name": "Smiling Back",
+        "Result Artist Names": [
+            "Unu Mondo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ItP6yoHNiqRSUyvKZ77Et",
+        "Result Album Name": "Hand in Hand (feat. Randy Armstrong & Volker Nahrmann)"
     },
     {
         "ATC Track": "varanarada",
         "ATC Artists": [
             "KAraikudi subramaniam",
             "trichy sankaran"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Shutdown Politics",
@@ -86,7 +119,15 @@
         "ATC Track": "TRAUMA",
         "ATC Artists": [
             "MARCUS PRINTUP"
-        ]
+        ],
+        "Result Track Name": "Trauma",
+        "Result Artist Names": [
+            "Marcus Printup"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BQ6j0rfYDLu1K1HLv3Igr",
+        "Result Album Name": "Song For The Beautiful Woman"
     },
     {
         "Title": "Ifor Not Cops",
@@ -104,13 +145,34 @@
         "ATC Track": "After the Rain",
         "ATC Artists": [
             "John McLaughlin"
-        ]
+        ],
+        "Result Track Name": "After The Rain - Instrumental",
+        "Result Artist Names": [
+            "John McLaughlin",
+            "Joey DeFrancesco",
+            "Elvin Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37vvbPNdJyvqQ4Hyw9gP9K",
+        "Result Album Name": "Spiritual Jazz Classics"
     },
     {
         "ATC Track": "Waiting 4 Stars 2 Fall",
         "ATC Artists": [
             "Ottmar Liebert"
-        ]
+        ],
+        "Result Track Name": "Waiting 4 Stars 2 Fall - Digitally Remastered 1999",
+        "Result Artist Names": [
+            "Ottmar Liebert",
+            "Stefan Liebert",
+            "Jon Gagan",
+            "Gary Lyons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yjKdrLYedSjmPfInF0z4k",
+        "Result Album Name": "Nouveau Flamenco (1990-2000 Special Tenth Anniversary Edition)"
     },
     {
         "Title": "Detroit Auto Show",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-12-06",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:46:27"
+        "Scanned Date": "2022-02-06 18:46:27",
+        "Playlist URI": "1nLOyi204A6fb92rMuXjwO",
+        "Playlist Link": "https://open.spotify.com/playlist/1nLOyi204A6fb92rMuXjwO",
+        "Snapshot ID": "MSxjMDdhYjJhOTk1NGQzYWIzMjgzNTZmOGUzYjg1MDIzZWQxYWRlN2Yy",
+        "Playlist Name": "ATC 1996-12-06 Fri All Things Considered"
     },
     {
         "Title": "Oracle",
@@ -34,7 +38,15 @@
         "ATC Track": "Cast Your Fate to the Wind",
         "ATC Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "Cast Your Fate to the Wind",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lrp2f5FVmHpOjVsDy7N7N",
+        "Result Album Name": "Linus & Lucy - The Music of Vince Guaraldi"
     },
     {
         "Title": "Holiday Books",
@@ -46,7 +58,12 @@
         "ATC Track": "Wai'anae Slack Key Hula [Instrumental]",
         "ATC Artists": [
             "Raymond Kane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Balanchine Dancer",
@@ -70,7 +87,12 @@
         "ATC Track": "FANTASIA ON A THEME BY THOMAS TALLIS",
         "ATC Artists": [
             "the canadian brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "I'm Selling",
@@ -94,13 +116,26 @@
         "ATC Track": "PUTTIN' ON THE RITZ",
         "ATC Artists": [
             "THE COFFEE CLUB ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Puttin On The Ritz",
+        "Result Artist Names": [
+            "The Dizzy Club"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:4YMo6ws9MOg6AnNFCzuvoY",
+        "Result Album Name": "Puttin On The Ritz"
     },
     {
         "ATC Track": "How High the Moon",
         "ATC Artists": [
             "Tommy Flanagan Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Internet Indecency",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-01-02",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 18:50:48"
+        "Scanned Date": "2022-02-06 18:50:48",
+        "Playlist URI": "2qDBDqw7DR5mqJiA9c1k92",
+        "Playlist Link": "https://open.spotify.com/playlist/2qDBDqw7DR5mqJiA9c1k92",
+        "Snapshot ID": "MSw2YWVmM2YwMTdjNWQxODg1OWUxNDUyYmRkNTY4YzliOWI1NDUzZTJh",
+        "Playlist Name": "ATC 1996-01-02 Tue All Things Considered"
     },
     {
         "Title": "AT&T Layoffs",
@@ -28,7 +32,12 @@
         "ATC Track": "song from the planet",
         "ATC Artists": [
             "oystein sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Who Are These People?",
@@ -40,7 +49,17 @@
         "ATC Track": "Take the Coltrane",
         "ATC Artists": [
             "John McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Take The Coltrane - Instrumental",
+        "Result Artist Names": [
+            "John McLaughlin",
+            "Joey DeFrancesco",
+            "Elvin Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7oC6z8StvnoNqurkf21oGO",
+        "Result Album Name": "After The Rain"
     },
     {
         "Title": "Deaf Jews",
@@ -58,13 +77,23 @@
         "ATC Track": "WITHIN YOU WITHOUT YOU",
         "ATC Artists": [
             "Rainer Ptacek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "WALTZ (WALZER)",
         "ATC Artists": [
             "DIE KNODEL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Food Guidelines",
@@ -82,13 +111,30 @@
         "ATC Track": "KNODELPOLKA",
         "ATC Artists": [
             "DIE KNODEL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BURY ME NOT ON THE LONE PRAIRIE",
         "ATC Artists": [
             "TODD PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Bury Me Not on the Lone Prairie - Remastered",
+        "Result Artist Names": [
+            "Todd Phillips",
+            "Scott Nygaard",
+            "Tony Trishka",
+            "Mike Marshall",
+            "Tim O'Brien"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3soIt9okENIVSouKsMvn9i",
+        "Result Album Name": "4 Wheel Bob (Remastered)"
     },
     {
         "Title": "Budget Update",
@@ -112,7 +158,12 @@
         "ATC Track": "SALSA D'AMORE",
         "ATC Artists": [
             "SANDY BULL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tobacco",
@@ -142,7 +193,15 @@
         "ATC Track": "KELLI'S TUNE",
         "ATC Artists": [
             "CARL WEINGARTEN ET AL"
-        ]
+        ],
+        "Result Track Name": "Kelli's Tune",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2P0tGcYu0enYZdvlP3kdxx",
+        "Result Album Name": "Redwood Melodies"
     },
     {
         "Title": "Return Of Communists",

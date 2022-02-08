@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-09-18",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 18:49:32"
+        "Scanned Date": "2022-02-06 18:49:32",
+        "Playlist URI": "11GkSNWoNOiCzhV89q3RFG",
+        "Playlist Link": "https://open.spotify.com/playlist/11GkSNWoNOiCzhV89q3RFG",
+        "Snapshot ID": "MSw0YTUwYzU2MDg4NzVhMTIwNzUwMzFjOGJiZTJkOTljYWUzNTgxM2Uy",
+        "Playlist Name": "ATC 1996-09-18 Wed All Things Considered"
     },
     {
         "Title": "Travelgate",
@@ -22,7 +26,12 @@
         "ATC Track": "GRDLATEN",
         "ATC Artists": [
             "HORIZONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq Policy",
@@ -34,7 +43,12 @@
         "ATC Track": "PIZZICATO",
         "ATC Artists": [
             "DJAMEL BEN YELLES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bosnia Results",
@@ -58,13 +72,26 @@
         "ATC Track": "Miles Near",
         "ATC Artists": [
             "Øystein Sevåg"
-        ]
+        ],
+        "Result Track Name": "Miles Near",
+        "Result Artist Names": [
+            "ØYSTEIN SEVÅG"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yLj2CQjE7c0PBBxWM0Ok3",
+        "Result Album Name": "Link"
     },
     {
         "ATC Track": "birds flying",
         "ATC Artists": [
             "oystein sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gmhq",
@@ -76,7 +103,15 @@
         "ATC Track": "Timeframe",
         "ATC Artists": [
             "Todd Phillips"
-        ]
+        ],
+        "Result Track Name": "Timeframe",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pVeyrpe2JOetv3iydO4Qo",
+        "Result Album Name": "Timeframe"
     },
     {
         "Title": "Women's Basketball",
@@ -88,13 +123,29 @@
         "ATC Track": "GET OUT THE SHOVEL",
         "ATC Artists": [
             "THE HENRYS"
-        ]
+        ],
+        "Result Track Name": "Get Out the Shovel",
+        "Result Artist Names": [
+            "The Henrys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ssLfcjf0r8grkFJo9onup",
+        "Result Album Name": "The Yearly Ears"
     },
     {
         "ATC Track": "ADOBE ABODE",
         "ATC Artists": [
             "THE HENRYS"
-        ]
+        ],
+        "Result Track Name": "Adobe Abode",
+        "Result Artist Names": [
+            "The Henrys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UWwQrADOi4MfSccSvmByC",
+        "Result Album Name": "The Yearly Ears"
     },
     {
         "Title": "With Clinton",
@@ -124,13 +175,29 @@
         "ATC Track": "Tales from the Far Side",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Tales from the Far Side",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ktAKgdlCZGLhMilXfAnQU",
+        "Result Album Name": "Bill Frisell Quartet"
     },
     {
         "ATC Track": "Strange Meeting",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Strange Meeting",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XKP32JC2UJ1xYftJKZENI",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "Title": "Ru 486",
@@ -148,13 +215,29 @@
         "ATC Track": "WHAT DO YOU DO?",
         "ATC Artists": [
             "JOHNNY GRIFFIN"
-        ]
+        ],
+        "Result Track Name": "What Do You Do?",
+        "Result Artist Names": [
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3w8aOnBPnq1X5w3Lf1fHPW",
+        "Result Album Name": "The Cat"
     },
     {
         "ATC Track": "63RD STREET THEME",
         "ATC Artists": [
             "JOHNNY GRIFFIN"
-        ]
+        ],
+        "Result Track Name": "63Rd Street Theme",
+        "Result Artist Names": [
+            "Johnny Griffin Sextet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03WoyAbXlmxoWjy2BO4x5J",
+        "Result Album Name": "The Little Giant"
     },
     {
         "Title": "Grand Canyon",
@@ -166,7 +249,12 @@
         "ATC Track": "NEW ROUX",
         "ATC Artists": [
             "PAUL GLASSE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Trade Deficit Good?",
@@ -178,7 +266,15 @@
         "ATC Track": "MABEL",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mabel",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Nl0IP7VDDdkhRdApKnRVJ",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "To Africa With Ken",

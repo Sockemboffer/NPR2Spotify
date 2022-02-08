@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-09-09",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 18:49:17"
+        "Scanned Date": "2022-02-06 18:49:17",
+        "Playlist URI": "2BqbG2YFmgRsD6lSIUlia8",
+        "Playlist Link": "https://open.spotify.com/playlist/2BqbG2YFmgRsD6lSIUlia8",
+        "Snapshot ID": "MSwyM2ZhMTgxOGVmMTI4NzY4MzBjYTNkZmI2YTg3MWYyOWQ1OWUwNTJk",
+        "Playlist Name": "ATC 1996-09-09 Mon All Things Considered"
     },
     {
         "Title": "Netanyahu In U.S.",
@@ -40,13 +44,29 @@
         "ATC Track": "POUND CAKE",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Pound Cake",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3W2Q9eSoZYz0SzuO8EcDdJ",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "ATC Track": "NOTHING LIES STILL LONG",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Nothing Lies Still Long",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nEAkSFN5z0at0dyoyec9s",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "Title": "Dole Stump St Louis",
@@ -58,13 +78,26 @@
         "ATC Track": "DEVIATION",
         "ATC Artists": [
             "BELA FLECK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bill Cheatham",
         "ATC Artists": [
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "Bill Cheatham",
+        "Result Artist Names": [
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hoTQ0MkQgrJYRHqgeTPNU",
+        "Result Album Name": "Daybreak"
     },
     {
         "Title": "Welfare & Computers",

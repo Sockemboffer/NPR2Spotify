@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-10-31",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 18:48:58"
+        "Scanned Date": "2022-02-06 18:48:58",
+        "Playlist URI": "4gG6WUT53ihLrkOi6DsTLH",
+        "Playlist Link": "https://open.spotify.com/playlist/4gG6WUT53ihLrkOi6DsTLH",
+        "Snapshot ID": "MSxiN2E2ODIxOWE4MzEzY2VmMzc5ZWQ4OThlZjdhMDM2MjY2MjU5ZWNi",
+        "Playlist Name": "ATC 1996-10-31 Thu All Things Considered"
     },
     {
         "Title": "Ohio's 6th",
@@ -16,7 +20,12 @@
         "ATC Track": "The Perfect Rag",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Next Stop: Turkmenistan",
@@ -34,13 +43,26 @@
         "ATC Track": "TWO FRENCH WALTZES",
         "ATC Artists": [
             "DAN NEWTON"
-        ]
+        ],
+        "Result Track Name": "Two French Waltzes",
+        "Result Artist Names": [
+            "Dan Newton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0y6m4jueAFFPlkjyQRkg2J",
+        "Result Album Name": "Afternoon in Paris"
     },
     {
         "ATC Track": "spooky",
         "ATC Artists": [
             "stanley turrentine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Commentator Spooky Story",
@@ -70,13 +92,29 @@
         "ATC Track": "I Don't Stand a Ghost of a Chance with You",
         "ATC Artists": [
             "Lennie Tristano"
-        ]
+        ],
+        "Result Track Name": "I Don't Stand A Ghost Of A Chance With You",
+        "Result Artist Names": [
+            "Lennie Tristano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dwY1zBnh99zqVCxt5mxAS",
+        "Result Album Name": "Abstraction & Improvisation"
     },
     {
         "ATC Track": "THE CAT",
         "ATC Artists": [
             "JOHNNY GRIFFIN"
-        ]
+        ],
+        "Result Track Name": "The Cat",
+        "Result Artist Names": [
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KWiaYlVCqnixrKd5q88pS",
+        "Result Album Name": "The Cat"
     },
     {
         "Title": "Crack and the CIA",
@@ -89,13 +127,32 @@
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Los Them",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DeGlfGREhIwt9qWYsrs0P",
+        "Result Album Name": "Rios"
     },
     {
         "ATC Track": "Teddy Bears' Picnic",
         "ATC Artists": [
             "Jerry Garcia"
-        ]
+        ],
+        "Result Track Name": "Teddy Bears' Picnic",
+        "Result Artist Names": [
+            "Jerry Garcia",
+            "David Grisman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Pyi5woGiQhzoLeVZZbgbh",
+        "Result Album Name": "Not For Kids Only"
     },
     {
         "Title": "Kevorkian",
@@ -113,7 +170,15 @@
         "ATC Track": "E la Nave Va",
         "ATC Artists": [
             "Anouar Brahem"
-        ]
+        ],
+        "Result Track Name": "Vague / E la nave va",
+        "Result Artist Names": [
+            "Anouar Brahem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6avLwPGZvr93PaxBARH5dA",
+        "Result Album Name": "Le Voyage De Sahar"
     },
     {
         "Title": "War on Drugs in Columbia",
@@ -125,13 +190,31 @@
         "ATC Track": "E la Nave Va",
         "ATC Artists": [
             "Anouar Brahem"
-        ]
+        ],
+        "Result Track Name": "Vague / E la nave va",
+        "Result Artist Names": [
+            "Anouar Brahem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6avLwPGZvr93PaxBARH5dA",
+        "Result Album Name": "Le Voyage De Sahar"
     },
     {
         "ATC Track": "sympathy for the devil",
         "ATC Artists": [
             "the hampton string quartet"
-        ]
+        ],
+        "Result Track Name": "Sympathy For The Devil",
+        "Result Artist Names": [
+            "Mick Jagger",
+            "Keith Richards",
+            "The Hampton String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pO6iTRSHXqO3lnaRntePQ",
+        "Result Album Name": "Sympathy For The Devil"
     },
     {
         "Title": "Necromance",

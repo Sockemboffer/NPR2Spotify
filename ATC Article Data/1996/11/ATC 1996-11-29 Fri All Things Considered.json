@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-11-29",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:48:14"
+        "Scanned Date": "2022-02-06 18:48:14",
+        "Playlist URI": "5JZi96iC6m4XkjiAR3QLz9",
+        "Playlist Link": "https://open.spotify.com/playlist/5JZi96iC6m4XkjiAR3QLz9",
+        "Snapshot ID": "MSw5ODNkMTcwZmYwNDMyYzBjNGZiMTM2YzI3YWRmZTgyNDA1ZmU4OGY2",
+        "Playlist Name": "ATC 1996-11-29 Fri All Things Considered"
     },
     {
         "Title": "Salvi",
@@ -52,7 +56,12 @@
         "ATC Track": "Minisym #1: Allegro/Andante Adagio/Vivace",
         "ATC Artists": [
             "Moondog"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bluefin",
@@ -76,13 +85,27 @@
         "ATC Track": "Gavotte",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SERENADE FOR PIANO AND VIOLIN",
         "ATC Artists": [
             "GARY LAMB"
-        ]
+        ],
+        "Result Track Name": "Serenade for Piano and Violin",
+        "Result Artist Names": [
+            "Kagan Publishing",
+            "Gary Lamb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T2lxOoZTBImMV8ZNEht1b",
+        "Result Album Name": "Music for the Mind: Problem Solving"
     },
     {
         "Title": "Justice & Marijuana",
@@ -95,7 +118,16 @@
         "ATC Artists": [
             "William coulter",
             "friends"
-        ]
+        ],
+        "Result Track Name": "Marble Halls",
+        "Result Artist Names": [
+            "William Coulter & Friends",
+            "William Coulter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fyRXoYI8jzObZt2Vv0ZiX",
+        "Result Album Name": "Celtic Crossing"
     },
     {
         "Title": "Wild Cards",
@@ -107,7 +139,15 @@
         "ATC Track": "BLACKBIRD",
         "ATC Artists": [
             "SHARON SHANNON"
-        ]
+        ],
+        "Result Track Name": "Blackbird",
+        "Result Artist Names": [
+            "Sharon Shannon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22XHcea6uhw7nzohxrpROn",
+        "Result Album Name": "Sharon Shannon"
     },
     {
         "Title": "No Seats",
@@ -119,7 +159,15 @@
         "ATC Track": "The Very Thought of You",
         "ATC Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": "The Very Thought Of You",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NRR3UaAWxE3GyAeA4W72M",
+        "Result Album Name": "Liz Story"
     },
     {
         "Title": "Mexican Officials at the Border",

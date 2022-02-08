@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-09-26",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 18:49:52"
+        "Scanned Date": "2022-02-06 18:49:52",
+        "Playlist URI": "03bo72wdOOSxM0wLeGAVZj",
+        "Playlist Link": "https://open.spotify.com/playlist/03bo72wdOOSxM0wLeGAVZj",
+        "Snapshot ID": "MSwyNWZkNDU1MWQ5N2ZjNjg5MWQ4ZGZmMDI0M2FhZjkyZGExMDU0ZTUz",
+        "Playlist Name": "ATC 1996-09-26 Thu All Things Considered"
     },
     {
         "Title": "In Ramallah",
@@ -29,13 +33,31 @@
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Sketch # 1",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ag7etGtDvv5FfxW5qIaNM",
+        "Result Album Name": "Rios"
     },
     {
         "ATC Track": "sandu",
         "ATC Artists": [
             "james carter"
-        ]
+        ],
+        "Result Track Name": "SANDU",
+        "Result Artist Names": [
+            "JAMES CARTER QUARTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LFS94sXKtqnCyWerL8YJX",
+        "Result Album Name": "JURASSIC CLASSICS"
     },
     {
         "Title": "Census Figures",
@@ -59,14 +81,35 @@
         "ATC Track": "New York, New York",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": "Main Theme (From \"New York, New York\")",
+        "Result Artist Names": [
+            "Boston Pops Orchestra",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4grHeM2pC3ir8rHdbYEFCM",
+        "Result Album Name": "Aisle Seat - Great Film Music"
     },
     {
         "ATC Track": "The Piccolino",
         "ATC Artists": [
             "Sir Yehudi Menuhin",
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": "The Piccolino",
+        "Result Artist Names": [
+            "Irving Berlin",
+            "Yehudi Menuhin",
+            "Stéphane Grappelli",
+            "Instrumental Ensemble",
+            "Nelson Riddle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5333333333333333,
+        "Result Track URI": "spotify:track:2VaEekPmDoZAUVZj9VERl0",
+        "Result Album Name": "Menuhin & Grappelli Play Berlin, Porter, Kern, Rodgers & Hart"
     },
     {
         "Title": "Christiania",

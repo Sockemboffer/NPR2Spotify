@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-11-01",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:47:19"
+        "Scanned Date": "2022-02-06 18:47:19",
+        "Playlist URI": "5faOCRO0xL2cakV9JdIj2i",
+        "Playlist Link": "https://open.spotify.com/playlist/5faOCRO0xL2cakV9JdIj2i",
+        "Snapshot ID": "MSwxZTNhZGQ2NDI0M2I0YTNmMGJlMTVkYjE5YjYzZDkyYTc5OWUyNWZl",
+        "Playlist Name": "ATC 1996-11-01 Fri All Things Considered"
     },
     {
         "Title": "Saudi Bomb",
@@ -22,7 +26,12 @@
         "ATC Track": "POHAKULOA",
         "ATC Artists": [
             "MOSES KAHUMOKU"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Senate Wrap",
@@ -46,13 +55,29 @@
         "ATC Track": "Rambler",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Rambler",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BsGD4Qr0eDF4KVlW6w72j",
+        "Result Album Name": "Going Back Home"
     },
     {
         "ATC Track": "Straight, No Chaser",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Straight No Chaser",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6et8WjDO9kzncUOWMOXx9M",
+        "Result Album Name": "Going Back Home"
     },
     {
         "Title": "After-Hours Shopping Spree",
@@ -65,13 +90,33 @@
         "ATC Artists": [
             "Carl Kress",
             "Dick McDonough"
-        ]
+        ],
+        "Result Track Name": "Chicken a la Swing (arr. M. Magnelli)",
+        "Result Artist Names": [
+            "Carl Kress",
+            "Dick McDonough",
+            "Mike Magnelli",
+            "Bronek Suchanek",
+            "Kenny Hadley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:445mW8f6xnMXi8A8mb64vB",
+        "Result Album Name": "Mike Magnelli & Friends"
     },
     {
         "ATC Track": "DIE WALKURE",
         "ATC Artists": [
             "\"THE PRESIDENT'S OWN\" UNITED STATES MARINE BAND"
-        ]
+        ],
+        "Result Track Name": "\"Die Walkure\" Fantasie",
+        "Result Artist Names": [
+            "United States Marine Band"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1jtNeLnKVyo4VOHLnvnlfC",
+        "Result Album Name": "Music of Richard Wagner"
     },
     {
         "Title": "Fighting Irish in Dublin",
@@ -83,7 +128,15 @@
         "ATC Track": "The Murmur",
         "ATC Artists": [
             "Tom Mcdermott"
-        ]
+        ],
+        "Result Track Name": "The Murmur (G-Flat Major)",
+        "Result Artist Names": [
+            "Tom McDermott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dyllDOlmOTrH9BE3WH1I1",
+        "Result Album Name": "All the Keys & Then Some (Piano Music from New Orleans)"
     },
     {
         "Title": "Clinton Finance",
@@ -95,7 +148,12 @@
         "ATC Track": "Moten Swing",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dole Marathon",
@@ -125,13 +183,29 @@
         "ATC Track": "The English Dance",
         "ATC Artists": [
             "John Renbourn"
-        ]
+        ],
+        "Result Track Name": "The English Dance",
+        "Result Artist Names": [
+            "John Renbourn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1sURKxVzYnHnvqLqi0dgzK",
+        "Result Album Name": "The Black Balloon"
     },
     {
         "ATC Track": "Nutman's Invention, No. 1",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Gymnopédie No. 1",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0JZdR8HqssK4QAqf1PWDrH",
+        "Result Album Name": "Kaleidoscope"
     },
     {
         "Title": "Econ Figures",
@@ -143,7 +217,12 @@
         "ATC Track": "BEETHOVEN RIFFS ON",
         "ATC Artists": [
             "JOHN KIRBY AND HIS ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Life on Mars",

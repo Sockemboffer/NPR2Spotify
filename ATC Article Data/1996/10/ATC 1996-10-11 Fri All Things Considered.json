@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-10-11",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:48:41"
+        "Scanned Date": "2022-02-06 18:48:41",
+        "Playlist URI": "5uNLbGSeHwUjG03OiarJki",
+        "Playlist Link": "https://open.spotify.com/playlist/5uNLbGSeHwUjG03OiarJki",
+        "Snapshot ID": "MSw3ZTAyMGFjOWJjZGZiZDIzNDM5M2Y5NDZjMjAzOGI1ZWMxNDMwYzcw",
+        "Playlist Name": "ATC 1996-10-11 Fri All Things Considered"
     },
     {
         "Title": "Politics",
@@ -22,14 +26,30 @@
         "ATC Track": "HOE-DOWN",
         "ATC Artists": [
             "JOHN WILLIAMS AND THE BOSTON POPS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BRIDGE OF LIGHT FOR VIOLA AND ORCHESTRA",
         "ATC Artists": [
             "KEITH JARRETT",
             "THE FAIRFIELD ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Bridge Of Light For Viola And Orchestra",
+        "Result Artist Names": [
+            "Keith Jarrett",
+            "Patricia Mc Carthy",
+            "The Fairfield Orchestra",
+            "Thomas Crawford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LGWS8HlubPFQeuk9WG15N",
+        "Result Album Name": "Bridge Of Light"
     },
     {
         "Title": "Breast Cancer & Abortion",
@@ -47,7 +67,12 @@
         "ATC Track": "War",
         "ATC Artists": [
             "C.W. Vrtacek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Guilt-Free Post-Season Baseball",
@@ -59,13 +84,30 @@
         "ATC Track": "ORIGINAL RAGS",
         "ATC Artists": [
             "DANIEL SMITH"
-        ]
+        ],
+        "Result Track Name": "Scott Joplin Rags: 3. Original Rags",
+        "Result Artist Names": [
+            "Scott Joplin",
+            "Daniel Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72uxlWQiC5IYkRMV6MrocI",
+        "Result Album Name": "Jazz Suite for Bassoon"
     },
     {
         "ATC Track": "The Checkered Flag",
         "ATC Artists": [
             "Combustible Edison"
-        ]
+        ],
+        "Result Track Name": "The Checkered Flag",
+        "Result Artist Names": [
+            "Combustible Edison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mRYPYCLC24xHMwWlnXzkX",
+        "Result Album Name": "Schizophonic"
     },
     {
         "Title": "Magnus Malan",
@@ -95,7 +137,15 @@
         "ATC Track": "Yes! We Have No Bananas",
         "ATC Artists": [
             "Authentic Band Organ"
-        ]
+        ],
+        "Result Track Name": "Yes, We Have No Bananas",
+        "Result Artist Names": [
+            "Belgian Band Organ"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6bHOqWQ9Ibrr1AM4eaVH85",
+        "Result Album Name": "The Best of the Belgian Band Organ"
     },
     {
         "Title": "West Virginia Militia",
@@ -119,7 +169,15 @@
         "ATC Track": "Spiritual",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Spiritual",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rCmPCIC5mCukeCHbMLwqH",
+        "Result Album Name": "Going Back Home"
     },
     {
         "Title": "Peace Prize Politics",
@@ -137,13 +195,26 @@
         "ATC Track": "Biriulki, 26 pieces for piano, Op 28",
         "ATC Artists": [
             "Mila Baslawskaya"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Checkered Flag",
         "ATC Artists": [
             "Combustible Edison"
-        ]
+        ],
+        "Result Track Name": "The Checkered Flag",
+        "Result Artist Names": [
+            "Combustible Edison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mRYPYCLC24xHMwWlnXzkX",
+        "Result Album Name": "Schizophonic"
     },
     {
         "Title": "Rosty's Seat",
@@ -161,7 +232,15 @@
         "ATC Track": "USE YOUR BRAIN",
         "ATC Artists": [
             "THE DIRTY DOZEN BRASS BAND"
-        ]
+        ],
+        "Result Track Name": "Use Your Brain",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eikL7DDAJlXCjdWJcYx66",
+        "Result Album Name": "Jazz Moods - Hot"
     },
     {
         "Title": "Alaska $",
@@ -173,13 +252,29 @@
         "ATC Track": "USE YOUR BRAIN",
         "ATC Artists": [
             "THE DIRTY DOZEN BRASS BAND"
-        ]
+        ],
+        "Result Track Name": "Use Your Brain",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eikL7DDAJlXCjdWJcYx66",
+        "Result Album Name": "Jazz Moods - Hot"
     },
     {
         "ATC Track": "ARRAN BOAT SONG",
         "ATC Artists": [
             "ORISON"
-        ]
+        ],
+        "Result Track Name": "Arran Boat Song",
+        "Result Artist Names": [
+            "Orison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4A2HjmvEdqKt5c9SAaXBz5",
+        "Result Album Name": "Celtic And Contemporary Instrumental Music"
     },
     {
         "Title": "Swimming The Channel",
@@ -191,7 +286,16 @@
         "ATC Track": "WHEN I THINK OF YOU",
         "ATC Artists": [
             "GARY LAMB"
-        ]
+        ],
+        "Result Track Name": "When I Think of You",
+        "Result Artist Names": [
+            "Kagan Publishing",
+            "Gary Lamb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74kWQh5IBOZ8tVlDUBXBOB",
+        "Result Album Name": "Music for the Mind: Problem Solving"
     },
     {
         "Title": "Michael Collins",

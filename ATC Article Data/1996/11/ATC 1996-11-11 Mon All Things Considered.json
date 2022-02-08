@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-11-11",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 18:47:34"
+        "Scanned Date": "2022-02-06 18:47:34",
+        "Playlist URI": "2O6VLlkgzjNS0Pw6Qnc50p",
+        "Playlist Link": "https://open.spotify.com/playlist/2O6VLlkgzjNS0Pw6Qnc50p",
+        "Snapshot ID": "MSxmMzgzMDU3MmRiMjAyODA0ODRiOWE5YTZjNzhlYzA0MDllMjY1Zjcz",
+        "Playlist Name": "ATC 1996-11-11 Mon All Things Considered"
     },
     {
         "Title": "Aberdeen",
@@ -22,7 +26,15 @@
         "ATC Track": "SATELLITE",
         "ATC Artists": [
             "DAVE MATTHEWS BAND"
-        ]
+        ],
+        "Result Track Name": "Satellite",
+        "Result Artist Names": [
+            "Dave Matthews Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BjUvisO4UVAtTHs4lYiqu",
+        "Result Album Name": "Under the Table and Dreaming (Expanded Edition)"
     },
     {
         "Title": "Remember the Poor",
@@ -52,13 +64,26 @@
         "ATC Track": "a girl like you",
         "ATC Artists": [
             "the wolfgang press"
-        ]
+        ],
+        "Result Track Name": "A Girl Like You - 7\" Mix",
+        "Result Artist Names": [
+            "The Wolfgang Press"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1953WDgVHj4KQN6SJhDvGi",
+        "Result Album Name": "Everything Is Beautiful / A Retrospective 1983-1995"
     },
     {
         "ATC Track": "GETZ VARIATIONS: QUARTET",
         "ATC Artists": [
             "DAVID DEMPSEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Child Porn on Internet",
@@ -70,7 +95,12 @@
         "ATC Track": "FIFTEEN YEAR REUNION",
         "ATC Artists": [
             "PRESTON REED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Longest Train",
@@ -88,13 +118,26 @@
         "ATC Track": "FREQUENT FLYER",
         "ATC Artists": [
             "PRESTON REED"
-        ]
+        ],
+        "Result Track Name": "Frequent Flyer",
+        "Result Artist Names": [
+            "Preston Reed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UfSSeMkOByca98Hpicniq",
+        "Result Album Name": "In Here Out There"
     },
     {
         "ATC Track": "HAMMERHEAD",
         "ATC Artists": [
             "PRESTON REED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Father/Son Veterans on Veterans' Day",
@@ -130,13 +173,29 @@
         "ATC Track": "It's Too Early",
         "ATC Artists": [
             "Todd Phillips"
-        ]
+        ],
+        "Result Track Name": "It's Too Early",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vfgi3nAv41L0kGIkWu09f",
+        "Result Album Name": "Timeframe"
     },
     {
         "ATC Track": "IN THE PINES",
         "ATC Artists": [
             "TODD PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "In The Pines",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:036q79SvTnahSBVXnIJJhH",
+        "Result Album Name": "In The Pines"
     },
     {
         "Title": "Lara St. John's Seductive New CD",
@@ -148,6 +207,18 @@
         "ATC Track": "BURY ME NOT ON THE LONE PRAIRIE",
         "ATC Artists": [
             "TODD PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Bury Me Not on the Lone Prairie - Remastered",
+        "Result Artist Names": [
+            "Todd Phillips",
+            "Scott Nygaard",
+            "Tony Trishka",
+            "Mike Marshall",
+            "Tim O'Brien"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3soIt9okENIVSouKsMvn9i",
+        "Result Album Name": "4 Wheel Bob (Remastered)"
     }
 ]

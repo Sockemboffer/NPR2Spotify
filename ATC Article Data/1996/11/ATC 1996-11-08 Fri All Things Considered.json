@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-11-08",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:47:32"
+        "Scanned Date": "2022-02-06 18:47:32",
+        "Playlist URI": "5MMLHVAtusVN0Rfj1mvfjR",
+        "Playlist Link": "https://open.spotify.com/playlist/5MMLHVAtusVN0Rfj1mvfjR",
+        "Snapshot ID": "MSxiNGI3ZGI2NTgyNTE1NDE5ZTBlYWZiYWQ1NTI1ZDRhM2IxOGE5MDdh",
+        "Playlist Name": "ATC 1996-11-08 Fri All Things Considered"
     },
     {
         "Title": "Zaire",
@@ -22,7 +26,12 @@
         "ATC Track": "ANDALUSIAN WALTZ",
         "ATC Artists": [
             "DJAMEL BEN YELLES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "TWA Folo",
@@ -34,7 +43,16 @@
         "ATC Track": "PONTEADO",
         "ATC Artists": [
             "CRISTINA AZUMA"
-        ]
+        ],
+        "Result Track Name": "Ponteado",
+        "Result Artist Names": [
+            "Cristina Azuma",
+            "Celso Machado"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Dle4yz3Y8zead8GHgieps",
+        "Result Album Name": "Mistérios do Rio Lento"
     },
     {
         "Title": "Liquor Ads",
@@ -52,13 +70,29 @@
         "ATC Track": "PIZZICATO",
         "ATC Artists": [
             "DJAMEL BEN YELLES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "You Make Me Feel So Young",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": "You Make Me Feel So Young - Instrumental",
+        "Result Artist Names": [
+            "Josef Myrow",
+            "Mack Gordon",
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LZhcg85YrKSNXweIIMINO",
+        "Result Album Name": "Night & Day: Celebrate Sinatra"
     },
     {
         "Title": "Army Rape",
@@ -83,7 +117,17 @@
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Sketch # 1",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ag7etGtDvv5FfxW5qIaNM",
+        "Result Album Name": "Rios"
     },
     {
         "Title": "Hank Jones and Mandikas",
@@ -107,7 +151,16 @@
         "ATC Track": "WELL, WELL, CORNELIUS",
         "ATC Artists": [
             "JOHN TILBURY"
-        ]
+        ],
+        "Result Track Name": "Well, well Cornelius",
+        "Result Artist Names": [
+            "Howard Skempton",
+            "John Tilbury"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xAOVZXJGhFN8uZue64wqy",
+        "Result Album Name": "Skempton: Well, well Cornelius"
     },
     {
         "Title": "What Do You Think?",
@@ -143,13 +196,27 @@
         "ATC Track": "MARCH, OP. 99",
         "ATC Artists": [
             "MILLER BRASS ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Meetings Along the Edge",
         "ATC Artists": [
             "Ravi Shankar"
-        ]
+        ],
+        "Result Track Name": "Meetings Along the Edge",
+        "Result Artist Names": [
+            "Ravi Shankar",
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zcIxkB74cUPhZPh7LO2Dc",
+        "Result Album Name": "Passages"
     },
     {
         "Title": "O.J. Update",

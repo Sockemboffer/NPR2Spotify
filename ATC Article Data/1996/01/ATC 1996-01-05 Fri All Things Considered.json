@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-01-05",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 18:50:49"
+        "Scanned Date": "2022-02-06 18:50:49",
+        "Playlist URI": "55jqXqV7bPfWl8NUVD17kt",
+        "Playlist Link": "https://open.spotify.com/playlist/55jqXqV7bPfWl8NUVD17kt",
+        "Snapshot ID": "MSw2NTFmZmYwMjg2MDI3MDRiNzE5NjliOWIzMjk1OTk3OTkyMTc2ZGIy",
+        "Playlist Name": "ATC 1996-01-05 Fri All Things Considered"
     },
     {
         "Title": "Shutdown Deal",
@@ -28,14 +32,27 @@
         "ATC Track": "THE YOUNG PRINCE AND THE YOUNG PRINCESS FROM SCHEHERAZADE",
         "ATC Artists": [
             "RED SQUARE BLUE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Familiar",
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "The Familiar",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qKBamycWFztbdSxSBbypt",
+        "Result Album Name": "The Familiar"
     },
     {
         "Title": "Iowa Politics",
@@ -47,7 +64,15 @@
         "ATC Track": "Sweet Rain",
         "ATC Artists": [
             "Bill Douglas"
-        ]
+        ],
+        "Result Track Name": "Sweet Rain",
+        "Result Artist Names": [
+            "Bill Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0klepfPNh3zZDvkWPoA0yL",
+        "Result Album Name": "Celtic Twilight"
     },
     {
         "Title": "Bosnian War History",
@@ -59,13 +84,29 @@
         "ATC Track": "LET'S DANCE",
         "ATC Artists": [
             "BENNY GOODMAN"
-        ]
+        ],
+        "Result Track Name": "Let's Dance",
+        "Result Artist Names": [
+            "Benny Goodman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7M1bSM3lsOFUR9WzYL2qr3",
+        "Result Album Name": "Ken Burns Jazz-Benny Goodman"
     },
     {
         "ATC Track": "GOYE KUR",
         "ATC Artists": [
             "ALI FARKA TOURE"
-        ]
+        ],
+        "Result Track Name": "Goye Kur",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2rXkB5nC5KD9DJ2Ph1MNCA",
+        "Result Album Name": "The Source"
     },
     {
         "Title": "Radio Round-Up",
@@ -95,7 +136,15 @@
         "ATC Track": "MY THREE MOONS",
         "ATC Artists": [
             "MICHAEL MANRING"
-        ]
+        ],
+        "Result Track Name": "My Three Moons (for Rosalind Franklin)",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59pITibywsYZTQ0j4cioCa",
+        "Result Album Name": "Thonk"
     },
     {
         "Title": "Anti-Atom In Fiction",

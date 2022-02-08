@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-09-04",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 18:49:05"
+        "Scanned Date": "2022-02-06 18:49:05",
+        "Playlist URI": "5QYf0bTBOzsYZKLQLpzbNL",
+        "Playlist Link": "https://open.spotify.com/playlist/5QYf0bTBOzsYZKLQLpzbNL",
+        "Snapshot ID": "MSxmNGViYzgzZGEzY2JjYWMyMTgzYTc4NzQ2ZWNmNmUwMDdiMDA5NDM3",
+        "Playlist Name": "ATC 1996-09-04 Wed All Things Considered"
     },
     {
         "Title": "Day Two",
@@ -22,7 +26,12 @@
         "ATC Track": "THE GRWAT OCEAN OF KIWA",
         "ATC Artists": [
             "STEPHEN SCOTT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Acceptable Outcome Ii",
@@ -34,13 +43,29 @@
         "ATC Track": "LAND OF LIGHT",
         "ATC Artists": [
             "STEPHEN SCOTT"
-        ]
+        ],
+        "Result Track Name": "Land Of Light",
+        "Result Artist Names": [
+            "Stephen Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09KrTHudowGFy776xD3JZW",
+        "Result Album Name": "Vikings Of The Sunrise: Fantasy On The Polynesian Star Navigators"
     },
     {
         "ATC Track": "Inside Straight",
         "ATC Artists": [
             "The Dirty Dozen Brass Band"
-        ]
+        ],
+        "Result Track Name": "Inside Straight",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wp7BKrAxvNP7LVYwoqucv",
+        "Result Album Name": "The New Orleans Album"
     },
     {
         "Title": "Working At The Margin",
@@ -52,14 +77,30 @@
         "ATC Track": "The Vision",
         "ATC Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "The Vision",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tNWq5KGDs4BuIwCo1EjHT",
+        "Result Album Name": "A Show of Hands 15"
     },
     {
         "ATC Track": "TREE OF LIFE",
         "ATC Artists": [
             "BARRY PHILLIP",
             "WILLIAM COULTER"
-        ]
+        ],
+        "Result Track Name": "Tree Of Life",
+        "Result Artist Names": [
+            "William Coulter & Barry Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3zcawkupXVL1FQto3VlOTw",
+        "Result Album Name": "Tree Of Life"
     },
     {
         "Title": "Religious Businesses",
@@ -71,7 +112,12 @@
         "ATC Track": "CONCERTO IN A MAJOR: ALLEGRO ASSAI",
         "ATC Artists": [
             "janos starker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Netanyahu And Arafat",
@@ -89,7 +135,12 @@
         "ATC Track": "BAGATELLE IN C MAJOR, WO0 56: ALLEGRETTO",
         "ATC Artists": [
             "JOHN O'CONOR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq Wrap",
@@ -101,7 +152,12 @@
         "ATC Track": "CONCERTO IN A MAJOR: ALLEGRO",
         "ATC Artists": [
             "janos starker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Us And Iraq",
@@ -119,13 +175,26 @@
         "ATC Track": "E la Nave Va",
         "ATC Artists": [
             "Anouar Brahem"
-        ]
+        ],
+        "Result Track Name": "Vague / E la nave va",
+        "Result Artist Names": [
+            "Anouar Brahem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6avLwPGZvr93PaxBARH5dA",
+        "Result Album Name": "Le Voyage De Sahar"
     },
     {
         "ATC Track": "Mats Berglund's Polska [Polska Efter Mats Berglund]",
         "ATC Artists": [
             "The Swedish Sax Septet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.A.W. And Ford",
@@ -143,7 +212,15 @@
         "ATC Track": "STRIKE UP THE BAND",
         "ATC Artists": [
             "ANN LEAF AND GAYLORD CARTER"
-        ]
+        ],
+        "Result Track Name": "Strike Up The Band",
+        "Result Artist Names": [
+            "Ann Leaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5TZYXSaqB6MyDNSa5dphFj",
+        "Result Album Name": "The Mighty Wurlitzer - Music For Movie-Palace Organs"
     },
     {
         "Title": "2 To The 1,257,787th Power Minus 1",
@@ -155,13 +232,29 @@
         "ATC Track": "This Could Be the Start of Something Big",
         "ATC Artists": [
             "Count Basie Orchestra"
-        ]
+        ],
+        "Result Track Name": "This Could Be the Start of Something Big",
+        "Result Artist Names": [
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3IP1OvP5nOieC317kHkjPw",
+        "Result Album Name": "This Time By Basie"
     },
     {
         "ATC Track": "CHILLIN' OUT",
         "ATC Artists": [
             "RON LEVY'S WILD KINGDOM"
-        ]
+        ],
+        "Result Track Name": "Chillin' Out",
+        "Result Artist Names": [
+            "Ron Levy's Wild Kingdom"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4byCxwiIkNGZCczmEaaqB4",
+        "Result Album Name": "Funky Soul Grooves"
     },
     {
         "Title": "Rich And Poor Diets",
@@ -173,7 +266,12 @@
         "ATC Track": "Revol",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Herbalist Obit",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-12-12",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 18:46:40"
+        "Scanned Date": "2022-02-06 18:46:40",
+        "Playlist URI": "6kfgJuMWroTzXOFcXYw0E3",
+        "Playlist Link": "https://open.spotify.com/playlist/6kfgJuMWroTzXOFcXYw0E3",
+        "Snapshot ID": "MSxhNDAxYjNiZDI4OWJlODUyZmU0MTUzNjYxNGZmY2NhNjJhNDU2MzEz",
+        "Playlist Name": "ATC 1996-12-12 Thu All Things Considered"
     },
     {
         "Title": "Liver Transplants",
@@ -22,7 +26,16 @@
         "ATC Track": "PARTITA NO. 5 IN G MAJOR, BWV 829",
         "ATC Artists": [
             "GLENN GOULD"
-        ]
+        ],
+        "Result Track Name": "Partita No. 5 in G Major, BWV 829: I. Praeambulum",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Glenn Gould"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3CspX97yD0H59XOjPNGcbe",
+        "Result Album Name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues & Fantasies"
     },
     {
         "Title": "Tanzinia",
@@ -46,7 +59,15 @@
         "ATC Track": "Dog Dreams",
         "ATC Artists": [
             "Stuart Weber"
-        ]
+        ],
+        "Result Track Name": "Dog Dreams",
+        "Result Artist Names": [
+            "Stuart Weber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BUyzbfqMSWvSNfLuoZdvM",
+        "Result Album Name": "Under the Big Sky--Guitar Anthology"
     },
     {
         "Title": "Eurosummit",
@@ -59,7 +80,12 @@
         "ATC Artists": [
             "Guy Van Duser",
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dual Citizenship",
@@ -71,19 +97,41 @@
         "ATC Track": "Season's Change",
         "ATC Artists": [
             "Stuart Weber"
-        ]
+        ],
+        "Result Track Name": "Season Change",
+        "Result Artist Names": [
+            "Roger Weber"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:32YYJZclhaMxBKLBCIG94g",
+        "Result Album Name": "The Sounds of Roger Weber"
     },
     {
         "ATC Track": "PARTITA NO. 2 IN D MINOR: CIACCONA",
         "ATC Artists": [
             "LARA ST. JOHN"
-        ]
+        ],
+        "Result Track Name": "Partita No. 2 In D minor, BWV 1004: Ciaccona",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Lara St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TCu67cwy46YfRT0jmfauQ",
+        "Result Album Name": "Bach: The Six Sonatas & Partitas for Violin Solo"
     },
     {
         "ATC Track": "HARLEM NOCTURNE",
         "ATC Artists": [
             "LES MISERABLES BRASS BAND"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",

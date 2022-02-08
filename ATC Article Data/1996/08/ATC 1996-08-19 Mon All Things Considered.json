@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-08-19",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 18:50:06"
+        "Scanned Date": "2022-02-06 18:50:06",
+        "Playlist URI": "1EQqYsWgYaGF7JRWlfntLL",
+        "Playlist Link": "https://open.spotify.com/playlist/1EQqYsWgYaGF7JRWlfntLL",
+        "Snapshot ID": "MSw0NWE1NDhlMGVjYjQwYzcyYzZiYzU4YWMxNWE0OTViN2JkYzM5OGUw",
+        "Playlist Name": "ATC 1996-08-19 Mon All Things Considered"
     },
     {
         "Title": "Perot Candidacy",
@@ -22,13 +26,26 @@
         "ATC Track": "night and day",
         "ATC Artists": [
             "The canadian brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "CHILLIN' OUT",
         "ATC Artists": [
             "RON LEVY'S WILD KINGDOM"
-        ]
+        ],
+        "Result Track Name": "Chillin' Out",
+        "Result Artist Names": [
+            "Ron Levy's Wild Kingdom"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4byCxwiIkNGZCczmEaaqB4",
+        "Result Album Name": "Funky Soul Grooves"
     },
     {
         "Title": "Medium Cool Revisited",
@@ -40,7 +57,15 @@
         "ATC Track": "EMPTY BANK",
         "ATC Artists": [
             "TAJ MAHAL"
-        ]
+        ],
+        "Result Track Name": "Empty Bank - The Hot Spot/Soundtrack Version",
+        "Result Artist Names": [
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yARN4pNgDqnr7JDw3UvIj",
+        "Result Album Name": "The Hot Spot (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Algeria Massacre",
@@ -58,13 +83,27 @@
         "ATC Track": "SERENADE FOR PIANO AND VIOLIN",
         "ATC Artists": [
             "GARY LAMB"
-        ]
+        ],
+        "Result Track Name": "Serenade for Piano and Violin",
+        "Result Artist Names": [
+            "Kagan Publishing",
+            "Gary Lamb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T2lxOoZTBImMV8ZNEht1b",
+        "Result Album Name": "Music for the Mind: Problem Solving"
     },
     {
         "ATC Track": "HIGH LIfE FOR NINE INSTRUMENTS",
         "ATC Artists": [
             "BALANESCU QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mass Moca",

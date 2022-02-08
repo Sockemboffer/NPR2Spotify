@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1996-12-10",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 18:46:34"
+        "Scanned Date": "2022-02-06 18:46:34",
+        "Playlist URI": "0UvOvR55HLsfbWJmixcrm5",
+        "Playlist Link": "https://open.spotify.com/playlist/0UvOvR55HLsfbWJmixcrm5",
+        "Snapshot ID": "MSw5ZmM0NTAzODkzMDRhZjAzMmFkNmIyZGY5YzdjN2RlYWQ2ODQ2ZjI5",
+        "Playlist Name": "ATC 1996-12-10 Tue All Things Considered"
     },
     {
         "Title": "SCOTUS: Sexual Predator",
@@ -16,7 +20,12 @@
         "ATC Track": "GRDLATEN",
         "ATC Artists": [
             "HORIZONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Belgrade Today",
@@ -42,13 +51,33 @@
             "PETER ERSKINE",
             "PALLE DANIELSSON",
             "JOHN TAYLOR"
-        ]
+        ],
+        "Result Track Name": "Evansong",
+        "Result Artist Names": [
+            "Peter Erskine",
+            "Palle Danielsson",
+            "John Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LauDhGnjtQrp0osjo8UqJ",
+        "Result Album Name": "Time Being"
     },
     {
         "ATC Track": "Esperança",
         "ATC Artists": [
             "Peter Erskine"
-        ]
+        ],
+        "Result Track Name": "Esperança",
+        "Result Artist Names": [
+            "Peter Erskine",
+            "Palle Danielsson",
+            "John Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70bzhz47hEliq4KpRrL0a7",
+        "Result Album Name": "As It Is"
     },
     {
         "Title": "Chechnya",
@@ -72,13 +101,31 @@
         "ATC Track": "Three Folksongs",
         "ATC Artists": [
             "John Harle"
-        ]
+        ],
+        "Result Track Name": "Three Folksongs from the County of Csík - Live",
+        "Result Artist Names": [
+            "Béla Bartók",
+            "John Harle",
+            "Steve Lodder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ucPqT3kwKCwGjfMXUjKbS",
+        "Result Album Name": "The John Harle Collection Vol. 16: Lost in Time (Traditional and Contemporary Songs 2004-2017)"
     },
     {
         "ATC Track": "Sonata in G Minor",
         "ATC Artists": [
             "John Harle"
-        ]
+        ],
+        "Result Track Name": "Sonata In G Minor Allegro",
+        "Result Artist Names": [
+            "John Newmark"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7nZsQjffKnRj9SEqovysOj",
+        "Result Album Name": "John Newmark plays the Clementi piano"
     },
     {
         "Title": "Dec & Cts",
@@ -90,7 +137,15 @@
         "ATC Track": "Tillana",
         "ATC Artists": [
             "Trilok Gurtu"
-        ]
+        ],
+        "Result Track Name": "Tillana",
+        "Result Artist Names": [
+            "Trilok Gurtu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5clVCoGTURAxbm4pO9sCt4",
+        "Result Album Name": "Crazy Saints"
     },
     {
         "Title": "Faron Young",
@@ -108,7 +163,12 @@
         "ATC Track": "Gavotte",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Strategy",
@@ -138,7 +198,15 @@
         "ATC Track": "SHE'S RIDING AGAIN",
         "ATC Artists": [
             "ARTIE TRAUM"
-        ]
+        ],
+        "Result Track Name": "She's Riding Again",
+        "Result Artist Names": [
+            "Artie Traum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6c9EcPHmZK523J8E1UgDje",
+        "Result Album Name": "Letters From Joubée"
     },
     {
         "Title": "Bankruptcies",
@@ -151,13 +219,32 @@
         "ATC Artists": [
             "KEITH JARRETT",
             "THE FAIRFIELD ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Adagio For Oboe And String Orchestra",
+        "Result Artist Names": [
+            "Keith Jarrett",
+            "Marcia Butler",
+            "The Fairfield Orchestra",
+            "Thomas Crawford"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.7142857142857143,
+        "Result Track URI": "spotify:track:6PlwTfeEWizPJmhVYweplG",
+        "Result Album Name": "Bridge Of Light"
     },
     {
         "ATC Track": "puppy belly dance",
         "ATC Artists": [
             "peter ostroushko et al"
-        ]
+        ],
+        "Result Track Name": "Puppy Belly Dance",
+        "Result Artist Names": [
+            "Peter Ostroushko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HoC2ZgLo8uqci2weElpLb",
+        "Result Album Name": "Heart of the Heartland"
     },
     {
         "Title": "Prudential",
@@ -169,7 +256,12 @@
         "ATC Track": "PIZZICATO",
         "ATC Artists": [
             "DJAMEL BEN YELLES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gender Bias",
