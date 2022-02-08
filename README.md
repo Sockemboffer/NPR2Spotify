@@ -1,10 +1,12 @@
-![npr2spotifylogo](https://github.com/Sockemboffer/NPR2Spotify/blob/master/MoWeEd%20Logos/npr2spotify_twitter_header.png)
+![npr2spotifylogo](https://github.com/Sockemboffer/NPR2Spotify/blob/master/Edition%20Logos/npr2spotify_twitter_header.png)
 # NPR2Spotify
 Generally, this program parses NPR Morning Edition, Weekend Edition, and All Things Considered and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
 
-Playlists all public now: [NPR MoWeEd](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
+Morning and Weekend Edition playlists all public: [NPR MoWeEd](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
 
-Follow on Twitter: [@MoWeEd2Spotify](https://twitter.com/MoWeEd2Spotify)
+All Things Considered playlists for 1996 now public: [NPR ATC](https://open.spotify.com/user/31eljfpkmh4v6xux7mu36s32cmzu?si=760639e4c5344320)
+
+Follow on Twitter: [@NPR2Spotify](https://twitter.com/MoWeEd2Spotify)
 
 **/showname Article Data/** - Each day's output for each year
 
