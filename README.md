@@ -22,7 +22,7 @@ Follow on Twitter: [@MoWeEd2Spotify](https://twitter.com/MoWeEd2Spotify)
 - [ ] Create a dependiencies manifest.
 - [ ] Make more pythonic all around.
 - [ ] Automate to run daily.
-- [ ] On going, All Things Considered Archive
+- [x] On going, All Things Considered Archive
 ----------------------------------------------------------------------------------------------------
 
 ## Problem
