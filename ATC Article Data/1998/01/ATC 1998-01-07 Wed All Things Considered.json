@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-01-07",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:27:53"
+        "Scanned Date": "2022-02-06 19:27:53",
+        "Playlist URI": "62yxpmiR0UTV9P7PI5flsf",
+        "Playlist Link": "https://open.spotify.com/playlist/62yxpmiR0UTV9P7PI5flsf",
+        "Snapshot ID": "MSxlZGNlYjFhYzk4NzQzOTYwODBkNjQyZDI4NjZjNWFkNzQ4NjIxOTQ5",
+        "Playlist Name": "ATC 1998-01-07 Wed All Things Considered"
     },
     {
         "Title": "Nichols Jury Dismissed",
@@ -24,7 +28,18 @@
             "john harle",
             "sax",
             "albany symphony orchestra conducted by david alan miller"
-        ]
+        ],
+        "Result Track Name": "Saxophone Concerto: I",
+        "Result Artist Names": [
+            "Michael Torke",
+            "John Harle",
+            "Albany Symphony Orchestra",
+            "David Alan Miller"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8421052631578947,
+        "Result Track URI": "spotify:track:4cjzPsm87DeGqxfHwBXc0t",
+        "Result Album Name": "Sax Drive - Myers, Bennett & Torke: Saxophone Concertos"
     },
     {
         "Title": "Other",
@@ -36,7 +51,12 @@
         "ATC Track": "CONTESA",
         "ATC Artists": [
             "THE TANGO PROJECT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Xavier Suarez",
@@ -54,14 +74,30 @@
         "ATC Track": "THE GARDEN",
         "ATC Artists": [
             "PALM FABRIC ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "The Garden",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UW7ZLllOXzFUZKv0hvApo",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "ATC Track": "The Stevedor's Serenade",
         "ATC Artists": [
             "JAMES CARTER",
             "CYRUS CHESTNUT"
-        ]
+        ],
+        "Result Track Name": "The Stevedore's Serenade",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5NJyh4bMvt0kLHcnVo8Rzo",
+        "Result Album Name": "The Real Quietstorm"
     },
     {
         "Title": "Korubo I",
@@ -79,7 +115,15 @@
         "ATC Track": "ANGELIKA SUSPENDED",
         "ATC Artists": [
             "PALM FABRIC ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Angelika Suspended",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:742Eo4GllZNolOo40AxHF8",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "Title": "Tobacco & Justice",
@@ -103,7 +147,12 @@
         "ATC Track": "St. Qt. #5 Finale",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Other",
@@ -115,7 +164,15 @@
         "ATC Track": "ke'ala's mele",
         "ATC Artists": [
             "leonard kwan"
-        ]
+        ],
+        "Result Track Name": "Ke'ala's Mele",
+        "Result Artist Names": [
+            "Leonard Kwan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Q9fD5haQkjfPc5ihzSt3W",
+        "Result Album Name": "Ke'ala's Mele"
     },
     {
         "Title": "Joint Exercises",
@@ -133,13 +190,23 @@
         "ATC Track": "The Golem",
         "ATC Artists": [
             "Davka"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Flintstones",
         "ATC Artists": [
             "Sinti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chiapas",
@@ -169,7 +236,15 @@
         "ATC Track": "The Millionaire's Holiday",
         "ATC Artists": [
             "Combustible Edison"
-        ]
+        ],
+        "Result Track Name": "The Millionaire's Holiday",
+        "Result Artist Names": [
+            "Combustible Edison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vZyjvSw0ME5YtTNjtDN94",
+        "Result Album Name": "I, Swinger"
     },
     {
         "Title": "Capote",

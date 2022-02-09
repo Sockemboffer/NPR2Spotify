@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-11-27",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:14:15"
+        "Scanned Date": "2022-02-06 19:14:15",
+        "Playlist URI": "1VdwqGGDUEa3JrzR1X8qrG",
+        "Playlist Link": "https://open.spotify.com/playlist/1VdwqGGDUEa3JrzR1X8qrG",
+        "Snapshot ID": "MSxlNzVlMDI2ZGU1N2QwNGFhOGNjM2ZmYzIyM2VhZDcxZThhNWU0ZGU1",
+        "Playlist Name": "ATC 1998-11-27 Fri All Things Considered"
     },
     {
         "Title": "Kabila",
@@ -40,13 +44,31 @@
         "ATC Track": "Floe",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Floe (Remix) - Specially Mixed for Your Personal Cassette Player",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Philip Glass Ensemble",
+            "Michael Riesman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dcXDL3703XHNYdqbOxY1U",
+        "Result Album Name": "Glassworks - Specially Mixed for Your Personal Cassette Player"
     },
     {
         "ATC Track": "The Streets of New Delhi",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Streets Of New Delhi",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T3sta4Tbq1GBPrHRDBOWS",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Condor Makes a Comeback",
@@ -64,7 +86,15 @@
         "ATC Track": "The Streets of New Delhi",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Streets Of New Delhi",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T3sta4Tbq1GBPrHRDBOWS",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Questions Answered",
@@ -76,13 +106,26 @@
         "ATC Track": "The Long Night",
         "ATC Artists": [
             "Øystein Sevåg"
-        ]
+        ],
+        "Result Track Name": "The Long Night",
+        "Result Artist Names": [
+            "ØYSTEIN SEVÅG"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6aJp6vb6fuiUxFE13I6qXV",
+        "Result Album Name": "Link"
     },
     {
         "ATC Track": "Traces of the Dawn",
         "ATC Artists": [
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Retail I",
@@ -100,7 +143,12 @@
         "ATC Track": "AN OLDER ROAD THAN THIS",
         "ATC Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nba Update",
@@ -124,7 +172,15 @@
         "ATC Track": "TROMBONE RAG",
         "ATC Artists": [
             "TURK MURPHY JAZZ BAND"
-        ]
+        ],
+        "Result Track Name": "Trombone Rag",
+        "Result Artist Names": [
+            "Turk Murphy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3bbyVQViPKGsBdchR9CUvB",
+        "Result Album Name": "Good Time Jazz Story"
     },
     {
         "Title": "Endurance",
@@ -142,12 +198,28 @@
         "ATC Track": "Jitterboogie",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Jitterboogie",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LzUgmDDM1yuS9v2bR1th3",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "Children's World",
         "ATC Artists": [
             "Maceo Parker"
-        ]
+        ],
+        "Result Track Name": "Children's World - Remastered",
+        "Result Artist Names": [
+            "Maceo Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eCZWEAROyzj0eU2uEhb4H",
+        "Result Album Name": "Roots Revisited (30th Anniversary Edition)"
     }
 ]

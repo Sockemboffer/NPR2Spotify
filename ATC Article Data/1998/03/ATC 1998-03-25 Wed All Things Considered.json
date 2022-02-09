@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-03-25",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:25:54"
+        "Scanned Date": "2022-02-06 19:25:54",
+        "Playlist URI": "24DqQRtrNiHbVnFdc8SEbs",
+        "Playlist Link": "https://open.spotify.com/playlist/24DqQRtrNiHbVnFdc8SEbs",
+        "Snapshot ID": "MSwxOTFhYjlhNzMxMGJiNTRhMTVlOGIyMDIyZDI2NWZjMDRlYjY0NWRj",
+        "Playlist Name": "ATC 1998-03-25 Wed All Things Considered"
     },
     {
         "Title": "Jonesboro",
@@ -28,7 +32,12 @@
         "ATC Track": "ETUDE, OP. 8, NO. 2",
         "ATC Artists": [
             "RED SQUARE BLUE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Jelly Belly",
@@ -36,7 +45,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Jelly Belly",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AWekAi4hdv1e2QS5W75cE",
+        "Result Album Name": "Shack-man"
     },
     {
         "Title": "Middle East Peace",
@@ -54,13 +71,26 @@
         "ATC Track": "May Yoi",
         "ATC Artists": [
             "Trisan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Troy",
         "ATC Artists": [
             "Robin Holcomb"
-        ]
+        ],
+        "Result Track Name": "Troy",
+        "Result Artist Names": [
+            "Robin Holcomb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7B5BUst1iTCDrX4Mg64Ott",
+        "Result Album Name": "Robin Holcomb"
     },
     {
         "Title": "Kaiser Rns",
@@ -78,7 +108,15 @@
         "ATC Track": "POUND CAKE",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Pound Cake",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3W2Q9eSoZYz0SzuO8EcDdJ",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "Title": "Fife & Drums",
@@ -108,7 +146,15 @@
         "ATC Track": "Things With Wings",
         "ATC Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": "Things With Wings",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Ks2bWEeMBDo3ciuwawjuu",
+        "Result Album Name": "Solid Colors"
     },
     {
         "Title": "Access To Guns",
@@ -126,7 +172,15 @@
         "ATC Track": "Chez Fernand",
         "ATC Artists": [
             "Martin Taylor"
-        ]
+        ],
+        "Result Track Name": "Chez Fernand",
+        "Result Artist Names": [
+            "Martin Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BgFGacRsMv99nPtr4UzIe",
+        "Result Album Name": "Spirit of Django"
     },
     {
         "Title": "Contact",
@@ -156,13 +210,26 @@
         "ATC Track": "The Pipes Are Calling",
         "ATC Artists": [
             "Glenn Phillips"
-        ]
+        ],
+        "Result Track Name": "The Pipes Are Calling",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6DpwDRbpDN3yksbRMG1JBN",
+        "Result Album Name": "Walking Through Walls"
     },
     {
         "ATC Track": "CASTLE WALK",
         "ATC Artists": [
             "NEW ENGLAND RAGTIME ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Little Deuce Coupe",
@@ -180,12 +247,29 @@
         "ATC Track": "Why U With Me",
         "ATC Artists": [
             "The ReBirth Brass Band"
-        ]
+        ],
+        "Result Track Name": "Why U With Me",
+        "Result Artist Names": [
+            "Rebirth Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5IAos9cl01z6KvNIQbUHKG",
+        "Result Album Name": "We Come To Party"
     },
     {
         "ATC Track": "BARCAROLLE NO. 4 IN A-FLAT, OP. 44",
         "ATC Artists": [
             "CAROL ROSENBERGER"
-        ]
+        ],
+        "Result Track Name": "Barcarolle No. 4 in A-Flat Major, Op. 44",
+        "Result Artist Names": [
+            "Gabriel Fauré",
+            "Carol Rosenberger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:78sHQ62sbL7sdSsZYHbB2p",
+        "Result Album Name": "Piano Recital: Rosenberger, Carol - Ravel, M. / Faure, G. / Bennett, R.R. / Chopin, F. / Rachmaninov, S. / Griffes, C. (Piano Barcarolles)"
     }
 ]

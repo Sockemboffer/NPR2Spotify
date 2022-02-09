@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-03-12",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:25:14"
+        "Scanned Date": "2022-02-06 19:25:14",
+        "Playlist URI": "5ueVrOoLAEvzOdkTEO1X8b",
+        "Playlist Link": "https://open.spotify.com/playlist/5ueVrOoLAEvzOdkTEO1X8b",
+        "Snapshot ID": "MSwxZjBkNzQ3YmFjZWZhZjZiYTExN2Y4ZDEzYWJkMmFmOWFiZmE5YTc1",
+        "Playlist Name": "ATC 1998-03-12 Thu All Things Considered"
     },
     {
         "Title": "Tobacco",
@@ -16,7 +20,15 @@
         "ATC Track": "BOB THE BOB",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mvTcdOP0nx50zpnnhfPdD",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "States' View",
@@ -34,7 +46,12 @@
         "ATC Track": "Slippery Fingers Oberek-The Bay State IV",
         "ATC Artists": [
             "Billy Belina"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ca Af Axn",
@@ -52,13 +69,31 @@
         "ATC Track": "Funky T.",
         "ATC Artists": [
             "Steve Turre"
-        ]
+        ],
+        "Result Track Name": "Funky \"T\"",
+        "Result Artist Names": [
+            "Steve Turre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bpoKc1HWWbSrxueybyOi1",
+        "Result Album Name": "Rhythm Within"
     },
     {
         "ATC Track": "MINOR SWING",
         "ATC Artists": [
             "DJANGO REINHARDT"
-        ]
+        ],
+        "Result Track Name": "Minor Swing",
+        "Result Artist Names": [
+            "Django Reinhardt",
+            "Stéphane Grappelli",
+            "Quintette du Hot Club de France"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NDjQezJaEC1KX9TfwEfzf",
+        "Result Album Name": "Djangologie Vol6 / 1937"
     },
     {
         "Title": "Greater Jerusalem",
@@ -70,13 +105,29 @@
         "ATC Track": "Looking Back",
         "ATC Artists": [
             "Peter Finger"
-        ]
+        ],
+        "Result Track Name": "Looking Back",
+        "Result Artist Names": [
+            "Peter Finger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1c67OpGashlFyPufKfgHXX",
+        "Result Album Name": "The Colors Of The Night"
     },
     {
         "ATC Track": "Breaking the Ethers/Serengeti",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Breaking The Ethers\\Serengeti",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LdBgztm20s2ZPkYjoi6j5",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "Title": "Crops",
@@ -88,7 +139,15 @@
         "ATC Track": "LAGUNA LUNA",
         "ATC Artists": [
             "SAM MITCHELL"
-        ]
+        ],
+        "Result Track Name": "Laguna Luna",
+        "Result Artist Names": [
+            "Sam Mitchell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73UtHuT1JhYg2VD28cLjym",
+        "Result Album Name": "The Art Of Bottleneck/Slide Guitar"
     },
     {
         "Title": "The Family Spin Doctor Is In",
@@ -100,13 +159,26 @@
         "ATC Track": "OFF COLOR",
         "ATC Artists": [
             "THE MICROSCOPIC SEPTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Mo' Cream From the Crop",
         "ATC Artists": [
             "Leroy Jones"
-        ]
+        ],
+        "Result Track Name": "Mo' Cream From The Crop",
+        "Result Artist Names": [
+            "Leroy Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LitSoUGBW7kX2Bciqw7zv",
+        "Result Album Name": "Mo' Cream From The Crop"
     },
     {
         "Title": "Serbs & Kosovars",
@@ -118,7 +190,12 @@
         "ATC Track": "Wai'anae Slack Key Hula [Instrumental]",
         "ATC Artists": [
             "Raymond Kane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nasdaq & Amex",
@@ -138,14 +215,31 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Bubblehouse - Bbq Mix",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood",
+            "We"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qAnBU6DsIpSru7n5kTKZ2",
+        "Result Album Name": "Bubblehouse"
     },
     {
         "ATC Track": "(I DON'T S STAND) A GHOST OF A CHANCE (WITH YOU)",
         "ATC Artists": [
             "COUNT BASIE",
             "HIS ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "(I Don't Stand) A Ghost Of A Chance With You",
+        "Result Artist Names": [
+            "Count Basie Orchestra"
+        ],
+        "Result Track-Match Percent": 0.9565217391304348,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:3yeW5xcSbin3DDtYEAccUe",
+        "Result Album Name": "Ain't Misbehavin' - From The Archives (Digitally Remastered)"
     },
     {
         "Title": "Yoyos",
@@ -157,13 +251,23 @@
         "ATC Track": "ZUIZUI ZUKKOROBASHI",
         "ATC Artists": [
             "YO YO MA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Canzon Bergamasca, for brass quintet",
         "ATC Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "V-Chip",
@@ -187,7 +291,15 @@
         "ATC Track": "You Go to My Head",
         "ATC Artists": [
             "Lennie Tristano"
-        ]
+        ],
+        "Result Track Name": "You Go to My Head - Live",
+        "Result Artist Names": [
+            "Lennie Tristano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11YFuejflU2ByAvB2pZYy3",
+        "Result Album Name": "Lennie Tristano / The New Tristano"
     },
     {
         "Title": "Drug Study",
@@ -205,12 +317,22 @@
         "ATC Track": "PARIS PULLMAN",
         "ATC Artists": [
             "THE METROPOLE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "die wurst",
         "ATC Artists": [
             "die knodel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

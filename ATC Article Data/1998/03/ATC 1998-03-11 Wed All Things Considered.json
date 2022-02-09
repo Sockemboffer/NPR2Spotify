@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-03-11",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:25:09"
+        "Scanned Date": "2022-02-06 19:25:09",
+        "Playlist URI": "7kTfRLlkVXo1nhe4C4SZVR",
+        "Playlist Link": "https://open.spotify.com/playlist/7kTfRLlkVXo1nhe4C4SZVR",
+        "Snapshot ID": "MSw1OWNjZDA4YTRmYWNiYThhZTkxNTY0YzMzY2UxMWY1ZTQ4OWIxZTFm",
+        "Playlist Name": "ATC 1998-03-11 Wed All Things Considered"
     },
     {
         "Title": "Hebron",
@@ -22,7 +26,12 @@
         "ATC Track": "Ascension",
         "ATC Artists": [
             "Sam Pacetti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Trash",
@@ -40,13 +49,26 @@
         "ATC Track": "Milonga Triste",
         "ATC Artists": [
             "Hugo Díaz y su Conjunto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Oblivion",
         "ATC Artists": [
             "Astor Piazzolla"
-        ]
+        ],
+        "Result Track Name": "Oblivion",
+        "Result Artist Names": [
+            "Astor Piazzolla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CShxQaSFFKXY2PxrJIhrB",
+        "Result Album Name": "Piazzolla Tangos 6"
     },
     {
         "Title": "Pheromones",
@@ -64,7 +86,16 @@
         "ATC Track": "PROSPERO'S CURSE",
         "ATC Artists": [
             "MICHAEL NYMAN"
-        ]
+        ],
+        "Result Track Name": "Prospero's Curse",
+        "Result Artist Names": [
+            "Michael Nyman",
+            "Michael Nyman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23YzQ0CDm5VNUBpT3CDXSN",
+        "Result Album Name": "Michael Nyman and 'The Tempest'"
     },
     {
         "ATC Track": "Is There Anybody Here That Love My Jesus",
@@ -72,7 +103,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Is There Anybody Here That Love My Jesus",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gaqAOIxUYjt1harq02zPp",
+        "Result Album Name": "Shack-man"
     },
     {
         "Title": "Imf",
@@ -91,7 +130,16 @@
         "ATC Artists": [
             "lukas ligeti",
             "beta foly"
-        ]
+        ],
+        "Result Track Name": "Samaya",
+        "Result Artist Names": [
+            "Lukas Ligeti",
+            "Beta Foly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19byTRMwgO9ORaxTkYojFC",
+        "Result Album Name": "Lukas Ligeti & Beta Foly"
     },
     {
         "Title": "African Growth",
@@ -104,13 +152,30 @@
         "ATC Artists": [
             "lukas ligeti",
             "beta foly"
-        ]
+        ],
+        "Result Track Name": "Adjamé 220",
+        "Result Artist Names": [
+            "Lukas Ligeti",
+            "Beta Foly"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZIE1amOiBSUyxv1gZjafP",
+        "Result Album Name": "Lukas Ligeti & Beta Foly"
     },
     {
         "ATC Track": "Choosing",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Choosing Life",
+        "Result Artist Names": [
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59iPuJc5cvHCEpztLfoa7q",
+        "Result Album Name": "The Hours (Music from the Motion Picture Soundtrack)"
     },
     {
         "Title": "Unity Of Knowledge",
@@ -122,13 +187,26 @@
         "ATC Track": "Goldberg Variations, for keyboard (Clavier-Übung IV), BWV 988 (BC L9)",
         "ATC Artists": [
             "Glenn Gould"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "China Song",
         "ATC Artists": [
             "Coctails"
-        ]
+        ],
+        "Result Track Name": "China Song",
+        "Result Artist Names": [
+            "The Coctails"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2DGhWXitmhR9amAOECjJv8",
+        "Result Album Name": "Early Hi-Ball Years"
     },
     {
         "Title": "Military Training",
@@ -152,13 +230,30 @@
         "ATC Track": "Air",
         "ATC Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Air",
+        "Result Artist Names": [
+            "Richard Stoltzman",
+            "Mika Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5beCOazjqoUqdjIu0vFNeT",
+        "Result Album Name": "Duo Cantando"
     },
     {
         "ATC Track": "Soul Miner",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Soul Miner",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tB3aefEUkefxpjNAPEaJA",
+        "Result Album Name": "Country Soul Guitar"
     },
     {
         "Title": "Miami Mayor",
@@ -176,13 +271,29 @@
         "ATC Track": "Coyita",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Coyita",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:016vA5iOfrn9LdFWpoIYr3",
+        "Result Album Name": "Ronroco"
     },
     {
         "ATC Track": "Gumpstumper",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": "Gumpstumper",
+        "Result Artist Names": [
+            "Ben Vaughn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qp8lmRpdDguIQUiBT5qTA",
+        "Result Album Name": "Instrumental Stylings"
     },
     {
         "Title": "Asteroid",
@@ -212,13 +323,26 @@
         "ATC Track": "WALKING TO MISSOURI",
         "ATC Artists": [
             "SANDY BULL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "take the a train",
         "ATC Artists": [
             "james carter"
-        ]
+        ],
+        "Result Track Name": "TAKE THE \"A\" TRAIN",
+        "Result Artist Names": [
+            "JAMES CARTER QUARTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HtYmXJCRTBx1gogx2sTMJ",
+        "Result Album Name": "JURASSIC CLASSICS"
     },
     {
         "Title": "Mr. Subway",
@@ -230,12 +354,28 @@
         "ATC Track": "CHINA BOY",
         "ATC Artists": [
             "BENNY GOODMAN"
-        ]
+        ],
+        "Result Track Name": "China Boy",
+        "Result Artist Names": [
+            "Benny Goodman Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69D0QGDE1yYL3U1f0yKR58",
+        "Result Album Name": "The Complete RCA Victor Small Group Recordings"
     },
     {
         "ATC Track": "Ridin' High",
         "ATC Artists": [
             "Lester Lanin"
-        ]
+        ],
+        "Result Track Name": "Ridin' High",
+        "Result Artist Names": [
+            "Lester Lanin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Wdq6WIQqWtQWgzIJs92rQ",
+        "Result Album Name": "This Is Society Dance Music"
     }
 ]

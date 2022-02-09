@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-04-08",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:23:40"
+        "Scanned Date": "2022-02-06 19:23:40",
+        "Playlist URI": "6FDpM4BUJf49orXiJPQO9a",
+        "Playlist Link": "https://open.spotify.com/playlist/6FDpM4BUJf49orXiJPQO9a",
+        "Snapshot ID": "MSw4Y2ViNTNhYjRlOTY5MjM3NjZmZDg2OTljNzcyYjM3MWQ3NDJiZjhi",
+        "Playlist Name": "ATC 1998-04-08 Wed All Things Considered"
     },
     {
         "Title": "Tobacco",
@@ -34,7 +38,15 @@
         "ATC Track": "Pleased to Meet You",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Pleased to Meet You",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43y879HVia6UjbFJCYNs8E",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "Title": "Gourmet Trade Show",
@@ -46,13 +58,29 @@
         "ATC Track": "You Are My Sunshine",
         "ATC Artists": [
             "Travelin' Light"
-        ]
+        ],
+        "Result Track Name": "You Are My Sunshine",
+        "Result Artist Names": [
+            "Travelin' Light"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4F0zlbEJnerBO5isnwq1v8",
+        "Result Album Name": "Makin' Whoopee"
     },
     {
         "ATC Track": "Freereggaehibop",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "FreeReggaeHiBop",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iVC25vSANaHycjMkDJHen",
+        "Result Album Name": "Conversin' With The Elders"
     },
     {
         "Title": "Dc Schools",
@@ -64,7 +92,12 @@
         "ATC Track": "TONIGHT I WON'T BE SINGING NO BLUES",
         "ATC Artists": [
             "THE CLAYTON BROTHERS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pacific Storm",
@@ -76,13 +109,29 @@
         "ATC Track": "Breaking the Ethers/Serengeti",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Breaking The Ethers\\Serengeti",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LdBgztm20s2ZPkYjoi6j5",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "ATC Track": "Stand by Your Man",
         "ATC Artists": [
             "Nashville Super Guitars"
-        ]
+        ],
+        "Result Track Name": "Stand By Your Man",
+        "Result Artist Names": [
+            "Nashville"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5XNBpxw93pIdUVIweT79Sn",
+        "Result Album Name": "Back From The Past"
     },
     {
         "Title": "Dreaming Out Loud",
@@ -94,7 +143,15 @@
         "ATC Track": "WALK DON'T RUN",
         "ATC Artists": [
             "CHET ATKINS"
-        ]
+        ],
+        "Result Track Name": "Walk, Don't Run",
+        "Result Artist Names": [
+            "Chet Atkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rizLhV4nTD6zitrLkJCwB",
+        "Result Album Name": "Elegant Chet: The Art of Chet Atkins"
     },
     {
         "Title": "Endangered Plants",
@@ -118,7 +175,15 @@
         "ATC Track": "BOB THE BOB",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mvTcdOP0nx50zpnnhfPdD",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "Hi Gay Marriage",
@@ -130,13 +195,29 @@
         "ATC Track": "HOLE DIGGIN'",
         "ATC Artists": [
             "SCOTT HENDERSON"
-        ]
+        ],
+        "Result Track Name": "Hole Diggin'",
+        "Result Artist Names": [
+            "Scott Henderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4aWZ8Lo16aFOuTK3KCbAFA",
+        "Result Album Name": "Dog Party"
     },
     {
         "ATC Track": "Later for the Gator",
         "ATC Artists": [
             "Willis \"Gator\" Jackson"
-        ]
+        ],
+        "Result Track Name": "Later For The Gator",
+        "Result Artist Names": [
+            "Willis Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3NslrCKOQxs2jkfj2nbQFU",
+        "Result Album Name": "Call of the Gators"
     },
     {
         "Title": "Dioxin",
@@ -154,14 +235,29 @@
         "ATC Track": "DOIN' THINGS",
         "ATC Artists": [
             "GREEN STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "I FEEL PRETTY",
         "ATC Artists": [
             "NETTLE",
             "MARKHAM"
-        ]
+        ],
+        "Result Track Name": "Scenes from West Side Story: I Feel Pretty",
+        "Result Artist Names": [
+            "Leonard Bernstein",
+            "David Nettle",
+            "Richard Markham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2y0enB46YCT1MZY7n3F5Fj",
+        "Result Album Name": "Scenes from West Side Story (Two Pianos)"
     },
     {
         "Title": "Tara Pro",
@@ -179,13 +275,30 @@
         "ATC Track": "Just One of Those Things",
         "ATC Artists": [
             "Lester Lanin"
-        ]
+        ],
+        "Result Track Name": "Just One Of Those Things - Society",
+        "Result Artist Names": [
+            "Lester Lanin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20VA5yID2zupXvr3DhcWSx",
+        "Result Album Name": "Best Of The Big Bands"
     },
     {
         "ATC Track": "Blue Skies",
         "ATC Artists": [
             "Itzhak Perlman",
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": "Blue Skies",
+        "Result Artist Names": [
+            "Oscar Peterson",
+            "Itzhak Perlman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nTX4j2IumLBCpZB7f3vkv",
+        "Result Album Name": "Side By Side"
     }
 ]

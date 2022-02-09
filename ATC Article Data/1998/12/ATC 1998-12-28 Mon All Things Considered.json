@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-12-28",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:12:53"
+        "Scanned Date": "2022-02-06 19:12:53",
+        "Playlist URI": "4ygy9KPENWEgetc7yfye9z",
+        "Playlist Link": "https://open.spotify.com/playlist/4ygy9KPENWEgetc7yfye9z",
+        "Snapshot ID": "MSw4MzkyODVmN2QxODE2NDI4Yjk5ZGIxMzZjOWNjMzRhOTM3NDkyOGNl",
+        "Playlist Name": "ATC 1998-12-28 Mon All Things Considered"
     },
     {
         "Title": "Airstrikes on Iraq",
@@ -28,13 +32,26 @@
         "ATC Track": "HIGH LIfE FOR NINE INSTRUMENTS",
         "ATC Artists": [
             "BALANESCU QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "LONG DISTANCE LAMENT",
         "ATC Artists": [
             "ROBERT STANTON"
-        ]
+        ],
+        "Result Track Name": "Long Distance Lament",
+        "Result Artist Names": [
+            "Robert Stanton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4kV95u01zBpgFIS3gaF2gI",
+        "Result Album Name": "Acoustic Storm"
     },
     {
         "Title": "NBA Update",
@@ -52,13 +69,29 @@
         "ATC Track": "The 2nd Law",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The 2nd Law",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ss9DlUJ5tnBYWGWiYfLqg",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "Baal T'Shuvah",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Baal T'shuvah",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FgjPyH8VvGfld7DQtc9Vt",
+        "Result Album Name": "Oracle"
     },
     {
         "Title": "Health Inflation",
@@ -76,7 +109,25 @@
         "ATC Track": "RAINDANCE",
         "ATC Artists": [
             "TONY ELMAN"
-        ]
+        ],
+        "Result Track Name": "Raindance",
+        "Result Artist Names": [
+            "Tony Elman",
+            "Joe Craven",
+            "Darol Anger",
+            "Todd Phillips",
+            "Mike Marshall",
+            "Matt Eakle",
+            "Rob Ickles",
+            "Edgar Meyer",
+            "Peter Elman",
+            "Odile Lagault",
+            "Jim Kerwin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4B1gk3oNYo0ho5CP5xhXqC",
+        "Result Album Name": "Earthtones"
     },
     {
         "Title": "Balloon Aftermath",
@@ -88,7 +139,12 @@
         "ATC Track": "PIETA",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Geoff Muldaur",
@@ -100,7 +156,15 @@
         "ATC Track": "THE PEACOCKS",
         "ATC Artists": [
             "JOHN MCLAUGHLIN"
-        ]
+        ],
+        "Result Track Name": "The Peacocks",
+        "Result Artist Names": [
+            "John McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RS6Ox4QO6z9ZpFfXurMmn",
+        "Result Album Name": "The Promise"
     },
     {
         "Title": "Violent Crime",
@@ -126,7 +190,17 @@
             "PACO DE LUCIA",
             "AL DI MEOLA",
             "JOHN MCLAUGHLIN"
-        ]
+        ],
+        "Result Track Name": "Espiritu",
+        "Result Artist Names": [
+            "Paco de Lucía",
+            "John McLaughlin",
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5333333333333333,
+        "Result Track URI": "spotify:track:6pFfe1YOnqbzXGXmhBx4AH",
+        "Result Album Name": "Paco De Lucia, Al Di Meola, John McLaughlin"
     },
     {
         "Title": "Year in Economics",
@@ -138,13 +212,27 @@
         "ATC Track": "Baby Calamari",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Manila Waltz",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": "Manila Waltz",
+        "Result Artist Names": [
+            "Gideon Freudmann",
+            "Gideon Freudmann and Mark Herschler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54K5Sx5gSL1dtwvo9IwFU9",
+        "Result Album Name": "Dancing On My Hat"
     },
     {
         "Title": "Kosovo",
@@ -168,7 +256,15 @@
         "ATC Track": "BLACK CHERRY LOTUS",
         "ATC Artists": [
             "ADAM RUDOLPH'S MOVING PICTURES"
-        ]
+        ],
+        "Result Track Name": "Black Cherry Lotus",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35byOJbYsz99OaL4M0SD3G",
+        "Result Album Name": "Contemplations"
     },
     {
         "Title": "<B>Matthew Shipp</B>",
@@ -180,7 +276,16 @@
         "ATC Track": "WISTFUL THINKING",
         "ATC Artists": [
             "RALPH TOWNER"
-        ]
+        ],
+        "Result Track Name": "Wistful Thinking",
+        "Result Artist Names": [
+            "Ralph Towner",
+            "Paolo Fresu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34Zc5Efl8Rm8rxlYyj6k8h",
+        "Result Album Name": "Chiaroscuro"
     },
     {
         "Title": "Australian Yachting Disaster",

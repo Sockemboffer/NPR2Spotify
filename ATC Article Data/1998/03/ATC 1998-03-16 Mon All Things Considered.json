@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-03-16",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:25:25"
+        "Scanned Date": "2022-02-06 19:25:25",
+        "Playlist URI": "073SXMbqTeocuPdd9MbIEt",
+        "Playlist Link": "https://open.spotify.com/playlist/073SXMbqTeocuPdd9MbIEt",
+        "Snapshot ID": "MSxkM2I0ZWViYWU1MmMwNzU3YzA2ZmYzMjEzMDBjZGEwYjdiZDM3Yjkx",
+        "Playlist Name": "ATC 1998-03-16 Mon All Things Considered"
     },
     {
         "Title": "More On Willey",
@@ -28,7 +32,12 @@
         "ATC Track": "HIGH LIfE FOR NINE INSTRUMENTS",
         "ATC Artists": [
             "BALANESCU QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "What Spock Changed",
@@ -52,13 +61,26 @@
         "ATC Track": "BILL'S DREAM",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Bill's Dream",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JPc6QAu0WTwxHSijsaZ5n",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "ATC Track": "birds flying",
         "ATC Artists": [
             "oystein sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Vatican & The Holocaust",
@@ -77,13 +99,30 @@
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Pitfalls",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yf9CjExvcDAqLamZtsLMr",
+        "Result Album Name": "Industry"
     },
     {
         "ATC Track": "Midnight Creeper",
         "ATC Artists": [
             "Lou Donaldson"
-        ]
+        ],
+        "Result Track Name": "Midnight Creeper",
+        "Result Artist Names": [
+            "Lou Donaldson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cItWO2mK53ohwvedc0v28",
+        "Result Album Name": "Midnight Creeper"
     },
     {
         "Title": "McKinney Hearing",
@@ -107,13 +146,31 @@
         "ATC Track": "Closing",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 3, \"Mishima\": VI. Mishima / Closing",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Carducci String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qZh3yJ7tILlDD0Wmv7Ftj",
+        "Result Album Name": "Glass: String Quartets Nos. 1-4"
     },
     {
         "ATC Track": "Song for Someone",
         "ATC Artists": [
             "Meridian Arts Ensemble"
-        ]
+        ],
+        "Result Track Name": "Song for Someone",
+        "Result Artist Names": [
+            "Kenny Wheeler",
+            "Meridian Arts Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BLfyIvs2EO4HaGvJ0hEJL",
+        "Result Album Name": "Prime Meridian"
     },
     {
         "Title": "Crop Damage",
@@ -131,7 +188,15 @@
         "ATC Track": "Smoke Rings",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Smoke Rings",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sjt2ny8RU2OA5d7dH43Vg",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "Title": "Nato & Kosovo",
@@ -161,6 +226,14 @@
         "ATC Track": "SOLACE - A MEXICAN SERENADE",
         "ATC Artists": [
             "NEW ENGLAND RAGTIME ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": "Solace - A Mexican Serenade",
+        "Result Artist Names": [
+            "New England Ragtime Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0tIAjG5Sh3HExVMhZHam16",
+        "Result Album Name": "The Art of Scott Joplin"
     }
 ]

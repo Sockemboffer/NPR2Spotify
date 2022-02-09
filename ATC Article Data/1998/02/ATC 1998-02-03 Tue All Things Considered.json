@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-02-03",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:26:14"
+        "Scanned Date": "2022-02-06 19:26:14",
+        "Playlist URI": "3wrGTGqMk7VVtbbTsfslNT",
+        "Playlist Link": "https://open.spotify.com/playlist/3wrGTGqMk7VVtbbTsfslNT",
+        "Snapshot ID": "MSwyYTQyODg4OWJjNDk5Yzk1YTg0ZGFhZjMwNzEzZGU3Y2FkODY0Y2Qz",
+        "Playlist Name": "ATC 1998-02-03 Tue All Things Considered"
     },
     {
         "Title": "Albright In Cairo",
@@ -22,7 +26,12 @@
         "ATC Track": "GETZ VARIATIONS: THE LADY FROM PORTOLA",
         "ATC Artists": [
             "DAVID DEMPSEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tx Execution",
@@ -35,13 +44,30 @@
         "ATC Artists": [
             "THE BRASS PROJECT (JOHN SURMAN",
             "JOHN WARREN)"
-        ]
+        ],
+        "Result Track Name": "Silent Lake",
+        "Result Artist Names": [
+            "John Surman",
+            "John Warren"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0G38zNiIRGyiCc5Co98rNB",
+        "Result Album Name": "The Brass Project"
     },
     {
         "ATC Track": "ANDANTINO",
         "ATC Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "Variation 5 - Andantino",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40QHkGBpLoSbf8vpsh2VfK",
+        "Result Album Name": "The Chopsticks Variations"
     },
     {
         "Title": "Chimps",
@@ -53,13 +79,23 @@
         "ATC Track": "Adobe Dog House",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Baby Calamari",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Quality Vs. Quantity",
@@ -71,7 +107,15 @@
         "ATC Track": "Sweetness Alone",
         "ATC Artists": [
             "Trapezoid"
-        ]
+        ],
+        "Result Track Name": "Sweetness Alone",
+        "Result Artist Names": [
+            "Paul Reisler and Trapezoid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BmBqp5gaN3zyG1xi8xz3r",
+        "Result Album Name": "Remembered Way"
     },
     {
         "Title": "Funeral Biz",
@@ -83,7 +127,12 @@
         "ATC Track": "PRELUDE 1: SARABANDE",
         "ATC Artists": [
             "EXCELSIOR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Unknown Soldier",
@@ -107,7 +156,15 @@
         "ATC Track": "FRED'S LIFE",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Fred's Life",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1yWNgL385BpWVG2hpddG8t",
+        "Result Album Name": "Charlie Hunter Trio"
     },
     {
         "Title": "Weather",

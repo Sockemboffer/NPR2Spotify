@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-07-23",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:20:13"
+        "Scanned Date": "2022-02-06 19:20:13",
+        "Playlist URI": "1dmQmD0GhYYiyYRUMzbNhr",
+        "Playlist Link": "https://open.spotify.com/playlist/1dmQmD0GhYYiyYRUMzbNhr",
+        "Snapshot ID": "MSxhODNmYTc5NDQ2ZjdkNzgwMDUzZmM0ZmNjMzk1ZmZmOWMxZjY4MmE4",
+        "Playlist Name": "ATC 1998-07-23 Thu All Things Considered"
     },
     {
         "Title": "Heat & Pollution",
@@ -22,7 +26,12 @@
         "ATC Track": "Elephant Walk",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Papua New Guinea",
@@ -34,13 +43,26 @@
         "ATC Track": "Elephant Walk",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blues for Los Angeles",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Blues for Los Angeles",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:213Py96NxijT3sG8ERViKZ",
+        "Result Album Name": "East/West"
     },
     {
         "Title": "Kosovo",
@@ -65,13 +87,28 @@
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Los Them",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DeGlfGREhIwt9qWYsrs0P",
+        "Result Album Name": "Rios"
     },
     {
         "ATC Track": "THE WAY THE WIND BLOWS",
         "ATC Artists": [
             "BILLY NOVICK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Indiana Lumberyard",
@@ -89,7 +126,16 @@
         "ATC Track": "NOCTURNE IN E-FLAT MAJOR, OP. 55, NO. 2",
         "ATC Artists": [
             "RICHARD GOODE"
-        ]
+        ],
+        "Result Track Name": "Nocturne In E-Flat Major, Op. 55, No. 2",
+        "Result Artist Names": [
+            "Frédéric Chopin",
+            "Richard Goode"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1JmO5ItbMOybKqLGij7Kn6",
+        "Result Album Name": "Chopin: Polonaise-Fantasie Op. 61; Nocturne Op. 55, No. 2; Mazurkas Scherzo, Op. 54; Barcarolle, Op. 60"
     },
     {
         "Title": "Covering D-Day",
@@ -107,7 +153,12 @@
         "ATC Track": "MEDITATION FROM \"THAIS\"",
         "ATC Artists": [
             "CHRISTIAN LINDBERG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Starr Investigation",
@@ -132,13 +183,30 @@
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "The Familiar",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OUYW440KaPc1jY1b0AL5v",
+        "Result Album Name": "Little Things Left Behind 1988 - 1998"
     },
     {
         "ATC Track": "A Daze Wage",
         "ATC Artists": [
             "Steve Roach"
-        ]
+        ],
+        "Result Track Name": "A Daze Wage",
+        "Result Artist Names": [
+            "Steve Roach",
+            "Roger King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0S84KS78eNqzaOgjsvVwec",
+        "Result Album Name": "Dust To Dust"
     },
     {
         "Title": "Jackson's Ball",
@@ -157,7 +225,19 @@
         "ATC Artists": [
             "TOMMY REILLY",
             "JAMES MOODY"
-        ]
+        ],
+        "Result Track Name": "A Room with a View - Tenderly - The Breeze and I",
+        "Result Artist Names": [
+            "Walter Gross",
+            "Ernesto Lecuona",
+            "Noel Coward",
+            "Tommy Reilly",
+            "James Moody"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yVYHm114BpQjASWMzK7tQ",
+        "Result Album Name": "Reilly, Tommy: Thanks for the Memory"
     },
     {
         "Title": "Letters",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-01-23",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:28:49"
+        "Scanned Date": "2022-02-06 19:28:49",
+        "Playlist URI": "0kRrUJl00Ebce6RBQk46LS",
+        "Playlist Link": "https://open.spotify.com/playlist/0kRrUJl00Ebce6RBQk46LS",
+        "Snapshot ID": "MSw3MThhNGQ2NmQ0MjdiNGEyZTNkZjY2OWNjZWNhMTgwYjJhZTc4YTYx",
+        "Playlist Name": "ATC 1998-01-23 Fri All Things Considered"
     },
     {
         "Title": "What Did We Learn Today?",
@@ -22,7 +26,16 @@
         "ATC Track": "Beanfields",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Beanfields",
+        "Result Artist Names": [
+            "Simon Jeffes",
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4wM3BaHszsxih7IEVEC6Xa",
+        "Result Album Name": "Concert Program"
     },
     {
         "Title": "Botha",
@@ -40,14 +53,32 @@
         "ATC Track": "Beanfields",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Beanfields",
+        "Result Artist Names": [
+            "Simon Jeffes",
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4wM3BaHszsxih7IEVEC6Xa",
+        "Result Album Name": "Concert Program"
     },
     {
         "ATC Track": "Dark Eyes",
         "ATC Artists": [
             "Itzhak Perlman",
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": "Dark Eyes",
+        "Result Artist Names": [
+            "Oscar Peterson",
+            "Itzhak Perlman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0JBSm4CqMm8uskxrPHjPmG",
+        "Result Album Name": "Side By Side"
     },
     {
         "Title": "P.M.S.",
@@ -71,13 +102,26 @@
         "ATC Track": "Chinese Canon",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Chinese Canon",
+        "Result Artist Names": [
+            "Arcane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5oSHHauHPNq943qp9aJNes",
+        "Result Album Name": "Bliss"
     },
     {
         "ATC Track": "Ragtime Cowboy Joe",
         "ATC Artists": [
             "1912 National Calliope"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Say It May Be So, Joe",
@@ -89,13 +133,26 @@
         "ATC Track": "The Perfect Rag",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "What Is This Thing Called Love",
         "ATC Artists": [
             "Charlie Parker and His Orchestra"
-        ]
+        ],
+        "Result Track Name": "What Is This Thing Called Love?",
+        "Result Artist Names": [
+            "Charlie Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3NSaQKFEJ9JYbkZsW83iAC",
+        "Result Album Name": "Night And Day: The Genius Of Charlie Parker #1"
     },
     {
         "Title": "Investigation",
@@ -119,13 +176,26 @@
         "ATC Track": "HOWL",
         "ATC Artists": [
             "GLENN PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Howl",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39kQSgFIe9OreILCAfe2z3",
+        "Result Album Name": "Scratched By The Rabbit"
     },
     {
         "ATC Track": "Song for Marcel",
         "ATC Artists": [
             "C.W. Vrtacek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kaczynski",
@@ -143,13 +213,23 @@
         "ATC Track": "Milonga Triste",
         "ATC Artists": [
             "Hugo Díaz y su Conjunto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Perfect Rag",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pope In Cuba",
@@ -173,7 +253,15 @@
         "ATC Track": "NOTHING LIES STILL LONG",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Nothing Lies Still Long",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nEAkSFN5z0at0dyoyec9s",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "Title": "Cheesehead Economics",
@@ -191,6 +279,15 @@
         "ATC Track": "BORSALINO",
         "ATC Artists": [
             "CHET ATKINS WITH TOMMY EMMANUEL"
-        ]
+        ],
+        "Result Track Name": "Borsalino",
+        "Result Artist Names": [
+            "Chet Atkins, C.G.P.",
+            "Tommy Emmanuel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3BOcmKHfTMBW632WuQcySg",
+        "Result Album Name": "The Day Finger Pickers Took Over The World (with Tommy Emmanuel)"
     }
 ]

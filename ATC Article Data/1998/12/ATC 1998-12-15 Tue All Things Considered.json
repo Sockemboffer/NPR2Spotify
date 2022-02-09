@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-12-15",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:12:25"
+        "Scanned Date": "2022-02-06 19:12:25",
+        "Playlist URI": "5NyyIMRVWXiLCmR1s4K2S3",
+        "Playlist Link": "https://open.spotify.com/playlist/5NyyIMRVWXiLCmR1s4K2S3",
+        "Snapshot ID": "MSxjNDc4ZWYwOGYxNjMzZTgxNDM2Y2VjNzcxMDljZDZmZTE2NjFiNWJj",
+        "Playlist Name": "ATC 1998-12-15 Tue All Things Considered"
     },
     {
         "Title": "Clinton's Mideast Trip Ends",
@@ -16,13 +20,26 @@
         "ATC Track": "BILLY BOB",
         "ATC Artists": [
             "BREAKING THE RULES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Christmas Carol Waltz",
         "ATC Artists": [
             "Moses Kahumkou"
-        ]
+        ],
+        "Result Track Name": "Christmas Carol Waltz",
+        "Result Artist Names": [
+            "Moses Kahumoku"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:19ULJM3KKMsQjjUssLR2Kv",
+        "Result Album Name": "Ki Ho'alu Christmas: Hawaiian Slack Key Guitar"
     },
     {
         "Title": "International Tobacco Suits",
@@ -34,7 +51,15 @@
         "ATC Track": "I Live in a New Place",
         "ATC Artists": [
             "Todd Phillips"
-        ]
+        ],
+        "Result Track Name": "I Live in a New Place",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ufnpvtOvDXBD3XJitqrrc",
+        "Result Album Name": "Timeframe"
     },
     {
         "Title": "New Saturn Boss",
@@ -47,13 +72,30 @@
         "ATC Artists": [
             "Barney Isaacs",
             "George Kuo"
-        ]
+        ],
+        "Result Track Name": "Winter Wonderland",
+        "Result Artist Names": [
+            "Barney Isaacs",
+            "George Kuo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GhM2tempacbKkhPQV4mTQ",
+        "Result Album Name": "Ki Ho'alu Christmas: Hawaiian Slack Key Guitar"
     },
     {
         "ATC Track": "C-H-R-I-S-T-M-A-S (The Meaning of Christmas)",
         "ATC Artists": [
             "Ledward Kaapana"
-        ]
+        ],
+        "Result Track Name": "C-H-R-I-S-T-M-A-S (The Meaning of Christmas)",
+        "Result Artist Names": [
+            "Ledward Kaapana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LiZhPQqPT1JEtIxqQWPcg",
+        "Result Album Name": "Ki Ho'alu Christmas: Hawaiian Slack Key Guitar"
     },
     {
         "Title": "Judge Leon Higginbotham Dies",
@@ -65,14 +107,31 @@
         "ATC Track": "Roun' Trip Ticket",
         "ATC Artists": [
             "Todd Phillips"
-        ]
+        ],
+        "Result Track Name": "Roun'trip Ticket",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sxNWyyLPhlbzA54Uqiqgc",
+        "Result Album Name": "Timeframe"
     },
     {
         "ATC Track": "Frogs on Ice",
         "ATC Artists": [
             "Darol Anger",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "Frogs on Ice",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Darol Anger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ab0wjw5MUEfv7yqBhMkiM",
+        "Result Album Name": "The Duo Live: At Home and On the Range"
     },
     {
         "Title": "Christmas In Florida",
@@ -84,7 +143,12 @@
         "ATC Track": "simple moments",
         "ATC Artists": [
             "oscar lopez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nursing Care, Part Ii",
@@ -108,13 +172,29 @@
         "ATC Track": "Rebel's Bolero",
         "ATC Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "Rebel's Bolero",
+        "Result Artist Names": [
+            "Alison Brown Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cKCCgeIy69PteYW4tmPBF",
+        "Result Album Name": "Out of the Blue"
     },
     {
         "ATC Track": "The Wonderful Sea Voyage (Of Holy St. Brendan)",
         "ATC Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "The Wonderful Sea Voyage (Of Holy St. Brendan)",
+        "Result Artist Names": [
+            "Alison Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FNxl7d81IkjweT5Z3LwYa",
+        "Result Album Name": "Quartet"
     },
     {
         "Title": "Impeachment Odds",
@@ -132,13 +212,29 @@
         "ATC Track": "BLUE CASTLE",
         "ATC Artists": [
             "GLEN VELEZ"
-        ]
+        ],
+        "Result Track Name": "Blue Castle",
+        "Result Artist Names": [
+            "Glen Velez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3aFMvCScBx4TfjH8E4ezYT",
+        "Result Album Name": "Assyrian Rose"
     },
     {
         "ATC Track": "DRALA",
         "ATC Artists": [
             "GLEN VELEZ"
-        ]
+        ],
+        "Result Track Name": "Drala",
+        "Result Artist Names": [
+            "Glen Velez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0m8u6PT2qu5yOKRthsm6X8",
+        "Result Album Name": "Assyrian Rose"
     },
     {
         "Title": "Washington Buzz",
@@ -150,7 +246,12 @@
         "ATC Track": "THE WIND CRIES MARY",
         "ATC Artists": [
             "MARK NAUSEFF MIROSLAV TADIC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bosnia Peace Conference",
@@ -168,13 +269,29 @@
         "ATC Track": "THEME FOR NAOMI UEMURA",
         "ATC Artists": [
             "PHILIP AABERG"
-        ]
+        ],
+        "Result Track Name": "The Story Of Naomi Uemura -Theme For Naomi Uemura",
+        "Result Artist Names": [
+            "Philip Aaberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XDG5FcdPo68Lwed9c6NB4",
+        "Result Album Name": "Cinema"
     },
     {
         "ATC Track": "RAME HEAD",
         "ATC Artists": [
             "JOHN SURMAN"
-        ]
+        ],
+        "Result Track Name": "Rame Head",
+        "Result Artist Names": [
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DjcXOEgQO7zvtbGqiknUV",
+        "Result Album Name": "Road To Saint Ives"
     },
     {
         "Title": "Lockerbie Suspects",
@@ -186,13 +303,26 @@
         "ATC Track": "DIP 'N DODGE",
         "ATC Artists": [
             "DAAU"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "OLIPHANT",
         "ATC Artists": [
             "DAAU"
-        ]
+        ],
+        "Result Track Name": "Oliphant",
+        "Result Artist Names": [
+            "Daau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VidKGiLeVZLmJPYt7Tqep",
+        "Result Album Name": "We Need New Animals"
     },
     {
         "Title": "Jama Cardiovascular Study",

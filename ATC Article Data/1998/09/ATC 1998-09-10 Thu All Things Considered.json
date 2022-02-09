@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-09-10",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:16:32"
+        "Scanned Date": "2022-02-06 19:16:32",
+        "Playlist URI": "5hNFXcYWFemZBNo3I2zucT",
+        "Playlist Link": "https://open.spotify.com/playlist/5hNFXcYWFemZBNo3I2zucT",
+        "Snapshot ID": "MSxhMWFlYTJkMzgyM2MxNWViNGU4MDg1ZTg0NGNjMDI2MGU4NzIwNzZl",
+        "Playlist Name": "ATC 1998-09-10 Thu All Things Considered"
     },
     {
         "Title": "More Clinton Meetings",
@@ -28,13 +32,26 @@
         "ATC Track": "LA MOURISQUE",
         "ATC Artists": [
             "MILLER BRASS ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "L' Espionnage Pomme de Terre",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "L'Espionnage Pomme De Terre",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OKx6bx6jl3WmWgjnzN7Sh",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "College Students On Clinton",
@@ -46,14 +63,27 @@
         "ATC Track": "Jeep on 35",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Jeep On 35",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TtS1V6I12MzJ1doK61e5K",
+        "Result Album Name": "A Go Go"
     },
     {
         "ATC Track": "Begin the Beguine",
         "ATC Artists": [
             "Guy Van Duser",
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Primakov Profile",
@@ -77,13 +107,26 @@
         "ATC Track": "Verona",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Verona",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27vkVDIo8Nfh7zfigxaua5",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "ATC Track": "Sacrae Symphoniae: No. 2: Canzon septimi toni, for 8 parts",
         "ATC Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Superman Stamp",
@@ -95,7 +138,12 @@
         "ATC Track": "Eternal Future",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Waiters Of The World",
@@ -125,7 +173,16 @@
         "ATC Track": "PARTITA NO. 2 IN D MINOR: GIGA",
         "ATC Artists": [
             "LARA ST. JOHN"
-        ]
+        ],
+        "Result Track Name": "Partita No. 2 In D minor, BWV 1004: Giga",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Lara St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xtoFvqUeFT1gcALFgtjZj",
+        "Result Album Name": "Bach: The Six Sonatas & Partitas for Violin Solo"
     },
     {
         "Title": "Swissair News",
@@ -143,13 +200,29 @@
         "ATC Track": "MY BEAUTIFUL MOON",
         "ATC Artists": [
             "CARL WEINGARTEN ET AL"
-        ]
+        ],
+        "Result Track Name": "My Beautiful Moon",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ajInEnZtz5KW0OfwhA41b",
+        "Result Album Name": "Redwood Melodies"
     },
     {
         "ATC Track": "NOBODY KNOWS THE WAY I FEEL THIS MORNING",
         "ATC Artists": [
             "DR. MICHAEL WHITE"
-        ]
+        ],
+        "Result Track Name": "Nobody Knows The Way I Feel This Morning",
+        "Result Artist Names": [
+            "Dr. Michael White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Xf7LyKko7V2PCff0FH5k3",
+        "Result Album Name": "Crescent City Serenade"
     },
     {
         "Title": "Bouncing Checks",
@@ -173,7 +246,12 @@
         "ATC Track": "ANU",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Building A Roadster",
@@ -185,13 +263,23 @@
         "ATC Track": "ANU",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "ANU",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "This Is An Update",
@@ -203,6 +291,14 @@
         "ATC Track": "LET THE GOOD TIMES ROLL",
         "ATC Artists": [
             "LESTER BOWIE"
-        ]
+        ],
+        "Result Track Name": "Let The Good Times Roll",
+        "Result Artist Names": [
+            "Lester Bowie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23ziNOOQGLLGic4BT3WQl7",
+        "Result Album Name": "All The Magic! / The One And Only"
     }
 ]

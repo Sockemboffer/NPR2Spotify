@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-05-20",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:22:45"
+        "Scanned Date": "2022-02-06 19:22:45",
+        "Playlist URI": "7BQrpDNJ4Sau73HnDk3qCA",
+        "Playlist Link": "https://open.spotify.com/playlist/7BQrpDNJ4Sau73HnDk3qCA",
+        "Snapshot ID": "MSwyMTFmYjlmZTc1ZjNjZmZlNTAyMWRiM2E0YTMxYWI2MmQ3Y2VmZDAw",
+        "Playlist Name": "ATC 1998-05-20 Wed All Things Considered"
     },
     {
         "Title": "Indonesia Today",
@@ -30,7 +34,12 @@
             "CINELU",
             "EUBANKS",
             "HOLLAND"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rais",
@@ -44,7 +53,12 @@
             "CINELU",
             "EUBANKS",
             "HOLLAND"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bar-Illan",
@@ -56,7 +70,12 @@
         "ATC Track": "Cowboy Night Herd Song",
         "ATC Artists": [
             "Randy Erwin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New $20",
@@ -80,7 +99,15 @@
         "ATC Track": "BOB THE BOB",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mvTcdOP0nx50zpnnhfPdD",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "Fire Ants",
@@ -92,7 +119,12 @@
         "ATC Track": "Return of the Picnic Ants",
         "ATC Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Club Culture In Northern Ireland",
@@ -104,7 +136,15 @@
         "ATC Track": "Freereggaehibop",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "FreeReggaeHiBop",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iVC25vSANaHycjMkDJHen",
+        "Result Album Name": "Conversin' With The Elders"
     },
     {
         "Title": "Tobacco",
@@ -122,7 +162,15 @@
         "ATC Track": "Castle of Dromore/Will Ye Go, Lassie, Go?",
         "ATC Artists": [
             "El McMeen"
-        ]
+        ],
+        "Result Track Name": "Will Ye Go, Lassie, Go?",
+        "Result Artist Names": [
+            "El McMeen"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tfZ04mgD2fNU2dQ1SrMzG",
+        "Result Album Name": "Irish Guitar Encores"
     },
     {
         "Title": "Ireland Part Ii",
@@ -134,13 +182,26 @@
         "ATC Track": "Plains of Waterloo",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Plains of Waterloo / James Connolly",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JL9T7W6C9O0dYR8TO1FLg",
+        "Result Album Name": "Bootleg USA"
     },
     {
         "ATC Track": "Cowboy Night Herd Song",
         "ATC Artists": [
             "Randy Erwin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Deficit",
@@ -164,7 +225,15 @@
         "ATC Track": "Verona",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Verona",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27vkVDIo8Nfh7zfigxaua5",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "Title": "Satellite",
@@ -182,6 +251,14 @@
         "ATC Track": "The Dicty Glide",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "The Dicty Glide",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lxG2ka4qsFHupB2tpQJrI",
+        "Result Album Name": "Bug Music"
     }
 ]

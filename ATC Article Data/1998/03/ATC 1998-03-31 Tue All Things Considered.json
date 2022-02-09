@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-03-31",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:26:06"
+        "Scanned Date": "2022-02-06 19:26:06",
+        "Playlist URI": "3JUTB7K0fJbSg9gkbH0bNz",
+        "Playlist Link": "https://open.spotify.com/playlist/3JUTB7K0fJbSg9gkbH0bNz",
+        "Snapshot ID": "MSw2YjNkOGIyMzZiMmU1MDQwNDI1MGQ3MzlmYjMyZmRhYTFlYmJlMDNi",
+        "Playlist Name": "ATC 1998-03-31 Tue All Things Considered"
     },
     {
         "Title": "Mideast Peace",
@@ -28,13 +32,29 @@
         "ATC Track": "Yellow Bell",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Yellow Bell",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bLNnRbvvRoH0O3e5Dry3p",
+        "Result Album Name": "Out Of The Woods"
     },
     {
         "ATC Track": "Beppo",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Beppo",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TEac0T0eAEjDIm3WmuUoI",
+        "Result Album Name": "Always, Never, And Forever"
     },
     {
         "Title": "Opening Day",
@@ -58,13 +78,29 @@
         "ATC Track": "Memphis Exorcism",
         "ATC Artists": [
             "Squirrel Nut Zippers"
-        ]
+        ],
+        "Result Track Name": "Memphis Exorcism",
+        "Result Artist Names": [
+            "Squirrel Nut Zippers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mOpVmdrUuHIfbaPTmItos",
+        "Result Album Name": "The Best of Squirrel Nut Zippers"
     },
     {
         "ATC Track": "Put a Lid on It",
         "ATC Artists": [
             "Squirrel Nut Zippers"
-        ]
+        ],
+        "Result Track Name": "Put A Lid On It",
+        "Result Artist Names": [
+            "Squirrel Nut Zippers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06HM8m5kmKG8AOt7eelGhI",
+        "Result Album Name": "The Best of Squirrel Nut Zippers"
     },
     {
         "Title": "The Science Fair and Therapeutic Touch",
@@ -76,7 +112,12 @@
         "ATC Track": "GRDLATEN",
         "ATC Artists": [
             "HORIZONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bella Abzug Obit",
@@ -88,7 +129,12 @@
         "ATC Track": "Humoresque for piano (Fem Klaverstykker), FS 10/2 (Op. 3/2)",
         "ATC Artists": [
             "Barbara Meister"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "EVANSONG",
@@ -96,7 +142,17 @@
             "PETER ERSKINE",
             "PALLE DANIELSSON",
             "JOHN TAYLOR"
-        ]
+        ],
+        "Result Track Name": "Evansong",
+        "Result Artist Names": [
+            "Peter Erskine",
+            "Palle Danielsson",
+            "John Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LauDhGnjtQrp0osjo8UqJ",
+        "Result Album Name": "Time Being"
     },
     {
         "Title": "Red Norvo",
@@ -120,7 +176,16 @@
         "ATC Track": "Symphonique #6 (Good for Goodie)",
         "ATC Artists": [
             "Moondog"
-        ]
+        ],
+        "Result Track Name": "Symphonique #6 (Good For Goodie) - Instrumental",
+        "Result Artist Names": [
+            "Louis Hardin",
+            "Moondog"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3R54ta7RKtSxB51Y5YX0rt",
+        "Result Album Name": "Moondog"
     },
     {
         "Title": "Ca Electricity",
@@ -138,13 +203,29 @@
         "ATC Track": "Jitterboogie",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Jitterboogie",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LzUgmDDM1yuS9v2bR1th3",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "The 2nd Law",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The 2nd Law",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ss9DlUJ5tnBYWGWiYfLqg",
+        "Result Album Name": "Oracle"
     },
     {
         "Title": "Jonesboro",
@@ -168,13 +249,26 @@
         "ATC Track": "Jarabi",
         "ATC Artists": [
             "Toumani Diabaté"
-        ]
+        ],
+        "Result Track Name": "Jarabi",
+        "Result Artist Names": [
+            "Toumani Diabaté"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6tgZruQ31jLMukeEvtLO0F",
+        "Result Album Name": "Kaira"
     },
     {
         "ATC Track": "MBAUDY",
         "ATC Artists": [
             "ALI FARKA TOURE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Last Apocalypse",
@@ -186,12 +280,26 @@
         "ATC Track": "TANDERNAKEN",
         "ATC Artists": [
             "THE FOLGER CONSORT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "FILLES A MARIER BASSE DANCE TUNE: DIVISIONS ON THE TUNE",
         "ATC Artists": [
             "THE FOLGER CONSORT"
-        ]
+        ],
+        "Result Track Name": "Basse Dance Tune: Divisions On the Tune",
+        "Result Artist Names": [
+            "Filles a marier",
+            "Folger Consort"
+        ],
+        "Result Track-Match Percent": 0.8235294117647058,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4h9TawSC5zwgCFfBND5zER",
+        "Result Album Name": "Playing with Fire: The Art of the Renaissance Instrumentalist"
     }
 ]

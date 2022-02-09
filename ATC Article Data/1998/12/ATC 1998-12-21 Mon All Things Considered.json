@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-12-21",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:12:38"
+        "Scanned Date": "2022-02-06 19:12:38",
+        "Playlist URI": "2oQpstzGEn0i7hoE5lnI6Q",
+        "Playlist Link": "https://open.spotify.com/playlist/2oQpstzGEn0i7hoE5lnI6Q",
+        "Snapshot ID": "MSwwODdkNGFmMGI2YmIwOGFhOWEzNGIzMmY5MzZjODAwMzYxZjBiMTc2",
+        "Playlist Name": "ATC 1998-12-21 Mon All Things Considered"
     },
     {
         "Title": "In The Knesset",
@@ -28,7 +32,15 @@
         "ATC Track": "BOB THE BOB",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mvTcdOP0nx50zpnnhfPdD",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "Polls",
@@ -46,13 +58,29 @@
         "ATC Track": "Surrender",
         "ATC Artists": [
             "Jami Sieber"
-        ]
+        ],
+        "Result Track Name": "Surrender",
+        "Result Artist Names": [
+            "Jami Sieber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69ExQH8DeE7nLgwOxG5y1T",
+        "Result Album Name": "Lush Mechanique"
     },
     {
         "ATC Track": "Invisible Wings",
         "ATC Artists": [
             "Jami Sieber"
-        ]
+        ],
+        "Result Track Name": "Invisible Wings",
+        "Result Artist Names": [
+            "Jami Sieber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4q8EN9wNqrlz8g4tqIX4P7",
+        "Result Album Name": "Lush Mechanique"
     },
     {
         "Title": "Octuplets",
@@ -70,7 +98,12 @@
         "ATC Track": "SLEEPWALK",
         "ATC Artists": [
             "sticks and stones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pan Am 103",
@@ -83,13 +116,30 @@
         "ATC Artists": [
             "THE BRASS PROJECT (JOHN SURMAN",
             "JOHN WARREN)"
-        ]
+        ],
+        "Result Track Name": "The Returning Exile",
+        "Result Artist Names": [
+            "John Surman",
+            "John Warren"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:3360cLO1Mu7xgHrj4nMBOu",
+        "Result Album Name": "Selected Recordings"
     },
     {
         "ATC Track": "POLPERRO",
         "ATC Artists": [
             "JOHN SURMAN"
-        ]
+        ],
+        "Result Track Name": "Polperro",
+        "Result Artist Names": [
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3WK6Wcg1hclMZqxTzGpbiH",
+        "Result Album Name": "Road To Saint Ives"
     },
     {
         "Title": "Lyme Disease Vaccine",
@@ -107,7 +157,15 @@
         "ATC Track": "CAROL OF THE BELLS",
         "ATC Artists": [
             "NASHVILLE MANDOLIN ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": "Carol of the Bells",
+        "Result Artist Names": [
+            "Nashville Mandolin Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6tXTV4E3s6KXeM6ENKwyiX",
+        "Result Album Name": "Gifts"
     },
     {
         "Title": "White House Fallout",
@@ -138,13 +196,26 @@
         "ATC Artists": [
             "DJANGO REINHARDT",
             "THE HOT CLUB OF FRANCE QUINTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "I SEE THE LIGHT",
         "ATC Artists": [
             "WYNTON MARSALIS SEPTET"
-        ]
+        ],
+        "Result Track Name": "I See The Light - Vocal Version",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3RZ8WCAYQ1Sgvhu1LxXQZW",
+        "Result Album Name": "Citi Movement"
     },
     {
         "Title": "Dc Mayor",
@@ -162,13 +233,32 @@
         "ATC Track": "Hush-A-Bye",
         "ATC Artists": [
             "Johnny Griffin"
-        ]
+        ],
+        "Result Track Name": "Hush-A-Bye",
+        "Result Artist Names": [
+            "Johnny Griffin",
+            "Barry Harris",
+            "Ron Carter",
+            "Ben Riley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BDUJZt5HcEFPOQ8E6Ufg0",
+        "Result Album Name": "The Kerry Dancers"
     },
     {
         "ATC Track": "Without a Song",
         "ATC Artists": [
             "Johnny Griffin"
-        ]
+        ],
+        "Result Track Name": "Without A Song",
+        "Result Artist Names": [
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3INWgPL8q2v8uTj9Rj8leY",
+        "Result Album Name": "Chicago, New York, Paris"
     },
     {
         "Title": "Pakistani Sailors",
@@ -186,7 +276,15 @@
         "ATC Track": "Nowthen",
         "ATC Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "Nowthen",
+        "Result Artist Names": [
+            "Matt Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rFoFmSOawwveXFiya0xrj",
+        "Result Album Name": "The View From Here"
     },
     {
         "Title": "'Chased By the Light'",
@@ -198,12 +296,25 @@
         "ATC Track": "MY HEART IS ALWAYS MOVING",
         "ATC Artists": [
             "OYSTEIN SEVAG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Seventh One",
         "ATC Artists": [
             "Dean Magraw"
-        ]
+        ],
+        "Result Track Name": "Seventh One",
+        "Result Artist Names": [
+            "Dean Magraw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44NMzOB4tOI4rrsGmbQda1",
+        "Result Album Name": "Kitchen Man"
     }
 ]

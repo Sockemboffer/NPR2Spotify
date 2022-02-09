@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-05-29",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:23:17"
+        "Scanned Date": "2022-02-06 19:23:17",
+        "Playlist URI": "5rGYM28BlKxFB0BDCHUpVP",
+        "Playlist Link": "https://open.spotify.com/playlist/5rGYM28BlKxFB0BDCHUpVP",
+        "Snapshot ID": "MSxkMDg4NjFlNDlhNDE2ZTU3ZDUzNWE1YzcyNWNmZTQ2ZjBlNWJlOTVi",
+        "Playlist Name": "ATC 1998-05-29 Fri All Things Considered"
     },
     {
         "Title": "Barry Goldwater Obituary",
@@ -23,13 +27,29 @@
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "The Wonderful Year",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24V3BZ82FI6ou2edBmrhhs",
+        "Result Album Name": "The Familiar"
     },
     {
         "ATC Track": "Dog Dreams",
         "ATC Artists": [
             "Stuart Weber"
-        ]
+        ],
+        "Result Track Name": "Dog Dreams",
+        "Result Artist Names": [
+            "Stuart Weber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BUyzbfqMSWvSNfLuoZdvM",
+        "Result Album Name": "Under the Big Sky--Guitar Anthology"
     },
     {
         "Title": "Russia Economy",
@@ -54,13 +74,26 @@
         "ATC Artists": [
             "EDGAR MEYER",
             "THE EMERSON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bourrée I and II",
         "ATC Artists": [
             "John Renbourn"
-        ]
+        ],
+        "Result Track Name": "Bouree I and II",
+        "Result Artist Names": [
+            "John Renbourn"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1xGqf5IMk3qS6nJomS76h9",
+        "Result Album Name": "The Black Balloon"
     },
     {
         "Title": "Bob Hope Turns 95",
@@ -79,7 +112,15 @@
         "ATC Artists": [
             "Booker T",
             "the MG'S"
-        ]
+        ],
+        "Result Track Name": "Slip Slidin'",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:3Wxarl0hfS7HiXcTedJE6t",
+        "Result Album Name": "That'S The Way It Should Be"
     },
     {
         "Title": "Freemen",
@@ -97,13 +138,23 @@
         "ATC Track": "Dr. Ying Yang",
         "ATC Artists": [
             "Jump with Joey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lovers' Lane",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ca Primary",
@@ -128,7 +179,12 @@
         "ATC Artists": [
             "THE CHESTNUT BRASS COMPANY",
             "FRIENDS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Manhattan Theater 180",
@@ -147,6 +203,14 @@
         "ATC Artists": [
             "Booker T",
             "the MG'S"
-        ]
+        ],
+        "Result Track Name": "Gotta Serve Somebody",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:4C0jeqnMpP88F5PesWB4a2",
+        "Result Album Name": "Time Is Tight"
     }
 ]

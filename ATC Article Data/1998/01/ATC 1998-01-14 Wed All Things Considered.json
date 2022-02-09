@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-01-14",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:28:14"
+        "Scanned Date": "2022-02-06 19:28:14",
+        "Playlist URI": "6SnLnWzgvh8dlR2kZm1H4A",
+        "Playlist Link": "https://open.spotify.com/playlist/6SnLnWzgvh8dlR2kZm1H4A",
+        "Snapshot ID": "MSxlODJmNjA1NjVmZWRjY2I0MWE0NTZhZWVkYmExZTM0ZTY1OGM3OTYx",
+        "Playlist Name": "ATC 1998-01-14 Wed All Things Considered"
     },
     {
         "Title": "Rjr Docs",
@@ -28,7 +32,15 @@
         "ATC Track": "How the West Was Won and Where It Got Us",
         "ATC Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "How The West Was Won And Where It Got Us - Remastered",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5h7H951D3U8uAjR5TM24DJ",
+        "Result Album Name": "New Adventures In Hi-Fi (25th Anniversary Edition)"
     },
     {
         "Title": "Other",
@@ -42,7 +54,12 @@
             "PETER BRYNGELSSON",
             "PELLE LINDSTROM",
             "ET AL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gop Litmus",
@@ -108,13 +125,26 @@
         "ATC Track": "MY THREE MOONS",
         "ATC Artists": [
             "MICHAEL MANRING"
-        ]
+        ],
+        "Result Track Name": "My Three Moons (for Rosalind Franklin)",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59pITibywsYZTQ0j4cioCa",
+        "Result Album Name": "Thonk"
     },
     {
         "ATC Track": "THE BANK ROBBERY",
         "ATC Artists": [
             "THE HORSE FLIES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sect. Of State",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-10-01",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:14:29"
+        "Scanned Date": "2022-02-06 19:14:29",
+        "Playlist URI": "6XRpy915J1vrqJmjUsC6ih",
+        "Playlist Link": "https://open.spotify.com/playlist/6XRpy915J1vrqJmjUsC6ih",
+        "Snapshot ID": "MSxkOGEzYjY1Y2M1MTQ3NmY3ZWNiZGQ5ZmQxMDYzMjNiMTkxMDk4ZmMx",
+        "Playlist Name": "ATC 1998-10-01 Thu All Things Considered"
     },
     {
         "Title": "What To Do About Kosovo?",
@@ -28,13 +32,23 @@
         "ATC Track": "MOSCOW - PARIS, CAR 19",
         "ATC Artists": [
             "ALEX ROSTOTSKY TRIO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MOSCOW - PARIS, CAR 19",
         "ATC Artists": [
             "ALEX ROSTOTSKY TRIO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Swissair Update",
@@ -52,13 +66,26 @@
         "ATC Track": "OPENING TITLES",
         "ATC Artists": [
             "MICHAEL NYMAN"
-        ]
+        ],
+        "Result Track Name": "Opening Titles",
+        "Result Artist Names": [
+            "Michael Kamen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1VpVweUqCv0FLX669338Xo",
+        "Result Album Name": "The Dead Zone (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Humoresque",
         "ATC Artists": [
             "Adam Makowicz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Welfare Rule Change",
@@ -82,7 +109,17 @@
         "ATC Track": "S'WONDERFUL/ FUNNY FACE",
         "ATC Artists": [
             "GEORGE GERSHWIN"
-        ]
+        ],
+        "Result Track Name": "'S Wonderful (From \"Funny Face\") [Arr. S. Ramin for Orchestra] - Instrumental",
+        "Result Artist Names": [
+            "George Gershwin",
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:51ZmG4wPx2ireVpcZePQW3",
+        "Result Album Name": "Unforgettable"
     },
     {
         "Title": "Copyright Law",
@@ -106,13 +143,26 @@
         "ATC Track": "Berceuse",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rollin'",
         "ATC Artists": [
             "ReBirth Brass Band"
-        ]
+        ],
+        "Result Track Name": "Who's Rockin', Who's Rollin'?",
+        "Result Artist Names": [
+            "Rebirth Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tRfukIum0cNka1GE96IvB",
+        "Result Album Name": "Move Your Body"
     },
     {
         "Title": "World Bank",
@@ -136,13 +186,27 @@
         "ATC Track": "Gone West",
         "ATC Artists": [
             "Steve Roach"
-        ]
+        ],
+        "Result Track Name": "Gone West",
+        "Result Artist Names": [
+            "Steve Roach",
+            "Roger King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50iOviDLTrKaG0sw68wfFJ",
+        "Result Album Name": "Dust To Dust"
     },
     {
         "ATC Track": "You and Me",
         "ATC Artists": [
             "Snooks Eaglin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Do-Nothing Congress",
@@ -160,13 +224,29 @@
         "ATC Track": "Southern Pacific",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Southern Pacific",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45C9dQqQLNIKfpfZKrDRt4",
+        "Result Album Name": "A Go Go"
     },
     {
         "ATC Track": "The Streets of New Delhi",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Streets Of New Delhi",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T3sta4Tbq1GBPrHRDBOWS",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Churchill",
@@ -190,13 +270,30 @@
         "ATC Track": "WELL, WELL, CORNELIUS",
         "ATC Artists": [
             "JOHN TILBURY"
-        ]
+        ],
+        "Result Track Name": "Well, well Cornelius",
+        "Result Artist Names": [
+            "Howard Skempton",
+            "John Tilbury"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xAOVZXJGhFN8uZue64wqy",
+        "Result Album Name": "Skempton: Well, well Cornelius"
     },
     {
         "ATC Track": "In a Sentimental Mood",
         "ATC Artists": [
             "Adam Makowicz"
-        ]
+        ],
+        "Result Track Name": "In A Sentimental Mood",
+        "Result Artist Names": [
+            "Adam Makowicz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4D91S2YJFyD5xykkAiMkC9",
+        "Result Album Name": "Adam Makowicz Plays Duke Ellington"
     },
     {
         "Title": "Komeda Review",
@@ -208,6 +305,11 @@
         "ATC Track": "HiBall Nova Scotia",
         "ATC Artists": [
             "The High Llamas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

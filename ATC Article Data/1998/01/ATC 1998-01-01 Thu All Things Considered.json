@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-01-01",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:27:28"
+        "Scanned Date": "2022-02-06 19:27:28",
+        "Playlist URI": "1aUlkWLZaC28a5SMbLvTwA",
+        "Playlist Link": "https://open.spotify.com/playlist/1aUlkWLZaC28a5SMbLvTwA",
+        "Snapshot ID": "MSxiZjc3ZDUyZDc4NWZkMDM1YjY1MDM4ZTU3MmYzOTE1ZTE0ZWU4NmEw",
+        "Playlist Name": "ATC 1998-01-01 Thu All Things Considered"
     },
     {
         "Title": "Michael Kennedy",
@@ -34,13 +38,26 @@
         "ATC Track": "Guitar Was the Case",
         "ATC Artists": [
             "Mono Puff"
-        ]
+        ],
+        "Result Track Name": "Guitar Was The Case",
+        "Result Artist Names": [
+            "Mono Puff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tcpSZhmvcL9oc6YYeDMoT",
+        "Result Album Name": "Unsupervised"
     },
     {
         "ATC Track": "Good Old New York",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New York Centennial: Queens & The Bronx",
@@ -58,6 +75,14 @@
         "ATC Track": "RHAPSODY IN BLUE",
         "ATC Artists": [
             "VARIOUS ARTISTS"
-        ]
+        ],
+        "Result Track Name": "07 Rhapsody In Blue",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3B7yPHs3ULa1yTompKd4bE",
+        "Result Album Name": "The Greatest Hits of the '20s"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-07-08",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:19:32"
+        "Scanned Date": "2022-02-06 19:19:32",
+        "Playlist URI": "5JyW70qRsG9trOBwLKlHUJ",
+        "Playlist Link": "https://open.spotify.com/playlist/5JyW70qRsG9trOBwLKlHUJ",
+        "Snapshot ID": "MSxlNWU0YmJkZDFmNjRlOTczYzdhYjNiZmYzZTcwNzM5NGEwYWI1MmFm",
+        "Playlist Name": "ATC 1998-07-08 Wed All Things Considered"
     },
     {
         "Title": "Dow-Corning Settlement",
@@ -22,7 +26,12 @@
         "ATC Track": "Blues in the Dark",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Senate & Irs",
@@ -34,13 +43,30 @@
         "ATC Track": "Oblivion",
         "ATC Artists": [
             "Astor Piazzolla"
-        ]
+        ],
+        "Result Track Name": "Oblivion",
+        "Result Artist Names": [
+            "Astor Piazzolla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CShxQaSFFKXY2PxrJIhrB",
+        "Result Album Name": "Piazzolla Tangos 6"
     },
     {
         "ATC Track": "Allegro (Opus 8 from the Chamber Blues Suite)",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": "Allegro (Opus 8 from the Chamber Blues Suite)",
+        "Result Artist Names": [
+            "Corky Siegel's Chamber Blues",
+            "Corky Siegel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UeKdD7pQPyrWkXR2ZToTO",
+        "Result Album Name": "Corky Siegel's Chamber Blues"
     },
     {
         "Title": "South African Army",
@@ -52,13 +78,26 @@
         "ATC Track": "Smoke House",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Dicty Glide",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "The Dicty Glide",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lxG2ka4qsFHupB2tpQJrI",
+        "Result Album Name": "Bug Music"
     },
     {
         "Title": "Israel Cabinet & West Bank",
@@ -76,7 +115,15 @@
         "ATC Track": "My Bells",
         "ATC Artists": [
             "Fred Hersch"
-        ]
+        ],
+        "Result Track Name": "My Bells",
+        "Result Artist Names": [
+            "Fred Hersch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zzEbgwW42hXIxRYoqcICW",
+        "Result Album Name": "Evanescence: A Tribute to Bill Evans"
     },
     {
         "Title": "Volkswagen",
@@ -88,7 +135,15 @@
         "ATC Track": "My Bells",
         "ATC Artists": [
             "Fred Hersch"
-        ]
+        ],
+        "Result Track Name": "My Bells",
+        "Result Artist Names": [
+            "Fred Hersch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zzEbgwW42hXIxRYoqcICW",
+        "Result Album Name": "Evanescence: A Tribute to Bill Evans"
     },
     {
         "Title": "Tunnel Reopened",
@@ -107,7 +162,15 @@
         "ATC Artists": [
             "Ernest Ranglin",
             "Monty Alexander"
-        ]
+        ],
+        "Result Track Name": "Black Disciples",
+        "Result Artist Names": [
+            "Ernest Ranglin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1V1jLlcS20ftmCbRV9PXTk",
+        "Result Album Name": "Below The Bassline"
     },
     {
         "Title": "In Nigeria",
@@ -131,13 +194,26 @@
         "ATC Track": "Phoenix Hill",
         "ATC Artists": [
             "Peter Apfelbaum"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Smugglerõs Cove",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Smugglerõs Cove",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2McAK9yJA0sc2BG2yETjok",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Sudan",
@@ -149,13 +225,29 @@
         "ATC Track": "Nardis/Lonely Woman",
         "ATC Artists": [
             "Fred Hersch"
-        ]
+        ],
+        "Result Track Name": "Lonely Woman / Nardis",
+        "Result Artist Names": [
+            "Fred Hersch Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4srA7iEqIFRvg4LM48tnjB",
+        "Result Album Name": "Alive at the Vanguard"
     },
     {
         "ATC Track": "Smugglerõs Cove",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Smugglerõs Cove",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2McAK9yJA0sc2BG2yETjok",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Blood Shortage",
@@ -179,7 +271,12 @@
         "ATC Track": "Honey Hush",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dateline Lawsuit",
@@ -197,6 +294,14 @@
         "ATC Track": "Alright, Already",
         "ATC Artists": [
             "Combustible Edison"
-        ]
+        ],
+        "Result Track Name": "Alright, Already",
+        "Result Artist Names": [
+            "Combustible Edison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iLiZ4qv0BEeVtjadLL5Ja",
+        "Result Album Name": "Schizophonic"
     }
 ]

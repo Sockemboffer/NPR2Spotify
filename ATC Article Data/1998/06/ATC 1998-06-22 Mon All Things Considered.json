@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-06-22",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:21:27"
+        "Scanned Date": "2022-02-06 19:21:27",
+        "Playlist URI": "1StqMHaQJWFjh0goJYKWr9",
+        "Playlist Link": "https://open.spotify.com/playlist/1StqMHaQJWFjh0goJYKWr9",
+        "Snapshot ID": "MSxmMzUwZTk4NGRlYTM3OGE2N2RlZjk5MTMzMTQ4MDUwZTZiNzhlN2U2",
+        "Playlist Name": "ATC 1998-06-22 Mon All Things Considered"
     },
     {
         "Title": "Scotus & Sex Harassment",
@@ -28,7 +32,12 @@
         "ATC Track": "ON MAKING THE FLOWERS DANCE",
         "ATC Artists": [
             "PAUL FEJKO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Colombian President",
@@ -46,7 +55,15 @@
         "ATC Track": "underpass overture",
         "ATC Artists": [
             "freeway philharmonic"
-        ]
+        ],
+        "Result Track Name": "Underpass Overture",
+        "Result Artist Names": [
+            "Freeway Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gfJtbz9RaLU67uxo2fWcU",
+        "Result Album Name": "Sonic Detour"
     },
     {
         "Title": "Therapy Vs. Drugs",
@@ -70,7 +87,15 @@
         "ATC Track": "View From Above",
         "ATC Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "View From Above",
+        "Result Artist Names": [
+            "Alison Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vzXuAOdHToQn2zh35Lcvq",
+        "Result Album Name": "Vanguard Visionaries"
     },
     {
         "Title": "Clinton & Teen Smokers",
@@ -88,7 +113,15 @@
         "ATC Track": "View From Above",
         "ATC Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "View From Above",
+        "Result Artist Names": [
+            "Alison Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vzXuAOdHToQn2zh35Lcvq",
+        "Result Album Name": "Vanguard Visionaries"
     },
     {
         "Title": "Bus Crash & Highway Safety",
@@ -100,13 +133,23 @@
         "ATC Track": "BROTHERS",
         "ATC Artists": [
             "TERRA COTTA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "RECALLING",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tobacco Verdict Overturned",
@@ -124,13 +167,23 @@
         "ATC Track": "BROTHERS",
         "ATC Artists": [
             "TERRA COTTA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "RECALLING",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Internet Privacy",
@@ -148,7 +201,16 @@
         "ATC Track": "On My Mind the Whole Night Long",
         "ATC Artists": [
             "George Gershwin"
-        ]
+        ],
+        "Result Track Name": "On My Mind the Whole Night Long",
+        "Result Artist Names": [
+            "Arthur Jackson",
+            "George Gershwin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HTfNEM8OIrHf2jJBF8euG",
+        "Result Album Name": "Gershwin Plays Gershwin: The Piano Rolls"
     },
     {
         "Title": "The Undiscovered Country",
@@ -166,6 +228,14 @@
         "ATC Track": "FISH TACO",
         "ATC Artists": [
             "DICK DALE"
-        ]
+        ],
+        "Result Track Name": "Fish Taco",
+        "Result Artist Names": [
+            "Dick Dale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0O4SVn0kUQde0GLeC7CL3X",
+        "Result Album Name": "Unknown Territory"
     }
 ]

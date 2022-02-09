@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-08-10",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:18:12"
+        "Scanned Date": "2022-02-06 19:18:12",
+        "Playlist URI": "7yro42W3R48EkZn9fRfpES",
+        "Playlist Link": "https://open.spotify.com/playlist/7yro42W3R48EkZn9fRfpES",
+        "Snapshot ID": "MSw1NmVjMjRkMjAwZGEyNTk4NzAwNDJmMzU0ZmU3NzNhOTg5YzE5MjZk",
+        "Playlist Name": "ATC 1998-08-10 Mon All Things Considered"
     },
     {
         "Title": "Latest From Nairobi",
@@ -22,7 +26,12 @@
         "ATC Track": "for the love of you",
         "ATC Artists": [
             "kate st. john"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congo",
@@ -34,7 +43,15 @@
         "ATC Track": "The 2nd Law",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The 2nd Law",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ss9DlUJ5tnBYWGWiYfLqg",
+        "Result Album Name": "Oracle"
     },
     {
         "Title": "New Jersey Water",
@@ -52,13 +69,26 @@
         "ATC Track": "ADOBE ABODE",
         "ATC Artists": [
             "THE HENRYS"
-        ]
+        ],
+        "Result Track Name": "Adobe Abode",
+        "Result Artist Names": [
+            "The Henrys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UWwQrADOi4MfSccSvmByC",
+        "Result Album Name": "The Yearly Ears"
     },
     {
         "ATC Track": "LOOK SO GOOD",
         "ATC Artists": [
             "THE HENRYS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Diary Of A Retirement Home",
@@ -70,7 +100,12 @@
         "ATC Track": "VARIATIONS ON A THEME BY BEETHOVEN",
         "ATC Artists": [
             "NYLE FRANK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Investigation So Far",
@@ -94,7 +129,15 @@
         "ATC Track": "SLOW BURN",
         "ATC Artists": [
             "GAVIN LURSSEN"
-        ]
+        ],
+        "Result Track Name": "Slow Burn",
+        "Result Artist Names": [
+            "Gavin Lurssen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gNphI9U2NPErC8JK8lnqo",
+        "Result Album Name": "Urban Rituals"
     },
     {
         "Title": "Microsoft",
@@ -112,13 +155,29 @@
         "ATC Track": "VCF",
         "ATC Artists": [
             "Anything Box"
-        ]
+        ],
+        "Result Track Name": "VCF",
+        "Result Artist Names": [
+            "Anything Box"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Y0FrigBJcUj7aJUuBviDZ",
+        "Result Album Name": "Elektrodelica"
     },
     {
         "ATC Track": "Shuffled",
         "ATC Artists": [
             "Todd Phillips"
-        ]
+        ],
+        "Result Track Name": "Shuffled",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28LOpSqn2mBSI41X0TBWtT",
+        "Result Album Name": "Timeframe"
     },
     {
         "Title": "Opposition Research",
@@ -130,7 +189,12 @@
         "ATC Track": "DERDIA DEATH CHANT",
         "ATC Artists": [
             "TERRY RILEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Russian Tax Collection",

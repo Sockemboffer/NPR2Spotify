@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-07-16",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:19:54"
+        "Scanned Date": "2022-02-06 19:19:54",
+        "Playlist URI": "7gM4tUC5r9Dpj243NVwfJj",
+        "Playlist Link": "https://open.spotify.com/playlist/7gM4tUC5r9Dpj243NVwfJj",
+        "Snapshot ID": "MSxiYjdmYjAxN2E3N2UyYzFhMTFmNWJkYzM2YzQ3ZDU4YTlmMDFlMWFi",
+        "Playlist Name": "ATC 1998-07-16 Thu All Things Considered"
     },
     {
         "Title": "Arbitration Questions",
@@ -40,13 +44,32 @@
         "ATC Track": "Fathers",
         "ATC Artists": [
             "Laurent de Wilde"
-        ]
+        ],
+        "Result Track Name": "Fathers",
+        "Result Artist Names": [
+            "Laurent De Wilde",
+            "Ira Coleman",
+            "Dion Parson",
+            "Bobby Thomas Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q74eVulAwmNYBxd9z0hFt",
+        "Result Album Name": "Spoon-a-Rhythm"
     },
     {
         "ATC Track": "Beale Street Blues",
         "ATC Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "Beale Street Blues",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XVUeNMpP42wM6zA2P44ey",
+        "Result Album Name": "Louis Armstrong Plays W. C. Handy"
     },
     {
         "Title": "Algerian Journalists",
@@ -70,13 +93,26 @@
         "ATC Track": "Eye of the Camel",
         "ATC Artists": [
             "Gunnar Madsen"
-        ]
+        ],
+        "Result Track Name": "Eye Of The Camel",
+        "Result Artist Names": [
+            "Gunnar Madsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4eLQf1wbcT9M6J88LvdnwS",
+        "Result Album Name": "Spinning World"
     },
     {
         "ATC Track": "Villvinter (Wild Winter)",
         "ATC Artists": [
             "Annbjørg Lien"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Duma Decisions",
@@ -100,13 +136,26 @@
         "ATC Track": "LOS DOS GILBERTOS",
         "ATC Artists": [
             "CONJUNTO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "PLANET CLAIRE",
         "ATC Artists": [
             "B-52'S"
-        ]
+        ],
+        "Result Track Name": "Planet Claire",
+        "Result Artist Names": [
+            "The B-52's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aC0QmgjYGG8QYgAg06nTk",
+        "Result Album Name": "The B-52's"
     },
     {
         "Title": "Active Fault",
@@ -118,7 +167,15 @@
         "ATC Track": "i'm so lonesome i could cry",
         "ATC Artists": [
             "david schnaufer"
-        ]
+        ],
+        "Result Track Name": "I'm So Lonesome I Could Cry",
+        "Result Artist Names": [
+            "David Schnaufer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Hq7cMnHKf6IEcy4NQfUis",
+        "Result Album Name": "Dulcimer Player Deluxe"
     },
     {
         "Title": "Naacp Wrap",
@@ -142,13 +199,23 @@
         "ATC Track": "Tuscany",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tuscany",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fly Fishing School",

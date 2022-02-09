@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-01-16",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:28:22"
+        "Scanned Date": "2022-02-06 19:28:22",
+        "Playlist URI": "3ALRikvhcsMgFIxjXcjLBt",
+        "Playlist Link": "https://open.spotify.com/playlist/3ALRikvhcsMgFIxjXcjLBt",
+        "Snapshot ID": "MSwyZDVlMWM2Y2UyYTkxOWU0M2U0MjM2OTRhODZhYzRlMzI5Zjg5ZTA3",
+        "Playlist Name": "ATC 1998-01-16 Fri All Things Considered"
     },
     {
         "Title": "Tobacco Settlement Explainer",
@@ -22,7 +26,12 @@
         "ATC Track": "Triolipolska",
         "ATC Artists": [
             "Maria Kalaniemi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Baghdad",
@@ -34,13 +43,23 @@
         "ATC Track": "Triolipolska",
         "ATC Artists": [
             "Maria Kalaniemi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MARCH FROM THE LOVE FOR THREE ORANGES/ SIX DANCES FROM LA DANSERIE",
         "ATC Artists": [
             "MILLER BRASS ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gingrich On Tour",
@@ -52,14 +71,27 @@
         "ATC Track": "PETER'S SAXHORN JOURNAL",
         "ATC Artists": [
             "THE CHESTNUT BRASS COMPANY AND FRIENDS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Shoot to Kill",
         "ATC Artists": [
             "Quincy Jones",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Shoot To Kill",
+        "Result Artist Names": [
+            "Quincy Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3oebHH0E6H9SZYGV8vQMaj",
+        "Result Album Name": "Mirage (Original Motion Picture Score)"
     },
     {
         "Title": "Welfare Party Banned",
@@ -77,7 +109,15 @@
         "ATC Track": "DURA EUROPUS",
         "ATC Artists": [
             "DAVID BYRNE"
-        ]
+        ],
+        "Result Track Name": "Dura Europus",
+        "Result Artist Names": [
+            "David Byrne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Cfouu9a2x8Zt17Dqv4w8Y",
+        "Result Album Name": "The Forrest"
     },
     {
         "Title": "Birth Of A Whale",
@@ -89,7 +129,15 @@
         "ATC Track": "Plains of Waterloo",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Plains of Waterloo / James Connolly",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JL9T7W6C9O0dYR8TO1FLg",
+        "Result Album Name": "Bootleg USA"
     },
     {
         "Title": "Benny Goodman",
@@ -119,7 +167,15 @@
         "ATC Track": "Mr. Memory",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Mr. Memory",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0nRiLwiYVTYEug5J4zepI3",
+        "Result Album Name": "Nashville"
     },
     {
         "Title": "Other News",
@@ -144,7 +200,15 @@
         "ATC Artists": [
             "Stan Kenton",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Taunting Scene (The Rumble)",
+        "Result Artist Names": [
+            "Stan Kenton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4zIovo4QQXz6Yu5Nh2Rgg6",
+        "Result Album Name": "West Side Story"
     },
     {
         "Title": "Computer Prices",
@@ -176,12 +240,25 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Strance of the Spirit Red Gator",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2aYHJqAF5SI8bJlCyEyCSm",
+        "Result Album Name": "Shack-man"
     },
     {
         "ATC Track": "Boogie Shuffle",
         "ATC Artists": [
             "Jump with Joey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

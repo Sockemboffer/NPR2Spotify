@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-03-17",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:25:28"
+        "Scanned Date": "2022-02-06 19:25:28",
+        "Playlist URI": "0m8NmgUYaYpVWtHpDUJHJG",
+        "Playlist Link": "https://open.spotify.com/playlist/0m8NmgUYaYpVWtHpDUJHJG",
+        "Snapshot ID": "MSw0MjI5ZmM4NjQ0ZmNkZTUzODVmZjVhOGVmOGQyNWU0MDU1NjdlNzJj",
+        "Playlist Name": "ATC 1998-03-17 Tue All Things Considered"
     },
     {
         "Title": "Aids Council",
@@ -28,13 +32,28 @@
         "ATC Track": "Rumeurs",
         "ATC Artists": [
             "Cirque du Soleil"
-        ]
+        ],
+        "Result Track Name": "Rumeurs",
+        "Result Artist Names": [
+            "Cirque du Soleil",
+            "Philippe Dunnigan",
+            "Luis Perez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:61f5maq0HAojI1Wu1lqaDq",
+        "Result Album Name": "Mystere"
     },
     {
         "ATC Track": "the cajun dance",
         "ATC Artists": [
             "oil can"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Crime On Reservation I",
@@ -47,7 +66,12 @@
         "ATC Artists": [
             "linn barnes",
             "allison hampton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Training Indonesia's Army",
@@ -71,7 +95,15 @@
         "ATC Track": "TI MOYI RADOSHCHI",
         "ATC Artists": [
             "THE UKRAINIANS"
-        ]
+        ],
+        "Result Track Name": "Ti Moyi Radoshchi",
+        "Result Artist Names": [
+            "The Ukrainians"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6F08U7SlgRC9DELPvLQaLd",
+        "Result Album Name": "Evolutsiya"
     },
     {
         "Title": "Popcorn Behavior",
@@ -95,7 +127,15 @@
         "ATC Track": "Oblivion",
         "ATC Artists": [
             "Astor Piazzolla"
-        ]
+        ],
+        "Result Track Name": "Oblivion",
+        "Result Artist Names": [
+            "Astor Piazzolla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CShxQaSFFKXY2PxrJIhrB",
+        "Result Album Name": "Piazzolla Tangos 6"
     },
     {
         "Title": "From Subversion To Whimsy",
@@ -107,13 +147,29 @@
         "ATC Track": "MUSIC MAKERS",
         "ATC Artists": [
             "ESQUIVEL!"
-        ]
+        ],
+        "Result Track Name": "Music Makers",
+        "Result Artist Names": [
+            "Esquivel!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ScQTdHmhsMlg7sCxAQFeH",
+        "Result Album Name": "Infinity in Sound Vol. 1"
     },
     {
         "ATC Track": "Sr. Elizabeth's/Kerryman's Daughter/Top Of The Stairs",
         "ATC Artists": [
             "Eileen Ivers"
-        ]
+        ],
+        "Result Track Name": "Sr. Elizabeth's/Kerryman's Daughter/Top Of The Stairs",
+        "Result Artist Names": [
+            "Eileen Ivers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JE17pmOZPsOPbfeDmDW2W",
+        "Result Album Name": "Traditional Irish Music"
     },
     {
         "Title": "Sovereignty Commission",
@@ -149,6 +205,11 @@
         "ATC Track": "SEASON OF MISTS",
         "ATC Artists": [
             "KEVIN CRAWFORD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

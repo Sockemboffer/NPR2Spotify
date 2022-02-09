@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-05-14",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:22:26"
+        "Scanned Date": "2022-02-06 19:22:26",
+        "Playlist URI": "5kjBkOP8CaGvdNZkjZIOBl",
+        "Playlist Link": "https://open.spotify.com/playlist/5kjBkOP8CaGvdNZkjZIOBl",
+        "Snapshot ID": "MSw3NzQ2NTk4YjJmZjZmNDc4MDU3NTAwZWM3ZDg1MjI1MjY3MzZlNjUy",
+        "Playlist Name": "ATC 1998-05-14 Thu All Things Considered"
     },
     {
         "Title": "Microsoft & Justice",
@@ -28,7 +32,15 @@
         "ATC Track": "secret solution",
         "ATC Artists": [
             "michael masley"
-        ]
+        ],
+        "Result Track Name": "Secret Solution",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0G3wg2mKwsmsXjGfzyKZqB",
+        "Result Album Name": "Mystery Repeats Itself"
     },
     {
         "Title": "Secret Service",
@@ -46,14 +58,29 @@
         "ATC Track": "Food for Plankton In Detail",
         "ATC Artists": [
             "Django Bates"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Brady Bunch - in the style of Mozart",
         "ATC Artists": [
             "Grant Gershon",
             "Hollywood Chamber Symphony"
-        ]
+        ],
+        "Result Track Name": "Piano Concerto in F Major, \"Rerun\" (in the style of Mozart) (D. Fraser): III. The Brady Bunch",
+        "Result Artist Names": [
+            "Donald Fraser",
+            "Grant Gershon",
+            "Hollywood Chamber Symphony"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LGm0ckWwsFukodMwr8ksQ",
+        "Result Album Name": "Mozart Tv - Favorite Tv Tunes in the Style of Great Classical Composers"
     },
     {
         "Title": "Helms & Cuba",
@@ -77,14 +104,30 @@
         "ATC Track": "Vidvandre (Wandering)",
         "ATC Artists": [
             "Annbjørg Lien"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Present Past",
         "ATC Artists": [
             "Kenny Wheeler",
             "Bill Frisell et. al."
-        ]
+        ],
+        "Result Track Name": "Present Past",
+        "Result Artist Names": [
+            "Kenny Wheeler",
+            "Lee Konitz",
+            "Dave Holland",
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0GVhHb2WHwopf0YGlBdXYa",
+        "Result Album Name": "Angel Song"
     },
     {
         "Title": "Seinfeld",
@@ -96,7 +139,12 @@
         "ATC Track": "Sneakin' a Ya-Ya",
         "ATC Artists": [
             "The Memphis Horns"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Indonesia",
@@ -120,7 +168,12 @@
         "ATC Track": "The Golem",
         "ATC Artists": [
             "Davka"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Oslo",
@@ -139,7 +192,17 @@
         "ATC Artists": [
             "Grant Gershon",
             "Hollywood Chamber Symphony"
-        ]
+        ],
+        "Result Track Name": "Piano Concerto in F Major, \"Rerun\" (in the style of Mozart) (D. Fraser): III. The Brady Bunch",
+        "Result Artist Names": [
+            "Donald Fraser",
+            "Grant Gershon",
+            "Hollywood Chamber Symphony"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LGm0ckWwsFukodMwr8ksQ",
+        "Result Album Name": "Mozart Tv - Favorite Tv Tunes in the Style of Great Classical Composers"
     },
     {
         "Title": "Drunk Driving & Teens",
@@ -151,7 +214,15 @@
         "ATC Track": "Ballroom",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Ballroom",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4eHMvWrJB7KfHnnT2QOpF1",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "Title": "Marjory Stoneman Douglas",
@@ -163,6 +234,14 @@
         "ATC Track": "POWER OF JOY",
         "ATC Artists": [
             "ALI AKBAR KHAN"
-        ]
+        ],
+        "Result Track Name": "Power of Joy (Kaushi Kanra)",
+        "Result Artist Names": [
+            "Ali Akbar Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4C8ZXLbKUxgKgcyDlECo3A",
+        "Result Album Name": "Garden of Dreams"
     }
 ]

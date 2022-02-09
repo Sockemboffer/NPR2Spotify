@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-12-14",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:12:22"
+        "Scanned Date": "2022-02-06 19:12:22",
+        "Playlist URI": "0MA4dOGbcjEPocRlzP2tBF",
+        "Playlist Link": "https://open.spotify.com/playlist/0MA4dOGbcjEPocRlzP2tBF",
+        "Snapshot ID": "MSw3ZmI5OGUyZjRmNzNiYjFjODk4ZGM0ZThmYmMzNzAxNmQ5MzNmZjNh",
+        "Playlist Name": "ATC 1998-12-14 Mon All Things Considered"
     },
     {
         "Title": "Clinton In Gaza",
@@ -40,7 +44,12 @@
         "ATC Track": "BJUDAN MARSCH",
         "ATC Artists": [
             "JPP"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Long Term Care #1",
@@ -70,7 +79,15 @@
         "ATC Track": "LATE SUMMER AT JONATA",
         "ATC Artists": [
             "KIM ANGELIS"
-        ]
+        ],
+        "Result Track Name": "Souvenirs of the Season, Part I: Late Summer at Jonata",
+        "Result Artist Names": [
+            "Kim Angelis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:794KDgfKZTjsvPQdfBVNJ6",
+        "Result Album Name": "The Messenger"
     },
     {
         "Title": "Impeachment Developments",
@@ -106,13 +123,26 @@
         "ATC Track": "SEVEN-OH-FOUR",
         "ATC Artists": [
             "CHRIS PROCTOR"
-        ]
+        ],
+        "Result Track Name": "Seven-Oh-Four",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UFrrst89j6h63KaQRd4nz",
+        "Result Album Name": "The Chris Proctor Collection"
     },
     {
         "ATC Track": "New York Theme (Hey, You Can Have That Heartattack Outside Buddy)",
         "ATC Artists": [
             "Tom Waits"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Holiday Booklist",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-09-17",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:16:49"
+        "Scanned Date": "2022-02-06 19:16:49",
+        "Playlist URI": "4j7jR7BJcKZGR2ONanbSi8",
+        "Playlist Link": "https://open.spotify.com/playlist/4j7jR7BJcKZGR2ONanbSi8",
+        "Snapshot ID": "MSw5YjY4MTVjYWVjZGU5Y2UzOWE3M2MyNDhlZTNlMTg2MzE0YzNkMDA2",
+        "Playlist Name": "ATC 1998-09-17 Thu All Things Considered"
     },
     {
         "Title": "House Judiciary Vote",
@@ -28,13 +32,26 @@
         "ATC Track": "MOVING PAST THE TIME",
         "ATC Artists": [
             "PAUL CARROL BINKLEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MOON OVER MONTEREY",
         "ATC Artists": [
             "ROBERT STANTON"
-        ]
+        ],
+        "Result Track Name": "Moon over Monterey",
+        "Result Artist Names": [
+            "Robert Stanton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RwKaHdxCJDjoNZWmAzbGU",
+        "Result Album Name": "Acoustic Storm"
     },
     {
         "Title": "Bosnia Elections",
@@ -52,13 +69,29 @@
         "ATC Track": "garden of desire",
         "ATC Artists": [
             "andre feriante"
-        ]
+        ],
+        "Result Track Name": "Garden of Desire",
+        "Result Artist Names": [
+            "Andre Feriante"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BHPJQ3U626BpCDvKWDJFH",
+        "Result Album Name": "Angelica"
     },
     {
         "ATC Track": "angelica",
         "ATC Artists": [
             "andre feriante"
-        ]
+        ],
+        "Result Track Name": "Angelica",
+        "Result Artist Names": [
+            "Andre Feriante"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2C1ZItmDuGF011r3mNsric",
+        "Result Album Name": "Angelica"
     },
     {
         "Title": "Teen Sex On The Decline",
@@ -77,13 +110,26 @@
         "ATC Artists": [
             "Leith Stevens",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Everything Happens to Me",
         "ATC Artists": [
             "Branford Marsalis"
-        ]
+        ],
+        "Result Track Name": "Everything Happens To Me",
+        "Result Artist Names": [
+            "Branford Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uFJ97MIs2QHMNiubFBrsD",
+        "Result Album Name": "Bloomington"
     },
     {
         "Title": "Tallahassee Convict",
@@ -101,7 +147,15 @@
         "ATC Track": "peel",
         "ATC Artists": [
             "the coctails"
-        ]
+        ],
+        "Result Track Name": "Peel",
+        "Result Artist Names": [
+            "The Coctails"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WcP4QMTEyaLEpeHulIlBu",
+        "Result Album Name": "Peel"
     },
     {
         "Title": "Stock Market",
@@ -125,7 +179,15 @@
         "ATC Track": "prairie sunrise",
         "ATC Artists": [
             "peter ostroushko et al"
-        ]
+        ],
+        "Result Track Name": "Prairie Sunrise",
+        "Result Artist Names": [
+            "Peter Ostroushko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cW8eeh2cnRRUZnmmBTLYF",
+        "Result Album Name": "Heart of the Heartland"
     },
     {
         "Title": "Adm Verdict",
@@ -143,13 +205,29 @@
         "ATC Track": "Strange Meeting",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Strange Meeting",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XKP32JC2UJ1xYftJKZENI",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "ATC Track": "Is It Sweet?",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Is It Sweet?",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OG9nWd6SIgx53rvfyiyNZ",
+        "Result Album Name": "This Land"
     },
     {
         "Title": "Terrorist Charged",
@@ -173,7 +251,12 @@
         "ATC Track": "Triplesec",
         "ATC Artists": [
             "Sam Pacetti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -193,6 +276,11 @@
             "GIL SHAham",
             "LONDON SYMPHONY ORCHESTRA W",
             "ANDRE PREVIN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-12-25",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:12:48"
+        "Scanned Date": "2022-02-06 19:12:48",
+        "Playlist URI": "76oJWgZBxLCiLfFKAWRCvt",
+        "Playlist Link": "https://open.spotify.com/playlist/76oJWgZBxLCiLfFKAWRCvt",
+        "Snapshot ID": "MSxlZjFlYTVjMTMwZTRmYjVlZjkwMjQxYWVjYTUwNDA1NjlkNTBkNzY0",
+        "Playlist Name": "ATC 1998-12-25 Fri All Things Considered"
     },
     {
         "Title": "Christmas Messages",
@@ -28,7 +32,12 @@
         "ATC Track": "DECK THE HALLS WITH BOUGHS OF FUNKY BASS",
         "ATC Artists": [
             "CHRISTIAN MCBRIDE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Moscow Toy Store",
@@ -46,13 +55,29 @@
         "ATC Track": "DANCE OF THE SUGAR PLUM FAIRY",
         "ATC Artists": [
             "WOODY PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Dance Of The Sugar Plum Fairy",
+        "Result Artist Names": [
+            "Woody Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vpyMqmM9GBYLMbQL3O5sM",
+        "Result Album Name": "A Toolbox Christmas"
     },
     {
         "ATC Track": "Tannenbaum",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Tannenbaum",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TP3f5muszx7QZ1NlLdTVz",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "Title": "Blue Moose",
@@ -64,13 +89,29 @@
         "ATC Track": "AWAY IN A MANGER",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Away in a Manger",
+        "Result Artist Names": [
+            "Butch Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oZ90T0jOMY6t5HqaAT6Qq",
+        "Result Album Name": "Yulestride"
     },
     {
         "ATC Track": "AWAY IN A MANGER",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Away in a Manger",
+        "Result Artist Names": [
+            "Butch Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oZ90T0jOMY6t5HqaAT6Qq",
+        "Result Album Name": "Yulestride"
     },
     {
         "Title": "San Lazaro",
@@ -82,7 +123,15 @@
         "ATC Track": "WHAT CHILD IS THIS",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "What Child is This",
+        "Result Artist Names": [
+            "Butch Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tnOx0PkzIpnVTfnAmon50",
+        "Result Album Name": "Yulestride"
     },
     {
         "Title": "Missive",
@@ -94,13 +143,26 @@
         "ATC Track": "WHAT CHILD IS THIS",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "What Child is This",
+        "Result Artist Names": [
+            "Butch Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tnOx0PkzIpnVTfnAmon50",
+        "Result Album Name": "Yulestride"
     },
     {
         "ATC Track": "SANTA CLAWS MEDLEY (JINGLE BELLS, DECK THE HALLS, O COME ALL YE FAITHFUL)",
         "ATC Artists": [
             "THE JINGLE CATS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Balloon Trip Ends",
@@ -118,7 +180,15 @@
         "ATC Track": "Blue Christmas",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Blue Christmas",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1M8gQofu67kL0cnc7zpuOP",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "Title": "Santa's Stereo",
@@ -130,7 +200,12 @@
         "ATC Track": "SANTA CLAWS MEDLEY (JINGLE BELLS, DECK THE HALLS, O COME ALL YE FAITHFUL)",
         "ATC Artists": [
             "THE JINGLE CATS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fatsis Friday",
@@ -148,13 +223,29 @@
         "ATC Track": "Christmas Waltz/Fum, Fum, Fum",
         "ATC Artists": [
             "Dan Crary"
-        ]
+        ],
+        "Result Track Name": "Christmas Waltz/Fum, Fum, Fum",
+        "Result Artist Names": [
+            "Dan Crary"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Gn41DIUA5gd6Qitb8GYTn",
+        "Result Album Name": "Bluegrass X-Mas"
     },
     {
         "ATC Track": "Mele Kalikimaka [Instrumental]",
         "ATC Artists": [
             "Hapa"
-        ]
+        ],
+        "Result Track Name": "Mele Kalikimaka",
+        "Result Artist Names": [
+            "Hapa"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ALBCGcnYgy8mXlkySJHHR",
+        "Result Album Name": "Hapa Holidays"
     },
     {
         "Title": "Titilayo Ngwenya",
@@ -172,12 +263,28 @@
         "ATC Track": "Jingle Bell Rock",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Jingle Bell Rock",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HyfNpaIetJOZ870sVmu3h",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "ATC Track": "I'LL BE HOME FOR CHRISTMAS",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "I'll Be Home For Christmas",
+        "Result Artist Names": [
+            "Cami Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0mTfl0pCnoucr8c2aeJ5IS",
+        "Result Album Name": "Colors of Christmas"
     }
 ]

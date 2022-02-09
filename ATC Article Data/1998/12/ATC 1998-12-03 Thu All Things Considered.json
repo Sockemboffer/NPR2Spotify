@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1998-12-03",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:11:49"
+        "Scanned Date": "2022-02-06 19:11:49",
+        "Playlist URI": "7vYZQsUUCuhDI1ux6S2PBH",
+        "Playlist Link": "https://open.spotify.com/playlist/7vYZQsUUCuhDI1ux6S2PBH",
+        "Snapshot ID": "MSwwZjY0ZjllNmJkNjIwY2RkYmZhNzBmZjUwZDkzNzM0ZDQ0MTQxMzli",
+        "Playlist Name": "ATC 1998-12-03 Thu All Things Considered"
     },
     {
         "Title": "Peace Process Suspension",
@@ -28,7 +32,12 @@
         "ATC Track": "die wurst",
         "ATC Artists": [
             "die knodel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Drunk Driving Trial",
@@ -46,14 +55,30 @@
         "ATC Track": "Nice Work If You Can Get It",
         "ATC Artists": [
             "Marcus Roberts"
-        ]
+        ],
+        "Result Track Name": "Nice Work If You Can Get It",
+        "Result Artist Names": [
+            "Marcus Roberts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lDhAXTGe5LO9xSbq56t0K",
+        "Result Album Name": "Gershwin For Lovers"
     },
     {
         "ATC Track": "Straight-8 Boogie",
         "ATC Artists": [
             "Big Sandy",
             "His Fly-Rite Boys"
-        ]
+        ],
+        "Result Track Name": "Straight-8 Boogie",
+        "Result Artist Names": [
+            "The Fly-Rite Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:0R04TPJ2VHGa5ZzK5C6sH4",
+        "Result Album Name": "Big Sandy Presents The Fly-Rite Brothers"
     },
     {
         "Title": "Koreatown Labor Dispute",
@@ -77,14 +102,29 @@
         "ATC Track": "Without Express Intention",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "When I'm Sixty-Four",
         "ATC Artists": [
             "Ofra Harnoy",
             "Orford String Quartet"
-        ]
+        ],
+        "Result Track Name": "When I'm Sixty-Four",
+        "Result Artist Names": [
+            "John Lennon & Paul McCartney",
+            "Ofra Harnoy",
+            "Orford String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6W2p8BnBTe8Ozk5kj9jlAn",
+        "Result Album Name": "Big Classical Beatles Box"
     },
     {
         "Title": "Lennon-Springsteen",
@@ -97,7 +137,17 @@
         "ATC Artists": [
             "Ofra Harnoy",
             "Orford String Quartet"
-        ]
+        ],
+        "Result Track Name": "When I'm Sixty-Four",
+        "Result Artist Names": [
+            "John Lennon & Paul McCartney",
+            "Ofra Harnoy",
+            "Orford String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6W2p8BnBTe8Ozk5kj9jlAn",
+        "Result Album Name": "Big Classical Beatles Box"
     },
     {
         "Title": "No Fundraising",
@@ -115,7 +165,18 @@
         "ATC Track": "Road 2 Her Home",
         "ATC Artists": [
             "Ottmar Liebert"
-        ]
+        ],
+        "Result Track Name": "Road 2 Her/Home - Digitally Remastered 1999",
+        "Result Artist Names": [
+            "Ottmar Liebert",
+            "Stefan Liebert",
+            "Jon Gagan",
+            "Gary Lyons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kunGvu8Eu6UVNZjbAJ4u0",
+        "Result Album Name": "Nouveau Flamenco (1990-2000 Special Tenth Anniversary Edition)"
     },
     {
         "Title": "Clinton Drinking Water Announcement",
@@ -128,13 +189,30 @@
         "ATC Artists": [
             "ENO",
             "WOBBLE"
-        ]
+        ],
+        "Result Track Name": "Garden Recalled",
+        "Result Artist Names": [
+            "Brian Eno",
+            "Jah Wobble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2pGkBtX5wp67XM8RqU77ar",
+        "Result Album Name": "Spinner [Expanded Edition]"
     },
     {
         "ATC Track": "Lake of Exploits",
         "ATC Artists": [
             "Jai Uttal"
-        ]
+        ],
+        "Result Track Name": "Lake of Exploits",
+        "Result Artist Names": [
+            "Jai Uttal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zs0qvJ0NNvOzpjDA2dolx",
+        "Result Album Name": "Beggars and Saints"
     },
     {
         "Title": "Annan & Libya",
@@ -152,14 +230,30 @@
         "ATC Track": "Rama Sreerama (Ragam, Thanam, Pallavi) & Ragamalika",
         "ATC Artists": [
             "U. Srinivas"
-        ]
+        ],
+        "Result Track Name": "Rama Sreerama (Ragam, Thanam, Pallavi) & Ragamalika",
+        "Result Artist Names": [
+            "U. Srinivas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5i9qUJ1qhYSrwuO3iT3fDG",
+        "Result Album Name": "Rama Sreerama"
     },
     {
         "ATC Track": "Straight-8 Boogie",
         "ATC Artists": [
             "Big Sandy",
             "His Fly-Rite Boys"
-        ]
+        ],
+        "Result Track Name": "Straight-8 Boogie",
+        "Result Artist Names": [
+            "The Fly-Rite Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:0R04TPJ2VHGa5ZzK5C6sH4",
+        "Result Album Name": "Big Sandy Presents The Fly-Rite Brothers"
     },
     {
         "Title": "Cyber-Squatters",
@@ -177,14 +271,24 @@
         "ATC Track": "PURDIE AS A PICTURE",
         "ATC Artists": [
             "GALT MACDERMOT'S NEW PULSE JAZZ BAND"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "LAWRENCE OF ARABIA: OVERTURE",
         "ATC Artists": [
             "JOHN WILLIAMS",
             "THE LONDON SYMPHONY ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Freddie Young Obit",

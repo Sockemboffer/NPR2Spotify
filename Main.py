@@ -287,10 +287,10 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
 projectPrefix = "ATC"
 projectName = "All Things Considered"
 user_id = "SPOTIFY_USER_ID_ATC"
-today = datetime(1997, 12, 31)
-leftOffDate = datetime(1997, 1, 7)# createLeftOffDate(today, projectName)
+today = datetime(1998, 12, 31)
+leftOffDate = datetime(1997, 1, 1)# createLeftOffDate(today, projectName)
 # NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectName)
 # ParseDayLinks(leftOffDate, today, projectName)
-createPlaylists(leftOffDate, today, projectPrefix, user_id)
-# nprPlaylistCreator = NPRPlaylistCreator()
-# nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectPrefix, projectName, user_id)
+# createPlaylists(leftOffDate, today, projectPrefix, user_id)
+nprPlaylistCreator = NPRPlaylistCreator()
+nprPlaylistCreator.ChangePlaylistToPublic(leftOffDate, today, projectPrefix, projectName, user_id)
