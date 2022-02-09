@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-09-22",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:36:08"
+        "Scanned Date": "2022-02-06 19:36:08",
+        "Playlist URI": "4bopD4w4OIcjxU14owGzjk",
+        "Playlist Link": "https://open.spotify.com/playlist/4bopD4w4OIcjxU14owGzjk",
+        "Snapshot ID": "MSxhZDc2N2I2OGRlMWM1ZjQ2MzMwNjE4NGY3MGE4ZDk3Mjc5ZDBkMTMx",
+        "Playlist Name": "ATC 1999-09-22 Wed All Things Considered"
     },
     {
         "Title": "East Timor",
@@ -28,7 +32,15 @@
         "ATC Track": "Lament for Linus",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Lament for Linus",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pInwyX4quR7JciuWTQL0s",
+        "Result Album Name": "The Art of the Trio, Vol. 1"
     },
     {
         "Title": "HMOs and Drugs",
@@ -46,13 +58,29 @@
         "ATC Track": "Aquilarco/No. 9: Rotating Dance",
         "ATC Artists": [
             "Giovanni Sollima"
-        ]
+        ],
+        "Result Track Name": "Aquilarco No. 9 (Rotating Dance)",
+        "Result Artist Names": [
+            "Giovanni Sollima",
+            "Luigi Sollima",
+            "Renato D’Anna",
+            "Alfonso Dilio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yFtnrknZ1liEBiiirEvze",
+        "Result Album Name": "Aquilarco"
     },
     {
         "ATC Track": "At Midnight, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "School of the Americas",
@@ -70,13 +98,26 @@
         "ATC Track": "Story Telling",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Story Telling",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AgnhM4Qp0ESlh8BD9WvR9",
+        "Result Album Name": "Out Of The Woods"
     },
     {
         "ATC Track": "Courante and Springdance",
         "ATC Artists": [
             "The Saexophones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Other Stories",
@@ -100,7 +141,15 @@
         "ATC Track": "Takarasaka",
         "ATC Artists": [
             "Jerry Douglas"
-        ]
+        ],
+        "Result Track Name": "Takarasaka",
+        "Result Artist Names": [
+            "Jerry Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fO8ce4X0MnzuZkiDNpAGT",
+        "Result Album Name": "Americana Master Series: Best Of The Sugar Hill Years"
     },
     {
         "Title": "Tobacco Suit",
@@ -124,7 +173,15 @@
         "ATC Track": "Wasulaisten Poloneesi",
         "ATC Artists": [
             "JPP"
-        ]
+        ],
+        "Result Track Name": "Wasulaisten Poloneesi (Wasulaisten Polonaise)",
+        "Result Artist Names": [
+            "Jpp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fmNY3eXZOIFWweXcfheyz",
+        "Result Album Name": "String Tease"
     },
     {
         "Title": "Drug Bust",
@@ -148,13 +205,30 @@
         "ATC Track": "Sky Water",
         "ATC Artists": [
             "Mickey Hart"
-        ]
+        ],
+        "Result Track Name": "Sky Water",
+        "Result Artist Names": [
+            "Mickey Hart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3vjCvre77EVTCzRqsINucO",
+        "Result Album Name": "At The Edge"
     },
     {
         "ATC Track": "Lila's Dance",
         "ATC Artists": [
             "Groningen Guitar Duo"
-        ]
+        ],
+        "Result Track Name": "Suite No. 3: Lila's Dance",
+        "Result Artist Names": [
+            "John McLaughlin",
+            "Groningen Guitar Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UQCUnLDYhruCsQLR1Xg5Z",
+        "Result Album Name": "The John Mclaughlin Suites"
     },
     {
         "Title": "Russian Money",
@@ -174,7 +248,18 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "Death by Triple Fiddle",
+        "Result Artist Names": [
+            "Joshua Bell",
+            "Sam Bush",
+            "Mike Marshall",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7058823529411765,
+        "Result Track URI": "spotify:track:00J3XtiSZlceaiMP5Rz6SF",
+        "Result Album Name": "Le Mystère Stradivarius"
     },
     {
         "Title": "Y2k",
@@ -192,7 +277,15 @@
         "ATC Track": "MY CHILDHOOD",
         "ATC Artists": [
             "TIAN"
-        ]
+        ],
+        "Result Track Name": "My Childhood",
+        "Result Artist Names": [
+            "Tian Jiang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kqB6CmLY47ook6C39c4ss",
+        "Result Album Name": "Shanghai Dream"
     },
     {
         "Title": "Chinese Bell",
@@ -205,6 +298,17 @@
         "ATC Artists": [
             "Martin Simpson",
             "David Hidalgo et. al."
-        ]
+        ],
+        "Result Track Name": "El Jarabe Loco",
+        "Result Artist Names": [
+            "Martin Simpson",
+            "David Hidalgo",
+            "Viji Krishnan",
+            "Puvalur Srinivasan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74vbBw1iCq6wRAX5AM01fg",
+        "Result Album Name": "Kambara Music in Native Tongues"
     }
 ]

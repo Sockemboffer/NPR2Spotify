@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-05-13",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:42:56"
+        "Scanned Date": "2022-02-06 19:42:56",
+        "Playlist URI": "0ZdTJYYLVprXi0UWVsnUCn",
+        "Playlist Link": "https://open.spotify.com/playlist/0ZdTJYYLVprXi0UWVsnUCn",
+        "Snapshot ID": "MSxiMzU0OTgzN2UwNGU5MTgyYjdjNDA5MWYyZjI2Y2IxZjYzNWQyMTg0",
+        "Playlist Name": "ATC 1999-05-13 Thu All Things Considered"
     },
     {
         "Title": "Russia",
@@ -28,7 +32,12 @@
         "ATC Track": "Forgwalking",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Albania",
@@ -40,7 +49,16 @@
         "ATC Track": "Milonga en Re",
         "ATC Artists": [
             "Astor Piazzolla"
-        ]
+        ],
+        "Result Track Name": "Milonga en Re (Arr. C. Dingler for 2 Violins)",
+        "Result Artist Names": [
+            "Astor Piazzolla",
+            "The Twiolins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77xAdnUuD679vrlFnQcYD8",
+        "Result Album Name": "Eight Seasons Evolution"
     },
     {
         "ATC Track": "Hey-Hee-Hi-Ho",
@@ -48,7 +66,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Hey-Hee-Hi-Ho",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oxMbqnTtxyAykRFlcqCym",
+        "Result Album Name": "Combustication"
     },
     {
         "Title": "Medicaid",
@@ -72,13 +98,29 @@
         "ATC Track": "Molnbyggen",
         "ATC Artists": [
             "Swåp"
-        ]
+        ],
+        "Result Track Name": "Molnbyggen",
+        "Result Artist Names": [
+            "Swåp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LIrlW6lCQEWk9Vy3JTrky",
+        "Result Album Name": "Swåp"
     },
     {
         "ATC Track": "ANGELIKA SUSPENDED",
         "ATC Artists": [
             "PALM FABRIC ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Angelika Suspended",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:742Eo4GllZNolOo40AxHF8",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "Title": "Annie Gallup",
@@ -91,7 +133,12 @@
         "ATC Artists": [
             "William coulter",
             "friends"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gun Control",
@@ -109,7 +156,15 @@
         "ATC Track": "Aqua Blue",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": "Aqua Blue",
+        "Result Artist Names": [
+            "Ben Vaughn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Yi2gJ5OMziIWDl8N0pLuE",
+        "Result Album Name": "Instrumental Stylings"
     },
     {
         "Title": "M-I-Six",
@@ -121,13 +176,26 @@
         "ATC Track": "Aqua Blue",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": "Aqua Blue",
+        "Result Artist Names": [
+            "Ben Vaughn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Yi2gJ5OMziIWDl8N0pLuE",
+        "Result Album Name": "Instrumental Stylings"
     },
     {
         "ATC Track": "MR. HAPPY SOCA",
         "ATC Artists": [
             "MAMBO COMBO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U-S Versus American",
@@ -139,7 +207,15 @@
         "ATC Track": "ANGELIKA SUSPENDED",
         "ATC Artists": [
             "PALM FABRIC ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Angelika Suspended",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:742Eo4GllZNolOo40AxHF8",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "Title": "CO2 and FORESTS",
@@ -151,13 +227,29 @@
         "ATC Track": "THE GARDEN",
         "ATC Artists": [
             "PALM FABRIC ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "The Garden",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UW7ZLllOXzFUZKv0hvApo",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "ATC Track": "Snake Pit",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": "Snake Pit",
+        "Result Artist Names": [
+            "Ben Vaughn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qF03Bz6o5n38iWWhtSDH9",
+        "Result Album Name": "Instrumental Stylings"
     },
     {
         "Title": "Clinton On Kosovo",
@@ -188,7 +280,12 @@
         "ATC Artists": [
             "ANNE-SOPHIE MUTTER",
             "NEW YORK PHILHARMONIC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "American Advisors",
@@ -201,7 +298,12 @@
         "ATC Artists": [
             "EDGAR MEYER",
             "THE EMERSON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Steinberg Obit",
@@ -213,6 +315,11 @@
         "ATC Track": "Lovers' Lane",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

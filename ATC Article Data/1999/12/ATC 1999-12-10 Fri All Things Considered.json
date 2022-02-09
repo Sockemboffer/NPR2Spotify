@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-12-10",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:30:43"
+        "Scanned Date": "2022-02-06 19:30:43",
+        "Playlist URI": "2xThRdcat0EGpTMfbsfXO4",
+        "Playlist Link": "https://open.spotify.com/playlist/2xThRdcat0EGpTMfbsfXO4",
+        "Snapshot ID": "MSw3NGI3NDcwMGIyNGQ3NmI4NDRhZDk5ZjE0MjJlYTljMDc1YjA5NTA4",
+        "Playlist Name": "ATC 1999-12-10 Fri All Things Considered"
     },
     {
         "Title": "Russia - Chechnya",
@@ -28,7 +32,15 @@
         "ATC Track": "Remembering",
         "ATC Artists": [
             "Lubos Malina"
-        ]
+        ],
+        "Result Track Name": "Remembering",
+        "Result Artist Names": [
+            "Luboš Malina"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:03kkTERyoO7SrielMQVP1z",
+        "Result Album Name": "Piece of Cake"
     },
     {
         "Title": "Scientists Create Pair of Tweezers Small Enough to Pick Up Atoms",
@@ -46,7 +58,12 @@
         "ATC Track": "CHICKN LICKEN'S LAST RIDE",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gene Therapy",
@@ -64,7 +81,15 @@
         "ATC Track": "Happy Meeting in Glory",
         "ATC Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Happy Meeting in Glory",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EsyxJAb0W4H6gBfbSC8Se",
+        "Result Album Name": "Jazz"
     },
     {
         "Title": "China Spying - Wen Ho Lee",
@@ -94,13 +119,29 @@
         "ATC Track": "Gone Doe La",
         "ATC Artists": [
             "Monkeyworks"
-        ]
+        ],
+        "Result Track Name": "Gone Doe La",
+        "Result Artist Names": [
+            "Monkeyworks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ZiMgaYGJvkAauLC58Mt88",
+        "Result Album Name": "Monkeyworks"
     },
     {
         "ATC Track": "THUMBING THE BASS",
         "ATC Artists": [
             "MERLE TRAVIS"
-        ]
+        ],
+        "Result Track Name": "Thumbing The Bass - Instrumental",
+        "Result Artist Names": [
+            "Merle Travis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hm36998NjMIOmWAU6nVUi",
+        "Result Album Name": "Walkin' The Strings"
     },
     {
         "Title": "Jockey Records",
@@ -118,13 +159,26 @@
         "ATC Track": "Roseland Shuffle",
         "ATC Artists": [
             "Count Basie"
-        ]
+        ],
+        "Result Track Name": "Roseland Shuffle",
+        "Result Artist Names": [
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rABAOaZZI1QehFovn7Zzb",
+        "Result Album Name": "The Complete Decca Recordings"
     },
     {
         "ATC Track": "CHICKN LICKEN'S LAST RIDE",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Guns & Candidates",
@@ -148,13 +202,29 @@
         "ATC Track": "DIRT ROAD",
         "ATC Artists": [
             "CARL WEINGARTEN ET AL"
-        ]
+        ],
+        "Result Track Name": "Dirt Road",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03rnvOh12C4BJXUg7quyrg",
+        "Result Album Name": "Redwood Melodies"
     },
     {
         "ATC Track": "Face to Face That I Shall Meet Him",
         "ATC Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Face to Face That I Shall Meet Him",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17xAow6qcbKcoUQZsuMRWF",
+        "Result Album Name": "Jazz"
     },
     {
         "Title": "Cradle Will Rock",
@@ -172,6 +242,11 @@
         "ATC Track": "Déjà Vu (Pt. 4)",
         "ATC Artists": [
             "Frank Vignola"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

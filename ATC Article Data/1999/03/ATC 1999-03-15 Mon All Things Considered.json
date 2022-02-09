@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-03-15",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:46:21"
+        "Scanned Date": "2022-02-06 19:46:21",
+        "Playlist URI": "0B7ZNokYV2Gnh8q1PDiE1t",
+        "Playlist Link": "https://open.spotify.com/playlist/0B7ZNokYV2Gnh8q1PDiE1t",
+        "Snapshot ID": "MSw0NGYxMmVhMGFjNjk5YjRhYmIyMzZjNzYwNjQ4NzNmZTYwNjhiMzRj",
+        "Playlist Name": "ATC 1999-03-15 Mon All Things Considered"
     },
     {
         "Title": "Kosovo Peace Talks",
@@ -22,7 +26,12 @@
         "ATC Track": "SLEEPWALK",
         "ATC Artists": [
             "sticks and stones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Us-Colombia",
@@ -34,7 +43,12 @@
         "ATC Track": "THE CEDARS",
         "ATC Artists": [
             "DAVE LESLIE WITH MIKE CURTIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Boxing",
@@ -70,7 +84,12 @@
         "ATC Track": "Metal Grass",
         "ATC Artists": [
             "Ben Trout"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gore - Gephardt",
@@ -89,7 +108,15 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Baby's Got Sauce",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MXK7DwU1DpGFTA31AZW6S",
+        "Result Album Name": "G. Love And Special Sauce"
     },
     {
         "Title": "Clifford's Blues",
@@ -102,14 +129,32 @@
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Chorale",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dUHbrVzyayjbWETRVbWWN",
+        "Result Album Name": "Industry"
     },
     {
         "ATC Track": "Children of the Dark",
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Children of the Dark",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CUDKNMkhXN67AifWbbaFs",
+        "Result Album Name": "Industry"
     },
     {
         "Title": "China",
@@ -139,13 +184,26 @@
         "ATC Track": "THE UMBRELLA",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": "The red umbrella",
+        "Result Artist Names": [
+            "Kim Gun Mo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZWeBtv4ZdibOXSMpfvD79",
+        "Result Album Name": "Exchange Kg. M4"
     },
     {
         "ATC Track": "escape from shangai",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Diplomatic History",
@@ -163,7 +221,15 @@
         "ATC Track": "bright moon",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": "The Bright Moon Will Bring My Love to You",
+        "Result Artist Names": [
+            "Ying Yin Wu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:26q87KfQIzzJK6sAZW8AMo",
+        "Result Album Name": "Greatest Hits From Last Century Vol. 1"
     },
     {
         "Title": "Passenger Restraints For Kids",

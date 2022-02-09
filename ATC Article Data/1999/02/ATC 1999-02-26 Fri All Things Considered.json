@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-02-26",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:49:10"
+        "Scanned Date": "2022-02-06 19:49:10",
+        "Playlist URI": "2CgkmtwitKakQbTs9c6WtM",
+        "Playlist Link": "https://open.spotify.com/playlist/2CgkmtwitKakQbTs9c6WtM",
+        "Snapshot ID": "MSwwOTUyMTk3ZGI2NGNkN2RmNWRlZjlhYzRlODU2MjQyOGE0ZGVmOTQy",
+        "Playlist Name": "ATC 1999-02-26 Fri All Things Considered"
     },
     {
         "Title": "Medicare",
@@ -18,7 +22,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Hey-Hee-Hi-Ho",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oxMbqnTtxyAykRFlcqCym",
+        "Result Album Name": "Combustication"
     },
     {
         "Title": "Food Stamps",
@@ -31,7 +43,15 @@
         "ATC Artists": [
             "Booker T",
             "the MG'S"
-        ]
+        ],
+        "Result Track Name": "Slip Slidin'",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:3Wxarl0hfS7HiXcTedJE6t",
+        "Result Album Name": "That'S The Way It Should Be"
     },
     {
         "Title": "Wisconsin Welfare",
@@ -49,7 +69,15 @@
         "ATC Track": "Queen of All Ears",
         "ATC Artists": [
             "The Lounge Lizards"
-        ]
+        ],
+        "Result Track Name": "Queen of All Ears",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pSJCceuaUTx7eBDa7S1ar",
+        "Result Album Name": "Queen of All Ears"
     },
     {
         "Title": "Lost & Found Sound: Tony Schwartz",
@@ -73,7 +101,15 @@
         "ATC Track": "Au Moulin",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Marie s'en va Au Moulin",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4oTpieI1AzgyytAMJx6XE9",
+        "Result Album Name": "Les 40 Chansons Préferées des Ami(e)s"
     },
     {
         "Title": "Kosovo",
@@ -97,7 +133,15 @@
         "ATC Track": "On The Sunny Side Of The Street",
         "ATC Artists": [
             "Mike Wollenberg"
-        ]
+        ],
+        "Result Track Name": "On The Sunny Side Of The Street",
+        "Result Artist Names": [
+            "Mike Kornrich"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4ja16iUfR7OV5EWrsuT8NR",
+        "Result Album Name": "Chicken 'N' Jazz"
     },
     {
         "Title": "Nigerian Election",
@@ -115,7 +159,12 @@
         "ATC Track": "BHANG BHANG",
         "ATC Artists": [
             "THE YOCKAMO ALL-STARS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pentium Iii",
@@ -127,7 +176,12 @@
         "ATC Track": "Partch: Two Studies on Ancient Greek Scales",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Seaborg Obit",
@@ -139,12 +193,25 @@
         "ATC Track": "Partch: Two Studies on Ancient Greek Scales",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "My Girl",
         "ATC Artists": [
             "Mike Wollenberg"
-        ]
+        ],
+        "Result Track Name": "My Girl",
+        "Result Artist Names": [
+            "Mike Yung"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4sR6sEcCFKDaQc0SiYgdgA",
+        "Result Album Name": "My Girl"
     }
 ]

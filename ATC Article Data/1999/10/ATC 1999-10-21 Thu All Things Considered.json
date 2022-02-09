@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-10-21",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:34:16"
+        "Scanned Date": "2022-02-06 19:34:16",
+        "Playlist URI": "2qwCIshENoJBekc8q5Gz0t",
+        "Playlist Link": "https://open.spotify.com/playlist/2qwCIshENoJBekc8q5Gz0t",
+        "Snapshot ID": "MSxmNDcxOWE4NzhmZDhhNWI5ZmQ2Nzg5N2M1ZWE5MGM2NjBjN2M1MTFh",
+        "Playlist Name": "ATC 1999-10-21 Thu All Things Considered"
     },
     {
         "Title": "Grozny Shelling",
@@ -22,7 +26,15 @@
         "ATC Track": "Coyita",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Coyita",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:016vA5iOfrn9LdFWpoIYr3",
+        "Result Album Name": "Ronroco"
     },
     {
         "Title": "Dinosaur",
@@ -34,13 +46,26 @@
         "ATC Track": "Gierran (Enchantment)",
         "ATC Artists": [
             "Wimme"
-        ]
+        ],
+        "Result Track Name": "Gierran / Enchantment",
+        "Result Artist Names": [
+            "Wimme"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wEgZPX1oudKEqsRs23KSa",
+        "Result Album Name": "Gierran"
     },
     {
         "ATC Track": "Pavane for the Earl of Salisbury",
         "ATC Artists": [
             "The Saexophones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mexico Y2K",
@@ -58,13 +83,29 @@
         "ATC Track": "Lunch Time at Rosie's",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Lunch Time At Rosie's",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YegXuz2duPeMXFTcYKKRE",
+        "Result Album Name": "The Very Best of Adrian Legg"
     },
     {
         "ATC Track": "Them Changes",
         "ATC Artists": [
             "King Curtis"
-        ]
+        ],
+        "Result Track Name": "Them Changes - Live at Fillmore West, 3/7/1971",
+        "Result Artist Names": [
+            "King Curtis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28nLosnhZMTdzTXZdK3TXB",
+        "Result Album Name": "Live At The Fillmore West"
     },
     {
         "Title": "Massachusetts Gun Law",
@@ -82,7 +123,15 @@
         "ATC Track": "Rock Candy",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Rock Candy",
+        "Result Artist Names": [
+            "Danny Caron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1yGMm4qAKlcWYhTIEoffzK",
+        "Result Album Name": "How Sweet It Is"
     },
     {
         "Title": "Letters",
@@ -94,7 +143,17 @@
         "ATC Track": "Father of Waters",
         "ATC Artists": [
             "The Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Mississippi Suite (1925): I. Father of Waters",
+        "Result Artist Names": [
+            "Ferde Grofé",
+            "The Beau Hunks",
+            "Jan Stulen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4x7b8kzZkdS3XaTRJcS2XJ",
+        "Result Album Name": "The Modern American Music of Ferde Grofé"
     },
     {
         "Title": "Jonathan Winters",
@@ -106,7 +165,15 @@
         "ATC Track": "In a Mist",
         "ATC Artists": [
             "Beau Hunks Saxophone Soctette"
-        ]
+        ],
+        "Result Track Name": "In a Mist",
+        "Result Artist Names": [
+            "The Beau Hunks Saxophone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:5RdKNdh0b96U0bH5yWmog4",
+        "Result Album Name": "The Beau Hunks Saxophone Soctette"
     },
     {
         "Title": "Senate Abortion Debate",
@@ -130,13 +197,26 @@
         "ATC Track": "Michelangelo",
         "ATC Artists": [
             "Trio Voronezh"
-        ]
+        ],
+        "Result Track Name": "Michelangelo",
+        "Result Artist Names": [
+            "Trio Voronezh"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GqVql1V8ctkzPo4LSKipk",
+        "Result Album Name": "Trio Voronezh"
     },
     {
         "ATC Track": "Fire of Ada",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>New England Journal of Medicine</I>",
@@ -154,13 +234,29 @@
         "ATC Track": "Night in the Emerald City",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Night In The Emerald City",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Y2dGriPdYhrsmBS3UixWo",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "ATC Track": "Signed, Sealed, Delivered I'm Yours",
         "ATC Artists": [
             "King Curtis"
-        ]
+        ],
+        "Result Track Name": "Signed, Sealed, Delivered (I'm Yours) - Live at Fillmore West, 3/5/1971",
+        "Result Artist Names": [
+            "King Curtis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PMQ2IAkm7nVwOjHzB0f75",
+        "Result Album Name": "Live At The Fillmore West"
     },
     {
         "Title": "Education",
@@ -184,13 +280,29 @@
         "ATC Track": "PRANCING",
         "ATC Artists": [
             "COLLIN WALCOTT"
-        ]
+        ],
+        "Result Track Name": "Prancing",
+        "Result Artist Names": [
+            "Collin Walcott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cvIP0mFV95OximV6NSEfp",
+        "Result Album Name": "Cloud Dance"
     },
     {
         "ATC Track": "Boozer",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Boozer",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cQuFh7Ggw0UAyrDTbO4nx",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "BOY / GIRL - Kids TV",
@@ -202,6 +314,14 @@
         "ATC Track": "These Foolish Things",
         "ATC Artists": [
             "Lennie Tristano"
-        ]
+        ],
+        "Result Track Name": "These Foolish Things",
+        "Result Artist Names": [
+            "Lennie Tristano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DzWoH01tDXkozpg0OB3XN",
+        "Result Album Name": "Lennie Tristano / The New Tristano"
     }
 ]

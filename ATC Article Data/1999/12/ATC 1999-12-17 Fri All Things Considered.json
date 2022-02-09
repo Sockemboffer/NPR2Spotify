@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-12-17",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:31:04"
+        "Scanned Date": "2022-02-06 19:31:04",
+        "Playlist URI": "7LeGgYjqIL4j6eHYD6LCai",
+        "Playlist Link": "https://open.spotify.com/playlist/7LeGgYjqIL4j6eHYD6LCai",
+        "Snapshot ID": "MSxkNWM4NDQwN2IwNTY2MDczNDBjZjBhODAyMmNkZjFkZDE5Yzk4NTU4",
+        "Playlist Name": "ATC 1999-12-17 Fri All Things Considered"
     },
     {
         "Title": "Chechnya",
@@ -22,7 +26,15 @@
         "ATC Track": "Kalahari Blues",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Kalahari Blues",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59urnbuplFpjrnLVC8y4vS",
+        "Result Album Name": "Waiting for a Dancer"
     },
     {
         "Title": "Y2K Viruses",
@@ -34,7 +46,12 @@
         "ATC Track": "The Killer",
         "ATC Artists": [
             "Lalo Schifrin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Washington Mysteries",
@@ -46,13 +63,26 @@
         "ATC Track": "Robots Everywhere",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Winter Wonderland",
         "ATC Artists": [
             "Arthur Lyman"
-        ]
+        ],
+        "Result Track Name": "Winter Wonderland",
+        "Result Artist Names": [
+            "Arthur Lyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iWxxE9hFT1SHIkqsak0GB",
+        "Result Album Name": "Mele Kalikimaka (Merry Christmas)"
     },
     {
         "Title": "LOST AND FOUND SOUND: Walkin' Talkin' Bill Hawkins",
@@ -84,14 +114,35 @@
             "Anouar Brahem",
             "John Surman",
             "Dave Holland"
-        ]
+        ],
+        "Result Track Name": "Talwin",
+        "Result Artist Names": [
+            "Anouar Brahem",
+            "John Surman",
+            "Dave Holland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pOSZViNitIP2MXaczHxaK",
+        "Result Album Name": "Thimar"
     },
     {
         "ATC Track": "El Jarabe Loco",
         "ATC Artists": [
             "Martin Simpson",
             "David Hidalgo et. al."
-        ]
+        ],
+        "Result Track Name": "El Jarabe Loco",
+        "Result Artist Names": [
+            "Martin Simpson",
+            "David Hidalgo",
+            "Viji Krishnan",
+            "Puvalur Srinivasan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74vbBw1iCq6wRAX5AM01fg",
+        "Result Album Name": "Kambara Music in Native Tongues"
     },
     {
         "Title": "Notre Dame Football",
@@ -109,7 +160,15 @@
         "ATC Track": "We See",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "We See",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yuw5PLtxwo9lZcFBgBXbe",
+        "Result Album Name": "Marsalis Plays Monk - Standard Time Vol. 4"
     },
     {
         "Title": "E-Commerce",
@@ -127,13 +186,29 @@
         "ATC Track": "Jingle Bells",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Jingle Bells",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xPdshKluLP7DOsTKnUZEY",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "ATC Track": "ADESTE FIDELES",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Adestes Fideles",
+        "Result Artist Names": [
+            "Butch Thompson"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qDJbeSZ8XbHw17gr6BCdj",
+        "Result Album Name": "Yulestride"
     },
     {
         "Title": "Internet Ads",
@@ -157,6 +232,14 @@
         "ATC Track": "ADESTE FIDELES",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Adestes Fideles",
+        "Result Artist Names": [
+            "Butch Thompson"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qDJbeSZ8XbHw17gr6BCdj",
+        "Result Album Name": "Yulestride"
     }
 ]

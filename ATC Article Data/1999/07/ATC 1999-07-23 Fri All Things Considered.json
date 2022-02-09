@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-07-23",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:40:19"
+        "Scanned Date": "2022-02-06 19:40:19",
+        "Playlist URI": "6YGCjch9T1EEzQPZ6fcScH",
+        "Playlist Link": "https://open.spotify.com/playlist/6YGCjch9T1EEzQPZ6fcScH",
+        "Snapshot ID": "MSw3OTU1ZTM5MjBlNDQ1M2FjNzU4MzFmZTE1MGU4NGExMzE2Y2RmNWFj",
+        "Playlist Name": "ATC 1999-07-23 Fri All Things Considered"
     },
     {
         "Title": "Angel Maturino Resendiz",
@@ -16,7 +20,15 @@
         "ATC Track": "Lookout for Hope",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Lookout for Hope",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Q5rIPCzXwhMBcTtCnbQF6",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "Title": "China - Falun Gong",
@@ -28,7 +40,12 @@
         "ATC Track": "Two Part Trilogy: Downtown Blues, Opus 20",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Johnny St. Valentine Brown",
@@ -40,7 +57,12 @@
         "ATC Track": "El Niño: Opus 18",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chicago Buskers",
@@ -53,7 +75,15 @@
         "ATC Artists": [
             "Martin Simpson",
             "Doug Burns et. al."
-        ]
+        ],
+        "Result Track Name": "Wondrous Love",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6RHqBgnd2JBhi2gQwORQU3",
+        "Result Album Name": "A Closer Walk With Thee"
     },
     {
         "Title": "Lost & Found Sound: Man with a Horn",
@@ -65,7 +95,17 @@
         "ATC Track": "Father of Waters",
         "ATC Artists": [
             "The Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Mississippi Suite (1925): I. Father of Waters",
+        "Result Artist Names": [
+            "Ferde Grofé",
+            "The Beau Hunks",
+            "Jan Stulen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4x7b8kzZkdS3XaTRJcS2XJ",
+        "Result Album Name": "The Modern American Music of Ferde Grofé"
     },
     {
         "Title": "Vieques Island",
@@ -95,7 +135,15 @@
         "ATC Track": "Sure-As-Not/Sure-As-Knot",
         "ATC Artists": [
             "Afro Celt Sound System"
-        ]
+        ],
+        "Result Track Name": "Sure-As-Not / Sure-As-Knot",
+        "Result Artist Names": [
+            "Afro Celt Sound System"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tAQ9CNHebEnmuINt00Kaq",
+        "Result Album Name": "Vol. 1: Sound Magic (Real World Gold)"
     },
     {
         "Title": "MP3 - Music Business",
@@ -125,7 +173,15 @@
         "ATC Track": "steel guitar rag",
         "ATC Artists": [
             "david schnaufer"
-        ]
+        ],
+        "Result Track Name": "Steel Guitar Rag",
+        "Result Artist Names": [
+            "David Schnaufer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:53r4q3MqOJl7PljmrtCaei",
+        "Result Album Name": "Dulcimer Player Deluxe"
     },
     {
         "Title": "Hassan Obituary",
@@ -137,7 +193,15 @@
         "ATC Track": "Seventh One",
         "ATC Artists": [
             "Dean Magraw"
-        ]
+        ],
+        "Result Track Name": "Seventh One",
+        "Result Artist Names": [
+            "Dean Magraw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44NMzOB4tOI4rrsGmbQda1",
+        "Result Album Name": "Kitchen Man"
     },
     {
         "Title": "Tour de France",
@@ -149,12 +213,28 @@
         "ATC Track": "P.C.H.",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "P.C.H.",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56PDLJp2JLw6PEPDUicDWI",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "ATC Track": "Cherry Pink and Apple Blossom White",
         "ATC Artists": [
             "London Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": "Cherry Pink And Apple Blossom White",
+        "Result Artist Names": [
+            "London Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4J4Kg99KdUUmeWMNok4TJJ",
+        "Result Album Name": "Instrumental Gold: The 50's"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-06-10",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:41:21"
+        "Scanned Date": "2022-02-06 19:41:21",
+        "Playlist URI": "1Ftq8Iaoyg5dXfvr6Ih6Ne",
+        "Playlist Link": "https://open.spotify.com/playlist/1Ftq8Iaoyg5dXfvr6Ih6Ne",
+        "Snapshot ID": "MSxlNzc0N2EyMmQ3YWE3YWVmMGY3YzliMjVkZmE0OTdhMDIyMTk1MDFh",
+        "Playlist Name": "ATC 1999-06-10 Thu All Things Considered"
     },
     {
         "Title": "Clinton Speech",
@@ -34,13 +38,26 @@
         "ATC Track": "Innuendo Out the Other",
         "ATC Artists": [
             "Philip DeGruy"
-        ]
+        ],
+        "Result Track Name": "Innuendo Out The Other",
+        "Result Artist Names": [
+            "Philip Degruy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1GFAKx3xAevnjkwcLjGBP4",
+        "Result Album Name": "Innuendo Out The Other"
     },
     {
         "ATC Track": "Toys In the Rain",
         "ATC Artists": [
             "Ekitni"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "United Nations",
@@ -58,13 +75,29 @@
         "ATC Track": "Blue Trout",
         "ATC Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Blue Trout",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0nOe4suqq2eLOc0v91rGAZ",
+        "Result Album Name": "Deep at Night"
     },
     {
         "ATC Track": "Mirage",
         "ATC Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Mirage",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ukZf1qmU8oqwkeGD7jPQF",
+        "Result Album Name": "Deep at Night"
     },
     {
         "Title": "Gun Bill - House",
@@ -88,13 +121,29 @@
         "ATC Track": "Lively Up Yourself",
         "ATC Artists": [
             "Charlie Hunter Quartet"
-        ]
+        ],
+        "Result Track Name": "Lively Up Yourself",
+        "Result Artist Names": [
+            "Charlie Hunter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1UpMYIzz7FX76xWxIlX4MQ",
+        "Result Album Name": "Natty Dread"
     },
     {
         "ATC Track": "BARK BEATERS",
         "ATC Artists": [
             "BOB TELSON"
-        ]
+        ],
+        "Result Track Name": "Bark Beaters",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zGMZL5ATQ7F0KmOWg0zqf",
+        "Result Album Name": "Calling You"
     },
     {
         "Title": "The Cellist of Sarajevo",
@@ -136,7 +185,12 @@
         "ATC Track": "THE COMMUTE",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Indian Trust",
@@ -160,13 +214,29 @@
         "ATC Track": "Vamos Companeros",
         "ATC Artists": [
             "Harmonia"
-        ]
+        ],
+        "Result Track Name": "Vamos Companeros",
+        "Result Artist Names": [
+            "Harmonia & Eno '76"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1O1gH45afjZRgWQkPVhxik",
+        "Result Album Name": "Tracks and Traces"
     },
     {
         "ATC Track": "IN THE WEE SMALL HOURS",
         "ATC Artists": [
             "HERB ALPERT"
-        ]
+        ],
+        "Result Track Name": "In The Wee Small Hours",
+        "Result Artist Names": [
+            "Herb Alpert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mZHot2OCtUToQXcBk8M7l",
+        "Result Album Name": "Midnight Sun"
     },
     {
         "Title": "The Size of Things",
@@ -184,6 +254,11 @@
         "ATC Track": "baseball march and two-step",
         "ATC Artists": [
             "d'anna fortunato and the triskelion all-stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

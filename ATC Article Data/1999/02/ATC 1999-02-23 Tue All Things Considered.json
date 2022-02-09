@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-02-23",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:48:58"
+        "Scanned Date": "2022-02-06 19:48:58",
+        "Playlist URI": "6DVAnDj495fTuO4d3rlkfq",
+        "Playlist Link": "https://open.spotify.com/playlist/6DVAnDj495fTuO4d3rlkfq",
+        "Snapshot ID": "MSw3MmIyYzA2MzVmZGNiYzU3Y2RlOGM0OWViMGUyYjkzMTZhNmRiMmNi",
+        "Playlist Name": "ATC 1999-02-23 Tue All Things Considered"
     },
     {
         "Title": "Kosovo Talks",
@@ -28,13 +32,23 @@
         "ATC Track": "When Father Was Away On Business: Odlazak Mase",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "OCTOBER DOWN",
         "ATC Artists": [
             "TOM HOWARD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ocalan Charged",
@@ -52,13 +66,29 @@
         "ATC Track": "VOICE OF CHUNK",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Voice of Chunk",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VkHTogGhpdkLv0bOtlVjt",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "ATC Track": "UNCLE JERRY",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Uncle Jerry",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lA0fdvNALVmEVCcaJJcro",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "Council Of Conservative Citizens",
@@ -70,7 +100,15 @@
         "ATC Track": "Model",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Model",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hFeOGfy9HmGs6kS6FuJHd",
+        "Result Album Name": "Possessed (Reissue)"
     },
     {
         "Title": "Take Yo Praise",
@@ -94,7 +132,15 @@
         "ATC Track": "Undercurrent",
         "ATC Artists": [
             "Jami Sieber"
-        ]
+        ],
+        "Result Track Name": "Undercurrent",
+        "Result Artist Names": [
+            "Jami Sieber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cXOyznuUBdWU3G6IgQ6Tr",
+        "Result Album Name": "Lush Mechanique"
     },
     {
         "Title": "Greenspan",
@@ -106,7 +152,15 @@
         "ATC Track": "The Fifth Season",
         "ATC Artists": [
             "Eddie Daniels"
-        ]
+        ],
+        "Result Track Name": "The Fifth Season",
+        "Result Artist Names": [
+            "Eddie Daniels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gVFKU3KhHRsHBgmUfCoTZ",
+        "Result Album Name": "The Five Seasons"
     },
     {
         "Title": "Title Ix And Ncaa",
@@ -124,7 +178,15 @@
         "ATC Track": "Summer Running",
         "ATC Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Summer Running",
+        "Result Artist Names": [
+            "Marc Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GU3TYOPS1fZm7mxzyk9Sw",
+        "Result Album Name": "The Sound Of Summer Running"
     },
     {
         "Title": "Congress Is Back",

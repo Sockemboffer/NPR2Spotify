@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-07-27",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:40:30"
+        "Scanned Date": "2022-02-06 19:40:30",
+        "Playlist URI": "1HFuqnCtbpJFTg1tKglbbH",
+        "Playlist Link": "https://open.spotify.com/playlist/1HFuqnCtbpJFTg1tKglbbH",
+        "Snapshot ID": "MSwyOGFkMGY1ZTAwNDJjYTUxMGNlZDJiMTcwODQyMjZmMzNjM2U3ZDY5",
+        "Playlist Name": "ATC 1999-07-27 Tue All Things Considered"
     },
     {
         "Title": "Mtbe",
@@ -28,13 +32,26 @@
         "ATC Track": "gumboot",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Desert Winds",
         "ATC Artists": [
             "Seth Austen"
-        ]
+        ],
+        "Result Track Name": "Desert Winds",
+        "Result Artist Names": [
+            "Seth Austen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6L6YMiAEQjNXp8pqx10BEO",
+        "Result Album Name": "Desert Winds"
     },
     {
         "Title": "E-Loan",
@@ -46,13 +63,29 @@
         "ATC Track": "Red Shift",
         "ATC Artists": [
             "Michael Brook"
-        ]
+        ],
+        "Result Track Name": "Red Shift",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2POnsx4hyw67Ry1QZ5W7Ae",
+        "Result Album Name": "Cobalt Blue"
     },
     {
         "ATC Track": "Breakdown",
         "ATC Artists": [
             "Michael Brook"
-        ]
+        ],
+        "Result Track Name": "Kiss Breakdown",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VNqYBtu28H87J9z714Vhq",
+        "Result Album Name": "The Perks of Being a Wallflower (Original Score)"
     },
     {
         "Title": "Medicare",
@@ -70,13 +103,26 @@
         "ATC Track": "VOO DOO ARTIFICE",
         "ATC Artists": [
             "sticks and stones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MOON OVER MONTEREY",
         "ATC Artists": [
             "ROBERT STANTON"
-        ]
+        ],
+        "Result Track Name": "Moon over Monterey",
+        "Result Artist Names": [
+            "Robert Stanton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RwKaHdxCJDjoNZWmAzbGU",
+        "Result Album Name": "Acoustic Storm"
     },
     {
         "Title": "Yosemite",
@@ -94,7 +140,15 @@
         "ATC Track": "Tubaka",
         "ATC Artists": [
             "Toumani Diabaté"
-        ]
+        ],
+        "Result Track Name": "Tubaka",
+        "Result Artist Names": [
+            "Toumani Diabaté"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54gkUXFPEvKVKpYYodHNOw",
+        "Result Album Name": "Kaira"
     },
     {
         "Title": "Barak - Arafat",
@@ -118,13 +172,26 @@
         "ATC Track": "CALLS FROM HER",
         "ATC Artists": [
             "MAX LASSER'S ARK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "ANNA KARINA",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Anna Karina",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4THgV0BUNyWcZweOFt1ARR",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "Title": "China - Trade",
@@ -142,13 +209,23 @@
         "ATC Track": "CINEMA SAGA #1",
         "ATC Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "HAPPY TOWN",
         "ATC Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Smokey Mountain Species",
@@ -166,7 +243,12 @@
         "ATC Track": "CUP \"O\" JOE",
         "ATC Artists": [
             "BOB CULBERTSON"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Hix",

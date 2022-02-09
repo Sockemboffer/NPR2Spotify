@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-03-02",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:45:40"
+        "Scanned Date": "2022-02-06 19:45:40",
+        "Playlist URI": "2VH3uQBJyLefSnJvcmycC6",
+        "Playlist Link": "https://open.spotify.com/playlist/2VH3uQBJyLefSnJvcmycC6",
+        "Snapshot ID": "MSxjMzE0MjBlNDNhZWM5ZWFhYWFkYmVlMDUyOWQ4YzdjNDNhMTI0ZmY1",
+        "Playlist Name": "ATC 1999-03-02 Tue All Things Considered"
     },
     {
         "Title": "Uganda",
@@ -40,7 +44,15 @@
         "ATC Track": "UNAMUNO",
         "ATC Artists": [
             "DAVID ROTHENBERG"
-        ]
+        ],
+        "Result Track Name": "Unamuno",
+        "Result Artist Names": [
+            "David Rothenberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EXIVHMAFtByfOzWNpvAvu",
+        "Result Album Name": "Unamuno"
     },
     {
         "Title": "A.M.A. In Decline",
@@ -58,7 +70,16 @@
         "ATC Track": "PROSPERO'S CURSE",
         "ATC Artists": [
             "MICHAEL NYMAN"
-        ]
+        ],
+        "Result Track Name": "Prospero's Curse",
+        "Result Artist Names": [
+            "Michael Nyman",
+            "Michael Nyman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23YzQ0CDm5VNUBpT3CDXSN",
+        "Result Album Name": "Michael Nyman and 'The Tempest'"
     },
     {
         "Title": "O.I.C. Hearing",
@@ -70,7 +91,16 @@
         "ATC Track": "Forbidden Love",
         "ATC Artists": [
             "Djivan Gasparyan"
-        ]
+        ],
+        "Result Track Name": "Forbidden Love",
+        "Result Artist Names": [
+            "Djivan Gasparyan",
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vWFy9wueE5W3WXm1jJb9j",
+        "Result Album Name": "Black Rock"
     },
     {
         "Title": "Independent Counsel",
@@ -94,7 +124,12 @@
         "ATC Track": "Nutville",
         "ATC Artists": [
             "Jim Cooper"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Joe Henry's 'Fuse'",
@@ -118,7 +153,16 @@
         "ATC Track": "MARTIN MARTIN",
         "ATC Artists": [
             "MOUTH MUSIC"
-        ]
+        ],
+        "Result Track Name": "Martin Martin",
+        "Result Artist Names": [
+            "Mouth Music",
+            "Talitha Mackenzie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5stKOi64ooNSgx6o6IDv4C",
+        "Result Album Name": "Mouth Music"
     },
     {
         "Title": "Other Stories",
@@ -130,13 +174,23 @@
         "ATC Track": "dream of rain",
         "ATC Artists": [
             "curlew"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "It's Your Thing/jackson's Thing",
         "ATC Artists": [
             "29th Street Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hewlett Packard Breakup",
@@ -154,12 +208,22 @@
         "ATC Track": "Ophelia",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Milonga Triste",
         "ATC Artists": [
             "Hugo Díaz y su Conjunto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

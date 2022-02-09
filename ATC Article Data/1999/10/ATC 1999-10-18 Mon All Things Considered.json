@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-10-18",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:34:08"
+        "Scanned Date": "2022-02-06 19:34:08",
+        "Playlist URI": "0jQomrX6GG4ymUePI7jxms",
+        "Playlist Link": "https://open.spotify.com/playlist/0jQomrX6GG4ymUePI7jxms",
+        "Snapshot ID": "MSw5NjgzNTUxNzQ0NjRmMjAwZDQwZjkyMWNjNTAyNmMyOTI2MWEzZjVk",
+        "Playlist Name": "ATC 1999-10-18 Mon All Things Considered"
     },
     {
         "Title": "Federal Budget",
@@ -28,13 +32,30 @@
         "ATC Track": "NO RULE",
         "ATC Artists": [
             "DAAU"
-        ]
+        ],
+        "Result Track Name": "No Rule",
+        "Result Artist Names": [
+            "Daau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LuANtvuXWi8tJiToKMwWj",
+        "Result Album Name": "We Need New Animals"
     },
     {
         "ATC Track": "THEME FOR THE SLEEPLESS",
         "ATC Artists": [
             "PETRA HADEN AND MISS MURGATOID"
-        ]
+        ],
+        "Result Track Name": "Theme for the Sleepless",
+        "Result Artist Names": [
+            "Miss Murgatroid",
+            "Petra Haden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:17EeMTxRsRwX8pw7TyUEe0",
+        "Result Album Name": "Hearts & Daggers"
     },
     {
         "Title": "Fault Line",
@@ -52,13 +73,29 @@
         "ATC Track": "Instrumental With Mellotron",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Instrumental With Mellotron",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bR4m3zMlXvmxdWIA51k8I",
+        "Result Album Name": "The Closer I Get"
     },
     {
         "ATC Track": "Instrumental With Mellotron",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Instrumental With Mellotron",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bR4m3zMlXvmxdWIA51k8I",
+        "Result Album Name": "The Closer I Get"
     },
     {
         "Title": "Iranian Jews",
@@ -70,7 +107,12 @@
         "ATC Track": "SLEEPWALK",
         "ATC Artists": [
             "sticks and stones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lobsters",
@@ -88,7 +130,15 @@
         "ATC Track": "Take Me on Home",
         "ATC Artists": [
             "David Maxwell"
-        ]
+        ],
+        "Result Track Name": "Take Me On Home",
+        "Result Artist Names": [
+            "David Maxwell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71ZvXdm8itjyyGjf9hpG3u",
+        "Result Album Name": "Maximum Blues Piano"
     },
     {
         "Title": "Book of the Book",
@@ -106,13 +156,30 @@
         "ATC Track": "TEXAS TARANTELLA",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Spider Dreams: Texas Tarantella",
+        "Result Artist Names": [
+            "David Balakrishnan",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rL0XmwEsFjFVfabjNsPBx",
+        "Result Album Name": "Spider Dreams"
     },
     {
         "ATC Track": "SPIDER DREAMS",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "SPIDER DREAMS",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YAycFnNaZFYj8UBZUB8j3",
+        "Result Album Name": "The Hamburg Concert"
     },
     {
         "Title": "Independent Counsel",
@@ -124,7 +191,12 @@
         "ATC Track": "PIETA",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stock Markets",
@@ -148,7 +220,15 @@
         "ATC Track": "Times Twelve",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Times Twelve",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6lLWiEpdg7V7cF6qBTycld",
+        "Result Album Name": "My Father's Face"
     },
     {
         "Title": "Hurricane Irene",
@@ -172,7 +252,15 @@
         "ATC Track": "brothers and sisters",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": "Brothers and Sisters",
+        "Result Artist Names": [
+            "The Casualties"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4QiBDRSLYubr2esPmppdF0",
+        "Result Album Name": "Chaos Sound"
     },
     {
         "Title": "Mexico Hijackings",
@@ -184,7 +272,12 @@
         "ATC Track": "back in the jungle",
         "ATC Artists": [
             "oystein sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jean Shepherd Obituary",

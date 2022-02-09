@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-07-15",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:39:50"
+        "Scanned Date": "2022-02-06 19:39:50",
+        "Playlist URI": "2pu83G5jWgMkaSYCkb3uDm",
+        "Playlist Link": "https://open.spotify.com/playlist/2pu83G5jWgMkaSYCkb3uDm",
+        "Snapshot ID": "MSxjOTY1YWI5YTRmMzM5NzNlOGZmN2IwMmVmNmRjMjg2NzE3NjdhYmQx",
+        "Playlist Name": "ATC 1999-07-15 Thu All Things Considered"
     },
     {
         "Title": "Patients' Bill of Rights",
@@ -16,7 +20,12 @@
         "ATC Track": "Homage to Edith Piaf",
         "ATC Artists": [
             "John Harle"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Barak",
@@ -46,7 +55,15 @@
         "ATC Track": "BILL'S LAST WALTZ",
         "ATC Artists": [
             "CHANNEL LIGHT VESSEL"
-        ]
+        ],
+        "Result Track Name": "Bill's Last Waltz",
+        "Result Artist Names": [
+            "Channel Light Vessel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JrgrCT5bqOuUwbhj1UF9R",
+        "Result Album Name": "Automatic"
     },
     {
         "Title": "Hemingway",
@@ -58,7 +75,12 @@
         "ATC Track": "Remembering You",
         "ATC Artists": [
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Serb Opposition",
@@ -82,13 +104,26 @@
         "ATC Track": "A MORAL DILEMMA FOR OUR TIMES",
         "ATC Artists": [
             "FOREVER EINSTEIN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "No Time Before Time",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "No Time Before Time",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MNGhNnr9hWS9AFgqyDA0c",
+        "Result Album Name": "Possessed (Reissue)"
     },
     {
         "Title": "Coke - Earnings",
@@ -106,7 +141,15 @@
         "ATC Track": "Celestial Soda Pop",
         "ATC Artists": [
             "Ray Lynch"
-        ]
+        ],
+        "Result Track Name": "Celestial Soda Pop - Remastered",
+        "Result Artist Names": [
+            "Ray Lynch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19CFT5MFTyAFxMqK22QVpH",
+        "Result Album Name": "The Best Of Ray Lynch"
     },
     {
         "Title": "China - Neutron Bomb",
@@ -124,7 +167,12 @@
         "ATC Track": "Danses Slaves No 1",
         "ATC Artists": [
             "Repercussion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "WGBH-TV - Democrats",
@@ -136,7 +184,12 @@
         "ATC Track": "Danses Slaves No 1",
         "ATC Artists": [
             "Repercussion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Schools & Race",
@@ -154,6 +207,14 @@
         "ATC Track": "CRY ME A RIVER",
         "ATC Artists": [
             "TON VAN BERGEYK"
-        ]
+        ],
+        "Result Track Name": "Cry Me A River",
+        "Result Artist Names": [
+            "Ton Van Bergeyk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EVUiVg6kE6Bk0yVpkP1VP",
+        "Result Album Name": "Black And Tan Fantasy: Fingerpicking Guitar Solos"
     }
 ]

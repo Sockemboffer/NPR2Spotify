@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-02-05",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:47:51"
+        "Scanned Date": "2022-02-06 19:47:51",
+        "Playlist URI": "1qnUtlrvZ3fLoFtmNEntnH",
+        "Playlist Link": "https://open.spotify.com/playlist/1qnUtlrvZ3fLoFtmNEntnH",
+        "Snapshot ID": "MSw0MWNhNDY3OGI2MzE1OTI3NWRiNTk3MGI5OTYzNzU5MmM3Y2EzMTBm",
+        "Playlist Name": "ATC 1999-02-05 Fri All Things Considered"
     },
     {
         "Title": "Unemployment",
@@ -22,14 +26,27 @@
         "ATC Track": "Lover",
         "ATC Artists": [
             "George Coleman"
-        ]
+        ],
+        "Result Track Name": "Lover",
+        "Result Artist Names": [
+            "George Coleman Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64zF4RahtZKT4urCpFjcAu",
+        "Result Album Name": "I Could Write A Book"
     },
     {
         "ATC Track": "GUINEE IMAGINAIRE",
         "ATC Artists": [
             "lukas ligeti",
             "beta foly"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "King Hussein Near Death",
@@ -41,13 +58,29 @@
         "ATC Track": "Funky Mama",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Funky Mama",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1niXkRpLWHCHuO4qC7sl93",
+        "Result Album Name": "88 Elmira St."
     },
     {
         "ATC Track": "Main Titles",
         "ATC Artists": [
             "John Lurie"
-        ]
+        ],
+        "Result Track Name": "Main Titles",
+        "Result Artist Names": [
+            "John Lurie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Nd6CUyUWWICgkgSR3CIs9",
+        "Result Album Name": "African Swim and Manny & Lo - Two Film Scores By John Lurie"
     },
     {
         "Title": "Tyson to Prison",
@@ -59,7 +92,15 @@
         "ATC Track": "IT'S ALL OVER NOW",
         "ATC Artists": [
             "THE DIRTY DOZEN BRASS BAND"
-        ]
+        ],
+        "Result Track Name": "It's All Over Now",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gIq1Qkrdw5bMbLGeaYw0q",
+        "Result Album Name": "This is Jazz 30: The Dirty Dozen Brass Band"
     },
     {
         "Title": "Illinois Release",
@@ -72,25 +113,54 @@
         "ATC Artists": [
             "Patrick Sheridan",
             "Rich Ridenour"
-        ]
+        ],
+        "Result Track Name": "Schon Rosmarin",
+        "Result Artist Names": [
+            "Patrick Sheridan"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7rwRiF2bgl0HjiwUATH7mA",
+        "Result Album Name": "Lollipops"
     },
     {
         "ATC Track": "Third man theme",
         "ATC Artists": [
             "juan garcia esquivel"
-        ]
+        ],
+        "Result Track Name": "Third Man Theme",
+        "Result Artist Names": [
+            "Esquivel!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4oHfTju6gPxj5rKwU9VEdA",
+        "Result Album Name": "Exploring New Sounds in Stereo"
     },
     {
         "ATC Track": "pappy's B Flat Blues",
         "ATC Artists": [
             "Woody Allen and His New Orleans Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Little Miss Lover",
         "ATC Artists": [
             "Jimi Hendrix"
-        ]
+        ],
+        "Result Track Name": "Little Miss Lover",
+        "Result Artist Names": [
+            "Jimi Hendrix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pvY1WQBeAgPGMnWglrWY4",
+        "Result Album Name": "Axis: Bold As Love"
     },
     {
         "Title": "Bronx Police",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-09-29",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:36:32"
+        "Scanned Date": "2022-02-06 19:36:32",
+        "Playlist URI": "6DHNsxIfhfVOtTDRgb0MCB",
+        "Playlist Link": "https://open.spotify.com/playlist/6DHNsxIfhfVOtTDRgb0MCB",
+        "Snapshot ID": "MSwwNWJkZWQ5MmU1YzFiYTY5YmUzYWZhNmVjYTYxYWIzNzE1NmQyNGYw",
+        "Playlist Name": "ATC 1999-09-29 Wed All Things Considered"
     },
     {
         "Title": "Timor Violence",
@@ -22,7 +26,12 @@
         "ATC Track": "Wide Sky",
         "ATC Artists": [
             "Jon Hassell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Other Stories",
@@ -34,7 +43,15 @@
         "ATC Track": "THROWDOWN AT THE HOEDOWN",
         "ATC Artists": [
             "BELA FLECK AND THE FLECKTONES"
-        ]
+        ],
+        "Result Track Name": "Throwdown at the Hoedown",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7kEmbKXlDeEGf1t2Dec1JL",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "New Hampshire Primary",
@@ -52,13 +69,26 @@
         "ATC Track": "Fast",
         "ATC Artists": [
             "The Lark Quartet"
-        ]
+        ],
+        "Result Track Name": "Sextet: II. Fast",
+        "Result Artist Names": [
+            "The Lark Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48GrXrbX2qrvHZFoeuwebe",
+        "Result Album Name": "Schickele: Sextet, String Quartet No. 2 \"In Memorium\", Quintet No. 2 for Piano and Strings"
     },
     {
         "ATC Track": "the shade o fthe cedar tree",
         "ATC Artists": [
             "christian mcbride"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bell Atlantic",
@@ -76,7 +106,15 @@
         "ATC Track": "Sana Fey",
         "ATC Artists": [
             "Naked Funk"
-        ]
+        ],
+        "Result Track Name": "Sana Fey",
+        "Result Artist Names": [
+            "Naked Funk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Di5JVdvDWCBgghAnlO4DP",
+        "Result Album Name": "Evolution Ending"
     },
     {
         "Title": "Chechnya Air Raids",
@@ -89,7 +127,15 @@
         "ATC Artists": [
             "Duke Ellington",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Anatomy of a Murder - Stereo Single Version",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 0.9230769230769231,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6CY7GdDuAXXEIqNGzfQAt0",
+        "Result Album Name": "Anatomy of a Murder"
     },
     {
         "Title": "Kgb",
@@ -101,13 +147,26 @@
         "ATC Track": "VOICE OF CHUNK",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Voice of Chunk",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VkHTogGhpdkLv0bOtlVjt",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "ATC Track": "Aquí Como Allá",
         "ATC Artists": [
             "Marc Ribot"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gore",
@@ -125,13 +184,23 @@
         "ATC Track": "Trek to the Cave",
         "ATC Artists": [
             "The Michael Nyman Orchestra - Jackie Shave and Michael Nyman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Danca Negra",
         "ATC Artists": [
             "The Brazilian Guitar Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gene Therapy",
@@ -149,7 +218,15 @@
         "ATC Track": "MOCKINGBIRD",
         "ATC Artists": [
             "LASZLO GARDONY"
-        ]
+        ],
+        "Result Track Name": "Mockingbird",
+        "Result Artist Names": [
+            "Laszlo Gardony"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mHdF9RF4xJjvOGuKCa8CY",
+        "Result Album Name": "Ever Before Ever After"
     },
     {
         "Title": "Clinton - IMF",
@@ -167,7 +244,12 @@
         "ATC Track": "Welcome Home Gráinne",
         "ATC Artists": [
             "Dermot Byrne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alaska Tax",
@@ -179,7 +261,15 @@
         "ATC Track": "BOB THE BOB",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mvTcdOP0nx50zpnnhfPdD",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "John Lurie",
@@ -191,6 +281,11 @@
         "ATC Track": "Al Al Al Al",
         "ATC Artists": [
             "John Lurie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

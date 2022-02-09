@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-09-16",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:35:48"
+        "Scanned Date": "2022-02-06 19:35:48",
+        "Playlist URI": "0UY7SMIOLFzNIBhtu3vpCn",
+        "Playlist Link": "https://open.spotify.com/playlist/0UY7SMIOLFzNIBhtu3vpCn",
+        "Snapshot ID": "MSw2YmVjN2VkODgzODBkYTMyMjI2MmUzNDkxZjk4MWNiYzdmMjZhZjEw",
+        "Playlist Name": "ATC 1999-09-16 Thu All Things Considered"
     },
     {
         "Title": "Storm Track",
@@ -35,7 +39,12 @@
         "ATC Artists": [
             "EDGAR MEYER",
             "THE EMERSON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Church Flooding",
@@ -49,7 +58,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Beeah",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FvXeyqfvF63SlQHPt2n94",
+        "Result Album Name": "It's A Jungle In Here"
     },
     {
         "Title": "Latino Enterprising",
@@ -61,13 +78,26 @@
         "ATC Track": "ST. LOUIS BLUES",
         "ATC Artists": [
             "LASZLO GARDONY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Clouds",
         "ATC Artists": [
             "The Spacemen"
-        ]
+        ],
+        "Result Track Name": "The Clouds",
+        "Result Artist Names": [
+            "The Spacemen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PdbcsYRKKA8FEo91qPRqF",
+        "Result Album Name": "Hard To Find Hits"
     },
     {
         "Title": "From Analog to Digital",
@@ -79,13 +109,31 @@
         "ATC Track": "FUGUE NO. 1 IN C",
         "ATC Artists": [
             "LOS ANGELES GUITAR QUARTET"
-        ]
+        ],
+        "Result Track Name": "The Well-Tempered Clavier, Book 1, BWV 846 - 869: Fugue No. 3 in C sharp major, BWV 848 (arr. A. York): Fugue No. 1 in C Major, BWV 846",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Andrew York",
+            "Los Angeles Guitar Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yRQ1tJSZ53KeF1BJdFDbJ",
+        "Result Album Name": "For Thy Pleasure"
     },
     {
         "ATC Track": "La Gazza Ladra",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": "La Gazza Ladra: Overture",
+        "Result Artist Names": [
+            "Carlos Païta"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5e35t8l3K9ODBaxaWg6iCE",
+        "Result Album Name": "Rossini: Overtures"
     },
     {
         "Title": "Eric Idle",
@@ -97,13 +145,31 @@
         "ATC Track": "La Gazza Ladra",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": "La Gazza Ladra: Overture",
+        "Result Artist Names": [
+            "Carlos Païta"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5e35t8l3K9ODBaxaWg6iCE",
+        "Result Album Name": "Rossini: Overtures"
     },
     {
         "ATC Track": "Burlesque From \"Music for the Theatre\"",
         "ATC Artists": [
             "New York Philharmonic"
-        ]
+        ],
+        "Result Track Name": "Music For The Theatre: 4. Burlesque - Live From Avery Fisher Hall, New York / 1989",
+        "Result Artist Names": [
+            "Aaron Copland",
+            "New York Philharmonic",
+            "Leonard Bernstein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rm9xY4OMpPR78cCnYINSC",
+        "Result Album Name": "The Leonard Bernstein Collection - Volume 1 - Part 3"
     },
     {
         "Title": "Fort Worth",
@@ -121,7 +187,16 @@
         "ATC Track": "Belo Horizonte",
         "ATC Artists": [
             "Groningen Guitar Duo"
-        ]
+        ],
+        "Result Track Name": "Suite No. 1: Belo Horizonte",
+        "Result Artist Names": [
+            "John McLaughlin",
+            "Groningen Guitar Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BErW8havMZ6whvheGx3M6",
+        "Result Album Name": "The John Mclaughlin Suites"
     },
     {
         "Title": "Clinton - Faln Clemency",
@@ -133,7 +208,16 @@
         "ATC Track": "MARTIN MARTIN",
         "ATC Artists": [
             "MOUTH MUSIC"
-        ]
+        ],
+        "Result Track Name": "Martin Martin",
+        "Result Artist Names": [
+            "Mouth Music",
+            "Talitha Mackenzie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5stKOi64ooNSgx6o6IDv4C",
+        "Result Album Name": "Mouth Music"
     },
     {
         "Title": "Double Bind",
@@ -152,13 +236,26 @@
         "ATC Artists": [
             "Galt McaDermott",
             "New Pulse"
-        ]
+        ],
+        "Result Track Name": "Dream Town",
+        "Result Artist Names": [
+            "Galt MacDermot & New Pulse Band"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7bZMxR6v6K6p4rmFxjVVqW",
+        "Result Album Name": "El Niño"
     },
     {
         "ATC Track": "Theme from Amarcord",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "UAW - Daimler Chrysler",
@@ -189,13 +286,26 @@
         "ATC Artists": [
             "Galt McaDermott",
             "New Pulse"
-        ]
+        ],
+        "Result Track Name": "Dream Town",
+        "Result Artist Names": [
+            "Galt MacDermot & New Pulse Band"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7bZMxR6v6K6p4rmFxjVVqW",
+        "Result Album Name": "El Niño"
     },
     {
         "ATC Track": "Theme from Amarcord",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -213,12 +323,22 @@
         "ATC Track": "ANNIE'S SONG",
         "ATC Artists": [
             "SERENITY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MEDITATION FROM \"THAIS\"",
         "ATC Artists": [
             "CHRISTIAN LINDBERG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

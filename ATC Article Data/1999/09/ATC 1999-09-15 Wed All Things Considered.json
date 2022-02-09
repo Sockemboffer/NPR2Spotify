@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-09-15",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:35:45"
+        "Scanned Date": "2022-02-06 19:35:45",
+        "Playlist URI": "1QxfTUOvhNmJua1h9uh1za",
+        "Playlist Link": "https://open.spotify.com/playlist/1QxfTUOvhNmJua1h9uh1za",
+        "Snapshot ID": "MSxlNmZiOWE3OTg2ZWY5NWEyNGFlOGVlMmYyZDA5YjkwODIxYjhlODc1",
+        "Playlist Name": "ATC 1999-09-15 Wed All Things Considered"
     },
     {
         "Title": "Hurricane Floyd",
@@ -22,7 +26,17 @@
         "ATC Track": "Floe",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Floe (Remix) - Specially Mixed for Your Personal Cassette Player",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Philip Glass Ensemble",
+            "Michael Riesman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dcXDL3703XHNYdqbOxY1U",
+        "Result Album Name": "Glassworks - Specially Mixed for Your Personal Cassette Player"
     },
     {
         "Title": "Hurricane Folk",
@@ -34,7 +48,16 @@
         "ATC Track": "Opening",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Opening",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Bruce Brubaker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QmhkjuUlosROqKk59sBSK",
+        "Result Album Name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran"
     },
     {
         "ATC Track": "Boplicity",
@@ -42,7 +65,17 @@
             "Marohonic",
             "Pilation",
             "Hopkins Jazz Nonet"
-        ]
+        ],
+        "Result Track Name": "Boplicity",
+        "Result Artist Names": [
+            "Marohnic",
+            "Pilafian",
+            "Hopkins Jazz Nonet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:2JjjFPq2rdwK3HAWE2uHgu",
+        "Result Album Name": "Jazz!"
     },
     {
         "Title": "Census",
@@ -108,7 +141,12 @@
         "ATC Track": "Sensuendo",
         "ATC Artists": [
             "Jon Hassell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Myrtle Beach",
@@ -120,7 +158,15 @@
         "ATC Track": "Gierran (Enchantment)",
         "ATC Artists": [
             "Wimme"
-        ]
+        ],
+        "Result Track Name": "Gierran / Enchantment",
+        "Result Artist Names": [
+            "Wimme"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wEgZPX1oudKEqsRs23KSa",
+        "Result Album Name": "Gierran"
     },
     {
         "Title": "<i>American Beauty</i>",
@@ -132,7 +178,15 @@
         "ATC Track": "MEDLEY: BALI HA'I & STRANGER IN PARADISE",
         "ATC Artists": [
             "keola beamer"
-        ]
+        ],
+        "Result Track Name": "Medley - Bali Ha'I & Stranger in Paradise",
+        "Result Artist Names": [
+            "Keola Beamer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HI6bZvQta3vAJZel8A1Hf",
+        "Result Album Name": "Moe'uhane Kika - Tales from the Dream Guitar"
     },
     {
         "Title": "Bahamas",
@@ -157,13 +211,31 @@
         "ATC Artists": [
             "Mick Karn",
             "Terry Bozzio et. al."
-        ]
+        ],
+        "Result Track Name": "Open Letter to the Heart of Diaphora",
+        "Result Artist Names": [
+            "David Torn",
+            "Mick Karn",
+            "Terry Bozzio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kvEVYC0guLIVLqc3jEnxa",
+        "Result Album Name": "Polytown"
     },
     {
         "ATC Track": "Bouncy Glimmer",
         "ATC Artists": [
             "The High Llamas"
-        ]
+        ],
+        "Result Track Name": "Bouncy Glimmer",
+        "Result Artist Names": [
+            "The High Llamas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7n9M1ZoHBQ7fi6gDwtQu05",
+        "Result Album Name": "Cold And Bouncy"
     },
     {
         "Title": "Martha Clarke",
@@ -175,6 +247,15 @@
         "ATC Track": "Come Rain or Come Shine [*]",
         "ATC Artists": [
             "Count Basie"
-        ]
+        ],
+        "Result Track Name": "Come Rain or Come Shine",
+        "Result Artist Names": [
+            "Count Basie",
+            "Joe Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4riVFCkNUsOx6cXa4W2ul2",
+        "Result Album Name": "Joe Willims Sings - Count Basie Plays and Swings"
     }
 ]

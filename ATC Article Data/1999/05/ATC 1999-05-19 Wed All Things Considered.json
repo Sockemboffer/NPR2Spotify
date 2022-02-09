@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-05-19",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:43:14"
+        "Scanned Date": "2022-02-06 19:43:14",
+        "Playlist URI": "2SQkZoRDAYjm7ax6apaT7J",
+        "Playlist Link": "https://open.spotify.com/playlist/2SQkZoRDAYjm7ax6apaT7J",
+        "Snapshot ID": "MSwwMmU2MDc3MWE5MjRhNjcwZTEyZjU0OWZlNzUwNTRhOGIwYTY4Yjcy",
+        "Playlist Name": "ATC 1999-05-19 Wed All Things Considered"
     },
     {
         "Title": "Kosovo Diplomacy",
@@ -28,13 +32,26 @@
         "ATC Track": "SQUAREDANCE (QUERTANZ)",
         "ATC Artists": [
             "DIE KNODEL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tightrope",
         "ATC Artists": [
             "Django Bates"
-        ]
+        ],
+        "Result Track Name": "Tightrope",
+        "Result Artist Names": [
+            "Django Bates"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6H6uJGjaE1TNKUPyZl1D9W",
+        "Result Album Name": "Like Life"
     },
     {
         "Title": "Dna And Death Row",
@@ -53,7 +70,15 @@
         "ATC Artists": [
             "John Lurie",
             "Cassatt String Quartet"
-        ]
+        ],
+        "Result Track Name": "Canoe",
+        "Result Artist Names": [
+            "John Lurie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2DaXIaqngNs2eZ9gsB6JXk",
+        "Result Album Name": "Fishing With John - Original Music From The Series By John Lurie"
     },
     {
         "Title": "Senate/Guns",
@@ -71,7 +96,18 @@
         "ATC Track": "Aquilarco/No. 7: Rotating Dance",
         "ATC Artists": [
             "Giovanni Sollima"
-        ]
+        ],
+        "Result Track Name": "Aquilarco No. 7 (Rotating Dance)",
+        "Result Artist Names": [
+            "Giovanni Sollima",
+            "Luigi Sollima",
+            "Renato D’Anna",
+            "Alfonso Dilio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NDInNsdMhMOE8c0DyJ7Lh",
+        "Result Album Name": "Aquilarco"
     },
     {
         "Title": "Ballantine Obit",
@@ -83,7 +119,15 @@
         "ATC Track": "DON'T WORRY BE HAPPY",
         "ATC Artists": [
             "LESTER BOWIE'S BRASS FANTASY"
-        ]
+        ],
+        "Result Track Name": "DON'T WORRY BE HAPPY",
+        "Result Artist Names": [
+            "Lester Bowie's Brass Fantasy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59csO4ir3RaaG5Z9HiWB9V",
+        "Result Album Name": "SERIOUS FUN"
     },
     {
         "Title": "Industrial Music",
@@ -113,13 +157,30 @@
         "ATC Track": "Pedro's Last Ride",
         "ATC Artists": [
             "Richard Bishop"
-        ]
+        ],
+        "Result Track Name": "Pedro's Last Ride",
+        "Result Artist Names": [
+            "Sir Richard Bishop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6YRd3SVID5NZUgsiTW26Du",
+        "Result Album Name": "Salvador Kali"
     },
     {
         "ATC Track": "HOUR GLASS",
         "ATC Artists": [
             "PETRA HADEN AND MISS MURGATOID"
-        ]
+        ],
+        "Result Track Name": "Hour Glass",
+        "Result Artist Names": [
+            "Miss Murgatroid",
+            "Petra Haden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3YLQ1ltrXHt4EELuNMhqCq",
+        "Result Album Name": "Bella Neurox"
     },
     {
         "Title": "Israel - Shas Party",
@@ -137,13 +198,23 @@
         "ATC Track": "Poison",
         "ATC Artists": [
             "C.W. Vrtacek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BEYOND THE BLUE HORIZON",
         "ATC Artists": [
             "THE COFFEE CLUB ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Monarchs And Biotechnology",
@@ -161,7 +232,15 @@
         "ATC Track": "Rebel Rouser",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Rebel Rouser",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jZwak3w1Sbwkb8aqusUwi",
+        "Result Album Name": "Twangin' The Golden Hits"
     },
     {
         "Title": "Indy 500",
@@ -179,6 +258,14 @@
         "ATC Track": "Harlem Nocturne",
         "ATC Artists": [
             "The Viscounts"
-        ]
+        ],
+        "Result Track Name": "Harlem Nocturne - Single Version",
+        "Result Artist Names": [
+            "The Viscounts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GROMP4q49fsqQzs8s9mCw",
+        "Result Album Name": "Harlem Nocturne"
     }
 ]

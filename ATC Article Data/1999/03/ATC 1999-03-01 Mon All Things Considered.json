@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-03-01",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:45:37"
+        "Scanned Date": "2022-02-06 19:45:37",
+        "Playlist URI": "7dGRpfQstZkaz5VOAPUuLs",
+        "Playlist Link": "https://open.spotify.com/playlist/7dGRpfQstZkaz5VOAPUuLs",
+        "Snapshot ID": "MSw2MjY3NWQ5YWQxNjk3Yjg1OWU3ZGE3MDk4Y2UyN2Y2YWMzYjc2OWNi",
+        "Playlist Name": "ATC 1999-03-01 Mon All Things Considered"
     },
     {
         "Title": "Olympic Report",
@@ -22,25 +26,51 @@
         "ATC Track": "ADRIFT",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Adrift",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28BQtBXSXXO8zsUlCUUmFd",
+        "Result Album Name": "Stick Figures"
     },
     {
         "ATC Track": "Celestial Soda Pop",
         "ATC Artists": [
             "Ray Lynch"
-        ]
+        ],
+        "Result Track Name": "Celestial Soda Pop - Remastered",
+        "Result Artist Names": [
+            "Ray Lynch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19CFT5MFTyAFxMqK22QVpH",
+        "Result Album Name": "The Best Of Ray Lynch"
     },
     {
         "ATC Track": "PATH",
         "ATC Artists": [
             "DAVE LESLIE WITH MIKE CURTIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MISO",
         "ATC Artists": [
             "DAVE LESLIE WITH MIKE CURTIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Linkage",
@@ -52,37 +82,89 @@
         "ATC Track": "Stalk of the Cat, Pt. 1",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ignition",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Ignition",
+        "Result Artist Names": [
+            "Michael Mendes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5O5lsbFrsi9iH9eeayvMpq",
+        "Result Album Name": "Vision"
     },
     {
         "ATC Track": "Theme from the Rick and Bob Report",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Theme From 'The Rick And Bob Report'",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5omp7XV9C1oNzoGXwKM5zq",
+        "Result Album Name": "My Father's Face"
     },
     {
         "ATC Track": "Wildlife",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "RIVER RUN",
         "ATC Artists": [
             "TONY ELMAN"
-        ]
+        ],
+        "Result Track Name": "River Run",
+        "Result Artist Names": [
+            "Tony Elman",
+            "Joe Craven",
+            "Darol Anger",
+            "Todd Phillips",
+            "Mike Marshall",
+            "Matt Eakle",
+            "Rob Ickles",
+            "Edgar Meyer",
+            "Peter Elman",
+            "Odile Lagault",
+            "Jim Kerwin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52jAjH2x9lM8jaiiRRkSli",
+        "Result Album Name": "Earthtones"
     },
     {
         "ATC Track": "VENETIAN RUSH HOUR",
         "ATC Artists": [
             "GAVIN LURSSEN"
-        ]
+        ],
+        "Result Track Name": "Venetian Rush Hour",
+        "Result Artist Names": [
+            "Gavin Lurssen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jmXdVG6Posz8jjXBXVRko",
+        "Result Album Name": "Urban Rituals"
     },
     {
         "Title": "Nigeria Vote",
@@ -100,13 +182,29 @@
         "ATC Track": "The 2nd Law",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The 2nd Law",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ss9DlUJ5tnBYWGWiYfLqg",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "Baal T'Shuvah",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Baal T'shuvah",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FgjPyH8VvGfld7DQtc9Vt",
+        "Result Album Name": "Oracle"
     },
     {
         "Title": "Youth and Religion",
@@ -124,7 +222,15 @@
         "ATC Track": "Cajun Café",
         "ATC Artists": [
             "Mark Lasser's Ark"
-        ]
+        ],
+        "Result Track Name": "Cajun Café",
+        "Result Artist Names": [
+            "Max Lässer's Ark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:18CSIPgnLzds5LinK8IpyC",
+        "Result Album Name": "A Different Kind of Blue"
     },
     {
         "Title": "Sheriff Without Gun",
@@ -136,7 +242,12 @@
         "ATC Track": "PIETA",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israel/Lebanon",

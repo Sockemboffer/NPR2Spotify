@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-12-16",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:31:02"
+        "Scanned Date": "2022-02-06 19:31:02",
+        "Playlist URI": "2bUmTIrGotOkMOcF1kQwqQ",
+        "Playlist Link": "https://open.spotify.com/playlist/2bUmTIrGotOkMOcF1kQwqQ",
+        "Snapshot ID": "MSw2MjliNTQ2MGVlMzE3MTQyMTBlMTU1YzIwMzM2OWI0ZmI2Y2M1NGU5",
+        "Playlist Name": "ATC 1999-12-16 Thu All Things Considered"
     },
     {
         "Title": "Hate Group Recruitment",
@@ -28,7 +32,12 @@
         "ATC Track": "Déjà Vu (Pt. 4)",
         "ATC Artists": [
             "Frank Vignola"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "911 Phone",
@@ -42,13 +51,29 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Just Like I Pictured It",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fNQ31fejgWaz83uz4OhXt",
+        "Result Album Name": "Combustication"
     },
     {
         "ATC Track": "Too Fast",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Too Fast",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VcjLXJk7CbavdQOTjES3I",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "Indonesia",
@@ -66,7 +91,12 @@
         "ATC Track": "\"Times Square: 1944\" from on the Town",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -84,7 +114,12 @@
         "ATC Track": "Theme from Amarcord",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chechnya",
@@ -108,7 +143,15 @@
         "ATC Track": "Charms of the Night Sky",
         "ATC Artists": [
             "Dave Douglas"
-        ]
+        ],
+        "Result Track Name": "Charms of the Night Sky",
+        "Result Artist Names": [
+            "Dave Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5u0Z7Hj5CyGS7CporUDWDf",
+        "Result Album Name": "Charms of the Night Sky"
     },
     {
         "Title": "Bradley/McCain - Campaign Finance",
@@ -126,7 +169,15 @@
         "ATC Track": "Main Titles",
         "ATC Artists": [
             "John Lurie"
-        ]
+        ],
+        "Result Track Name": "Main Titles",
+        "Result Artist Names": [
+            "John Lurie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Nd6CUyUWWICgkgSR3CIs9",
+        "Result Album Name": "African Swim and Manny & Lo - Two Film Scores By John Lurie"
     },
     {
         "Title": "Census & Race",
@@ -150,7 +201,12 @@
         "ATC Track": "Ein Traume",
         "ATC Artists": [
             "Virgil Fox"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Silent Movie Theatre",
@@ -162,6 +218,11 @@
         "ATC Track": "Holiday for Strings",
         "ATC Artists": [
             "London Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

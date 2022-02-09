@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-11-23",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:32:55"
+        "Scanned Date": "2022-02-06 19:32:55",
+        "Playlist URI": "3mPqOlL4Awsoxq5mXiG3Sq",
+        "Playlist Link": "https://open.spotify.com/playlist/3mPqOlL4Awsoxq5mXiG3Sq",
+        "Snapshot ID": "MSwzNGM3NDMyMTg0MWY2MWEwM2FlZTU0ODQ2YjEzZWFmOWVlNTE3ZWE3",
+        "Playlist Name": "ATC 1999-11-23 Tue All Things Considered"
     },
     {
         "Title": "Military Race Relations",
@@ -22,7 +26,15 @@
         "ATC Track": "Ignition",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Ignition",
+        "Result Artist Names": [
+            "Michael Mendes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5O5lsbFrsi9iH9eeayvMpq",
+        "Result Album Name": "Vision"
     },
     {
         "Title": "Fog",
@@ -34,7 +46,15 @@
         "ATC Track": "one if by sea",
         "ATC Artists": [
             "michael masley"
-        ]
+        ],
+        "Result Track Name": "One If By Sea",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7dIrVkfsdxUazK6KzQ5Vjz",
+        "Result Album Name": "Mystery Repeats Itself"
     },
     {
         "Title": "EgyptAir Flight 990",
@@ -52,7 +72,15 @@
         "ATC Track": "DITZY AND ZESTY",
         "ATC Artists": [
             "TONY TRISCHKA"
-        ]
+        ],
+        "Result Track Name": "Ditzy & Zesty",
+        "Result Artist Names": [
+            "Tony Trischka"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30ves48TZbMKZcEOdat6zM",
+        "Result Album Name": "World Turning"
     },
     {
         "Title": "West Virginia Computer Ed.",
@@ -70,7 +98,15 @@
         "ATC Track": "Our Spanish Love Song",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Our Spanish Love Song",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uUQ4IhK2McRJnFqaHHBIQ",
+        "Result Album Name": "Falling Of The Roof"
     },
     {
         "Title": "Sweet Potato Shortage",
@@ -88,7 +124,15 @@
         "ATC Track": "QUIET VOLCANO",
         "ATC Artists": [
             "ARTIE TRAUM"
-        ]
+        ],
+        "Result Track Name": "Quiet Volcano",
+        "Result Artist Names": [
+            "Artie Traum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AB8KpbFHRsJvtYzmkTp5n",
+        "Result Album Name": "Letters From Joubée"
     },
     {
         "Title": "Clinton in Kosovo",
@@ -112,7 +156,17 @@
         "ATC Track": "SHEPHERD'S HEY",
         "ATC Artists": [
             "EDMONTON WIND ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": "Shepherd's Hey",
+        "Result Artist Names": [
+            "Percy Grainger",
+            "Edmonton Wind Ensemble",
+            "Harry Pinchin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18BJ71eNamhT4j2IkmZuSb",
+        "Result Album Name": "Snake Fence Country"
     },
     {
         "Title": "Congressional Wrapup",
@@ -160,6 +214,11 @@
         "ATC Track": "We Gather Together",
         "ATC Artists": [
             "The Steeple on the Common"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

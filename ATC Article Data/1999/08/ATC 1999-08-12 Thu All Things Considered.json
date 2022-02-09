@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-08-12",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:37:13"
+        "Scanned Date": "2022-02-06 19:37:13",
+        "Playlist URI": "2Ma675mE1InLb9FVgwDiXB",
+        "Playlist Link": "https://open.spotify.com/playlist/2Ma675mE1InLb9FVgwDiXB",
+        "Snapshot ID": "MSw5MjFhYjI3ZDRiZjRlNjc1NzUyZTQyZDRiYmNhOTI4OTE2NzE0YjI1",
+        "Playlist Name": "ATC 1999-08-12 Thu All Things Considered"
     },
     {
         "Title": "LA Shooting",
@@ -28,7 +32,15 @@
         "ATC Track": "Heaps of Sheeps",
         "ATC Artists": [
             "Robert Wyatt"
-        ]
+        ],
+        "Result Track Name": "Heaps Of Sheeps",
+        "Result Artist Names": [
+            "Robert Wyatt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dcStOthnBOo1v8NUhW0V7",
+        "Result Album Name": "Shleep"
     },
     {
         "Title": "Russian Politics",
@@ -46,13 +58,23 @@
         "ATC Track": "ETUDE, OP. 8, NO. 2",
         "ATC Artists": [
             "RED SQUARE BLUE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "ANDANTE FROM CONCERTO FOR COLORATURA, OP. 82",
         "ATC Artists": [
             "RED SQUARE BLUE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Investigating War Crimes - pt. 2",
@@ -71,7 +93,15 @@
         "ATC Artists": [
             "The Dutch Jazz Orchestra Group",
             "Ack Van Rooyen"
-        ]
+        ],
+        "Result Track Name": "Love Has Passed Me By Again",
+        "Result Artist Names": [
+            "The Dutch Jazz Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7nvFlRf2uHSzdcfLaM6Hg4",
+        "Result Album Name": "Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn"
     },
     {
         "Title": "Iridium Phone",
@@ -89,13 +119,29 @@
         "ATC Track": "WATER BABIES",
         "ATC Artists": [
             "WILLIAM ORBIT"
-        ]
+        ],
+        "Result Track Name": "Water Babies",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OFW761PCQn3MedR2DUhAu",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "ATC Track": "STANLEY STEAMER",
         "ATC Artists": [
             "PAUL GLASSE"
-        ]
+        ],
+        "Result Track Name": "Stanley Steamer",
+        "Result Artist Names": [
+            "Paul MacLeod"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:52Js3RRMt6hSGTNKk7iRwl",
+        "Result Album Name": "Close And Play"
     },
     {
         "Title": "Plutonium Exposure",
@@ -125,13 +171,26 @@
         "ATC Track": "Doctor Gradus Ad Parnassum [From Children's Corner Suite: No. 1]",
         "ATC Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "OLIPHANT",
         "ATC Artists": [
             "DAAU"
-        ]
+        ],
+        "Result Track Name": "Oliphant",
+        "Result Artist Names": [
+            "Daau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VidKGiLeVZLmJPYt7Tqep",
+        "Result Album Name": "We Need New Animals"
     },
     {
         "Title": "FAA - Flight Delays",
@@ -167,6 +226,14 @@
         "ATC Track": "Look Left",
         "ATC Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "Look Left",
+        "Result Artist Names": [
+            "Alison Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qz9DOD2CD2QiuYx1ByZHW",
+        "Result Album Name": "Look Left"
     }
 ]

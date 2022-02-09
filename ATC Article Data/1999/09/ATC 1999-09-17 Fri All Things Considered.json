@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-09-17",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:35:51"
+        "Scanned Date": "2022-02-06 19:35:51",
+        "Playlist URI": "3HPXb5iIGFRIQ8jYdnDbvq",
+        "Playlist Link": "https://open.spotify.com/playlist/3HPXb5iIGFRIQ8jYdnDbvq",
+        "Snapshot ID": "MSxkNzdhNmJiZjhmOGNiZTU4M2JiNmZiNjM1NWVmNGI2YmYyNzgwN2Uz",
+        "Playlist Name": "ATC 1999-09-17 Fri All Things Considered"
     },
     {
         "Title": "East Timor Forces",
@@ -34,7 +38,17 @@
         "ATC Track": "Melancholy Serenade",
         "ATC Artists": [
             "Jackie Gleason"
-        ]
+        ],
+        "Result Track Name": "Melancholy Serenade/Yesterdays",
+        "Result Artist Names": [
+            "Jackie Gleason",
+            "Jerome Kern",
+            "Otto Harbach"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5tbKedbuIyWfdmHHumKKpD",
+        "Result Album Name": "The Romantic Moods Of Jackie Gleason"
     },
     {
         "Title": "Pennant Races",
@@ -52,13 +66,26 @@
         "ATC Track": "PORTAL: A PRELUDE FOR SAXOPHONES",
         "ATC Artists": [
             "Nuclear Whales Saxophone Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ibuki Reconstruction",
         "ATC Artists": [
             "Kodo"
-        ]
+        ],
+        "Result Track Name": "Ibuki Reconstruction",
+        "Result Artist Names": [
+            "Kodo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nTzaRYwjcunk6mWZemMdh",
+        "Result Album Name": "Sai-So: The Remix Project"
     },
     {
         "Title": "Lost and Found Sound",
@@ -71,13 +98,29 @@
         "ATC Artists": [
             "bill justis",
             "his orchestra"
-        ]
+        ],
+        "Result Track Name": "Raunchy",
+        "Result Artist Names": [
+            "Bill Justis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7M2NyqIl1p39eTKzieAZde",
+        "Result Album Name": "Raunchy & Other Great Instrumentals"
     },
     {
         "ATC Track": "Son of Kiss Curl",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Son of Kiss Curl",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lMsGa4LXvWFzjKCfAfOaF",
+        "Result Album Name": "Waiting for a Dancer"
     },
     {
         "Title": "Texas Guns",
@@ -96,7 +139,16 @@
         "ATC Artists": [
             "Vladimir Leyetchkiss",
             "piano"
-        ]
+        ],
+        "Result Track Name": "Waltz in E Minor",
+        "Result Artist Names": [
+            "Alexander Griboyedov",
+            "Vladimir Leyetchkiss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3KB2zu18Y1hJafPytSxDj1",
+        "Result Album Name": "Russian Reveries"
     },
     {
         "Title": "LAPD Scandal",
@@ -108,7 +160,15 @@
         "ATC Track": "Hale-Bopp",
         "ATC Artists": [
             "JPP"
-        ]
+        ],
+        "Result Track Name": "Hale-Bopp",
+        "Result Artist Names": [
+            "Jpp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tqAjFgPlSWWEp3ZQlgPhf",
+        "Result Album Name": "String Tease"
     },
     {
         "Title": "North Korea",
@@ -126,7 +186,12 @@
         "ATC Track": "Unn",
         "ATC Artists": [
             "Pachora"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Justice Ginsburg",
@@ -162,7 +227,15 @@
         "ATC Track": "Who Can I Turn To (When Nobody Needs Me)",
         "ATC Artists": [
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": "Who Can I Turn To (When Nobody Needs Me) - Live",
+        "Result Artist Names": [
+            "Oscar Peterson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2STpxoLJGLrsUbS16iLjD9",
+        "Result Album Name": "Solo"
     },
     {
         "Title": "Oscar Peterson Debuts at Carnegie Hall",
@@ -175,6 +248,15 @@
         "ATC Artists": [
             "Itzhak Perlman",
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": "Blue Skies",
+        "Result Artist Names": [
+            "Oscar Peterson",
+            "Itzhak Perlman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nTX4j2IumLBCpZB7f3vkv",
+        "Result Album Name": "Side By Side"
     }
 ]

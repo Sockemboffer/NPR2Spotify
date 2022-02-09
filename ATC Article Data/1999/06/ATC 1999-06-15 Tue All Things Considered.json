@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-06-15",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:41:36"
+        "Scanned Date": "2022-02-06 19:41:36",
+        "Playlist URI": "4BFwpHerbpXJAxUWjo9HCl",
+        "Playlist Link": "https://open.spotify.com/playlist/4BFwpHerbpXJAxUWjo9HCl",
+        "Snapshot ID": "MSw1YjU4MmY5YjU0ZTY1MzNjYTNkOGMwNTVhNDBmZDVhMTIxYzBlM2Q3",
+        "Playlist Name": "ATC 1999-06-15 Tue All Things Considered"
     },
     {
         "Title": "Kosovo - Serb Withdrawal",
@@ -28,7 +32,25 @@
         "ATC Track": "CALGARY GIRL",
         "ATC Artists": [
             "TONY ELMAN"
-        ]
+        ],
+        "Result Track Name": "Calgary Girl",
+        "Result Artist Names": [
+            "Tony Elman",
+            "Joe Craven",
+            "Darol Anger",
+            "Todd Phillips",
+            "Mike Marshall",
+            "Matt Eakle",
+            "Rob Ickles",
+            "Edgar Meyer",
+            "Peter Elman",
+            "Odile Lagault",
+            "Jim Kerwin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zq7qmhucRVZkiZSABw2go",
+        "Result Album Name": "Earthtones"
     },
     {
         "Title": "MicroSoft Trial",
@@ -46,13 +68,29 @@
         "ATC Track": "MUSIC OF THE SPHERES",
         "ATC Artists": [
             "ROBERT MUSSO"
-        ]
+        ],
+        "Result Track Name": "Music of the Spheres",
+        "Result Artist Names": [
+            "Robert Musso"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xofuinMjNAQmDmznx2Jcd",
+        "Result Album Name": "Absolute Music"
     },
     {
         "ATC Track": "SURAKARTA",
         "ATC Artists": [
             "ROBERT MUSSO"
-        ]
+        ],
+        "Result Track Name": "Surakarta",
+        "Result Artist Names": [
+            "Robert Musso"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33Op2oLkyP9T3kqBHJA1uI",
+        "Result Album Name": "Absolute Music"
     },
     {
         "Title": "Koreas",
@@ -82,7 +120,15 @@
         "ATC Track": "The 2nd Law",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The 2nd Law",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ss9DlUJ5tnBYWGWiYfLqg",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "PALLE'S HEADACHE",
@@ -90,7 +136,17 @@
             "PETER ERSKINE",
             "PALLE DANIELSSON",
             "JOHN TAYLOR"
-        ]
+        ],
+        "Result Track Name": "Palle's Headache",
+        "Result Artist Names": [
+            "Peter Erskine",
+            "Palle Danielsson",
+            "John Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AQJv4ngP79Ere8VutSwx9",
+        "Result Album Name": "Time Being"
     },
     {
         "Title": "Audio Books",
@@ -102,13 +158,29 @@
         "ATC Track": "peel",
         "ATC Artists": [
             "the coctails"
-        ]
+        ],
+        "Result Track Name": "Peel",
+        "Result Artist Names": [
+            "The Coctails"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WcP4QMTEyaLEpeHulIlBu",
+        "Result Album Name": "Peel"
     },
     {
         "ATC Track": "waves",
         "ATC Artists": [
             "margie adam"
-        ]
+        ],
+        "Result Track Name": "Waves",
+        "Result Artist Names": [
+            "Margie Adam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4O6LCp6IGYD2eH4j1QlM9d",
+        "Result Album Name": "Naked Keys"
     },
     {
         "Title": "Guns - Congress",
@@ -126,7 +198,12 @@
         "ATC Track": "WALKING STICK",
         "ATC Artists": [
             "EKITNI"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Domestic Violence",
@@ -150,13 +227,26 @@
         "ATC Track": "AN OLDER ROAD THAN THIS",
         "ATC Artists": [
             "BRIAN ALES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "CHARMED LIFE",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Charmed Life",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ofx9Wc7neEZRRd9MuBr0d",
+        "Result Album Name": "Stick Figures"
     },
     {
         "Title": "Matisse",
@@ -174,6 +264,14 @@
         "ATC Track": "OLIPHANT",
         "ATC Artists": [
             "DAAU"
-        ]
+        ],
+        "Result Track Name": "Oliphant",
+        "Result Artist Names": [
+            "Daau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VidKGiLeVZLmJPYt7Tqep",
+        "Result Album Name": "We Need New Animals"
     }
 ]

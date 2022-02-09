@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-12-23",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:31:21"
+        "Scanned Date": "2022-02-06 19:31:21",
+        "Playlist URI": "0ORZjzQsw1wKPVC5M9svL0",
+        "Playlist Link": "https://open.spotify.com/playlist/0ORZjzQsw1wKPVC5M9svL0",
+        "Snapshot ID": "MSw4ZjgwYWM0Yzc3NGE4NzlkYWNmYTE5OGVmYmM3YjNkODJiZWE4Njky",
+        "Playlist Name": "ATC 1999-12-23 Thu All Things Considered"
     },
     {
         "Title": "Vermont Border",
@@ -28,7 +32,12 @@
         "ATC Track": "Bring a Torch, Jeanette Isabella",
         "ATC Artists": [
             "Sunrise String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Christmas Restrictions",
@@ -47,13 +56,33 @@
         "ATC Artists": [
             "Arturo Delmoni",
             "Katherine Murdock et. al."
-        ]
+        ],
+        "Result Track Name": "It Came upon a Midnight Clear (arr. A. Delmoni)",
+        "Result Artist Names": [
+            "Richard S. Willis",
+            "Arturo Delmoni",
+            "Alexander Romanul",
+            "Katherine Murdock",
+            "Nathaniel Rosen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7HglDZ96KXOgnqVHCm7HqJ",
+        "Result Album Name": "A String Quartet Christmas"
     },
     {
         "ATC Track": "Let It Snow! Let It Snow! Let It Snow!",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Let It Snow",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:02azRzHth58qRqt5La7Mzy",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "Title": "Campaign in Connecticut",
@@ -71,13 +100,30 @@
         "ATC Track": "Blessings of Mary",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "The Blessings of Mary",
+        "Result Artist Names": [
+            "Elizabeth Mitchell",
+            "Larry Campbell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gS1K6JH5uhonZXPfHnBEp",
+        "Result Album Name": "The Sounding Joy: Christmas Songs in and out of the Ruth Crawford Seeger Songbook"
     },
     {
         "ATC Track": "Do You hear What I Hear?",
         "ATC Artists": [
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "Do You Hear What I Hear",
+        "Result Artist Names": [
+            "Mike Marshall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2F0wJWkdFuLhqXWwOP1sl5",
+        "Result Album Name": "Midnight Clear"
     },
     {
         "Title": "Richard Farina",
@@ -89,7 +135,15 @@
         "ATC Track": "I'LL BE HOME FOR CHRISTMAS",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "I'll Be Home For Christmas",
+        "Result Artist Names": [
+            "Cami Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0mTfl0pCnoucr8c2aeJ5IS",
+        "Result Album Name": "Colors of Christmas"
     },
     {
         "Title": "Venezuela",
@@ -113,7 +167,15 @@
         "ATC Track": "Jingle Bell Rock",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Jingle Bell Rock",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HyfNpaIetJOZ870sVmu3h",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "Title": "Stock Market Up",
@@ -131,13 +193,29 @@
         "ATC Track": "Nice Bike",
         "ATC Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Nice Bike",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1o3oJiwgFs4zmQIvFWEfIG",
+        "Result Album Name": "Music by Ry Cooder"
     },
     {
         "ATC Track": "What Child Is this?",
         "ATC Artists": [
             "Tom Mason"
-        ]
+        ],
+        "Result Track Name": "What Child Is This?",
+        "Result Artist Names": [
+            "Tom Mason"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3J96cp4tjil1YFETEBo05o",
+        "Result Album Name": "A Slide Guitar Christmas"
     },
     {
         "Title": "Pardon",
@@ -161,13 +239,29 @@
         "ATC Track": "Y.M.C.A.",
         "ATC Artists": [
             "Karaoke"
-        ]
+        ],
+        "Result Track Name": "Y.M.C.A.",
+        "Result Artist Names": [
+            "Starlite Karaoke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2oaXKS6B2eHUNEgaT3Nbk2",
+        "Result Album Name": "Karaoke Disco Party Vol.2"
     },
     {
         "ATC Track": "JOY TO THE WORLD",
         "ATC Artists": [
             "WOODY PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Joy To The World",
+        "Result Artist Names": [
+            "Woody Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Rr5L9IcsJEWQj5vvC3Jax",
+        "Result Album Name": "A Toolbox Christmas"
     },
     {
         "Title": "But Wait -- There's More!!!",
@@ -185,12 +279,25 @@
         "ATC Track": "DANCE OF THE SUGAR PLUM FAIRY",
         "ATC Artists": [
             "CLASSICS ON TOYS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "God Rest Ye Merry, Gentlemen",
         "ATC Artists": [
             "Tom Mason"
-        ]
+        ],
+        "Result Track Name": "God Rest Ye Merry Gentlemen",
+        "Result Artist Names": [
+            "Tom Mason"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oleZUahdFlLDguPZmzJLE",
+        "Result Album Name": "A Slide Guitar Christmas"
     }
 ]

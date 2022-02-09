@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-11-19",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:32:44"
+        "Scanned Date": "2022-02-06 19:32:44",
+        "Playlist URI": "1KH41BthWrHR4ukKt9yyN9",
+        "Playlist Link": "https://open.spotify.com/playlist/1KH41BthWrHR4ukKt9yyN9",
+        "Snapshot ID": "MSw4Nzk2OGQ3ZWQ0NzE4ZjE5YmViNWEwZGZjMzUyOGI3ZGRhZTZkZmY0",
+        "Playlist Name": "ATC 1999-11-19 Fri All Things Considered"
     },
     {
         "Title": "China Spies",
@@ -28,7 +32,15 @@
         "ATC Track": "Good Dog, Happy Man",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Good Dog, Happy Man",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MlqRPszPS4KQPuCcNgyQF",
+        "Result Album Name": "Good Dog, Happy Man"
     },
     {
         "Title": "Senate Budget",
@@ -46,7 +58,15 @@
         "ATC Track": "These Foolish Things",
         "ATC Artists": [
             "Thelonious Monk"
-        ]
+        ],
+        "Result Track Name": "These Foolish Things (Remind Me Of You)",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZBea1ayHLEaBQGBxkugmK",
+        "Result Album Name": "Solo Monk"
     },
     {
         "Title": "Crops, Genes, & Butterflies",
@@ -70,7 +90,15 @@
         "ATC Track": "This Could Be the Start of Something Big",
         "ATC Artists": [
             "Count Basie Orchestra"
-        ]
+        ],
+        "Result Track Name": "This Could Be the Start of Something Big",
+        "Result Artist Names": [
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3IP1OvP5nOieC317kHkjPw",
+        "Result Album Name": "This Time By Basie"
     },
     {
         "Title": "Bush Speech",
@@ -94,7 +122,12 @@
         "ATC Track": "V-2 Schneider",
         "ATC Artists": [
             "American Composers Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Us - Un",
@@ -106,7 +139,15 @@
         "ATC Track": "INDEAN POA",
         "ATC Artists": [
             "ULRICH LASK"
-        ]
+        ],
+        "Result Track Name": "Indéan Poa",
+        "Result Artist Names": [
+            "Ulrich Lask"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:624I3ZX2ZunhQQqgiQIGLI",
+        "Result Album Name": "Indéan Poa"
     },
     {
         "Title": "November 19, 1999",
@@ -118,13 +159,23 @@
         "ATC Track": "MARCH, OP. 99",
         "ATC Artists": [
             "MILLER BRASS ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "DINNER MUSIC FOR A PACK OF HUNGARY CANNIBALS",
         "ATC Artists": [
             "DAVE HARRIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "EgyptAir Flight 990",
@@ -148,7 +199,15 @@
         "ATC Track": "THE JAMES BOND THEME",
         "ATC Artists": [
             "LEROY HOLMES"
-        ]
+        ],
+        "Result Track Name": "The James Bond Theme Medley - Remastered",
+        "Result Artist Names": [
+            "Leroy Holmes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pALav2p7zGuJlTfm4INlM",
+        "Result Album Name": "Blue Movies"
     },
     {
         "Title": "College Football",
@@ -160,7 +219,15 @@
         "ATC Track": "THE JAMES BOND THEME",
         "ATC Artists": [
             "LEROY HOLMES"
-        ]
+        ],
+        "Result Track Name": "The James Bond Theme Medley - Remastered",
+        "Result Artist Names": [
+            "Leroy Holmes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pALav2p7zGuJlTfm4INlM",
+        "Result Album Name": "Blue Movies"
     },
     {
         "Title": "Bond",
@@ -172,6 +239,14 @@
         "ATC Track": "ODD JOB MAN / I WANNA BE A JAMES BOND GIRL",
         "ATC Artists": [
             "LEROY HOLMES"
-        ]
+        ],
+        "Result Track Name": "Odd Job Man/I Wanna Be A James Bond Girl",
+        "Result Artist Names": [
+            "Leroy Holmes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7o4q9cm6FtafJIPSRYvdzz",
+        "Result Album Name": "Ultra-Lounge/Cocktail Capers"
     }
 ]

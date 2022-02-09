@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-10-06",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:33:34"
+        "Scanned Date": "2022-02-06 19:33:34",
+        "Playlist URI": "2gZED23DUC0tzLq1B4o0Wv",
+        "Playlist Link": "https://open.spotify.com/playlist/2gZED23DUC0tzLq1B4o0Wv",
+        "Snapshot ID": "MSxhYWY0OTkyYjViNWYxYmFkMzdjMDRiMDQ0NzBkYjc5MzU3MzllY2Iw",
+        "Playlist Name": "ATC 1999-10-06 Wed All Things Considered"
     },
     {
         "Title": "SCOTUS and Hawaii",
@@ -22,7 +26,16 @@
         "ATC Track": "Boy Meets Horn",
         "ATC Artists": [
             "Lincoln Center Jazz Orchestra"
-        ]
+        ],
+        "Result Track Name": "Boy Meets Horn",
+        "Result Artist Names": [
+            "Lincoln Center Jazz Orchestra",
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hNV1iC9Ok5nAYQPdXCQG5",
+        "Result Album Name": "Jazz At Lincoln Center: They Came To Swing"
     },
     {
         "Title": "New i-MAC",
@@ -41,14 +54,30 @@
         "ATC Artists": [
             "English Chamber Orchestra",
             "John Barry"
-        ]
+        ],
+        "Result Track Name": "Nocturnal New York",
+        "Result Artist Names": [
+            "John Barry",
+            "David White",
+            "Tommy Morgan",
+            "English Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0swwVgWefJChfe9nv5j43n",
+        "Result Album Name": "The Beyondness of Things"
     },
     {
         "ATC Track": "Don't Let It Bother You",
         "ATC Artists": [
             "Guy Van Duser",
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<i>The Jewish Giant</i>",
@@ -78,7 +107,16 @@
         "ATC Track": "Escualo",
         "ATC Artists": [
             "Astor Piazzolla"
-        ]
+        ],
+        "Result Track Name": "Escualo",
+        "Result Artist Names": [
+            "Astor Piazzolla",
+            "Die 12 Cellisten der Berliner Philharmoniker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vHjnwvbjlbCv4OxoEzTGI",
+        "Result Album Name": "Hora Cero"
     },
     {
         "Title": "Judge Backlog",
@@ -96,14 +134,27 @@
         "ATC Track": "Aunt Lila's Suite: Burnt Sienna, Opus 14",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Stevedor's Serenade",
         "ATC Artists": [
             "JAMES CARTER",
             "CYRUS CHESTNUT"
-        ]
+        ],
+        "Result Track Name": "The Stevedore's Serenade",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5NJyh4bMvt0kLHcnVo8Rzo",
+        "Result Album Name": "The Real Quietstorm"
     },
     {
         "Title": "Obesity",
@@ -115,7 +166,17 @@
         "ATC Track": "Father of Waters",
         "ATC Artists": [
             "The Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Mississippi Suite (1925): I. Father of Waters",
+        "Result Artist Names": [
+            "Ferde Grofé",
+            "The Beau Hunks",
+            "Jan Stulen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4x7b8kzZkdS3XaTRJcS2XJ",
+        "Result Album Name": "The Modern American Music of Ferde Grofé"
     },
     {
         "Title": "Digital Movies",
@@ -133,7 +194,15 @@
         "ATC Track": "My Funny Valentine",
         "ATC Artists": [
             "Gerry Mulligan"
-        ]
+        ],
+        "Result Track Name": "My Funny Valentine",
+        "Result Artist Names": [
+            "Gerry Mulligan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AeIbfjydFf46N27feEFri",
+        "Result Album Name": "What Is There To Say?"
     },
     {
         "Title": "Houston - NFL",

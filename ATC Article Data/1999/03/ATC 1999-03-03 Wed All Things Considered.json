@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-03-03",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:45:42"
+        "Scanned Date": "2022-02-06 19:45:42",
+        "Playlist URI": "1QHfwObWpIuO3DLqgxTkJ3",
+        "Playlist Link": "https://open.spotify.com/playlist/1QHfwObWpIuO3DLqgxTkJ3",
+        "Snapshot ID": "MSw2YzZlMGQ0ODdkZmM1OGZhODRkZDBlYzFmOWYzM2EwOTA1MzJlMDUy",
+        "Playlist Name": "ATC 1999-03-03 Wed All Things Considered"
     },
     {
         "Title": "Uganda",
@@ -17,14 +21,27 @@
         "ATC Artists": [
             "FREYDA",
             "ACOUSTIC ATTATUDE"
-        ]
+        ],
+        "Result Track Name": "Time Alone",
+        "Result Artist Names": [
+            "Freyda & Acoustic AttaTude"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7q6W9XNcTOQUzwIUregdX0",
+        "Result Album Name": "Midnight at Cabell Hall"
     },
     {
         "ATC Track": "fTTA TUDE IN A MINOR",
         "ATC Artists": [
             "FREYDA",
             "ACOUSTIC ATTA TUDE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "State Department",

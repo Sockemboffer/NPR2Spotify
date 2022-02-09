@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-11-03",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:31:49"
+        "Scanned Date": "2022-02-06 19:31:49",
+        "Playlist URI": "6EMhOVNmCYWgUQXQW60ZDa",
+        "Playlist Link": "https://open.spotify.com/playlist/6EMhOVNmCYWgUQXQW60ZDa",
+        "Snapshot ID": "MSw3ODEzNjk2OWYxN2UxOTczZTUzMDYwNDI3NDUzYTRiNTlhNGNhYzI4",
+        "Playlist Name": "ATC 1999-11-03 Wed All Things Considered"
     },
     {
         "Title": "Seattle Shooting",
@@ -34,7 +38,15 @@
         "ATC Track": "Charms of the Night Sky",
         "ATC Artists": [
             "Dave Douglas"
-        ]
+        ],
+        "Result Track Name": "Charms of the Night Sky",
+        "Result Artist Names": [
+            "Dave Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5u0Z7Hj5CyGS7CporUDWDf",
+        "Result Album Name": "Charms of the Night Sky"
     },
     {
         "Title": "Gene Patents",
@@ -46,13 +58,29 @@
         "ATC Track": "Ballroom",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Ballroom",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4eHMvWrJB7KfHnnT2QOpF1",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "ATC Track": "Bal Masque",
         "ATC Artists": [
             "Dave Douglas"
-        ]
+        ],
+        "Result Track Name": "Bal masque",
+        "Result Artist Names": [
+            "Dave Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qGMvo3JnSCaglpKZMebOw",
+        "Result Album Name": "Charms of the Night Sky"
     },
     {
         "Title": "Poland",
@@ -70,13 +98,23 @@
         "ATC Track": "Without Express Intention",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "KNODELPOLKA",
         "ATC Artists": [
             "DIE KNODEL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Budget Veto",
@@ -94,7 +132,15 @@
         "ATC Track": "occam's close shave",
         "ATC Artists": [
             "roger eno"
-        ]
+        ],
+        "Result Track Name": "Occam's Close Shave",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2O09Fqt8NiaOhp8Xeo6lQo",
+        "Result Album Name": "Lost In Translation"
     },
     {
         "Title": "Egypt Air Flight 990",
@@ -113,7 +159,12 @@
         "ATC Artists": [
             "Joey Altruda",
             "upright bass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Internet Class Notes",
@@ -131,7 +182,15 @@
         "ATC Track": "No Woman, No Cry",
         "ATC Artists": [
             "Monty Alexander"
-        ]
+        ],
+        "Result Track Name": "No Woman No Cry - Live",
+        "Result Artist Names": [
+            "Monty Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gvXbKqKKU7TL0efbnCIfm",
+        "Result Album Name": "Harlem-Kingston Express (Live at Dizzy's Club Coca-Cola, NYC)"
     },
     {
         "Title": "Mississippi Governor",
@@ -155,13 +214,29 @@
         "ATC Track": "The Pearls/Tia Juana",
         "ATC Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "The Pearls / Tia Juana",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6fuFiEyQTRpZq9Q8fuD2s5",
+        "Result Album Name": "Jazz"
     },
     {
         "ATC Track": "Red Hot Pepper",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Red Hot Pepper",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4PudlGL0fB3ZU56r6uYs2W",
+        "Result Album Name": "Mr. Jelly Lord - Standard Time Vol. 6"
     },
     {
         "Title": "<i>Trust</i>",
@@ -173,6 +248,11 @@
         "ATC Track": "When the Roll is Called Up Yonder",
         "ATC Artists": [
             "The Jim Cullum Jazz Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

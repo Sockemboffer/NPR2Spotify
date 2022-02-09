@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-02-10",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:48:16"
+        "Scanned Date": "2022-02-06 19:48:16",
+        "Playlist URI": "5LfWBwApc8QN3x0C1Od5K5",
+        "Playlist Link": "https://open.spotify.com/playlist/5LfWBwApc8QN3x0C1Od5K5",
+        "Snapshot ID": "MSxmOWM3ODMwYWYzMjRiMjhjMWIwZmUxYmI4ZGEzNWFmN2ExNjNiNTIy",
+        "Playlist Name": "ATC 1999-02-10 Wed All Things Considered"
     },
     {
         "Title": "Senate Deliberates Impeachment Charges",
@@ -24,7 +28,12 @@
             "DAVE BRUBECK",
             "ROLAND HANNA",
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Eritrea-Ethiopia",
@@ -36,13 +45,29 @@
         "ATC Track": "WALKDOWN",
         "ATC Artists": [
             "CARL WEINGARTEN ET AL"
-        ]
+        ],
+        "Result Track Name": "Walkdown",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10WsqBPHBaHWJxrxoFjgJU",
+        "Result Album Name": "Redwood Melodies"
     },
     {
         "ATC Track": "The Birds Near Her House",
         "ATC Artists": [
             "The Lounge Lizards"
-        ]
+        ],
+        "Result Track Name": "The Birds Near Her House",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qftqGXOkBwEs89gajrYom",
+        "Result Album Name": "Queen of All Ears"
     },
     {
         "Title": "Homeless Teens",
@@ -54,19 +79,40 @@
         "ATC Track": "The Birds Near Her House",
         "ATC Artists": [
             "The Lounge Lizards"
-        ]
+        ],
+        "Result Track Name": "The Birds Near Her House",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qftqGXOkBwEs89gajrYom",
+        "Result Album Name": "Queen of All Ears"
     },
     {
         "ATC Track": "Elephant Walk",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Waltz for Debby",
         "ATC Artists": [
             "John McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Waltz For Debby - Instrumental",
+        "Result Artist Names": [
+            "John McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UPMNBeU9BkGk5LSt0dima",
+        "Result Album Name": "Time Remembered"
     },
     {
         "Title": "'Death of A Salesman' Marks 50th Anniversary",
@@ -84,13 +130,30 @@
         "ATC Track": "Aos Pes da Cruz",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Aos Pes Da Cruz",
+        "Result Artist Names": [
+            "Miles Davis",
+            "Gil Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yF3rWLY02iClf3qJjdRsx",
+        "Result Album Name": "Quiet Nights"
     },
     {
         "ATC Track": "Summer Running",
         "ATC Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Summer Running",
+        "Result Artist Names": [
+            "Marc Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GU3TYOPS1fZm7mxzyk9Sw",
+        "Result Album Name": "The Sound Of Summer Running"
     },
     {
         "Title": "Miranda Commentary",
@@ -114,13 +177,23 @@
         "ATC Track": "HiBall Nova Scotia",
         "ATC Artists": [
             "The High Llamas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "HiBall Nova Scotia",
         "ATC Artists": [
             "The High Llamas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Exxon Valdez",
@@ -132,7 +205,15 @@
         "ATC Track": "The Blues Overtook Me",
         "ATC Artists": [
             "Charlie Musselwhite"
-        ]
+        ],
+        "Result Track Name": "The Blues Overtook Me",
+        "Result Artist Names": [
+            "Charlie Musselwhite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JewT4bph3ljtxu1srOaCl",
+        "Result Album Name": "Ace Of Harps"
     },
     {
         "Title": "Olympics Sponsor Pulls Out",
@@ -144,13 +225,29 @@
         "ATC Track": "The Blues Overtook Me",
         "ATC Artists": [
             "Charlie Musselwhite"
-        ]
+        ],
+        "Result Track Name": "The Blues Overtook Me",
+        "Result Artist Names": [
+            "Charlie Musselwhite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JewT4bph3ljtxu1srOaCl",
+        "Result Album Name": "Ace Of Harps"
     },
     {
         "ATC Track": "Don's Idea",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Don's Idea",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lCaSBpPzTahhgBqLxa64b",
+        "Result Album Name": "In Carterian Fashion"
     },
     {
         "Title": "Ice Floe",
@@ -174,7 +271,16 @@
         "ATC Track": "JOAN-CAPETOWN FLOWER",
         "ATC Artists": [
             "ABDULLAH IBRAHIM AND EKAYA"
-        ]
+        ],
+        "Result Track Name": "Joan - Capetown Flower",
+        "Result Artist Names": [
+            "Ekaya",
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QtkoWKR9aGz4gDTgK6uZG",
+        "Result Album Name": "The Enja Heritage Collection: African River"
     },
     {
         "Title": "Bronx Shooting",
@@ -186,13 +292,26 @@
         "ATC Track": "Mood Indigo",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Harlem Nocturne",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Harlem Nocturne",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wdIEbrEvcHMiOcLPcMkF4",
+        "Result Album Name": "Cruisin' Deuces"
     },
     {
         "ATC Track": "The Lover",
@@ -200,7 +319,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "The Lover",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:26IapGXdI0m8nhHs8dRg8X",
+        "Result Album Name": "Friday Afternoon In The Universe"
     },
     {
         "Title": "Vermont Public Schools",

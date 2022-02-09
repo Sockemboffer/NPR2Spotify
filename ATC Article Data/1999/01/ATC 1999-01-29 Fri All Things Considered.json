@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-01-29",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:50:54"
+        "Scanned Date": "2022-02-06 19:50:54",
+        "Playlist URI": "5o7DViKiUIptd3KwXkvgOi",
+        "Playlist Link": "https://open.spotify.com/playlist/5o7DViKiUIptd3KwXkvgOi",
+        "Snapshot ID": "MSwwMjJlZGMzYWI3MmMxOGQyZWI1MjU0ZTFlMTFkMDYyOWIxNWZlNDg2",
+        "Playlist Name": "ATC 1999-01-29 Fri All Things Considered"
     },
     {
         "Title": "Contact",
@@ -28,7 +32,15 @@
         "ATC Track": "HORA DE LA BUCUI",
         "ATC Artists": [
             "BLACK CAT ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Hora de la Bucui",
+        "Result Artist Names": [
+            "Black Cat Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YnEkMPPROfp7ox1MCcIKQ",
+        "Result Album Name": "Black Cat Orchestra"
     },
     {
         "Title": "Turowicz Obit",
@@ -52,7 +64,15 @@
         "ATC Track": "YOU'VE LOST THAT LOVIN' FEELIN'",
         "ATC Artists": [
             "THE HAMPTON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "You've Lost That Lovin' Feeling",
+        "Result Artist Names": [
+            "The Hampton String Quartet"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0nFohhyttERPsXOfvZzn0J",
+        "Result Album Name": "What If Mozart Wrote \"Born to Be Wild\""
     },
     {
         "Title": "Gdp",
@@ -106,7 +126,19 @@
         "ATC Track": "Benign",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "The Decline of an American String Quartet: Improvisations: Benign",
+        "Result Artist Names": [
+            "Darol Anger",
+            "David Balakrishnan",
+            "Irene Sazer",
+            "Mark Summer",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0INuqAgJGzsJUEf3mujo6A",
+        "Result Album Name": "Turtle Island String Quartet"
     },
     {
         "Title": "Introduction to the Quest for Sound",
@@ -118,6 +150,14 @@
         "ATC Track": "Can't Help Lovin' Dat Man",
         "ATC Artists": [
             "Erroll Garner"
-        ]
+        ],
+        "Result Track Name": "Can't Help Lovin' Dat Man - Remastered 2020",
+        "Result Artist Names": [
+            "Erroll Garner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:13X2rYtBXHEAaCyEjavkjz",
+        "Result Album Name": "Gershwin & Kern (Octave Remastered Series)"
     }
 ]

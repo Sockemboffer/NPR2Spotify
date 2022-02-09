@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-09-07",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:35:20"
+        "Scanned Date": "2022-02-06 19:35:20",
+        "Playlist URI": "65xDr3cQpxnAXodFiCKXp6",
+        "Playlist Link": "https://open.spotify.com/playlist/65xDr3cQpxnAXodFiCKXp6",
+        "Snapshot ID": "MSxkMDk2MzM1N2NkY2E4OTU3NzQ1NGE3YWY4MTQ2NzhmY2ZmOTZlM2Fk",
+        "Playlist Name": "ATC 1999-09-07 Tue All Things Considered"
     },
     {
         "Title": "East Timor",
@@ -28,13 +32,26 @@
         "ATC Track": "THE BIG MAN",
         "ATC Artists": [
             "TOM MC DERMOTT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Shake That Thing",
         "ATC Artists": [
             "Woody Allen and His New Orleans Band"
-        ]
+        ],
+        "Result Track Name": "Shake That Thing",
+        "Result Artist Names": [
+            "Brian Carrick and his New Orleans Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6153846153846154,
+        "Result Track URI": "spotify:track:2msjGNq8nWm8j3KT2Ncb44",
+        "Result Album Name": "Dew Drop Revisited"
     },
     {
         "Title": "Cisneros",
@@ -52,7 +69,15 @@
         "ATC Track": "Ignition",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Ignition",
+        "Result Artist Names": [
+            "Michael Mendes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5O5lsbFrsi9iH9eeayvMpq",
+        "Result Album Name": "Vision"
     },
     {
         "Title": "Harvard Stall",
@@ -64,13 +89,26 @@
         "ATC Track": "WE'RE JUST A HAPPY FAMILY",
         "ATC Artists": [
             "THE BEAU HUNKS"
-        ]
+        ],
+        "Result Track Name": "We're Just a Happy Family - Reprise",
+        "Result Artist Names": [
+            "The Beau Hunks & The Metropole Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2R3YRaD6wmHMSymdeGQW46",
+        "Result Album Name": "Our Relations - The Original Score by Leroy Shield"
     },
     {
         "ATC Track": "WE'RE JUST A HAPPY FAMILYEGIVE US A HAND",
         "ATC Artists": [
             "THE BEAU HUNKS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "HIV & Starting a Family",
@@ -82,7 +120,15 @@
         "ATC Track": "Help",
         "ATC Artists": [
             "Music Revelation Ensemble"
-        ]
+        ],
+        "Result Track Name": "HELP",
+        "Result Artist Names": [
+            "MUSIC REVELATION ENSEMBLE"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0btEkkxuxMXXeYcriJXkmD",
+        "Result Album Name": "IN TIME"
     },
     {
         "Title": "Viacom - CBS Merger",
@@ -101,7 +147,15 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Walk To Slide",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:41EACoU6fGTau2zfbKng3I",
+        "Result Album Name": "G. Love And Special Sauce"
     },
     {
         "Title": "Vitamins",
@@ -113,13 +167,23 @@
         "ATC Track": "PRELUDE 7: GIGUE A LA MODE",
         "ATC Artists": [
             "EXCELSIOR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Harlem in Brunn",
         "ATC Artists": [
             "Die Knodel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dagestan",
@@ -137,7 +201,12 @@
         "ATC Track": "SONATA IN B FLAT MAJOR (FITZWILLIAM)",
         "ATC Artists": [
             "GONZALO X. RUIZ"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Education",
@@ -149,13 +218,29 @@
         "ATC Track": "Watson Allman",
         "ATC Artists": [
             "Sam Bush"
-        ]
+        ],
+        "Result Track Name": "Watson Allman",
+        "Result Artist Names": [
+            "Sam Bush"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sJztQfNGOahyzQaqAEV33",
+        "Result Album Name": "Glamour And Grits"
     },
     {
         "ATC Track": "ENTRANCE",
         "ATC Artists": [
             "CLUB FOOT ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Entrance - Kidnapped LP",
+        "Result Artist Names": [
+            "Club Foot Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Bz1fhMV43PNtbCFVWKREk",
+        "Result Album Name": "Wild Beasts, Kidnapped, And More"
     },
     {
         "Title": "Don't Know",
@@ -173,12 +258,32 @@
         "ATC Track": "TAFELMUSIK",
         "ATC Artists": [
             "EDMONTON WIND ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": "Tafelmusik: II. Finale",
+        "Result Artist Names": [
+            "Godfrey Ridout",
+            "Edmonton Wind Ensemble",
+            "Harry Pinchin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jWep5r3hU7mgdwAK1oXip",
+        "Result Album Name": "Snake Fence Country"
     },
     {
         "ATC Track": "TAFELMUSIK",
         "ATC Artists": [
             "EDMONTON WIND ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": "Tafelmusik: II. Finale",
+        "Result Artist Names": [
+            "Godfrey Ridout",
+            "Edmonton Wind Ensemble",
+            "Harry Pinchin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jWep5r3hU7mgdwAK1oXip",
+        "Result Album Name": "Snake Fence Country"
     }
 ]

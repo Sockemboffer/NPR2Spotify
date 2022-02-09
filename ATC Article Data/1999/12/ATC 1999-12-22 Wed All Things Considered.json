@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-12-22",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:31:18"
+        "Scanned Date": "2022-02-06 19:31:18",
+        "Playlist URI": "3Kpp6Ujjyl3L4WfhEuTk0G",
+        "Playlist Link": "https://open.spotify.com/playlist/3Kpp6Ujjyl3L4WfhEuTk0G",
+        "Snapshot ID": "MSxiOTkzNjQ3OTI1Y2E1NDU2MzQyM2UyMDMxMGVhODk5MjE5NWI4NzM5",
+        "Playlist Name": "ATC 1999-12-22 Wed All Things Considered"
     },
     {
         "Title": "Baby Bell Long Distance",
@@ -30,14 +34,27 @@
             "CINELU",
             "EUBANKS",
             "HOLLAND"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bird's Lament",
         "ATC Artists": [
             "Moondog",
             "London Saxophonic"
-        ]
+        ],
+        "Result Track Name": "Bird's Lament",
+        "Result Artist Names": [
+            "Moondog"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1EuFHPoVGfyfEZBaYExK7v",
+        "Result Album Name": "Sax Pax For A Sax"
     },
     {
         "Title": "Chechnya",
@@ -56,13 +73,26 @@
         "ATC Artists": [
             "Buena Vista Social Club",
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Buena Vista Social Club",
+        "Result Artist Names": [
+            "Buena Vista Social Club"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6yBJrChr7XY36XTW389Av2",
+        "Result Album Name": "Buena Vista Social Club"
     },
     {
         "ATC Track": "HOW HIGH THE MOON",
         "ATC Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "An Alzheimer's Journal, Part 1",
@@ -74,13 +104,30 @@
         "ATC Track": "Crystal Silence",
         "ATC Artists": [
             "David Grisman and Martin Taylor"
-        ]
+        ],
+        "Result Track Name": "Crystal Silence",
+        "Result Artist Names": [
+            "David Grisman",
+            "Martin Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3RyB86YL8tK3ti5l1aO3EU",
+        "Result Album Name": "Tone Poems II"
     },
     {
         "ATC Track": "Moonlight in Vermont",
         "ATC Artists": [
             "Stephen Bennett"
-        ]
+        ],
+        "Result Track Name": "Moonlight In Vermont",
+        "Result Artist Names": [
+            "Tony Bennett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:15Hif5AXEQGF1EQ0dCyyjQ",
+        "Result Album Name": "Here's To The Ladies"
     },
     {
         "Title": "Age Appropriate Toys",
@@ -98,13 +145,29 @@
         "ATC Track": "MOONGLOW",
         "ATC Artists": [
             "BENNY GOODMAN"
-        ]
+        ],
+        "Result Track Name": "Moonglow",
+        "Result Artist Names": [
+            "Benny Goodman Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KDn90F0oPMuJ36NaUSOlE",
+        "Result Album Name": "Killer Dillers!"
     },
     {
         "ATC Track": "Fly Me to the Moon",
         "ATC Artists": [
             "Kenneth \"Jethro\" Burns"
-        ]
+        ],
+        "Result Track Name": "Fly Me To The Moon",
+        "Result Artist Names": [
+            "Kenneth \"Jethro\" Burns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gfCIOLy7PUrzrrREAOFWD",
+        "Result Album Name": "Swing Low, Sweet Mandolin"
     },
     {
         "Title": "Terrorism Alert",
@@ -129,13 +192,30 @@
         "ATC Artists": [
             "Brian Eno",
             "Roger Eno et. al."
-        ]
+        ],
+        "Result Track Name": "Silver Morning - Remastered",
+        "Result Artist Names": [
+            "Brian Eno"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4usFUwy5LtJvUS55zKkM9E",
+        "Result Album Name": "Apollo: Atmospheres And Soundtracks (Extended Edition)"
     },
     {
         "ATC Track": "How High the Moon",
         "ATC Artists": [
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": "How High The Moon - Instrumental",
+        "Result Artist Names": [
+            "Stéphane Grappelli",
+            "McCoy Tyner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vlnFv3efORWs2AW4jGmZX",
+        "Result Album Name": "One On One"
     },
     {
         "Title": "Spacewalk",
@@ -153,13 +233,26 @@
         "ATC Track": "IT'S ONLY A PAPER MOON",
         "ATC Artists": [
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": "It's Only A Paper Moon",
+        "Result Artist Names": [
+            "Dick Hyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2r5Kri351RcNXzbhFDuK6S",
+        "Result Album Name": "Blues in the Night: Dick Hyman Plays Harold Arlen"
     },
     {
         "ATC Track": "MOON RIVER",
         "ATC Artists": [
             "HARVEY REID"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Asthma Study",
@@ -184,13 +277,29 @@
         "ATC Artists": [
             "Moondog",
             "London Saxophonic"
-        ]
+        ],
+        "Result Track Name": "Single Foot",
+        "Result Artist Names": [
+            "Moondog"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1A6WL7BJTvctoshoeBLs9u",
+        "Result Album Name": "A New Sound Of An Old Instrument"
     },
     {
         "ATC Track": "Moon over Bourbon Street",
         "ATC Artists": [
             "The Saexophones"
-        ]
+        ],
+        "Result Track Name": "Moon Over Bourbon Street",
+        "Result Artist Names": [
+            "The Lamplights"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5a6wLeoHZerjneqHW8XrCH",
+        "Result Album Name": "EP 2010"
     },
     {
         "Title": "Rome Jubilee",
@@ -202,12 +311,28 @@
         "ATC Track": "MOONLIGHT SERENADE",
         "ATC Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": "Moonlight Serenade",
+        "Result Artist Names": [
+            "King Charles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2Ws1hKkPxDM6MMmIKgVc7A",
+        "Result Album Name": "A Volta Ao Mundo, Vol. 5 - No Cinema"
     },
     {
         "ATC Track": "Fly Me to the Moon",
         "ATC Artists": [
             "Count Basie Orchestra"
-        ]
+        ],
+        "Result Track Name": "Fly Me to the Moon - In Other Words",
+        "Result Artist Names": [
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5Sb0XDS6EUGwD2IRiCA9fA",
+        "Result Album Name": "This Time By Basie"
     }
 ]

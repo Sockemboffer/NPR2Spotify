@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-09-30",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 19:36:35"
+        "Scanned Date": "2022-02-06 19:36:35",
+        "Playlist URI": "4wODcsZ7lop3ymE6fQZ58o",
+        "Playlist Link": "https://open.spotify.com/playlist/4wODcsZ7lop3ymE6fQZ58o",
+        "Snapshot ID": "MSwxMzFjOWJhNjg1NjNmZWE4ZGE0NTk0MmE2NDU3ZDNiYzBjYTcxYjJl",
+        "Playlist Name": "ATC 1999-09-30 Thu All Things Considered"
     },
     {
         "Title": "Japan Nuclear Accident",
@@ -23,7 +27,12 @@
         "ATC Artists": [
             "EDGAR MEYER",
             "THE EMERSON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Presidential Campaign",
@@ -35,13 +44,29 @@
         "ATC Track": "Tango for Stalling",
         "ATC Artists": [
             "Perfect Houseplants"
-        ]
+        ],
+        "Result Track Name": "Tango for Stalling",
+        "Result Artist Names": [
+            "Perfect Houseplants"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gmcuwl2sNtPXctB5QHaFw",
+        "Result Album Name": "Snap Clatter"
     },
     {
         "ATC Track": "Goodbye Storyteller [For Fred Myrow]",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Goodbye Storyteller - For Fred Myrow",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WymrkGTk38KmsG6CWddAW",
+        "Result Album Name": "Elegiac Cycle"
     },
     {
         "Title": "US - China: Then & Now",
@@ -53,7 +78,15 @@
         "ATC Track": "It Don't Mean a Thing, (So) Sing, Sing, Sing",
         "ATC Artists": [
             "Nuclear Whales Saxophone Orchestra"
-        ]
+        ],
+        "Result Track Name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+        "Result Artist Names": [
+            "The Nuclear Whales Saxophone Orchestra"
+        ],
+        "Result Track-Match Percent": 0.5217391304347826,
+        "Result Artists-Match Percent": 0.8888888888888888,
+        "Result Track URI": "spotify:track:6VzQbksYcyyYwAQW898xJw",
+        "Result Album Name": "Fathom This: A Retrospective"
     },
     {
         "Title": "Korea",
@@ -71,7 +104,16 @@
         "ATC Track": "MOONLIGHT ON THE RIVER",
         "ATC Artists": [
             "RICHARD GRESKO"
-        ]
+        ],
+        "Result Track Name": "Thirty Children's Pieces, Op. 27: No. 4, Moonlight on the River",
+        "Result Artist Names": [
+            "Dmitry Kabalevsky",
+            "Richard Gresko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hF5uD9bvwmTXeN5H8LKSU",
+        "Result Album Name": "Miniatures, Vol. 1: Kabalevsky, Prokofiev"
     },
     {
         "Title": "Market Gold Rush",
@@ -83,7 +125,15 @@
         "ATC Track": "O.O.B.E.",
         "ATC Artists": [
             "U.F. Off - The Orb"
-        ]
+        ],
+        "Result Track Name": "O.O.B.E.",
+        "Result Artist Names": [
+            "The Orb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3CE1CBZAbsXRPdan2hZOWB",
+        "Result Album Name": "U.F.Orb"
     },
     {
         "Title": "Jefferson Scrapbooks",
@@ -101,13 +151,30 @@
         "ATC Track": "LOSTWITHIEL",
         "ATC Artists": [
             "JOHN SURMAN"
-        ]
+        ],
+        "Result Track Name": "Lostwithiel",
+        "Result Artist Names": [
+            "John Surman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5p8BXDO211JLpGlg1PXPtS",
+        "Result Album Name": "Road To Saint Ives"
     },
     {
         "ATC Track": "Sweet Meat",
         "ATC Artists": [
             "Ritual Trio"
-        ]
+        ],
+        "Result Track Name": "Sweet Meat",
+        "Result Artist Names": [
+            "Kahil El Zabar",
+            "Ritual Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:782pVHXaDpFaEc1meXE8EY",
+        "Result Album Name": "Renaissance of the Resistance"
     },
     {
         "Title": "Budget",
@@ -131,7 +198,16 @@
         "ATC Track": "Fallen Star",
         "ATC Artists": [
             "Djivan Gasparyan"
-        ]
+        ],
+        "Result Track Name": "Fallen Star",
+        "Result Artist Names": [
+            "Djivan Gasparyan",
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gnaJ1gjPP4Yh9Ibf0SmMT",
+        "Result Album Name": "Black Rock"
     },
     {
         "Title": "Mexico - Earthquake",
@@ -149,13 +225,29 @@
         "ATC Track": "The Organ Grinder",
         "ATC Artists": [
             "Steve Turre"
-        ]
+        ],
+        "Result Track Name": "The Organ Grinder",
+        "Result Artist Names": [
+            "Steve Turre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33feR5IGDNgiZVC4KAP0g3",
+        "Result Album Name": "Lotus Flower"
     },
     {
         "ATC Track": "TRAVIS TROT",
         "ATC Artists": [
             "MERLE TRAVIS"
-        ]
+        ],
+        "Result Track Name": "Travis Trot - Instrumental",
+        "Result Artist Names": [
+            "Merle Travis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Ld2IaVMBkasz7xnBEOCNQ",
+        "Result Album Name": "Walkin' The Strings"
     },
     {
         "Title": "Neanderthal Cannibals",
@@ -179,7 +271,15 @@
         "ATC Track": "Vamos Companeros",
         "ATC Artists": [
             "Harmonia"
-        ]
+        ],
+        "Result Track Name": "Vamos Companeros",
+        "Result Artist Names": [
+            "Harmonia & Eno '76"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1O1gH45afjZRgWQkPVhxik",
+        "Result Album Name": "Tracks and Traces"
     },
     {
         "Title": "Letters",
@@ -197,6 +297,11 @@
         "ATC Track": "Aquí Como Allá",
         "ATC Artists": [
             "Marc Ribot"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

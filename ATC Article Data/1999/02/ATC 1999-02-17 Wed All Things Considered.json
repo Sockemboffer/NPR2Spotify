@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-02-17",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 19:48:36"
+        "Scanned Date": "2022-02-06 19:48:36",
+        "Playlist URI": "7esBgV9bs2KgMAZAq1dLE4",
+        "Playlist Link": "https://open.spotify.com/playlist/7esBgV9bs2KgMAZAq1dLE4",
+        "Snapshot ID": "MSwzNmVmY2JjYTFkYTUwMGVhMDA1YTFlZGNmMjI0MzhhMzMwMjYyZGYz",
+        "Playlist Name": "ATC 1999-02-17 Wed All Things Considered"
     },
     {
         "Title": "Istanbul",
@@ -28,7 +32,15 @@
         "ATC Track": "Trebakken",
         "ATC Artists": [
             "Knut Hamre and Steve Tibbetts"
-        ]
+        ],
+        "Result Track Name": "Trebakken",
+        "Result Artist Names": [
+            "Knut Hamre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:19yXV4xT5pMpirT1OF5weC",
+        "Result Album Name": "Fargespel"
     },
     {
         "Title": "Other Stories",
@@ -40,7 +52,15 @@
         "ATC Track": "Trebakken",
         "ATC Artists": [
             "Knut Hamre and Steve Tibbetts"
-        ]
+        ],
+        "Result Track Name": "Trebakken",
+        "Result Artist Names": [
+            "Knut Hamre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:19yXV4xT5pMpirT1OF5weC",
+        "Result Album Name": "Fargespel"
     },
     {
         "Title": "Angolan War",
@@ -52,7 +72,15 @@
         "ATC Track": "Summer Night",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Summer Night",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eN0rzXMRYXmXtBkFOXYdI",
+        "Result Album Name": "Quiet Nights"
     },
     {
         "Title": "Frats",
@@ -64,13 +92,29 @@
         "ATC Track": "Deep Blue (Sometimes Green)",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Deep Blue (Sometimes Green)",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CXw7IFkjlf9T3F5CTldhV",
+        "Result Album Name": "Country Soul Guitar"
     },
     {
         "ATC Track": "Deep Blue (Sometimes Green)",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Deep Blue (Sometimes Green)",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CXw7IFkjlf9T3F5CTldhV",
+        "Result Album Name": "Country Soul Guitar"
     },
     {
         "Title": "Grief At Work",
@@ -88,7 +132,12 @@
         "ATC Track": "Adagio in G Minor",
         "ATC Artists": [
             "Stratos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Scriabin",
@@ -124,7 +173,17 @@
         "ATC Track": "One for My Baby (And One More for the Road)",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": "One for My Baby (And One More for the Road) - Instrumental",
+        "Result Artist Names": [
+            "Harold Arlen",
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PUmIKrMADXacmTFHmOXzG",
+        "Result Album Name": "Night & Day: Celebrate Sinatra"
     },
     {
         "Title": "Sinatra Tags",
@@ -142,7 +201,18 @@
         "ATC Track": "You Make Me Feel So Young",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": "You Make Me Feel So Young - Instrumental",
+        "Result Artist Names": [
+            "Josef Myrow",
+            "Mack Gordon",
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LZhcg85YrKSNXweIIMINO",
+        "Result Album Name": "Night & Day: Celebrate Sinatra"
     },
     {
         "Title": "Jasper",
@@ -160,7 +230,15 @@
         "ATC Track": "THE SUSPENSION BRIDGE AT IGUAZU FALLS",
         "ATC Artists": [
             "TORTOISE"
-        ]
+        ],
+        "Result Track Name": "The Suspension Bridge at Iguazú Falls",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oGDihb54BJoYldvjorUXJ",
+        "Result Album Name": "TNT"
     },
     {
         "Title": "S.F. De-Segregation Lawsuit",

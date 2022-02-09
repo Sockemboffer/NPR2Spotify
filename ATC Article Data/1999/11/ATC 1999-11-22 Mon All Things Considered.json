@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-11-22",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:32:50"
+        "Scanned Date": "2022-02-06 19:32:50",
+        "Playlist URI": "3VN66yEfY2LL4en8klLk86",
+        "Playlist Link": "https://open.spotify.com/playlist/3VN66yEfY2LL4en8klLk86",
+        "Snapshot ID": "MSw2ZjJkZjJiMDMyYmM5M2ViNjkxOGQyNzJmOTkzYzYxOTFhNTI5Zjhk",
+        "Playlist Name": "ATC 1999-11-22 Mon All Things Considered"
     },
     {
         "Title": "Ergonomic Standards",
@@ -29,13 +33,29 @@
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "Our Man In Havana",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UrRgnmkrFyDWvOiqYccM9",
+        "Result Album Name": "The Familiar"
     },
     {
         "ATC Track": "the hunch",
         "ATC Artists": [
             "roger eno"
-        ]
+        ],
+        "Result Track Name": "The Hunch",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Oj31h6u4gozE3oGswWcSD",
+        "Result Album Name": "Little Things Left Behind 1988 - 1998"
     },
     {
         "Title": "Clinton in Bulgaria",
@@ -54,14 +74,32 @@
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Children of the Dark",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CUDKNMkhXN67AifWbbaFs",
+        "Result Album Name": "Industry"
     },
     {
         "ATC Track": "Pitfalls",
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Pitfalls",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yf9CjExvcDAqLamZtsLMr",
+        "Result Album Name": "Industry"
     },
     {
         "Title": "Amarillo",
@@ -74,7 +112,12 @@
         "ATC Artists": [
             "TILLMAN",
             "AMBIENT GROOVE ARTISTS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sea Turtles",
@@ -92,7 +135,15 @@
         "ATC Track": "DRIFT",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Drift",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5F5CZpw7TDWDHqjQbrTkyM",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "Title": "Microsoft",
@@ -110,7 +161,17 @@
         "ATC Track": "Sly",
         "ATC Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "Sly",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Nicholas Payton",
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56PzAh70QRuqSxl9EvloZS",
+        "Result Album Name": "Fingerpainting: The Music Of Herbie Hancock"
     },
     {
         "Title": "Detroit Arts Flap",
@@ -122,13 +183,29 @@
         "ATC Track": "That Beautiful Sadness",
         "ATC Artists": [
             "Mark Isham"
-        ]
+        ],
+        "Result Track Name": "That Beautiful Sadness",
+        "Result Artist Names": [
+            "Mark Isham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74AaVihbQA7Bzpj5Jgso0l",
+        "Result Album Name": "Blue Sun"
     },
     {
         "ATC Track": "AN EYE ON THE WORLD",
         "ATC Artists": [
             "MARK ISHAM"
-        ]
+        ],
+        "Result Track Name": "An Eye On The Worlds",
+        "Result Artist Names": [
+            "Mark Isham"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6xYScli6mId1FNUpfPXa9a",
+        "Result Album Name": "Mark Isham"
     },
     {
         "Title": "Laos - MIA's",
@@ -140,13 +217,29 @@
         "ATC Track": "Flux",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Flux - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:6xqqLy96oxzWs36Shemfp5",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "ATC Track": "Paul's Dance",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Paul's Dance",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:1vOBcrV6ZsM1Ps12rTq0cd",
+        "Result Album Name": "Balearic Ambient"
     },
     {
         "Title": "China - Space Race",
@@ -170,7 +263,12 @@
         "ATC Track": "DERDIA DEATH CHANT",
         "ATC Artists": [
             "TERRY RILEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "EgyptAir 990",
@@ -182,13 +280,29 @@
         "ATC Track": "Skirting the Storm",
         "ATC Artists": [
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Skirting The Storm",
+        "Result Artist Names": [
+            "Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1VilIVL36qm7ZkGRP2cowQ",
+        "Result Album Name": "Bittersweet ~ An American Romance"
     },
     {
         "ATC Track": "Instrumental With Mellotron",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Instrumental With Mellotron",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bR4m3zMlXvmxdWIA51k8I",
+        "Result Album Name": "The Closer I Get"
     },
     {
         "Title": "Charlie... Victor... Romeo...",
@@ -200,12 +314,28 @@
         "ATC Track": "Hurricane",
         "ATC Artists": [
             "Glenn Phillips"
-        ]
+        ],
+        "Result Track Name": "Hurricane",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cP4OxQasxaPAu1tlBZKV8",
+        "Result Album Name": "Walking Through Walls"
     },
     {
         "ATC Track": "Lady in the Lake",
         "ATC Artists": [
             "Glenn Phillips"
-        ]
+        ],
+        "Result Track Name": "Lady In The Lake",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1TInnoFZeZsge6267XLjah",
+        "Result Album Name": "Walking Through Walls"
     }
 ]

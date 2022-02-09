@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-05-14",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:43:00"
+        "Scanned Date": "2022-02-06 19:43:00",
+        "Playlist URI": "3XaEU7RaAQMJnFXMyZLFZX",
+        "Playlist Link": "https://open.spotify.com/playlist/3XaEU7RaAQMJnFXMyZLFZX",
+        "Snapshot ID": "MSwzZmM2NzliMDU4ZThhYmE2MDhkYWFmOTVmYTI5MmUzYzE3ZTI3ZmNl",
+        "Playlist Name": "ATC 1999-05-14 Fri All Things Considered"
     },
     {
         "Title": "Pentagon",
@@ -34,7 +38,12 @@
         "ATC Track": "Amanda",
         "ATC Artists": [
             "Vasen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israeli Elex",
@@ -52,7 +61,12 @@
         "ATC Track": "El Niño: Opus 18",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "LOST & FOUND SOUND: CIGAR STORIES -- Actor Andy Garcia narrates",
@@ -64,7 +78,12 @@
         "ATC Track": "Grupo Yarcy",
         "ATC Artists": [
             "Pinareno"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Air Rules Overthrown",
@@ -94,13 +113,30 @@
         "ATC Track": "China Gates",
         "ATC Artists": [
             "Gloria Cheng-Cochran"
-        ]
+        ],
+        "Result Track Name": "China Gates",
+        "Result Artist Names": [
+            "John Adams",
+            "Gloria Cheng"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2VHvYZmRFqvbkclR0MOSxD",
+        "Result Album Name": "Classical Prep School"
     },
     {
         "ATC Track": "They Can't Take That Away from Me",
         "ATC Artists": [
             "Philip DeGruy"
-        ]
+        ],
+        "Result Track Name": "They Can'T Take That Away From Me",
+        "Result Artist Names": [
+            "Philip Degruy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73plJ6COVL0FtaSEAOqFpA",
+        "Result Album Name": "Innuendo Out The Other"
     },
     {
         "Title": "Senate Gun Vote",
@@ -118,13 +154,23 @@
         "ATC Track": "Tomorrow Never Knows",
         "ATC Artists": [
             "Bozo Allegro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Aunt Lila's Suite: Complementary Colors, Opus 17",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Swordboat",
@@ -136,13 +182,23 @@
         "ATC Track": "Rocking Horse's Dance",
         "ATC Artists": [
             "Hege Rimestad"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Elephant Walk",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "House China Report",
@@ -154,7 +210,12 @@
         "ATC Track": "Lincolnshire Posy: the Brisk Young Sailor",
         "ATC Artists": [
             "Mississippi Wind Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Joan D'Arc",
@@ -166,12 +227,22 @@
         "ATC Track": "Lincolnshire Posy: the Brisk Young Sailor",
         "ATC Artists": [
             "Mississippi Wind Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lyrical Waltz",
         "ATC Artists": [
             "The Saexophones"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

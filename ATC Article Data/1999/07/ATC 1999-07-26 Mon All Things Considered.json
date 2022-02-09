@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-07-26",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 19:40:27"
+        "Scanned Date": "2022-02-06 19:40:27",
+        "Playlist URI": "7Gl6bF9nwb9nxYpgKdNL6c",
+        "Playlist Link": "https://open.spotify.com/playlist/7Gl6bF9nwb9nxYpgKdNL6c",
+        "Snapshot ID": "MSw4N2UxMzY0NDllNGE3NzE1NmFlZmM5MTRlOWEyNDcyZTliMGE0MDNh",
+        "Playlist Name": "ATC 1999-07-26 Mon All Things Considered"
     },
     {
         "Title": "Tax Bill",
@@ -28,13 +32,36 @@
         "ATC Track": "Abide With Me: Blue Monk",
         "ATC Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Abide With Me/ Blue Monk",
+        "Result Artist Names": [
+            "Bill Douglas",
+            "Traditional",
+            "Thelonious Monk",
+            "Richard Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oKRtu4a3TZdXavJsNccKh",
+        "Result Album Name": "Begin Sweet World"
     },
     {
         "ATC Track": "Chorado",
         "ATC Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Chorado",
+        "Result Artist Names": [
+            "Aldir Banc",
+            "Guinga",
+            "Richard Stoltzman",
+            "Dave Samuels",
+            "Kalmen Opperman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7o0E2n9L7cl7kkLfOQb5rz",
+        "Result Album Name": "Dreams"
     },
     {
         "Title": "Kosovo",
@@ -46,13 +73,23 @@
         "ATC Track": "RIVER MOURNE",
         "ATC Artists": [
             "ROBERT CARRIKER"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "A CROOKED PATH",
         "ATC Artists": [
             "ROBERT CARRIKER"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Genome",
@@ -64,7 +101,17 @@
         "ATC Track": "Sly",
         "ATC Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "Sly",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Nicholas Payton",
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56PzAh70QRuqSxl9EvloZS",
+        "Result Album Name": "Fingerpainting: The Music Of Herbie Hancock"
     },
     {
         "Title": "Fax Faulkner Reading",
@@ -78,13 +125,29 @@
             "john harle",
             "sax",
             "albany symphony orchestra conducted by david alan miller"
-        ]
+        ],
+        "Result Track Name": "Saxophone Concerto: I",
+        "Result Artist Names": [
+            "Michael Torke",
+            "John Harle",
+            "Albany Symphony Orchestra",
+            "David Alan Miller"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8421052631578947,
+        "Result Track URI": "spotify:track:4cjzPsm87DeGqxfHwBXc0t",
+        "Result Album Name": "Sax Drive - Myers, Bennett & Torke: Saxophone Concertos"
     },
     {
         "ATC Track": "Great Green Sea Snake",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<i>East of Eden</i>",
@@ -102,13 +165,23 @@
         "ATC Track": "Newport, Rhode Island",
         "ATC Artists": [
             "Benjamin Verdery"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Capitola, California",
         "ATC Artists": [
             "Benjamin Verdery"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Heatwave",
@@ -138,13 +211,29 @@
         "ATC Track": "JULIE-O",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Julie-O",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LouPkBV9O3DNg7EuXDiYC",
+        "Result Album Name": "Metropolis"
     },
     {
         "ATC Track": "THE GREAT WALTZ OF CHINA",
         "ATC Artists": [
             "CHILDSPLAY"
-        ]
+        ],
+        "Result Track Name": "The Great Waltz of China",
+        "Result Artist Names": [
+            "Childsplay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iPoCCAMFv3tMXsubZKeWV",
+        "Result Album Name": "The Great Waltz"
     },
     {
         "Title": "Vietnam",
@@ -162,7 +251,15 @@
         "ATC Track": "BUSTER KEATON",
         "ATC Artists": [
             "CHILDSPLAY"
-        ]
+        ],
+        "Result Track Name": "Buster Keaton",
+        "Result Artist Names": [
+            "Childsplay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63HHYrVNOso2qZ9ysjmP3v",
+        "Result Album Name": "The Great Waltz"
     },
     {
         "Title": "Mideast Peace",
@@ -181,7 +278,15 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Baby's Got Sauce",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MXK7DwU1DpGFTA31AZW6S",
+        "Result Album Name": "G. Love And Special Sauce"
     },
     {
         "Title": "NEJM Editor",
@@ -193,13 +298,26 @@
         "ATC Track": "Sapphire",
         "ATC Artists": [
             "Bill Douglas"
-        ]
+        ],
+        "Result Track Name": "Sapphire",
+        "Result Artist Names": [
+            "Bill Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Gi0T6dhDqbE13tutfB98X",
+        "Result Album Name": "Kaleidoscope"
     },
     {
         "ATC Track": "Darkness",
         "ATC Artists": [
             "Trio Globo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Yosemite Murder",
@@ -212,7 +330,16 @@
         "ATC Artists": [
             "THE BRASS PROJECT (JOHN SURMAN",
             "JOHN WARREN)"
-        ]
+        ],
+        "Result Track Name": "Wider Vision",
+        "Result Artist Names": [
+            "John Surman",
+            "John Warren"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:7MP8Z9TW5yFYRjEP5aE31B",
+        "Result Album Name": "The Brass Project"
     },
     {
         "Title": "Harmonica Across Geogia",
@@ -224,6 +351,11 @@
         "ATC Track": "Ornithology",
         "ATC Artists": [
             "Toots Thielemans"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-07-30",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:40:40"
+        "Scanned Date": "2022-02-06 19:40:40",
+        "Playlist URI": "0REXeo0twNrD566Hdfz5Lf",
+        "Playlist Link": "https://open.spotify.com/playlist/0REXeo0twNrD566Hdfz5Lf",
+        "Snapshot ID": "MSxmZThiNmRkNDMyYThjZGFhYzU2NDE3NmU2OGY5NTZhZGMwNDA0OWM3",
+        "Playlist Name": "ATC 1999-07-30 Fri All Things Considered"
     },
     {
         "Title": "Tax Bill Vote",
@@ -16,7 +20,12 @@
         "ATC Track": "MILLENNIUM'S END",
         "ATC Artists": [
             "JEFF MCDONALD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Conferees",
@@ -40,7 +49,15 @@
         "ATC Track": "VALLEY OF THE SAROOS",
         "ATC Artists": [
             "THE BLUE MEN"
-        ]
+        ],
+        "Result Track Name": "Valley of the Saroos",
+        "Result Artist Names": [
+            "Joe Meek & the Blue Men"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:212HEn4jH3E8vgRoLjghMn",
+        "Result Album Name": "I Hear a New World: An Outer Space Music Fantasy"
     },
     {
         "Title": "Detainee",
@@ -58,7 +75,15 @@
         "ATC Track": "Snorkel",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Snorkel",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31nRdOt2oJmsJ3UJPLh9Sp",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "My Son Has M.S.",
@@ -71,7 +96,15 @@
         "ATC Artists": [
             "BARRY PHILLIP",
             "WILLIAM COULTER"
-        ]
+        ],
+        "Result Track Name": "Tree Of Life",
+        "Result Artist Names": [
+            "William Coulter & Barry Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3zcawkupXVL1FQto3VlOTw",
+        "Result Album Name": "Tree Of Life"
     },
     {
         "Title": "New Jersey Drought",
@@ -83,13 +116,31 @@
         "ATC Track": "Michigan Water Blues",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": "Michigan Water Blues",
+        "Result Artist Names": [
+            "Butch Thompson",
+            "Chet Ely"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vIwRjRzgTbgzB3fZUmUXD",
+        "Result Album Name": "Mr. Jelly Rolls On"
     },
     {
         "ATC Track": "Snake Eyes",
         "ATC Artists": [
             "Steve Roach"
-        ]
+        ],
+        "Result Track Name": "Snake Eyes",
+        "Result Artist Names": [
+            "Steve Roach",
+            "Roger King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14vg6u3vlYXyqflkpy1MVV",
+        "Result Album Name": "Dust To Dust"
     },
     {
         "Title": "Atlanta Killings",
@@ -113,7 +164,15 @@
         "ATC Track": "Silent Hills",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Silent Hills",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39VjCKkk4AqFAFp4ZAwiUt",
+        "Result Album Name": "Lanterna"
     },
     {
         "Title": "Kennedy Plane Update",
@@ -131,14 +190,31 @@
         "ATC Track": "Dark Spring",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Dark Spring",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rfRQcSbcIag6AD9UClLre",
+        "Result Album Name": "Lanterna"
     },
     {
         "ATC Track": "How Deep Is the Ocean?",
         "ATC Artists": [
             "Doc Cheatham",
             "Nicholas Payton"
-        ]
+        ],
+        "Result Track Name": "How Deep Is The Ocean?",
+        "Result Artist Names": [
+            "Doc Cheatham",
+            "Nicholas Payton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Lpial1Fd09ltohr6vjABb",
+        "Result Album Name": "Doc Cheatham & Nicholas Payton"
     },
     {
         "Title": "Benjamin Smith",
@@ -156,13 +232,23 @@
         "ATC Track": "The Flirt, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "CHORO",
         "ATC Artists": [
             "TOM MC DERMOTT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<i>Twin Falls Idaho</i>",
@@ -180,12 +266,22 @@
         "ATC Track": "Comedian's Galop",
         "ATC Artists": [
             "The Make Believe Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Mancini Medley",
         "ATC Artists": [
             "The Make Believe Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

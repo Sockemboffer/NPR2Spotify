@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-08-17",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 19:37:33"
+        "Scanned Date": "2022-02-06 19:37:33",
+        "Playlist URI": "4MMnKN400FcLzjpBCoO7ky",
+        "Playlist Link": "https://open.spotify.com/playlist/4MMnKN400FcLzjpBCoO7ky",
+        "Snapshot ID": "MSw1M2Y4ZDU5MDhlZDRjNjE5M2UzMWU0NTA1ODgwZmUzNWZlYTk5MTk2",
+        "Playlist Name": "ATC 1999-08-17 Tue All Things Considered"
     },
     {
         "Title": "Turkey Quake",
@@ -28,7 +32,12 @@
         "ATC Track": "BHAJI ON THE BEACH",
         "ATC Artists": [
             "TERRA COTTA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Consumer Price Index",
@@ -46,13 +55,29 @@
         "ATC Track": "Fela the Conqueror",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Fela The Conqueror",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0fH8eEQI2ATLTM7sCs8H2n",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "ATC Track": "L' Espionnage Pomme de Terre",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "L'Espionnage Pomme De Terre",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OKx6bx6jl3WmWgjnzN7Sh",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Martin Frankel",
@@ -94,13 +119,26 @@
         "ATC Track": "MISCALCULATION",
         "ATC Artists": [
             "MICHAEL BROOK"
-        ]
+        ],
+        "Result Track Name": "Miscalculation",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rBuaiLCRySfE0cOQwEXzy",
+        "Result Album Name": "Albino Alligator"
     },
     {
         "ATC Track": "EL IS A SOUND OF JOY",
         "ATC Artists": [
             "YOUR NEIGHBORHOOD SAXOPHONE QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Osteoporosis",
@@ -120,7 +158,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Chinoiserie",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JG7jFkBSImpa0wRWltnk5",
+        "Result Album Name": "Friday Afternoon In The Universe"
     },
     {
         "Title": "LA Smog",
@@ -144,7 +190,16 @@
         "ATC Track": "FLY DRIVE",
         "ATC Artists": [
             "MICHAEL NYMAN"
-        ]
+        ],
+        "Result Track Name": "Carrington: Fly Drive",
+        "Result Artist Names": [
+            "Michael Nyman",
+            "Valentina Lisitsa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0AKoKjDhquzv5lJHB2rBlh",
+        "Result Album Name": "Landscapes: Minimalism"
     },
     {
         "Title": "Kind of Blue",

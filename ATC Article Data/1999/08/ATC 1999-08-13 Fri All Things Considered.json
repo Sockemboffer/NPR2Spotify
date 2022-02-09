@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "1999-08-13",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 19:37:16"
+        "Scanned Date": "2022-02-06 19:37:16",
+        "Playlist URI": "57NqiNbKgx8fBIgkcRoHre",
+        "Playlist Link": "https://open.spotify.com/playlist/57NqiNbKgx8fBIgkcRoHre",
+        "Snapshot ID": "MSwwYTQ5MDYwNzdjZjAyMGNkMzNkMzllYjUzNGQxYmFhMDZiZTk1Nzcx",
+        "Playlist Name": "ATC 1999-08-13 Fri All Things Considered"
     },
     {
         "Title": "Buford O. Furrow",
@@ -22,7 +26,15 @@
         "ATC Track": "Trust Your Wings",
         "ATC Artists": [
             "Øystein Sevåg"
-        ]
+        ],
+        "Result Track Name": "Trust Your Wings",
+        "Result Artist Names": [
+            "ØYSTEIN SEVÅG"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lpnJj7H5mlLSkuHZaQYCt",
+        "Result Album Name": "Link"
     },
     {
         "Title": "Tax Cuts at Home",
@@ -52,13 +64,23 @@
         "ATC Track": "Prélude, for piano (Suite Bergamasque No. 1), L. 75/1",
         "ATC Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "JANIBAR DI PANWAN CHANKAR",
         "ATC Artists": [
             "LES MISERABLES BRASS BAND"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Straw Poll",
@@ -76,7 +98,12 @@
         "ATC Track": "The President's March",
         "ATC Artists": [
             "The Chestnut Brass Company"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "China Tension",
@@ -106,6 +133,14 @@
         "ATC Track": "RIGHT AS THE RAIN",
         "ATC Artists": [
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": "Right As The Rain",
+        "Result Artist Names": [
+            "Dick Hyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KejJpIO6HJxgswB9h7roE",
+        "Result Album Name": "Blues in the Night: Dick Hyman Plays Harold Arlen"
     }
 ]
