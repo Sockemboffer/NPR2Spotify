@@ -16,9 +16,6 @@ from NPRPlaylistCreator import NPRPlaylistCreator
 # TODO Create a dependiencies manifest.
 # TODO Make more pythonic all around.
 # TODO Automate to run daily.
-# TODO Figure out how best to track emailed corrections that I recieve.
-    # TODO Probably use twitter instead, email is boring.
-# TODO Correct days with no interludes not using the correct discription
 # TODO catch and handle badgateway error that happens seldomly
 # TODO figure out 10054 error with Stopiy
 
@@ -60,6 +57,7 @@ def createLeftOffDate(today: datetime, projectName: str):
 # Weekend edition shows up 1998 Jan
 # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # Used to create json output for each day with various article and track data
+# TODO Gotta be a cleaner way than this
 def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
     while leftOffDate <= today:
         leftOffYear = leftOffDate
@@ -103,9 +101,9 @@ def ParseDayLinks(leftOffDate: datetime, today: str, projectName: str):
 
 # Step 3
 # Used to parse a range of dates, load the json for those days, and make playlists on spotify
+# TODO Refactor janky two whiles, messy all around
 def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, user_id):
     startDate = leftOffDate
-    # ATCNPR Rework how path and file are created
     weekendEdition = "Weekend Edition"
     morningEdition = "Morning Edition"
     allThingsConsidered = "All Things Considered"
@@ -198,22 +196,11 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
             print("\n")
     while startDate <= today and projectName == "ATC":
         processedTime = datetime.now()
-        # ATCNPR Rework how path and file are created
         projectPath = projectName + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
         ATCPathFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), allThingsConsidered)
         filename = ATCPathFileName
-        # morningEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), morningEdition)
-        # weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), weekendEdition)
         fileType = ".json"
-        # Load article data from disk
         editionDay = NPRPageParser.LoadJSONFile(projectPath + ATCPathFileName + fileType)
-        # if startDate.weekday() <= 4:
-        #     editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
-        #     filename = morningEditionFileName
-        # else:
-        #     editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
-        #     filename = weekendEditionFileName
-        # check if edition data is present
         if editionDay == None:
             print(">> No data for {0} ".format(startDate.date()))
             startDate = startDate + timedelta(days=+1)
@@ -287,8 +274,8 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
 projectPrefix = "ATC"
 projectName = "All Things Considered"
 user_id = "SPOTIFY_USER_ID_ATC"
-today = datetime(1998, 12, 31)
-leftOffDate = datetime(1997, 1, 1)# createLeftOffDate(today, projectName)
+today = datetime(1999, 12, 31)
+leftOffDate = datetime(1999, 1, 1)# createLeftOffDate(today, projectName)
 # NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectName)
 # ParseDayLinks(leftOffDate, today, projectName)
 # createPlaylists(leftOffDate, today, projectPrefix, user_id)

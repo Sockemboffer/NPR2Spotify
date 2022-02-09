@@ -83,7 +83,6 @@ class NPRPageParser:
             return None
     
     def SaveJSONFile(editionData, path, file):
-        # playlistPath = os.path.join("MoWeEd Article Data/{0}/{1}/MoWeEd {2} {3} {4}.json".format(editionYear, editionMonth, editionDate, editionDay, editionEdition))
         if not os.path.exists(path):
             os.makedirs(path)
         with open(path + file, 'w', encoding='utf-8') as json_file:
@@ -109,6 +108,7 @@ class NPRPageParser:
         return interludes
 
     # Grab all day links for date range entered save back to json file
+    # TODO Clean up
     def NPRArticleLinkCacheCreator(leftOffDate: datetime, projectName: str):
         editionYearLinkCache = dict()
         today = datetime.today()
