@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-11-24",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 20:55:45"
+        "Scanned Date": "2022-02-06 20:55:45",
+        "Playlist URI": "5yiXCV2RGeO3EiSy0prQv1",
+        "Playlist Link": "https://open.spotify.com/playlist/5yiXCV2RGeO3EiSy0prQv1",
+        "Snapshot ID": "MSw4ODUzZTViOTZjZjZmZDE4ZTc5Y2JhNGViNjU1NDVkMzFhZjFiYTE2",
+        "Playlist Name": "ATC 2000-11-24 Fri All Things Considered"
     },
     {
         "Title": "Palm Beach County",
@@ -28,7 +32,15 @@
         "ATC Track": "Rosasolis",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Rosasolis",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0IUzIl53w5sYSy8OMK2MXu",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "Title": "Ebola",
@@ -46,13 +58,33 @@
         "ATC Track": "Benign",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "The Decline of an American String Quartet: Improvisations: Benign",
+        "Result Artist Names": [
+            "Darol Anger",
+            "David Balakrishnan",
+            "Irene Sazer",
+            "Mark Summer",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0INuqAgJGzsJUEf3mujo6A",
+        "Result Album Name": "Turtle Island String Quartet"
     },
     {
         "ATC Track": "Moonlight In Vermont",
         "ATC Artists": [
             "Johnny Smith"
-        ]
+        ],
+        "Result Track Name": "Moonlight in Vermont",
+        "Result Artist Names": [
+            "Johnny Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18CUQDqPQzbtk06xp2TG7A",
+        "Result Album Name": "Moonlight In Vermont"
     },
     {
         "Title": "Lost and Found Sound: The Pan American Blues",
@@ -82,13 +114,29 @@
         "ATC Track": "Vaseline Machine Gun",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Vaseline Machine Gun",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bhNpGL9uKIqN9vCtvafUt",
+        "Result Album Name": "Standing In My Shoes"
     },
     {
         "ATC Track": "What If (If What?)",
         "ATC Artists": [
             "Richard Bone"
-        ]
+        ],
+        "Result Track Name": "What If (If What?)",
+        "Result Artist Names": [
+            "Richard Bone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RSVEfRItnho65NxegapJH",
+        "Result Album Name": "Coxa"
     },
     {
         "Title": "Middle East",
@@ -107,7 +155,15 @@
         "ATC Artists": [
             "Olander",
             "Jim"
-        ]
+        ],
+        "Result Track Name": "Less Taste/More Filling",
+        "Result Artist Names": [
+            "Jim Olander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5uQRxFSc4FbJMlnH80J6eT",
+        "Result Album Name": "Nashville Guitars"
     },
     {
         "Title": "Wen Ho Lee Update",
@@ -137,13 +193,26 @@
         "ATC Track": "Tip of the Icebird",
         "ATC Artists": [
             "Michael Masley"
-        ]
+        ],
+        "Result Track Name": "Tip Of The Icebird",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AVXy4yJs0Cn2z3VM99ezX",
+        "Result Album Name": "Cymbalennium"
     },
     {
         "ATC Track": "Common Objects Strangely Placed",
         "ATC Artists": [
             "Sound Tribe Sector 9"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Christmas Movies",
@@ -155,12 +224,28 @@
         "ATC Track": "Possessed",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Possessed",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Gt6x6v48XFSEnSqNydTrK",
+        "Result Album Name": "Possessed (Reissue)"
     },
     {
         "ATC Track": "A Ghost of a Chance",
         "ATC Artists": [
             "Johnny Smith"
-        ]
+        ],
+        "Result Track Name": "(I Don't Stand A) Ghost of a Chance",
+        "Result Artist Names": [
+            "Johnny Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0XplQEIHV2A0mpI2VdO1ca",
+        "Result Album Name": "Moonlight In Vermont"
     }
 ]

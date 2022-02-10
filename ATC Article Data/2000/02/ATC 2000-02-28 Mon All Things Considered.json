@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-02-28",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:12:02"
+        "Scanned Date": "2022-02-06 21:12:02",
+        "Playlist URI": "3mttKn0vnrmcShKE0PubYu",
+        "Playlist Link": "https://open.spotify.com/playlist/3mttKn0vnrmcShKE0PubYu",
+        "Snapshot ID": "MSxmZWE5NjdhOTE1YzY1ZDRlZGZkODQ5ZTA3NWE5NzVjY2QzYzJhZTkz",
+        "Playlist Name": "ATC 2000-02-28 Mon All Things Considered"
     },
     {
         "Title": "The Real McCain",
@@ -28,13 +32,27 @@
         "ATC Track": "SHARE THE FIRE",
         "ATC Artists": [
             "DAVID HEWITT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "To the River",
         "ATC Artists": [
             "Djivan Gasparyan"
-        ]
+        ],
+        "Result Track Name": "To the River",
+        "Result Artist Names": [
+            "Djivan Gasparyan",
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21bKJwsAbkODbaXSfshp9V",
+        "Result Album Name": "Black Rock"
     },
     {
         "Title": "Hezbollah Profile",
@@ -46,13 +64,29 @@
         "ATC Track": "You Have to Come Back to Me",
         "ATC Artists": [
             "Djivan Gasparyan"
-        ]
+        ],
+        "Result Track Name": "You Have To Come Back To Me",
+        "Result Artist Names": [
+            "Djivan Gasparyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LK7pDCWzKBRGRDGcTrxGB",
+        "Result Album Name": "Moon Shines At Night"
     },
     {
         "ATC Track": "Tonight",
         "ATC Artists": [
             "Djivan Gasparyan"
-        ]
+        ],
+        "Result Track Name": "Tonight",
+        "Result Artist Names": [
+            "Djivan Gasparyan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4PssmB2IHRL7gFbLfmGWCN",
+        "Result Album Name": "Moon Shines At Night"
     },
     {
         "Title": "Weill's 100th",
@@ -70,7 +104,12 @@
         "ATC Track": "PRELUDE 23: ANTHEM",
         "ATC Artists": [
             "EXCELSIOR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wolfson Orbit",
@@ -88,13 +127,29 @@
         "ATC Track": "ADAGIO",
         "ATC Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "Variation 9 - Adagio",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fxnKajzCJTNBzdNi0Y8Yx",
+        "Result Album Name": "The Chopsticks Variations"
     },
     {
         "ATC Track": "BARCAROLE",
         "ATC Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "Variation 11 - Barcarole",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UnOXkbJbgYcKfXJ2nevNH",
+        "Result Album Name": "The Chopsticks Variations"
     },
     {
         "Title": "Politics Wrap",
@@ -112,7 +167,15 @@
         "ATC Track": "Ignition",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Ignition",
+        "Result Artist Names": [
+            "Michael Mendes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5O5lsbFrsi9iH9eeayvMpq",
+        "Result Album Name": "Vision"
     },
     {
         "Title": "Hague Trial",
@@ -124,13 +187,29 @@
         "ATC Track": "AIR FROM FANFARE, AIR AND FINALE",
         "ATC Artists": [
             "WASHINGTON SAXOPHONE QUARTET"
-        ]
+        ],
+        "Result Track Name": "Frackenpohl: from Fanfare, Air and Finale Air",
+        "Result Artist Names": [
+            "Washington Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3okykHO8qRrEgmJASrdAJP",
+        "Result Album Name": "To China and Bach"
     },
     {
         "ATC Track": "HUMPBACK BOOGIE",
         "ATC Artists": [
             "Nuclear Whales Saxophone Orchestra"
-        ]
+        ],
+        "Result Track Name": "Humpback Boogie",
+        "Result Artist Names": [
+            "The Nuclear Whales Saxophone Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KN4tPs2COGFHngOwWvVd0",
+        "Result Album Name": "Thar They Blow"
     },
     {
         "Title": "Mexico - Police Chief Assassinated",
@@ -142,7 +221,15 @@
         "ATC Track": "BLACK CHERRY LOTUS",
         "ATC Artists": [
             "ADAM RUDOLPH'S MOVING PICTURES"
-        ]
+        ],
+        "Result Track Name": "Black Cherry Lotus",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35byOJbYsz99OaL4M0SD3G",
+        "Result Album Name": "Contemplations"
     },
     {
         "Title": "Amtrak",
@@ -154,13 +241,29 @@
         "ATC Track": "Ramblin'",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Ramblin'",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nYflEILgXbkdxuwiDcN9M",
+        "Result Album Name": "Going Back Home"
     },
     {
         "ATC Track": "Ginger Blues",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Ginger Blues",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59YSP8cWc0n0TbmGfJRar5",
+        "Result Album Name": "Going Back Home"
     },
     {
         "Title": "Diabetes",
@@ -178,12 +281,28 @@
         "ATC Track": "Horse",
         "ATC Artists": [
             "Dirty Three"
-        ]
+        ],
+        "Result Track Name": "Last Horse on the Sand",
+        "Result Artist Names": [
+            "Dirty Three"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4k9Qk1XP1fJBcjOZakyu6l",
+        "Result Album Name": "Ocean Songs"
     },
     {
         "ATC Track": "At The Bar",
         "ATC Artists": [
             "Dirty Three"
-        ]
+        ],
+        "Result Track Name": "At the Bar",
+        "Result Artist Names": [
+            "Dirty Three"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VX2GVQ2uEcMDrc5auM7RZ",
+        "Result Album Name": "Horse Stories"
     }
 ]

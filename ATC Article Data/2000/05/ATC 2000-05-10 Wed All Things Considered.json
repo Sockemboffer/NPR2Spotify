@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-05-10",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:05:55"
+        "Scanned Date": "2022-02-06 21:05:55",
+        "Playlist URI": "7ozwKRY67GcVzt91jPrnOA",
+        "Playlist Link": "https://open.spotify.com/playlist/7ozwKRY67GcVzt91jPrnOA",
+        "Snapshot ID": "MSxkODE0OTZjMTc3ZmEwOGY2M2JjZTQwZmNjMjJkOTc0NGE1NTYzNTQx",
+        "Playlist Name": "ATC 2000-05-10 Wed All Things Considered"
     },
     {
         "Title": "Microsoft",
@@ -28,13 +32,27 @@
         "ATC Track": "Chilli Hot",
         "ATC Artists": [
             "Us3"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Los Teenagers Bailan Changui",
         "ATC Artists": [
             "Marc Ribot"
-        ]
+        ],
+        "Result Track Name": "Los Teenagers Bailan Changui",
+        "Result Artist Names": [
+            "Marc Ribot",
+            "Los Cubanos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4kRD4VWpN8t5zDOWgwW29B",
+        "Result Album Name": "Y Los Cubanos Postizos"
     },
     {
         "Title": "Nasdaq",
@@ -52,14 +70,27 @@
         "ATC Track": "SAXHOUSE",
         "ATC Artists": [
             "BILLY TIPTON MEMORIAL SAXOPPHONE QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Can't Be Still",
         "ATC Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Can't Be Still",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:3eZO7NzLaBGmdqQKcYx1Zc",
+        "Result Album Name": "Soul Dressing"
     },
     {
         "Title": "Nis Trial",
@@ -77,13 +108,26 @@
         "ATC Track": "The Good Wife",
         "ATC Artists": [
             "Billy McLaughlin"
-        ]
+        ],
+        "Result Track Name": "The Good Wife",
+        "Result Artist Names": [
+            "Billy McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3191WiDrEknVn4TjXdhpyT",
+        "Result Album Name": "Fingerdance"
     },
     {
         "ATC Track": "The Week Before Easter",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Methodists - Gay Protests",
@@ -101,7 +145,12 @@
         "ATC Track": "We Gather Together",
         "ATC Artists": [
             "The Steeple on the Common"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<i>Deus Lo Volt</i>",
@@ -113,7 +162,12 @@
         "ATC Track": "POHAKULOA",
         "ATC Artists": [
             "MOSES KAHUMOKU"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "China - WTO",
@@ -137,13 +191,29 @@
         "ATC Track": "Trebakken",
         "ATC Artists": [
             "Knut Hamre and Steve Tibbetts"
-        ]
+        ],
+        "Result Track Name": "Trebakken",
+        "Result Artist Names": [
+            "Knut Hamre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:19yXV4xT5pMpirT1OF5weC",
+        "Result Album Name": "Fargespel"
     },
     {
         "ATC Track": "Draggin' the Bow",
         "ATC Artists": [
             "Hot Club of Cowtown"
-        ]
+        ],
+        "Result Track Name": "Draggin' the Bow",
+        "Result Artist Names": [
+            "Hot Club Of Cowtown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7AYadgiW8T7kmimiZ4ZzXx",
+        "Result Album Name": "Western Clambake"
     },
     {
         "Title": "Hurricane Season",
@@ -161,13 +231,30 @@
         "ATC Track": "Gierran (Enchantment)",
         "ATC Artists": [
             "Wimme"
-        ]
+        ],
+        "Result Track Name": "Gierran / Enchantment",
+        "Result Artist Names": [
+            "Wimme"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wEgZPX1oudKEqsRs23KSa",
+        "Result Album Name": "Gierran"
     },
     {
         "ATC Track": "Baby, It's Cold Outside [*]",
         "ATC Artists": [
             "Jimmy Smith"
-        ]
+        ],
+        "Result Track Name": "Baby, It's Cold Outside",
+        "Result Artist Names": [
+            "Jimmy Smith",
+            "Wes Montgomery"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zZGu0CZd3Sifl2GNECXWG",
+        "Result Album Name": "Christmas Cookin'"
     },
     {
         "Title": "Mexico - Presidential Campaign",
@@ -191,7 +278,15 @@
         "ATC Track": "rain stopped play",
         "ATC Artists": [
             "roger eno"
-        ]
+        ],
+        "Result Track Name": "Rain Stopped Play",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ejnanIXJRs1Mko7Dllbia",
+        "Result Album Name": "Little Things Left Behind 1988 - 1998"
     },
     {
         "Title": "Whiskey Fire",
@@ -203,13 +298,29 @@
         "ATC Track": "rain stopped play",
         "ATC Artists": [
             "roger eno"
-        ]
+        ],
+        "Result Track Name": "Rain Stopped Play",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ejnanIXJRs1Mko7Dllbia",
+        "Result Album Name": "Little Things Left Behind 1988 - 1998"
     },
     {
         "ATC Track": "Rye Whiskey",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Rye Whiskey",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DhkRahb0cek1JaRBJBvLK",
+        "Result Album Name": "Cool and Unusual"
     },
     {
         "Title": "Bob Hope's Jokes",
@@ -221,6 +332,14 @@
         "ATC Track": "MOONLIGHT SERENADE",
         "ATC Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": "Moonlight Serenade",
+        "Result Artist Names": [
+            "King Charles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2Ws1hKkPxDM6MMmIKgVc7A",
+        "Result Album Name": "A Volta Ao Mundo, Vol. 5 - No Cinema"
     }
 ]

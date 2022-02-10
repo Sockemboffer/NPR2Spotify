@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-07-12",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:02:31"
+        "Scanned Date": "2022-02-06 21:02:31",
+        "Playlist URI": "2pZBNZL8VnThBppWhwDeV9",
+        "Playlist Link": "https://open.spotify.com/playlist/2pZBNZL8VnThBppWhwDeV9",
+        "Snapshot ID": "MSw3MzE3NTZiZTViN2FmZGM0MGUxYTZmMTVkNDA2ZmNiNzAxMDU4MGI0",
+        "Playlist Name": "ATC 2000-07-12 Wed All Things Considered"
     },
     {
         "Title": "AIDS - Spermicide",
@@ -23,7 +27,12 @@
         "ATC Artists": [
             "Murray Perahia",
             "Piano"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Other Stories",
@@ -41,7 +50,15 @@
         "ATC Track": "Faith in You",
         "ATC Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Faith In You",
+        "Result Artist Names": [
+            "Marc Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0w3Zsv5OQfSGzpJK2caEQ8",
+        "Result Album Name": "'90s Jazz"
     },
     {
         "Title": "Dc Air",
@@ -53,13 +70,29 @@
         "ATC Track": "BOB THE BOB",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mvTcdOP0nx50zpnnhfPdD",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "ATC Track": "GYPSY",
         "ATC Artists": [
             "BOB TELSON"
-        ]
+        ],
+        "Result Track Name": "Gypsy",
+        "Result Artist Names": [
+            "Bob Telson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:730nsrMNBjZe3IHDEwQ5an",
+        "Result Album Name": "Calling You"
     },
     {
         "Title": "Gore - NAACP",
@@ -83,14 +116,28 @@
         "ATC Track": "Bjork",
         "ATC Artists": [
             "Troka"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sonata for Bassoon and Piano - Allegro energico",
         "ATC Artists": [
             "Christopher Millard",
             "bassoon"
-        ]
+        ],
+        "Result Track Name": "Sonata for Bassoon and Piano",
+        "Result Artist Names": [
+            "Christopher Millard",
+            "Rena Sharon, piano"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5Fla4ShJfdDtCyJqQ2UPDD",
+        "Result Album Name": "Duos"
     },
     {
         "Title": "Russia - Taxes - Oligarchs",
@@ -108,13 +155,29 @@
         "ATC Track": "Tuesday Night in Memphis",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Tuesday Night In Memphis",
+        "Result Artist Names": [
+            "John Lurie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ki84MqPIVX2rp5F3qytLu",
+        "Result Album Name": "Mystery Train (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Don't Stop Me Now",
         "ATC Artists": [
             "Peter Whitehead"
-        ]
+        ],
+        "Result Track Name": "Don't Stop Me Now",
+        "Result Artist Names": [
+            "Peter Whitehead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7p6Lj1Kx2BzitQOc96gLDp",
+        "Result Album Name": "Three Bags Full"
     },
     {
         "Title": "Middle East Summit",
@@ -132,7 +195,15 @@
         "ATC Track": "Soshu Night Serenade",
         "ATC Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "Soshu Night Serenade",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xcRwdazObX9KRXd5jBLLd",
+        "Result Album Name": "Exotica Volume II"
     },
     {
         "Title": "Esmerelda",
@@ -144,7 +215,15 @@
         "ATC Track": "Let's Do the Monkeywalk",
         "ATC Artists": [
             "Monkeyworks"
-        ]
+        ],
+        "Result Track Name": "Let's Do The MonkeyWalk",
+        "Result Artist Names": [
+            "Monkeyworks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42lGSKM9fNhfAdnP6cKt80",
+        "Result Album Name": "Monkeyworks"
     },
     {
         "Title": "Cornea Growth",
@@ -162,7 +241,12 @@
         "ATC Track": "At Midnight, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Meridian",
@@ -170,7 +254,15 @@
             "Phillips",
             "Grier",
             "Flinner"
-        ]
+        ],
+        "Result Track Name": "Meridian",
+        "Result Artist Names": [
+            "Phillips, Grier & Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76WlyQ3ifF2ZsCT836U26V",
+        "Result Album Name": "Phillips, Grier & Flinner"
     },
     {
         "Title": "AIDS Vaccine",
@@ -182,14 +274,30 @@
         "ATC Track": "Canadian Sunset",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Canadian Sunset",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:49avoIScP7jqmoj8u3qc62",
+        "Result Album Name": "Danny Gatton Live in 1977 - The Humbler Stakes His Claim"
     },
     {
         "ATC Track": "The Wedge",
         "ATC Artists": [
             "Dick Dale",
             "the Del-Tones"
-        ]
+        ],
+        "Result Track Name": "The Wedge",
+        "Result Artist Names": [
+            "Dick Dale and his Del-Tones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:25VZaKd3X5W0I044e4fbtD",
+        "Result Album Name": "Wild Ideas"
     },
     {
         "Title": "Pitchers",
@@ -208,12 +316,28 @@
         "ATC Artists": [
             "Ian Whitcomb",
             "His Dance Band"
-        ]
+        ],
+        "Result Track Name": "Love Letters In The Sand - Live",
+        "Result Artist Names": [
+            "Ian Whitcomb & His Dance Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nXR7kaE5BOz0ponficweS",
+        "Result Album Name": "Happy Days Are Here Again"
     },
     {
         "ATC Track": "flip flop and bop",
         "ATC Artists": [
             "FLOYD CRAmer"
-        ]
+        ],
+        "Result Track Name": "Flip Flop and Bop",
+        "Result Artist Names": [
+            "Floyd Cramer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NMRdFEDXeRcHVYTGFQNZ6",
+        "Result Album Name": "The Essential Floyd Cramer"
     }
 ]

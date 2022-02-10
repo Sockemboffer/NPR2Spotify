@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-05-25",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:06:48"
+        "Scanned Date": "2022-02-06 21:06:48",
+        "Playlist URI": "0h3D1oHQzBa8RtHB6xptux",
+        "Playlist Link": "https://open.spotify.com/playlist/0h3D1oHQzBa8RtHB6xptux",
+        "Snapshot ID": "MSwzZmMyNjVlYjliZjcxMDEyZGU0NWY3NTUwZTgzYjUzOTY4YWY4YTVm",
+        "Playlist Name": "ATC 2000-05-25 Thu All Things Considered"
     },
     {
         "Title": "Arsenic in Water",
@@ -28,14 +32,31 @@
         "ATC Track": "Alicia",
         "ATC Artists": [
             "Love Spirals Downwards"
-        ]
+        ],
+        "Result Track Name": "Alicia",
+        "Result Artist Names": [
+            "Love Spirals Downwards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71nFvJm0bdxc9ecp1UHjQj",
+        "Result Album Name": "Flux"
     },
     {
         "ATC Track": "Old Joe Clark",
         "ATC Artists": [
             "Speedy West",
             "Jimmy Bryant"
-        ]
+        ],
+        "Result Track Name": "Old Joe Clark",
+        "Result Artist Names": [
+            "Jimmy Bryant",
+            "Speedy West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7oKnZC2D0wYeenBq8UydMN",
+        "Result Album Name": "2 Guitars Country Style"
     },
     {
         "Title": "On the Road with McCain",
@@ -47,13 +68,26 @@
         "ATC Track": "Memphis the Majestic March",
         "ATC Artists": [
             "Great American Main St. Band"
-        ]
+        ],
+        "Result Track Name": "Liberty Horses Memphis The Majestic March",
+        "Result Artist Names": [
+            "The Great American Main Street Band"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:6Qwwrt5EEtTcTvjjQqBjgl",
+        "Result Album Name": "Under The Big Top"
     },
     {
         "ATC Track": "MR. HAPPY SOCA",
         "ATC Artists": [
             "MAMBO COMBO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lockerbie",
@@ -77,13 +111,27 @@
         "ATC Track": "Crowsong",
         "ATC Artists": [
             "Crowsong"
-        ]
+        ],
+        "Result Track Name": "Don't Be Feeling Bad for Me (feat. Bryn Crowsong)",
+        "Result Artist Names": [
+            "Asliani",
+            "Bryn Crowsong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nS5Yc01lkR1lmCmghNE7X",
+        "Result Album Name": "Medicina"
     },
     {
         "ATC Track": "Days of Depature",
         "ATC Artists": [
             "Scott Huckabay"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Security Goofs",
@@ -95,7 +143,12 @@
         "ATC Track": "The Killer",
         "ATC Artists": [
             "Lalo Schifrin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "INS - Dogs",
@@ -107,13 +160,31 @@
         "ATC Track": "MINUET, ALLEGRETTO",
         "ATC Artists": [
             "LEO EIDE"
-        ]
+        ],
+        "Result Track Name": "6 Minuets, WoO 10 (arr. for whistle and piano): Minuet. Allegretto",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Leo Eide",
+            "Håkan Sund"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zKlQHrL2BUC1XiDO0FoGq",
+        "Result Album Name": "Eide, Leo: Whistling Virtuoso"
     },
     {
         "ATC Track": "Buckaroo",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Buckaroo - Radio Edit",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GAStRSWVuT0g6Fsb9w6wR",
+        "Result Album Name": "Lava"
     },
     {
         "Title": "Internet Privacy",
@@ -137,7 +208,15 @@
         "ATC Track": "Funky Mama",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Funky Mama",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1niXkRpLWHCHuO4qC7sl93",
+        "Result Album Name": "88 Elmira St."
     },
     {
         "Title": "Lebanon",
@@ -155,13 +234,26 @@
         "ATC Track": "Emitter",
         "ATC Artists": [
             "Anything Box"
-        ]
+        ],
+        "Result Track Name": "Emitter",
+        "Result Artist Names": [
+            "Anything Box"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hj4KfkOD5OwZgLnzh18aj",
+        "Result Album Name": "Elektrodelica"
     },
     {
         "ATC Track": "DOWNTOWN, SUMMER STORM",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "DNA Evidence",
@@ -173,7 +265,16 @@
         "ATC Track": "MARTIN MARTIN",
         "ATC Artists": [
             "MOUTH MUSIC"
-        ]
+        ],
+        "Result Track Name": "Martin Martin",
+        "Result Artist Names": [
+            "Mouth Music",
+            "Talitha Mackenzie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5stKOi64ooNSgx6o6IDv4C",
+        "Result Album Name": "Mouth Music"
     },
     {
         "Title": "Oral Health",
@@ -191,12 +292,28 @@
         "ATC Track": "MOVIN'",
         "ATC Artists": [
             "BRASS CONSTRUCTION"
-        ]
+        ],
+        "Result Track Name": "Movin'",
+        "Result Artist Names": [
+            "Brass Construction"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1plCuPFkEbc05PB9np0q1P",
+        "Result Album Name": "Brass Construction"
     },
     {
         "ATC Track": "Solace",
         "ATC Artists": [
             "Joshua Rifkin"
-        ]
+        ],
+        "Result Track Name": "Solace (Mexican Serenade) - Remastered",
+        "Result Artist Names": [
+            "Joshua Rifkin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jKZtpz4LdA5B2UyEC9nfD",
+        "Result Album Name": "Scott Joplin: Digital Ragtime/Wall Street Rag (Remastered)"
     }
 ]

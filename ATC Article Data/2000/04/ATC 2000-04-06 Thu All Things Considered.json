@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-04-06",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:07:27"
+        "Scanned Date": "2022-02-06 21:07:27",
+        "Playlist URI": "01MQjgQyiUdyfSYXGkfBfd",
+        "Playlist Link": "https://open.spotify.com/playlist/01MQjgQyiUdyfSYXGkfBfd",
+        "Snapshot ID": "MSxhYjg0ZWM5ZmM1ODQwM2I4MGJlYzAxNWQxMzY5NDBhNjlhNTY1YzU2",
+        "Playlist Name": "ATC 2000-04-06 Thu All Things Considered"
     },
     {
         "Title": "Genome Jigsaw",
@@ -28,7 +32,15 @@
         "ATC Track": "Yodel 1",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Yodel 1 - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0EGgkbkXhMWECLSegbv0yl",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "Title": "Urban Entrepreneurs",
@@ -46,7 +58,12 @@
         "ATC Track": "Slippery Fingers Oberek-The Bay State IV",
         "ATC Artists": [
             "Billy Belina"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "INS - Part Three",
@@ -64,7 +81,12 @@
         "ATC Track": "Interplay for Mandolin Quartet and Violin/Shoka",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israel Army Mishap",
@@ -76,7 +98,12 @@
         "ATC Track": "Interplay for Mandolin Quartet and Violin/Shoka",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "T'ai Chi",
@@ -89,13 +116,31 @@
         "ATC Artists": [
             "Christian McBride",
             "Nicholas Payton et. al."
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Nicholas Payton",
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5p4OgIrRTa4pfAfAcKwZ1u",
+        "Result Album Name": "Fingerpainting: The Music Of Herbie Hancock"
     },
     {
         "ATC Track": "BOB THE BOB",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mvTcdOP0nx50zpnnhfPdD",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "Elian",
@@ -119,13 +164,29 @@
         "ATC Track": "THE CAT",
         "ATC Artists": [
             "JOHNNY GRIFFIN"
-        ]
+        ],
+        "Result Track Name": "The Cat",
+        "Result Artist Names": [
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KWiaYlVCqnixrKd5q88pS",
+        "Result Album Name": "The Cat"
     },
     {
         "ATC Track": "Scenes from a Marriage",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Scenes From A Marriage",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bZarvk8WKw9l6O9tfd24d",
+        "Result Album Name": "Grace Under Pressure"
     },
     {
         "Title": "Independent Counsel - Herman",
@@ -143,7 +204,15 @@
         "ATC Track": "Faith in You",
         "ATC Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Faith In You",
+        "Result Artist Names": [
+            "Marc Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0w3Zsv5OQfSGzpJK2caEQ8",
+        "Result Album Name": "'90s Jazz"
     },
     {
         "Title": "Autism",
@@ -155,13 +224,26 @@
         "ATC Track": "Ich ruf zu dir, Herr Jesu Christ (I), chorale prelude for organ (Orgel-Büchlein No. 41), BWV 639 (BC K68)",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Thunder Road/Sugarfoot Rag",
         "ATC Artists": [
             "Doc Watson"
-        ]
+        ],
+        "Result Track Name": "Thunder Road / Sugarfoot Rag",
+        "Result Artist Names": [
+            "Doc Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BPC2nRjgxbyBIfF3XXGIh",
+        "Result Album Name": "Docabilly"
     },
     {
         "Title": "Lee Petty Obit",
@@ -173,7 +255,15 @@
         "ATC Track": "'Round Midnight",
         "ATC Artists": [
             "Bill Evans"
-        ]
+        ],
+        "Result Track Name": "'Round Midnight",
+        "Result Artist Names": [
+            "Bill Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42JpjR446ovy3s9Mf9sD4N",
+        "Result Album Name": "Conversations With Myself"
     },
     {
         "Title": "Papas Fritas",
@@ -185,6 +275,14 @@
         "ATC Track": "Perfidia",
         "ATC Artists": [
             "The Ventures"
-        ]
+        ],
+        "Result Track Name": "Perfidia",
+        "Result Artist Names": [
+            "The Ventures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7DRwkerriaXA6OCF6H7oqM",
+        "Result Album Name": "The Ventures"
     }
 ]

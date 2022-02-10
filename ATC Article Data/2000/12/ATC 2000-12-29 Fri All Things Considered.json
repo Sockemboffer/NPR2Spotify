@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-29",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 20:54:05"
+        "Scanned Date": "2022-02-06 20:54:05",
+        "Playlist URI": "3WqUhXhCQdNSXruxmrH7Dj",
+        "Playlist Link": "https://open.spotify.com/playlist/3WqUhXhCQdNSXruxmrH7Dj",
+        "Snapshot ID": "MSw5MmU3MzQ2YmQxY2QyMTIzNWUwN2Q5MDY1MGI0YzBmNjU1NWJlMjBk",
+        "Playlist Name": "ATC 2000-12-29 Fri All Things Considered"
     },
     {
         "Title": "Appointments",
@@ -28,13 +32,31 @@
         "ATC Track": "Dark Spring",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Dark Spring",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rfRQcSbcIag6AD9UClLre",
+        "Result Album Name": "Lanterna"
     },
     {
         "ATC Track": "MINUET, ALLEGRETTO",
         "ATC Artists": [
             "LEO EIDE"
-        ]
+        ],
+        "Result Track Name": "6 Minuets, WoO 10 (arr. for whistle and piano): Minuet. Allegretto",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Leo Eide",
+            "Håkan Sund"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zKlQHrL2BUC1XiDO0FoGq",
+        "Result Album Name": "Eide, Leo: Whistling Virtuoso"
     },
     {
         "Title": "Lost and Found Sound: Loons",
@@ -52,13 +74,29 @@
         "ATC Track": "Pacific",
         "ATC Artists": [
             "Lynn Patrick"
-        ]
+        ],
+        "Result Track Name": "Pacific",
+        "Result Artist Names": [
+            "Lynn Patrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4E8VZSBrGQsXYUbYAkZPp2",
+        "Result Album Name": "Winnie's Guitar"
     },
     {
         "ATC Track": "in a hurry",
         "ATC Artists": [
             "christian mcbride"
-        ]
+        ],
+        "Result Track Name": "In A Hurry",
+        "Result Artist Names": [
+            "Christian McBride"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wKy02EkLv221c0NwxKByQ",
+        "Result Album Name": "Gettin' To It"
     },
     {
         "Title": "New York/New Jersey Trash Fight",
@@ -76,13 +114,34 @@
         "ATC Track": "Requiem for Hartford Ave.",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Requiem for Hartford Ave. (feat. Jef Lee Johnson, Marc Ribot, Jamaaladeen Tacuma & G. Calvin Weston)",
+        "Result Artist Names": [
+            "James Carter",
+            "G. Calvin Weston",
+            "Jamaaladeen Tacuma",
+            "Jef Lee Johnson",
+            "Marc Ribot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1JT036QsCj5hLz1DRCsGul",
+        "Result Album Name": "Layin' In The Cut"
     },
     {
         "ATC Track": "Snake Eyes",
         "ATC Artists": [
             "Steve Roach"
-        ]
+        ],
+        "Result Track Name": "Snake Eyes",
+        "Result Artist Names": [
+            "Steve Roach",
+            "Roger King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14vg6u3vlYXyqflkpy1MVV",
+        "Result Album Name": "Dust To Dust"
     },
     {
         "Title": "Shadow of the Vampire",
@@ -100,7 +159,15 @@
         "ATC Track": "SAINTS DELIGHT",
         "ATC Artists": [
             "BARRY AND SHELLEY PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Saints Delight",
+        "Result Artist Names": [
+            "Barry and Shelley Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7xsVJfFLNS2fdYdw2Ap064",
+        "Result Album Name": "Wondrous Love"
     },
     {
         "Title": "Thompson's Challenge",
@@ -124,7 +191,15 @@
         "ATC Track": "Come With Me",
         "ATC Artists": [
             "Carl Weingarten"
-        ]
+        ],
+        "Result Track Name": "Come with Me",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kLLuTCWNSQ5bBTjSX7fgK",
+        "Result Album Name": "Blue Faith"
     },
     {
         "Title": "Breast Cancer",
@@ -142,13 +217,29 @@
         "ATC Track": "Oscar Tango",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Oscar Tango",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:3y2Hurk0o8XwPQHd1PVhbD",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "ATC Track": "Minute Waltz",
         "ATC Artists": [
             "Patrick Sheridan"
-        ]
+        ],
+        "Result Track Name": "Minute Waltz",
+        "Result Artist Names": [
+            "Patrick Sheridan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lYaWW9IxpO7pn8cdYEo1E",
+        "Result Album Name": "Bon Bons"
     },
     {
         "Title": "Airline Drama",
@@ -172,13 +263,29 @@
         "ATC Track": "SUITE NO. 2 IN D, BWV 1068: GIGUE",
         "ATC Artists": [
             "WASHINGTON SAXOPHONE QUARTET"
-        ]
+        ],
+        "Result Track Name": "Bach: Suite No. 3 in D: (Gigue)",
+        "Result Artist Names": [
+            "Washington Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4adWpu3Y1vUS8u0sAllO5R",
+        "Result Album Name": "To China and Bach"
     },
     {
         "ATC Track": "St. Louis Blues",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "St. Louis Blues",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5CLj17X0Dh6amugItMGn9Z",
+        "Result Album Name": "Bug Music"
     },
     {
         "Title": "Opera Legend",
@@ -190,6 +297,11 @@
         "ATC Track": "It Don't Mean a Thing (If It Ain't Got That Swing)",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

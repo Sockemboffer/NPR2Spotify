@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-25",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 20:53:50"
+        "Scanned Date": "2022-02-06 20:53:50",
+        "Playlist URI": "7H9d4W70ngK80SwdNcy2NX",
+        "Playlist Link": "https://open.spotify.com/playlist/7H9d4W70ngK80SwdNcy2NX",
+        "Snapshot ID": "MSwxZGM2OTU4NmIxNTUzODhmOTRlZTA2MTg1M2VmNDI2YzZlNTlmMmZl",
+        "Playlist Name": "ATC 2000-12-25 Mon All Things Considered"
     },
     {
         "Title": "Electricity",
@@ -28,7 +32,16 @@
         "ATC Track": "Fallen Star",
         "ATC Artists": [
             "Djivan Gasparyan"
-        ]
+        ],
+        "Result Track Name": "Fallen Star",
+        "Result Artist Names": [
+            "Djivan Gasparyan",
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gnaJ1gjPP4Yh9Ibf0SmMT",
+        "Result Album Name": "Black Rock"
     },
     {
         "Title": "Indonesia",
@@ -65,14 +78,24 @@
         "ATC Artists": [
             "Butch Thompson",
             "Laura Sewell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "At the Christmas Ball",
         "ATC Artists": [
             "Butch Thompson",
             "Laura Sewell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Changing Face of Church, Part I",
@@ -84,7 +107,15 @@
         "ATC Track": "O COME, O COME, EMMANUEL",
         "ATC Artists": [
             "GREGG MINER"
-        ]
+        ],
+        "Result Track Name": "O Come, O Come, Emmanuel",
+        "Result Artist Names": [
+            "Gregg Miner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uDtwjeaFFfTn4TSBECalD",
+        "Result Album Name": "A Christmas Collection: Vol 1 & 2"
     },
     {
         "Title": "Changing Face of Church, Part II",
@@ -96,7 +127,15 @@
         "ATC Track": "We Three Kings",
         "ATC Artists": [
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "We Three Kings",
+        "Result Artist Names": [
+            "Mike Marshall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0b4fJFeJHvSpnQZhKMQew2",
+        "Result Album Name": "Midnight Clear"
     },
     {
         "Title": "<i>8 1/2 Souvenirs</i>",
@@ -109,7 +148,12 @@
         "ATC Artists": [
             "8 1",
             "2 SOUVENIRS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<i>13 Days</i>",
@@ -128,6 +172,14 @@
         "ATC Artists": [
             "8 1",
             "2 SOUVENIRS"
-        ]
+        ],
+        "Result Track Name": "Minor Swing",
+        "Result Artist Names": [
+            "8 1/2 Souvenirs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QLcRxRUyLJmgbdYf0ikc4",
+        "Result Album Name": "Happy Feet"
     }
 ]

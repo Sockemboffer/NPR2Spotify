@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-01-27",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:13:58"
+        "Scanned Date": "2022-02-06 21:13:58",
+        "Playlist URI": "3vgJZl4ejaeKr5YlPFNCIf",
+        "Playlist Link": "https://open.spotify.com/playlist/3vgJZl4ejaeKr5YlPFNCIf",
+        "Snapshot ID": "MSwwZjQ5NjI1NTEyMDE0YTE3OTk4MWYxM2M3MTlkNWEyMTE5ZWUwMjdi",
+        "Playlist Name": "ATC 2000-01-27 Thu All Things Considered"
     },
     {
         "Title": "State of the Union",
@@ -28,7 +32,12 @@
         "ATC Track": "At Midnight, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Debate on Abortion",
@@ -40,7 +49,16 @@
         "ATC Track": "MIRANDA",
         "ATC Artists": [
             "MICHAEL NYMAN"
-        ]
+        ],
+        "Result Track Name": "Prospero's Books (music from the film by Peter Greenaway): Miranda",
+        "Result Artist Names": [
+            "Michael Nyman",
+            "Michael Nyman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wryp2lpgQfjls4zF7hcL5",
+        "Result Album Name": "Minimalism for the Mind"
     },
     {
         "Title": "Elian & Congress",
@@ -58,13 +76,26 @@
         "ATC Track": "Not Remotely Blue",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Not Remotely Blue",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4E9PWTTj9MXcyWL8fTrqhP",
+        "Result Album Name": "Fingers And Thumbs"
     },
     {
         "ATC Track": "Crinoline Days",
         "ATC Artists": [
             "Beau Hunks Saxophone Soctette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Don Budge Obit",
@@ -82,14 +113,24 @@
         "ATC Track": "Robots Everywhere",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Shabanka",
         "ATC Artists": [
             "Joey Altruda",
             "upright bass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bin Laden",
@@ -107,7 +148,15 @@
         "ATC Track": "Rosasolis",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Rosasolis",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0IUzIl53w5sYSy8OMK2MXu",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "Title": "Israel Scandal",
@@ -119,7 +168,15 @@
         "ATC Track": "Rosasolis",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Rosasolis",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0IUzIl53w5sYSy8OMK2MXu",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "Title": "IL - Death Penalty Moratorium",

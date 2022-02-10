@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-10-25",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 20:58:04"
+        "Scanned Date": "2022-02-06 20:58:04",
+        "Playlist URI": "7aLLlEMBsAAIROyQVawnnB",
+        "Playlist Link": "https://open.spotify.com/playlist/7aLLlEMBsAAIROyQVawnnB",
+        "Snapshot ID": "MSwyMjcxNjBkMGU1NWY4YmI3MjNmYTAyODZlOGE5YWY4ODBmYjljOTNl",
+        "Playlist Name": "ATC 2000-10-25 Wed All Things Considered"
     },
     {
         "Title": "U.S.S. Cole Investigation",
@@ -28,13 +32,26 @@
         "ATC Track": "Mats Berglund's Polska [Polska Efter Mats Berglund]",
         "ATC Artists": [
             "The Swedish Sax Septet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "TREE HOUSE",
         "ATC Artists": [
             "dean shostak"
-        ]
+        ],
+        "Result Track Name": "Tree House",
+        "Result Artist Names": [
+            "Dean Shostak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55sU1YL4B26hY0iEgHwYHQ",
+        "Result Album Name": "Revolutions"
     },
     {
         "Title": "Lieberman Stump Speech",
@@ -52,13 +69,29 @@
         "ATC Track": "AUF FLUGELN DES GESANGES",
         "ATC Artists": [
             "CHRISTIAN LINDBERG"
-        ]
+        ],
+        "Result Track Name": "6 Gesange, Op. 34 (arr. for trombone and piano): Auf Flugeln des Gesanges, Op. 34 No. 2",
+        "Result Artist Names": [
+            "Anonymous",
+            "Felix Mendelssohn",
+            "Christian Lindberg",
+            "Per Lundberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40x6ItNLa3j9savxB0Mqkx",
+        "Result Album Name": "Songs for Sunset: Trombone and Piano"
     },
     {
         "ATC Track": "SCHON ROSMARIN",
         "ATC Artists": [
             "GIL SHAHAM"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Changing Face of America: Mom's Good Move Part Two",
@@ -70,14 +103,27 @@
         "ATC Track": "Always Say Goodbye",
         "ATC Artists": [
             "Charlie Haden"
-        ]
+        ],
+        "Result Track Name": "Always Say Goodbye - Instrumental",
+        "Result Artist Names": [
+            "Charlie Haden Quartet West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6BHEmdCLlIma6VquKP1adL",
+        "Result Album Name": "Charlie Haden - The Best Of Quartet West"
     },
     {
         "ATC Track": "Ev'ry Time We Say Goodbye",
         "ATC Artists": [
             "DeAnn Burger",
             "Frank Cropper et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "World Series",
@@ -95,13 +141,23 @@
         "ATC Track": "La Mariposa, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "AL TATTOOED AND CYNTHIA GREEN",
         "ATC Artists": [
             "KAMIKAZE GROUND CREW"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Campaign Day",
@@ -131,13 +187,28 @@
         "ATC Track": "Towing the Darkness",
         "ATC Artists": [
             "Hege Rimestad"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "ROMANZA ANDALUZA OP. 22 NO. 1",
         "ATC Artists": [
             "GIL SHAHAM"
-        ]
+        ],
+        "Result Track Name": "Romanza andaluza Op. 22, No. 1",
+        "Result Artist Names": [
+            "Pablo de Sarasate",
+            "Gil Shaham",
+            "Orpheus Chamber Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5L2Fi5hLWqmhmTUgfvvRZE",
+        "Result Album Name": "Orpheus Chamber Orchestra - Romantic Composers"
     },
     {
         "Title": "Ivory Coast",
@@ -161,7 +232,15 @@
         "ATC Track": "Love Song",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Love Song",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lEKexj7oAdBYpywBJOtmd",
+        "Result Album Name": "Space Island"
     },
     {
         "ATC Track": "The Dropper",
@@ -169,7 +248,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "The Dropper",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2aHnUjoGQvZpMizoZr854A",
+        "Result Album Name": "The Dropper"
     },
     {
         "Title": "Defibrillators - Shocking News",
@@ -187,12 +274,32 @@
         "ATC Track": "ANGELIKA SUSPENDED",
         "ATC Artists": [
             "PALM FABRIC ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Angelika Suspended",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:742Eo4GllZNolOo40AxHF8",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "ATC Track": "Motown Mash",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Motown Mash (feat. Jef Lee Johnson, Marc Ribot, Jamaaladeen Tacuma & G. Calvin Weston)",
+        "Result Artist Names": [
+            "James Carter",
+            "G. Calvin Weston",
+            "Jamaaladeen Tacuma",
+            "Jef Lee Johnson",
+            "Marc Ribot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7qUdZP2HISg42plVWR86jA",
+        "Result Album Name": "Layin' In The Cut"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-06-06",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:04:07"
+        "Scanned Date": "2022-02-06 21:04:07",
+        "Playlist URI": "04h6h2qSLoGMsFxY6Z55G4",
+        "Playlist Link": "https://open.spotify.com/playlist/04h6h2qSLoGMsFxY6Z55G4",
+        "Snapshot ID": "MSwyZDE2ODAwOTIwOThiNjFiNzI4ZjIyYmY3NjE4M2FhMWUzZTA4ZDJi",
+        "Playlist Name": "ATC 2000-06-06 Tue All Things Considered"
     },
     {
         "Title": "Middle East",
@@ -28,13 +32,30 @@
         "ATC Track": "yaa yaa kole",
         "ATC Artists": [
             "the pan african orchestra"
-        ]
+        ],
+        "Result Track Name": "Yaa Yaa Kolé",
+        "Result Artist Names": [
+            "The Pan African Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UZ8crgL9mCjcBA0tFcJlH",
+        "Result Album Name": "Opus 1"
     },
     {
         "ATC Track": "KING OF SWORDS",
         "ATC Artists": [
             "PETRA HADEN AND MISS MURGATOID"
-        ]
+        ],
+        "Result Track Name": "King of Swords",
+        "Result Artist Names": [
+            "Miss Murgatroid",
+            "Petra Haden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5Qei5VvBjZQArnBQR8Q9cj",
+        "Result Album Name": "Bella Neurox"
     },
     {
         "Title": "Gore Speech",
@@ -52,13 +73,29 @@
         "ATC Track": "ORPHAN'S PICNIC",
         "ATC Artists": [
             "DAVID SCHNAUFER"
-        ]
+        ],
+        "Result Track Name": "Orphan's Picnic",
+        "Result Artist Names": [
+            "David Schnaufer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Lc9VlNU56jVzThpahmv1t",
+        "Result Album Name": "Dulcimer Sessions"
     },
     {
         "ATC Track": "SANDY",
         "ATC Artists": [
             "DAVID SCHNAUFER"
-        ]
+        ],
+        "Result Track Name": "Sandy River Belle",
+        "Result Artist Names": [
+            "Butch Baldassari & David Schnaufer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wDsq89ADczGyr9FeXVwbB",
+        "Result Album Name": "Appalachian Mandolin And Dulcimer"
     },
     {
         "Title": "Charitable Choice",
@@ -82,7 +119,15 @@
         "ATC Track": "Maneki Neko",
         "ATC Artists": [
             "Robin Spielberg"
-        ]
+        ],
+        "Result Track Name": "Maneki Neko",
+        "Result Artist Names": [
+            "Robin Spielberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sVDw6eamkAi9haN8vmlr0",
+        "Result Album Name": "Songs of the Spirit"
     },
     {
         "Title": "Kronos",
@@ -118,13 +163,26 @@
         "ATC Track": "Madame Zag",
         "ATC Artists": [
             "Tom Mcdermott"
-        ]
+        ],
+        "Result Track Name": "Madame Zag (For Diane Wanek; F-Sharp Minor)",
+        "Result Artist Names": [
+            "Tom McDermott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yjVSnwAxp0kQRMWNnZ6gR",
+        "Result Album Name": "All the Keys & Then Some (Piano Music from New Orleans)"
     },
     {
         "ATC Track": "martha (aka Mazie)",
         "ATC Artists": [
             "Woody Allen and His New Orleans Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "US - Peru",
@@ -142,13 +200,26 @@
         "ATC Track": "OJOS VERDES",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Ojos Verdes",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2S2GoBNwpgIvT96bfrXBUF",
+        "Result Album Name": "Stick Figures"
     },
     {
         "ATC Track": "PENTASTICK",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dominos",
@@ -166,7 +237,12 @@
         "ATC Track": "THE WIND CRIES MARY",
         "ATC Artists": [
             "MARK NAUSEFF MIROSLAV TADIC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Water Rights",
@@ -178,14 +254,27 @@
         "ATC Track": "Solitude",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": "Solitude",
+        "Result Artist Names": [
+            "Original Rod"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7yIibBWEvKhTVyRvozEw73",
+        "Result Album Name": "Entre o Lixo e o Luxo, Vol. 1"
     },
     {
         "ATC Track": "The Last Door",
         "ATC Artists": [
             "Peter Apfelbaum",
             "The Hieroglyphics Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>Judy's Time</I>",
@@ -197,12 +286,28 @@
         "ATC Track": "Be My Love",
         "ATC Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": "Be My Love",
+        "Result Artist Names": [
+            "Keith Jarrett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vY102yJhMNuo8WyP9IifQ",
+        "Result Album Name": "The Melody At Night, With You"
     },
     {
         "ATC Track": "Blame It On My Youth / Meditation",
         "ATC Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": "Blame It On My Youth / Meditation",
+        "Result Artist Names": [
+            "Keith Jarrett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mOKlkPBaISeAMHd1nDXrK",
+        "Result Album Name": "The Melody At Night, With You"
     }
 ]

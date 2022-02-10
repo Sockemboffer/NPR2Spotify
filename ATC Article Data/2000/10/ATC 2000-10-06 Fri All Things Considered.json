@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-10-06",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 20:56:48"
+        "Scanned Date": "2022-02-06 20:56:48",
+        "Playlist URI": "7yrYclzMDG4tQ89ir5czgL",
+        "Playlist Link": "https://open.spotify.com/playlist/7yrYclzMDG4tQ89ir5czgL",
+        "Snapshot ID": "MSxjZDcyYzJlNTg4MGJlODQwZmMxM2I3OTMxMGMxN2E2ZGExZWYwOWMx",
+        "Playlist Name": "ATC 2000-10-06 Fri All Things Considered"
     },
     {
         "Title": "Serbia Call Outs",
@@ -28,7 +32,12 @@
         "ATC Track": "Encounters (8), for piano",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Prescription Drugs",
@@ -46,7 +55,12 @@
         "ATC Track": "Get 2 U",
         "ATC Artists": [
             "Sylvance"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lost and Found Sound",
@@ -58,7 +72,15 @@
         "ATC Track": "Plains of Waterloo",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Plains of Waterloo / James Connolly",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JL9T7W6C9O0dYR8TO1FLg",
+        "Result Album Name": "Bootleg USA"
     },
     {
         "Title": "Columbus Day Fight",
@@ -76,7 +98,15 @@
         "ATC Track": "Hang Gliding",
         "ATC Artists": [
             "Maria Schneider Orchestra"
-        ]
+        ],
+        "Result Track Name": "Hang Gliding (Allegresse Version)",
+        "Result Artist Names": [
+            "Maria Schneider"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5qVNhkJLfBIGstGIuYkbaj",
+        "Result Album Name": "The Essential Maria Schneider"
     },
     {
         "Title": "Yugoslavia Today",
@@ -100,13 +130,26 @@
         "ATC Track": "Tharoman , Pt. 1 [Formerly Valerie White, Pt. 1]",
         "ATC Artists": [
             "Threnody Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Picture",
         "ATC Artists": [
             "Øystein Sevåg"
-        ]
+        ],
+        "Result Track Name": "Picture",
+        "Result Artist Names": [
+            "ØYSTEIN SEVÅG"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67v7384zlBtgKMlzWBvM6v",
+        "Result Album Name": "Link"
     },
     {
         "Title": "Day of Rage",
@@ -125,7 +168,15 @@
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "Rain Outside An Open Door",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BwLfK4EhITH13xpwoqw6M",
+        "Result Album Name": "The Familiar"
     },
     {
         "Title": "Clinton Lazio Race",
@@ -143,7 +194,15 @@
         "ATC Track": "Crawfeet",
         "ATC Artists": [
             "Scott Nygaard"
-        ]
+        ],
+        "Result Track Name": "Crawfeet",
+        "Result Artist Names": [
+            "Scott Nygaard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UU8PPsA8lVFOO5o2m0xTZ",
+        "Result Album Name": "Dreamer's Waltz"
     },
     {
         "Title": "Drug Series Promo",
@@ -161,6 +220,11 @@
         "ATC Track": "Nitti Pomfritti (Ninety French Fries)",
         "ATC Artists": [
             "Väsen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

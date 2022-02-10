@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-10-19",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 20:57:42"
+        "Scanned Date": "2022-02-06 20:57:42",
+        "Playlist URI": "66Egbo3cOmI3VB9hLxf4Pu",
+        "Playlist Link": "https://open.spotify.com/playlist/66Egbo3cOmI3VB9hLxf4Pu",
+        "Snapshot ID": "MSxmYjk2NmE4NjYzNTUxZTdkNGQ4NzZhNWNkYmZlYmE2NmY1ZDRjMWRj",
+        "Playlist Name": "ATC 2000-10-19 Thu All Things Considered"
     },
     {
         "Title": "Greenspan",
@@ -16,7 +20,12 @@
         "ATC Track": "Todays Special",
         "ATC Artists": [
             "Smokey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gore - Econ",
@@ -34,13 +43,29 @@
         "ATC Track": "Frenzy at the Feeder",
         "ATC Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": "Frenzy at the Feeder",
+        "Result Artist Names": [
+            "Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17GhxERIWgDc8YUFZHNHkm",
+        "Result Album Name": "Little Lion"
     },
     {
         "ATC Track": "Gaucho",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Gaucho",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mopXKLjBKnNbCBZm8naAH",
+        "Result Album Name": "Ronroco"
     },
     {
         "Title": "The New Balkans",
@@ -58,7 +83,12 @@
         "ATC Track": "Agua de Paz-Water of Peace",
         "ATC Artists": [
             "Dino Saluzzi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Beat Biscuit Blues",
@@ -66,7 +96,17 @@
             "Mike Auldridge",
             "Bob Brozman",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Beat Biscuit Blues",
+        "Result Artist Names": [
+            "Mike Auldridge",
+            "David Grisman",
+            "Bob Brozman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZASyWPRAbPeTQBsfvQaAN",
+        "Result Album Name": "Tone Poems III"
     },
     {
         "Title": "Arthur Miller Discusses Collection of Essays",
@@ -78,7 +118,15 @@
         "ATC Track": "THE VICTORS (university of michigan)",
         "ATC Artists": [
             "university of michigan band"
-        ]
+        ],
+        "Result Track Name": "The Victors - Michigan Wolverines - Live",
+        "Result Artist Names": [
+            "The University of Michigan Marching Band"
+        ],
+        "Result Track-Match Percent": 0.6,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6XDbn4KT2AYHAwzqv8wmPp",
+        "Result Album Name": "Gameday Faves: Classic College Fight Songs (Volume 2)"
     },
     {
         "ATC Track": "Partido Alto",
@@ -86,7 +134,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Partido Alto",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:786QSuRdgSR2VTHho6VNZl",
+        "Result Album Name": "The Dropper"
     },
     {
         "Title": "Irish Pilgrimages",
@@ -104,13 +160,29 @@
         "ATC Track": "The Room of Corners",
         "ATC Artists": [
             "Harold Budd"
-        ]
+        ],
+        "Result Track Name": "The Room of Corners",
+        "Result Artist Names": [
+            "Harold Budd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Zdb94gdCtohGWGoiAQDwW",
+        "Result Album Name": "The Room"
     },
     {
         "ATC Track": "Say Something",
         "ATC Artists": [
             "Michael Omartian"
-        ]
+        ],
+        "Result Track Name": "Say Something",
+        "Result Artist Names": [
+            "Michael Salgado"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6GWnG4guVPTs1Q0QP9lBGR",
+        "Result Album Name": "Nada Es Eterno"
     },
     {
         "Title": "Middle East Violence",
@@ -129,7 +201,12 @@
         "ATC Artists": [
             "Wycliffe Gordon",
             "Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Partido Alto",
@@ -137,7 +214,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Partido Alto",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:786QSuRdgSR2VTHho6VNZl",
+        "Result Album Name": "The Dropper"
     },
     {
         "Title": "Radar Down",
@@ -155,13 +240,23 @@
         "ATC Track": "Fire",
         "ATC Artists": [
             "Uakti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Dyt It",
         "ATC Artists": [
             "John Serry"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush On the Road",
@@ -179,7 +274,15 @@
         "ATC Track": "Quicksand",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Quicksand",
+        "Result Artist Names": [
+            "Morray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4iCZ6Cr76For1TuHUQ90r8",
+        "Result Album Name": "Street Sermons"
     },
     {
         "Title": "Information",
@@ -197,6 +300,14 @@
         "ATC Track": "Ashley Blue",
         "ATC Artists": [
             "Joey DeFrancesco"
-        ]
+        ],
+        "Result Track Name": "Ashley Blue",
+        "Result Artist Names": [
+            "Joey DeFrancesco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nOUkQaBRrXVrUVwwoOEc3",
+        "Result Album Name": "40"
     }
 ]

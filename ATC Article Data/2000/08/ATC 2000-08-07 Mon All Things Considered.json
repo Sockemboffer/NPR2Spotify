@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-08-07",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:00:26"
+        "Scanned Date": "2022-02-06 21:00:26",
+        "Playlist URI": "4tmQrHLuPHE50z73cvWoXe",
+        "Playlist Link": "https://open.spotify.com/playlist/4tmQrHLuPHE50z73cvWoXe",
+        "Snapshot ID": "MSxjYWUyM2EzMjY2ODBhZWI0NjE0ZjJkNTE2NjY5MmRmMDI2YTAyYmMz",
+        "Playlist Name": "ATC 2000-08-07 Mon All Things Considered"
     },
     {
         "Title": "Democratic Veep",
@@ -28,7 +32,15 @@
         "ATC Track": "SLOW TOWN",
         "ATC Artists": [
             "MICHAEL BROOK"
-        ]
+        ],
+        "Result Track Name": "Slow Town",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oibDmdyn9GzQlAN92VuKP",
+        "Result Album Name": "Albino Alligator"
     },
     {
         "Title": "Yugoslavia Arrests",
@@ -46,13 +58,29 @@
         "ATC Track": "Ullyses",
         "ATC Artists": [
             "Dead Can Dance"
-        ]
+        ],
+        "Result Track Name": "Ullyses - Remastered",
+        "Result Artist Names": [
+            "Dead Can Dance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0nlB1D49IK9YdqHIoMfPhC",
+        "Result Album Name": "The Serpent's Egg (Remastered)"
     },
     {
         "ATC Track": "BALLYBOOTS",
         "ATC Artists": [
             "CHANNEL LIGHT VESSEL"
-        ]
+        ],
+        "Result Track Name": "Ballyboots",
+        "Result Artist Names": [
+            "Channel Light Vessel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q7OZrXyAO7lfcPAa0fUkN",
+        "Result Album Name": "Automatic"
     },
     {
         "Title": "Sicilian Mafia Part I",
@@ -76,13 +104,29 @@
         "ATC Track": "Water from a Vine Leaf",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": "Water From A Vine Leaf",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yVxhYqGFfwGeZRyqUERWx",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "ATC Track": "Chocolat",
         "ATC Artists": [
             "Cornershop"
-        ]
+        ],
+        "Result Track Name": "Chocolat",
+        "Result Artist Names": [
+            "Cornershop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50x0FoJMknIHQ8MnJD69rD",
+        "Result Album Name": "When I Was Born For The 7th Time"
     },
     {
         "Title": "Lieberman Profile",
@@ -106,13 +150,29 @@
         "ATC Track": "How the West Was Won and Where It Got Us",
         "ATC Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "How The West Was Won And Where It Got Us - Remastered",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5h7H951D3U8uAjR5TM24DJ",
+        "Result Album Name": "New Adventures In Hi-Fi (25th Anniversary Edition)"
     },
     {
         "ATC Track": "Ecotopia",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "Ecotopia",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4h7ANFRHkHAQh0NwHYK6Z2",
+        "Result Album Name": "Who Do We Think We Are?"
     },
     {
         "Title": "Colombia - Environment",
@@ -132,7 +192,12 @@
             "PETER BRYNGELSSON",
             "PELLE LINDSTROM",
             "ET AL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wahid Speaks",
@@ -156,7 +221,15 @@
         "ATC Track": "BILL'S DREAM",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Bill's Dream",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JPc6QAu0WTwxHSijsaZ5n",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Mission Theft",
@@ -174,6 +247,14 @@
         "ATC Track": "STOLEN MEMORIES",
         "ATC Artists": [
             "THE MICHAEL NYMAN BAND"
-        ]
+        ],
+        "Result Track Name": "Stolen Memories",
+        "Result Artist Names": [
+            "Michael Nyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:21rn3pjDRWIj71NcSM7Kcr",
+        "Result Album Name": "Six Days, Six Nights"
     }
 ]

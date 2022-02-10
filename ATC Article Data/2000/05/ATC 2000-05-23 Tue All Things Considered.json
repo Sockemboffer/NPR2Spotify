@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-05-23",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:06:39"
+        "Scanned Date": "2022-02-06 21:06:39",
+        "Playlist URI": "6PpeG98ClveIm1DvmXRe6E",
+        "Playlist Link": "https://open.spotify.com/playlist/6PpeG98ClveIm1DvmXRe6E",
+        "Snapshot ID": "MSw3ZDM0MjYxYzgxN2ExODI0OWQzYzQ2ZjhjYjVlZTEwZDQ1ZGM4ODQ5",
+        "Playlist Name": "ATC 2000-05-23 Tue All Things Considered"
     },
     {
         "Title": "Florida Tobacco Trial",
@@ -28,13 +32,29 @@
         "ATC Track": "LITTLE WALTZ",
         "ATC Artists": [
             "FRANK MORGAN"
-        ]
+        ],
+        "Result Track Name": "Little Waltz",
+        "Result Artist Names": [
+            "Frank Morgan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zGnLCYN146g985q3eQrto",
+        "Result Album Name": "Listen To The Dawn"
     },
     {
         "ATC Track": "Don't Blame Me",
         "ATC Artists": [
             "Frank Morgan"
-        ]
+        ],
+        "Result Track Name": "Don't Blame Me",
+        "Result Artist Names": [
+            "Frank Morgan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HwcSivV5Y5N4cg3ijBEvz",
+        "Result Album Name": "Love, Lost & Found"
     },
     {
         "Title": "Haiti",
@@ -46,7 +66,12 @@
         "ATC Track": "The Fullrigged Ship",
         "ATC Artists": [
             "Hege Rimestad"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Syria Discovery",
@@ -64,19 +89,43 @@
         "ATC Track": "GO SLOW FOR MO'",
         "ATC Artists": [
             "WESSELL ANDERSON"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SON SONG",
         "ATC Artists": [
             "ALVIN BATISTE"
-        ]
+        ],
+        "Result Track Name": "Son Song",
+        "Result Artist Names": [
+            "Alvin Batiste",
+            "Maynard Batiste"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1z9FRB4RhJZcoiH5AvoLSy",
+        "Result Album Name": "Bayou Magic"
     },
     {
         "ATC Track": "I WANT TO TALK ABOUT YOU",
         "ATC Artists": [
             "ALVIN BATISTE"
-        ]
+        ],
+        "Result Track Name": "I Want to Talk About You",
+        "Result Artist Names": [
+            "Alvin Batiste",
+            "Herman Jackson",
+            "Emile Vinette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4MqcrUqlqfuJP7c5XqOEct",
+        "Result Album Name": "Bayou Magic"
     },
     {
         "Title": "Israel Withdrawal",
@@ -94,7 +143,12 @@
         "ATC Track": "Raga Bihag, Part II - drut",
         "ATC Artists": [
             "Natraj"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Coffee",
@@ -112,13 +166,26 @@
         "ATC Track": "The Woods",
         "ATC Artists": [
             "The Horseflies"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Town",
         "ATC Artists": [
             "The Horseflies"
-        ]
+        ],
+        "Result Track Name": "The Town",
+        "Result Artist Names": [
+            "The Weeknd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7jGr8wzgwOVLuktY66qM5f",
+        "Result Album Name": "Kiss Land"
     },
     {
         "Title": "Bush Nukes",
@@ -142,7 +209,12 @@
         "ATC Track": "MAMMOTH",
         "ATC Artists": [
             "CUMBERLAND CONSORT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fusion",

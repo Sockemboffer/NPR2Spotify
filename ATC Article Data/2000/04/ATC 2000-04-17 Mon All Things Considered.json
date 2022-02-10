@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-04-17",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:08:01"
+        "Scanned Date": "2022-02-06 21:08:01",
+        "Playlist URI": "18M8fDNa6MbQu3d3AYruqg",
+        "Playlist Link": "https://open.spotify.com/playlist/18M8fDNa6MbQu3d3AYruqg",
+        "Snapshot ID": "MSwyN2E5YWE4MTA1Y2Q0YjcxMzhlODlhNDljNDlmYmY4MWQ1ZWI1ZDNj",
+        "Playlist Name": "ATC 2000-04-17 Mon All Things Considered"
     },
     {
         "Title": "Scotus",
@@ -16,7 +20,15 @@
         "ATC Track": "BLACK CHERRY LOTUS",
         "ATC Artists": [
             "ADAM RUDOLPH'S MOVING PICTURES"
-        ]
+        ],
+        "Result Track Name": "Black Cherry Lotus",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35byOJbYsz99OaL4M0SD3G",
+        "Result Album Name": "Contemplations"
     },
     {
         "Title": "Reform Party",
@@ -28,7 +40,12 @@
         "ATC Track": "THE KINGDOM",
         "ATC Artists": [
             "THE HORSE FLIES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gorey Obit",
@@ -46,7 +63,15 @@
         "ATC Track": "BURIED AT SEA",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Buried At Sea",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75f5DJSrXyqHiUQwtjTg5K",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "'Showboat'",
@@ -58,7 +83,15 @@
         "ATC Track": "For a Thousand Years",
         "ATC Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "For A Thousand Years",
+        "Result Artist Names": [
+            "Marc Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sA6UYDxH8V00eeuUJcWpw",
+        "Result Album Name": "The Sound Of Summer Running"
     },
     {
         "Title": "Putin in London",
@@ -76,13 +109,29 @@
         "ATC Track": "Sumu-Gaga",
         "ATC Artists": [
             "Jose Angel Navarro"
-        ]
+        ],
+        "Result Track Name": "Sumu Gaga",
+        "Result Artist Names": [
+            "José Angel Navarro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:79kJX6JIDG5LVZYK1UfLNf",
+        "Result Album Name": "Miel"
     },
     {
         "ATC Track": "Rumba Callejera",
         "ATC Artists": [
             "Jose Angel Navarro"
-        ]
+        ],
+        "Result Track Name": "Rumba Callejera",
+        "Result Artist Names": [
+            "José Angel Navarro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5zCujve1IQb8UQ02r8iJlQ",
+        "Result Album Name": "Miel"
     },
     {
         "Title": "World Bank - IMF Meetings",
@@ -106,7 +155,15 @@
         "ATC Track": "A Show of Hands",
         "ATC Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "A Show of Hands",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KRIMIeAUDdX1U9UXvqQ6T",
+        "Result Album Name": "A Show of Hands 15"
     },
     {
         "Title": "Zimbabwe Opposition",
@@ -136,13 +193,29 @@
         "ATC Track": "Kiss under Cover of Night",
         "ATC Artists": [
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Kiss Under Cover Of Night",
+        "Result Artist Names": [
+            "Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11AWTWaIYyNjzrsT8iNDvi",
+        "Result Album Name": "Bittersweet ~ An American Romance"
     },
     {
         "ATC Track": "FABLES OF FAUBUS",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Fables of Faubus",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LSLq8XCSrvoAMLSGsK7r0",
+        "Result Album Name": "Charlie Hunter Trio"
     },
     {
         "Title": "Video Art",
@@ -154,6 +227,11 @@
         "ATC Track": "CLAIRE FIGHTS WITH RESOLVED",
         "ATC Artists": [
             "THE HORSE FLIES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

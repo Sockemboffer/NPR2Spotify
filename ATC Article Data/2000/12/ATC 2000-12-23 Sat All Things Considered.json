@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 20:53:34"
+        "Scanned Date": "2022-02-06 20:53:34",
+        "Playlist URI": "7okg2JssNI7jTl27de3AC8",
+        "Playlist Link": "https://open.spotify.com/playlist/7okg2JssNI7jTl27de3AC8",
+        "Snapshot ID": "MSwzYjI4ZGUxN2ZkYTIwZWMwNGVlMzUwNTEyNzk4Nzg4MzdlMzExMjRl",
+        "Playlist Name": "ATC 2000-12-23 Sat All Things Considered"
     },
     {
         "Title": "Talks Collapse",
@@ -23,7 +27,12 @@
         "ATC Artists": [
             "Charlie Watts",
             "Jim Keltner"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ramparts Verdict Overturned",
@@ -35,7 +44,15 @@
         "ATC Track": "Tangenziale",
         "ATC Artists": [
             "Groove Collective"
-        ]
+        ],
+        "Result Track Name": "Tangenziale",
+        "Result Artist Names": [
+            "Groove Collective"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25UKKuKhh5OubJTZ49pCPe",
+        "Result Album Name": "Dance Of The Drunken Master"
     },
     {
         "Title": "L.A. Fossils",
@@ -47,7 +64,15 @@
         "ATC Track": "I Walk the Line",
         "ATC Artists": [
             "Johnny Cash"
-        ]
+        ],
+        "Result Track Name": "I Walk the Line",
+        "Result Artist Names": [
+            "Johnny Cash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hxZF4jETnE5Q75rKQnMjE",
+        "Result Album Name": "I Walk the Line (Original Soundtrack Recording)"
     },
     {
         "Title": "I Walk the Line: Artist's Perspective",
@@ -71,7 +96,15 @@
         "ATC Track": "Heimweg 78",
         "ATC Artists": [
             "Couch"
-        ]
+        ],
+        "Result Track Name": "Heimweg 78",
+        "Result Artist Names": [
+            "Couch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GvCpYNLVuHwsKviB5zgbX",
+        "Result Album Name": "Fantasy"
     },
     {
         "Title": "'I Walk The Line'",
@@ -83,6 +116,14 @@
         "ATC Track": "Folsom Prison Blues",
         "ATC Artists": [
             "Chet Atkins"
-        ]
+        ],
+        "Result Track Name": "Folsom Prison Blues",
+        "Result Artist Names": [
+            "Chet Atkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QrUPaKahpg0Sh5d3lE8uB",
+        "Result Album Name": "Solid Gold '69"
     }
 ]

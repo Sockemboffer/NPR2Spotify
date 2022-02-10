@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-10-16",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 20:57:31"
+        "Scanned Date": "2022-02-06 20:57:31",
+        "Playlist URI": "2GR4TQEdmJefJVjanTSnLY",
+        "Playlist Link": "https://open.spotify.com/playlist/2GR4TQEdmJefJVjanTSnLY",
+        "Snapshot ID": "MSwyMjI1ZTk1NjM1MjcwMWI5NDAwZGJkMDU2ZWYyNTFiNzNhNzUwMDEz",
+        "Playlist Name": "ATC 2000-10-16 Mon All Things Considered"
     },
     {
         "Title": "Strife Update",
@@ -28,13 +32,30 @@
         "ATC Track": "Sahara (Reprise)",
         "ATC Artists": [
             "Brian Keane"
-        ]
+        ],
+        "Result Track Name": "Sahara - Reprise",
+        "Result Artist Names": [
+            "Brian Keane",
+            "Omar Faruk Tekbilek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lwx2PHOqERw5o2N1a5GGI",
+        "Result Album Name": "Fire Dance"
     },
     {
         "ATC Track": "DOBRO DORO",
         "ATC Artists": [
             "CARL WEINGARTEN ET AL"
-        ]
+        ],
+        "Result Track Name": "Dobro Doro",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1alZA4VWvHsyisqWCktn21",
+        "Result Album Name": "Redwood Melodies"
     },
     {
         "Title": "TX Death Penalty Study",
@@ -53,7 +74,15 @@
         "ATC Artists": [
             "charlie haden",
             "hank jones"
-        ]
+        ],
+        "Result Track Name": "We Shall Overcome",
+        "Result Artist Names": [
+            "Charlie Haden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1238QoQgcROGS7jhxwampf",
+        "Result Album Name": "Impulse Records: Music, Message and the Moment"
     },
     {
         "Title": "'King Porter Stomp'",
@@ -65,7 +94,17 @@
         "ATC Track": "king porter stomp",
         "ATC Artists": [
             "dizzy gillespie"
-        ]
+        ],
+        "Result Track Name": "King Porter Stomp - 1994 Remastered",
+        "Result Artist Names": [
+            "Teddy Hill & His NBC Orchestra",
+            "Teddy Hill",
+            "Dizzy Gillespie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5t5KZuiyfCQa4TNWFhU4dl",
+        "Result Album Name": "The Complete RCA Victor Recordings"
     },
     {
         "Title": "China Theater",
@@ -77,7 +116,12 @@
         "ATC Track": "AMACORD",
         "ATC Artists": [
             "MARK NAUSEFF MIROSLAV TADIC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Surviving Survivor",
@@ -90,14 +134,34 @@
         "ATC Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Chance Meeting - Instrumental",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Edgar Meyer",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48cPRxowgcOZPSqWpXiA3W",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "ATC Track": "Chance Meeting",
         "ATC Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Chance Meeting - Instrumental",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Edgar Meyer",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48cPRxowgcOZPSqWpXiA3W",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "Title": "Middle East Summit",
@@ -121,13 +185,26 @@
         "ATC Track": "LOVE POEMS: EVOCATION",
         "ATC Artists": [
             "INJA STANIC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "While She Sleeps",
         "ATC Artists": [
             "Billy McLaughlin"
-        ]
+        ],
+        "Result Track Name": "While She Sleeps",
+        "Result Artist Names": [
+            "Billy McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yka1F6XnV0nq8QfARhqeM",
+        "Result Album Name": "Fingerdance"
     },
     {
         "Title": "Struggling School",
@@ -139,13 +216,23 @@
         "ATC Track": "BELA'S WORLD",
         "ATC Artists": [
             "RICHARD HUNTER"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "HOW LONG HAVE I LOVED YOU",
         "ATC Artists": [
             "RICHARD HUNTER"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Million Family March",
@@ -169,13 +256,27 @@
         "ATC Track": "Texas Fox Trot",
         "ATC Artists": [
             "Nashville Mandolin Ensemble"
-        ]
+        ],
+        "Result Track Name": "Texas Fox Trot",
+        "Result Artist Names": [
+            "David Guion",
+            "Nashville Mandolin Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WEA16hVGN2gKp3bB6A7yx",
+        "Result Album Name": "All the Rage: Mandolin Ensemble Music From 1897-1924"
     },
     {
         "ATC Track": "SUITE: THE EARLE OF OXFORD'S MARCHE",
         "ATC Artists": [
             "THE DENVER BRASS CONDUCTED BY KENNETH SINGLETON"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Prince",
@@ -187,12 +288,22 @@
         "ATC Track": "SHEPHERD'S HEY",
         "ATC Artists": [
             "THE DENVER BRASS CONDUCTED BY KENNETH SINGLETON"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SUITE: WOLSEYS WILDE",
         "ATC Artists": [
             "THE DENVER BRASS CONDUCTED BY KENNETH SINGLETON"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

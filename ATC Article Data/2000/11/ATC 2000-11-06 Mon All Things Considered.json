@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-11-06",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 20:54:30"
+        "Scanned Date": "2022-02-06 20:54:30",
+        "Playlist URI": "2hNkfgPH3Qzlvxfrzsglf5",
+        "Playlist Link": "https://open.spotify.com/playlist/2hNkfgPH3Qzlvxfrzsglf5",
+        "Snapshot ID": "MSw3ZDRmMTFlZTUyNTMyNTQzNjE0MDQzYTA5MzM3NjlhZTM2ZTMyYTc3",
+        "Playlist Name": "ATC 2000-11-06 Mon All Things Considered"
     },
     {
         "Title": "Gore",
@@ -40,13 +44,29 @@
         "ATC Track": "JACO",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Jaco",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5dTyTPie5sXEAQi2pzOLZW",
+        "Result Album Name": "Metropolis"
     },
     {
         "ATC Track": "Josey",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "Josey",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CGXPTp6L9FuUH08LkOwj6",
+        "Result Album Name": "Who Do We Think We Are?"
     },
     {
         "Title": "San Francisco Development Initiative",
@@ -64,7 +84,15 @@
         "ATC Track": "303+606=ACID",
         "ATC Artists": [
             "Buffalo Daughter"
-        ]
+        ],
+        "Result Track Name": "303 + 606 = ACID",
+        "Result Artist Names": [
+            "Buffalo Daughter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dDVIoglpxGzLOrOXUPMhF",
+        "Result Album Name": "At Home With The Groovebox"
     },
     {
         "Title": "Israel - Palestinians",
@@ -83,7 +111,16 @@
         "ATC Artists": [
             "THE BRASS PROJECT (JOHN SURMAN",
             "JOHN WARREN)"
-        ]
+        ],
+        "Result Track Name": "Wider Vision",
+        "Result Artist Names": [
+            "John Surman",
+            "John Warren"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:7MP8Z9TW5yFYRjEP5aE31B",
+        "Result Album Name": "The Brass Project"
     },
     {
         "Title": "Asteroid",
@@ -95,13 +132,29 @@
         "ATC Track": "ARRIVAL",
         "ATC Artists": [
             "MICHAEL BROOK"
-        ]
+        ],
+        "Result Track Name": "Arrival at the Slabs",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Hat3eAfes74STN9307vTP",
+        "Result Album Name": "Into the Wild (Original Score)"
     },
     {
         "ATC Track": "Mood Indigo",
         "ATC Artists": [
             "Jodie Christian"
-        ]
+        ],
+        "Result Track Name": "Mood Indigo",
+        "Result Artist Names": [
+            "Jodie Christian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66ZYJJSHbhhwborKcDEEnW",
+        "Result Album Name": "Experience"
     },
     {
         "Title": "'Mood Indigo'",
@@ -113,7 +166,15 @@
         "ATC Track": "Nessun Dorma",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "Nessun Dorma",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1USKi0sAl5sEJdn0SKcPW6",
+        "Result Album Name": "A Fine Line: Arias And Lieder"
     },
     {
         "Title": "Bush",
@@ -137,7 +198,12 @@
         "ATC Track": "DERDIA DEATH CHANT",
         "ATC Artists": [
             "TERRY RILEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cold Medicines",
@@ -150,14 +216,29 @@
         "ATC Artists": [
             "Anger",
             "Marshall Band"
-        ]
+        ],
+        "Result Track Name": "Our Life",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Darol Anger",
+            "The Darol Anger / Mike Marshall Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:61DIRMgAFsMBvJEEQCdcu3",
+        "Result Album Name": "Brand New Can"
     },
     {
         "ATC Track": "Tuesday at 7:30",
         "ATC Artists": [
             "Anger",
             "Marshall Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Conjoined Twins",
@@ -176,14 +257,30 @@
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Mariposa",
+        "Result Artist Names": [
+            "Al Petteway and Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2f4lsgZQoJx3A8BkvczAdt",
+        "Result Album Name": "Racing Hearts"
     },
     {
         "ATC Track": "Morrison's Jig",
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Morrison's Jig",
+        "Result Artist Names": [
+            "Al Petteway and Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dZAMSLgjOneKPLEiwUr1S",
+        "Result Album Name": "Racing Hearts"
     },
     {
         "Title": "Campaign Costs",
@@ -201,7 +298,16 @@
         "ATC Track": "CORNFIELD",
         "ATC Artists": [
             "MICHAEL NYMAN"
-        ]
+        ],
+        "Result Track Name": "Prospero's Books (music from the film by Peter Greenaway): Cornfield",
+        "Result Artist Names": [
+            "Michael Nyman",
+            "Michael Nyman Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rTdFobIiKVnLRwiMl7nLE",
+        "Result Album Name": "Minimalism for the Mind"
     },
     {
         "Title": "Tobacco Lawsuit",
@@ -213,7 +319,12 @@
         "ATC Track": "AMACORD",
         "ATC Artists": [
             "MARK NAUSEFF MIROSLAV TADIC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Davis Obit",
@@ -225,6 +336,14 @@
         "ATC Track": "You Are My Sunshine",
         "ATC Artists": [
             "Travelin' Light"
-        ]
+        ],
+        "Result Track Name": "You Are My Sunshine",
+        "Result Artist Names": [
+            "Travelin' Light"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4F0zlbEJnerBO5isnwq1v8",
+        "Result Album Name": "Makin' Whoopee"
     }
 ]

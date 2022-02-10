@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-26",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 20:53:54"
+        "Scanned Date": "2022-02-06 20:53:54",
+        "Playlist URI": "6OVJ4k6EyEVB5iZlhImUV8",
+        "Playlist Link": "https://open.spotify.com/playlist/6OVJ4k6EyEVB5iZlhImUV8",
+        "Snapshot ID": "MSxjYzAxOTc4NzU2MTQ2YWFhN2Y5ZDI3Yzg0MjgxOTI1MGJlMjYxNTYz",
+        "Playlist Name": "ATC 2000-12-26 Tue All Things Considered"
     },
     {
         "Title": "Office Shooting",
@@ -28,7 +32,12 @@
         "ATC Track": "Some Things Reconsidered",
         "ATC Artists": [
             "Ken Field"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tamina Town",
@@ -46,13 +55,29 @@
         "ATC Track": "BELOVED",
         "ATC Artists": [
             "ADAM RUDOLPH'S MOVING PICTURES"
-        ]
+        ],
+        "Result Track Name": "Beloved",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6478QQyiPMzh1wUPzdSHo3",
+        "Result Album Name": "Skyway"
     },
     {
         "ATC Track": "DREAMING OF THE SKYWAY",
         "ATC Artists": [
             "ADAM RUDOLPH'S MOVING PICTURES"
-        ]
+        ],
+        "Result Track Name": "Dreaming Of The Skyway",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0702ouaJdOYf9M5qRKMy7j",
+        "Result Album Name": "Skyway"
     },
     {
         "Title": "Ashcroft",
@@ -76,13 +101,23 @@
         "ATC Track": "Shady Glade",
         "ATC Artists": [
             "Ben Trout"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Winter Hawk",
         "ATC Artists": [
             "Ben Trout"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pinochet",
@@ -100,13 +135,29 @@
         "ATC Track": "SILK ROAD",
         "ATC Artists": [
             "TIAN"
-        ]
+        ],
+        "Result Track Name": "Silk Road",
+        "Result Artist Names": [
+            "Tian Jiang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:199xON4YrgxorWVDAgMnsh",
+        "Result Album Name": "Shanghai Dream"
     },
     {
         "ATC Track": "SHANGHAI DREAM",
         "ATC Artists": [
             "TIAN"
-        ]
+        ],
+        "Result Track Name": "Shanghai Dream",
+        "Result Artist Names": [
+            "Tian Jiang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UbSrU1bUDk0k75wk6oYkG",
+        "Result Album Name": "Shanghai Dream"
     },
     {
         "Title": "Streaming Technology",
@@ -124,7 +175,15 @@
         "ATC Track": "kulture of jazz",
         "ATC Artists": [
             "wadada leo smith"
-        ]
+        ],
+        "Result Track Name": "Kulture Of Jazz",
+        "Result Artist Names": [
+            "Wadada Leo Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66OemqDupyRpKomfUH9RjB",
+        "Result Album Name": "Kulture Jazz"
     },
     {
         "Title": "Cassada",
@@ -136,7 +195,15 @@
         "ATC Track": "The Mercury Grid",
         "ATC Artists": [
             "David Torn"
-        ]
+        ],
+        "Result Track Name": "The Mercury Grid",
+        "Result Artist Names": [
+            "David Torn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23iudB2gCzMrTQKl96t3EE",
+        "Result Album Name": "Cloud About Mercury"
     },
     {
         "Title": "Arab Tenors and Qantara",

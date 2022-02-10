@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-03-28",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:10:21"
+        "Scanned Date": "2022-02-06 21:10:21",
+        "Playlist URI": "6WZ5u9hTvXmvbSzx3WJyMt",
+        "Playlist Link": "https://open.spotify.com/playlist/6WZ5u9hTvXmvbSzx3WJyMt",
+        "Snapshot ID": "MSw1ODY4YzgyODAxOWMwODc4Y2RkZTQwNDZmN2YxZTM5MjFjNjI2ZTk2",
+        "Playlist Name": "ATC 2000-03-28 Tue All Things Considered"
     },
     {
         "Title": "SCOTUS - Anonymous Tip",
@@ -28,7 +32,12 @@
         "ATC Track": "Claire's Song",
         "ATC Artists": [
             "Solo Razaf"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "African Immigrants After Diallo",
@@ -40,13 +49,29 @@
         "ATC Track": "A Wish",
         "ATC Artists": [
             "Hamza el Din"
-        ]
+        ],
+        "Result Track Name": "A Wish",
+        "Result Artist Names": [
+            "Hamza El Din"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72USUH38ZkTxQHZT1J6Nxa",
+        "Result Album Name": "A Wish"
     },
     {
         "ATC Track": "Greetings",
         "ATC Artists": [
             "Hamza el Din"
-        ]
+        ],
+        "Result Track Name": "Greetings",
+        "Result Artist Names": [
+            "Hamza El Din"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6muj0lvXBLEtDM2yw6H6ys",
+        "Result Album Name": "A Wish"
     },
     {
         "Title": "Cisco Soaring",
@@ -70,13 +95,26 @@
         "ATC Track": "Hughie Travers'/Connelly's",
         "ATC Artists": [
             "Popcorn Behavior"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Shadowfax/Bee's Wax Sheep Skin/Popcorn Behavior",
         "ATC Artists": [
             "Popcorn Behavior"
-        ]
+        ],
+        "Result Track Name": "Shadowfax/Bee's Wax Sheep Skin/ Popcorn Behavior",
+        "Result Artist Names": [
+            "Popcorn Behavior"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HhpHOuOCenecLmXMMrziN",
+        "Result Album Name": "Journeywork"
     },
     {
         "Title": "Who Is Jane Martin?",
@@ -88,13 +126,23 @@
         "ATC Track": "El Niño: Opus 18",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Aunt Lila's Suite: Complementary Colors, Opus 17",
         "ATC Artists": [
             "Corky Siegel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Opec",
@@ -106,7 +154,12 @@
         "ATC Track": "Adobe Dog House",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Education",
@@ -124,14 +177,30 @@
         "ATC Track": "The Bard Returns",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "The Bard Returns",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WuBLjB38V5CghmH58QN2t",
+        "Result Album Name": "Elegiac Cycle"
     },
     {
         "ATC Track": "saturday blues",
         "ATC Artists": [
             "ROLF KUHN",
             "JOACHIM KUHN"
-        ]
+        ],
+        "Result Track Name": "Saturday Blues",
+        "Result Artist Names": [
+            "Rolf & Joachim Kühn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:0PkyAHFAg4K0Q88ffhQd5i",
+        "Result Album Name": "Brothers"
     },
     {
         "Title": "British Immigration",
@@ -149,7 +218,17 @@
         "ATC Track": "Chan's Song",
         "ATC Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "Chan's Song",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Nicholas Payton",
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qvpDkzqHVLeNKvqIL6ckD",
+        "Result Album Name": "Fingerpainting: The Music Of Herbie Hancock"
     },
     {
         "Title": "Prescription Drugs and Expiration Dates",
@@ -167,7 +246,15 @@
         "ATC Track": "MORNING SONG",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Morning Song",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IyRhloiDQSQzL2D3ntFFN",
+        "Result Album Name": "Stick Figures"
     },
     {
         "Title": "<I>The Joy of Sex</I>",
@@ -185,6 +272,16 @@
         "ATC Track": "Jane's Theme",
         "ATC Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "Jane's Theme",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Nicholas Payton",
+            "Mark Whitfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nTPdyApnfTjcIOfvV0Nw5",
+        "Result Album Name": "Fingerpainting: The Music Of Herbie Hancock"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 20:53:13"
+        "Scanned Date": "2022-02-06 20:53:13",
+        "Playlist URI": "3DSXbjcnk3vQZdNNVgvKlW",
+        "Playlist Link": "https://open.spotify.com/playlist/3DSXbjcnk3vQZdNNVgvKlW",
+        "Snapshot ID": "MSw4NWY3MWFiYTU5YmIxOTY0NDQxMTFkMTVmNmVjNjhjY2NmYTdhNzFj",
+        "Playlist Name": "ATC 2000-12-17 Sun All Things Considered"
     },
     {
         "Title": "Condoleezza Rice",
@@ -16,7 +20,16 @@
         "ATC Track": "Channels and Winds",
         "ATC Artists": [
             "Ravi Shankar"
-        ]
+        ],
+        "Result Track Name": "Channels and Winds",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Ravi Shankar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bVFpNJLeY8cFhFRIzwH6u",
+        "Result Album Name": "Passages"
     },
     {
         "Title": "Mideast Players to Washington",
@@ -34,7 +47,12 @@
         "ATC Track": "DEVIATION",
         "ATC Artists": [
             "BELA FLECK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ghana's Election",
@@ -46,7 +64,15 @@
         "ATC Track": "Calle Municion",
         "ATC Artists": [
             "Paco de Lucía"
-        ]
+        ],
+        "Result Track Name": "Calle Municion",
+        "Result Artist Names": [
+            "Paco de Lucía"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2O6uDLMbJ6wwyapPx4eZF3",
+        "Result Album Name": "Integral"
     },
     {
         "Title": "Voting Counts",
@@ -58,7 +84,12 @@
         "ATC Track": "Stonehenge",
         "ATC Artists": [
             "Weekend Guitar Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tuscaloosa, Alabama Tornado",
@@ -76,7 +107,15 @@
         "ATC Track": "Jingle Bells",
         "ATC Artists": [
             "The Nashville Superpickers"
-        ]
+        ],
+        "Result Track Name": "Jingle Bells",
+        "Result Artist Names": [
+            "The Nashville Sessions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5hsJKT0Z3NaSUsK2pWNkHU",
+        "Result Album Name": "Acoustic Christmas: Home on a Midnight Clear"
     },
     {
         "Title": "<i>Crouching Tiger, Hidden Dragon</i>",
@@ -88,7 +127,12 @@
         "ATC Track": "Ping Sha Luo Yan [Wild Geese DeScend on the Smooth Sand]",
         "ATC Artists": [
             "Lui Pui-Yuen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Indian Boarding Schools",
@@ -100,6 +144,14 @@
         "ATC Track": "Mountain Ghost",
         "ATC Artists": [
             "Radim Zenkl"
-        ]
+        ],
+        "Result Track Name": "Mountain Ghost",
+        "Result Artist Names": [
+            "Radim Zenkl"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7z7NGMgG8K5ffGDOL3EFLc",
+        "Result Album Name": "Czech It Out"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-03-23",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:10:11"
+        "Scanned Date": "2022-02-06 21:10:11",
+        "Playlist URI": "6UeNkvVF84ZNLH1lR9l5pO",
+        "Playlist Link": "https://open.spotify.com/playlist/6UeNkvVF84ZNLH1lR9l5pO",
+        "Snapshot ID": "MSwyNjcwZWM0ODJlMjJmY2QxNWY2MWJhNzk4NTU3M2VjZWU5YmRjOTZk",
+        "Playlist Name": "ATC 2000-03-23 Thu All Things Considered"
     },
     {
         "Title": "Pope at Yad Vashem",
@@ -28,7 +32,16 @@
         "ATC Track": "SUR UN VAISSEAU",
         "ATC Artists": [
             "CICCOLINI"
-        ]
+        ],
+        "Result Track Name": "Satie: Descriptions automatiques: No. 1, Sur un vaisseau",
+        "Result Artist Names": [
+            "Erik Satie",
+            "Aldo Ciccolini"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wPvT7ARQKCr14t59R6WZo",
+        "Result Album Name": "The Sound of Erik Satie (SD)"
     },
     {
         "Title": "Digital Signatures",
@@ -46,13 +59,26 @@
         "ATC Track": "Gierran (Enchantment)",
         "ATC Artists": [
             "Wimme"
-        ]
+        ],
+        "Result Track Name": "Gierran / Enchantment",
+        "Result Artist Names": [
+            "Wimme"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wEgZPX1oudKEqsRs23KSa",
+        "Result Album Name": "Gierran"
     },
     {
         "ATC Track": "REMEMBERING THE TJB",
         "ATC Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lockerbie Investigation",
@@ -64,7 +90,12 @@
         "ATC Track": "Partch: Two Studies on Ancient Greek Scales",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "House Chaplain",
@@ -88,7 +119,15 @@
         "ATC Track": "Clockshop",
         "ATC Artists": [
             "Billy McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Clockshop",
+        "Result Artist Names": [
+            "Billy McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4z94hR2TNzp8X1lYD1hbqs",
+        "Result Album Name": "Narada Guitar 2 (The Best Of Two Decades)"
     },
     {
         "Title": "IMF Chief",
@@ -106,7 +145,15 @@
         "ATC Track": "mr. snow",
         "ATC Artists": [
             "david schnaufer"
-        ]
+        ],
+        "Result Track Name": "Mr. Snow",
+        "Result Artist Names": [
+            "David Schnaufer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3awS0QTGoGRBVUoG0hDYhy",
+        "Result Album Name": "Dulcimer Player Deluxe"
     },
     {
         "Title": "Domestic Goats",
@@ -124,7 +171,15 @@
         "ATC Track": "APE NO MOUNTAIN HIGH ENOUGH",
         "ATC Artists": [
             "BERNIE KRAUSE"
-        ]
+        ],
+        "Result Track Name": "Ape No Mountain High Enough",
+        "Result Artist Names": [
+            "Bernie Krause"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ltDU2sMoAE052YXcviSzu",
+        "Result Album Name": "Gorillas In The Mix"
     },
     {
         "Title": "Cancer Athlete",
@@ -142,13 +197,29 @@
         "ATC Track": "Dizzy Fingers",
         "ATC Artists": [
             "Lincoln Mayorga"
-        ]
+        ],
+        "Result Track Name": "Dizzy Fingers",
+        "Result Artist Names": [
+            "Lincoln Mayorga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FRlsEkFKY4uVIwWL7dQMm",
+        "Result Album Name": "Sophisticated Innocence"
     },
     {
         "ATC Track": "Walking with Mr. Lee",
         "ATC Artists": [
             "Lee Allen",
             "His Band"
-        ]
+        ],
+        "Result Track Name": "Walking With Mr. Lee",
+        "Result Artist Names": [
+            "Lee Allen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2zGtRBpAbgUCSYLX5E3MQl",
+        "Result Album Name": "Ember House Of Hits"
     }
 ]

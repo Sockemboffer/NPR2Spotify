@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-09-06",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 20:58:39"
+        "Scanned Date": "2022-02-06 20:58:39",
+        "Playlist URI": "6v5K3jIb7gcqpgqTcIgumi",
+        "Playlist Link": "https://open.spotify.com/playlist/6v5K3jIb7gcqpgqTcIgumi",
+        "Snapshot ID": "MSxmZGMxNjNlYmRhYTBjMjkzMWFjMzAzMjBhZjFjYjNiZDM4NTE2NTMx",
+        "Playlist Name": "ATC 2000-09-06 Wed All Things Considered"
     },
     {
         "Title": "Millennium Summit",
@@ -28,13 +32,26 @@
         "ATC Track": "Get Smart",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Get Smart Theme",
+        "Result Artist Names": [
+            "Trevor Rabin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:41Qtlrz5byhVcq7mz2keLu",
+        "Result Album Name": "Get Smart (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "GOLFER'S BLUES",
         "ATC Artists": [
             "LAUREL AND HARDY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tennis",
@@ -52,13 +69,30 @@
         "ATC Track": "Trumpet Concerto in E flat major, H. 7e/1",
         "ATC Artists": [
             "Rolf Smedvig"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Layin' in the Cut",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Layin' in the Cut (feat. Jef Lee Johnson, Marc Ribot, Jamaaladeen Tacuma & G. Calvin Weston)",
+        "Result Artist Names": [
+            "James Carter",
+            "G. Calvin Weston",
+            "Jamaaladeen Tacuma",
+            "Jef Lee Johnson",
+            "Marc Ribot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xdJfb7hpQyoetIv295elb",
+        "Result Album Name": "Layin' In The Cut"
     },
     {
         "Title": "Gore - Economics",
@@ -83,13 +117,26 @@
         "ATC Artists": [
             "Wycliffe Gordon",
             "Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Straighten up and Fly Right",
         "ATC Artists": [
             "George Shearing"
-        ]
+        ],
+        "Result Track Name": "Straighten Up and Fly Right",
+        "Result Artist Names": [
+            "George Shearing Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FuNn92JAi4Bf6yrVS762Q",
+        "Result Album Name": "Paper Moon"
     },
     {
         "Title": "Fugitive",
@@ -101,7 +148,15 @@
         "ATC Track": "The Fugitive Theme",
         "ATC Artists": [
             "Si Zentner"
-        ]
+        ],
+        "Result Track Name": "The Fugitive Theme - Remastered",
+        "Result Artist Names": [
+            "Si Zentner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ol30eU69b7p5seYRyZD53",
+        "Result Album Name": "Ultra-Lounge: TV Town"
     },
     {
         "Title": "Ny Gridlock",
@@ -113,13 +168,26 @@
         "ATC Track": "NEW YORK, NEW YORK",
         "ATC Artists": [
             "WENDY MAE CHAMBERS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Terminal B",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Terminal B",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PCh3CF65yHW1LyZlPxzIw",
+        "Result Album Name": "Layin' In The Cut"
     },
     {
         "Title": "Bridgestone/Firestone",
@@ -143,13 +211,29 @@
         "ATC Track": "Modular Mix",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Modular Mix",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7l7Z0eHAZ4uoNho7moZlTv",
+        "Result Album Name": "Modulor Mix"
     },
     {
         "ATC Track": "MOOD",
         "ATC Artists": [
             "MILES DAVIS QUINTET"
-        ]
+        ],
+        "Result Track Name": "Mood",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6P3OTrStzzrAl0EB5VMhEi",
+        "Result Album Name": "The Complete Columbia Studio Recordings Of The Miles Davis Quintet January 1965 To June 1968"
     },
     {
         "Title": "Cannibals",
@@ -167,13 +251,29 @@
         "ATC Track": "The Hot Canary",
         "ATC Artists": [
             "Patrick Sheridan"
-        ]
+        ],
+        "Result Track Name": "The Hot Canary",
+        "Result Artist Names": [
+            "Patrick Sheridan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Wa3blJgx7LGNxI10fAEoC",
+        "Result Album Name": "Bon Bons"
     },
     {
         "ATC Track": "Tiger Rag",
         "ATC Artists": [
             "Patrick Sheridan"
-        ]
+        ],
+        "Result Track Name": "Tiger Rag",
+        "Result Artist Names": [
+            "Patrick Sheridan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zQga7FWq46hBDlGVnqfgw",
+        "Result Album Name": "Bon Bons"
     },
     {
         "Title": "West Timor",
@@ -197,7 +297,15 @@
         "ATC Track": "Tip of the Icebird",
         "ATC Artists": [
             "Michael Masley"
-        ]
+        ],
+        "Result Track Name": "Tip Of The Icebird",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AVXy4yJs0Cn2z3VM99ezX",
+        "Result Album Name": "Cymbalennium"
     },
     {
         "Title": "Chanticleer",
@@ -209,12 +317,26 @@
         "ATC Track": "Prelude in C w/ Ave Maria",
         "ATC Artists": [
             "Gayle Levant and Tommy Morgan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Brandenberg Concerto #3",
         "ATC Artists": [
             "Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": "Brandenburg Concerto #3 - 1st Movement",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Modern Mandolin Quartet"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:19DVA9L4jIN4FvbHmAaLqx",
+        "Result Album Name": "The Bach Variations"
     }
 ]

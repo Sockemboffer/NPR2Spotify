@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-07-28",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:03:28"
+        "Scanned Date": "2022-02-06 21:03:28",
+        "Playlist URI": "7ef6aXRPxbWWVgxZWufPUP",
+        "Playlist Link": "https://open.spotify.com/playlist/7ef6aXRPxbWWVgxZWufPUP",
+        "Snapshot ID": "MSxkOGQ2ZWEzZmU2YTMyOGI3YzBjZmU3ZTA4NTlmNDllMDQ0ZDQ1NmU3",
+        "Playlist Name": "ATC 2000-07-28 Fri All Things Considered"
     },
     {
         "Title": "On the Road",
@@ -22,13 +26,23 @@
         "ATC Track": "ALLEGRO",
         "ATC Artists": [
             "THE CANADIAN BRASS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "POLACCA AND TRIO",
         "ATC Artists": [
             "THE CANADIAN BRASS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Economy - GDP",
@@ -41,7 +55,12 @@
         "ATC Artists": [
             "Alice Harnoncourt",
             "violin - Concentus musicus Wien - Nikolaus Harnoncourt"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Football",
@@ -54,7 +73,12 @@
         "ATC Artists": [
             "Thomas Zehetmer",
             "violin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Voices from the Dust Bowl",
@@ -66,7 +90,16 @@
         "ATC Track": "Air",
         "ATC Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Air",
+        "Result Artist Names": [
+            "Richard Stoltzman",
+            "Mika Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5beCOazjqoUqdjIu0vFNeT",
+        "Result Album Name": "Duo Cantando"
     },
     {
         "Title": "North Korea Talks",
@@ -91,7 +124,16 @@
         "ATC Artists": [
             "Murray Perahia",
             "Piano"
-        ]
+        ],
+        "Result Track Name": "Wachet auf, ruft uns die Stimme, No. 2, BWV 645",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Murray Perahia"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:36BiPe234qbAkX7kKxCF8z",
+        "Result Album Name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words"
     },
     {
         "Title": "Peru - President",
@@ -109,7 +151,12 @@
         "ATC Track": "ITALIAN CONCERTO: PRESTO",
         "ATC Artists": [
             "JACQUES LOUISSIER"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Republican Convention",
@@ -128,7 +175,16 @@
         "ATC Artists": [
             "Ton Koopman",
             "organ"
-        ]
+        ],
+        "Result Track Name": "Toccata and Fugue in D Minor, BWV 565",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Ton Koopman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:15n32RZntyEvjPESYyIgQi",
+        "Result Album Name": "Bach, J.S.: Organ Works"
     },
     {
         "Title": "Napster Users",
@@ -140,12 +196,29 @@
         "ATC Track": "In a Landscape",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": "In a Landscape",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ykr8OH4879Jt7wOO5zPvG",
+        "Result Album Name": "Pieces In A Modern Style"
     },
     {
         "ATC Track": "SONATA NO. 1",
         "ATC Artists": [
             "PAUL GALBRAITH"
-        ]
+        ],
+        "Result Track Name": "Violin Sonata No. 1 in G Minor, BWV 1001 (arr. P. Galbraith): I. Adagio",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Paul Galbraith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3a8vXgiCVyUvKOSEi68z1A",
+        "Result Album Name": "Bach, J.S.: Sonatas and Partitas (Arr. for Guitar)"
     }
 ]

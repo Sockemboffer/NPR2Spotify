@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 20:53:47"
+        "Scanned Date": "2022-02-06 20:53:47",
+        "Playlist URI": "5pD4ja5y516ZwcFPrFaCbh",
+        "Playlist Link": "https://open.spotify.com/playlist/5pD4ja5y516ZwcFPrFaCbh",
+        "Snapshot ID": "MSxkYmE0MGQzM2QwNTI1NTZjOWE2ZjQ3YTFhNjZlZjQ0NzVjMDcwMDA5",
+        "Playlist Name": "ATC 2000-12-24 Sun All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -22,7 +26,15 @@
         "ATC Track": "Hunters",
         "ATC Artists": [
             "Chuck Durfor"
-        ]
+        ],
+        "Result Track Name": "Hunters",
+        "Result Artist Names": [
+            "Chuck Durfor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63b8OU51F21ae0MT8Gi16L",
+        "Result Album Name": "Fallen/Forgotten"
     },
     {
         "Title": "Harry Potter",
@@ -46,19 +58,43 @@
         "ATC Track": "Amazing Grace",
         "ATC Artists": [
             "Chet Atkins"
-        ]
+        ],
+        "Result Track Name": "Amazing Grace",
+        "Result Artist Names": [
+            "Chet Atkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1PAKMI0Et7s9g0FHMQPPmL",
+        "Result Album Name": "Chet Atkins Picks on the Hits"
     },
     {
         "ATC Track": "Santa Claus Is Coming to Town",
         "ATC Artists": [
             "The Nashville Superpickers"
-        ]
+        ],
+        "Result Track Name": "Santa Claus Is Coming To Town Medley",
+        "Result Artist Names": [
+            "The Nashville Country Singers"
+        ],
+        "Result Track-Match Percent": 0.9230769230769231,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1kjScEWzDCmaOo0pVGyDeZ",
+        "Result Album Name": "High On Christmas"
     },
     {
         "ATC Track": "Let it Snow",
         "ATC Artists": [
             "The Nashville Superpickers"
-        ]
+        ],
+        "Result Track Name": "Let It Snow! Let It Snow! Let It Snow!",
+        "Result Artist Names": [
+            "The Nashville Singers"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1yHhDSEiJlaSuhmcNZPEXM",
+        "Result Album Name": "Christmas"
     },
     {
         "Title": "National Story Project Two",
@@ -77,7 +113,16 @@
         "ATC Artists": [
             "Martin Simpson",
             "Wu Man"
-        ]
+        ],
+        "Result Track Name": "Dives and Lazarus",
+        "Result Artist Names": [
+            "Martin Simpson",
+            "Wu Man"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wb1bpnFOSIpAqR5CU74qJ",
+        "Result Album Name": "Music for the Motherless Child"
     },
     {
         "Title": "Novenas",
@@ -95,6 +140,11 @@
         "ATC Track": "Six Christmas Pieces Mendelssohn",
         "ATC Artists": [
             "James Galway and the Regensburger Domspatzen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

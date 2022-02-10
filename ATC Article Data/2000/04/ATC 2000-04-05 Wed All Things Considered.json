@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-04-05",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:07:23"
+        "Scanned Date": "2022-02-06 21:07:23",
+        "Playlist URI": "2ZOEFc3aCcdAbfFbjAGu1S",
+        "Playlist Link": "https://open.spotify.com/playlist/2ZOEFc3aCcdAbfFbjAGu1S",
+        "Snapshot ID": "MSw5N2MwODY1Y2QyZmM1ODgwNTIzMTYxODgzOGQyYzE3MGVlODYwNTQ1",
+        "Playlist Name": "ATC 2000-04-05 Wed All Things Considered"
     },
     {
         "Title": "Political Ads",
@@ -16,7 +20,16 @@
         "ATC Track": "Take My Heart",
         "ATC Artists": [
             "Djivan Gasparyan"
-        ]
+        ],
+        "Result Track Name": "Take My Heart",
+        "Result Artist Names": [
+            "Djivan Gasparyan",
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZEpTMrf55uG2X2kZ9WxWe",
+        "Result Album Name": "Black Rock"
     },
     {
         "Title": "Chinese Human Rights",
@@ -28,14 +41,32 @@
         "ATC Track": "the search",
         "ATC Artists": [
             "DAVID FRIEDMAN"
-        ]
+        ],
+        "Result Track Name": "The Search",
+        "Result Artist Names": [
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4OyCuHei8hZj3qqmP5t0Xi",
+        "Result Album Name": "Air Sculpture"
     },
     {
         "ATC Track": "Warrior Horsemen of the Spirit Thundering over Hills of Doubt to a ...",
         "ATC Artists": [
             "Mick Karn",
             "Terry Bozzio et. al."
-        ]
+        ],
+        "Result Track Name": "Warrior Horsemen of the Spirit Thundering Over Hills of Doubt to a Place of Hope",
+        "Result Artist Names": [
+            "David Torn",
+            "Mick Karn",
+            "Terry Bozzio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eYWFmXrZwPvgLY8GuIzkA",
+        "Result Album Name": "Polytown"
     },
     {
         "Title": "Internet Privacy",
@@ -47,13 +78,26 @@
         "ATC Track": "You Know That I Know",
         "ATC Artists": [
             "Paul Bollenback"
-        ]
+        ],
+        "Result Track Name": "You Know That I Know",
+        "Result Artist Names": [
+            "Paul Bollenback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5leMB0bYRW9Y87z9pXbgUx",
+        "Result Album Name": "Original Visions"
     },
     {
         "ATC Track": "Outside The Incrimination Field",
         "ATC Artists": [
             "Richard Bone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ins",
@@ -71,7 +115,15 @@
         "ATC Track": "McPherson",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Mcpherson",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7AVnHOUJUgGHlMBx11CdEq",
+        "Result Album Name": "Fingers And Thumbs"
     },
     {
         "Title": "<i>Wild Party</i>: The Musical",
@@ -83,13 +135,26 @@
         "ATC Track": "Singin' the Blues (Till My Daddy Comes Home)",
         "ATC Artists": [
             "Bix Beiderbecke"
-        ]
+        ],
+        "Result Track Name": "Singin' The Blues (Till My Daddy Comes Home)",
+        "Result Artist Names": [
+            "Bix Beiderbecke & His Gang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0MrP6Qlh7upgdrFqGKNn93",
+        "Result Album Name": "Singin' The Blues"
     },
     {
         "ATC Track": "PROVOCATION",
         "ATC Artists": [
             "JUMP WITH JOEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Engineered Foods",
@@ -113,13 +178,29 @@
         "ATC Track": "The Wings Of The Morning",
         "ATC Artists": [
             "Doyle Dykes"
-        ]
+        ],
+        "Result Track Name": "The Wings Of The Morning - Doyle Dykes",
+        "Result Artist Names": [
+            "Doyle Dykes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FK3SZZ92CAuJPKLESGDNK",
+        "Result Album Name": "Sounds Of Wood & Steel II"
     },
     {
         "ATC Track": "Mood Ring",
         "ATC Artists": [
             "Alison Brown"
-        ]
+        ],
+        "Result Track Name": "Mood Ring",
+        "Result Artist Names": [
+            "Alison Brown Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2IO3NkhZyMS2olnmLDj95V",
+        "Result Album Name": "Out of the Blue"
     },
     {
         "Title": "Investor Reaction",
@@ -131,7 +212,18 @@
         "ATC Track": "Edward K.",
         "ATC Artists": [
             "Laurent de Wilde"
-        ]
+        ],
+        "Result Track Name": "Edward K.",
+        "Result Artist Names": [
+            "Laurent De Wilde",
+            "Ira Coleman",
+            "Dion Parson",
+            "Bobby Thomas Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FKrMvYptsWJNK7BmDrbR4",
+        "Result Album Name": "Spoon-a-Rhythm"
     },
     {
         "Title": "Payne Stewart Crash Investigation",
@@ -143,7 +235,15 @@
         "ATC Track": "Delphinus",
         "ATC Artists": [
             "Scott Huckabay"
-        ]
+        ],
+        "Result Track Name": "Delphinus",
+        "Result Artist Names": [
+            "Scott Huckabay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2J0ngR3dDVLWffWdEAJzXF",
+        "Result Album Name": "Alchemy"
     },
     {
         "Title": "Serbian Opposition",
@@ -162,13 +262,26 @@
         "ATC Artists": [
             "Murray Perahia",
             "Piano"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sky King",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Sky King",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1MwCm9T4giWjGkw5VBPj6u",
+        "Result Album Name": "Unfinished Business"
     },
     {
         "Title": "Economic Conference",
@@ -186,7 +299,12 @@
         "ATC Track": "Invictus for band",
         "ATC Artists": [
             "Frederick Fennell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Book Review: <i>The Blood Latitudes</i>",
@@ -198,6 +316,14 @@
         "ATC Track": "Honey Boys on Parade",
         "ATC Artists": [
             "Great American Main St. Band"
-        ]
+        ],
+        "Result Track Name": "Dogs And Ponies Honey Boys On Parade (March) Snare Drum And Chord",
+        "Result Artist Names": [
+            "The Great American Main Street Band"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0wr2MLJwJbbbbIU3bInkJN",
+        "Result Album Name": "Under The Big Top"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-04-27",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:08:52"
+        "Scanned Date": "2022-02-06 21:08:52",
+        "Playlist URI": "0cgvLQfGxqhIMHde9KNFSh",
+        "Playlist Link": "https://open.spotify.com/playlist/0cgvLQfGxqhIMHde9KNFSh",
+        "Snapshot ID": "MSxmZDAwZjljNzE2NjdiOTVlYTY3YTAzYWRlYmNiYTdhM2NkZjZlMGM5",
+        "Playlist Name": "ATC 2000-04-27 Thu All Things Considered"
     },
     {
         "Title": "Inflation",
@@ -28,13 +32,28 @@
         "ATC Track": "Tarab",
         "ATC Artists": [
             "Nicky Skopelitis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Father of Waters",
         "ATC Artists": [
             "The Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Mississippi Suite (1925): I. Father of Waters",
+        "Result Artist Names": [
+            "Ferde Grofé",
+            "The Beau Hunks",
+            "Jan Stulen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4x7b8kzZkdS3XaTRJcS2XJ",
+        "Result Album Name": "The Modern American Music of Ferde Grofé"
     },
     {
         "Title": "Bobos",
@@ -64,13 +83,26 @@
         "ATC Track": "AVA (NU WAGE REMIX)",
         "ATC Artists": [
             "DAVID BYRNE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Luna de Miel en Guamá",
         "ATC Artists": [
             "Arturo Sandoval"
-        ]
+        ],
+        "Result Track Name": "Luna De Miel En Guama - Instrumental",
+        "Result Artist Names": [
+            "Arturo Sandoval"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1iTNfcGcsOtQ69KRWrFAoK",
+        "Result Album Name": "Turi"
     },
     {
         "Title": "Rachel Podger's Bach",
@@ -100,7 +132,12 @@
         "ATC Track": "DANCING ON THE CEILING",
         "ATC Artists": [
             "JIM HASKINS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cuban Exiles",
@@ -118,14 +155,30 @@
         "ATC Track": "WILLIE & THE HAND JIVE",
         "ATC Artists": [
             "JOHNNY OTIS"
-        ]
+        ],
+        "Result Track Name": "Willie And The Hand Jive",
+        "Result Artist Names": [
+            "Johnny Otis Show"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ToAe9XCKjFGin2Qfswwis",
+        "Result Album Name": "The Capitol Years"
     },
     {
         "ATC Track": "Bird's Lament",
         "ATC Artists": [
             "Moondog",
             "London Saxophonic"
-        ]
+        ],
+        "Result Track Name": "Bird's Lament",
+        "Result Artist Names": [
+            "Moondog"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1EuFHPoVGfyfEZBaYExK7v",
+        "Result Album Name": "Sax Pax For A Sax"
     },
     {
         "Title": "US-Russia Chat",
@@ -143,7 +196,15 @@
         "ATC Track": "The Winding Way",
         "ATC Artists": [
             "Dave Holland Quartet"
-        ]
+        ],
+        "Result Track Name": "The Winding Way",
+        "Result Artist Names": [
+            "Dave Holland Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iFRKQD9X4ZX75PBcGlReH",
+        "Result Album Name": "Dream Of The Elders"
     },
     {
         "Title": "Baseball Suspension",
@@ -161,12 +222,28 @@
         "ATC Track": "ROCK & ROLL PART 2",
         "ATC Artists": [
             "GARY GLITTER"
-        ]
+        ],
+        "Result Track Name": "Rock & Roll Part 2",
+        "Result Artist Names": [
+            "Gary Glitter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17ebcNznhPl7yf8zCfsNV8",
+        "Result Album Name": "The Ultimate Gary Glitter"
     },
     {
         "ATC Track": "Louie, Louie",
         "ATC Artists": [
             "Tuck Andress"
-        ]
+        ],
+        "Result Track Name": "Louie Louie",
+        "Result Artist Names": [
+            "Tuck Andress"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NXz7rTtLWam0bVW91ETue",
+        "Result Album Name": "Reckless Precision"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 20:53:11"
+        "Scanned Date": "2022-02-06 20:53:11",
+        "Playlist URI": "0YLBmYsdN1ANHYeDv0nmuo",
+        "Playlist Link": "https://open.spotify.com/playlist/0YLBmYsdN1ANHYeDv0nmuo",
+        "Snapshot ID": "MSw5ZWUyNjIxODE5OTA3NzQ3MTc2ZGVlN2I0ZjM0NWVlOGYxM2JjMzFl",
+        "Playlist Name": "ATC 2000-12-09 Sat All Things Considered"
     },
     {
         "Title": "What Happened",
@@ -34,7 +38,15 @@
         "ATC Track": "Unknown Territory",
         "ATC Artists": [
             "Dick Dale"
-        ]
+        ],
+        "Result Track Name": "Unknown Territory",
+        "Result Artist Names": [
+            "Dick Dale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AoKKjxn7rcLQUJlvzYa7R",
+        "Result Album Name": "Unknown Territory"
     },
     {
         "Title": "Barak to Resign",
@@ -46,7 +58,12 @@
         "ATC Track": "Must Be a Foxtrot",
         "ATC Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Romanian Elections",
@@ -64,7 +81,12 @@
         "ATC Track": "Must Be a Foxtrot",
         "ATC Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Recap",
@@ -82,6 +104,15 @@
         "ATC Track": "For Your Precious Love",
         "ATC Artists": [
             "Jerry Butler and the Impressions"
-        ]
+        ],
+        "Result Track Name": "For Your Precious Love",
+        "Result Artist Names": [
+            "Jerry Butler",
+            "The Impressions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rooxP3Rlm9mRVgTJInKxJ",
+        "Result Album Name": "Ten Commandments of Love (Original Recordings)"
     }
 ]

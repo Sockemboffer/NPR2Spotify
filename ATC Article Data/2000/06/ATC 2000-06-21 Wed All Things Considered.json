@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-06-21",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:04:56"
+        "Scanned Date": "2022-02-06 21:04:56",
+        "Playlist URI": "0cDiXI39NqXsZnyupXyb8A",
+        "Playlist Link": "https://open.spotify.com/playlist/0cDiXI39NqXsZnyupXyb8A",
+        "Snapshot ID": "MSwwYmZjNTM5Zjc5NWE3ODEwMTkzYzkxZDljMThkOWI0ZTk3ZjQyZTg4",
+        "Playlist Name": "ATC 2000-06-21 Wed All Things Considered"
     },
     {
         "Title": "Texas Death Row",
@@ -22,7 +26,15 @@
         "ATC Track": "Au Moulin",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Marie s'en va Au Moulin",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4oTpieI1AzgyytAMJx6XE9",
+        "Result Album Name": "Les 40 Chansons Préferées des Ami(e)s"
     },
     {
         "Title": "Oil Prices",
@@ -40,13 +52,29 @@
         "ATC Track": "Charm of Grace",
         "ATC Artists": [
             "John Richardson"
-        ]
+        ],
+        "Result Track Name": "Charm of Grace",
+        "Result Artist Names": [
+            "John Richardson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Bu6JYmDOQOLocfQf5Yxsr",
+        "Result Album Name": "Celtic Drums"
     },
     {
         "ATC Track": "Reconciliation",
         "ATC Artists": [
             "John Richardson"
-        ]
+        ],
+        "Result Track Name": "Reconciliation",
+        "Result Artist Names": [
+            "John Richardson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Qf91D9Ds95drX9A9FcG8Q",
+        "Result Album Name": "Celtic Drums"
     },
     {
         "Title": "Dover Deaths",
@@ -70,7 +98,15 @@
         "ATC Track": "ANGELIKA SUSPENDED",
         "ATC Artists": [
             "PALM FABRIC ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Angelika Suspended",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:742Eo4GllZNolOo40AxHF8",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "Title": "'St. Louis Woman'",
@@ -82,7 +118,16 @@
         "ATC Track": "Come Rain or Come Shine [*]",
         "ATC Artists": [
             "Count Basie"
-        ]
+        ],
+        "Result Track Name": "Come Rain or Come Shine",
+        "Result Artist Names": [
+            "Count Basie",
+            "Joe Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4riVFCkNUsOx6cXa4W2ul2",
+        "Result Album Name": "Joe Willims Sings - Count Basie Plays and Swings"
     },
     {
         "Title": "Richardson On the Hill",
@@ -106,7 +151,15 @@
         "ATC Track": "Amorita Dive",
         "ATC Artists": [
             "Richard Bone"
-        ]
+        ],
+        "Result Track Name": "Amorita Drive",
+        "Result Artist Names": [
+            "Richard Bone"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NUm62TV9cUMDtzP5Sm9Hx",
+        "Result Album Name": "Anthology"
     },
     {
         "Title": "Sprint-Worldcom",
@@ -124,13 +177,29 @@
         "ATC Track": "It Had to Be You",
         "ATC Artists": [
             "Esquivel"
-        ]
+        ],
+        "Result Track Name": "It Had to Be You",
+        "Result Artist Names": [
+            "Esquivel!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wXa1KkN9no6JqdaKoFcfx",
+        "Result Album Name": "Other Worlds, Other Sounds"
     },
     {
         "ATC Track": "Come Fly With Me",
         "ATC Artists": [
             "Count Basie"
-        ]
+        ],
+        "Result Track Name": "Come Fly With Me",
+        "Result Artist Names": [
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2upLE4DlZ6s3s1thXCBylU",
+        "Result Album Name": "Frankly Basie / Count Basie Plays The Hits Of Frank Sinatra"
     },
     {
         "Title": "Convicted Doctor",
@@ -142,13 +211,26 @@
         "ATC Track": "I Love You",
         "ATC Artists": [
             "The Jazz Giants"
-        ]
+        ],
+        "Result Track Name": "I Love You",
+        "Result Artist Names": [
+            "Under The Influence of Giants"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2Ukp3JzHTRnQbflkG0A93F",
+        "Result Album Name": "Under The Influence Of Giants"
     },
     {
         "ATC Track": "He's Wearing My Bathrobe",
         "ATC Artists": [
             "Original Score"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Atlanta Corruption Probe",
@@ -166,6 +248,16 @@
         "ATC Track": "Father of Waters",
         "ATC Artists": [
             "The Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Mississippi Suite (1925): I. Father of Waters",
+        "Result Artist Names": [
+            "Ferde Grofé",
+            "The Beau Hunks",
+            "Jan Stulen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4x7b8kzZkdS3XaTRJcS2XJ",
+        "Result Album Name": "The Modern American Music of Ferde Grofé"
     }
 ]

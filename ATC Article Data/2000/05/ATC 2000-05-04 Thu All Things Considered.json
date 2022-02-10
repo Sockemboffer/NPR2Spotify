@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-05-04",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:05:44"
+        "Scanned Date": "2022-02-06 21:05:44",
+        "Playlist URI": "1sGTns9zzB9CzHOhVbQG3j",
+        "Playlist Link": "https://open.spotify.com/playlist/1sGTns9zzB9CzHOhVbQG3j",
+        "Snapshot ID": "MSwyZDY1ZjRiY2M1MTE2NjJhNDNjMWRmZDIzYjMyZGU0ZjA3NzAzNjI5",
+        "Playlist Name": "ATC 2000-05-04 Thu All Things Considered"
     },
     {
         "Title": "Vieques",
@@ -28,7 +32,12 @@
         "ATC Track": "Dolores, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "H. Rap Brown",
@@ -40,13 +49,29 @@
         "ATC Track": "Goodbye Storyteller [For Fred Myrow]",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Goodbye Storyteller - For Fred Myrow",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WymrkGTk38KmsG6CWddAW",
+        "Result Album Name": "Elegiac Cycle"
     },
     {
         "ATC Track": "Walk With Me",
         "ATC Artists": [
             "Aubrey Ghent"
-        ]
+        ],
+        "Result Track Name": "Walk with Me",
+        "Result Artist Names": [
+            "Aubrey Ghent"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1c88WfcmJTnGaIGL7Gy81x",
+        "Result Album Name": "Sacred Steel Instrumentals"
     },
     {
         "Title": "South Lebanon",
@@ -64,7 +89,12 @@
         "ATC Track": "Days of Depature",
         "ATC Artists": [
             "Scott Huckabay"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lockerbie Day Two",
@@ -77,13 +107,30 @@
         "ATC Artists": [
             "Christopher Millard",
             "bassoon"
-        ]
+        ],
+        "Result Track Name": "Sonata for Bassoon and Piano",
+        "Result Artist Names": [
+            "Christopher Millard",
+            "Rena Sharon, piano"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5Fla4ShJfdDtCyJqQ2UPDD",
+        "Result Album Name": "Duos"
     },
     {
         "ATC Track": "A Show of Hands",
         "ATC Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "A Show of Hands",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KRIMIeAUDdX1U9UXvqQ6T",
+        "Result Album Name": "A Show of Hands 15"
     },
     {
         "Title": "<I>The Human Stain</I>",
@@ -101,7 +148,12 @@
         "ATC Track": "Aquí Como Allá",
         "ATC Artists": [
             "Marc Ribot"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Love Bug",
@@ -125,7 +177,16 @@
         "ATC Track": "Carpet Ride",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Magic Carpet Ride",
+        "Result Artist Names": [
+            "Anne Funke",
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18T2udoUdDPi0hwVYk3TZ6",
+        "Result Album Name": "Mindfulness in the Elementary Schools"
     },
     {
         "Title": "Blood Pressure",
@@ -143,13 +204,26 @@
         "ATC Track": "CLAYCUSSION",
         "ATC Artists": [
             "WARD HARTENSTEIN WITH THE EASTMAN PERCUSSION ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Just a Closer Walk With Thee",
         "ATC Artists": [
             "Aubrey Ghent"
-        ]
+        ],
+        "Result Track Name": "Just a Closer Walk with Thee",
+        "Result Artist Names": [
+            "Aubrey Ghent"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1aNIQw7YZeU7GrbjdwPRIZ",
+        "Result Album Name": "Can't Nobody Do Me Like Jesus"
     },
     {
         "Title": "Megan's Law",
@@ -173,7 +247,15 @@
         "ATC Track": "In the Dark",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "In The Dark",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4EZDJjFa8fO0X2zihaWE47",
+        "Result Album Name": "Lava"
     },
     {
         "Title": "Kent State Remembered",
@@ -191,12 +273,27 @@
         "ATC Track": "Planet No. 3",
         "ATC Artists": [
             "Lakuna"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "I'm Confessin' (That I Love You)",
         "ATC Artists": [
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": "I'm Confessin' (That I Love You)",
+        "Result Artist Names": [
+            "Stéphane Grappelli",
+            "Django Reinhardt",
+            "Quintette du Hot Club de France"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rqh9ExnLuViEBTbhcLIG3",
+        "Result Album Name": "European Swing Giants, Vol.6: Django Reinhardt –The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)"
     }
 ]

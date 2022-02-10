@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-14",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 20:53:12"
+        "Scanned Date": "2022-02-06 20:53:12",
+        "Playlist URI": "2Cth2hHpySwonPkbH4FfDS",
+        "Playlist Link": "https://open.spotify.com/playlist/2Cth2hHpySwonPkbH4FfDS",
+        "Snapshot ID": "MSwxM2Y3MWYxOWE0ZTNjOTUzZjM0OWJiYmY5MzRkYTU1OGMzNmFkNmNm",
+        "Playlist Name": "ATC 2000-12-14 Thu All Things Considered"
     },
     {
         "Title": "Presidential Transition",
@@ -22,13 +26,29 @@
         "ATC Track": "Hurricane Bob",
         "ATC Artists": [
             "Billy McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Hurricane Bob",
+        "Result Artist Names": [
+            "Billy McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38TplPaUX2OEhqKFWgQgoN",
+        "Result Album Name": "Fingerdance"
     },
     {
         "ATC Track": "Price of the Fire",
         "ATC Artists": [
             "John Stewart"
-        ]
+        ],
+        "Result Track Name": "Price Of The Fire",
+        "Result Artist Names": [
+            "John Stewart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VZ7f20D9GRJhgpzAwaoqU",
+        "Result Album Name": "Punch The Big Guy"
     },
     {
         "Title": "Transition Comment 1",
@@ -52,13 +72,23 @@
         "ATC Track": "Interplay for Mandolin Quartet and Violin/Shoka",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BALUBA",
         "ATC Artists": [
             "CHARLES NEVILLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alaska Airlines",
@@ -82,7 +112,16 @@
         "ATC Track": "Nothing on My Mind",
         "ATC Artists": [
             "Martin Tillman"
-        ]
+        ],
+        "Result Track Name": "Nothing On My Mind",
+        "Result Artist Names": [
+            "Tom Vedvik",
+            "Martin Tillman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wK778JewTIBnqr4joAVju",
+        "Result Album Name": "Amadeus On The Nile"
     },
     {
         "Title": "The Egyptian Songbird",
@@ -94,7 +133,15 @@
         "ATC Track": "FOOLS RUSH IN",
         "ATC Artists": [
             "PAUL CHASMAN"
-        ]
+        ],
+        "Result Track Name": "Fools Rush In",
+        "Result Artist Names": [
+            "Paul Marinaro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3X4TFDVVwobNVwqbhGTfn9",
+        "Result Album Name": "Without a Song"
     },
     {
         "Title": "Transition",
@@ -118,7 +165,18 @@
         "ATC Track": "My Sentiments Exactly",
         "ATC Artists": [
             "Andy Biskin"
-        ]
+        ],
+        "Result Track Name": "My Sentiments Exactly",
+        "Result Artist Names": [
+            "Andy Biskin",
+            "Ron Horton",
+            "Ben Allison",
+            "Matt Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LvMrYylPTqDiz8tptTgtT",
+        "Result Album Name": "Dogmental"
     },
     {
         "Title": "Clinton - Bush",
@@ -136,13 +194,29 @@
         "ATC Track": "Coyita",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Coyita",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:016vA5iOfrn9LdFWpoIYr3",
+        "Result Album Name": "Ronroco"
     },
     {
         "ATC Track": "Splanky",
         "ATC Artists": [
             "Jimmy McGriff"
-        ]
+        ],
+        "Result Track Name": "Splanky - Remastered",
+        "Result Artist Names": [
+            "Jimmy McGriff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PPJ7IcJ2Cq43hHlbJ6i4q",
+        "Result Album Name": "The Big Band: A Tribute To Basie"
     },
     {
         "Title": "Edmond Pope Freed",
@@ -172,13 +246,29 @@
         "ATC Track": "Rosasolis",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Rosasolis",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0IUzIl53w5sYSy8OMK2MXu",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "ATC Track": "Rosasolis",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Rosasolis",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0IUzIl53w5sYSy8OMK2MXu",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "Title": "Hispanic Children and Diabetes",
@@ -196,6 +286,14 @@
         "ATC Track": "The Snake and the Lotus (The Pond)",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Snake And The Lotus (The Pond) - 2008 Digital Remaster",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8235294117647058,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5sRbd4Fi95BZ6jytP81vFl",
+        "Result Album Name": "Signs Of Life"
     }
 ]

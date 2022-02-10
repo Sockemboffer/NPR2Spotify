@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 20:53:06"
+        "Scanned Date": "2022-02-06 20:53:06",
+        "Playlist URI": "4FGCARrS9Nv3HMRIF519FP",
+        "Playlist Link": "https://open.spotify.com/playlist/4FGCARrS9Nv3HMRIF519FP",
+        "Snapshot ID": "MSxjN2YyMGQ3NTA5ZmRlZmI2NzFkOTMwNGEyYjgyM2ZmMDYyYWJhMmQy",
+        "Playlist Name": "ATC 2000-12-03 Sun All Things Considered"
     },
     {
         "Title": "At the Court",
@@ -34,7 +38,16 @@
         "ATC Track": "Seven Steps to Heaven",
         "ATC Artists": [
             "World Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": "Seven Steps to Heaven (feat. Jack DeJohnette)",
+        "Result Artist Names": [
+            "World Saxophone Quartet",
+            "Jack DeJohnette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nNT79WuuR6e8nuhsHb9OD",
+        "Result Album Name": "Selim Sevad: A Tribute to Miles Davis"
     },
     {
         "Title": "First Quantum Election",
@@ -46,7 +59,12 @@
         "ATC Track": "Music In Similar Motion--excerpt",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "On the P.R. Front",
@@ -82,7 +100,15 @@
         "ATC Track": "Bolero de Django",
         "ATC Artists": [
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Bolero De Django",
+        "Result Artist Names": [
+            "DAVID GRISMAN QUINTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oN8xXzvj8tqIsnT45NMqj",
+        "Result Album Name": "Dawgwood"
     },
     {
         "Title": "National Story Project",
@@ -94,6 +120,11 @@
         "ATC Track": "Penny Arcade",
         "ATC Artists": [
             "Magic Organ"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

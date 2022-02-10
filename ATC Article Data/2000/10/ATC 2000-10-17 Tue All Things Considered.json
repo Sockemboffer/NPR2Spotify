@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-10-17",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 20:57:35"
+        "Scanned Date": "2022-02-06 20:57:35",
+        "Playlist URI": "5NrE3fa8wkRP4pTRh4Z3VV",
+        "Playlist Link": "https://open.spotify.com/playlist/5NrE3fa8wkRP4pTRh4Z3VV",
+        "Snapshot ID": "MSwwMmE0OGZjYjc4OWU5OGQ0NTFkOWE3MDA1NWFlZDdkYWZmYjlmN2Ji",
+        "Playlist Name": "ATC 2000-10-17 Tue All Things Considered"
     },
     {
         "Title": "Debate Prep",
@@ -29,13 +33,27 @@
         "ATC Artists": [
             "DAVID GREENBERGER",
             "TERRY ADAMS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Trans Mojave",
         "ATC Artists": [
             "Martin Tillman"
-        ]
+        ],
+        "Result Track Name": "Trans Mojave",
+        "Result Artist Names": [
+            "Tom Vedvik",
+            "Martin Tillman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dnYlUFvqkK1qfaazTjAEa",
+        "Result Album Name": "Amadeus On The Nile"
     },
     {
         "Title": "Mexico Aids",
@@ -53,13 +71,23 @@
         "ATC Track": "The Marvelous Harlequin Duck",
         "ATC Artists": [
             "Paul McCandless"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tail Wind",
         "ATC Artists": [
             "Paul McCandless"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S.S. Cole",
@@ -89,7 +117,15 @@
         "ATC Track": "TRAUMEREI",
         "ATC Artists": [
             "DANIEL SMITH"
-        ]
+        ],
+        "Result Track Name": "Traumerei",
+        "Result Artist Names": [
+            "Derek Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0nr2hNeoOItI38ejNijuI7",
+        "Result Album Name": "Passionate Piano & Romantic Guitars"
     },
     {
         "Title": "<i>Yankee Clipper</i>",
@@ -101,13 +137,29 @@
         "ATC Track": "The Train and the River",
         "ATC Artists": [
             "Jimmy Giuffre 3"
-        ]
+        ],
+        "Result Track Name": "The Train and the River",
+        "Result Artist Names": [
+            "Jimmy Giuffre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:21PGL4nJcX5xk2UlRw7F23",
+        "Result Album Name": "The Jimmy Giuffre 3"
     },
     {
         "ATC Track": "MORNING SONG",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Morning Song",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IyRhloiDQSQzL2D3ntFFN",
+        "Result Album Name": "Stick Figures"
     },
     {
         "Title": "Cease Fire - Palestinians React",
@@ -131,13 +183,29 @@
         "ATC Track": "Songs Without Words: Songs Without Words I",
         "ATC Artists": [
             "John Cale"
-        ]
+        ],
+        "Result Track Name": "Songs Without Words I",
+        "Result Artist Names": [
+            "John Cale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Tss0J4PWXM5LCckq18PQE",
+        "Result Album Name": "Words For The Dying"
     },
     {
         "ATC Track": "The Room of Forgotten Children",
         "ATC Artists": [
             "Harold Budd"
-        ]
+        ],
+        "Result Track Name": "The Room of Forgotten Children",
+        "Result Artist Names": [
+            "Harold Budd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZdEyhwbY0pdIxmUmSAzyT",
+        "Result Album Name": "The Room"
     },
     {
         "Title": "Presidential Campaign",
@@ -149,13 +217,28 @@
         "ATC Track": "Wild Man Blues",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": "Wild Man Blues",
+        "Result Artist Names": [
+            "Butch Thompson's Big Three",
+            "Jimmy Mazzy",
+            "Duke Heitger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yyPaqJ7osBMAlb5TeZ7Jx",
+        "Result Album Name": "'Tain't Nobody's Business"
     },
     {
         "ATC Track": "Backwater Blues",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Colon Cancer",
@@ -167,7 +250,15 @@
         "ATC Track": "kulture of jazz",
         "ATC Artists": [
             "wadada leo smith"
-        ]
+        ],
+        "Result Track Name": "Kulture Of Jazz",
+        "Result Artist Names": [
+            "Wadada Leo Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66OemqDupyRpKomfUH9RjB",
+        "Result Album Name": "Kulture Jazz"
     },
     {
         "Title": "Soundtrack to My Life",
@@ -179,13 +270,23 @@
         "ATC Track": "Newyorican/Aguinaldo Orocoveno",
         "ATC Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Why the Caged Bird Sings",
         "ATC Artists": [
             "The Catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "L.A. Transit Strike",
@@ -203,12 +304,22 @@
         "ATC Track": "Smoked Oysters",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "home",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

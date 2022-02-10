@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-01-31",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:14:08"
+        "Scanned Date": "2022-02-06 21:14:08",
+        "Playlist URI": "7E14OZ0loJu0muzgLhito3",
+        "Playlist Link": "https://open.spotify.com/playlist/7E14OZ0loJu0muzgLhito3",
+        "Snapshot ID": "MSwyOGQ0MTI0MzgxODM3NmU5MDRhMWIyMDI5MDA4YWM4NDc3MGY5OGI3",
+        "Playlist Name": "ATC 2000-01-31 Mon All Things Considered"
     },
     {
         "Title": "Primary Eve",
@@ -22,13 +26,26 @@
         "ATC Track": "SAUCER",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Saucer",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pDMMHPI0D7rGo4AoYOy2M",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "ATC Track": "Sky Lobby",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "McCain",
@@ -46,13 +63,29 @@
         "ATC Track": "Jimmy Carter, Pt. 1",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Jimmy Carter (Pt. 1)",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2V8AHyr6gbDKqRD8pmRI9H",
+        "Result Album Name": "This Land"
     },
     {
         "ATC Track": "Jimmy Carter, Pt. 2",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Jimmy Carter (Pt. 2)",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Y3CuQixid5dgmXPHvUhex",
+        "Result Album Name": "This Land"
     },
     {
         "Title": "'Sing, Sing, Sing'",
@@ -64,7 +97,15 @@
         "ATC Track": "LET'S DANCE",
         "ATC Artists": [
             "BENNY GOODMAN"
-        ]
+        ],
+        "Result Track Name": "Let's Dance",
+        "Result Artist Names": [
+            "Benny Goodman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7M1bSM3lsOFUR9WzYL2qr3",
+        "Result Album Name": "Ken Burns Jazz-Benny Goodman"
     },
     {
         "Title": "Illinois - Death Penalty",
@@ -88,13 +129,23 @@
         "ATC Track": "GRILLOS",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Swing 19",
         "ATC Artists": [
             "Neil Haverstick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Voters - Part Four",
@@ -106,7 +157,15 @@
         "ATC Track": "Time to Get Wize",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": "Time To Get Wize",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mmKKFcnSUpNoLyQOxOgkw",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "Title": "World Economic Forum - Russia",
@@ -130,7 +189,12 @@
         "ATC Track": "Variato 21 Canone alla Settima (a 1 Clav.)",
         "ATC Artists": [
             "Rosalyn Tureck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ice Aftermath",
@@ -149,14 +213,30 @@
         "ATC Artists": [
             "Ginger Baker",
             "James Carter et. al."
-        ]
+        ],
+        "Result Track Name": "Daylight",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:0TCQbYLXIR7m2JyYrwKHHv",
+        "Result Album Name": "Coward of the County"
     },
     {
         "ATC Track": "Ginger Spice",
         "ATC Artists": [
             "Ginger Baker",
             "James Carter et. al."
-        ]
+        ],
+        "Result Track Name": "Ginger Spice",
+        "Result Artist Names": [
+            "Ginger Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:34Spqf5950XYfR6rYU2dJF",
+        "Result Album Name": "Why?"
     },
     {
         "Title": "Alaska Air Crash",

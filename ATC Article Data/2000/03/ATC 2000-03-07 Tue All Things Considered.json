@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-03-07",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:09:20"
+        "Scanned Date": "2022-02-06 21:09:20",
+        "Playlist URI": "76gWtR6wvRlHgEsV7qhl5z",
+        "Playlist Link": "https://open.spotify.com/playlist/76gWtR6wvRlHgEsV7qhl5z",
+        "Snapshot ID": "MSwwZTU4ZDZkOWVlZGUzODVjMDRiMGE0NTk3MjRhZjQ5ODk5ODI3OTQw",
+        "Playlist Name": "ATC 2000-03-07 Tue All Things Considered"
     },
     {
         "Title": "Organic Food",
@@ -29,13 +33,28 @@
         "ATC Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Chance Meeting - Instrumental",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Edgar Meyer",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48cPRxowgcOZPSqWpXiA3W",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "ATC Track": "Munomuno",
         "ATC Artists": [
             "Samite"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mozambique",
@@ -65,13 +84,26 @@
         "ATC Track": "Adobe Dog House",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Licorice Particleboard",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": "Licorice Particleboard",
+        "Result Artist Names": [
+            "Gideon Freudmann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ERtwD1KdtNCoaRGmqZ9gZ",
+        "Result Album Name": "Hologram Crackers"
     },
     {
         "Title": "Right Whales",
@@ -89,13 +121,29 @@
         "ATC Track": "No Scratch Blues",
         "ATC Artists": [
             "Zydeco All Stars"
-        ]
+        ],
+        "Result Track Name": "No Scratch Blues",
+        "Result Artist Names": [
+            "Zydeco All-Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18zdxdGtdb9gjcnLHYhYCA",
+        "Result Album Name": "Best of Zydeco Instrumentals"
     },
     {
         "ATC Track": "Calypsico",
         "ATC Artists": [
             "Zydeco All Stars"
-        ]
+        ],
+        "Result Track Name": "Calypsico",
+        "Result Artist Names": [
+            "Zydeco All-Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ZqUM5oDCaCfjyZxH2blmA",
+        "Result Album Name": "Best of Zydeco Instrumentals"
     },
     {
         "Title": "Nasdaq",
@@ -113,7 +161,16 @@
         "ATC Track": "song of humanity",
         "ATC Artists": [
             "wadada leo smith"
-        ]
+        ],
+        "Result Track Name": "Song of Humanity",
+        "Result Artist Names": [
+            "Wadada Leo Smith",
+            "Adam Rudolph"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fd4UnuQIGSXsuQwKXq7Wh",
+        "Result Album Name": "Compassion"
     },
     {
         "Title": "Vatican Apology",
@@ -125,7 +182,15 @@
         "ATC Track": "Surrender",
         "ATC Artists": [
             "Jami Sieber"
-        ]
+        ],
+        "Result Track Name": "Surrender",
+        "Result Artist Names": [
+            "Jami Sieber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69ExQH8DeE7nLgwOxG5y1T",
+        "Result Album Name": "Lush Mechanique"
     },
     {
         "Title": "Clinton Guns",
@@ -143,13 +208,30 @@
         "ATC Track": "Rising Sun",
         "ATC Artists": [
             "Vicki Richards"
-        ]
+        ],
+        "Result Track Name": "Rising Sun (Feat. Amitava Chatterjee)",
+        "Result Artist Names": [
+            "Vicki Richards",
+            "Amitava Chatterjee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:61CAYqW1F0TY0eps24uS3F",
+        "Result Album Name": "Cleansing Waters: Pura Vida"
     },
     {
         "ATC Track": "Parting the Waters",
         "ATC Artists": [
             "Vicki Richards"
-        ]
+        ],
+        "Result Track Name": "Parting the Waters (Negril) [feat. Robert Thomas Jr, Timothy Richards & Amitava Chatterjee]",
+        "Result Artist Names": [
+            "Vicki Richards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bhGZnFDQACCWiF0VimQHH",
+        "Result Album Name": "Parting The Waters"
     },
     {
         "Title": "Korea Talks",
@@ -167,7 +249,12 @@
         "ATC Track": "PIETA",
         "ATC Artists": [
             "ADRIAN LEGG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kosovo",
@@ -179,13 +266,26 @@
         "ATC Track": "OVERCAST",
         "ATC Artists": [
             "VALARIE MORRIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Heritage",
         "ATC Artists": [
             "Margie Adam"
-        ]
+        ],
+        "Result Track Name": "Heritage",
+        "Result Artist Names": [
+            "Margie Adam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ze9BqrRw6g0dbTloLFcyq",
+        "Result Album Name": "Soon and Again"
     },
     {
         "Title": "Ralph Rapson",
@@ -197,12 +297,28 @@
         "ATC Track": "WALKING",
         "ATC Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "Variation 12 - Walking",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6aYEHBxza5KStDRX7SG0mi",
+        "Result Album Name": "The Chopsticks Variations"
     },
     {
         "ATC Track": "ALLEGRO",
         "ATC Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "Variation 10 - Allegro",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2d18nk0sd15zpP38TJflp2",
+        "Result Album Name": "The Chopsticks Variations"
     }
 ]

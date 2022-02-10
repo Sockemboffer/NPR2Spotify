@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-07-17",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:02:43"
+        "Scanned Date": "2022-02-06 21:02:43",
+        "Playlist URI": "46nUS5alkcEGAsgtmxVcR4",
+        "Playlist Link": "https://open.spotify.com/playlist/46nUS5alkcEGAsgtmxVcR4",
+        "Snapshot ID": "MSwzMzNjZjJkY2QzYjE2MmEwZDhiODZkNGY0YTMxZWFmMWE4NTUyOWFk",
+        "Playlist Name": "ATC 2000-07-17 Mon All Things Considered"
     },
     {
         "Title": "Marriage Penalty",
@@ -28,13 +32,29 @@
         "ATC Track": "CITYSCAPE",
         "ATC Artists": [
             "GARY CHANG"
-        ]
+        ],
+        "Result Track Name": "Cityscape",
+        "Result Artist Names": [
+            "Gary Wolk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4IthY1MF28efKBjZHVF5VI",
+        "Result Album Name": "Gary Wolk, Vol. 26"
     },
     {
         "ATC Track": "Gathering of the Tribes",
         "ATC Artists": [
             "Craig Chaquico"
-        ]
+        ],
+        "Result Track Name": "Gathering Of The Tribes",
+        "Result Artist Names": [
+            "Craig Chaquico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AI0NxWZp3EAla0SgU5C5g",
+        "Result Album Name": "Panorama: The Best Of Craig Chaquico"
     },
     {
         "Title": "Doctors And Electronic Records",
@@ -52,13 +72,26 @@
         "ATC Track": "ASIAN WOMEN DESIRE CORRESPONDENCE",
         "ATC Artists": [
             "FOREVER EINSTEIN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Knocking on Forbidden Doors",
         "ATC Artists": [
             "Enigma"
-        ]
+        ],
+        "Result Track Name": "Knocking On Forbidden Doors",
+        "Result Artist Names": [
+            "Enigma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6An3uQtJqcY1S06PgwuDu6",
+        "Result Album Name": "MCMXC a.D."
     },
     {
         "Title": "'Drumming'",
@@ -70,7 +103,15 @@
         "ATC Track": "On the Forest Floor",
         "ATC Artists": [
             "Bob Holroyd"
-        ]
+        ],
+        "Result Track Name": "On the Forest Floor",
+        "Result Artist Names": [
+            "Bob Holroyd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4O3IaKKiaJpvi7rJqLH2cM",
+        "Result Album Name": "Path - An Ambient Journey From Windham Hill"
     },
     {
         "Title": "Whittier, Alaska",
@@ -88,13 +129,29 @@
         "ATC Track": "Yellow Bell",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Yellow Bell",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bLNnRbvvRoH0O3e5Dry3p",
+        "Result Album Name": "Out Of The Woods"
     },
     {
         "ATC Track": "Fall",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Fall 77",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nOfMh71HrodHRZZNArISP",
+        "Result Album Name": "Out Of The Woods"
     },
     {
         "Title": "Candidates On The Road",
@@ -112,13 +169,29 @@
         "ATC Track": "HOME GROWNING",
         "ATC Artists": [
             "ROBERT MUSSO"
-        ]
+        ],
+        "Result Track Name": "Home Growning",
+        "Result Artist Names": [
+            "Robert Musso"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tOeS1dDZ2vk5eLlrM6Xnj",
+        "Result Album Name": "Active Resonance"
     },
     {
         "ATC Track": "Love on the Run",
         "ATC Artists": [
             "Galactic"
-        ]
+        ],
+        "Result Track Name": "Love On The Run",
+        "Result Artist Names": [
+            "Galactic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20X0v8ta7R4FdNKHmLqLaM",
+        "Result Album Name": "Crazyhorse Mongoose"
     },
     {
         "Title": "<I>Failure</I>",
@@ -131,13 +204,30 @@
         "ATC Artists": [
             "louis armstrong",
             "ella fitzgerald"
-        ]
+        ],
+        "Result Track Name": "They All Laughed",
+        "Result Artist Names": [
+            "Ella Fitzgerald",
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Ek9MGxmHvE5sRROVWyIgr",
+        "Result Album Name": "The Complete Ella And Louis On Verve"
     },
     {
         "ATC Track": "THEY ALL LAUGHED",
         "ATC Artists": [
             "GEORGE SHEARING"
-        ]
+        ],
+        "Result Track Name": "They All Laughed",
+        "Result Artist Names": [
+            "George Shearing"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7DXQNtkZD5xUPgRiahPpYj",
+        "Result Album Name": "'S Paradise - The Gershwin Songbook (The Instrumentals)"
     },
     {
         "Title": "Middle East",
@@ -155,13 +245,26 @@
         "ATC Track": "SHADOWS OF THE EARTH",
         "ATC Artists": [
             "ROY FINCH"
-        ]
+        ],
+        "Result Track Name": "Shadows of the Earth",
+        "Result Artist Names": [
+            "Roy Finch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gfM0ypAOFKCzC9mXmekxG",
+        "Result Album Name": "Shadows of the Earth"
     },
     {
         "ATC Track": "BUTTERFLY'S JOY",
         "ATC Artists": [
             "MAX LASSER'S ARK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dangerous Railroads",
@@ -179,12 +282,29 @@
         "ATC Track": "REVIVAL",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Revival",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cudrPMgSTYdqo2JejQVLJ",
+        "Result Album Name": "Interstate (Special Edition)"
     },
     {
         "ATC Track": "Eleanor Rigby",
         "ATC Artists": [
             "Wayne Johnson"
-        ]
+        ],
+        "Result Track Name": "Eleanor Rigby",
+        "Result Artist Names": [
+            "John Tesh",
+            "Wayne Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lLNdW6TRywKdOQEyGJ6dh",
+        "Result Album Name": "Discovery"
     }
 ]

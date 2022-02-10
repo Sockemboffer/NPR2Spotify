@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-01-20",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:13:38"
+        "Scanned Date": "2022-02-06 21:13:38",
+        "Playlist URI": "6WsSOWSECqXkYWTEY6yoSv",
+        "Playlist Link": "https://open.spotify.com/playlist/6WsSOWSECqXkYWTEY6yoSv",
+        "Snapshot ID": "MSxmMWY0NDZhYzkxZDZiNGFlYzQ1YzU4NzAxMjAyMmYyOGI5YjU3OTli",
+        "Playlist Name": "ATC 2000-01-20 Thu All Things Considered"
     },
     {
         "Title": "Low-Power Radio",
@@ -30,13 +34,26 @@
             "Sidney Weiss",
             "Hamilton",
             "malcolm et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Night Club",
         "ATC Artists": [
             "The Saexophones"
-        ]
+        ],
+        "Result Track Name": "Night Club 1960",
+        "Result Artist Names": [
+            "The Saexophones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69kuU9RMWZNaq0IHHfeerz",
+        "Result Album Name": "Saexotango"
     },
     {
         "Title": "Tobacco Suit",
@@ -54,13 +71,26 @@
         "ATC Track": "Sophisticated Lady",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Sophisticated Lady",
+        "Result Artist Names": [
+            "James Blackmon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6Q5PHo8ai09xFuopOEbVgb",
+        "Result Album Name": "Born Too Late"
     },
     {
         "ATC Track": "Wild Cat",
         "ATC Artists": [
             "Hot Club of Cowtown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Helms at the UN",
@@ -84,13 +114,29 @@
         "ATC Track": "The Simpsons",
         "ATC Artists": [
             "Birdsongs of the Mesozoic"
-        ]
+        ],
+        "Result Track Name": "The Simpsons",
+        "Result Artist Names": [
+            "Birdsongs of the Mesozoic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6d6d0Da74VpQ9yGVltI5h0",
+        "Result Album Name": "Pyroclastics"
     },
     {
         "ATC Track": "Queenie's Waltz",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Queenie's Waltz",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71873AY22GZwjDxA2B1ErA",
+        "Result Album Name": "Wine, Women & Waltz"
     },
     {
         "Title": "Gay Marriage in Vermont",
@@ -102,7 +148,15 @@
         "ATC Track": "Divorcee's Waltz",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Divorcee's Waltz",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FTwbKgUcynaTFtycwqcdH",
+        "Result Album Name": "Guitars and Other Cathedrals"
     },
     {
         "Title": "Sonic Youth",
@@ -114,7 +168,17 @@
         "ATC Track": "Heroes",
         "ATC Artists": [
             "American Composers Orchestra"
-        ]
+        ],
+        "Result Track Name": "Heroes",
+        "Result Artist Names": [
+            "Philip Glass",
+            "American Composers Orchestra",
+            "Dennis Russell Davies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62WuO4SWQpsrzJm6OGIv2o",
+        "Result Album Name": "Philip Glass: Heroes Symphony"
     },
     {
         "Title": "George W. Bush",
@@ -138,13 +202,26 @@
         "ATC Track": "Friendship Quick Step, for band",
         "ATC Artists": [
             "Dodworth Saxhorn Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "INFERNAL CAKEWALK",
         "ATC Artists": [
             "BLACK CAT ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Infernal Cakewalk",
+        "Result Artist Names": [
+            "Black Cat Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BgSXwCnr8ZyVG17avQQrF",
+        "Result Album Name": "Black Cat Orchestra"
     },
     {
         "Title": "Yegor Gaidar",
@@ -156,13 +233,30 @@
         "ATC Track": "Lachrymae Antiquæ [1604]",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Love's Journey",
         "ATC Artists": [
             "Eddie Daniels"
-        ]
+        ],
+        "Result Track Name": "Love's Long Journey (feat. Joe Locke, Tom Ranier, Dave Finck & Joe LaBarbera) - Live",
+        "Result Artist Names": [
+            "Eddie Daniels",
+            "Joe Locke",
+            "Tom Ranier",
+            "Dave Finck",
+            "Joe LaBarbera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dcrh8Gpf8khEz9WEvzPKv",
+        "Result Album Name": "Homecoming: Live at the Iridium (Live)"
     },
     {
         "Title": "Arafat and Clinton",
@@ -180,7 +274,15 @@
         "ATC Track": "Please Stand By",
         "ATC Artists": [
             "Chris Bucheit"
-        ]
+        ],
+        "Result Track Name": "Please Stand By",
+        "Result Artist Names": [
+            "Chris Bucheit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7l5TLA1A32ECTOxeseAjgy",
+        "Result Album Name": "Naive Work Songs"
     },
     {
         "Title": "Ski Helmets",
@@ -192,14 +294,31 @@
         "ATC Track": "Please Stand By",
         "ATC Artists": [
             "Chris Bucheit"
-        ]
+        ],
+        "Result Track Name": "Please Stand By",
+        "Result Artist Names": [
+            "Chris Bucheit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7l5TLA1A32ECTOxeseAjgy",
+        "Result Album Name": "Naive Work Songs"
     },
     {
         "ATC Track": "Turn of the Century",
         "ATC Artists": [
             "David Grisman",
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Turn Of The Century",
+        "Result Artist Names": [
+            "David Grisman",
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6n3J4GVqop9W5jV4CvNOkF",
+        "Result Album Name": "Tone Poems"
     },
     {
         "Title": "Ms. Literacy",
@@ -217,12 +336,30 @@
         "ATC Track": "Father of Waters",
         "ATC Artists": [
             "The Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Mississippi Suite (1925): I. Father of Waters",
+        "Result Artist Names": [
+            "Ferde Grofé",
+            "The Beau Hunks",
+            "Jan Stulen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4x7b8kzZkdS3XaTRJcS2XJ",
+        "Result Album Name": "The Modern American Music of Ferde Grofé"
     },
     {
         "ATC Track": "Draggin' the Bow",
         "ATC Artists": [
             "Hot Club of Cowtown"
-        ]
+        ],
+        "Result Track Name": "Draggin' the Bow",
+        "Result Artist Names": [
+            "Hot Club Of Cowtown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7AYadgiW8T7kmimiZ4ZzXx",
+        "Result Album Name": "Western Clambake"
     }
 ]

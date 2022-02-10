@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-06-08",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:04:16"
+        "Scanned Date": "2022-02-06 21:04:16",
+        "Playlist URI": "76OKqjuL6P5L0qcZanLm4E",
+        "Playlist Link": "https://open.spotify.com/playlist/76OKqjuL6P5L0qcZanLm4E",
+        "Snapshot ID": "MSw2ODM4NWM0MmE2M2FmM2M3MWQyZTZhOGE4OWU0M2IwMTFhY2M0Yzcy",
+        "Playlist Name": "ATC 2000-06-08 Thu All Things Considered"
     },
     {
         "Title": "Ru - 486",
@@ -22,13 +26,26 @@
         "ATC Track": "GINDER'S THEME",
         "ATC Artists": [
             "TERRA COTTA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "underpass overture",
         "ATC Artists": [
             "freeway philharmonic"
-        ]
+        ],
+        "Result Track Name": "Underpass Overture",
+        "Result Artist Names": [
+            "Freeway Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gfJtbz9RaLU67uxo2fWcU",
+        "Result Album Name": "Sonic Detour"
     },
     {
         "Title": "Cuba - Baseball",
@@ -46,13 +63,31 @@
         "ATC Track": "Tillana",
         "ATC Artists": [
             "Trilok Gurtu"
-        ]
+        ],
+        "Result Track Name": "Tillana",
+        "Result Artist Names": [
+            "Trilok Gurtu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5clVCoGTURAxbm4pO9sCt4",
+        "Result Album Name": "Crazy Saints"
     },
     {
         "ATC Track": "AL HIZAM AL DHAHBI",
         "ATC Artists": [
             "ANOUAR BRAHEM"
-        ]
+        ],
+        "Result Track Name": "Al Hizam Al Dhahbi",
+        "Result Artist Names": [
+            "Anouar Brahem",
+            "John Surman",
+            "Dave Holland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cpQpYQ6BV3J3P7WmZQMJF",
+        "Result Album Name": "Thimar"
     },
     {
         "Title": "Reform Party",
@@ -70,13 +105,23 @@
         "ATC Track": "BALLET MUSIC FAUST- ALLEGRETTO (MOUVEMENT DE VALSE)",
         "ATC Artists": [
             "ADAMS DUO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BALLET MUSIC FAUST- ALLEGRETTO (MOUVEMENT DE VALSE)",
         "ATC Artists": [
             "ADAMS DUO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Museum Quotas",
@@ -94,7 +139,15 @@
         "ATC Track": "Composition in Raga Rageshri",
         "ATC Artists": [
             "Natraj"
-        ]
+        ],
+        "Result Track Name": "Composition in Raga Rageshri (arr. P. Scarff and A. Rai)",
+        "Result Artist Names": [
+            "Natraj"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bqEzUcagpuR3DNdlDUIBm",
+        "Result Album Name": "Natraj: Goat Also Gallops"
     },
     {
         "Title": "Blacks and Whites in Prison",
@@ -106,7 +159,15 @@
         "ATC Track": "In a Sentimental Mood",
         "ATC Artists": [
             "Mark Isham"
-        ]
+        ],
+        "Result Track Name": "In A Sentimental Mood",
+        "Result Artist Names": [
+            "Mark Isham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0LdmVjoFZZRXzKyzCHcm4t",
+        "Result Album Name": "Blue Sun"
     },
     {
         "Title": "US - Mexico Water",
@@ -118,7 +179,15 @@
         "ATC Track": "dolce tristezza",
         "ATC Artists": [
             "andre feriante"
-        ]
+        ],
+        "Result Track Name": "Dolce Tristezza",
+        "Result Artist Names": [
+            "Andre Feriante"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dt6HQ20GPkioilLZluI9l",
+        "Result Album Name": "Fuego De Luna"
     },
     {
         "Title": "Gore - Cyber Crime",
@@ -130,7 +199,15 @@
         "ATC Track": "The Mercury Grid",
         "ATC Artists": [
             "David Torn"
-        ]
+        ],
+        "Result Track Name": "The Mercury Grid",
+        "Result Artist Names": [
+            "David Torn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23iudB2gCzMrTQKl96t3EE",
+        "Result Album Name": "Cloud About Mercury"
     },
     {
         "Title": "Macnelly Obit",
@@ -144,14 +221,32 @@
             "PETER ERSKINE",
             "JOHN TAYLOR",
             "PALLE DANIELSSON"
-        ]
+        ],
+        "Result Track Name": "New Old Age",
+        "Result Artist Names": [
+            "Peter Erskine",
+            "Palle Danielsson",
+            "John Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dDPbkTzhC3z7oLH8QtQlT",
+        "Result Album Name": "You Never Know"
     },
     {
         "ATC Track": "TWO SOULS BLENDED",
         "ATC Artists": [
             "galt macdermot",
             "new pulse"
-        ]
+        ],
+        "Result Track Name": "Two Souls Blended",
+        "Result Artist Names": [
+            "Galt MacDermot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:585VhdVoEHXmHEJNZzzT5f",
+        "Result Album Name": "Reflections of a Radically Right Wing Composer"
     },
     {
         "Title": "Microsoft",
@@ -175,13 +270,26 @@
         "ATC Track": "birds flying",
         "ATC Artists": [
             "oystein sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "I TOOK UP THE RUNES",
         "ATC Artists": [
             "JAN GARBAREK"
-        ]
+        ],
+        "Result Track Name": "I Took Up The Runes",
+        "Result Artist Names": [
+            "Jan Garbarek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hAna4jHiYrnbaheFqItxF",
+        "Result Album Name": "I Took Up The Runes"
     },
     {
         "Title": "Kid Journalists",
@@ -193,7 +301,12 @@
         "ATC Track": "La Mariposa, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>The Married Man</I>",
@@ -205,12 +318,22 @@
         "ATC Track": "VARIATIO 30.",
         "ATC Artists": [
             "daniel barenboim"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "LEARNED PIGS & FIREPROOF WOMEN",
         "ATC Artists": [
             "BELLINZONA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

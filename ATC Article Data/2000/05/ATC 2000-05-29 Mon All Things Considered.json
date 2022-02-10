@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-05-29",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:06:59"
+        "Scanned Date": "2022-02-06 21:06:59",
+        "Playlist URI": "2SmYYOlfaPfls8UCXyllJO",
+        "Playlist Link": "https://open.spotify.com/playlist/2SmYYOlfaPfls8UCXyllJO",
+        "Snapshot ID": "MSwzY2JiZTRmMTJjNGNmMDk5OTc4YmRkYmFjNTA4MjA3ZDU2ODgxNDJh",
+        "Playlist Name": "ATC 2000-05-29 Mon All Things Considered"
     },
     {
         "Title": "Clinton Abroad",
@@ -22,7 +26,12 @@
         "ATC Track": "THE SPELL OF ARMS AND VOICES",
         "ATC Artists": [
             "PAUL CARROL BINKLEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Venezeula",
@@ -34,7 +43,15 @@
         "ATC Track": "NATURA, FESTA DO INTERIOR",
         "ATC Artists": [
             "EGBERTO GISMONTI GROUP"
-        ]
+        ],
+        "Result Track Name": "Natura, Festa Do Interior",
+        "Result Artist Names": [
+            "Egberto Gismonti Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YGhoIld7lQ1WjcXvJsPsc",
+        "Result Album Name": "Música De Sobrevivência"
     },
     {
         "Title": "Summer Movies",
@@ -52,7 +69,15 @@
         "ATC Track": "Ignition",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Ignition",
+        "Result Artist Names": [
+            "Michael Mendes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5O5lsbFrsi9iH9eeayvMpq",
+        "Result Album Name": "Vision"
     },
     {
         "Title": "Lebanon Reunions",
@@ -70,7 +95,12 @@
         "ATC Track": "MY CAPE BRETON HOME",
         "ATC Artists": [
             "JACQUELINE SCHWAB"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Give My Regards to Broadway'",
@@ -100,13 +130,30 @@
         "ATC Track": "Someone to Watch over Me",
         "ATC Artists": [
             "Liz Story"
-        ]
+        ],
+        "Result Track Name": "Someone To Watch Over Me",
+        "Result Artist Names": [
+            "Liz Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43B7K1y4lVcZD2TXev7U5r",
+        "Result Album Name": "Liz Story"
     },
     {
         "ATC Track": "Dha Ra Dha Tin Na",
         "ATC Artists": [
             "Natraj"
-        ]
+        ],
+        "Result Track Name": "Dha Ra Dha Tin Na",
+        "Result Artist Names": [
+            "Warne Russell",
+            "Natraj"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VRHv5MiWLyYBhoQpGIy4h",
+        "Result Album Name": "Natraj: Goat Also Gallops"
     },
     {
         "Title": "Sri Lanka",
@@ -118,13 +165,30 @@
         "ATC Track": "Duet",
         "ATC Artists": [
             "Natraj"
-        ]
+        ],
+        "Result Track Name": "Duet",
+        "Result Artist Names": [
+            "Natraj"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7IMsno4kVBtsx4Vj6NyBHR",
+        "Result Album Name": "Deccan Dance"
     },
     {
         "ATC Track": "footwear",
         "ATC Artists": [
             "natraj"
-        ]
+        ],
+        "Result Track Name": "Footwear",
+        "Result Artist Names": [
+            "Mick Goodrick",
+            "Natraj"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cr8SdfrlsB8KWbgISC7SU",
+        "Result Album Name": "Natraj: Meet Me Anywhere"
     },
     {
         "Title": "Peru Elections",
@@ -136,7 +200,12 @@
         "ATC Track": "Water",
         "ATC Artists": [
             "Uakti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Speech to Text: Part 1",
@@ -149,7 +218,15 @@
         "ATC Artists": [
             "Ginger Baker",
             "James Carter et. al."
-        ]
+        ],
+        "Result Track Name": "Cyril Davies",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2uOx9bf4DLYNf6n3BxZ4g2",
+        "Result Album Name": "Coward of the County"
     },
     {
         "Title": "Speech to Text: Part 2",
@@ -167,13 +244,29 @@
         "ATC Track": "Skeleton",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Skeleton",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0EYgHSsKqRxTQZ31Thypxi",
+        "Result Album Name": "Falling Of The Roof"
     },
     {
         "ATC Track": "Jesus Loves Me",
         "ATC Artists": [
             "Ginger Baker",
             "James Carter et. al."
-        ]
+        ],
+        "Result Track Name": "Jesus Loves Me",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:239HfexXjqZFG4KGSIaqUk",
+        "Result Album Name": "Coward of the County"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-12-06",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 20:53:10"
+        "Scanned Date": "2022-02-06 20:53:10",
+        "Playlist URI": "6XyQKsLlzviVe02ak7zvbj",
+        "Playlist Link": "https://open.spotify.com/playlist/6XyQKsLlzviVe02ak7zvbj",
+        "Snapshot ID": "MSwzODM2YjdiOTVkZmM0Y2RjNzY0ZDA2ODUxZjEzMmFiODQxMGRhNDRh",
+        "Playlist Name": "ATC 2000-12-06 Wed All Things Considered"
     },
     {
         "Title": "Florida Supreme Court",
@@ -28,14 +32,27 @@
         "ATC Track": "St. Qt. #1 First Movement",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "I Still Haven't Found What I'm Looking For",
         "ATC Artists": [
             "Booker T",
             "the MG'S"
-        ]
+        ],
+        "Result Track Name": "I Still Haven't Found What I'm Looking For",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1jM8vuLbZEET6pF6jERm5Z",
+        "Result Album Name": "That'S The Way It Should Be"
     },
     {
         "Title": "Cholesterol and Diet",
@@ -47,7 +64,15 @@
         "ATC Track": "Liebesfreud",
         "ATC Artists": [
             "Patrick Sheridan"
-        ]
+        ],
+        "Result Track Name": "Liebesfreud",
+        "Result Artist Names": [
+            "Patrick Sheridan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5z7WhL8dqxEV85RZ6q0XJv",
+        "Result Album Name": "Bon Bons"
     },
     {
         "Title": "South Pole Postcard",
@@ -59,13 +84,26 @@
         "ATC Track": "Hudra-mi",
         "ATC Artists": [
             "Knut Hamre and Steve Tibbetts"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "How High the Moon",
         "ATC Artists": [
             "Milt Hinton"
-        ]
+        ],
+        "Result Track Name": "How High The Moon",
+        "Result Artist Names": [
+            "Milt Hinton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nn4gq0VB0ERvAoo4wkGuG",
+        "Result Album Name": "Bassically With Blue"
     },
     {
         "Title": "Russia - Edmond Pope Convicted",
@@ -89,13 +127,29 @@
         "ATC Track": "SZOMORU VASARNAP (GLOOMY SUNDAY)",
         "ATC Artists": [
             "KRONOS QUARTET"
-        ]
+        ],
+        "Result Track Name": "Szomoru Vasarnap - Gloomy Sunday",
+        "Result Artist Names": [
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0bL9BiqFTuvfoDTmPbyOaH",
+        "Result Album Name": "Kronos Caravan"
     },
     {
         "ATC Track": "THE SUSPENSION BRIDGE AT IGUAZU FALLS",
         "ATC Artists": [
             "TORTOISE"
-        ]
+        ],
+        "Result Track Name": "The Suspension Bridge at Iguazú Falls",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oGDihb54BJoYldvjorUXJ",
+        "Result Album Name": "TNT"
     },
     {
         "Title": "Living Daylights",
@@ -107,7 +161,15 @@
         "ATC Track": "Time on My Hands",
         "ATC Artists": [
             "Lee Konitz"
-        ]
+        ],
+        "Result Track Name": "Time On My Hands",
+        "Result Artist Names": [
+            "Lee Konitz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0omL6MOwOet4lhSUust8h5",
+        "Result Album Name": "In Harvard Square"
     },
     {
         "Title": "Seminole County",
@@ -131,14 +193,24 @@
         "ATC Track": "Sonata for Trombone and Piano, 1993: Allegro Giocoso",
         "ATC Artists": [
             "American Brass Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bye and Bye",
         "ATC Artists": [
             "Guy Van Duser",
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "California Power",
@@ -156,7 +228,15 @@
         "ATC Track": "Na Neblina [In the Fog]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Na Neblina",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iNHYLausXiN4cavZUrD0i",
+        "Result Album Name": "Sao Paulo Confessions"
     },
     {
         "Title": "Hudson River",
@@ -168,13 +248,29 @@
         "ATC Track": "Na Neblina [In the Fog]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Na Neblina",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iNHYLausXiN4cavZUrD0i",
+        "Result Album Name": "Sao Paulo Confessions"
     },
     {
         "ATC Track": "After You've Gone",
         "ATC Artists": [
             "Beau Hunks Saxophone Soctette"
-        ]
+        ],
+        "Result Track Name": "After You've Gone",
+        "Result Artist Names": [
+            "The Beau Hunks Saxophone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:5Xjq5ckSKbRpuEiR0fv5MG",
+        "Result Album Name": "The Beau Hunks Saxophone Soctette"
     },
     {
         "Title": "Urban Farmers",
@@ -192,13 +288,28 @@
         "ATC Track": "Great Green Sea Snake",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "FIRE-FLIES",
         "ATC Artists": [
             "THE PALM COURT THEATRE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Fire-Flies",
+        "Result Artist Names": [
+            "Roger Eckersley",
+            "Palm Court Theatre Orchestra",
+            "Anthony Godwin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6153846153846154,
+        "Result Track URI": "spotify:track:0zE9HTaTFzjOvW1FEYOcew",
+        "Result Album Name": "Down Peacock Alley"
     },
     {
         "Title": "Act of Settlement",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-09-18",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 20:59:19"
+        "Scanned Date": "2022-02-06 20:59:19",
+        "Playlist URI": "0WdOCuE3SKywlA6GkJzB5r",
+        "Playlist Link": "https://open.spotify.com/playlist/0WdOCuE3SKywlA6GkJzB5r",
+        "Snapshot ID": "MSwxYTE4ODEwMzUxY2E1YWIwOTY1YTJjZDZiZjA4OTZjMTY3MDFlYjJm",
+        "Playlist Name": "ATC 2000-09-18 Mon All Things Considered"
     },
     {
         "Title": "Washington Senate Race",
@@ -28,13 +32,26 @@
         "ATC Track": "A Go Go",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "A Go Go",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bcyZfaAWCN5SwJgYToxkN",
+        "Result Album Name": "A Go Go"
     },
     {
         "ATC Track": "CONSIDER THIS",
         "ATC Artists": [
             "THE GUY SMILEY BLUES EXCHANGE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Testing Discrimination In Hiring",
@@ -52,13 +69,29 @@
         "ATC Track": "Horse",
         "ATC Artists": [
             "Dirty Three"
-        ]
+        ],
+        "Result Track Name": "Last Horse on the Sand",
+        "Result Artist Names": [
+            "Dirty Three"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4k9Qk1XP1fJBcjOZakyu6l",
+        "Result Album Name": "Ocean Songs"
     },
     {
         "ATC Track": "At The Bar",
         "ATC Artists": [
             "Dirty Three"
-        ]
+        ],
+        "Result Track Name": "At the Bar",
+        "Result Artist Names": [
+            "Dirty Three"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VX2GVQ2uEcMDrc5auM7RZ",
+        "Result Album Name": "Horse Stories"
     },
     {
         "Title": "The Story Behind 'Purple Haze'",
@@ -70,13 +103,30 @@
         "ATC Track": "purple haze",
         "ATC Artists": [
             "the hampton string quartet"
-        ]
+        ],
+        "Result Track Name": "Purple Haze",
+        "Result Artist Names": [
+            "Jimmi Hendrix",
+            "The Hampton String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11YbczSMKtdFLKYwqJ372S",
+        "Result Album Name": "Sympathy For The Devil"
     },
     {
         "ATC Track": "BAKA",
         "ATC Artists": [
             "OUTBACK"
-        ]
+        ],
+        "Result Track Name": "Baka",
+        "Result Artist Names": [
+            "Outback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17vyu7wwITOfAUTGBVXM6F",
+        "Result Album Name": "Baka"
     },
     {
         "Title": "Olympic Mood",
@@ -94,13 +144,29 @@
         "ATC Track": "CUBAN CONNECTIONS",
         "ATC Artists": [
             "OUTBACK"
-        ]
+        ],
+        "Result Track Name": "Cuban Connections",
+        "Result Artist Names": [
+            "Outback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UV73xnNZM3vGylFOQioxx",
+        "Result Album Name": "Dance the Devil Away"
     },
     {
         "ATC Track": "TWO IN THE BUSH",
         "ATC Artists": [
             "OUTBACK"
-        ]
+        ],
+        "Result Track Name": "Two In the Bush",
+        "Result Artist Names": [
+            "Outback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aNz4c5U8F3Ib154JdH3gV",
+        "Result Album Name": "Dance the Devil Away"
     },
     {
         "Title": "U.S. - Peru",
@@ -124,13 +190,23 @@
         "ATC Track": "Interplay for Mandolin Quartet and Violin/Shoka",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Polka",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "L.A. Transit Strike",
@@ -148,7 +224,12 @@
         "ATC Track": "A LONG TIME AGO PEOPLE DECIDE TO LIVE ON THE EARTH",
         "ATC Artists": [
             "FOREVER EINSTEIN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Prescribed Burning",
@@ -166,13 +247,29 @@
         "ATC Track": "TIME WILL END",
         "ATC Artists": [
             "NIGHTINGALE"
-        ]
+        ],
+        "Result Track Name": "Time Will End",
+        "Result Artist Names": [
+            "Nightingale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xF44tTIExe2DhIXEYDYKR",
+        "Result Album Name": "The Coming Dawn"
     },
     {
         "ATC Track": "Sleeping Pill",
         "ATC Artists": [
             "Luna"
-        ]
+        ],
+        "Result Track Name": "Sleeping Pill",
+        "Result Artist Names": [
+            "Luna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46n5uVpbjHjXuFfT9ecOCk",
+        "Result Album Name": "Bewitched"
     },
     {
         "Title": "China - Vatican",
@@ -190,12 +287,22 @@
         "ATC Track": "Clint Meets Topov",
         "ATC Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Newyorican/Aguinaldo Orocoveno",
         "ATC Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

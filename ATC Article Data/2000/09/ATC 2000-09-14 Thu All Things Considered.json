@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2000-09-14",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 20:59:09"
+        "Scanned Date": "2022-02-06 20:59:09",
+        "Playlist URI": "4Hzn5b9cT4Ex10LmscCskO",
+        "Playlist Link": "https://open.spotify.com/playlist/4Hzn5b9cT4Ex10LmscCskO",
+        "Snapshot ID": "MSxmMjFjOTgyOTk1NDE2ZGM2ZWU4YTJmOGY3M2QyYmQ1YzNiODg5MGFl",
+        "Playlist Name": "ATC 2000-09-14 Thu All Things Considered"
     },
     {
         "Title": "Vetoes for $$?",
@@ -34,13 +38,23 @@
         "ATC Track": "June Lullaby",
         "ATC Artists": [
             "Akiko Ebi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "June Lullaby",
         "ATC Artists": [
             "Akiko Ebi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pregnant Cult Member",
@@ -65,7 +79,15 @@
         "ATC Artists": [
             "Nelson Riddle",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Theme From Route 66",
+        "Result Artist Names": [
+            "Nelson Riddle"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6KZpSdpQGbTxP5jKfKY8cV",
+        "Result Album Name": "Route 66 And Other TV Themes"
     },
     {
         "Title": "Letters",
@@ -83,7 +105,12 @@
         "ATC Track": "Chilli Hot",
         "ATC Artists": [
             "Us3"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Farms & Global Warming",
@@ -109,13 +136,32 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "Death by Triple Fiddle",
+        "Result Artist Names": [
+            "Joshua Bell",
+            "Sam Bush",
+            "Mike Marshall",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7058823529411765,
+        "Result Track URI": "spotify:track:00J3XtiSZlceaiMP5Rz6SF",
+        "Result Album Name": "Le Mystère Stradivarius"
     },
     {
         "ATC Track": "No Apologies",
         "ATC Artists": [
             "Strength in Numbers"
-        ]
+        ],
+        "Result Track Name": "No Apologies",
+        "Result Artist Names": [
+            "Strength In Numbers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dc47m3jf8kTIp82OJXWB7",
+        "Result Album Name": "Telluride Sessions"
     },
     {
         "Title": "India's Prime Minister In Washington",
@@ -133,13 +179,29 @@
         "ATC Track": "Sea Gypsy",
         "ATC Artists": [
             "Scott Huckabay"
-        ]
+        ],
+        "Result Track Name": "Sea Gypsy",
+        "Result Artist Names": [
+            "Scott Huckabay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ZZgWgOjTxZdTIdw6vnV6N",
+        "Result Album Name": "Harmonic Reflections"
     },
     {
         "ATC Track": "Hamp's Hump",
         "ATC Artists": [
             "Galactic"
-        ]
+        ],
+        "Result Track Name": "Hamp's Hump",
+        "Result Artist Names": [
+            "Galactic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QpDC9BJG8gWWdulfaVCvR",
+        "Result Album Name": "Crazyhorse Mongoose"
     },
     {
         "Title": "Listener Questions for the Candidates",
@@ -151,7 +213,12 @@
         "ATC Track": "Hunt, Chase",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bobby Knight",
@@ -169,12 +236,28 @@
         "ATC Track": "Na Neblina [In the Fog]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Na Neblina",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iNHYLausXiN4cavZUrD0i",
+        "Result Album Name": "Sao Paulo Confessions"
     },
     {
         "ATC Track": "GARDEN OF DREAMS",
         "ATC Artists": [
             "ALI AKBAR KHAN"
-        ]
+        ],
+        "Result Track Name": "Garden of Dreams (Madhu Malati)",
+        "Result Artist Names": [
+            "Ali Akbar Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1N0TB2KU5NnNhOtQ6NhYJ3",
+        "Result Album Name": "Garden of Dreams"
     }
 ]
