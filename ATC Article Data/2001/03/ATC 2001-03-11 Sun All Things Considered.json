@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-03-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:31:55"
+        "Scanned Date": "2022-02-06 21:31:55",
+        "Playlist URI": "5bNg83kW3s3b6zsqshR7Kq",
+        "Playlist Link": "https://open.spotify.com/playlist/5bNg83kW3s3b6zsqshR7Kq",
+        "Snapshot ID": "MSwyY2EwMGIwMjFjM2E5OWU5NTFmOTZhZTUzMjhmYWZjNzJhYjNkOTQy",
+        "Playlist Name": "ATC 2001-03-11 Sun All Things Considered"
     },
     {
         "Title": "Taliban and Idolatry of Art",
@@ -22,7 +26,16 @@
         "ATC Track": "Partita No.5 In G Major, Bwv 829",
         "ATC Artists": [
             "Glenn Gould"
-        ]
+        ],
+        "Result Track Name": "Partita No. 5 in G Major, BWV 829: I. Praeambulum",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Glenn Gould"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3CspX97yD0H59XOjPNGcbe",
+        "Result Album Name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues & Fantasies"
     },
     {
         "Title": "China and Child Labor",
@@ -40,7 +53,12 @@
         "ATC Track": "Concerto Grosso in F major, Op.6/2, HWV 320",
         "ATC Artists": [
             "Amati Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Zapatistas In Mexico City",
@@ -64,7 +82,15 @@
         "ATC Track": "Graduation",
         "ATC Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "Graduation",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Anisqmfjm2CbWm7BMv6Vk",
+        "Result Album Name": "Plains"
     },
     {
         "Title": "Georgia Bluegrass",
@@ -83,6 +109,11 @@
         "ATC Artists": [
             "Cologne Radio Orchestra",
             "pinchas Steinberg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-03-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:32:49"
+        "Scanned Date": "2022-02-06 21:32:49",
+        "Playlist URI": "7zE4IRikJCS95xda6WuYpF",
+        "Playlist Link": "https://open.spotify.com/playlist/7zE4IRikJCS95xda6WuYpF",
+        "Snapshot ID": "MSxkNzFiMjZhMWU2YmJmNDlmN2Q0YmE2MzdhNjU5OWViNmYxNDk0NTRi",
+        "Playlist Name": "ATC 2001-03-25 Sun All Things Considered"
     },
     {
         "Title": "Foot and Mouth",
@@ -22,7 +26,15 @@
         "ATC Track": "The Cowboys (Main Theme)",
         "ATC Artists": [
             "City of Prague Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": "Main Theme (From \"The Cowboys\")",
+        "Result Artist Names": [
+            "The City of Prague Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3e4t974aohmhAmTSAge4DQ",
+        "Result Album Name": "The Wild West"
     },
     {
         "Title": "Du Art Gets An Oscar",
@@ -34,19 +46,40 @@
         "ATC Track": "Bricklayer's Beautiful Daughter",
         "ATC Artists": [
             "Will Ackerman"
-        ]
+        ],
+        "Result Track Name": "The Bricklayer's Beautiful Daughter",
+        "Result Artist Names": [
+            "Will Ackerman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10PcJgNwEdMwfBXmj2pYBi",
+        "Result Album Name": "Returning"
     },
     {
         "ATC Track": "The Pink Panther Theme",
         "ATC Artists": [
             "Henry Mancini"
-        ]
+        ],
+        "Result Track Name": "The Pink Panther Theme - From the Mirisch-G & E Production \"The Pink Panther\"",
+        "Result Artist Names": [
+            "Henry Mancini"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rcEA09uIGmaZJxSCY0ovD",
+        "Result Album Name": "The Essential Henry Mancini"
     },
     {
         "ATC Track": "Walkin' the Dog",
         "ATC Artists": [
             "George Gershwin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Macedonia",
@@ -64,7 +97,15 @@
         "ATC Track": "I FALL IN LOVE TOO EASILY",
         "ATC Artists": [
             "RALPH TOWNER"
-        ]
+        ],
+        "Result Track Name": "I Fall In Love Too Easily",
+        "Result Artist Names": [
+            "Ralph Towner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Zcf4geWAnnyjlbJshEHb7",
+        "Result Album Name": "Open Letter"
     },
     {
         "Title": "Coffee and the Law",
@@ -82,6 +123,11 @@
         "ATC Track": "Walkin' the Dog",
         "ATC Artists": [
             "George Gershwin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

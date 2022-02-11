@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:20:19"
+        "Scanned Date": "2022-02-06 21:20:19",
+        "Playlist URI": "5j3Px9DEABK82N4zIfNZkl",
+        "Playlist Link": "https://open.spotify.com/playlist/5j3Px9DEABK82N4zIfNZkl",
+        "Snapshot ID": "MSxmMzMyN2U1NmViYzNiZDdjNDI3YTI3MzVlOWI5NmVjY2M0ZGQ5NDI1",
+        "Playlist Name": "ATC 2001-09-08 Sat All Things Considered"
     },
     {
         "Title": "Racism Document",
@@ -16,7 +20,15 @@
         "ATC Track": "My Girl",
         "ATC Artists": [
             "Rasha"
-        ]
+        ],
+        "Result Track Name": "My Girl",
+        "Result Artist Names": [
+            "Rasha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DfGG7j8jLsGqSpQxv0UOJ",
+        "Result Album Name": "Let Me Be"
     },
     {
         "Title": "Kabul Trial",
@@ -28,7 +40,15 @@
         "ATC Track": "Let Me Be",
         "ATC Artists": [
             "Rasha"
-        ]
+        ],
+        "Result Track Name": "Let me Be",
+        "Result Artist Names": [
+            "Rasha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55LFnuBpZN6mWHhMF4UNXj",
+        "Result Album Name": "Let Me Be"
     },
     {
         "Title": "Prison Procreation",
@@ -40,7 +60,12 @@
         "ATC Track": "\"pour le pizzicato\" from etudes for string orchestra",
         "ATC Artists": [
             "STRATOS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Venus Envy",
@@ -52,7 +77,17 @@
         "ATC Track": "Sisters",
         "ATC Artists": [
             "Rosemary Clooney"
-        ]
+        ],
+        "Result Track Name": "Sisters (with Betty Clooney & Paul Weston & His Orchestra)",
+        "Result Artist Names": [
+            "Rosemary Clooney",
+            "Betty Clooney",
+            "Paul Weston And His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ulfzXGryvQwmpaiuaAkVC",
+        "Result Album Name": "Irving Berlin's \"White Christmas\""
     },
     {
         "Title": "Sisters' Gift",
@@ -64,13 +99,28 @@
         "ATC Track": "Jerry Wiggins",
         "ATC Artists": [
             "Finaglin'"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Cherry Beat",
         "ATC Artists": [
             "The In Group"
-        ]
+        ],
+        "Result Track Name": "Cherry Beat",
+        "Result Artist Names": [
+            "The IN Group",
+            "Glen Campbell",
+            "Leon Russell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zqvAQ4QKG9SOr2ekKMb2n",
+        "Result Album Name": "The Swinging 12 String"
     },
     {
         "Title": "Lukashenko",
@@ -88,7 +138,22 @@
         "ATC Track": "Utensil Oceans",
         "ATC Artists": [
             "Project Z"
-        ]
+        ],
+        "Result Track Name": "Utensil Oceans",
+        "Result Artist Names": [
+            "Project Z",
+            "Col. Bruce Hampton",
+            "Count M'Butu",
+            "Derek Trucks",
+            "Jeff Sipe",
+            "Jimmy Herring",
+            "Rev. Oliver Wells",
+            "Ricky Keller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kbVkkXceOF5ygTBJ8kgFp",
+        "Result Album Name": "Project Z"
     },
     {
         "Title": "Letters",

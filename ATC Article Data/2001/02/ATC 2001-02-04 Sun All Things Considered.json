@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-02-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:33:20"
+        "Scanned Date": "2022-02-06 21:33:20",
+        "Playlist URI": "1WsFqHr6GhRxxXRlfLK8I1",
+        "Playlist Link": "https://open.spotify.com/playlist/1WsFqHr6GhRxxXRlfLK8I1",
+        "Snapshot ID": "NCxiYjk2OGMyMWRlOTFjYmE3ZTY3MWNlZmRmY2Q2ZWQ4NDExNTc1ZTM2",
+        "Playlist Name": "ATC 2001-02-04 Sun All Things Considered"
     },
     {
         "Title": "Democratic Retreat",
@@ -16,7 +20,12 @@
         "ATC Track": "Cantata No. 75, \"Die Elenden sollen essen,\" BWV 75 (BC A94)",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Surplus",
@@ -35,7 +44,15 @@
         "ATC Artists": [
             "Jack West",
             "Curvature"
-        ]
+        ],
+        "Result Track Name": "Hauling Stones",
+        "Result Artist Names": [
+            "Jack West & Curvature"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52W6zJTxDhYsS84CxGjLOe",
+        "Result Album Name": "As We Know It"
     },
     {
         "Title": "Wigs",
@@ -47,13 +64,26 @@
         "ATC Track": "Jamaican Turnaround",
         "ATC Artists": [
             "Michael Wolff"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Thank You (falettinme Be Mice Elf Agin)",
         "ATC Artists": [
             "Michael Wolff"
-        ]
+        ],
+        "Result Track Name": "Thank You (Falettinme Be Mice Elf Agin) - Live",
+        "Result Artist Names": [
+            "Michael Manson"
+        ],
+        "Result Track-Match Percent": 0.9333333333333333,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2U1RLLkOXwrHgFMG87LNTI",
+        "Result Album Name": "Thumpin' Live"
     },
     {
         "Title": "Tosca!",
@@ -83,6 +113,14 @@
         "ATC Track": "FRED'S LIFE",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Fred's Life",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fZL8koylBOxkSEd6Gb5H0",
+        "Result Album Name": "Charlie Hunter Trio"
     }
 ]

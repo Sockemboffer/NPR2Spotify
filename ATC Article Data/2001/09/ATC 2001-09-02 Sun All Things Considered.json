@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:19:59"
+        "Scanned Date": "2022-02-06 21:19:59",
+        "Playlist URI": "3ObRqFaTKe8nPgF9nn4gL6",
+        "Playlist Link": "https://open.spotify.com/playlist/3ObRqFaTKe8nPgF9nn4gL6",
+        "Snapshot ID": "MSw2N2M2NjNhNjU0ZTIzOTgzNjIxMzRmZmI5NzQ5ZmE5ZGFmOTIwZjZk",
+        "Playlist Name": "ATC 2001-09-02 Sun All Things Considered"
     },
     {
         "Title": "Racism Conference",
@@ -22,7 +26,15 @@
         "ATC Track": "Sama Guitare",
         "ATC Artists": [
             "El Hadj N' Diaye"
-        ]
+        ],
+        "Result Track Name": "Sama Guitare",
+        "Result Artist Names": [
+            "El Hadj N'Diaye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QOvteUnINX8buiOuDz3M5",
+        "Result Album Name": "14 Kilómetros"
     },
     {
         "Title": "Barnard Obit",
@@ -34,7 +46,12 @@
         "ATC Track": "AVA (NU WAGE REMIX)",
         "ATC Artists": [
             "DAVID BYRNE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Troy Donahue Obit",
@@ -46,7 +63,15 @@
         "ATC Track": "A Summer Place Theme",
         "ATC Artists": [
             "London Festival Orchestra"
-        ]
+        ],
+        "Result Track Name": "Theme From A Summer Place",
+        "Result Artist Names": [
+            "London Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4QvGMMq98D0ZCJQfA4zveP",
+        "Result Album Name": "Award-Winning Movie Themes : The 60's"
     },
     {
         "Title": "Spike Jonze",
@@ -64,13 +89,23 @@
         "ATC Track": "Roadblocks Here and Here",
         "ATC Artists": [
             "Toby Dammit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Smoked Oysters",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Month Ahead",
@@ -88,7 +123,15 @@
         "ATC Track": "Blue Smoke",
         "ATC Artists": [
             "Merle Travis"
-        ]
+        ],
+        "Result Track Name": "Blue Smoke - Instrumental",
+        "Result Artist Names": [
+            "Merle Travis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73WHROjyeJwsDaJmtNkpCm",
+        "Result Album Name": "The Merle Travis Guitar"
     },
     {
         "Title": "Jetski",
@@ -106,6 +149,11 @@
         "ATC Track": "Corps Étranger",
         "ATC Artists": [
             "Alabína"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

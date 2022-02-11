@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:17:13"
+        "Scanned Date": "2022-02-06 21:17:13",
+        "Playlist URI": "2ZlIUeiF2BHxku6W9HwerT",
+        "Playlist Link": "https://open.spotify.com/playlist/2ZlIUeiF2BHxku6W9HwerT",
+        "Snapshot ID": "MSxkNzY0NDQzMTdmOGJkNGY2NTViODAyOGIyZGI2ZWI3OGE3MTc2ODYw",
+        "Playlist Name": "ATC 2001-11-17 Sat All Things Considered"
     },
     {
         "Title": "Kunduz",
@@ -52,13 +56,26 @@
         "ATC Track": "Dance Mediterranea",
         "ATC Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": "Dance Mediterranea",
+        "Result Artist Names": [
+            "Simon Shaheen & Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:60hwtwXtZuOyb4fVoYSCyY",
+        "Result Album Name": "Blue Flame"
     },
     {
         "ATC Track": "Breeze of Bisaan",
         "ATC Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kosovo Elections",
@@ -70,7 +87,15 @@
         "ATC Track": "Tansen's Waltz",
         "ATC Artists": [
             "William Eaton"
-        ]
+        ],
+        "Result Track Name": "Tansen's Waltz",
+        "Result Artist Names": [
+            "William Eaton Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vPU4XizKNVXbKjMncxlZ1",
+        "Result Album Name": "Naked in Eureka"
     },
     {
         "Title": "Appalachian Wildfires",
@@ -82,7 +107,15 @@
         "ATC Track": "Tightrope",
         "ATC Artists": [
             "Stefan Grossman"
-        ]
+        ],
+        "Result Track Name": "Tightrope - Instrumental",
+        "Result Artist Names": [
+            "Stefan Grossman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qFsHmf1L3HsEsZVQVdYGG",
+        "Result Album Name": "Bottleneck Serenade"
     },
     {
         "Title": "Leonid Meteor Shower",
@@ -94,7 +127,15 @@
         "ATC Track": "The Little Red Cottage",
         "ATC Artists": [
             "Jan Pulsford"
-        ]
+        ],
+        "Result Track Name": "The Little Red Cottage",
+        "Result Artist Names": [
+            "Jan Pulsford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2DbeLXuJzbLQMtM6gfI15W",
+        "Result Album Name": "Merlyn's Magical Music"
     },
     {
         "Title": "With This Ring",
@@ -106,6 +147,14 @@
         "ATC Track": "CITYSCAPE",
         "ATC Artists": [
             "GARY CHANG"
-        ]
+        ],
+        "Result Track Name": "Cityscape",
+        "Result Artist Names": [
+            "Gary Wolk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4IthY1MF28efKBjZHVF5VI",
+        "Result Album Name": "Gary Wolk, Vol. 26"
     }
 ]

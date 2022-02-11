@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:21:59"
+        "Scanned Date": "2022-02-06 21:21:59",
+        "Playlist URI": "5ZgafqftYbOYBwxTjzh5p4",
+        "Playlist Link": "https://open.spotify.com/playlist/5ZgafqftYbOYBwxTjzh5p4",
+        "Snapshot ID": "MSw5MjkyMGJjNDZlZWE4MDJmZjM3ZWYzYWEzOWMzMTg0ZTg5MWNkZDA1",
+        "Playlist Name": "ATC 2001-09-30 Sun All Things Considered"
     },
     {
         "Title": "The Taliban",
@@ -34,7 +38,15 @@
         "ATC Track": "Nowthen",
         "ATC Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "Nowthen",
+        "Result Artist Names": [
+            "Matt Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rFoFmSOawwveXFiya0xrj",
+        "Result Album Name": "The View From Here"
     },
     {
         "Title": "A Just War",
@@ -46,7 +58,15 @@
         "ATC Track": "Take Me Out to the Ball Game",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Take Me Out to the Ball Game",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dX7QFyPWVqe13tP99u0bs",
+        "Result Album Name": "Rockin' Baseball Party Music"
     },
     {
         "Title": "Barry Bonds",
@@ -58,13 +78,27 @@
         "ATC Track": "Take Me Out to the Ballgame",
         "ATC Artists": [
             "Stan Musial"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "My Favorite Things",
         "ATC Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "My Favorite Things - Remastered",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet",
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04btsfSKePglV7mrp5Zhgm",
+        "Result Album Name": "My Favorite Things"
     },
     {
         "Title": "Nguyen Van Thieu Obit",
@@ -76,7 +110,15 @@
         "ATC Track": "Tightrope",
         "ATC Artists": [
             "Stefan Grossman"
-        ]
+        ],
+        "Result Track Name": "Tightrope - Instrumental",
+        "Result Artist Names": [
+            "Stefan Grossman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qFsHmf1L3HsEsZVQVdYGG",
+        "Result Album Name": "Bottleneck Serenade"
     },
     {
         "Title": "Foreign Victims",
@@ -94,7 +136,15 @@
         "ATC Track": "Afro Blue",
         "ATC Artists": [
             "Mongo Santamaria"
-        ]
+        ],
+        "Result Track Name": "Afro Blue",
+        "Result Artist Names": [
+            "Mongo Santamaria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7L92MWLFM6m3Ry1vCdthmj",
+        "Result Album Name": "Afro Roots"
     },
     {
         "Title": "Past Prime Time",
@@ -106,7 +156,15 @@
         "ATC Track": "Evil Ways",
         "ATC Artists": [
             "Santana"
-        ]
+        ],
+        "Result Track Name": "Evil Ways",
+        "Result Artist Names": [
+            "Santana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5tmrnhMxx39jnu3kjopMdP",
+        "Result Album Name": "Santana (Legacy Edition)"
     },
     {
         "Title": "Santana",
@@ -118,6 +176,11 @@
         "ATC Track": "Naima",
         "ATC Artists": [
             "Love Devotion Surrender"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

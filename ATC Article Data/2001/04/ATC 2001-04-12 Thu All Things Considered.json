@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-04-12",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:30:01"
+        "Scanned Date": "2022-02-06 21:30:01",
+        "Playlist URI": "01Y5aCwYFeErXstIkWTl9W",
+        "Playlist Link": "https://open.spotify.com/playlist/01Y5aCwYFeErXstIkWTl9W",
+        "Snapshot ID": "MSw2OWUwOTkzNDkzOWZkOGE2OTU2Y2I4ZjVmZTEyOTNjZTEwNTA2ZDQ5",
+        "Playlist Name": "ATC 2001-04-12 Thu All Things Considered"
     },
     {
         "Title": "U.S. Reaction",
@@ -28,13 +32,30 @@
         "ATC Track": "Cloudscape",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Cloudscape",
+        "Result Artist Names": [
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rCpC4anwr5AbJDibMshQV",
+        "Result Album Name": "Koyaanisqatsi"
     },
     {
         "ATC Track": "Sonate nr.1 in G minor BWV 1001: Presto",
         "ATC Artists": [
             "Rachel Podger"
-        ]
+        ],
+        "Result Track Name": "Sonate nr.1 in G minor BWV 1001: IV. Presto",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Rachel Podger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40E5cVY6g0Nc8jVaVVZGX1",
+        "Result Album Name": "Bach: Sonatas and Partitas, Vol. 1"
     },
     {
         "Title": "Cincinnati Protests",
@@ -52,13 +73,29 @@
         "ATC Track": "Angel from Montgomery",
         "ATC Artists": [
             "John Prine"
-        ]
+        ],
+        "Result Track Name": "Angel from Montgomery",
+        "Result Artist Names": [
+            "John Prine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qWKpYIleSvBT6aUMXoia5",
+        "Result Album Name": "John Prine"
     },
     {
         "ATC Track": "A Monday Date",
         "ATC Artists": [
             "Jimmie Noone"
-        ]
+        ],
+        "Result Track Name": "A Monday Date",
+        "Result Artist Names": [
+            "Jimmie Noone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0q1HEpIO66Nj2iQZxXNKdz",
+        "Result Album Name": "The Complete Jimmie Noone (1923-29), Vol. 1"
     },
     {
         "Title": "Megaplexes",
@@ -76,13 +113,29 @@
         "ATC Track": "Strangers On a Train: Suite",
         "ATC Artists": [
             "The City of Prague Philharmonic"
-        ]
+        ],
+        "Result Track Name": "Suite (From \"Strangers on a Train\")",
+        "Result Artist Names": [
+            "The City of Prague Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eJZNW1AEVSxuWUjNLZYSj",
+        "Result Album Name": "Psycho: The Essential Alfred Hitchcock Collection"
     },
     {
         "ATC Track": "Oblivion",
         "ATC Artists": [
             "Washington Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": "Oblivion",
+        "Result Artist Names": [
+            "Washington Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0bjJ4bc9lYKvtNz8p9Fk7n",
+        "Result Album Name": "Daydream"
     },
     {
         "Title": "Warming Oceans",
@@ -100,7 +153,17 @@
         "ATC Track": "THE BEST THING",
         "ATC Artists": [
             "TOM VARNER"
-        ]
+        ],
+        "Result Track Name": "The Best Thing",
+        "Result Artist Names": [
+            "Tom Varner",
+            "George Schuller",
+            "Peter McCann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dKQP7TslDpdhw9GeJbXCf",
+        "Result Album Name": "Tom Varner: Window Up Above"
     },
     {
         "ATC Track": "Akaka Falls",
@@ -108,7 +171,17 @@
             "Mike Auldridge",
             "Bob Brozman",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Akaka Falls",
+        "Result Artist Names": [
+            "Mike Auldridge",
+            "Bob Brozman",
+            "David Grisman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AOHKeLb7XwSqldCJOG3Gz",
+        "Result Album Name": "Tone Poems III"
     },
     {
         "Title": "Hawaii Arrival",
@@ -132,7 +205,15 @@
         "ATC Track": "Fasio & Lurra-Terra",
         "ATC Artists": [
             "Kepa Junkera"
-        ]
+        ],
+        "Result Track Name": "Fasio & Lurra-terra",
+        "Result Artist Names": [
+            "Kepa Junkera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1un13LPRa5W8EjIU0JxXf1",
+        "Result Album Name": "Bilbao"
     },
     {
         "Title": "Powell In Macedonia",
@@ -150,13 +231,29 @@
         "ATC Track": "Time Remembered",
         "ATC Artists": [
             "John McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Time Remembered - Instrumental",
+        "Result Artist Names": [
+            "John McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rA7x3JXRkMSorF8FuMhdo",
+        "Result Album Name": "Time Remembered"
     },
     {
         "ATC Track": "Boog's Boogie",
         "ATC Artists": [
             "Scotty Anderson"
-        ]
+        ],
+        "Result Track Name": "Boog's Boogie",
+        "Result Artist Names": [
+            "Scotty Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pKUK1PykwsteP84n9If46",
+        "Result Album Name": "Triple Stop"
     },
     {
         "Title": "Execution Viewing",
@@ -174,7 +271,15 @@
         "ATC Track": "I Did It All for You",
         "ATC Artists": [
             "Cowboy Junkies"
-        ]
+        ],
+        "Result Track Name": "I Did It All for You",
+        "Result Artist Names": [
+            "Cowboy Junkies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PXGGKxrrn88fb3bUJ0w4r",
+        "Result Album Name": "Open"
     },
     {
         "Title": "Medical Privacy",
@@ -186,7 +291,15 @@
         "ATC Track": "REVIVAL",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Revival",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jiiVv7ICzpsVdQ3uXaWU7",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "Bike Messenger",
@@ -198,7 +311,15 @@
         "ATC Track": "Seneca",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "Seneca",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bz2BA7NsEOs8W9lUxQ36Y",
+        "Result Album Name": "Standards"
     },
     {
         "ATC Track": "Great Speckled Bird",
@@ -206,6 +327,16 @@
             "Mike Auldridge",
             "Bob Brozman",
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Great Speckled Bird",
+        "Result Artist Names": [
+            "Mike Auldridge",
+            "Bob Brozman",
+            "David Grisman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oDoB7wi4VRajw6mTbs87b",
+        "Result Album Name": "Tone Poems III"
     }
 ]

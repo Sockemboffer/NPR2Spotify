@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-07-13",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:24:35"
+        "Scanned Date": "2022-02-06 21:24:35",
+        "Playlist URI": "7zenxozkKZomYawueZtKkR",
+        "Playlist Link": "https://open.spotify.com/playlist/7zenxozkKZomYawueZtKkR",
+        "Snapshot ID": "MSw3MDQ0NmYxNzcxOTZiNzZiYjE4MWM0YjFmZjU4OTIyZDVkZDkzZTM0",
+        "Playlist Name": "ATC 2001-07-13 Fri All Things Considered"
     },
     {
         "Title": "China - Olympics",
@@ -28,13 +32,23 @@
         "ATC Track": "Beautiful Ride",
         "ATC Artists": [
             "Perplexa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Praying the Blues",
         "ATC Artists": [
             "Jimmy Dorsey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Campaign Finance Reform",
@@ -52,13 +66,26 @@
         "ATC Track": "A Solas",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "At the Jazz Band Ball",
         "ATC Artists": [
             "Kevin Clark"
-        ]
+        ],
+        "Result Track Name": "At the Jazz Band Ball",
+        "Result Artist Names": [
+            "Kevin Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kVsdypCOpyh04OPrhVk6K",
+        "Result Album Name": "New Orleans Trumpet"
     },
     {
         "Title": "Kostunica Interview",
@@ -76,13 +103,30 @@
         "ATC Track": "Sumthin' Funky",
         "ATC Artists": [
             "Becky Archibald"
-        ]
+        ],
+        "Result Track Name": "Sumthin' Funky",
+        "Result Artist Names": [
+            "Becky Archibald"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kQsR21S47YVhmnEz4W38k",
+        "Result Album Name": "The Long Ride Home"
     },
     {
         "ATC Track": "Lonely Apache",
         "ATC Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Lonely Apache",
+        "Result Artist Names": [
+            "Los Straitjackets",
+            "Daniel Bone Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BbMUMW8UpcoPevO2PMNOY",
+        "Result Album Name": "¡Viva!"
     },
     {
         "Title": "Power Prices",
@@ -100,14 +144,30 @@
         "ATC Track": "Land of the Giants",
         "ATC Artists": [
             "Neil Norman"
-        ]
+        ],
+        "Result Track Name": "Land Of The Giants",
+        "Result Artist Names": [
+            "Neil Norman And His Cosmic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4oWagQL2r7efR3uahD7otK",
+        "Result Album Name": "Greatest Science Fiction Hits Vol. III"
     },
     {
         "ATC Track": "Misirlou",
         "ATC Artists": [
             "Dick Dale",
             "the Del-Tones"
-        ]
+        ],
+        "Result Track Name": "Misirlou",
+        "Result Artist Names": [
+            "Dick Dale and his Del-Tones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:3yuhWcddu8hgwlMIAyFamR",
+        "Result Album Name": "Greatest Hits 1961 - 1976"
     },
     {
         "Title": "Missile Test",
@@ -125,7 +185,15 @@
         "ATC Track": "Nu Ballad",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Nu Ballad",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nbfHp8enSCvsi57JqNsaB",
+        "Result Album Name": "Jazz In the Background"
     },
     {
         "Title": "Other Stories",
@@ -137,7 +205,15 @@
         "ATC Track": "Nadia",
         "ATC Artists": [
             "Jeff Beck"
-        ]
+        ],
+        "Result Track Name": "Nadia",
+        "Result Artist Names": [
+            "Jeff Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MA0KXICplixJO2kqyp5Fr",
+        "Result Album Name": "You Had It Coming"
     },
     {
         "Title": "Meatpacking",
@@ -149,14 +225,32 @@
         "ATC Track": "You Beautiful Bastard",
         "ATC Artists": [
             "The Sea and Cake"
-        ]
+        ],
+        "Result Track Name": "You Beautiful Bastard",
+        "Result Artist Names": [
+            "The Sea and Cake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MR6vAZA5XzxYbbjcu8kWk",
+        "Result Album Name": "Oui"
     },
     {
         "ATC Track": "Siegfried",
         "ATC Artists": [
             "Erik Truffaz",
             "Goo"
-        ]
+        ],
+        "Result Track Name": "Siegfried (feat. Nya) - Goo Remix",
+        "Result Artist Names": [
+            "Erik Truffaz",
+            "Nya",
+            "Goo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01YfF5CDl4gSJf2jbURr5j",
+        "Result Album Name": "Revisité (Edition Deluxe)"
     },
     {
         "Title": "Israeli - Palestinian Separation",
@@ -180,13 +274,29 @@
         "ATC Track": "We See",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "We See",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yuw5PLtxwo9lZcFBgBXbe",
+        "Result Album Name": "Marsalis Plays Monk - Standard Time Vol. 4"
     },
     {
         "ATC Track": "Piti & Iturrigorri",
         "ATC Artists": [
             "Kepa Junkera"
-        ]
+        ],
+        "Result Track Name": "Piti & Iturrigorri",
+        "Result Artist Names": [
+            "Kepa Junkera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pRv2kJMjX3u2aEfBhgAys",
+        "Result Album Name": "Bilbao"
     },
     {
         "Title": "Media Mania",
@@ -199,12 +309,28 @@
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "Our Man In Havana",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UrRgnmkrFyDWvOiqYccM9",
+        "Result Album Name": "The Familiar"
     },
     {
         "ATC Track": "Fasio & Lurra-Terra",
         "ATC Artists": [
             "Kepa Junkera"
-        ]
+        ],
+        "Result Track Name": "Fasio & Lurra-terra",
+        "Result Artist Names": [
+            "Kepa Junkera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1un13LPRa5W8EjIU0JxXf1",
+        "Result Album Name": "Bilbao"
     }
 ]

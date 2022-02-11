@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-12-25",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:15:49"
+        "Scanned Date": "2022-02-06 21:15:49",
+        "Playlist URI": "64ymfgmnvcCVNKc4BYppBs",
+        "Playlist Link": "https://open.spotify.com/playlist/64ymfgmnvcCVNKc4BYppBs",
+        "Snapshot ID": "MSw3Y2JhMjg1ODgyYjZjNzJlNjQ4MTUzMmVjM2Q5NjdmNzhkZjVlMzQ3",
+        "Playlist Name": "ATC 2001-12-25 Tue All Things Considered"
     },
     {
         "Title": "Kandahar Christmas",
@@ -29,7 +33,15 @@
         "ATC Artists": [
             "Tony Bennett",
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0K2ZPWywoj9X5whlqA4Tmp",
+        "Result Album Name": "Martha Stewart Living Music: Jazz For The Holidays"
     },
     {
         "Title": "Navy Staffing",
@@ -47,13 +59,29 @@
         "ATC Track": "Chit-Chatting",
         "ATC Artists": [
             "Matt Wilson"
-        ]
+        ],
+        "Result Track Name": "Chit-Chatting",
+        "Result Artist Names": [
+            "Matt Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Zqvg7Lf2sVKDBla2PjI8o",
+        "Result Album Name": "Going Once, Going Twice"
     },
     {
         "ATC Track": "We Three Kings",
         "ATC Artists": [
             "Jim Cullum Jazz Band"
-        ]
+        ],
+        "Result Track Name": "We Three Kings - Improv",
+        "Result Artist Names": [
+            "Scott Leonard Jazz Band"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4mPxKewbaPKHByvCbWNjuS",
+        "Result Album Name": "A Jazzy Christmas"
     },
     {
         "Title": "'Cold Feet: A Christmas Story",
@@ -65,13 +93,29 @@
         "ATC Track": "WHITE CHRISTMAS",
         "ATC Artists": [
             "BUTCH THOMPSON"
-        ]
+        ],
+        "Result Track Name": "White Christmas",
+        "Result Artist Names": [
+            "Terry Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6cQMl90NkBfDnfI7pzx662",
+        "Result Album Name": "Whole Lotta' Santa Goin' On"
     },
     {
         "ATC Track": "Tannenbaum",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Tannenbaum",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TP3f5muszx7QZ1NlLdTVz",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "Title": "Arefa Maqsodi",
@@ -84,13 +128,26 @@
         "ATC Artists": [
             "Knut Hamre",
             "Steve Tibbetts"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "JINGLE BELLS",
         "ATC Artists": [
             "GREGG MINER"
-        ]
+        ],
+        "Result Track Name": "Jingle Bells",
+        "Result Artist Names": [
+            "Gregg Miner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qjj4wf0UkrrRbeRkC5cBY",
+        "Result Album Name": "A Christmas Collection: Vol 1 & 2"
     },
     {
         "Title": "A Different Lens",
@@ -114,6 +171,14 @@
         "ATC Track": "SILENT NIGHT",
         "ATC Artists": [
             "DEAN SHOSTAK"
-        ]
+        ],
+        "Result Track Name": "Silent Night",
+        "Result Artist Names": [
+            "Dean Shostak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73Zgze3uEPC3OYditYmuVY",
+        "Result Album Name": "Crystal Carols 1 and 2"
     }
 ]

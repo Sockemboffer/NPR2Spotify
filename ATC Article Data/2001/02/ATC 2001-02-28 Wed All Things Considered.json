@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-02-28",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:34:48"
+        "Scanned Date": "2022-02-06 21:34:48",
+        "Playlist URI": "6hNMqT8v4EMwO9c06tQt8w",
+        "Playlist Link": "https://open.spotify.com/playlist/6hNMqT8v4EMwO9c06tQt8w",
+        "Snapshot ID": "MSwyMTAzZmI3ODg1NTJmYzZmMTJlMTEyMWY0MmYzZDAxNjQ0ZThiMzQz",
+        "Playlist Name": "ATC 2001-02-28 Wed All Things Considered"
     },
     {
         "Title": "Budget Comments",
@@ -35,13 +39,31 @@
         "ATC Artists": [
             "Roger Eno",
             "Kate St. John"
-        ]
+        ],
+        "Result Track Name": "Our Man In Havana",
+        "Result Artist Names": [
+            "Roger Eno & Kate St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UrRgnmkrFyDWvOiqYccM9",
+        "Result Album Name": "The Familiar"
     },
     {
         "ATC Track": "THE MAN WITH THE GOLDEN GUN",
         "ATC Artists": [
             "THE IN GROUP"
-        ]
+        ],
+        "Result Track Name": "The Man with the Golden Gun",
+        "Result Artist Names": [
+            "The IN Group",
+            "Glen Campbell",
+            "Leon Russell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4icguiABbGMG2yFeFARvaj",
+        "Result Album Name": "The Swinging 12 String"
     },
     {
         "Title": "Spy Tour",
@@ -59,13 +81,33 @@
         "ATC Track": "Wipe Out",
         "ATC Artists": [
             "The Surfaris"
-        ]
+        ],
+        "Result Track Name": "Wipe Out - Hit Version / Extended Ending",
+        "Result Artist Names": [
+            "The Surfaris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4anUinKv803lyDD1vaSXhU",
+        "Result Album Name": "The Best Of The Surfaris"
     },
     {
         "ATC Track": "Benign",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "The Decline of an American String Quartet: Improvisations: Benign",
+        "Result Artist Names": [
+            "Darol Anger",
+            "David Balakrishnan",
+            "Irene Sazer",
+            "Mark Summer",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0INuqAgJGzsJUEf3mujo6A",
+        "Result Album Name": "Turtle Island String Quartet"
     },
     {
         "Title": "Indonesian Massacre",
@@ -89,7 +131,12 @@
         "ATC Track": "Lillies That Fester",
         "ATC Artists": [
             "John Medeski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "CFOA: Homeschooling",
@@ -101,13 +148,29 @@
         "ATC Track": "Dance of the Networkers",
         "ATC Artists": [
             "Tom Mcdermott"
-        ]
+        ],
+        "Result Track Name": "Dance Of The Networkers (For David Shelander; G Major)",
+        "Result Artist Names": [
+            "Tom McDermott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ckgVPNgCAUubLlxAldtd5",
+        "Result Album Name": "All the Keys & Then Some (Piano Music from New Orleans)"
     },
     {
         "ATC Track": "Delighted",
         "ATC Artists": [
             "Shooglenifty"
-        ]
+        ],
+        "Result Track Name": "Delighted",
+        "Result Artist Names": [
+            "Shooglenifty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s3dDBtHs78cTpCGH6CboP",
+        "Result Album Name": "Solar Shears"
     },
     {
         "Title": "Seattle Quake",
@@ -119,7 +182,15 @@
         "ATC Track": "Saturday Night Church",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Saturday Night Church",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62cuCgFjOSQHFCa2WxphyA",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "Title": "Budget Details",
@@ -138,13 +209,30 @@
         "ATC Artists": [
             "Eno",
             "Cale"
-        ]
+        ],
+        "Result Track Name": "Footsteps",
+        "Result Artist Names": [
+            "Brian Eno",
+            "John Cale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ueDG9kThuXnYNz4YOhVGj",
+        "Result Album Name": "Wrong Way Up [Expanded Edition]"
     },
     {
         "ATC Track": "Why Not Smile",
         "ATC Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "Why Not Smile",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5XhVU3UYE3JJa21a5IUcXU",
+        "Result Album Name": "Up"
     },
     {
         "Title": "Fieve Aphteuse",
@@ -162,13 +250,29 @@
         "ATC Track": "Sunday",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Sunday (The Day Before My Birthday)",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6jdtcPAts3bC7ZNK8lNYlF",
+        "Result Album Name": "18 & 18 B-Sides"
     },
     {
         "ATC Track": "For Someone I Love",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": "For Someone I Love",
+        "Result Artist Names": [
+            "Regina Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Mx4I4bkZbYdNjuvpaBFbx",
+        "Result Album Name": "Motor City Moments"
     },
     {
         "Title": "Yugoslavia Update",
@@ -192,13 +296,30 @@
         "ATC Track": "SPIRITUOSO",
         "ATC Artists": [
             "THE FAIRER SAX"
-        ]
+        ],
+        "Result Track Name": "Quatuor Pour Saxophones: Spirituoso",
+        "Result Artist Names": [
+            "Pierre Max Dubois",
+            "The Fairer Sax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ETCfx00PM8d0pG9Dlhl55",
+        "Result Album Name": "Diversions with the Fairer Sax"
     },
     {
         "ATC Track": "Ginger Blues",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Ginger Blues",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59YSP8cWc0n0TbmGfJRar5",
+        "Result Album Name": "Going Back Home"
     },
     {
         "Title": "Life With Archie",
@@ -210,12 +331,25 @@
         "ATC Track": "ANDANTE",
         "ATC Artists": [
             "THE FAIRER SAX"
-        ]
+        ],
+        "Result Track Name": "Quatuor: II. Andante",
+        "Result Artist Names": [
+            "The Fairer Sax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1AqAVbWiFM61hMDpekA2XV",
+        "Result Album Name": "Scriabin, Debussy & Liszt: Soothing Sleep"
     },
     {
         "ATC Track": "Antropofagos [Cannibals]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-03-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:31:54"
+        "Scanned Date": "2022-02-06 21:31:54",
+        "Playlist URI": "3jFzLOsiJiydGmWiuzgdnS",
+        "Playlist Link": "https://open.spotify.com/playlist/3jFzLOsiJiydGmWiuzgdnS",
+        "Snapshot ID": "MSw0ZjJjZjZmMTAwNzc1NGY4MTI0NGVlYmEzYjY0NGRjY2U5NGYyNTJj",
+        "Playlist Name": "ATC 2001-03-10 Sat All Things Considered"
     },
     {
         "Title": "Bush and Airlines",
@@ -29,7 +33,15 @@
         "ATC Artists": [
             "Booker T",
             "the MG'S"
-        ]
+        ],
+        "Result Track Name": "Have A Heart",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:3JkGRMjCYt1XkOMT1El0RO",
+        "Result Album Name": "That'S The Way It Should Be"
     },
     {
         "Title": "Shakespeare Behind Bars",
@@ -41,7 +53,15 @@
         "ATC Track": "Innocentio Alberti",
         "ATC Artists": [
             "Herperion - Jordi Savall"
-        ]
+        ],
+        "Result Track Name": "Gallyard (Alberti)",
+        "Result Artist Names": [
+            "Jordi Savall"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:2ucgiRhAHCcOouf4xrWQoq",
+        "Result Album Name": "Elizabethan Consort Music, 1558-1603"
     },
     {
         "Title": "Mideast",
@@ -65,7 +85,15 @@
         "ATC Track": "Last Night",
         "ATC Artists": [
             "The Mar-Keys"
-        ]
+        ],
+        "Result Track Name": "Last Night",
+        "Result Artist Names": [
+            "The Mar-Keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7H22uQMwKWl43uagzO4Pnn",
+        "Result Album Name": "The Last Night!"
     },
     {
         "Title": "Kristin Hersh",
@@ -77,6 +105,14 @@
         "ATC Track": "Courageous Cats",
         "ATC Artists": [
             "Chieli Minucci"
-        ]
+        ],
+        "Result Track Name": "Courageous Cats",
+        "Result Artist Names": [
+            "Chieli Minucci"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4a09aja3AdJUK82lLmtE63",
+        "Result Album Name": "Jewels"
     }
 ]

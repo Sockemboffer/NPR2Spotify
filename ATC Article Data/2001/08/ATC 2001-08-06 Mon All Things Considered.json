@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-08-06",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:22:20"
+        "Scanned Date": "2022-02-06 21:22:20",
+        "Playlist URI": "4XJ3OAv4boZnsjSZPnWz9b",
+        "Playlist Link": "https://open.spotify.com/playlist/4XJ3OAv4boZnsjSZPnWz9b",
+        "Snapshot ID": "MSxmZDhjYjE1ZTY5OTUyMjViNjI4MmQ4MTMxNDUzNDA3ZGJjMTZkZWY0",
+        "Playlist Name": "ATC 2001-08-06 Mon All Things Considered"
     },
     {
         "Title": "Presidential Appointments",
@@ -29,7 +33,12 @@
         "ATC Artists": [
             "TILLMAN",
             "AMBIENT GROOVE ARTISTS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "CNN's New Look",
@@ -47,13 +56,30 @@
         "ATC Track": "Casanova 70 [The Secret of Cool Brendan Lynch Remix]",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Casanova 70 - The Secret of Cool",
+        "Result Artist Names": [
+            "Air",
+            "Brendan Lynch"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3EDso6lj3kYtmmNu4GWroB",
+        "Result Album Name": "Casanova 70"
     },
     {
         "ATC Track": "Tabouli",
         "ATC Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Tabouli",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pVO15RG2K7Sum1AF7G06W",
+        "Result Album Name": "The Velvet Touch of Los Straitjackets"
     },
     {
         "Title": "FBI Audio",
@@ -72,13 +98,29 @@
         "ATC Artists": [
             "Mr. B.",
             "Mr. B Trio"
-        ]
+        ],
+        "Result Track Name": "New 44 Blues",
+        "Result Artist Names": [
+            "Mr. B Trio"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:5npkT4loymtgTGSrVb5V0g",
+        "Result Album Name": "My Sunday Best"
     },
     {
         "ATC Track": "Field Guide to Snapping",
         "ATC Artists": [
             "Slang"
-        ]
+        ],
+        "Result Track Name": "Field Guide to Snapping",
+        "Result Artist Names": [
+            "Slang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6r0CHBlcTqVEnV3lrqzCdP",
+        "Result Album Name": "The Bellwether Project"
     },
     {
         "Title": "Braille",
@@ -96,13 +138,29 @@
         "ATC Track": "MY THREE MOONS",
         "ATC Artists": [
             "MICHAEL MANRING"
-        ]
+        ],
+        "Result Track Name": "My Three Moons (for Rosalind Franklin)",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59pITibywsYZTQ0j4cioCa",
+        "Result Album Name": "Thonk"
     },
     {
         "ATC Track": "Close to Champaign",
         "ATC Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Close to Champaign",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45R6fiKVRwgJ3VrLx1TIgJ",
+        "Result Album Name": "The Velvet Touch of Los Straitjackets"
     },
     {
         "Title": "Census: Housing & Cars",
@@ -126,13 +184,29 @@
         "ATC Track": "MORNING SONG",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Morning Song",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IyRhloiDQSQzL2D3ntFFN",
+        "Result Album Name": "Stick Figures"
     },
     {
         "ATC Track": "Mandela",
         "ATC Artists": [
             "Abdullah Ibrahim"
-        ]
+        ],
+        "Result Track Name": "Mandela",
+        "Result Artist Names": [
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Q8SWnNO1IFh0tZEVwfkp1",
+        "Result Album Name": "Bombella"
     },
     {
         "Title": "Pointing Fingers",
@@ -150,13 +224,26 @@
         "ATC Track": "Healing Feeling",
         "ATC Artists": [
             "Hubert Sumlin"
-        ]
+        ],
+        "Result Track Name": "Healing Feeling",
+        "Result Artist Names": [
+            "Hubert Sumlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Khh2Ml8Cn5604td7gQKBl",
+        "Result Album Name": "Healing Feeling"
     },
     {
         "ATC Track": "China Boy (go to Sleep)",
         "ATC Artists": [
             "Lenny Dee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Taliban Arrests",
@@ -180,14 +267,27 @@
         "ATC Track": "Big Sur Moon",
         "ATC Artists": [
             "Buckethead"
-        ]
+        ],
+        "Result Track Name": "Big Sur Moon",
+        "Result Artist Names": [
+            "Buckethead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3F7Z3u2gMiTFff8UoUSaFw",
+        "Result Album Name": "Colma"
     },
     {
         "ATC Track": "MANDALAY",
         "ATC Artists": [
             "TILLMAN",
             "AMBIENT GROOVE ARTISTS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Small Things",
@@ -199,12 +299,25 @@
         "ATC Track": "When the Blood Burns",
         "ATC Artists": [
             "Slang"
-        ]
+        ],
+        "Result Track Name": "When the Blood Burns",
+        "Result Artist Names": [
+            "Slang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4MK17jgnEka1b1uF0XBH2c",
+        "Result Album Name": "The Bellwether Project"
     },
     {
         "ATC Track": "How Can You Hear Us?",
         "ATC Artists": [
             "Fatboy Slim"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:26:18"
+        "Scanned Date": "2022-02-06 21:26:18",
+        "Playlist URI": "2QCgrGKQqCiP6nJyYtA4W4",
+        "Playlist Link": "https://open.spotify.com/playlist/2QCgrGKQqCiP6nJyYtA4W4",
+        "Snapshot ID": "MSw0YzE1NjVkNGVkNjM5YThhYWI2MmI4MTlmMzlhOTQ2N2FmYzVjM2Q4",
+        "Playlist Name": "ATC 2001-06-10 Sun All Things Considered"
     },
     {
         "Title": "McVeigh Attorney News Conference",
@@ -28,7 +32,12 @@
         "ATC Track": "KLEINE BLUEME IRGENDWO",
         "ATC Artists": [
             "HANS-JOACHIM ROEDELIUS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Father/Son Critics",
@@ -46,7 +55,12 @@
         "ATC Track": "Harry Zimmerman",
         "ATC Artists": [
             "The Girl That I Marry"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Texas Floods",
@@ -58,7 +72,15 @@
         "ATC Track": "MOON OVER MONTEREY",
         "ATC Artists": [
             "ROBERT STANTON"
-        ]
+        ],
+        "Result Track Name": "Moon over Monterey",
+        "Result Artist Names": [
+            "Robert Stanton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RwKaHdxCJDjoNZWmAzbGU",
+        "Result Album Name": "Acoustic Storm"
     },
     {
         "Title": "David Bonior",
@@ -76,7 +98,12 @@
         "ATC Track": "Epistrophy",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Century Light Bulb",
@@ -88,7 +115,18 @@
         "ATC Track": "Aquilarco/No. 7: Rotating Dance",
         "ATC Artists": [
             "Giovanni Sollima"
-        ]
+        ],
+        "Result Track Name": "Aquilarco No. 7 (Rotating Dance)",
+        "Result Artist Names": [
+            "Giovanni Sollima",
+            "Luigi Sollima",
+            "Renato D’Anna",
+            "Alfonso Dilio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NDInNsdMhMOE8c0DyJ7Lh",
+        "Result Album Name": "Aquilarco"
     },
     {
         "Title": "Kerrville Folk Festival",
@@ -100,6 +138,14 @@
         "ATC Track": "Too Fast",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Too Fast",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VcjLXJk7CbavdQOTjES3I",
+        "Result Album Name": "One Guitar, No Vocals"
     }
 ]

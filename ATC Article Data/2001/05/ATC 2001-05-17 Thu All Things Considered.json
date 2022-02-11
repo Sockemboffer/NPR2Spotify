@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-05-17",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:28:34"
+        "Scanned Date": "2022-02-06 21:28:34",
+        "Playlist URI": "1WcxVu7MqHPP9WADEpmdAp",
+        "Playlist Link": "https://open.spotify.com/playlist/1WcxVu7MqHPP9WADEpmdAp",
+        "Snapshot ID": "MSwzYTgwYjQwZmIyNzA0ZWM4NmYwNzJiZTMyMDdmZDRlM2M5ZGFmMTE5",
+        "Playlist Name": "ATC 2001-05-17 Thu All Things Considered"
     },
     {
         "Title": "Middle East Policy",
@@ -29,14 +33,29 @@
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Los Them",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DeGlfGREhIwt9qWYsrs0P",
+        "Result Album Name": "Rios"
     },
     {
         "ATC Track": "Change Partners",
         "ATC Artists": [
             "Sir Yehudi Menuhin",
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Giuliani Flaps",
@@ -55,13 +74,29 @@
         "ATC Artists": [
             "Sir Yehudi Menuhin",
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": "The Way You Look Tonight",
+        "Result Artist Names": [
+            "Stéphane Grappelli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1hOKlBzt68a9gKEH86eGtl",
+        "Result Album Name": "Live in Mestre Venezia 1985 (Historical Concerts)"
     },
     {
         "ATC Track": "OPEN UP (WHATCHA GONNA DO FOR THE REST OF YOUR LIFE)",
         "ATC Artists": [
             "THE DIRTY DOZEN BRASS BAND"
-        ]
+        ],
+        "Result Track Name": "Open Up (Whatcha Gonna Do For The Rest Of Your Life?)",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Jll1Z4RLGFnV8ij1fhkl7",
+        "Result Album Name": "This is Jazz 30: The Dirty Dozen Brass Band"
     },
     {
         "Title": "Product Placement",
@@ -85,13 +120,26 @@
         "ATC Track": "Loser",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Loser",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PntSbMHC1ud6Vvl8x56qd",
+        "Result Album Name": "Mellow Gold"
     },
     {
         "ATC Track": "SHAKING THE BLUES AWAY",
         "ATC Artists": [
             "THE COFFEE CLUB ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rick Ankiels Woe",
@@ -109,13 +157,31 @@
         "ATC Track": "THE GRASSHOPPER'S DANCE",
         "ATC Artists": [
             "THE PALM COURT THEATRE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "The Grasshopper's Dance",
+        "Result Artist Names": [
+            "Ernest Bucalossi",
+            "Anthony Godwin",
+            "Palm Court Theatre Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6153846153846154,
+        "Result Track URI": "spotify:track:50s03qnRgvahkcV1MskXuJ",
+        "Result Album Name": "The Picnic Party"
     },
     {
         "ATC Track": "Music for a Found Harmonium",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Music For A Found Harmonium",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:3MxUDEw31beZO6uol0Hca4",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "Title": "Bush Energy Policy",
@@ -169,13 +235,23 @@
         "ATC Track": "MEDITATION FROM \"THAIS\"",
         "ATC Artists": [
             "CHRISTIAN LINDBERG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "the cajun dance",
         "ATC Artists": [
             "oil can"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Not the Tremblin' Kind'",
@@ -187,6 +263,14 @@
         "ATC Track": "Don't Think Twice, It's All Right",
         "ATC Artists": [
             "Billy Strange"
-        ]
+        ],
+        "Result Track Name": "Don't Think Twice, It's All Right",
+        "Result Artist Names": [
+            "Billy Goerdt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7yS6tttf5LHH01elWvxhQh",
+        "Result Album Name": "Dance Across The Planet"
     }
 ]

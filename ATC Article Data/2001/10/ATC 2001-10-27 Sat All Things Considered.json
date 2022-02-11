@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-10-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:19:40"
+        "Scanned Date": "2022-02-06 21:19:40",
+        "Playlist URI": "0AlAHq6vnvQdccByDKwG8a",
+        "Playlist Link": "https://open.spotify.com/playlist/0AlAHq6vnvQdccByDKwG8a",
+        "Snapshot ID": "MSw2NTQ2YjRhNmJjN2RkMzYzOTdkYmE0ODZiY2I5Mjc5N2EwZGRiNWVi",
+        "Playlist Name": "ATC 2001-10-27 Sat All Things Considered"
     },
     {
         "Title": "War Update",
@@ -22,7 +26,15 @@
         "ATC Track": "From This Moment On",
         "ATC Artists": [
             "Joanne Brackeen"
-        ]
+        ],
+        "Result Track Name": "From This Moment On",
+        "Result Artist Names": [
+            "Joanne Brackeen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66V8cpewTI70v5ihWbp5un",
+        "Result Album Name": "Popsicle Illusion"
     },
     {
         "Title": "The Investigation",
@@ -34,7 +46,15 @@
         "ATC Track": "Buddha Nature",
         "ATC Artists": [
             "Deuter"
-        ]
+        ],
+        "Result Track Name": "Buddha Nature",
+        "Result Artist Names": [
+            "Deuter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WPlxK2SGXZjTPoz2vHJH1",
+        "Result Album Name": "Buddha Nature"
     },
     {
         "Title": "Postman",
@@ -46,7 +66,12 @@
         "ATC Track": "Ray of Light (Revisited)",
         "ATC Artists": [
             "Leon Parker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Red Cross",
@@ -58,13 +83,29 @@
         "ATC Track": "Silky Delta",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Silky Delta",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FQogcVjUkxwkjIHvAAJtK",
+        "Result Album Name": "Beautiful My Child"
     },
     {
         "ATC Track": "Blue Flame",
         "ATC Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": "Blue Flame",
+        "Result Artist Names": [
+            "Simon Shaheen & Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vS04z01V3k667TY0VRE8H",
+        "Result Album Name": "Blue Flame"
     },
     {
         "Title": "South Armagh",
@@ -76,7 +117,15 @@
         "ATC Track": "Sacral Nirvana",
         "ATC Artists": [
             "Oliver Shanti and Friends"
-        ]
+        ],
+        "Result Track Name": "Sacral Nirvana",
+        "Result Artist Names": [
+            "Oliver Shanti & Friends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12hFaFR7tKbosGFiEr2fmM",
+        "Result Album Name": "Best Of Oliver Shanti & Friends: Circles Of Life"
     },
     {
         "Title": "New Security Firms",
@@ -89,7 +138,17 @@
         "ATC Artists": [
             "Mick Karn",
             "Terry Bozzio et. al."
-        ]
+        ],
+        "Result Track Name": "Palms for Lester",
+        "Result Artist Names": [
+            "David Torn",
+            "Mick Karn",
+            "Terry Bozzio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22zq2zGXTtvFhRTmYPaVAl",
+        "Result Album Name": "Polytown"
     },
     {
         "Title": "Yankees Dynasty?",
@@ -107,6 +166,14 @@
         "ATC Track": "Bulleya",
         "ATC Artists": [
             "Junoon"
-        ]
+        ],
+        "Result Track Name": "Bulleya",
+        "Result Artist Names": [
+            "Junoon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:41aPV9Y5YEmtt3pgYJDbHs",
+        "Result Album Name": "Parvaaz"
     }
 ]

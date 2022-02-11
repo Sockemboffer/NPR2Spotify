@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:16:22"
+        "Scanned Date": "2022-02-06 21:16:22",
+        "Playlist URI": "7nWi6mTfc2m3jMbRar70dr",
+        "Playlist Link": "https://open.spotify.com/playlist/7nWi6mTfc2m3jMbRar70dr",
+        "Snapshot ID": "MSwyMDgxOGExN2QyYTg4OTY0NGE1MTA3MjcyMWQ0NDJhMzYwYzE0ZGEy",
+        "Playlist Name": "ATC 2001-11-04 Sun All Things Considered"
     },
     {
         "Title": "Rumsfeld's Visit",
@@ -22,7 +26,15 @@
         "ATC Track": "Sahira [Instrumental]",
         "ATC Artists": [
             "D'Gary"
-        ]
+        ],
+        "Result Track Name": "Sahira",
+        "Result Artist Names": [
+            "D'Gary"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64YrT5ltRmsJEZrq7eMeG9",
+        "Result Album Name": "Malagasy Guitar: Music From Madagascar"
     },
     {
         "Title": "Hurricane Michelle",
@@ -53,13 +65,31 @@
         "ATC Artists": [
             "Biller",
             "Wakefield"
-        ]
+        ],
+        "Result Track Name": "Chicken At An Exhibition",
+        "Result Artist Names": [
+            "Dave Biller",
+            "Jeremy Wakefield",
+            "Carl Sonny Leyland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VChsCzQ2qanz2QcGEolf8",
+        "Result Album Name": "The Hot Guitars Of Biller And Wakefield"
     },
     {
         "ATC Track": "Green Turtleneck",
         "ATC Artists": [
             "Jeff Wahl"
-        ]
+        ],
+        "Result Track Name": "Green Turtleneck",
+        "Result Artist Names": [
+            "Jeff Wahl"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1P12vkRxZ3vYXi3OKEZPAM",
+        "Result Album Name": "Guitarscapes"
     },
     {
         "Title": "Nicaragua Elections",
@@ -71,7 +101,15 @@
         "ATC Track": "La Cuartelera",
         "ATC Artists": [
             "Enrique Coria"
-        ]
+        ],
+        "Result Track Name": "La Cuartelera",
+        "Result Artist Names": [
+            "The Guitar Artistry Of Enrique Coria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72xFTrSsfZfz4eZJP3x0vm",
+        "Result Album Name": "Solos From South America"
     },
     {
         "Title": "Couriers",
@@ -101,6 +139,14 @@
         "ATC Track": "Delchevsko Oro",
         "ATC Artists": [
             "Esma"
-        ]
+        ],
+        "Result Track Name": "Delchevsko Oro",
+        "Result Artist Names": [
+            "Esma Redzepova"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nI7b9iYZNVwFFdQKeKYak",
+        "Result Album Name": "Cocek"
     }
 ]

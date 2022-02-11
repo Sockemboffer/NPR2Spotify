@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:25:50"
+        "Scanned Date": "2022-02-06 21:25:50",
+        "Playlist URI": "5NSuyAzuJjjNqKJ5MVkM0v",
+        "Playlist Link": "https://open.spotify.com/playlist/5NSuyAzuJjjNqKJ5MVkM0v",
+        "Snapshot ID": "MSxmN2E3YThkZDAxZjdkZWI2OWUxNWRlYzM4ZWYyNTUzMTBhZDBjNWJj",
+        "Playlist Name": "ATC 2001-06-03 Sun All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -16,7 +20,15 @@
         "ATC Track": "MERCY STREET",
         "ATC Artists": [
             "HERBIE HANCOCK"
-        ]
+        ],
+        "Result Track Name": "Mercy Street",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hitPzdouIPO5pwUvxvcnV",
+        "Result Album Name": "The New Standard"
     },
     {
         "Title": "L.A. Mayors Race",
@@ -34,7 +46,15 @@
         "ATC Track": "Pleasure Point",
         "ATC Artists": [
             "Insect Surfers"
-        ]
+        ],
+        "Result Track Name": "Pleasure Point",
+        "Result Artist Names": [
+            "Insect Surfers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eI5rotJ6mLe6GE8GCO3bf",
+        "Result Album Name": "Reverb Sun"
     },
     {
         "Title": "Bread and Roses",
@@ -46,7 +66,12 @@
         "ATC Track": "Meterorite Shower",
         "ATC Artists": [
             "Insect Surfers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ducklings",
@@ -64,7 +89,12 @@
         "ATC Track": "KLEINE BLUEME IRGENDWO",
         "ATC Artists": [
             "HANS-JOACHIM ROEDELIUS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Anthropologist and the Tribesman",

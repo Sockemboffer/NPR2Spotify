@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-05-08",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:27:55"
+        "Scanned Date": "2022-02-06 21:27:55",
+        "Playlist URI": "25tMSFihbQfMi8nybHKAQu",
+        "Playlist Link": "https://open.spotify.com/playlist/25tMSFihbQfMi8nybHKAQu",
+        "Snapshot ID": "MSxjNWIwZjRmMTYwZGI1YWM4NjBlYjAzMTA4YWEyNjU1YWQ5OTA0MzQ2",
+        "Playlist Name": "ATC 2001-05-08 Tue All Things Considered"
     },
     {
         "Title": "Terrorism",
@@ -28,13 +32,26 @@
         "ATC Track": "CLAIRE ARRIVES",
         "ATC Artists": [
             "THE HORSE FLIES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SURAKARTA",
         "ATC Artists": [
             "ROBERT MUSSO"
-        ]
+        ],
+        "Result Track Name": "Surakarta",
+        "Result Artist Names": [
+            "Robert Musso"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33Op2oLkyP9T3kqBHJA1uI",
+        "Result Album Name": "Absolute Music"
     },
     {
         "Title": "Bali Globalization",
@@ -48,7 +65,15 @@
             "Sekaa Gamelan Selonding Sudamala ensemble from Intaran",
             "Pejeng",
             "Gianyar"
-        ]
+        ],
+        "Result Track Name": "Sekati",
+        "Result Artist Names": [
+            "Sekaa Gamelan Selonding Sudamala"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6153846153846154,
+        "Result Track URI": "spotify:track:5soAP9lVWMXersVMhmx9uq",
+        "Result Album Name": "The Bali Sessions: Living Art, Sounding Spirit"
     },
     {
         "ATC Track": "Semara Guna",
@@ -57,7 +82,12 @@
             "Sangkaragung",
             "Kecamatan. Negara",
             "Jembrana"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Elderly Study",
@@ -81,13 +111,30 @@
         "ATC Track": "Nada Tanumanisham",
         "ATC Artists": [
             "Kadri Gopalnath"
-        ]
+        ],
+        "Result Track Name": "Nada Tanumanisham",
+        "Result Artist Names": [
+            "Kadri Gopalnath"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jtx94y2x3vYNCfx6SU2Go",
+        "Result Album Name": "Gem Tones"
     },
     {
         "ATC Track": "THE WEDDING",
         "ATC Artists": [
             "ABDULLAH IBRAHIM AND EKAYA"
-        ]
+        ],
+        "Result Track Name": "The Wedding",
+        "Result Artist Names": [
+            "Ekaya",
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6tBJslDMmI4lzDAhVqF3yr",
+        "Result Album Name": "The Enja Heritage Collection: African River"
     },
     {
         "Title": "'The Syringa Tree'",
@@ -99,13 +146,41 @@
         "ATC Track": "DINDELA",
         "ATC Artists": [
             "ABDULLAH IBRAHIM"
-        ]
+        ],
+        "Result Track Name": "Dindela",
+        "Result Artist Names": [
+            "Abdullah Ibrahim",
+            "Spencer Mbadu",
+            "Robbie Jansen",
+            "Monty Weber",
+            "Johnny Mekoa",
+            "Errol Dyers",
+            "Basil Mannenberg Coetzee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Dl2Eq95owDXSVrWxiVrNY",
+        "Result Album Name": "Mantra Mode"
     },
     {
         "ATC Track": "BAYI LAM",
         "ATC Artists": [
             "ABDULLAH IBRAHIM"
-        ]
+        ],
+        "Result Track Name": "Bayi Lam",
+        "Result Artist Names": [
+            "Spencer Mbadu",
+            "Robbie Jansen",
+            "Monty Weber",
+            "Johnny Mekoa",
+            "Errol Dyers",
+            "Basil Mannenberg Coetzee",
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1xGkFNJ9XlhMvSy3gSLC9X",
+        "Result Album Name": "Mantra Mode"
     },
     {
         "Title": "Space Plan",
@@ -124,7 +199,15 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Friday Night (Hundred Dollar Bill)",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gyanZzqhJi3UJGFnmTuq4",
+        "Result Album Name": "Philadelphonic"
     },
     {
         "Title": "Harvard Fuss",
@@ -136,13 +219,26 @@
         "ATC Track": "Lily Queen",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Willow Tree",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": "The Willow Tree",
+        "Result Artist Names": [
+            "Neil Thompson"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0hcTVC6AvLagxGKQitK2eg",
+        "Result Album Name": "Seasons of the Ice Queen"
     },
     {
         "Title": "Tornado Protection",
@@ -160,13 +256,29 @@
         "ATC Track": "Orvetta/Old Madera Waltzes",
         "ATC Artists": [
             "Skip Gorman"
-        ]
+        ],
+        "Result Track Name": "Orvetta / Old Madera Waltzes",
+        "Result Artist Names": [
+            "Skip Gorman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sfi8ay5cCFJ6YRFAsuq9o",
+        "Result Album Name": "A Greener Prairie"
     },
     {
         "ATC Track": "Platte River Pastora/Bonaparte's Retreat",
         "ATC Artists": [
             "Skip Gorman"
-        ]
+        ],
+        "Result Track Name": "Platte River Pastoral / Bonaparte's Retreat",
+        "Result Artist Names": [
+            "Skip Gorman"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UpFaFaTKxnENcWRMux0P5",
+        "Result Album Name": "A Greener Prairie"
     },
     {
         "Title": "Chechnya",
@@ -178,7 +290,12 @@
         "ATC Track": "PRELUDE 7: GIGUE A LA MODE",
         "ATC Artists": [
             "EXCELSIOR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Polish Town",
@@ -190,13 +307,26 @@
         "ATC Track": "Lament for Linus",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Lament for Linus",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pInwyX4quR7JciuWTQL0s",
+        "Result Album Name": "The Art of the Trio, Vol. 1"
     },
     {
         "ATC Track": "Nimbus",
         "ATC Artists": [
             "Tour De Flux"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cable Ads",
@@ -214,12 +344,28 @@
         "ATC Track": "THE MIDWINTER REEL / IT'S TOO HOT! / COME ALONG JODY",
         "ATC Artists": [
             "DAVID DIGIUSEPPE"
-        ]
+        ],
+        "Result Track Name": "The Midwinter Reel / It’s Too Hot! / Come Along Jody",
+        "Result Artist Names": [
+            "David DiGiuseppe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rLxyC6JNpUMKXa4yiqVGE",
+        "Result Album Name": "Welcome to Heaven"
     },
     {
         "ATC Track": "PLANET LOVE",
         "ATC Artists": [
             "DAVID DIGIUSEPPE"
-        ]
+        ],
+        "Result Track Name": "Planet Love",
+        "Result Artist Names": [
+            "David DiGiuseppe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0O1UppWbGioLw0qcldrB3R",
+        "Result Album Name": "Welcome to Heaven"
     }
 ]

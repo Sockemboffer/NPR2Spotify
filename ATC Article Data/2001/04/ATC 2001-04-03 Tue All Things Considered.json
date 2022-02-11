@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-04-03",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:29:30"
+        "Scanned Date": "2022-02-06 21:29:30",
+        "Playlist URI": "3QjhjpIqzq5W0wQmTciAbP",
+        "Playlist Link": "https://open.spotify.com/playlist/3QjhjpIqzq5W0wQmTciAbP",
+        "Snapshot ID": "MSwxODJjOTc1YTRhMWVkNGU3Y2E4MTNkMjFmYzU2ODAwNzFmM2Y1NDY1",
+        "Playlist Name": "ATC 2001-04-03 Tue All Things Considered"
     },
     {
         "Title": "U.S. - China Plane Update",
@@ -28,13 +32,26 @@
         "ATC Track": "BELLIGERENCE",
         "ATC Artists": [
             "AMY WHITE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Two Degrees East, Three Degrees West",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "Two Degrees East, Three Degrees West",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cpkUyK6YKBtyl25djjkFd",
+        "Result Album Name": "The Wonderful World Of Jazz"
     },
     {
         "Title": "Campaign Finance Reform",
@@ -52,13 +69,23 @@
         "ATC Track": "Pharmacies of Tamaulipas",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Epistrophy",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Census: Segregation",
@@ -82,13 +109,29 @@
         "ATC Track": "We-no-nah",
         "ATC Artists": [
             "Art Turner"
-        ]
+        ],
+        "Result Track Name": "We-no-nah",
+        "Result Artist Names": [
+            "Art Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77RPLaK1RXN9Ni6czKvEbQ",
+        "Result Album Name": "Story Water"
     },
     {
         "ATC Track": "AFTER YOU'VE GONE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "After You've Gone",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uNsuvocn2PuMUd3MjCHpx",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "High-Speed Wireless",
@@ -106,7 +149,12 @@
         "ATC Track": "JOY AFTER SORROW",
         "ATC Artists": [
             "BARE NECESSITIES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Online Entertainment and Copyright Law",
@@ -130,13 +178,26 @@
         "ATC Track": "YOUR MOVE",
         "ATC Artists": [
             "29TH STREET SAXOPHONE QUARTET"
-        ]
+        ],
+        "Result Track Name": "Your Move",
+        "Result Artist Names": [
+            "29th Street Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DmrS6e1jmO9giTmnBg6dR",
+        "Result Album Name": "Your Move"
     },
     {
         "ATC Track": "It's Your Thing/jackson's Thing",
         "ATC Artists": [
             "29th Street Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Russia NTV",
@@ -148,7 +209,15 @@
         "ATC Track": "GRACIAS PEPE",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Gracias Pepé",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fHdRUXFFcoaccwouCtUgS",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Sunspot Activity",
@@ -161,14 +230,32 @@
         "ATC Artists": [
             "THE BRASS PROJECT (JOHN SURMAN",
             "JOHN WARREN)"
-        ]
+        ],
+        "Result Track Name": "Spacial Motive",
+        "Result Artist Names": [
+            "John Surman",
+            "John Warren"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:5j16WK3TaFbj6TqTBRtgMd",
+        "Result Album Name": "The Brass Project"
     },
     {
         "ATC Track": "MELLSTOCK QUIRE",
         "ATC Artists": [
             "THE BRASS PROJECT (JOHN SURMAN",
             "JOHN WARREN)"
-        ]
+        ],
+        "Result Track Name": "Mellstock Quire / Tantrum Clangley",
+        "Result Artist Names": [
+            "John Surman",
+            "John Warren"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0lMs4gVIHx5AbcG0IDzLHr",
+        "Result Album Name": "The Brass Project"
     },
     {
         "Title": "Yugoslavia",
@@ -186,7 +273,15 @@
         "ATC Track": "Peckerwood",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Peckerwood",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FR4Rk3PBLYrr4c8Avx6CN",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "Olympic Boss",
@@ -199,13 +294,29 @@
         "ATC Artists": [
             "LITTLE JACK MELODY",
             "HIS YOUNG TURKS"
-        ]
+        ],
+        "Result Track Name": "I Am Living At the Villa Borghese",
+        "Result Artist Names": [
+            "Little Jack Melody & His Young Turks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pSrCzOvm1Z1xcts3k3QHA",
+        "Result Album Name": "My Charmed Life"
     },
     {
         "ATC Track": "A CONGRESS OF WONDERS",
         "ATC Artists": [
             "LITTLE JACK MELODY AND HIS YOUNG TURKS"
-        ]
+        ],
+        "Result Track Name": "A Congress of Wonders",
+        "Result Artist Names": [
+            "Little Jack Melody"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5YTb3Sr9g7B8Gcq7xsvzJk",
+        "Result Album Name": "World of Fireworks"
     },
     {
         "Title": "Dreamcatcher",
@@ -223,12 +334,22 @@
         "ATC Track": "The Big Sneak",
         "ATC Artists": [
             "Paul Glasse"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "One More Night",
         "ATC Artists": [
             "Paul Glasse"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

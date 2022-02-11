@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-22",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:17:31"
+        "Scanned Date": "2022-02-06 21:17:31",
+        "Playlist URI": "1zmfDWR3Y5qVFX8eqogPhU",
+        "Playlist Link": "https://open.spotify.com/playlist/1zmfDWR3Y5qVFX8eqogPhU",
+        "Snapshot ID": "MSw1YjE1YWIwMWUzNGJhZjgwNmE2ODc2ZjU0N2VhNWExOTE0N2Y5YzJh",
+        "Playlist Name": "ATC 2001-11-22 Thu All Things Considered"
     },
     {
         "Title": "Kunduz, Afghanistan",
@@ -22,7 +26,12 @@
         "ATC Track": "Bingsjo",
         "ATC Artists": [
             "Maria Kalaniemi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Campaign Finance",
@@ -34,13 +43,29 @@
         "ATC Track": "Oh My",
         "ATC Artists": [
             "Eidolon"
-        ]
+        ],
+        "Result Track Name": "Oh My",
+        "Result Artist Names": [
+            "Acoustic Eidolon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Oybiprjnuu9Tth7RCRAvf",
+        "Result Album Name": "Beyond Words"
     },
     {
         "ATC Track": "Out of the Woods",
         "ATC Artists": [
             "Eidolon"
-        ]
+        ],
+        "Result Track Name": "Out of the Woods",
+        "Result Artist Names": [
+            "Acoustic Eidolon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6o64PlH3KfUHja5uX7ArEm",
+        "Result Album Name": "A Simpler Time"
     },
     {
         "Title": "Dustout!",
@@ -59,7 +84,15 @@
         "ATC Artists": [
             "Martin Simpson",
             "Doug Burns et. al."
-        ]
+        ],
+        "Result Track Name": "A Psalm Of Life",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3YHXHL4cGSKnNUjEASQ7hJ",
+        "Result Album Name": "A Closer Walk With Thee"
     },
     {
         "ATC Track": "ELEGY, CONCERTO FOR STAN GETZ",
@@ -67,7 +100,12 @@
             "john harle",
             "sax",
             "albany symphony orchestra conducted by david alan miller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Lonesome Without You'",
@@ -79,7 +117,12 @@
         "ATC Track": "Simple Gifts",
         "ATC Artists": [
             "LAGQ"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Spain - Terrorism",
@@ -103,13 +146,29 @@
         "ATC Track": "ADRIFT",
         "ATC Artists": [
             "RALPH TOWNER"
-        ]
+        ],
+        "Result Track Name": "Adrift",
+        "Result Artist Names": [
+            "Ralph Towner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50H5XEoFnkEk2Mo6bgshXT",
+        "Result Album Name": "Open Letter"
     },
     {
         "ATC Track": "Ipanema",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Ipanema",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kFjCeLttvL3hAiwHTSLwP",
+        "Result Album Name": "Space Island"
     },
     {
         "Title": "Cloning Cows",
@@ -127,7 +186,12 @@
         "ATC Track": "Mi Chachachá",
         "ATC Artists": [
             "Orquesta La Moderna Tradicion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Singer Dan Bern",
@@ -145,6 +209,14 @@
         "ATC Track": "Love Theme",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Love Theme",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1v3GbLSpzc9nL23J9VUYNu",
+        "Result Album Name": "I Like To Score"
     }
 ]

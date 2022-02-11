@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-12-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:14:13"
+        "Scanned Date": "2022-02-06 21:14:13",
+        "Playlist URI": "2Vmwn4z5Iajbe1eEjUyE3S",
+        "Playlist Link": "https://open.spotify.com/playlist/2Vmwn4z5Iajbe1eEjUyE3S",
+        "Snapshot ID": "MSw4MGEyZWYzNjM2NjNiOWNjZTNlMWExNTZiOTUyNGY3YmYwZjA1NmNj",
+        "Playlist Name": "ATC 2001-12-02 Sun All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -22,7 +26,15 @@
         "ATC Track": "SECOND MOVEMENT",
         "ATC Artists": [
             "AL MAYADINE QUARTET"
-        ]
+        ],
+        "Result Track Name": "Divertimento/Second movement",
+        "Result Artist Names": [
+            "Voland Quartet"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6DKqSFAL7OO7PAZgHqaDjg",
+        "Result Album Name": "20th And 21st Century Works For Two Pianos And Percussion"
     },
     {
         "Title": "Dostum Profile",
@@ -34,7 +46,12 @@
         "ATC Track": "Tahdet Taivahalia",
         "ATC Artists": [
             "Maria Kalaniemi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Last Hand",
@@ -46,19 +63,37 @@
         "ATC Track": "RADIANCE",
         "ATC Artists": [
             "CRAIG URQUHART"
-        ]
+        ],
+        "Result Track Name": "Radiance",
+        "Result Artist Names": [
+            "Craig Urquhart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37HQPEOyaZmaMqwuiWWMPv",
+        "Result Album Name": "Songs Without Words"
     },
     {
         "ATC Track": "Niberia",
         "ATC Artists": [
             "Mark Mothersbaugh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bonzaiko",
         "ATC Artists": [
             "Mark Mothersbaugh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Halal Table",
@@ -70,7 +105,12 @@
         "ATC Track": "Barcelon",
         "ATC Artists": [
             "Mark Mothersbaugh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Young Entrepreneurs --Youth Venture",
@@ -94,6 +134,14 @@
         "ATC Track": "Bale Washintu",
         "ATC Artists": [
             "Gigi"
-        ]
+        ],
+        "Result Track Name": "Bale Washintu",
+        "Result Artist Names": [
+            "Gigi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0GeyLGiMTzdjY4gzQ2dw5P",
+        "Result Album Name": "Gigi"
     }
 ]

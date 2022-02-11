@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-01-19",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:35:58"
+        "Scanned Date": "2022-02-06 21:35:58",
+        "Playlist URI": "0NLlAgcQM0C2kJGs2ZRl6o",
+        "Playlist Link": "https://open.spotify.com/playlist/0NLlAgcQM0C2kJGs2ZRl6o",
+        "Snapshot ID": "NCwxMTQyMzE4NGExMWIwNGY5OWQ1YWZjMDFkZDViMjQwMTZkMWEyZDZl",
+        "Playlist Name": "ATC 2001-01-19 Fri All Things Considered"
     },
     {
         "Title": "Osprey/cole Investigations",
@@ -28,7 +32,15 @@
         "ATC Track": "Cruisin' Deuce",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Cruisin' Deuce",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oCMPYV4ArdKuph2VlEiUI",
+        "Result Album Name": "Cruisin' Deuces"
     },
     {
         "Title": "Border Set Aside",
@@ -46,13 +58,29 @@
         "ATC Track": "Pasha",
         "ATC Artists": [
             "David Torn"
-        ]
+        ],
+        "Result Track Name": "Pasha",
+        "Result Artist Names": [
+            "David Torn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0lYc5WgaiAWp434mqsVHg7",
+        "Result Album Name": "Tripping Over God"
     },
     {
         "ATC Track": "The Thunderer",
         "ATC Artists": [
             "The U.S. Army Ceremonial Band"
-        ]
+        ],
+        "Result Track Name": "The Thunderer",
+        "Result Artist Names": [
+            "United States Army Ceremonial Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:63InRT3RvmZYudfFCPU4Zp",
+        "Result Album Name": "4th of July"
     },
     {
         "Title": "Estrada",
@@ -76,7 +104,15 @@
         "ATC Track": "Porcelain",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Porcelain",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UKYMN7VnsQo40n0qCt6Sa",
+        "Result Album Name": "Play & Play: B Sides"
     },
     {
         "Title": "Boring Brits",
@@ -88,13 +124,26 @@
         "ATC Track": "Son of Kiss Curl",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Son of Kiss Curl",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lMsGa4LXvWFzjKCfAfOaF",
+        "Result Album Name": "Waiting for a Dancer"
     },
     {
         "ATC Track": "MARCH, OP. 99",
         "ATC Artists": [
             "MILLER BRASS ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Clinton Deal",
@@ -118,13 +167,32 @@
         "ATC Track": "I GOT IT BAD",
         "ATC Artists": [
             "TOM VARNER"
-        ]
+        ],
+        "Result Track Name": "I Got it Bad",
+        "Result Artist Names": [
+            "Duke Ellington",
+            "Tom Varner",
+            "Peter McCann",
+            "George Schuller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:51jYAn2RPGvxdXKtUBSWZZ",
+        "Result Album Name": "Tom Varner: Window Up Above"
     },
     {
         "ATC Track": "AFTER YOU'VE GONE",
         "ATC Artists": [
             "TEDDY WILSON"
-        ]
+        ],
+        "Result Track Name": "After You've Gone",
+        "Result Artist Names": [
+            "Teddy Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HmkoAYhxRApRSdWDMa8RF",
+        "Result Album Name": "Solo Teddy Wilson Big Band Vol. 5, Part 1"
     },
     {
         "Title": "Trade Deficit",
@@ -142,13 +210,29 @@
         "ATC Track": "Men Working",
         "ATC Artists": [
             "John Lurie"
-        ]
+        ],
+        "Result Track Name": "Men Working",
+        "Result Artist Names": [
+            "John Lurie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32mP4uvVfmyGuCMGURIp2D",
+        "Result Album Name": "African Swim and Manny & Lo - Two Film Scores By John Lurie"
     },
     {
         "ATC Track": "The Rifle Regiment",
         "ATC Artists": [
             "The U.S. Army Ceremonial Band"
-        ]
+        ],
+        "Result Track Name": "The Rifle Regiment",
+        "Result Artist Names": [
+            "The United States Army Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:6aapCMNPDQNWFXW1yp7gu2",
+        "Result Album Name": "Ceremonial Music"
     },
     {
         "Title": "Clinton As Communicator",
@@ -160,13 +244,29 @@
         "ATC Track": "The Thunderer",
         "ATC Artists": [
             "The U.S. Army Ceremonial Band"
-        ]
+        ],
+        "Result Track Name": "The Thunderer",
+        "Result Artist Names": [
+            "United States Army Ceremonial Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:63InRT3RvmZYudfFCPU4Zp",
+        "Result Album Name": "4th of July"
     },
     {
         "ATC Track": "Porcelain",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Porcelain",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UKYMN7VnsQo40n0qCt6Sa",
+        "Result Album Name": "Play & Play: B Sides"
     },
     {
         "Title": "Carruth Trial",

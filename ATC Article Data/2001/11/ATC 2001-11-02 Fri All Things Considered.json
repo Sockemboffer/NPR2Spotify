@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-02",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:16:18"
+        "Scanned Date": "2022-02-06 21:16:18",
+        "Playlist URI": "2IE9zJOXZXdfMuDXo9kDId",
+        "Playlist Link": "https://open.spotify.com/playlist/2IE9zJOXZXdfMuDXo9kDId",
+        "Snapshot ID": "MSxmNmJiMTdlYWMyNzY3MDFkMzE2MWE1MWJhNDRmYWUyZjFkMDA1NjQ2",
+        "Playlist Name": "ATC 2001-11-02 Fri All Things Considered"
     },
     {
         "Title": "Unemployment Jumps",
@@ -28,13 +32,26 @@
         "ATC Track": "Bal Masque",
         "ATC Artists": [
             "Dave Douglas"
-        ]
+        ],
+        "Result Track Name": "Bal masque",
+        "Result Artist Names": [
+            "Dave Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qGMvo3JnSCaglpKZMebOw",
+        "Result Album Name": "Charms of the Night Sky"
     },
     {
         "ATC Track": "Mazurka Op 59/3 No. 38",
         "ATC Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Virginia Governor",
@@ -52,7 +69,12 @@
         "ATC Track": "The Garden of Eden: The Serpent's Kiss (Rag Fantasy)",
         "ATC Artists": [
             "Logan Skelton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Three-Strikes Ruling",
@@ -76,7 +98,12 @@
         "ATC Track": "K.P.",
         "ATC Artists": [
             "CAFE NOIR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "World Series",
@@ -94,13 +121,26 @@
         "ATC Track": "J'Y Suis Jamias Allé",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Fasio & Lurra-Terra",
         "ATC Artists": [
             "Kepa Junkera"
-        ]
+        ],
+        "Result Track Name": "Fasio & Lurra-terra",
+        "Result Artist Names": [
+            "Kepa Junkera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1un13LPRa5W8EjIU0JxXf1",
+        "Result Album Name": "Bilbao"
     },
     {
         "Title": "Firefighters",
@@ -124,13 +164,29 @@
         "ATC Track": "Pyramid Song",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "Pyramid Song",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55q3Ro66yXWi9rsEddeEN4",
+        "Result Album Name": "Amnesiac"
     },
     {
         "ATC Track": "A Tribute to Old Style Romances",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "A Tribute to Old Style Romances",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:558uCrbeUFQT7M75uFRTnc",
+        "Result Album Name": "…In Lines And Patterns"
     },
     {
         "Title": "Anthrax Investigation",
@@ -150,7 +206,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Short Trip Home",
@@ -158,7 +219,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "War Front",
@@ -182,7 +248,16 @@
         "ATC Track": "Telephone and Rubber Band",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Telephone and Rubber Band",
+        "Result Artist Names": [
+            "Simon Jeffes",
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6NkvFa0WM1CUkprsMOsUQE",
+        "Result Album Name": "Concert Program"
     },
     {
         "Title": "Da Vinci's Bridge",
@@ -200,6 +275,14 @@
         "ATC Track": "Boléro",
         "ATC Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": "Boléro (Arr. for Jazz Trio)",
+        "Result Artist Names": [
+            "Jacques Loussier Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lSxxodwn6Ayht5qY2VgXM",
+        "Result Album Name": "Beyond Bach, Other Composers I Adore"
     }
 ]

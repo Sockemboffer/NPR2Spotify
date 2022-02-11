@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-05-09",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:28:02"
+        "Scanned Date": "2022-02-06 21:28:02",
+        "Playlist URI": "0f3h42S5k4dJrjZMsO7o3b",
+        "Playlist Link": "https://open.spotify.com/playlist/0f3h42S5k4dJrjZMsO7o3b",
+        "Snapshot ID": "MSxhYjAzZDU4MWI0ODc4OWE3ZDI1NGE5NTA1ZGNkNzQyMDlmM2YxMTM4",
+        "Playlist Name": "ATC 2001-05-09 Wed All Things Considered"
     },
     {
         "Title": "Budget Vote",
@@ -22,7 +26,12 @@
         "ATC Track": "EK for JC, for electric komungo",
         "ATC Artists": [
             "Jin Hi Kim"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Middle East",
@@ -34,13 +43,23 @@
         "ATC Track": "Csiszár Aladár Nótái (Asztali És Fordulú)",
         "ATC Artists": [
             "Okros Folk Music Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Miss Julie [From the Play Miss Julie by August Strindberg]",
         "ATC Artists": [
             "Baikida Carroll"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alabama Jail",
@@ -58,14 +77,31 @@
         "ATC Track": "Memory's Tricks",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Memory's Tricks",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fssXwbCNh9FfuEL7lg58D",
+        "Result Album Name": "Elegiac Cycle"
     },
     {
         "ATC Track": "Kashmiri Dhun",
         "ATC Artists": [
             "Ronu Majumdar",
             "Abhijit Banerjee"
-        ]
+        ],
+        "Result Track Name": "Kashmiri Dhun in Dadra Tal",
+        "Result Artist Names": [
+            "Ronu Majumdar",
+            "Abhijit Banerjee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tCJzbUp5YyNEDR8pjLPBB",
+        "Result Album Name": "Lady Astride the Tiger"
     },
     {
         "Title": "Plagiarism",
@@ -89,7 +125,12 @@
         "ATC Track": "Eternal Future",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fingerprints",
@@ -103,13 +144,23 @@
             "Henry Mancini",
             "His Orchestra",
             "The Police"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Adagio In G Minor",
         "ATC Artists": [
             "Washington Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush Judges",
@@ -127,7 +178,15 @@
         "ATC Track": "Pied-en-l'air From the Capriol Sueite",
         "ATC Artists": [
             "Washington Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": "Capriol Suite: Pied en l'Air",
+        "Result Artist Names": [
+            "Washington Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WEVeNrMKAmpxsOz3YPKvZ",
+        "Result Album Name": "Daydream"
     },
     {
         "Title": "Minow Tape & Copy",
@@ -140,13 +199,23 @@
         "ATC Artists": [
             "Scott Tennant",
             "Hollywood Chamber Symphony"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Santimamineko Fandangoa and Ioaeoe",
         "ATC Artists": [
             "Kepa Junkera"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Small Brains",
@@ -164,14 +233,28 @@
         "ATC Track": "Miss Julie [From the Play Miss Julie by August Strindberg]",
         "ATC Artists": [
             "Baikida Carroll"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Kashmiri Dhun",
         "ATC Artists": [
             "Ronu Majumdar",
             "Abhijit Banerjee"
-        ]
+        ],
+        "Result Track Name": "Kashmiri Dhun in Dadra Tal",
+        "Result Artist Names": [
+            "Ronu Majumdar",
+            "Abhijit Banerjee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tCJzbUp5YyNEDR8pjLPBB",
+        "Result Album Name": "Lady Astride the Tiger"
     },
     {
         "Title": "Yugo Leader",
@@ -195,13 +278,23 @@
         "ATC Track": "Trio for Violin, Cello and Piano: Largo- Allegro Vivo E Molto Ritmico",
         "ATC Artists": [
             "Ahn Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "stairway to heaven",
         "ATC Artists": [
             "kashmir"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Black & White",
@@ -213,12 +306,25 @@
         "ATC Track": "the battle of evermore",
         "ATC Artists": [
             "kashmir"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Silent Hills",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Silent Hills",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39VjCKkk4AqFAFp4ZAwiUt",
+        "Result Album Name": "Lanterna"
     }
 ]

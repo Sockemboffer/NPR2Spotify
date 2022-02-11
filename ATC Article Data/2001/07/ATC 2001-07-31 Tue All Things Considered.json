@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-07-31",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:25:41"
+        "Scanned Date": "2022-02-06 21:25:41",
+        "Playlist URI": "2Ho7mi8O2GU0EAQXpAjWFF",
+        "Playlist Link": "https://open.spotify.com/playlist/2Ho7mi8O2GU0EAQXpAjWFF",
+        "Snapshot ID": "MSxhYzU3ZTkwMGEwY2MyOTM5NzVkMGI4OGY3ODY2ZWQ4NWQ4ODFmMTJl",
+        "Playlist Name": "ATC 2001-07-31 Tue All Things Considered"
     },
     {
         "Title": "Cloning Debate",
@@ -28,13 +32,26 @@
         "ATC Track": "ODE TO FERDINAND",
         "ATC Artists": [
             "AMY WHITE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pecados da Madrugada [Sins Before Dawn]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Pecados Da Madrugada",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15j52gNCjKqXEh12RaVlGU",
+        "Result Album Name": "Sao Paulo Confessions"
     },
     {
         "Title": "Hamas Killings",
@@ -52,13 +69,29 @@
         "ATC Track": "Hymn for Jaco",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Hymn For Jaco",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58jLwgAyFSjkoMuDXT4DyI",
+        "Result Album Name": "Fingers And Thumbs"
     },
     {
         "ATC Track": "Like Showers of Rain",
         "ATC Artists": [
             "Elliott Sharp's Terraplane"
-        ]
+        ],
+        "Result Track Name": "Like Showers of Rain",
+        "Result Artist Names": [
+            "Elliott Sharp`s Terraplane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wgeNuhtA7DIOEt71y0ZHg",
+        "Result Album Name": "Blues for Next"
     },
     {
         "Title": "Little Pill, Big Addiction",
@@ -70,13 +103,27 @@
         "ATC Track": "Winter: Ghosts of a Future Lost",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Ghosts of a Future Lost",
+        "Result Artist Names": [
+            "Clint Mansell",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7eL45furdLAEvkHoTy8D0x",
+        "Result Album Name": "Requiem for a Dream / OST"
     },
     {
         "ATC Track": "benjamin's lullaby (instrumental)",
         "ATC Artists": [
             "THE FAR CRY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Red Lights",
@@ -88,7 +135,15 @@
         "ATC Track": "PVC IV",
         "ATC Artists": [
             "Blue Man Group"
-        ]
+        ],
+        "Result Track Name": "PVC IV",
+        "Result Artist Names": [
+            "Blue Man Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DRUGJjui3Z365tU435DTp",
+        "Result Album Name": "Audio"
     },
     {
         "Title": "Dr. Tippy",
@@ -101,13 +156,26 @@
         "ATC Artists": [
             "Trinidad",
             "Tobago Showboat Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Baila Plena [Off World Ensemble Remix]",
         "ATC Artists": [
             "Papo Vazquez"
-        ]
+        ],
+        "Result Track Name": "Baila Plena",
+        "Result Artist Names": [
+            "Papo Vazquez"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1lDxQvMEJONyVkwXCnqpOt",
+        "Result Album Name": "At the Point V. One"
     },
     {
         "Title": "Election Commission",
@@ -131,13 +199,31 @@
         "ATC Track": "COUNTRY BOY",
         "ATC Artists": [
             "HERB ELLIS"
-        ]
+        ],
+        "Result Track Name": "Country Boy",
+        "Result Artist Names": [
+            "Herb Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ysW8wtgMF9TcRDbiYBm5M",
+        "Result Album Name": "Texas Swings"
     },
     {
         "ATC Track": "VIOLIN CONCERTO IN D MAJOR, OP. 19: 2. SCHERZO",
         "ATC Artists": [
             "isaac stern"
-        ]
+        ],
+        "Result Track Name": "Violin Concerto No. 1 in D Major, Op. 19: II. Scherzo. Vivacissimo",
+        "Result Artist Names": [
+            "Sergei Prokofiev",
+            "Isaac Stern",
+            "Zubin Mehta"
+        ],
+        "Result Track-Match Percent": 0.7619047619047619,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5bX4hCSR8nQn2OFipQc6ly",
+        "Result Album Name": "Prokofiev: Violin Concertos Nos. 1 & 2"
     },
     {
         "Title": "Peru Report",
@@ -149,7 +235,12 @@
         "ATC Track": "FARM REPORT",
         "ATC Artists": [
             "PAUL CARROL BINKLEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Flood Anniversary",
@@ -162,13 +253,23 @@
         "ATC Artists": [
             "TILLMAN",
             "AMBIENT GROOVE ARTISTS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rock Gently",
         "ATC Artists": [
             "Alvino Rey"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Terry Nichols",
@@ -192,7 +293,12 @@
         "ATC Track": "overture (instrumental)",
         "ATC Artists": [
             "THE FAR CRY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mississippi Tourism",
@@ -205,12 +311,26 @@
         "ATC Artists": [
             "Lara",
             "Reyes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "CHISA",
         "ATC Artists": [
             "ABDULLAH IBRAHIM AND EKAYA"
-        ]
+        ],
+        "Result Track Name": "Chisa",
+        "Result Artist Names": [
+            "Ekaya",
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74JcnSQaX9pWCQBIOOWEUc",
+        "Result Album Name": "The Enja Heritage Collection: African River"
     }
 ]

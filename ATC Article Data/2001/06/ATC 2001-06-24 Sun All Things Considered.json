@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:27:05"
+        "Scanned Date": "2022-02-06 21:27:05",
+        "Playlist URI": "2g2eBRi0JHDSigQJRUTxyh",
+        "Playlist Link": "https://open.spotify.com/playlist/2g2eBRi0JHDSigQJRUTxyh",
+        "Snapshot ID": "MSw4ZDFhYjg4NTJkNDBkNmFmYTAxMTk0OWJmNzNlOTM3NmRlNWVlNjM1",
+        "Playlist Name": "ATC 2001-06-24 Sun All Things Considered"
     },
     {
         "Title": "U.N. Aids",
@@ -16,7 +20,15 @@
         "ATC Track": "MIRTO",
         "ATC Artists": [
             "ADAM RUDOLPH'S MOVING PICTURES"
-        ]
+        ],
+        "Result Track Name": "Mirto",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3c1hDIOFzQ6xzHpjeihdR8",
+        "Result Album Name": "Contemplations"
     },
     {
         "Title": "AIDS Activism",
@@ -28,7 +40,15 @@
         "ATC Track": "Mystery",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Mystery",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7c9eDormgJlnUrrHkWV9r2",
+        "Result Album Name": "Headphone & HiFi Test"
     },
     {
         "Title": "Montesinos Caught",
@@ -40,7 +60,15 @@
         "ATC Track": "ASCENT",
         "ATC Artists": [
             "ADAM RUDOLPH'S MOVING PICTURES"
-        ]
+        ],
+        "Result Track Name": "Ascent",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5YaCtPXaXyOTavK2NsE0nf",
+        "Result Album Name": "Contemplations"
     },
     {
         "Title": "'In Defense of Fainting'",
@@ -52,13 +80,26 @@
         "ATC Track": "Instrumental With Mellotron",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Instrumental with Mellotron",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sgUeWqaC8BzeRWTT0EQyy",
+        "Result Album Name": "The Closer I Get"
     },
     {
         "ATC Track": "Swamp Fire",
         "ATC Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "African Hunger",
@@ -70,7 +111,15 @@
         "ATC Track": "My Three Moons [Live]",
         "ATC Artists": [
             "Michael Manring"
-        ]
+        ],
+        "Result Track Name": "My Three Moons (for Rosalind Franklin)",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 0.6,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59pITibywsYZTQ0j4cioCa",
+        "Result Album Name": "Thonk"
     },
     {
         "Title": "Barn Raising",
@@ -82,7 +131,15 @@
         "ATC Track": "One of These Days",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "One of These Days",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hmdbTdHXemFbp0vPJNSz4",
+        "Result Album Name": "Nashville"
     },
     {
         "Title": "St. Bernard Puppies",
@@ -95,7 +152,17 @@
         "ATC Artists": [
             "Palm Court Theater Orchestra",
             "Anthony Godwin et. al."
-        ]
+        ],
+        "Result Track Name": "The Whistler & His Dog",
+        "Result Artist Names": [
+            "Traditional",
+            "Palm Court Theatre Orchestra",
+            "Anthony Godwin"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.7692307692307693,
+        "Result Track URI": "spotify:track:53Od9Mdh3rY6zSX7t5MFCq",
+        "Result Album Name": "Salon To Swing"
     },
     {
         "Title": "Joyce Carol Oates",
@@ -107,6 +174,14 @@
         "ATC Track": "Arroyo",
         "ATC Artists": [
             "California Guitar Trio"
-        ]
+        ],
+        "Result Track Name": "Arroyo",
+        "Result Artist Names": [
+            "California Guitar Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4p2kOhyteZk66H2izU4RYW",
+        "Result Album Name": "Pathways"
     }
 ]

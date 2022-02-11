@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-07-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:24:38"
+        "Scanned Date": "2022-02-06 21:24:38",
+        "Playlist URI": "6vRVq4GtMHMaWvnyd5yvGu",
+        "Playlist Link": "https://open.spotify.com/playlist/6vRVq4GtMHMaWvnyd5yvGu",
+        "Snapshot ID": "MSw4OWNmODdkOTY0NjgwYTRjNDlhYzM2ZjdhMDBiYzVmNWExYjg1ZWU5",
+        "Playlist Name": "ATC 2001-07-14 Sat All Things Considered"
     },
     {
         "Title": "Feingold",
@@ -17,7 +21,12 @@
         "ATC Artists": [
             "itzhak perlman (samuel sanders",
             "piano)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "La Raza",
@@ -35,7 +44,15 @@
         "ATC Track": "Delirium",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Delirium",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KH8m2RU7pADGBgnJqGJZc",
+        "Result Album Name": "Euphoria"
     },
     {
         "Title": "Washington Septuplets",
@@ -53,13 +70,29 @@
         "ATC Track": "El Flete",
         "ATC Artists": [
             "Juan D'arienzo Y Su Orcestra Tipica"
-        ]
+        ],
+        "Result Track Name": "El Flete",
+        "Result Artist Names": [
+            "Juan D'Arienzo y su Orquesta Típica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7142857142857143,
+        "Result Track URI": "spotify:track:4NUomtCzWb8WNW1DOjCa8A",
+        "Result Album Name": "De Pura Cepa"
     },
     {
         "ATC Track": "Chocolate Chip",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Chocolate Chip",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BZY9iKRfhnZ8ZJB52ljdb",
+        "Result Album Name": "Doo-Bop"
     },
     {
         "Title": "Deadbeat Dad",
@@ -71,7 +104,15 @@
         "ATC Track": "Bob the Bob (Home)",
         "ATC Artists": [
             "The Lounge Lizards"
-        ]
+        ],
+        "Result Track Name": "Bob the Bob Home",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xyEVzpakQCeMR2qC3fsgp",
+        "Result Album Name": "Voice Of Chunk"
     },
     {
         "Title": "Missouri Governor",
@@ -83,7 +124,12 @@
         "ATC Track": "esprit de l'escalier",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "West Virginia Floods",
@@ -95,7 +141,15 @@
         "ATC Track": "Elevator to My Soul",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Elevator to My Soul",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fiDbSyF4YG2i4fVoJHMLk",
+        "Result Album Name": "Euphoria"
     },
     {
         "Title": "'Brothel: Mustang Ranch and Its Women'",
@@ -107,6 +161,14 @@
         "ATC Track": "Mystery",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Mystery",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7c9eDormgJlnUrrHkWV9r2",
+        "Result Album Name": "Headphone & HiFi Test"
     }
 ]

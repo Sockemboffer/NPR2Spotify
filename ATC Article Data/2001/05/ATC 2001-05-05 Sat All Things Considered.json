@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-05-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:27:44"
+        "Scanned Date": "2022-02-06 21:27:44",
+        "Playlist URI": "1fZgwkex5S3KEDFOcpLUbh",
+        "Playlist Link": "https://open.spotify.com/playlist/1fZgwkex5S3KEDFOcpLUbh",
+        "Snapshot ID": "MSw2MzkyODJkMTk3YTU4NjU4MWQwMmM5MjMyNDljZDQyYzIzZjliZmNk",
+        "Playlist Name": "ATC 2001-05-05 Sat All Things Considered"
     },
     {
         "Title": "Pope",
@@ -22,7 +26,15 @@
         "ATC Track": "Is Anyone There?",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Is Anyone There?",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3j6jrs23Jmo3QzI92IeFJt",
+        "Result Album Name": "Space Island"
     },
     {
         "Title": "National Story Project",
@@ -34,7 +46,16 @@
         "ATC Track": "Pound for Pound",
         "ATC Artists": [
             "Charlie Hunter"
-        ]
+        ],
+        "Result Track Name": "Pound For Pound",
+        "Result Artist Names": [
+            "Charlie Hunter",
+            "Pound For Pound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VOAdU2ZaiQu69yT7QDk3g",
+        "Result Album Name": "Return Of The Candyman"
     },
     {
         "Title": "Chocolate Stamps",
@@ -46,20 +67,42 @@
         "ATC Track": "Hot House",
         "ATC Artists": [
             "Billy Higgins"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rockville",
         "ATC Artists": [
             "Johnny Hodges",
             "Wild Bill Davis"
-        ]
+        ],
+        "Result Track Name": "Rockville - Live",
+        "Result Artist Names": [
+            "Wild Bill Davis",
+            "Johnny Hodges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1L090clOr6Tpolis9J7hll",
+        "Result Album Name": "Johnny Hodges and Wild Bill Davis Live in Atlantic City"
     },
     {
         "ATC Track": "Rockin' in Rhythm",
         "ATC Artists": [
             "Jungle Band"
-        ]
+        ],
+        "Result Track Name": "Rockin' in Rhythm",
+        "Result Artist Names": [
+            "Duke Ellington And The Jungle Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Drr3PYSjXyg5t482ITFK3",
+        "Result Album Name": "Creole Rhapsody (Complete American DECCA Recordings 1930 -1931)"
     },
     {
         "Title": "Afghanistan",
@@ -71,7 +114,15 @@
         "ATC Track": "The Funky Avocado",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The Funky Avocado",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5RsDNKcUdo2Z1I6gTKot7Q",
+        "Result Album Name": "Breakfast In The Field"
     },
     {
         "Title": "Crazy Horse",
@@ -83,7 +134,15 @@
         "ATC Track": "Theme from in Search of Angels",
         "ATC Artists": [
             "Tim Story"
-        ]
+        ],
+        "Result Track Name": "Theme From \"In Search Of Angels\"",
+        "Result Artist Names": [
+            "Tim Story"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73zcUFRYCmphVRjFrsaJSS",
+        "Result Album Name": "In Search Of Angels"
     },
     {
         "Title": "Pioneer Speaks",
@@ -102,6 +161,17 @@
         "ATC Artists": [
             "Slim",
             "Slam"
-        ]
+        ],
+        "Result Track Name": "Ra-Da-Da-Da",
+        "Result Artist Names": [
+            "Slim & Slam",
+            "Ben Webster",
+            "Jimmy Rowles",
+            "Leo Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wbudIhob8uURqvKOjFFye",
+        "Result Album Name": "Slim & Slam: Original 1940-42 Recordings, Vol. 3"
     }
 ]

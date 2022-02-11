@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-02-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:33:44"
+        "Scanned Date": "2022-02-06 21:33:44",
+        "Playlist URI": "5orOwPaZe7pDF6g5hVCGfT",
+        "Playlist Link": "https://open.spotify.com/playlist/5orOwPaZe7pDF6g5hVCGfT",
+        "Snapshot ID": "MSxiM2MzYmE0Njc4ODBjYWYwNzc1M2Y4MmY2OTc4NDc3YTcyYWZmYjNl",
+        "Playlist Name": "ATC 2001-02-11 Sun All Things Considered"
     },
     {
         "Title": "Human Genome",
@@ -16,7 +20,15 @@
         "ATC Track": "Strange Meeting",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Strange Meeting",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XKP32JC2UJ1xYftJKZENI",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "Title": "Earthquake Revisited",
@@ -34,7 +46,12 @@
         "ATC Track": "Paris",
         "ATC Artists": [
             "Oystein Sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Edith Wharton",
@@ -46,19 +63,37 @@
         "ATC Track": "Bagatelle for piano in E flat major, Op. 33/1",
         "ATC Artists": [
             "John O'Conor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Adios Mi Chaparrita",
         "ATC Artists": [
             "Perez Prado and His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Adios Mi Chaparrita (Goodbye My Little Angel)",
+        "Result Artist Names": [
+            "Perez Prado Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:7Ibsh1m7vZCak2aw8BNIv8",
+        "Result Album Name": "Maria Bonita"
     },
     {
         "ATC Track": "Estate (Summer)",
         "ATC Artists": [
             "Jon Hassell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Patients' Bill",
@@ -88,7 +123,12 @@
         "ATC Track": "Oguerre",
         "ATC Artists": [
             "Ritmoy Y Candela"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cornelius Eady",
@@ -100,6 +140,11 @@
         "ATC Track": "Estate (Summer)",
         "ATC Artists": [
             "Jon Hassell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

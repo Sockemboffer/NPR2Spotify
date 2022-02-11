@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-04-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:30:38"
+        "Scanned Date": "2022-02-06 21:30:38",
+        "Playlist URI": "5KEbwz5htqG7zMpDnlUTOF",
+        "Playlist Link": "https://open.spotify.com/playlist/5KEbwz5htqG7zMpDnlUTOF",
+        "Snapshot ID": "MSw4OWU1MjM4NmRiNGJjOThhOWY1MzcyMjk0OGM0MjAyMzBiNTE3NmMw",
+        "Playlist Name": "ATC 2001-04-21 Sat All Things Considered"
     },
     {
         "Title": "Summit Protests",
@@ -22,7 +26,24 @@
         "ATC Track": "Thirty Three",
         "ATC Artists": [
             "Barney McAll"
-        ]
+        ],
+        "Result Track Name": "Thirty Three",
+        "Result Artist Names": [
+            "Barney McAll",
+            "Joey Barron",
+            "Gary Bartz",
+            "Kurt Rosenwinkel",
+            "Julie Patton",
+            "Peter Apfelbaum",
+            "Eddie Bobé",
+            "Clark Gayton",
+            "Jay Rodriguez",
+            "Tony Scherr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54Bqo5QfPuAvj4YJ2M1roa",
+        "Result Album Name": "Jazzhead2006"
     },
     {
         "Title": "Guatemala Adoptions",
@@ -35,7 +56,16 @@
         "ATC Artists": [
             "Manuel Barrueco",
             "Steve Morse"
-        ]
+        ],
+        "Result Track Name": "Northern Lights",
+        "Result Artist Names": [
+            "Manuel Barrueco",
+            "Steve Morse"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XJf6faGZflS8zIu9LdM77",
+        "Result Album Name": "Nylon & Steel"
     },
     {
         "Title": "Work Naked",
@@ -47,7 +77,12 @@
         "ATC Track": "The Gypsy Kid",
         "ATC Artists": [
             "Hot Club Norvege"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Peru",
@@ -59,7 +94,15 @@
         "ATC Track": "Pau-De-Arara",
         "ATC Artists": [
             "Gilberto Gil"
-        ]
+        ],
+        "Result Track Name": "Último pau-de-arara",
+        "Result Artist Names": [
+            "Gilberto Gil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wVm6ism8Z6KEWl9RPghJS",
+        "Result Album Name": "As canções de eu, tu, eles"
     },
     {
         "Title": "Cincinnati Mayors",
@@ -83,6 +126,11 @@
         "ATC Track": "Flor de Huevo",
         "ATC Artists": [
             "Lobos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-05-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:29:05"
+        "Scanned Date": "2022-02-06 21:29:05",
+        "Playlist URI": "4mYag2igujaFWnpbMYPu32",
+        "Playlist Link": "https://open.spotify.com/playlist/4mYag2igujaFWnpbMYPu32",
+        "Snapshot ID": "MSxjMjA0YjRiNWRmZWZmOTVkOWJmNDM0YmNkNDcwNTIwOGZkZGEzM2Rm",
+        "Playlist Name": "ATC 2001-05-27 Sun All Things Considered"
     },
     {
         "Title": "Netherlands",
@@ -16,7 +20,16 @@
         "ATC Track": "Partita No.2 In D Minor, Bwv 1004",
         "ATC Artists": [
             "Lara St. John"
-        ]
+        ],
+        "Result Track Name": "Partita No. 2 In D minor, BWV 1004: Ciaccona",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Lara St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TCu67cwy46YfRT0jmfauQ",
+        "Result Album Name": "Bach: The Six Sonatas & Partitas for Violin Solo"
     },
     {
         "Title": "Uncle Sam E-tailer",
@@ -35,7 +48,15 @@
         "ATC Artists": [
             "Bela Fleck",
             "the Flecktones"
-        ]
+        ],
+        "Result Track Name": "Hurricane Camille",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3GEC7iAJj9P49NlfjPcwO1",
+        "Result Album Name": "Bela Fleck and the Flecktones"
     },
     {
         "Title": "Cy Twombly",
@@ -47,7 +68,17 @@
         "ATC Track": "Blue in Green",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Blue in Green (feat. John Coltrane & Bill Evans)",
+        "Result Artist Names": [
+            "Miles Davis",
+            "John Coltrane",
+            "Bill Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0aWMVrwxPNYkKmFthzmpRi",
+        "Result Album Name": "Kind Of Blue (Legacy Edition)"
     },
     {
         "Title": "Ptsd",
@@ -77,7 +108,15 @@
         "ATC Track": "Dancing in the Dark",
         "ATC Artists": [
             "Nuclear Whales Saxophone Orchestra"
-        ]
+        ],
+        "Result Track Name": "Dancing in the Dark",
+        "Result Artist Names": [
+            "The Nuclear Whales Saxophone Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7B2vxKKtF5g9uzk31zZUzv",
+        "Result Album Name": "Thar They Blow"
     },
     {
         "Title": "Maze Memorial",
@@ -89,6 +128,11 @@
         "ATC Track": "Sacred Heart, Pts. 1 & 2",
         "ATC Artists": [
             "Peter Ostroushko"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

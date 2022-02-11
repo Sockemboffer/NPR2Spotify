@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-07-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:24:13"
+        "Scanned Date": "2022-02-06 21:24:13",
+        "Playlist URI": "4ken3zWuvGdmbwlVjACDle",
+        "Playlist Link": "https://open.spotify.com/playlist/4ken3zWuvGdmbwlVjACDle",
+        "Snapshot ID": "MSxmN2Y2MjA2YzhiNGQzMjYzZTJjNmY1NWI4OTE3NDJhYjA3NTk5YmRm",
+        "Playlist Name": "ATC 2001-07-08 Sun All Things Considered"
     },
     {
         "Title": "Bradford Violence",
@@ -22,7 +26,15 @@
         "ATC Track": "Space Dye West",
         "ATC Artists": [
             "Dream Theater"
-        ]
+        ],
+        "Result Track Name": "Space-Dye Vest",
+        "Result Artist Names": [
+            "Dream Theater"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PtA2XXIrUWLZ3ZELnTOUi",
+        "Result Album Name": "Awake"
     },
     {
         "Title": "<I>Top Dog/Underdog</I>",
@@ -34,13 +46,26 @@
         "ATC Track": "Roadblocks Here and Here",
         "ATC Artists": [
             "Toby Dammit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tempest",
         "ATC Artists": [
             "Jesse Cook"
-        ]
+        ],
+        "Result Track Name": "Tempest",
+        "Result Artist Names": [
+            "Jesse Cook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tZwQ8yaTpunAxD2L0LWLO",
+        "Result Album Name": "The Ultimate Jesse Cook"
     },
     {
         "Title": "Campaign Finance Reform",
@@ -58,7 +83,12 @@
         "ATC Track": "Puente of Soul",
         "ATC Artists": [
             "Steve Turre"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sierra Leone Postcard",
@@ -76,7 +106,12 @@
         "ATC Track": "Zooplankton",
         "ATC Artists": [
             "A. Galante"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Coming to America",
@@ -88,6 +123,11 @@
         "ATC Track": "On the Road Again",
         "ATC Artists": [
             "Chet Atkins"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

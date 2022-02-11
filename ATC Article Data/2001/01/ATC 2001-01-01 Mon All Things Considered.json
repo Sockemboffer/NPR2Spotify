@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-01-01",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:34:51"
+        "Scanned Date": "2022-02-06 21:34:51",
+        "Playlist URI": "45z6w8jqa2YdY1HYAxafBI",
+        "Playlist Link": "https://open.spotify.com/playlist/45z6w8jqa2YdY1HYAxafBI",
+        "Snapshot ID": "MSwwZTY1NTQwYzcxZmYzMTk4NzE2NzlhOGNhYTI2ODc5OGZkNzg5MDAw",
+        "Playlist Name": "ATC 2001-01-01 Mon All Things Considered"
     },
     {
         "Title": "Mental Health",
@@ -28,7 +32,18 @@
         "ATC Track": "House of the Blue Danube",
         "ATC Artists": [
             "Malcolm McLaren"
-        ]
+        ],
+        "Result Track Name": "House of the Blue Danube (feat. Bootsy Collins & Jeff Beck)",
+        "Result Artist Names": [
+            "Malcolm McLaren",
+            "The Bootzilla Orchestra",
+            "Bootsy Collins",
+            "Jeff Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BrhxWjg4yTQba9yW7vyeE",
+        "Result Album Name": "Waltz Darling"
     },
     {
         "Title": "Working Holidays",
@@ -40,13 +55,26 @@
         "ATC Track": "Cantata No. 167, \"Ihr Menschen, rühmet Gottes Liebe,\" BWV 167 (BC A176)",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "More Blues at Midnight",
         "ATC Artists": [
             "Willis \"Gator\" Jackson"
-        ]
+        ],
+        "Result Track Name": "More Blues At Midnight",
+        "Result Artist Names": [
+            "Willis Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5gj58LUOUwpboHriAkzH5E",
+        "Result Album Name": "Call of the Gators"
     },
     {
         "Title": "Screamin' Jay Hawkins",
@@ -58,13 +86,29 @@
         "ATC Track": "I Put a Spell on You",
         "ATC Artists": [
             "Screamin' Jay Hawkins"
-        ]
+        ],
+        "Result Track Name": "I Put a Spell On You",
+        "Result Artist Names": [
+            "Screamin' Jay Hawkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sLhMSePzxSrmxluIqeoAZ",
+        "Result Album Name": "At Home with Screamin' Jay Hawkins"
     },
     {
         "ATC Track": "More Blues at Midnight",
         "ATC Artists": [
             "Willis \"Gator\" Jackson"
-        ]
+        ],
+        "Result Track Name": "More Blues At Midnight",
+        "Result Artist Names": [
+            "Willis Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5gj58LUOUwpboHriAkzH5E",
+        "Result Album Name": "Call of the Gators"
     },
     {
         "Title": "International Criminal Court",
@@ -88,13 +132,23 @@
         "ATC Track": "Kommst du nun, Jesu, vom Himmel herunter, chorale prelude for organ (Schübler Chorale No. 6), BWV 650 (BC K27)",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "THE TERRY THEME FROM \"LIMELIGHT\" (\"ETERNALLY\")",
         "ATC Artists": [
             "CHRISTIAN LINDBERG"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "2000's Top Ten Films",
@@ -106,13 +160,26 @@
         "ATC Track": "Otherwise Formless",
         "ATC Artists": [
             "Sound Tribe Sector 9"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Adagio",
         "ATC Artists": [
             "Baroque Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": "Concerto in D Major for Trumpet, Strings and Continuo: II. Adagio–Presto–Adagio",
+        "Result Artist Names": [
+            "Baroque Chamber Orchestra of Colorado"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1f9mlQbg8UI3tl0Uhr5Amn",
+        "Result Album Name": "Forte e Dolce"
     },
     {
         "Title": "The Sevens",
@@ -124,6 +191,14 @@
         "ATC Track": "Michelangelo",
         "ATC Artists": [
             "Trio Voronezh"
-        ]
+        ],
+        "Result Track Name": "Michelangelo",
+        "Result Artist Names": [
+            "Trio Voronezh"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GqVql1V8ctkzPo4LSKipk",
+        "Result Album Name": "Trio Voronezh"
     }
 ]

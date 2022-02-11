@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-10-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:19:20"
+        "Scanned Date": "2022-02-06 21:19:20",
+        "Playlist URI": "371j42JuZ0VGxdtCQtFxbK",
+        "Playlist Link": "https://open.spotify.com/playlist/371j42JuZ0VGxdtCQtFxbK",
+        "Snapshot ID": "MSw0ZTkzYzU0ODU0NTMzNTlmMzM3ODRjODJjMjRiNWU1MjY2NTE3NTc3",
+        "Playlist Name": "ATC 2001-10-21 Sun All Things Considered"
     },
     {
         "Title": "Anthrax Update",
@@ -16,7 +20,12 @@
         "ATC Track": "Bruegal",
         "ATC Artists": [
             "Gyroscope"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Protecting the Mail",
@@ -28,7 +37,12 @@
         "ATC Track": "Domus In Nebulae",
         "ATC Artists": [
             "Gyroscope"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "APEC/China",
@@ -40,7 +54,12 @@
         "ATC Track": "Lee's Highway Composer",
         "ATC Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pentagon",
@@ -52,7 +71,12 @@
         "ATC Track": "SIG NFRMER TIDEN",
         "ATC Artists": [
             "AMERICAN CAFE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Northern Alliance",
@@ -70,7 +94,15 @@
         "ATC Track": "a noble tune",
         "ATC Artists": [
             "paul adams"
-        ]
+        ],
+        "Result Track Name": "A Noble Tune",
+        "Result Artist Names": [
+            "Paul Adams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0V7CUm09dHEyprr9DVMbIK",
+        "Result Album Name": "A View from the Plain"
     },
     {
         "Title": "Florida Budget",
@@ -83,7 +115,17 @@
         "ATC Artists": [
             "Anger",
             "Marshall Band"
-        ]
+        ],
+        "Result Track Name": "Brooksboro Terrace",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Darol Anger",
+            "The Darol Anger / Mike Marshall Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DbQG7gM4WjMqp3oKkIBOc",
+        "Result Album Name": "Brand New Can"
     },
     {
         "Title": "Hazmat Teams",
@@ -95,7 +137,15 @@
         "ATC Track": "Still Water",
         "ATC Artists": [
             "Greg Howard"
-        ]
+        ],
+        "Result Track Name": "Still Water",
+        "Result Artist Names": [
+            "Greg Howard Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Jd56CY3peE5Yb0u6y1p9A",
+        "Result Album Name": "Lift"
     },
     {
         "Title": "Pharmacists",
@@ -108,7 +158,17 @@
         "ATC Artists": [
             "Anger",
             "Marshall Band"
-        ]
+        ],
+        "Result Track Name": "Zakir",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Darol Anger",
+            "The Darol Anger / Mike Marshall Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DFgdYcHGOWNY7Rs950IuT",
+        "Result Album Name": "Brand New Can"
     },
     {
         "Title": "N.Y. Subway",
@@ -126,6 +186,11 @@
         "ATC Track": "Virtual Hornets",
         "ATC Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

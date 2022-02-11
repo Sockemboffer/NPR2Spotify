@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-03-31",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:33:10"
+        "Scanned Date": "2022-02-06 21:33:10",
+        "Playlist URI": "4fbogRCh8AEV4DYfh23BEI",
+        "Playlist Link": "https://open.spotify.com/playlist/4fbogRCh8AEV4DYfh23BEI",
+        "Snapshot ID": "MSw5Yzk5YTczMTJhZGU5NDI5ZDQ0ODUwYTlkMWUyMjkyZmQxOTE3YzMw",
+        "Playlist Name": "ATC 2001-03-31 Sat All Things Considered"
     },
     {
         "Title": "Milosevic Standstill",
@@ -16,7 +20,12 @@
         "ATC Track": "Paivola",
         "ATC Artists": [
             "Pekka Lehti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush - Environment",
@@ -34,7 +43,15 @@
         "ATC Track": "Eskolle",
         "ATC Artists": [
             "Pekka Lehti"
-        ]
+        ],
+        "Result Track Name": "Eskolle - To Esko - Feat. Riitta Kossi",
+        "Result Artist Names": [
+            "Pekka Lehti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CHS817ctXF3QDhsAtWg5V",
+        "Result Album Name": "Outo Voima (Strange Force)"
     },
     {
         "Title": "Language Pet Peeves",
@@ -46,13 +63,23 @@
         "ATC Track": "Let's Call the Whole Thing Off",
         "ATC Artists": [
             "J. Lawrence Cook"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Graffiti in Stockholm",
         "ATC Artists": [
             "The Vienna Art Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Baltimore Blind Access",
@@ -64,7 +91,15 @@
         "ATC Track": "The Festivals",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "The Festivals",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03k3uukJXSdxUuyv5sS52k",
+        "Result Album Name": "Evolution II"
     },
     {
         "Title": "Christian Coalition",
@@ -76,7 +111,15 @@
         "ATC Track": "Sammy",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "Sammy",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59i8qkXnJGltiZTE5het5j",
+        "Result Album Name": "Evolution II"
     },
     {
         "Title": "Shape-Note Singing",
@@ -94,6 +137,14 @@
         "ATC Track": "Django",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "Django",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T6C54rbleY0fqtxfDNSSc",
+        "Result Album Name": "Evolution II"
     }
 ]

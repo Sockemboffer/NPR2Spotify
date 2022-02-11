@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:21:23"
+        "Scanned Date": "2022-02-06 21:21:23",
+        "Playlist URI": "7yiWpRsjJDN3udMcEYGzN5",
+        "Playlist Link": "https://open.spotify.com/playlist/7yiWpRsjJDN3udMcEYGzN5",
+        "Snapshot ID": "MSw5N2ZhNjBkZThiMzJhOTMxNGZmYjUxODFlZDExOTcyYTJmNDZmNmEy",
+        "Playlist Name": "ATC 2001-09-22 Sat All Things Considered"
     },
     {
         "Title": "Investigation",
@@ -28,7 +32,15 @@
         "ATC Track": "Sama Guitare",
         "ATC Artists": [
             "El Hadj N' Diaye"
-        ]
+        ],
+        "Result Track Name": "Sama Guitare",
+        "Result Artist Names": [
+            "El Hadj N'Diaye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QOvteUnINX8buiOuDz3M5",
+        "Result Album Name": "14 Kilómetros"
     },
     {
         "Title": "Energy",
@@ -40,7 +52,17 @@
         "ATC Track": "Tango-Etudes: Etudes 3",
         "ATC Artists": [
             "Gidon Kremer"
-        ]
+        ],
+        "Result Track Name": "Tango Etudes, 3",
+        "Result Artist Names": [
+            "Astor Piazzolla",
+            "Astor Piazzolla arr. Gidon Kremer",
+            "Gidon Kremer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Q5mDkWl7AVgJlSg5KGZzl",
+        "Result Album Name": "Tracing Astor"
     },
     {
         "Title": "Hejabs",
@@ -52,13 +74,23 @@
         "ATC Track": "Little Fluffy Clouds",
         "ATC Artists": [
             "Instrumental Acoustek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Biak-Words",
         "ATC Artists": [
             "Evan Ziporyn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pakistan",
@@ -82,7 +114,12 @@
         "ATC Track": "Dusty Miller",
         "ATC Artists": [
             "The Really Eclectic String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Logan Security",
@@ -100,7 +137,15 @@
         "ATC Track": "The Vision",
         "ATC Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "The Vision",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tNWq5KGDs4BuIwCo1EjHT",
+        "Result Album Name": "A Show of Hands 15"
     },
     {
         "Title": "Nso",
@@ -112,6 +157,11 @@
         "ATC Track": "Symphony No. 2 in C minor (\"Resurrection\")",
         "ATC Artists": [
             "Leonard Slatkin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

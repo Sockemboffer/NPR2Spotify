@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-12-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:14:42"
+        "Scanned Date": "2022-02-06 21:14:42",
+        "Playlist URI": "0JQhd8mS07xo03BkbFnYKQ",
+        "Playlist Link": "https://open.spotify.com/playlist/0JQhd8mS07xo03BkbFnYKQ",
+        "Snapshot ID": "MSw2YTY4ODUyOGExN2I5YTgyNzczYTJhYTlhOGJhOTRmZjY4ZjE0NDll",
+        "Playlist Name": "ATC 2001-12-08 Sat All Things Considered"
     },
     {
         "Title": "Kandahar",
@@ -22,7 +26,15 @@
         "ATC Track": "She's a Jar",
         "ATC Artists": [
             "Wilco"
-        ]
+        ],
+        "Result Track Name": "She's a Jar",
+        "Result Artist Names": [
+            "Wilco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LhMScqQCHh1u1CZA3PJTu",
+        "Result Album Name": "Summerteeth"
     },
     {
         "Title": "Washington Tourism",
@@ -40,7 +52,12 @@
         "ATC Track": "Prelude to a Kiss",
         "ATC Artists": [
             "David \"Fathead\" Newman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Panama Hotel",
@@ -52,26 +69,55 @@
         "ATC Track": "It's a Blue World",
         "ATC Artists": [
             "Glenn Miller"
-        ]
+        ],
+        "Result Track Name": "It's a Blue World",
+        "Result Artist Names": [
+            "Glenn Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Lx6hewL29uYUsXg28mkRL",
+        "Result Album Name": "Glenn Miller And The Andrews Sisters: The Chesterfield Broadcasts"
     },
     {
         "ATC Track": "Gypsy Song",
         "ATC Artists": [
             "Nadja Salerno-Sonnenberg",
             "Odair Assad et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blue Flame",
         "ATC Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": "Blue Flame",
+        "Result Artist Names": [
+            "Simon Shaheen & Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vS04z01V3k667TY0VRE8H",
+        "Result Album Name": "Blue Flame"
     },
     {
         "ATC Track": "In a Future Age",
         "ATC Artists": [
             "Wilco"
-        ]
+        ],
+        "Result Track Name": "In a Future Age",
+        "Result Artist Names": [
+            "Wilco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33BysYsvbS2WhHaX1KwqaK",
+        "Result Album Name": "Summerteeth"
     },
     {
         "Title": "Shooting Down Mistletoe",
@@ -83,7 +129,15 @@
         "ATC Track": "Round",
         "ATC Artists": [
             "Margo Guryan"
-        ]
+        ],
+        "Result Track Name": "The 8:17 Northbound Success Merry-Go-Round",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jwV2OyHrJr5ly6j3PaXJM",
+        "Result Album Name": "27 Demos"
     },
     {
         "Title": "N.J. Teachers Strike",
@@ -101,7 +155,12 @@
         "ATC Track": "Krush",
         "ATC Artists": [
             "Stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Simon Shaheen",

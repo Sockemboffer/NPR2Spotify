@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-10-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:18:23"
+        "Scanned Date": "2022-02-06 21:18:23",
+        "Playlist URI": "26NJSEgrXgJlxfeR3SUZHo",
+        "Playlist Link": "https://open.spotify.com/playlist/26NJSEgrXgJlxfeR3SUZHo",
+        "Snapshot ID": "MSwxYjZmOTIwMjliMmYxOGEwZjdjZWVhOGYwNjYzZjU4YTY5MzRiZTM2",
+        "Playlist Name": "ATC 2001-10-06 Sat All Things Considered"
     },
     {
         "Title": "Fort Drum",
@@ -34,7 +38,12 @@
         "ATC Track": "Olé",
         "ATC Artists": [
             "Dizzy Gillespie Alumni All-Stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cal Ripken",
@@ -52,14 +61,27 @@
         "ATC Track": "Crime Spree",
         "ATC Artists": [
             "Danny Elfman"
-        ]
+        ],
+        "Result Track Name": "Crime Spree",
+        "Result Artist Names": [
+            "Danny Elfman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lpb6HqPRwPDXcTJ4pPrG3",
+        "Result Album Name": "Dick Tracy (Original Score)"
     },
     {
         "ATC Track": "Baby Elephant Walk",
         "ATC Artists": [
             "D. Costa",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Red Dress Harriers",
@@ -71,7 +93,12 @@
         "ATC Track": "Spontanski II",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congress Wrap",
@@ -96,7 +123,15 @@
         "ATC Artists": [
             "Lydian String Quartet",
             "Bob Nieske 3"
-        ]
+        ],
+        "Result Track Name": "Astor",
+        "Result Artist Names": [
+            "Bob Nieske"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:61ASdeONSM2Oq4bx7gR9pY",
+        "Result Album Name": "Simplicity"
     },
     {
         "Title": "National Story Project",
@@ -108,6 +143,14 @@
         "ATC Track": "Avalon",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Avalon",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rmykIK4vBrCGLq6PR8U5u",
+        "Result Album Name": "Chasin' The Gypsy"
     }
 ]

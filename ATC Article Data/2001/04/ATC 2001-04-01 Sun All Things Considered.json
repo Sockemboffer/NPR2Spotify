@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-04-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:29:22"
+        "Scanned Date": "2022-02-06 21:29:22",
+        "Playlist URI": "1jhxctSIWf80GI6mSeK7uu",
+        "Playlist Link": "https://open.spotify.com/playlist/1jhxctSIWf80GI6mSeK7uu",
+        "Snapshot ID": "MSxhNTMyYTRkNWVlYjEwODllZmUzMzgxMDVjNTE4NzZiNDkyMDJlMzYx",
+        "Playlist Name": "ATC 2001-04-01 Sun All Things Considered"
     },
     {
         "Title": "China",
@@ -34,19 +38,43 @@
         "ATC Track": "Overture (Reprise)",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rhumba Flamenco",
         "ATC Artists": [
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": "Rhumba Flamenco - Live At SPC Music Hall / 2018",
+        "Result Artist Names": [
+            "Chick Corea Akoustic Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ANCXxOPqU5yUaFtlJ3zZa",
+        "Result Album Name": "LIVE"
     },
     {
         "ATC Track": "Oh, Del Mio Dolce Ardor",
         "ATC Artists": [
             "Susan Graham"
-        ]
+        ],
+        "Result Track Name": "Paride ed Elena, Wq. 39, Act 1: \"Oh, del mio dolce ardor\"",
+        "Result Artist Names": [
+            "Christoph Willibald Gluck",
+            "Susan Graham",
+            "Harry Bicket",
+            "Orchestra of the Age of Enlightenment"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ew3tSZfAfaspf3KplcmX7",
+        "Result Album Name": "The Art of Susan Graham"
     },
     {
         "Title": "Mideast",
@@ -58,7 +86,15 @@
         "ATC Track": "My Girl",
         "ATC Artists": [
             "Rasha"
-        ]
+        ],
+        "Result Track Name": "My Girl",
+        "Result Artist Names": [
+            "Rasha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DfGG7j8jLsGqSpQxv0UOJ",
+        "Result Album Name": "Let Me Be"
     },
     {
         "Title": "Ohio Town Loses",
@@ -76,7 +112,12 @@
         "ATC Track": "Transporter Dematerialization",
         "ATC Artists": [
             "Neil Norman (executive Producer)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Susan Graham",
@@ -90,6 +131,11 @@
             "ANDRE PREVIN",
             "MUNDELL LOWE",
             "RAY BROWN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

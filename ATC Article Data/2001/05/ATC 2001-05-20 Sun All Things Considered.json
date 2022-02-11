@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-05-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:28:40"
+        "Scanned Date": "2022-02-06 21:28:40",
+        "Playlist URI": "74Lz8u8zZVCGnvdCDxqyPi",
+        "Playlist Link": "https://open.spotify.com/playlist/74Lz8u8zZVCGnvdCDxqyPi",
+        "Snapshot ID": "MSxmYTEzNzEwZTI5MWIzODM3NzZkNTM0ZDM3NGY0Y2QzZDg4N2EwMDdk",
+        "Playlist Name": "ATC 2001-05-20 Sun All Things Considered"
     },
     {
         "Title": "Tax Cut",
@@ -23,7 +27,16 @@
         "ATC Artists": [
             "Charlie Haden",
             "Gonzalo Rubalcaba"
-        ]
+        ],
+        "Result Track Name": "Transparence",
+        "Result Artist Names": [
+            "Charlie Haden",
+            "Gonzalo Rubalcaba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pi4yaW1e7Mw2eT7pVx70C",
+        "Result Album Name": "Tokyo Adagio"
     },
     {
         "Title": "Affirmative Action In France",
@@ -41,7 +54,12 @@
         "ATC Track": "Mr. Isaac's Maggot",
         "ATC Artists": [
             "Ensemble Galilei"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Blood Hounds",
@@ -71,6 +89,14 @@
         "ATC Track": "The Anniversary Waltz",
         "ATC Artists": [
             "The Mom and Dads"
-        ]
+        ],
+        "Result Track Name": "The Anniversary Waltz",
+        "Result Artist Names": [
+            "The Mom & Dads"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:129rN8HL23JBmYgus5H64W",
+        "Result Album Name": "20 Favorite Waltzes"
     }
 ]

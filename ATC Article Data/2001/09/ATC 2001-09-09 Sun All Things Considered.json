@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:20:21"
+        "Scanned Date": "2022-02-06 21:20:21",
+        "Playlist URI": "5RllF3At2hNUXn2RP1fPIA",
+        "Playlist Link": "https://open.spotify.com/playlist/5RllF3At2hNUXn2RP1fPIA",
+        "Snapshot ID": "MSwyN2JmYTE0YmI5OGYyNzI1YzEzODEwODU4YjRhMDNiYTFiZmYwZWVi",
+        "Playlist Name": "ATC 2001-09-09 Sun All Things Considered"
     },
     {
         "Title": "Nigeria",
@@ -22,7 +26,16 @@
         "ATC Track": "Stélé: I. Stélé",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Stélé: I. Stélé",
+        "Result Artist Names": [
+            "Phillip Houghton",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LSxu3HjmCY8zx3AwTy8dR",
+        "Result Album Name": "The Guitarist"
     },
     {
         "Title": "Economy Wrap",
@@ -46,13 +59,26 @@
         "ATC Track": "Daybreak",
         "ATC Artists": [
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "Daybreak",
+        "Result Artist Names": [
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XxO4cwj0Kl5aZpcFl7qvV",
+        "Result Album Name": "Natural Bridge"
     },
     {
         "ATC Track": "Introduction [Embolada]",
         "ATC Artists": [
             "The Brazilian Guitar Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Aceh",
@@ -76,7 +102,12 @@
         "ATC Track": "Must Be a Foxtrot",
         "ATC Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Invention of Clouds",
@@ -94,6 +125,11 @@
         "ATC Track": "Angelic Brimstone Finale",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

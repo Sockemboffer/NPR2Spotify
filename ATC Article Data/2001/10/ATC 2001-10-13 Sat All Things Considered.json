@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-10-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:18:53"
+        "Scanned Date": "2022-02-06 21:18:53",
+        "Playlist URI": "1wSkugU8CRkwDHwsDiEI8s",
+        "Playlist Link": "https://open.spotify.com/playlist/1wSkugU8CRkwDHwsDiEI8s",
+        "Snapshot ID": "MSw1YzQ1NzFhOTNiZGYwZTMxYmJkZWI5ZDE4MzgzNjVlOTE1OWEyMTIz",
+        "Playlist Name": "ATC 2001-10-13 Sat All Things Considered"
     },
     {
         "Title": "Anthrax",
@@ -16,7 +20,15 @@
         "ATC Track": "Gibralfaro",
         "ATC Artists": [
             "Luis Delgado"
-        ]
+        ],
+        "Result Track Name": "Gibralfaro",
+        "Result Artist Names": [
+            "Luis Delgado"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zNlSdKIeZdIsRIai6Z1Ol",
+        "Result Album Name": "Flamenco for the Alcazar of Seville"
     },
     {
         "Title": "Counter-Terrorism",
@@ -28,7 +40,15 @@
         "ATC Track": "Mali Dje",
         "ATC Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Mali Dje",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CHKHF1roftcIHOp2jPzc1",
+        "Result Album Name": "Niafunké"
     },
     {
         "Title": "Pentagon",
@@ -40,7 +60,15 @@
         "ATC Track": "Edge of the World",
         "ATC Artists": [
             "Sam Phillips"
-        ]
+        ],
+        "Result Track Name": "Edge of the World",
+        "Result Artist Names": [
+            "Sam Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OPcr0TJmI5g1aulf4JQ1s",
+        "Result Album Name": "Fan Dance"
     },
     {
         "Title": "Regional Round-Up",
@@ -53,7 +81,16 @@
         "ATC Artists": [
             "Manuel Barrueco",
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Azzurra",
+        "Result Artist Names": [
+            "Manuel Barrueco",
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4takUqt7dgdV55auqm1g9N",
+        "Result Album Name": "Nylon & Steel"
     },
     {
         "Title": "Retail Blues",
@@ -65,7 +102,15 @@
         "ATC Track": "Hawa Dolo",
         "ATC Artists": [
             "Ali Farka Toure"
-        ]
+        ],
+        "Result Track Name": "Hawa Dolo",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5uNXOx7auzxRN1ZJRoY6wr",
+        "Result Album Name": "The Source"
     },
     {
         "Title": "Powell Trip",
@@ -79,7 +124,12 @@
             "Uri Caine",
             "Ahmir Thompson",
             "Christian Mcbride"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Arab/Muslim Perceptions",
@@ -97,7 +147,17 @@
         "ATC Track": "Tango-Etudes: Etudes 3",
         "ATC Artists": [
             "Gidon Kremer"
-        ]
+        ],
+        "Result Track Name": "Tango Etudes, 3",
+        "Result Artist Names": [
+            "Astor Piazzolla",
+            "Astor Piazzolla arr. Gidon Kremer",
+            "Gidon Kremer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Q5mDkWl7AVgJlSg5KGZzl",
+        "Result Album Name": "Tracing Astor"
     },
     {
         "Title": "Bulb Planting",
@@ -109,7 +169,12 @@
         "ATC Track": "Angelic Brimstone II",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Literature of Loss",
@@ -122,6 +187,15 @@
         "ATC Artists": [
             "Manuel Barrueco",
             "Steve Morse"
-        ]
+        ],
+        "Result Track Name": "Cavatina",
+        "Result Artist Names": [
+            "Manuel Barrueco",
+            "Steve Morse"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29b8oIzxZvWpn3CC3pS3fz",
+        "Result Album Name": "Nylon & Steel"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:21:25"
+        "Scanned Date": "2022-02-06 21:21:25",
+        "Playlist URI": "3scQjXkr4MiGdPj9CYiqzA",
+        "Playlist Link": "https://open.spotify.com/playlist/3scQjXkr4MiGdPj9CYiqzA",
+        "Snapshot ID": "MSw1YzI3MDdhYWE5Y2UxODI0MGUxMzMzNjU1OTk4NzE1MWQ0OTE3MjA1",
+        "Playlist Name": "ATC 2001-09-23 Sun All Things Considered"
     },
     {
         "Title": "Pakistan",
@@ -28,7 +32,15 @@
         "ATC Track": "For Monk",
         "ATC Artists": [
             "Abdullah Ibrahim"
-        ]
+        ],
+        "Result Track Name": "For Monk",
+        "Result Artist Names": [
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03lbPO4YNmYqnO3ROjOz2o",
+        "Result Album Name": "The Enja Heritage Collection: African Dawn"
     },
     {
         "Title": "Yankee Stadium",
@@ -46,7 +58,15 @@
         "ATC Track": "From Music for Bill & Me",
         "ATC Artists": [
             "Lou Harrison"
-        ]
+        ],
+        "Result Track Name": "From Music For Bill & Me",
+        "Result Artist Names": [
+            "Lou Harrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bVgcDkiPNkk1967y05jRW",
+        "Result Album Name": "The Perilous Chapel"
     },
     {
         "Title": "Stern",
@@ -58,7 +78,18 @@
         "ATC Track": "On Wings of Song",
         "ATC Artists": [
             "Isaac Stern"
-        ]
+        ],
+        "Result Track Name": "On Wings of Song, Op. 34, No. 2",
+        "Result Artist Names": [
+            "Felix Mendelssohn",
+            "Isaac Stern",
+            "Frank Brieff",
+            "Columbia Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UIH5dyGhGNVImKHNAgKDn",
+        "Result Album Name": "Humoresque - Favorite Violin Encores [Expanded Edition]"
     },
     {
         "Title": "Taliban",
@@ -72,7 +103,12 @@
             "Emanuel Ax",
             "Yo-yo Ma",
             "James Tocco"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pope",
@@ -84,7 +120,15 @@
         "ATC Track": "Miss Haymes",
         "ATC Artists": [
             "The Durutti Column"
-        ]
+        ],
+        "Result Track Name": "Miss Haymes",
+        "Result Artist Names": [
+            "The Durutti Column"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5d57ZhRHT91C67TPxZ27bk",
+        "Result Album Name": "The Guitar and Other Machines"
     },
     {
         "Title": "Editors Roundtable",
@@ -96,7 +140,12 @@
         "ATC Track": "Fantasia on an Ostinato, for piano",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gulfport Security",
@@ -114,7 +163,12 @@
         "ATC Track": "Ubrig",
         "ATC Artists": [
             "Couch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Yankee Ender",

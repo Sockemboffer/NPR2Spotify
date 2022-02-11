@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:17:37"
+        "Scanned Date": "2022-02-06 21:17:37",
+        "Playlist URI": "4NaWanPwTCAuA11csk6IoL",
+        "Playlist Link": "https://open.spotify.com/playlist/4NaWanPwTCAuA11csk6IoL",
+        "Snapshot ID": "MSxmMTBmOTM1NWMyOTQ3MzkwMmExMTUwNDZmODU5YmE5ZjY5NzljMjE1",
+        "Playlist Name": "ATC 2001-11-24 Sat All Things Considered"
     },
     {
         "Title": "Hamas",
@@ -28,7 +32,15 @@
         "ATC Track": "Luna Tango",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": "Luna Tango",
+        "Result Artist Names": [
+            "Robin Nolan Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NeQczucnLJc9cZArUtRPF",
+        "Result Album Name": "Mediterranean Blues"
     },
     {
         "Title": "Spies and Soldiers",
@@ -46,19 +58,47 @@
         "ATC Track": "Let's Call the Whole Thing Off",
         "ATC Artists": [
             "George Gershwin"
-        ]
+        ],
+        "Result Track Name": "Shall We Dance: Let's Call The Whole Thing Off",
+        "Result Artist Names": [
+            "George Gershwin",
+            "Patti Austin",
+            "Gregory Hines",
+            "Hollywood Bowl Orchestra",
+            "John Mauceri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NNoKN4Vul1nSr65SSJoC4",
+        "Result Album Name": "Landscapes: Gershwin"
     },
     {
         "ATC Track": "Take Four",
         "ATC Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Take Four",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Axe Murderers",
+            "The Rockin' Rhythmaires",
+            "The Heavenly Horns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eaTwFTCqNnDDxtun1JfPr",
+        "Result Album Name": "Strong Like Bull...But Sensitive Like Squirrel"
     },
     {
         "ATC Track": "Palpitacao",
         "ATC Artists": [
             "Madredeus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Finances and Therapy",
@@ -70,7 +110,12 @@
         "ATC Track": "No Such Thing [5.1 Surround Sound and PCM Stereo]",
         "ATC Artists": [
             "John Mayer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Utah Language",
@@ -82,7 +127,15 @@
         "ATC Track": "Long Island",
         "ATC Artists": [
             "Jeff London"
-        ]
+        ],
+        "Result Track Name": "Long Island",
+        "Result Artist Names": [
+            "Jeff London"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rhq4i6lircUF7tZS55pCF",
+        "Result Album Name": "Col. Summers Park"
     },
     {
         "Title": "Owls Make Bad Pets",
@@ -100,7 +153,15 @@
         "ATC Track": "Worry My Dome",
         "ATC Artists": [
             "Candy Butchers"
-        ]
+        ],
+        "Result Track Name": "Worry My Dome",
+        "Result Artist Names": [
+            "Candy Butchers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JfSb0S9ZEVSrXvBQaRYVE",
+        "Result Album Name": "Play With Your Head"
     },
     {
         "Title": "Virtue and Beauty",
@@ -112,12 +173,25 @@
         "ATC Track": "La Figlia Guiliemino",
         "ATC Artists": [
             "Schola Cantorum Basiliensis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "A Fine Romance",
         "ATC Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "A Fine Romance",
+        "Result Artist Names": [
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5Lj5l2hbCFmNtnZ8AOdLNf",
+        "Result Album Name": "More DB!, Vol. 2"
     }
 ]

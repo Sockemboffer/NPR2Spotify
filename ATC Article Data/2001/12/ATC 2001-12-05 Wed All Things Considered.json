@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-12-05",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:14:30"
+        "Scanned Date": "2022-02-06 21:14:30",
+        "Playlist URI": "1aTfBEQrxyLKRsVbDiTDoe",
+        "Playlist Link": "https://open.spotify.com/playlist/1aTfBEQrxyLKRsVbDiTDoe",
+        "Snapshot ID": "MSwyNmY0OTZmMmViZTQxNDhjN2I3N2JmYmEyNjZmZWU4NmYxMmE3YjY5",
+        "Playlist Name": "ATC 2001-12-05 Wed All Things Considered"
     },
     {
         "Title": "Afghan Accord",
@@ -28,14 +32,27 @@
         "ATC Track": "Pied-en-l'air From the Capriol Sueite",
         "ATC Artists": [
             "Washington Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": "Capriol Suite: Pied en l'Air",
+        "Result Artist Names": [
+            "Washington Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WEVeNrMKAmpxsOz3YPKvZ",
+        "Result Album Name": "Daydream"
     },
     {
         "ATC Track": "Opus",
         "ATC Artists": [
             "Jim Hoke",
             "Peter Hyrka et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New GOP Chairman",
@@ -53,14 +70,28 @@
         "ATC Track": "Cello Suite No. 1",
         "ATC Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Swing '42",
         "ATC Artists": [
             "David Grisman",
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Swing '42",
+        "Result Artist Names": [
+            "David Grisman",
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1TguVCVSLQCzM8GnGsvaBT",
+        "Result Album Name": "Tone Poems"
     },
     {
         "Title": "FBI & Local Law Enforcement",
@@ -79,13 +110,32 @@
         "ATC Artists": [
             "Kenny Wheeler",
             "Bill Frisell et. al."
-        ]
+        ],
+        "Result Track Name": "Nonetheless",
+        "Result Artist Names": [
+            "Kenny Wheeler",
+            "Lee Konitz",
+            "Dave Holland",
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TI5phy42uCjvk9NZqzJgu",
+        "Result Album Name": "Angel Song"
     },
     {
         "ATC Track": "No Whine",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "No Whine",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aHAccqqtsXHfCGR5QfHxX",
+        "Result Album Name": "You Are #6"
     },
     {
         "Title": "Sotheby's - Price Fixing",
@@ -103,7 +153,15 @@
         "ATC Track": "Telewacker",
         "ATC Artists": [
             "Redd Volkaert"
-        ]
+        ],
+        "Result Track Name": "Telewacker",
+        "Result Artist Names": [
+            "Redd Volkaert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Gpnb31CCr5B2o1ZjbMGGW",
+        "Result Album Name": "Telewacker"
     },
     {
         "Title": "Afghanistan - War",
@@ -127,7 +185,15 @@
         "ATC Track": "Wildside",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Wildside",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:313bv3EQinnoiw2d3WOYnt",
+        "Result Album Name": "Space Island"
     },
     {
         "Title": "Civil Liberties",
@@ -139,14 +205,31 @@
         "ATC Track": "Prelude and Yodel",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Prelude And Yodel",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5lYkEZAhUXC4Y6ssjVshhD",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "ATC Track": "Mill Valley Waltz",
         "ATC Artists": [
             "David Grisman",
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Mill Valley Waltz",
+        "Result Artist Names": [
+            "David Grisman",
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lQ7J8uplb9ShFKJP78fcs",
+        "Result Album Name": "Tone Poems"
     },
     {
         "Title": "Middle East",
@@ -171,7 +254,12 @@
         "ATC Artists": [
             "Beegie Adair",
             "Chris Brown et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Jersey Teachers",
@@ -189,13 +277,23 @@
         "ATC Track": "Lydia, the Tattooed Lady From At the Circus",
         "ATC Artists": [
             "Groucho Marx"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blue Midnite",
         "ATC Artists": [
             "Beegie Adair",
             "Chris Brown et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

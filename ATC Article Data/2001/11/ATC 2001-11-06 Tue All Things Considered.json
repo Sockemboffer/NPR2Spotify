@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-06",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:16:29"
+        "Scanned Date": "2022-02-06 21:16:29",
+        "Playlist URI": "6Gip4i6E5RI2KUcLAtrwSZ",
+        "Playlist Link": "https://open.spotify.com/playlist/6Gip4i6E5RI2KUcLAtrwSZ",
+        "Snapshot ID": "MSw0YTZjYjYyMTFjNTU0YWRiODk4NzIzZjEwODA1N2I0OTA1NzY4OGVm",
+        "Playlist Name": "ATC 2001-11-06 Tue All Things Considered"
     },
     {
         "Title": "FBI - Anthrax",
@@ -28,13 +32,26 @@
         "ATC Track": "The Winding Way",
         "ATC Artists": [
             "Dave Holland Quartet"
-        ]
+        ],
+        "Result Track Name": "The Winding Way",
+        "Result Artist Names": [
+            "Dave Holland Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iFRKQD9X4ZX75PBcGlReH",
+        "Result Album Name": "Dream Of The Elders"
     },
     {
         "ATC Track": "Cantata No. 76, \"Die Himmel erzählen die Ehre Gottes,\" BWV 76 (BC A97)",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "2000 Election Ballots",
@@ -52,13 +69,27 @@
         "ATC Track": "CANONIC SONATA NO. 2 IN F FOR BASSOON AND CELLO",
         "ATC Artists": [
             "christopher weait"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Le Coucou",
         "ATC Artists": [
             "John O'Conor"
-        ]
+        ],
+        "Result Track Name": "Pièces de clavecin, Suite No. 3: No. 16, Le coucou",
+        "Result Artist Names": [
+            "Louis-Claude Daquin",
+            "John O'Conor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5crlh6kiqisrjSlaUD8MmX",
+        "Result Album Name": "Autumn Songs: Popular Works for Solo Piano"
     },
     {
         "Title": "Afghanistan - Hamid Karzai",
@@ -76,13 +107,29 @@
         "ATC Track": "Pashtun",
         "ATC Artists": [
             "Musa Jan and Zahir Jan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hush-A-Bye",
         "ATC Artists": [
             "Johnny Griffin"
-        ]
+        ],
+        "Result Track Name": "Hush-A-Bye",
+        "Result Artist Names": [
+            "Johnny Griffin",
+            "Barry Harris",
+            "Ron Carter",
+            "Ben Riley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BDUJZt5HcEFPOQ8E6Ufg0",
+        "Result Album Name": "The Kerry Dancers"
     },
     {
         "Title": "French Dogs",
@@ -100,7 +147,15 @@
         "ATC Track": "GETTIN' IN THE CUT",
         "ATC Artists": [
             "THE DIRTY DOZEN"
-        ]
+        ],
+        "Result Track Name": "Gettin' In The Cut",
+        "Result Artist Names": [
+            "The Dirty Dozen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YCowkpBHpwO9gMytG3fOi",
+        "Result Album Name": "Ears to the Wall"
     },
     {
         "Title": "Interest Rate Cut",
@@ -125,13 +180,29 @@
         "ATC Artists": [
             "Radim Zenkl",
             "Mark Summer"
-        ]
+        ],
+        "Result Track Name": "Up And Down The New Land",
+        "Result Artist Names": [
+            "Radim Zenkl"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7GHauxVjOcFcuvfqlxVYyS",
+        "Result Album Name": "Strings & Wings"
     },
     {
         "ATC Track": "HARD TIMES COME NO MORE",
         "ATC Artists": [
             "HARVEY REID"
-        ]
+        ],
+        "Result Track Name": "Hard Times (Come Again No More)",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eHDApeXyYSUVrJfcTCYh0",
+        "Result Album Name": "Capo Voodoo: Solo Guitar"
     },
     {
         "Title": "Special Operations",
@@ -149,7 +220,15 @@
         "ATC Track": "M.A.Y. IN THE BACKYARD",
         "ATC Artists": [
             "RYUICHI SAKAMOTO"
-        ]
+        ],
+        "Result Track Name": "M.A.Y. In the Backyard",
+        "Result Artist Names": [
+            "Ryuichi Sakamoto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55YmHqwL2o7qd0t37VeHhT",
+        "Result Album Name": "Call Me by Your Name (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Oregon - Assisted Suicide",
@@ -173,14 +252,30 @@
         "ATC Track": "ZIRICOTE",
         "ATC Artists": [
             "COYOTE OLDMAN"
-        ]
+        ],
+        "Result Track Name": "Ziricote",
+        "Result Artist Names": [
+            "Coyote Oldman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3y1oPeqkIaF23ZtrpecX9g",
+        "Result Album Name": "Tear of the Moon"
     },
     {
         "ATC Track": "A Breath",
         "ATC Artists": [
             "Ray Manzarek",
             "Michael McClure"
-        ]
+        ],
+        "Result Track Name": "A Breath",
+        "Result Artist Names": [
+            "Michael McLure & Ray Manzarek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0r1SVBzRqsirnZ7osQ7b26",
+        "Result Album Name": "Love Lion"
     },
     {
         "Title": "Comfort Food",
@@ -192,7 +287,15 @@
         "ATC Track": "Nail Talk",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Nail Talk",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eYpM7mfUgNx5QJWETnZmP",
+        "Result Album Name": "Guitars and Other Cathedrals"
     },
     {
         "Title": "Election 2001",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-08-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:22:48"
+        "Scanned Date": "2022-02-06 21:22:48",
+        "Playlist URI": "47doxZe9euug4M77ldc4us",
+        "Playlist Link": "https://open.spotify.com/playlist/47doxZe9euug4M77ldc4us",
+        "Snapshot ID": "MSw1MWY3MjFlNDg5YTI2ODU5NmQ1OGUwZTU3M2UwYmZmZDljNGYwNjRl",
+        "Playlist Name": "ATC 2001-08-12 Sun All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -16,7 +20,15 @@
         "ATC Track": "MELANCHOLY",
         "ATC Artists": [
             "AMY WHITE"
-        ]
+        ],
+        "Result Track Name": "Melancholy",
+        "Result Artist Names": [
+            "White Cherry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3DFhB4Sdjin9tPxPYf11Fh",
+        "Result Album Name": "Melancholy"
     },
     {
         "Title": "PC Anniversary",
@@ -34,7 +46,12 @@
         "ATC Track": "Fantom",
         "ATC Artists": [
             "Source Lab"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Heraclitus",
@@ -46,14 +63,24 @@
         "ATC Track": "First Delphic Hymn to Apollo",
         "ATC Artists": [
             "Atrium Musicae de Madrid"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hansel and Pretzel",
         "ATC Artists": [
             "Henri Rene",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mexican Truckers",
@@ -65,7 +92,15 @@
         "ATC Track": "Ten Believers",
         "ATC Artists": [
             "Latin Playboys"
-        ]
+        ],
+        "Result Track Name": "Ten Believers",
+        "Result Artist Names": [
+            "Latin Playboys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NAUwJVkdvmJTWUcRrt6iW",
+        "Result Album Name": "Latin Playboys"
     },
     {
         "Title": "Marshall Islanders",

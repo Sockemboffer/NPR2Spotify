@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-21",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:21:21"
+        "Scanned Date": "2022-02-06 21:21:21",
+        "Playlist URI": "1TgY4ki21K5VEnMIv06wni",
+        "Playlist Link": "https://open.spotify.com/playlist/1TgY4ki21K5VEnMIv06wni",
+        "Snapshot ID": "MSwxMzA5ZTA4MWYzMGE1ODdmMjY4NmVmOWM1ODUxZmM0MTY2MzQ2MWU1",
+        "Playlist Name": "ATC 2001-09-21 Fri All Things Considered"
     },
     {
         "Title": "Taliban",
@@ -28,7 +32,12 @@
         "ATC Track": "Beautiful Ride",
         "ATC Artists": [
             "Perplexa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Branding the News",
@@ -46,13 +55,31 @@
         "ATC Track": "Blue in Green",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Blue in Green (feat. John Coltrane & Bill Evans)",
+        "Result Artist Names": [
+            "Miles Davis",
+            "John Coltrane",
+            "Bill Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0aWMVrwxPNYkKmFthzmpRi",
+        "Result Album Name": "Kind Of Blue (Legacy Edition)"
     },
     {
         "ATC Track": "Ghost Town/Poem for Eva",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Ghost Town / Poem for Eva",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24LSTS7aqyAkHfz3TL8EcI",
+        "Result Album Name": "Ghost Town"
     },
     {
         "Title": "New York Mood",
@@ -76,7 +103,15 @@
         "ATC Track": "A ORILLAS DEL CAUTO",
         "ATC Artists": [
             "NICO SAQUITO"
-        ]
+        ],
+        "Result Track Name": "A orillas del Cauto",
+        "Result Artist Names": [
+            "Ñico Saquito"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4XY9jnrysYdc9S1nDPgaYQ",
+        "Result Album Name": "Cuba Tradicional"
     },
     {
         "Title": "Drug Addiction in D.C.",
@@ -88,7 +123,15 @@
         "ATC Track": "Hill of Solitude - Valley of Festivity",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Hill Of Solitude / Valley Of Festivity",
+        "Result Artist Names": [
+            "Tunde Jegede"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NPmllEwHjqgRpYFicKc4Z",
+        "Result Album Name": "Wheelbarrow"
     },
     {
         "Title": "Deep Space One",
@@ -100,14 +143,27 @@
         "ATC Track": "Breaking the Ethers/Serengeti",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Breaking The Ethers\\Serengeti",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LdBgztm20s2ZPkYjoi6j5",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "ATC Track": "New Orleans Farewell",
         "ATC Artists": [
             "Guy Van Duser",
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Homeland Defense",
@@ -132,7 +188,12 @@
         "ATC Artists": [
             "EDGAR MEYER",
             "THE EMERSON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Short Trip Home",
@@ -140,7 +201,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Special Forces",
@@ -158,14 +224,30 @@
         "ATC Track": "Tell Your Ma, Tell Your Pa",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Tell Your Ma, Tell Your Pa",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RPhzk8mI0xmowetYvMLg0",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "ATC Track": "There's a Great Change",
         "ATC Artists": [
             "Martin Simpson",
             "Doug Burns et. al."
-        ]
+        ],
+        "Result Track Name": "There's A Great Change",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5YqWiSWXJIozRgIWhRWWqO",
+        "Result Album Name": "A Closer Walk With Thee"
     },
     {
         "Title": "The Markets",
@@ -189,13 +271,29 @@
         "ATC Track": "What Is This Fragrance",
         "ATC Artists": [
             "Washington Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": "What Is This Fragrance?",
+        "Result Artist Names": [
+            "Washington Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QmReNd5aOOJPw7FPC0vqx",
+        "Result Album Name": "Daydream"
     },
     {
         "ATC Track": "moe 'uhane (dream slack key)",
         "ATC Artists": [
             "sonny chillingworth"
-        ]
+        ],
+        "Result Track Name": "Moe 'Uhane - Dream Slack Key",
+        "Result Artist Names": [
+            "Sonny Chillingworth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Kk3ZHgX6UNQpxd8MKksE6",
+        "Result Album Name": "Sonny Solo"
     },
     {
         "Title": "Sports",
@@ -213,13 +311,26 @@
         "ATC Track": "The Theme Song to the Marx Brothers Movie Monkey Business",
         "ATC Artists": [
             "Unknown Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "spiritual",
         "ATC Artists": [
             "charlie haden",
             "hank jones"
-        ]
+        ],
+        "Result Track Name": "Spiritual - Instrumental",
+        "Result Artist Names": [
+            "Charlie Haden"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:027q0FfB6fmlvDzl9ri217",
+        "Result Album Name": "Steal Away"
     }
 ]

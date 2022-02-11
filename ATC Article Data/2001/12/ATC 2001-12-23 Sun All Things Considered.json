@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-12-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:15:43"
+        "Scanned Date": "2022-02-06 21:15:43",
+        "Playlist URI": "5D1pjMKISXcBlxebvv9UvY",
+        "Playlist Link": "https://open.spotify.com/playlist/5D1pjMKISXcBlxebvv9UvY",
+        "Snapshot ID": "MSxlYmVjNTgzMDY5ZTUyZDQ4ZDliY2QyNDI0ODQxN2Q5OGQ1ZjliNmIx",
+        "Playlist Name": "ATC 2001-12-23 Sun All Things Considered"
     },
     {
         "Title": "France",
@@ -22,7 +26,15 @@
         "ATC Track": "Coney Island",
         "ATC Artists": [
             "Death Cab for Cutie"
-        ]
+        ],
+        "Result Track Name": "Coney Island - Band Demo",
+        "Result Artist Names": [
+            "Death Cab for Cutie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YWCiC8PjoxeC1AKEB0xkf",
+        "Result Album Name": "Coney Island (Band Demo)"
     },
     {
         "Title": "Domestic Partners & WTC",
@@ -40,7 +52,15 @@
         "ATC Track": "RUDOLPH THE RED-NOSED REINDEER",
         "ATC Artists": [
             "THE JINGLE CATS"
-        ]
+        ],
+        "Result Track Name": "Rudolph the Red-Nosed Reindeer",
+        "Result Artist Names": [
+            "The Alley Cats"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5U7ZqS10G7Z8zDIeYRiaGQ",
+        "Result Album Name": "A Christmas Long Ago"
     },
     {
         "Title": "Storybook Project",
@@ -52,19 +72,43 @@
         "ATC Track": "I'll Be Home for Christmas",
         "ATC Artists": [
             "George Shearing"
-        ]
+        ],
+        "Result Track Name": "I'll Be Home for Christmas",
+        "Result Artist Names": [
+            "George Shearing Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4oLMBwVk9F2m1zZJcIAp7c",
+        "Result Album Name": "Christmas With The George Shearing Quintet"
     },
     {
         "ATC Track": "Let It Snow! Let It Snow! Let It Snow!",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Let It Snow! Let It Snow! Let It Snow!",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Rld2eeK8qKgEwzrY4p6fH",
+        "Result Album Name": "Xmas Songs"
     },
     {
         "ATC Track": "Sally Goodin [#]",
         "ATC Artists": [
             "Eck Robertson"
-        ]
+        ],
+        "Result Track Name": "Sally Goodin",
+        "Result Artist Names": [
+            "Eck Robertson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7p2l6G8ay1AFbuVXZyRcov",
+        "Result Album Name": "There is No Eye: Music for Photographs"
     },
     {
         "Title": "Rebuilding Their Native Land",
@@ -82,7 +126,15 @@
         "ATC Track": "Long Island",
         "ATC Artists": [
             "Jeff London"
-        ]
+        ],
+        "Result Track Name": "Long Island",
+        "Result Artist Names": [
+            "Jeff London"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rhq4i6lircUF7tZS55pCF",
+        "Result Album Name": "Col. Summers Park"
     },
     {
         "Title": "Ali",
@@ -94,7 +146,15 @@
         "ATC Track": "Look My Way",
         "ATC Artists": [
             "Stella Soleil"
-        ]
+        ],
+        "Result Track Name": "Look My Way",
+        "Result Artist Names": [
+            "Stella Soleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uMign6I1iWh16Gf8rGiwY",
+        "Result Album Name": "Dirty Little Secret"
     },
     {
         "Title": "John Cohen",
@@ -106,6 +166,14 @@
         "ATC Track": "We Wish You a Merry Christmas",
         "ATC Artists": [
             "Harry Allen"
-        ]
+        ],
+        "Result Track Name": "We Wish You A Merry Christmas",
+        "Result Artist Names": [
+            "Harry Allen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eOlrsIomgQnURysGykHlW",
+        "Result Album Name": "Christmas In Swingtime"
     }
 ]

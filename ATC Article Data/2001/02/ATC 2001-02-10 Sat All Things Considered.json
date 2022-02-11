@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-02-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:33:42"
+        "Scanned Date": "2022-02-06 21:33:42",
+        "Playlist URI": "0XeWRBcFiug78yiaQ37ikM",
+        "Playlist Link": "https://open.spotify.com/playlist/0XeWRBcFiug78yiaQ37ikM",
+        "Snapshot ID": "MSxjNGM2M2FmNWNmMjYxMThiYTRiM2NmYzE4ZDkxNTQyNzA1M2ZjMzMz",
+        "Playlist Name": "ATC 2001-02-10 Sat All Things Considered"
     },
     {
         "Title": "Submarine Accident",
@@ -16,7 +20,15 @@
         "ATC Track": "Cain and Abel",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "Cain and Abel",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4H5VGqDVzdzzPCdyU0v075",
+        "Result Album Name": "Evolution II"
     },
     {
         "Title": "Cambellsville, KY and Amazon.com",
@@ -34,7 +46,12 @@
         "ATC Track": "Timeless",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "School Detective",
@@ -46,19 +63,38 @@
         "ATC Track": "The Subway",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chilli Hot",
         "ATC Artists": [
             "Us3"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chopin: Waltz In E-flat, Op. 18",
         "ATC Artists": [
             "Sergei Rachmaninoff"
-        ]
+        ],
+        "Result Track Name": "Chopin: Waltz in E-flat, Op. 18 (\"Grande valse brillante\")",
+        "Result Artist Names": [
+            "Unknown",
+            "Sergei Rachmaninoff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bgNfFxGPfLsCzdhtZv8rv",
+        "Result Album Name": "A Window In Time - Rachmaninoff performs works of other composers"
     },
     {
         "Title": "Asteroid",
@@ -76,7 +112,15 @@
         "ATC Track": "Forbidden Forest",
         "ATC Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "Forbidden Forest",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GJDbKdgtJkDLaoy2GW8Rb",
+        "Result Album Name": "Forest"
     },
     {
         "Title": "Germany's Memory",
@@ -94,6 +138,15 @@
         "ATC Track": "Chopin: Waltz In E-flat, Op. 18",
         "ATC Artists": [
             "Sergei Rachmaninoff"
-        ]
+        ],
+        "Result Track Name": "Chopin: Waltz in E-flat, Op. 18 (\"Grande valse brillante\")",
+        "Result Artist Names": [
+            "Unknown",
+            "Sergei Rachmaninoff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3bgNfFxGPfLsCzdhtZv8rv",
+        "Result Album Name": "A Window In Time - Rachmaninoff performs works of other composers"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-03-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:32:23"
+        "Scanned Date": "2022-02-06 21:32:23",
+        "Playlist URI": "7iBCT9J504q2eXPI5vU4M7",
+        "Playlist Link": "https://open.spotify.com/playlist/7iBCT9J504q2eXPI5vU4M7",
+        "Snapshot ID": "MSxiYWMxMWY1NDhjNzlkMzMzZDc1ODcxYzk3NThiZTc4ZDVlMmIzNGQ3",
+        "Playlist Name": "ATC 2001-03-17 Sat All Things Considered"
     },
     {
         "Title": "Guns",
@@ -16,7 +20,15 @@
         "ATC Track": "Mindless Dribble",
         "ATC Artists": [
             "Disco Biscuits"
-        ]
+        ],
+        "Result Track Name": "Mindless Dribble [Live]",
+        "Result Artist Names": [
+            "The Disco Biscuits"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1RsgWdePmzxVgXlVRQaq7a",
+        "Result Album Name": "Steele's Reels, Vol. 8: 12-5-2001 (Cat's Cradle, Carrboro, NC) [Live]"
     },
     {
         "Title": "Post Office Woes",
@@ -28,7 +40,12 @@
         "ATC Track": "Nose Punch [Short Version]",
         "ATC Artists": [
             "John Lurie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Aids",
@@ -40,7 +57,12 @@
         "ATC Track": "Keyboard Sonata in E major, H. 16/31",
         "ATC Artists": [
             "Lang Lang"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "An American Winery in France",
@@ -52,19 +74,40 @@
         "ATC Track": "Concerto Grosso in F major, Op.6/2, HWV 320",
         "ATC Artists": [
             "Amati Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Love Song",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Love Song",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lEKexj7oAdBYpywBJOtmd",
+        "Result Album Name": "Space Island"
     },
     {
         "ATC Track": "Risipiti",
         "ATC Artists": [
             "The House Band"
-        ]
+        ],
+        "Result Track Name": "Risipiti/Mairtin O'Connor's",
+        "Result Artist Names": [
+            "The House Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33zqNI97tXll6DHOxGGbIA",
+        "Result Album Name": "October Song"
     },
     {
         "Title": "At the Dump",
@@ -76,7 +119,17 @@
         "ATC Track": "Flight Feet and Root Hands",
         "ATC Artists": [
             "Andreas Vollenweider"
-        ]
+        ],
+        "Result Track Name": "Flight Feet and Root Hands",
+        "Result Artist Names": [
+            "Andreas Vollenweider",
+            "Walter Keiser",
+            "Pedro Haldemann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64iGkQy5fe5gKVTpIvPtOX",
+        "Result Album Name": "White Winds (Seeker's Journey)"
     },
     {
         "Title": "Dengue Fever",
@@ -88,7 +141,12 @@
         "ATC Track": "Outcasts",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "<I>When Brendan Met Trudy</I>",
@@ -106,6 +164,14 @@
         "ATC Track": "Lost In the Loop",
         "ATC Artists": [
             "Liz Carroll"
-        ]
+        ],
+        "Result Track Name": "Lost In The Loop (Reel)",
+        "Result Artist Names": [
+            "Liz Carroll"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4no1H4zlabNPaYlF8G5iQQ",
+        "Result Album Name": "Lost in the Loop"
     }
 ]

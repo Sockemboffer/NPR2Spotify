@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-14",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:26:36"
+        "Scanned Date": "2022-02-06 21:26:36",
+        "Playlist URI": "6WHmRiU8UXAMA6Cb3YQpaJ",
+        "Playlist Link": "https://open.spotify.com/playlist/6WHmRiU8UXAMA6Cb3YQpaJ",
+        "Snapshot ID": "MSw5N2UyNzMwYTBlYmJhMDBkZDYxZDAxMmZlOWQyNDNhZTQ1Mzc2Zjcz",
+        "Playlist Name": "ATC 2001-06-14 Thu All Things Considered"
     },
     {
         "Title": "Bush - Kyoto Treaty",
@@ -28,13 +32,27 @@
         "ATC Track": "Berceuse",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Manila Waltz",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": "Manila Waltz",
+        "Result Artist Names": [
+            "Gideon Freudmann",
+            "Gideon Freudmann and Mark Herschler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54K5Sx5gSL1dtwvo9IwFU9",
+        "Result Album Name": "Dancing On My Hat"
     },
     {
         "Title": "New Imperialism",
@@ -52,7 +70,15 @@
         "ATC Track": "In the Pink",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "In the Pink",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zB0cOkfafO2kyxZrnWAui",
+        "Result Album Name": "Beautiful My Child"
     },
     {
         "Title": "Security Analysis",
@@ -76,14 +102,32 @@
         "ATC Track": "Oblivion",
         "ATC Artists": [
             "Astor Piazzolla"
-        ]
+        ],
+        "Result Track Name": "Oblivion",
+        "Result Artist Names": [
+            "Astor Piazzolla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CShxQaSFFKXY2PxrJIhrB",
+        "Result Album Name": "Piazzolla Tangos 6"
     },
     {
         "ATC Track": "Sketch #1",
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Sketch # 1",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ag7etGtDvv5FfxW5qIaNM",
+        "Result Album Name": "Rios"
     },
     {
         "Title": "Nepal Report",
@@ -101,13 +145,26 @@
         "ATC Track": "Pharmacies of Tamaulipas",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Telewacker",
         "ATC Artists": [
             "Redd Volkaert"
-        ]
+        ],
+        "Result Track Name": "Telewacker",
+        "Result Artist Names": [
+            "Redd Volkaert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Gpnb31CCr5B2o1ZjbMGGW",
+        "Result Album Name": "Telewacker"
     },
     {
         "Title": "Vieques",
@@ -131,13 +188,30 @@
         "ATC Track": "I'm So Lonesome I Could Cry",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "I’m So Lonesome I Could Cry",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4833g8hx0cX1HyaxtEGEw0",
+        "Result Album Name": "Solos - The Jazz Sessions (Bill Frisell)"
     },
     {
         "ATC Track": "Wildwood Flower",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Wildwood Flower",
+        "Result Artist Names": [
+            "Bill Frisell",
+            "Thomas Morgan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1irH01OxtyGZgnskCuCxWj",
+        "Result Album Name": "Small Town"
     },
     {
         "Title": "Starlink",
@@ -155,13 +229,29 @@
         "ATC Track": "Plains of Waterloo",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Plains of Waterloo / James Connolly",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JL9T7W6C9O0dYR8TO1FLg",
+        "Result Album Name": "Bootleg USA"
     },
     {
         "ATC Track": "St. Louis Blues",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "St. Louis Blues",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5CLj17X0Dh6amugItMGn9Z",
+        "Result Album Name": "Bug Music"
     },
     {
         "Title": "Health Claims",
@@ -185,13 +275,29 @@
         "ATC Track": "Shake Your Booty",
         "ATC Artists": [
             "Kc and the Sunshine Band"
-        ]
+        ],
+        "Result Track Name": "(Shake, Shake, Shake) Shake Your Booty",
+        "Result Artist Names": [
+            "KC & The Sunshine Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Is0Nnz59rzbNZE491URlY",
+        "Result Album Name": "KC & the Sunshine Band, Pt. 3... and More"
     },
     {
         "ATC Track": "The Dicty Glide",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "The Dicty Glide",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lxG2ka4qsFHupB2tpQJrI",
+        "Result Album Name": "Bug Music"
     },
     {
         "Title": "Loud Noises",
@@ -203,12 +309,22 @@
         "ATC Track": "NEW YORK, NEW YORK",
         "ATC Artists": [
             "WENDY MAE CHAMBERS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Fooled Ya",
         "ATC Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

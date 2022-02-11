@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-09-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:19:57"
+        "Scanned Date": "2022-02-06 21:19:57",
+        "Playlist URI": "3e16V4gxNiWHSRfkzZwNUR",
+        "Playlist Link": "https://open.spotify.com/playlist/3e16V4gxNiWHSRfkzZwNUR",
+        "Snapshot ID": "MSwyMjY2OGIwOTM2NGUwOTg2YTM0ODEwYWE2ZTc5YjE4NjZiNTFhMzU2",
+        "Playlist Name": "ATC 2001-09-01 Sat All Things Considered"
     },
     {
         "Title": "Racism Conference",
@@ -22,7 +26,15 @@
         "ATC Track": "Measure of Me",
         "ATC Artists": [
             "Amy Ray"
-        ]
+        ],
+        "Result Track Name": "Measure Of Me",
+        "Result Artist Names": [
+            "Amy Ray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4eS9PfbfBE3kf3hh4Q8DwP",
+        "Result Album Name": "Stag"
     },
     {
         "Title": "The Abolitionist Time Forgot",
@@ -40,13 +52,26 @@
         "ATC Track": "Cortez the Surfer",
         "ATC Artists": [
             "Acme Rock Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Drunken Master",
         "ATC Artists": [
             "Groove Collective"
-        ]
+        ],
+        "Result Track Name": "Drunken Master",
+        "Result Artist Names": [
+            "Groove Collective"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19upp1EANUgFU3xfokhhJd",
+        "Result Album Name": "Dance Of The Drunken Master"
     },
     {
         "Title": "And 1",
@@ -64,7 +89,12 @@
         "ATC Track": "Charlie Leaves the Mission",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Back to School",
@@ -82,7 +112,12 @@
         "ATC Track": "Chocochip [Instrumental]",
         "ATC Artists": [
             "Money Mark"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "National Story Project",
@@ -94,6 +129,11 @@
         "ATC Track": "Big Top",
         "ATC Artists": [
             "Caleb Sampson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

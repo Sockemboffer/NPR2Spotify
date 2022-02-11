@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-04-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:29:43"
+        "Scanned Date": "2022-02-06 21:29:43",
+        "Playlist URI": "6FdkyR8DXNuaKxDLvOTOve",
+        "Playlist Link": "https://open.spotify.com/playlist/6FdkyR8DXNuaKxDLvOTOve",
+        "Snapshot ID": "MSwzZjEzNGI3NTkzN2JmMTVmMzAwZmQxNjBhYWMwZGEwY2VkY2RlOGUz",
+        "Playlist Name": "ATC 2001-04-07 Sat All Things Considered"
     },
     {
         "Title": "Mia Helicopter",
@@ -36,7 +40,19 @@
             "Jerry Kirkbride",
             "Jesse Levine",
             "Rex Woods"
-        ]
+        ],
+        "Result Track Name": "Trio in E flat \"Kegelstadt\" for Clarinet, Viola, and Piano, K.498: Andante",
+        "Result Artist Names": [
+            "Wolfgang Amadeus Mozart",
+            "The Bruch Trio",
+            "Jerry Kirkbride, clarinet",
+            "Jesse Levine, viola",
+            "Rex Woods, piano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uhsA7NZbVUUxlXybcvsT8",
+        "Result Album Name": "The Music of Francaix & Jacob"
     },
     {
         "Title": "National Story Project",
@@ -48,7 +64,15 @@
         "ATC Track": "Jojoba",
         "ATC Artists": [
             "Beto and the Fairlanes"
-        ]
+        ],
+        "Result Track Name": "Jojoba",
+        "Result Artist Names": [
+            "Beto and the Fairlanes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10NBrWtioHWNFyRq50NScC",
+        "Result Album Name": "Salsafied"
     },
     {
         "Title": "National Story Project",
@@ -60,7 +84,15 @@
         "ATC Track": "Up In a Room",
         "ATC Artists": [
             "Ronnie Hazlehurst"
-        ]
+        ],
+        "Result Track Name": "Up in Room 14",
+        "Result Artist Names": [
+            "Ronnie Hazlehurst & His Orchestra"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5ZmrDPlFP4awoazwSad8j2",
+        "Result Album Name": "The Essentials"
     },
     {
         "Title": "No Satire In Italy",
@@ -79,6 +111,11 @@
         "ATC Artists": [
             "Freddie Hubbard",
             "The New Jazz Composers Octet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

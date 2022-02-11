@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-02-26",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:34:39"
+        "Scanned Date": "2022-02-06 21:34:39",
+        "Playlist URI": "7gSYQWkTXzmef8BUUKP9B9",
+        "Playlist Link": "https://open.spotify.com/playlist/7gSYQWkTXzmef8BUUKP9B9",
+        "Snapshot ID": "MSwxNjQ5MjU3MmU4ZTdhMjA5YjI4M2MwMmNjMDQ5N2Y0Yzk4MjNlYTNj",
+        "Playlist Name": "ATC 2001-02-26 Mon All Things Considered"
     },
     {
         "Title": "Kuwait 10th",
@@ -28,13 +32,26 @@
         "ATC Track": "Ghost Town",
         "ATC Artists": [
             "Marc Johnson"
-        ]
+        ],
+        "Result Track Name": "Ghost Town",
+        "Result Artist Names": [
+            "Marc Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6H4n0aaxeRSt378yehuwxB",
+        "Result Album Name": "The Sound Of Summer Running"
     },
     {
         "ATC Track": "Jubilee [Opening Theme]",
         "ATC Artists": [
             "Taj Mahal"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "CLDS AMD Freeman Database",
@@ -52,13 +69,29 @@
         "ATC Track": "Exploration",
         "ATC Artists": [
             "Steve Turre"
-        ]
+        ],
+        "Result Track Name": "Exploration",
+        "Result Artist Names": [
+            "Steve Turre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32yjqdwjTssj5ZueCR1M4I",
+        "Result Album Name": "Sanctified Shells"
     },
     {
         "ATC Track": "Gumbo",
         "ATC Artists": [
             "Steve Turre"
-        ]
+        ],
+        "Result Track Name": "Gumbo",
+        "Result Artist Names": [
+            "Steve Turre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oibIdEFa5xrPxfNkzsLon",
+        "Result Album Name": "Sanctified Shells"
     },
     {
         "Title": "Homeschooling 101",
@@ -70,13 +103,30 @@
         "ATC Track": "ELECTRIC COUNTERPOINT",
         "ATC Artists": [
             "PAT METHENY"
-        ]
+        ],
+        "Result Track Name": "Electric Counterpoint: III. Fast",
+        "Result Artist Names": [
+            "Steve Reich",
+            "Pat Metheny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27WA4tdC9OuzjaDSaU9LQC",
+        "Result Album Name": "Different Trains / Electric Counterpoint"
     },
     {
         "ATC Track": "Mambolaya",
         "ATC Artists": [
             "Orville Johnson"
-        ]
+        ],
+        "Result Track Name": "Mambolaya",
+        "Result Artist Names": [
+            "Orville Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07hc4wGqNhPBYolS9MHlAm",
+        "Result Album Name": "Slide & Joy"
     },
     {
         "Title": "Microsoft Appeal",
@@ -100,13 +150,26 @@
         "ATC Track": "OVER HOME",
         "ATC Artists": [
             "DAVIS CAUSEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Carloine's Boogie",
         "ATC Artists": [
             "Caroline Dahl"
-        ]
+        ],
+        "Result Track Name": "Caroline's Boogie",
+        "Result Artist Names": [
+            "Caroline Dahl"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uAc2LHf9dhj1kyGC8UfkP",
+        "Result Album Name": "No Hats"
     },
     {
         "Title": "Lawmaker in KY.",
@@ -118,13 +181,26 @@
         "ATC Track": "Spruced up (Old Wood)",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sandstorm",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": "Sandstorm",
+        "Result Artist Names": [
+            "Pig&Dan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3uImfCJ82UIiPAuU99ll9f",
+        "Result Album Name": "Faze #35: Pig & Dan"
     },
     {
         "Title": "Bush to Congress",
@@ -142,7 +218,12 @@
         "ATC Track": "OVERCAST",
         "ATC Artists": [
             "VALARIE MORRIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israel Labor",
@@ -160,14 +241,27 @@
         "ATC Track": "RøRos",
         "ATC Artists": [
             "JPP"
-        ]
+        ],
+        "Result Track Name": "Røros",
+        "Result Artist Names": [
+            "Jpp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YB8QjiRIenP7b3VoYGgHY",
+        "Result Album Name": "String Tease"
     },
     {
         "ATC Track": "Rita's Song",
         "ATC Artists": [
             "Guy Van Duser",
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bradman R.I.P.",
@@ -186,6 +280,14 @@
         "ATC Artists": [
             "Martin Carthy",
             "Dave Swarbrick"
-        ]
+        ],
+        "Result Track Name": "The Trip We Took over the Mountain",
+        "Result Artist Names": [
+            "Dave Swarbrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2vtgnGKquCzUhjprpb5on8",
+        "Result Album Name": "Folk on 2"
     }
 ]

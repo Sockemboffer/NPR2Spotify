@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-03-20",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:32:34"
+        "Scanned Date": "2022-02-06 21:32:34",
+        "Playlist URI": "6jH7cXMDPGM4vbOrnmTR2C",
+        "Playlist Link": "https://open.spotify.com/playlist/6jH7cXMDPGM4vbOrnmTR2C",
+        "Snapshot ID": "MSwzMGYzMzAzNmU4NDc0NGQ0YWU5MDdlMjA4ZDU1MWIyMzc1Mjc5Yzhh",
+        "Playlist Name": "ATC 2001-03-20 Tue All Things Considered"
     },
     {
         "Title": "Fed Rules",
@@ -22,7 +26,12 @@
         "ATC Track": "FARM REPORT",
         "ATC Artists": [
             "PAUL CARROL BINKLEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Berenson Retrial",
@@ -34,7 +43,15 @@
         "ATC Track": "NOTHING LIES STILL LONG",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Nothing Lies Still Long",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1X87N9FDFN1re4uL1yqtVK",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "Internet Busboy",
@@ -52,13 +69,29 @@
         "ATC Track": "Waiting for a Chance to See Her",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Waiting For A Chance To See Her (Instrumental)",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04lgyVKszc84Vu3RNdGAUi",
+        "Result Album Name": "The Closer I Get"
     },
     {
         "ATC Track": "Instrumental With Mellotron",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Instrumental with Mellotron",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sgUeWqaC8BzeRWTT0EQyy",
+        "Result Album Name": "The Closer I Get"
     },
     {
         "Title": "Libby Asbestos",
@@ -70,7 +103,15 @@
         "ATC Track": "MIRROR IN BLUE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mirror In Blue",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mqoSKloGP24YYzptURqR4",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "Abortion Rules",
@@ -82,13 +123,30 @@
         "ATC Track": "Esclavo Tristé",
         "ATC Artists": [
             "Marc Ribot"
-        ]
+        ],
+        "Result Track Name": "Esclavo Triste",
+        "Result Artist Names": [
+            "Marc Ribot",
+            "Los Cubanos"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7L0Ym4vMtlzv8fKRA3usTa",
+        "Result Album Name": "Y Los Cubanos Postizos"
     },
     {
         "ATC Track": "Mambolaya",
         "ATC Artists": [
             "Orville Johnson"
-        ]
+        ],
+        "Result Track Name": "Mambolaya",
+        "Result Artist Names": [
+            "Orville Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07hc4wGqNhPBYolS9MHlAm",
+        "Result Album Name": "Slide & Joy"
     },
     {
         "Title": "Gabriel's Story",
@@ -107,7 +165,12 @@
         "ATC Artists": [
             "Armor",
             "Sturtevant"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hawaii Update",
@@ -131,13 +194,29 @@
         "ATC Track": "Spring Thaw",
         "ATC Artists": [
             "The Sturm Brothers"
-        ]
+        ],
+        "Result Track Name": "Spring Thaw",
+        "Result Artist Names": [
+            "Sturm Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:4Rhg8T851SmFaKcrLGySYy",
+        "Result Album Name": "Back Home"
     },
     {
         "ATC Track": "Notting Hill Gate",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Notting Hill Gate",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59bRBzgcer2unoCHsk5DVe",
+        "Result Album Name": "Euphoria"
     },
     {
         "Title": "Campaign Finance",
@@ -155,13 +234,26 @@
         "ATC Track": "MORNING SONG",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": "Morning Song",
+        "Result Artist Names": [
+            "Greg Howard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5IyRhloiDQSQzL2D3ntFFN",
+        "Result Album Name": "Stick Figures"
     },
     {
         "ATC Track": "PENTASTICK",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Foot & Mouth",
@@ -185,7 +277,12 @@
         "ATC Track": "A KEY TO JOBIM",
         "ATC Artists": [
             "SIVUCA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Space Tourist",

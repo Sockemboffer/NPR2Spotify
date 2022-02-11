@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-28",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:27:22"
+        "Scanned Date": "2022-02-06 21:27:22",
+        "Playlist URI": "4e23cafrdwK3aX64SSTwaR",
+        "Playlist Link": "https://open.spotify.com/playlist/4e23cafrdwK3aX64SSTwaR",
+        "Snapshot ID": "MSw1ZDljOWRiZGM4YThmYzQxYjU0MjYxYWVmNGE5NDUxMzFjMGFmZjU0",
+        "Playlist Name": "ATC 2001-06-28 Thu All Things Considered"
     },
     {
         "Title": "Microsoft",
@@ -28,13 +32,26 @@
         "ATC Track": "Thirteen Eagles",
         "ATC Artists": [
             "Stephan Micus"
-        ]
+        ],
+        "Result Track Name": "Thirteen Eagles",
+        "Result Artist Names": [
+            "Stephan Micus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BrCiax6D2AIHIWZULnYoV",
+        "Result Album Name": "Desert Poems"
     },
     {
         "ATC Track": "Dragneta, My Love",
         "ATC Artists": [
             "Richard Bone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Patient's Bill",
@@ -53,13 +70,26 @@
         "ATC Artists": [
             "Peter Apfelbaum",
             "The Hieroglyphics Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Garden",
         "ATC Artists": [
             "Palm Fabric Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Garden",
+        "Result Artist Names": [
+            "Palm Fabric Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UW7ZLllOXzFUZKv0hvApo",
+        "Result Album Name": "Vague Gropings in the Slipstream"
     },
     {
         "Title": "Massachusetts Nursing Homes",
@@ -96,13 +126,23 @@
         "ATC Artists": [
             "Joey Altruda",
             "upright bass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "THE DAYS OF WINE AND ROSES",
         "ATC Artists": [
             "CYRUS CHESTNUT TRIO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Slobodan Milosevic",
@@ -126,7 +166,15 @@
         "ATC Track": "Under Fire and Water",
         "ATC Artists": [
             "Michael Masley and Jamie Janover"
-        ]
+        ],
+        "Result Track Name": "Under Fire and Water",
+        "Result Artist Names": [
+            "Jamie Janover & Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29vmIrtRj1b6nSZWey4N7c",
+        "Result Album Name": "All Strings Considered"
     },
     {
         "Title": "Supreme Court Rulings",
@@ -138,13 +186,23 @@
         "ATC Track": "Pharmacies of Tamaulipas",
         "ATC Artists": [
             "Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Days of Wine and Roses",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rumsfeld on the Hill",
@@ -168,7 +226,15 @@
         "ATC Track": "THE CAT",
         "ATC Artists": [
             "JOHNNY GRIFFIN"
-        ]
+        ],
+        "Result Track Name": "The Cat",
+        "Result Artist Names": [
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KWiaYlVCqnixrKd5q88pS",
+        "Result Album Name": "The Cat"
     },
     {
         "Title": "France - TV Retirement",
@@ -186,12 +252,28 @@
         "ATC Track": "MY FAVORITE THINGS",
         "ATC Artists": [
             "THE JINGLE CATS"
-        ]
+        ],
+        "Result Track Name": "My Favorite Things",
+        "Result Artist Names": [
+            "Jingle Cats"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3MH1QuqJuNahIsL41SUQUQ",
+        "Result Album Name": "Here Comes Santa Claws"
     },
     {
         "ATC Track": "The Butterfly",
         "ATC Artists": [
             "The Montana Mandolin Society"
-        ]
+        ],
+        "Result Track Name": "The Butterfly",
+        "Result Artist Names": [
+            "Montana Mandolin Society"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:7HnNiCvq8187JeXq48kTwK",
+        "Result Album Name": "As Far As I Can See"
     }
 ]

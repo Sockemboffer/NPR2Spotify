@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-05-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:28:39"
+        "Scanned Date": "2022-02-06 21:28:39",
+        "Playlist URI": "48EiufhKFW34Aqmrlutzbh",
+        "Playlist Link": "https://open.spotify.com/playlist/48EiufhKFW34Aqmrlutzbh",
+        "Snapshot ID": "MSw4YmYxNjVhZWE2Nzc4MmRlZTI0OTM0OWExNmQwOTZhMjkyZTcwYzMz",
+        "Playlist Name": "ATC 2001-05-19 Sat All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -28,7 +32,12 @@
         "ATC Track": "Probe",
         "ATC Artists": [
             "Anagram"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Esperanto",
@@ -47,7 +56,16 @@
         "ATC Artists": [
             "Charlie Haden",
             "Gonzalo Rubalcaba"
-        ]
+        ],
+        "Result Track Name": "Transparence",
+        "Result Artist Names": [
+            "Charlie Haden",
+            "Gonzalo Rubalcaba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pi4yaW1e7Mw2eT7pVx70C",
+        "Result Album Name": "Tokyo Adagio"
     },
     {
         "Title": "Max Moran and Voices of Youth",

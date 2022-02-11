@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-05",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:26:03"
+        "Scanned Date": "2022-02-06 21:26:03",
+        "Playlist URI": "2HQcvmegW0HfTpUHgm22Ck",
+        "Playlist Link": "https://open.spotify.com/playlist/2HQcvmegW0HfTpUHgm22Ck",
+        "Snapshot ID": "MSxhZWNhZWY5OTA1OTIyYWRlNzAzMWFhY2EwYTM5YzdkYjNhZWQzZWU5",
+        "Playlist Name": "ATC 2001-06-05 Tue All Things Considered"
     },
     {
         "Title": "Report Faults Florida Voting",
@@ -22,7 +26,12 @@
         "ATC Track": "Circus in Outer Space",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush - Steel",
@@ -34,13 +43,26 @@
         "ATC Track": "The Funky Avocado",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "The Funky Avocado",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5RsDNKcUdo2Z1I6gTKot7Q",
+        "Result Album Name": "Breakfast In The Field"
     },
     {
         "ATC Track": "IF YOU COULD SEE ME NOW",
         "ATC Artists": [
             "ERIC GALE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Telescope Part Two",
@@ -52,13 +74,29 @@
         "ATC Track": "Medley: None Hula/He Aloha No 'O Honolulu",
         "ATC Artists": [
             "Leonard Kwan"
-        ]
+        ],
+        "Result Track Name": "None Hula & He Aloha Nō 'o Honolulu - Medley",
+        "Result Artist Names": [
+            "Leonard Kwan"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:724xIr22kCPitRSCUewfkI",
+        "Result Album Name": "Ke'ala's Mele"
     },
     {
         "ATC Track": "CUANA",
         "ATC Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": "Cuana The Bear",
+        "Result Artist Names": [
+            "Steven King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qWYjTmlw759b6ssDlzmsI",
+        "Result Album Name": "Original Fling"
     },
     {
         "Title": "Nepal",
@@ -82,7 +120,12 @@
         "ATC Track": "Bingsjo",
         "ATC Artists": [
             "Maria Kalaniemi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Correction",
@@ -94,7 +137,15 @@
         "ATC Track": "Blue Sun",
         "ATC Artists": [
             "Mark Isham"
-        ]
+        ],
+        "Result Track Name": "Blue Sun",
+        "Result Artist Names": [
+            "Mark Isham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PPvPuiIamyNpc8HuJ23W4",
+        "Result Album Name": "Blue Sun"
     },
     {
         "Title": "Class of 2001 - Part Two",
@@ -112,14 +163,32 @@
         "ATC Track": "DAKADOWEAPABOOM",
         "ATC Artists": [
             "DAVID ROTHENBERG"
-        ]
+        ],
+        "Result Track Name": "Dakadoweapaboom",
+        "Result Artist Names": [
+            "David Rothenberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Qchetla4vxgl8UqWlw6Fe",
+        "Result Album Name": "Unamuno"
     },
     {
         "ATC Track": "Child's Play",
         "ATC Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Child's Play - Instrumental",
+        "Result Artist Names": [
+            "Mike Marshall",
+            "Edgar Meyer",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BpVGFPUlkClrYszIydYk7",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "Title": "Senate Change",
@@ -144,7 +213,15 @@
         "ATC Artists": [
             "Béla Fleck",
             "the Flecktones"
-        ]
+        ],
+        "Result Track Name": "Throwdown at the Hoedown",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kEmbKXlDeEGf1t2Dec1JL",
+        "Result Album Name": "Left Of Cool"
     },
     {
         "Title": "Bloomberg for NYC Mayor",
@@ -168,24 +245,57 @@
         "ATC Track": "Youth and Age",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Songs on poems by Walt Withman: Youth. Day. Old Age and Night",
+        "Result Artist Names": [
+            "Wolfgang Wijdeveld",
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eyjiW1sV6rZJG1WOGVNGv",
+        "Result Album Name": "Wijdeveld: Lieder & Chamber Music"
     },
     {
         "ATC Track": "CHERNOBYL/ THE ZONE/ 7",
         "ATC Artists": [
             "DAVID ROTHENBERG"
-        ]
+        ],
+        "Result Track Name": "Chernobyl / The zone / 7",
+        "Result Artist Names": [
+            "David Rothenberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4e5644ngBfibDGAjmXMvyh",
+        "Result Album Name": "Unamuno"
     },
     {
         "ATC Track": "Aerial Boundaries",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Aerial Boundaries",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dZa4cqfnAOm154H601RbY",
+        "Result Album Name": "Aerial Boundaries"
     },
     {
         "ATC Track": "Ebb & Flo",
         "ATC Artists": [
             "Dave Holland Quartet"
-        ]
+        ],
+        "Result Track Name": "Ebb & Flo",
+        "Result Artist Names": [
+            "Dave Holland Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dNbF4T0FWAEwCkTe6GopG",
+        "Result Album Name": "Dream Of The Elders"
     }
 ]

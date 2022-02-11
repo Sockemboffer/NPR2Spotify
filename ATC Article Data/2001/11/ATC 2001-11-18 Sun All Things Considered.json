@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:17:15"
+        "Scanned Date": "2022-02-06 21:17:15",
+        "Playlist URI": "1Wakwk7swKbp9NGzE3dLlU",
+        "Playlist Link": "https://open.spotify.com/playlist/1Wakwk7swKbp9NGzE3dLlU",
+        "Snapshot ID": "MSwzZmIwNTZmYTE5YzBjODM4YzQ5NmFiOTA1YjAyNDRiODhiNzFkNDc2",
+        "Playlist Name": "ATC 2001-11-18 Sun All Things Considered"
     },
     {
         "Title": "War",
@@ -28,7 +32,12 @@
         "ATC Track": "The Little Children",
         "ATC Artists": [
             "David Axelrod"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sotheby's Trial",
@@ -46,7 +55,12 @@
         "ATC Track": "How High the Moon",
         "ATC Artists": [
             "Tommy Flanagan Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kosovo Elections",
@@ -58,7 +72,15 @@
         "ATC Track": "Are You Thirsty (Land of Plenty)",
         "ATC Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Are You Thirsty (Land of Plenty)",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pCkcuoiUGvtQIAlaVVGuE",
+        "Result Album Name": "Nightbird"
     },
     {
         "Title": "Leonid Recap",
@@ -70,7 +92,15 @@
         "ATC Track": "Jupiter: the Bringer of Jollity",
         "ATC Artists": [
             "Atlanta Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",
+        "Result Artist Names": [
+            "Melbourne Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:74lSW5y8ZNXy6GMhnNKqyo",
+        "Result Album Name": "Gustav Holst: The Planets"
     },
     {
         "Title": "Science Wrap",
@@ -82,7 +112,15 @@
         "ATC Track": "El Puente",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": "El Puente",
+        "Result Artist Names": [
+            "Robin Nolan Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rjfMIua2oTgOJaU1kMKkF",
+        "Result Album Name": "Mediterranean Blues"
     },
     {
         "Title": "Pink Kitsch",
@@ -94,7 +132,15 @@
         "ATC Track": "The Girl on My Left",
         "ATC Artists": [
             "The Innocence Mission"
-        ]
+        ],
+        "Result Track Name": "The Girl on My Left",
+        "Result Artist Names": [
+            "The Innocence Mission"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UI3E250AE67gyWUX1CN9s",
+        "Result Album Name": "Small Planes"
     },
     {
         "Title": "Harry Potter en Espanol",
@@ -112,6 +158,14 @@
         "ATC Track": "Dark State of Mind",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Dark State Of Mind",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6U9NQZ3NqxscFM6TMRXSo6",
+        "Result Album Name": "Breaking The Ethers"
     }
 ]

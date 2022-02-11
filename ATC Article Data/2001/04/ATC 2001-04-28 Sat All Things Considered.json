@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-04-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:31:04"
+        "Scanned Date": "2022-02-06 21:31:04",
+        "Playlist URI": "78qBhdHvBOlXkKekOEoluo",
+        "Playlist Link": "https://open.spotify.com/playlist/78qBhdHvBOlXkKekOEoluo",
+        "Snapshot ID": "MSxlZTgyOGVhYTJlN2QwM2UzYzZiNDFiZTU5MDliMGMxNDY5ZmZhODk1",
+        "Playlist Name": "ATC 2001-04-28 Sat All Things Considered"
     },
     {
         "Title": "Birmingham Trial",
@@ -22,7 +26,15 @@
         "ATC Track": "Ritual Dance",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Ritual Dance",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kzxedaCJKTBCLM8IQLnAr",
+        "Result Album Name": "Taproot"
     },
     {
         "Title": "Foot and Mouth Update",
@@ -40,19 +52,40 @@
         "ATC Track": "Red Right Returning",
         "ATC Artists": [
             "Michael Manring"
-        ]
+        ],
+        "Result Track Name": "Red Right Returning",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lszM7Q1zgZCAvGb8C7puN",
+        "Result Album Name": "Drastic Measures"
     },
     {
         "ATC Track": "Zuma Beach",
         "ATC Artists": [
             "Bryan Savage"
-        ]
+        ],
+        "Result Track Name": "Zuma Beach",
+        "Result Artist Names": [
+            "Bryan Savage"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cRd8Ygh88hecXvtrBGjWn",
+        "Result Album Name": "Rush Hour"
     },
     {
         "ATC Track": "Bangkorng Ka-eh (crow's Roost)",
         "ATC Artists": [
             "The Mengs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Cambodia, One Doctor's War On Smoking",
@@ -64,7 +97,12 @@
         "ATC Track": "Lao Phsang Tien",
         "ATC Artists": [
             "The Mengs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'A Breeze from the Gardens of Persia'",
@@ -76,6 +114,11 @@
         "ATC Track": "Chahar, Ezrab",
         "ATC Artists": [
             "Hossein Alizâdeh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

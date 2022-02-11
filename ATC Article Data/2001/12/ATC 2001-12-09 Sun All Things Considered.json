@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-12-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:14:45"
+        "Scanned Date": "2022-02-06 21:14:45",
+        "Playlist URI": "4oUBd21wJRZ5Vb5jJx5YA2",
+        "Playlist Link": "https://open.spotify.com/playlist/4oUBd21wJRZ5Vb5jJx5YA2",
+        "Snapshot ID": "MSw1OTgwZTAzOTYxYmEwZjhlMWMwMjVkNGE0NWIwNjM4YzY4ZDA3YjEz",
+        "Playlist Name": "ATC 2001-12-09 Sun All Things Considered"
     },
     {
         "Title": "Tora Bora",
@@ -28,7 +32,15 @@
         "ATC Track": "Waterwheel",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Waterwheel",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AU0ExB2TIFA3HDRD9RMsW",
+        "Result Album Name": "Out Of The Woods"
     },
     {
         "Title": "Poetry Matters",
@@ -46,13 +58,29 @@
         "ATC Track": "The Milky Way",
         "ATC Artists": [
             "Phil Kline"
-        ]
+        ],
+        "Result Track Name": "The Milky Way",
+        "Result Artist Names": [
+            "Phil Kline"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64CXIEa3FtlSTMJB1kIHUg",
+        "Result Album Name": "Unsilent Night"
     },
     {
         "ATC Track": "Jingle Bells",
         "ATC Artists": [
             "Maggie Sansone"
-        ]
+        ],
+        "Result Track Name": "Jingle Bells",
+        "Result Artist Names": [
+            "Maggie Sansone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:042gs9E29fmqpwmaPXoSEy",
+        "Result Album Name": "Sounds of the Season II"
     },
     {
         "Title": "Energy",
@@ -64,7 +92,15 @@
         "ATC Track": "Luna Tango",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": "Luna Tango",
+        "Result Artist Names": [
+            "Robin Nolan Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NeQczucnLJc9cZArUtRPF",
+        "Result Album Name": "Mediterranean Blues"
     },
     {
         "Title": "Haight-Ashbury Weighs In",
@@ -82,7 +118,15 @@
         "ATC Track": "Body and Soul",
         "ATC Artists": [
             "Rolf Sturm"
-        ]
+        ],
+        "Result Track Name": "Body and Soul",
+        "Result Artist Names": [
+            "Rolf Sturm"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6tYr17WTZVhd71Nj4blRaL",
+        "Result Album Name": "Solo Acoustic"
     },
     {
         "Title": "Lillian Vernon",
@@ -94,6 +138,15 @@
         "ATC Track": "Santa Claus Is Comin' to Town",
         "ATC Artists": [
             "Esquivel"
-        ]
+        ],
+        "Result Track Name": "Santa Claus Is Comin' To Town",
+        "Result Artist Names": [
+            "Esquivel And His Orchestra",
+            "Chorus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1jGYo4gftGi80Qgebt79x4",
+        "Result Album Name": "The Merriest of Christmas Pops"
     }
 ]

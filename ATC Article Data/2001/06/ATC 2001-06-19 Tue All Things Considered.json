@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-19",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:26:51"
+        "Scanned Date": "2022-02-06 21:26:51",
+        "Playlist URI": "5lk8aopTraiOvP8sNAiCq2",
+        "Playlist Link": "https://open.spotify.com/playlist/5lk8aopTraiOvP8sNAiCq2",
+        "Snapshot ID": "MSxiMDU1ZWZhMDY5YTIzMWYzNjM2MmQxMmIyYTgyOGQyOWZmMWQ0MmVi",
+        "Playlist Name": "ATC 2001-06-19 Tue All Things Considered"
     },
     {
         "Title": "Firestone on Capitol Hill",
@@ -28,7 +32,15 @@
         "ATC Track": "THE KICKER",
         "ATC Artists": [
             "MICHAEL BROOK"
-        ]
+        ],
+        "Result Track Name": "The Kicker",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:515j9YGGnLcMvFYf7OUmsY",
+        "Result Album Name": "Albino Alligator"
     },
     {
         "Title": "California Energy",
@@ -42,13 +54,29 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Bubblehouse",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YtX5xh7y5FoQywRmsGCeK",
+        "Result Album Name": "Shack-man"
     },
     {
         "ATC Track": "Electric Soup",
         "ATC Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "Electric Soup",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mQqkfHFNXQdkOlkyID1OJ",
+        "Result Album Name": "Dad Man Cat"
     },
     {
         "Title": "Russian Journey Part Two",
@@ -66,7 +94,12 @@
         "ATC Track": "HEAL I-SELF",
         "ATC Artists": [
             "THE REALLY ECLECTIC STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hip TV Music",
@@ -78,7 +111,12 @@
         "ATC Track": "Sky Lobby",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tobacco Lawsuit",
@@ -102,7 +140,15 @@
         "ATC Track": "Strawberry Soul",
         "ATC Artists": [
             "Willie Mitchell"
-        ]
+        ],
+        "Result Track Name": "Strawberry Soul",
+        "Result Artist Names": [
+            "Willie Mitchell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UYbbqyaIZJPLoGlJOhpEG",
+        "Result Album Name": "The Best of Willie Mitchell"
     },
     {
         "Title": "Kids Solicited Online",
@@ -120,7 +166,15 @@
         "ATC Track": "Passing the Bar",
         "ATC Artists": [
             "Jerry Douglas"
-        ]
+        ],
+        "Result Track Name": "Passing the Bar",
+        "Result Artist Names": [
+            "Jerry Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57lVJvzM0awitjnMcdufdG",
+        "Result Album Name": "Transatlantic Sessions - Series 2, Vol. One"
     },
     {
         "Title": "Wal-Mart Suit",
@@ -138,7 +192,12 @@
         "ATC Track": "Little Fluffy Clouds",
         "ATC Artists": [
             "Instrumental"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gerber Jars",
@@ -156,12 +215,28 @@
         "ATC Track": "ONCE IN A WHILE",
         "ATC Artists": [
             "EARL HINES"
-        ]
+        ],
+        "Result Track Name": "Once In A While",
+        "Result Artist Names": [
+            "Hines"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5TwxIfjJXFcgjbwFCz4beh",
+        "Result Album Name": "In Kindergarten"
     },
     {
         "ATC Track": "Anytime [Stereo]",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Anytime",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pmkrsJDtQEjuuECXXC7fa",
+        "Result Album Name": "Have 'Twangy' Guitar Will Travel"
     }
 ]

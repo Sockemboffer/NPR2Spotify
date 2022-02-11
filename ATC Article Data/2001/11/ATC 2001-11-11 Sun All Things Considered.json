@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-11-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:16:45"
+        "Scanned Date": "2022-02-06 21:16:45",
+        "Playlist URI": "01t7CziRFLN1KV6kdCGZwb",
+        "Playlist Link": "https://open.spotify.com/playlist/01t7CziRFLN1KV6kdCGZwb",
+        "Snapshot ID": "MSwzNDczOTQ2ZmE2YWIwMDJlZTAxZDQ5MzE1YmJjODE4OGM1ZmZiZjEz",
+        "Playlist Name": "ATC 2001-11-11 Sun All Things Considered"
     },
     {
         "Title": "War Latest",
@@ -34,7 +38,12 @@
         "ATC Track": "Must Be a Foxtrot",
         "ATC Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Joys of Yiddish",
@@ -46,19 +55,43 @@
         "ATC Track": "Two Cents Plain",
         "ATC Artists": [
             "Kapelye"
-        ]
+        ],
+        "Result Track Name": "Two Cents Plain",
+        "Result Artist Names": [
+            "Kapelye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1AGjmRMXUAXeOMzA2PihYN",
+        "Result Album Name": "Old-Time Jewish-American Radio"
     },
     {
         "ATC Track": "Sounds Like a Twist",
         "ATC Artists": [
             "Terem Quartet"
-        ]
+        ],
+        "Result Track Name": "Sounds Like a Twist",
+        "Result Artist Names": [
+            "Terem-Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cEfqTnHJlJFUAT3FyGb3w",
+        "Result Album Name": "No, Russia Cannot Be Perceived by Wit"
     },
     {
         "ATC Track": "Untitled",
         "ATC Artists": [
             "Simon Jeffes"
-        ]
+        ],
+        "Result Track Name": "Untitled",
+        "Result Artist Names": [
+            "Simon Jeffes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12Te4vyDBRC1FB5A8oBvE6",
+        "Result Album Name": "Piano Music"
     },
     {
         "Title": "Phony Vets",
@@ -76,7 +109,15 @@
         "ATC Track": "Look My Way",
         "ATC Artists": [
             "Stella Soleil"
-        ]
+        ],
+        "Result Track Name": "Look My Way",
+        "Result Artist Names": [
+            "Stella Soleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uMign6I1iWh16Gf8rGiwY",
+        "Result Album Name": "Dirty Little Secret"
     },
     {
         "Title": "Knitters",
@@ -94,7 +135,15 @@
         "ATC Track": "Are You Thirsty (Land of Plenty)",
         "ATC Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Are You Thirsty (Land of Plenty)",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pCkcuoiUGvtQIAlaVVGuE",
+        "Result Album Name": "Nightbird"
     },
     {
         "Title": "Mark Twain",
@@ -106,6 +155,14 @@
         "ATC Track": "Queen Anne's Lace",
         "ATC Artists": [
             "Tony Furtado"
-        ]
+        ],
+        "Result Track Name": "Queen Anne's Lace",
+        "Result Artist Names": [
+            "Tony Furtado"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CkyBNOb7y41Yfkuluip1p",
+        "Result Album Name": "Within Reach"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-06-12",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:26:30"
+        "Scanned Date": "2022-02-06 21:26:30",
+        "Playlist URI": "0HYJrYZReqx4yc3tbRTDJH",
+        "Playlist Link": "https://open.spotify.com/playlist/0HYJrYZReqx4yc3tbRTDJH",
+        "Snapshot ID": "MSw2MTFmNmJkZTg4ZTAyZTUwNGJmZDZjODkxZmNiYTZjZmE1NjIzOTE3",
+        "Playlist Name": "ATC 2001-06-12 Tue All Things Considered"
     },
     {
         "Title": "Embassy Bombing Trial",
@@ -16,7 +20,12 @@
         "ATC Track": "MATRE'S DANCE",
         "ATC Artists": [
             "EVELYN GLENNIE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "EPA - Ethanol",
@@ -35,13 +44,29 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Friday Night (Hundred Dollar Bill)",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gyanZzqhJi3UJGFnmTuq4",
+        "Result Album Name": "Philadelphonic"
     },
     {
         "ATC Track": "LOVE IS STRONGER THAN PRIDE",
         "ATC Artists": [
             "HERBIE HANCOCK"
-        ]
+        ],
+        "Result Track Name": "Love Is Stronger Than Pride",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1JyXBxI3U5h1lCDXEsPAxu",
+        "Result Album Name": "The New Standard"
     },
     {
         "Title": "U.S. - Mideast",
@@ -59,13 +84,26 @@
         "ATC Track": "DIE LETZTEN TAGE: THE VENETIAN BEGINNING",
         "ATC Artists": [
             "BALANESCU QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Wounded Knee",
         "ATC Artists": [
             "Manfred Mann"
-        ]
+        ],
+        "Result Track Name": "Wounded Knee",
+        "Result Artist Names": [
+            "Manfred Mann's Earth Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ljptw3YKIZKqBcj8KtSho",
+        "Result Album Name": "Plains Music"
     },
     {
         "Title": "Alan Cheuse's Summer Reading List",
@@ -77,13 +115,29 @@
         "ATC Track": "Noodles",
         "ATC Artists": [
             "The Halibuts"
-        ]
+        ],
+        "Result Track Name": "Noodles",
+        "Result Artist Names": [
+            "The ROOY"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0ZZsO6qJ712ftKqIhmNtIH",
+        "Result Album Name": "Noodles"
     },
     {
         "ATC Track": "Siempre Amante",
         "ATC Artists": [
             "Beto and the Fairlanes"
-        ]
+        ],
+        "Result Track Name": "Siempre Amante",
+        "Result Artist Names": [
+            "Beto and the Fairlanes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Kg1VzqXv5SbJAz0Uq4q8K",
+        "Result Album Name": "Salsafied"
     },
     {
         "Title": "Child Porn Computer Virus",
@@ -95,7 +149,12 @@
         "ATC Track": "Stinky",
         "ATC Artists": [
             "The Halibuts"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Graduations Galore",
@@ -107,14 +166,24 @@
         "ATC Track": "FANTASIA QUE CONTRAHAZE LA HARPA...",
         "ATC Artists": [
             "ELIOT FISK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "St. Louis Tickle",
         "ATC Artists": [
             "Linn Barnes",
             "Allison Hampton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush In Spain",
@@ -138,13 +207,30 @@
         "ATC Track": "Lament",
         "ATC Artists": [
             "David Darling"
-        ]
+        ],
+        "Result Track Name": "Lament",
+        "Result Artist Names": [
+            "David Darling"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eL9TBf9gNPbPJfTBxQaje",
+        "Result Album Name": "Cello"
     },
     {
         "ATC Track": "Eastern Twin",
         "ATC Artists": [
             "Martin Tillman"
-        ]
+        ],
+        "Result Track Name": "Eastern Twin",
+        "Result Artist Names": [
+            "Tom Vedvik",
+            "Martin Tillman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NMt1nhobx2mhrgZ4iyKyl",
+        "Result Album Name": "Amadeus On The Nile"
     },
     {
         "Title": "Church and Schools",
@@ -162,13 +248,26 @@
         "ATC Track": "Hologram Crackers",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": "Hologram Crackers",
+        "Result Artist Names": [
+            "Gideon Freudmann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cAK9gHbdehTAtcLNe1CMb",
+        "Result Album Name": "Hologram Crackers"
     },
     {
         "ATC Track": "VOSTOK",
         "ATC Artists": [
             "DAVE LESLIE WITH MIKE CURTIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Philippines - Hostages",
@@ -180,7 +279,12 @@
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Birth Control Verdict",
@@ -198,13 +302,29 @@
         "ATC Track": "System Seven",
         "ATC Artists": [
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "System Seven - Acoustic Version",
+        "Result Artist Names": [
+            "Béla Fleck and the Flecktones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tyxpfzlMceBNjf1iyEwXx",
+        "Result Album Name": "Tales From The Acoustic Planet"
     },
     {
         "ATC Track": "The Pelican",
         "ATC Artists": [
             "John Renbourn"
-        ]
+        ],
+        "Result Track Name": "The Pelican",
+        "Result Artist Names": [
+            "John Renbourn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0u1L5VblPZ4B9ZDQUA1szG",
+        "Result Album Name": "The Black Balloon"
     },
     {
         "Title": "Newspaper On Cd",
@@ -216,7 +336,12 @@
         "ATC Track": "Slight Rhapsody",
         "ATC Artists": [
             "Bj Cole"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Fogger",
@@ -228,12 +353,25 @@
         "ATC Track": "Shepherd's Dream",
         "ATC Artists": [
             "Kaila Flexer"
-        ]
+        ],
+        "Result Track Name": "Shepherd's Dream",
+        "Result Artist Names": [
+            "Kaila Flexer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZwKYAUlkEOfjGCBrrmShT",
+        "Result Album Name": "Next Village"
     },
     {
         "ATC Track": "DREAMS OF CHILDREN",
         "ATC Artists": [
             "LUKE SLATER"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

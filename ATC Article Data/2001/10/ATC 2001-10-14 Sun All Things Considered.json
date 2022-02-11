@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2001-10-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:18:55"
+        "Scanned Date": "2022-02-06 21:18:55",
+        "Playlist URI": "0A70KI17JtniAfkvRrgIl0",
+        "Playlist Link": "https://open.spotify.com/playlist/0A70KI17JtniAfkvRrgIl0",
+        "Snapshot ID": "MSwzOTA4NTM1MGM3ZWNhYTUyMjY5YzI4ZmRlYmUxN2Q0ZjJmOTY0ZGE3",
+        "Playlist Name": "ATC 2001-10-14 Sun All Things Considered"
     },
     {
         "Title": "Washington, D.C. Mood",
@@ -16,7 +20,15 @@
         "ATC Track": "Long Island",
         "ATC Artists": [
             "Jeff London"
-        ]
+        ],
+        "Result Track Name": "Long Island",
+        "Result Artist Names": [
+            "Jeff London"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rhq4i6lircUF7tZS55pCF",
+        "Result Album Name": "Col. Summers Park"
     },
     {
         "Title": "Pentagon",
@@ -28,7 +40,12 @@
         "ATC Track": "Lee's Highway Composer",
         "ATC Artists": [
             "Brooks Williams"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hospitalized In Pakistan",
@@ -46,7 +63,15 @@
         "ATC Track": "The Accident",
         "ATC Artists": [
             "David Byrne"
-        ]
+        ],
+        "Result Track Name": "The Accident",
+        "Result Artist Names": [
+            "David Byrne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71EJIwtW93kXmmyUYjyC2r",
+        "Result Album Name": "Look into the Eyeball"
     },
     {
         "Title": "Anthrax History",
@@ -59,7 +84,17 @@
         "ATC Artists": [
             "Jan Garbarek",
             "Anouar Brahem et. al."
-        ]
+        ],
+        "Result Track Name": "Sull Lull",
+        "Result Artist Names": [
+            "Jan Garbarek",
+            "Anouar Brahem",
+            "Ustad Shaukat Hussain"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DzBR3hE8hzutFqlB1jjmk",
+        "Result Album Name": "Madar"
     },
     {
         "Title": "American Muslims",
@@ -72,7 +107,16 @@
         "ATC Artists": [
             "Manuel Barrueco",
             "Steve Morse"
-        ]
+        ],
+        "Result Track Name": "Cavatina",
+        "Result Artist Names": [
+            "Manuel Barrueco",
+            "Steve Morse"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29b8oIzxZvWpn3CC3pS3fz",
+        "Result Album Name": "Nylon & Steel"
     },
     {
         "Title": "President Blair?",
@@ -90,7 +134,12 @@
         "ATC Track": "Olé",
         "ATC Artists": [
             "Dizzy Gillespie Alumni All-Stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Skycaps",
@@ -102,7 +151,15 @@
         "ATC Track": "Nowthen",
         "ATC Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "Nowthen",
+        "Result Artist Names": [
+            "Matt Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rFoFmSOawwveXFiya0xrj",
+        "Result Album Name": "The View From Here"
     },
     {
         "Title": "Federal Workers Commentary",
@@ -120,6 +177,14 @@
         "ATC Track": "Arpeggiator",
         "ATC Artists": [
             "The Durutti Column"
-        ]
+        ],
+        "Result Track Name": "Arpeggiator",
+        "Result Artist Names": [
+            "The Durutti Column"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3feooEPBiXWUa1p5sjcghr",
+        "Result Album Name": "The Guitar and Other Machines"
     }
 ]
