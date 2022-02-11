@@ -87,6 +87,7 @@ class NPRSpotifySearch:
                 for result in response:
                     if len(result["tracks"]["items"]) != 0.0:
                         for item in result["tracks"]["items"]:
+                            # if item == None: # got a none one time, pretty rare, triples the time to make a playlist
                             resultTrackName = item["name"]
                             resultTrackNameSplit = list() # split track name words into a new list for comparison later
                             for word in resultTrackName.split(): # go through each word in track name
