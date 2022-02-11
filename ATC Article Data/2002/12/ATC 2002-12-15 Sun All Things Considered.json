@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-12-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:37:26"
+        "Scanned Date": "2022-02-06 21:37:26",
+        "Playlist URI": "7gDHQTQkkbVDtJCk9he6ZP",
+        "Playlist Link": "https://open.spotify.com/playlist/7gDHQTQkkbVDtJCk9he6ZP",
+        "Snapshot ID": "MSw3NjA3YmMwOTdmZDJjZWZkMzRhN2Q2OWMwOTc0YjQyYTc5NWM3NGFk",
+        "Playlist Name": "ATC 2002-12-15 Sun All Things Considered"
     },
     {
         "Title": "Gore Pulls Out of 2004 Race",
@@ -34,7 +38,12 @@
         "ATC Track": "Xp105",
         "ATC Artists": [
             "Mark Mothersbaugh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jim Harrison",
@@ -47,13 +56,29 @@
         "ATC Artists": [
             "Big Sandy",
             "His Fly-Rite Boys"
-        ]
+        ],
+        "Result Track Name": "Laguna Sunset",
+        "Result Artist Names": [
+            "The Fly-Rite Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:2DQ9jRWsGepeE6u4CsE4su",
+        "Result Album Name": "Big Sandy Presents The Fly-Rite Brothers"
     },
     {
         "ATC Track": "Venus in Tweeds",
         "ATC Artists": [
             "Shooglenifty"
-        ]
+        ],
+        "Result Track Name": "Venus In Tweeds",
+        "Result Artist Names": [
+            "Shooglenifty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06vAfVigahpSYMHu3v0fdA",
+        "Result Album Name": "Venus In Tweed"
     },
     {
         "Title": "Opposition Leaders Discuss Possible Post-Saddam Iraq",
@@ -65,7 +90,15 @@
         "ATC Track": "Are You Thirsty (Land of Plenty)",
         "ATC Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Are You Thirsty (Land of Plenty)",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pCkcuoiUGvtQIAlaVVGuE",
+        "Result Album Name": "Nightbird"
     },
     {
         "Title": "N. Korea on Nuclear Plants",

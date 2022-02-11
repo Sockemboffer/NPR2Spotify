@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-19",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:43:22"
+        "Scanned Date": "2022-02-06 21:43:22",
+        "Playlist URI": "3dXe7ulrWDLlVB5fMmqgWO",
+        "Playlist Link": "https://open.spotify.com/playlist/3dXe7ulrWDLlVB5fMmqgWO",
+        "Snapshot ID": "MSw3NjQ1OWI0OTIxZTU1MTIwYWYzMDUyNTg5ZWI1Y2Y2MDY2NGI5NTlk",
+        "Playlist Name": "ATC 2002-09-19 Thu All Things Considered"
     },
     {
         "Title": "Bush, Congress and Iraq",
@@ -28,13 +32,30 @@
         "ATC Track": "In the Deep Shade",
         "ATC Artists": [
             "The Frames"
-        ]
+        ],
+        "Result Track Name": "In The Deep Shade",
+        "Result Artist Names": [
+            "The Frames"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AmmBwFS0DLRm70KzJtmvO",
+        "Result Album Name": "For The Birds"
     },
     {
         "ATC Track": "12/12",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "12/12",
+        "Result Artist Names": [
+            "Café Tacvba",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:0zVhM24ciUhFdPHB1uh6h2",
+        "Result Album Name": "Nuevo"
     },
     {
         "Title": "Mayan Ruins",
@@ -52,7 +73,15 @@
         "ATC Track": "Avalon",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Avalon",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rmykIK4vBrCGLq6PR8U5u",
+        "Result Album Name": "Chasin' The Gypsy"
     },
     {
         "Title": "Accounting Scandals",
@@ -72,7 +101,15 @@
             "Phillips",
             "Grier",
             "Flinner"
-        ]
+        ],
+        "Result Track Name": "I Am a Pilgrim",
+        "Result Artist Names": [
+            "Phillips, Grier & Flinner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BHdFYTKd2bw3YfFkdjThh",
+        "Result Album Name": "Looking Back"
     },
     {
         "Title": "Bob Hayes",
@@ -84,7 +121,15 @@
         "ATC Track": "Big Shoe",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Big Shoe",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UBW5HjoTx3CuNGgY3lPsS",
+        "Result Album Name": "Good Dog, Happy Man"
     },
     {
         "Title": "'The Willies'",
@@ -96,7 +141,15 @@
         "ATC Track": "Cluck Old Hen",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Cluck Old Hen",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WaSAXOLzRyy7C68PI36gs",
+        "Result Album Name": "The Willies"
     },
     {
         "Title": "Congress - Iraq Hearings",
@@ -120,14 +173,27 @@
         "ATC Track": "Analog",
         "ATC Artists": [
             "Doublemranch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "It's Time",
         "ATC Artists": [
             "Wycliffe Gordon",
             "Ronald Westray"
-        ]
+        ],
+        "Result Track Name": "It's Time",
+        "Result Artist Names": [
+            "Wycliffe Gordon & Ronald Westray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1XgZyPq08zYGDEHEStYqNJ",
+        "Result Album Name": "Bone Structure"
     },
     {
         "Title": "Passenger Van Accidents",
@@ -145,13 +211,31 @@
         "ATC Track": "Quartet Kv 465: Adagio",
         "ATC Artists": [
             "Leipziger Streichquartett"
-        ]
+        ],
+        "Result Track Name": "Quartet No. 19 in C Major, KV 465, \"Dissonance Quartet\": I. Adagio",
+        "Result Artist Names": [
+            "Wolfgang Amadeus Mozart",
+            "Leipziger Streichquartett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dxlWaT220oPN6Za5Yi30i",
+        "Result Album Name": "Mozart: String Quartets Vol. 2"
     },
     {
         "ATC Track": "I Think of You",
         "ATC Artists": [
             "Dick Sisto"
-        ]
+        ],
+        "Result Track Name": "I Think of You",
+        "Result Artist Names": [
+            "Dick Sisto",
+            "Fred Hersch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1duswADRdnocKvxtNYh0T1",
+        "Result Album Name": "Duo Live"
     },
     {
         "Title": "Buffalo Bail Hearing",
@@ -169,7 +253,12 @@
         "ATC Track": "T.C. Blues",
         "ATC Artists": [
             "Jim Hall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tables For All",
@@ -181,13 +270,26 @@
         "ATC Track": "Bobo the Hobo",
         "ATC Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pirate Captain's Quickstep",
         "ATC Artists": [
             "Brave Combo"
-        ]
+        ],
+        "Result Track Name": "Pirate Captain's Quickstep (instrumental)",
+        "Result Artist Names": [
+            "Brave Combo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18tQe6WAJUPNq67tCw5qMG",
+        "Result Album Name": "Mood Swing Music"
     },
     {
         "Title": "When Is a Clone Really a Clone?",
@@ -199,7 +301,16 @@
         "ATC Track": "Music in Similar Motion",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Music in Similar Motion",
+        "Result Artist Names": [
+            "Philip Glass",
+            "eighth blackbird"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cXaJZiBZH8gHJrBScshbv",
+        "Result Album Name": "eighth blackbird meanwhile"
     },
     {
         "Title": "Pirate Talk",
@@ -211,12 +322,22 @@
         "ATC Track": "YO HO (A PIRATE'S LIFE FOR ME",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Golliwogg's Cake Walk From the Children's Corner Suite",
         "ATC Artists": [
             "Washington Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

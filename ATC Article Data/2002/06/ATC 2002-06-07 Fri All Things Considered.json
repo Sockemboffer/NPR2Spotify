@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-07",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:47:48"
+        "Scanned Date": "2022-02-06 21:47:48",
+        "Playlist URI": "2fp8TjpkoyOivLhaft6WdV",
+        "Playlist Link": "https://open.spotify.com/playlist/2fp8TjpkoyOivLhaft6WdV",
+        "Snapshot ID": "MSw5YzM5ZWVlM2Q1YzNjZDQxMjhjYTFlZDgxOTVkZmU2NDM4ZWU1NjYz",
+        "Playlist Name": "ATC 2002-06-07 Fri All Things Considered"
     },
     {
         "Title": "Reaction to Homeland Security Plan",
@@ -22,7 +26,15 @@
         "ATC Track": "The Hangover",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Hangover",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3imSm6xpkwQHcfyVBeqtNs",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "Al Qaeda and Kashmir",
@@ -52,7 +64,15 @@
         "ATC Track": "UKULELE RAMBLE",
         "ATC Artists": [
             "JIM BELOFF"
-        ]
+        ],
+        "Result Track Name": "Ukulele Ramble",
+        "Result Artist Names": [
+            "Jim Beloff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42ILDMqZ5jSkki8CIJSqGF",
+        "Result Album Name": "Jim's Dog Has Fleas"
     },
     {
         "Title": "Health Policy",
@@ -64,7 +84,15 @@
         "ATC Track": "Departures",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Departures",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zvyHRskkAwGpoUezCOVer",
+        "Result Album Name": "elm street"
     },
     {
         "Title": "Wye Oak",
@@ -82,7 +110,15 @@
         "ATC Track": "Modular Mix",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Modular Mix",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NsBEdmbgu9u8cH21ycyBv",
+        "Result Album Name": "Premiers Symptômes"
     },
     {
         "Title": "Philippines - American Hostages",
@@ -106,7 +142,12 @@
         "ATC Track": "Spaces Between Days, Pt. 1",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Skakel Trial",
@@ -124,13 +165,29 @@
         "ATC Track": "Rosasolis",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Rosasolis",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0IUzIl53w5sYSy8OMK2MXu",
+        "Result Album Name": "Preludes, Airs And Yodels (A Penguin Cafe Primer)"
     },
     {
         "ATC Track": "In a Late Style of Fire",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "In A Late Style Of Fire",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3D4UG9UN6GJQtdTSd3gpCc",
+        "Result Album Name": "Silence Magnifies Sound"
     },
     {
         "Title": "Sports Spectacular: A Fan's Perspective",
@@ -160,12 +217,28 @@
         "ATC Track": "The Dream",
         "ATC Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "The Dream",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1m4VycxdtXQFQy1QW9hFPs",
+        "Result Album Name": "Jazz"
     },
     {
         "ATC Track": "First Time Long Time",
         "ATC Artists": [
             "Medeski Martin and Wood"
-        ]
+        ],
+        "Result Track Name": "First Time Long Time",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1sEhHT7d8WZREMq5Zh8yyL",
+        "Result Album Name": "Uninvisible"
     }
 ]

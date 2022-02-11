@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-01-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:57:39"
+        "Scanned Date": "2022-02-06 21:57:39",
+        "Playlist URI": "0TPlpBzwWnQjCqspnX7x6a",
+        "Playlist Link": "https://open.spotify.com/playlist/0TPlpBzwWnQjCqspnX7x6a",
+        "Snapshot ID": "MSxlNGM5MmU4NzNmYWQxNTI4MzJjYWU3ZjJmODYxNWI4MDNmM2Q5NDVj",
+        "Playlist Name": "ATC 2002-01-27 Sun All Things Considered"
     },
     {
         "Title": "Guantanamo",
@@ -28,7 +32,16 @@
         "ATC Track": "O Bia",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "O Bia",
+        "Result Artist Names": [
+            "Francis Bebey",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KDwVGmIY0PO1z9z6lEAmx",
+        "Result Album Name": "The Magic Box"
     },
     {
         "Title": "Horses",
@@ -46,13 +59,29 @@
         "ATC Track": "DROP ME OFF IN HARLEM",
         "ATC Artists": [
             "DUKE ELLINGTON"
-        ]
+        ],
+        "Result Track Name": "Drop Me Off In Harlem",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tQeeceAbd9GURCjkySrpH",
+        "Result Album Name": "In a Sentimental Mood"
     },
     {
         "ATC Track": "CARAVAN",
         "ATC Artists": [
             "DUKE ELLINGTON"
-        ]
+        ],
+        "Result Track Name": "Caravan",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Jw4lBWbcznhlitliEMW0x",
+        "Result Album Name": "Jazz Profile: Duke Ellington"
     },
     {
         "Title": "Enron",
@@ -70,7 +99,15 @@
         "ATC Track": "Southern Jukebox Music",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Southern Jukebox Music - 2008 Digital Remaster",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:2xCA9DIeakbeDmDVJxdTun",
+        "Result Album Name": "Signs Of Life"
     },
     {
         "Title": "Indonesian Cleric",
@@ -82,7 +119,15 @@
         "ATC Track": "Step into My Fire",
         "ATC Artists": [
             "Michael Whalen"
-        ]
+        ],
+        "Result Track Name": "Step Into My Fire",
+        "Result Artist Names": [
+            "Michael Whalen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5T1aXFByUjUqzKOnkffH1l",
+        "Result Album Name": "Mysterious Ways"
     },
     {
         "Title": "Bloody Sunday",
@@ -100,7 +145,15 @@
         "ATC Track": "Leila",
         "ATC Artists": [
             "Eddie \"the Sheik\" Kochak"
-        ]
+        ],
+        "Result Track Name": "Leila (Fast / Mod. Tempo)",
+        "Result Artist Names": [
+            "Eddie the Sheik Kochak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SxU6KOneLoYukpDnjvWVr",
+        "Result Album Name": "Strictly Belly Dancing Volume 2"
     },
     {
         "Title": "Belly Dancing in Studio 4A",
@@ -112,6 +165,14 @@
         "ATC Track": "Moderate Fast Finale",
         "ATC Artists": [
             "Eddie \"the Sheik\" Kochak"
-        ]
+        ],
+        "Result Track Name": "Moderate / Fast Finale Toota",
+        "Result Artist Names": [
+            "Eddie the Sheik Kochak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xRH5knJbF3ZKJrUuhl7cS",
+        "Result Album Name": "Strictly Belly Dancing Volume 2"
     }
 ]

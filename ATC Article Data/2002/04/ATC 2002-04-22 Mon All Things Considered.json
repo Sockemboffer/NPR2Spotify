@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-04-22",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:52:38"
+        "Scanned Date": "2022-02-06 21:52:38",
+        "Playlist URI": "4bl4XPbBQ2JEQLH4hcsBrU",
+        "Playlist Link": "https://open.spotify.com/playlist/4bl4XPbBQ2JEQLH4hcsBrU",
+        "Snapshot ID": "MSw0NDQ2Yzc0ZWUwYTY1MGVmN2IxM2ZmMWRlNGQ1Y2M1NTE3NzZkNTM5",
+        "Playlist Name": "ATC 2002-04-22 Mon All Things Considered"
     },
     {
         "Title": "Rome Meeting",
@@ -28,13 +32,27 @@
         "ATC Track": "WISTFUL THINKING",
         "ATC Artists": [
             "RALPH TOWNER"
-        ]
+        ],
+        "Result Track Name": "Wistful Thinking",
+        "Result Artist Names": [
+            "Ralph Towner",
+            "Paolo Fresu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34Zc5Efl8Rm8rxlYyj6k8h",
+        "Result Album Name": "Chiaroscuro"
     },
     {
         "ATC Track": "Sonata for keyboard in F minor, K. 69 (L. 382)",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "West Bank",
@@ -52,13 +70,32 @@
         "ATC Track": "Book of Balance",
         "ATC Artists": [
             "Ken Field"
-        ]
+        ],
+        "Result Track Name": "Book of balance",
+        "Result Artist Names": [
+            "Ken Field"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jtt15lsRLEfmJSGCtWII9",
+        "Result Album Name": "Pictures of Motion"
     },
     {
         "ATC Track": "My Old Flame",
         "ATC Artists": [
             "Lee Konitz"
-        ]
+        ],
+        "Result Track Name": "My Old Flame",
+        "Result Artist Names": [
+            "Lee Konitz",
+            "Don Friedman",
+            "Tsutomu Okada",
+            "Jeff Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mGfKoGOtu4W9QMQz23gA8",
+        "Result Album Name": "Lee Konitz Meets Don Friedman"
     },
     {
         "Title": "Supreme Court: Death Penalty",
@@ -71,7 +108,12 @@
         "ATC Artists": [
             "itzhak perlman (samuel sanders",
             "piano)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'The Cat's Meow'",
@@ -90,13 +132,27 @@
         "ATC Artists": [
             "Truffaut",
             "Delerve"
-        ]
+        ],
+        "Result Track Name": "Epilogue (From The Last Metro)",
+        "Result Artist Names": [
+            "Truffaut",
+            "DeLeRue"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:00hqH9juW1Gb7WwPCAlQVD",
+        "Result Album Name": "Truffaut & Delerue On The Screen - Music From The Last Metro, The Woman Next Door"
     },
     {
         "ATC Track": "Lust [From Nosferatu]",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sotheby's Price Fixing",
@@ -114,13 +170,26 @@
         "ATC Track": "TAKE IT OFF",
         "ATC Artists": [
             "DAVE LESLIE WITH MIKE CURTIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Armstrong Parade",
         "ATC Artists": [
             "Leroy Jones"
-        ]
+        ],
+        "Result Track Name": "Armstrong Parade",
+        "Result Artist Names": [
+            "Leroy Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rb3ouU4WMyAcE5U22XCiP",
+        "Result Album Name": "I'm Talkin' Bout New Orleans"
     },
     {
         "Title": "Gates Testimony",
@@ -144,13 +213,29 @@
         "ATC Track": "Far East",
         "ATC Artists": [
             "Coctails"
-        ]
+        ],
+        "Result Track Name": "Far East",
+        "Result Artist Names": [
+            "The Coctails"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PpOeW8xVIN72pe3CgYx7Y",
+        "Result Album Name": "Long Sound"
     },
     {
         "ATC Track": "SHORT 'N STOUT",
         "ATC Artists": [
             "RALPH TOWNER"
-        ]
+        ],
+        "Result Track Name": "Short 'n Stout",
+        "Result Artist Names": [
+            "Ralph Towner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54w1eSoacPQrQ0ceKs8ESu",
+        "Result Album Name": "Open Letter"
     },
     {
         "Title": "French Election",
@@ -168,13 +253,26 @@
         "ATC Track": "paradise",
         "ATC Artists": [
             "curlew"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BRIMFUL OF ASIA (NORMAN COOK ORIGINAL RADIO EDIT REMIX)",
         "ATC Artists": [
             "CORNERSHOP"
-        ]
+        ],
+        "Result Track Name": "Brimful Of Asha - Norman Cook Remix Single Version",
+        "Result Artist Names": [
+            "Cornershop"
+        ],
+        "Result Track-Match Percent": 0.5882352941176471,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gbdLLUhocAjThL3GvV6Lx",
+        "Result Album Name": "The Greatest Hits: Why Try Harder"
     },
     {
         "Title": "Robot Competition",
@@ -192,13 +290,29 @@
         "ATC Track": "MUSIQUE",
         "ATC Artists": [
             "DAFT PUNK"
-        ]
+        ],
+        "Result Track Name": "Musique",
+        "Result Artist Names": [
+            "Daft Punk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5N3FZ8eZ2mWwSWaJRAGHfS",
+        "Result Album Name": "Da Funk"
     },
     {
         "ATC Track": "AIRPROOFING",
         "ATC Artists": [
             "LEO KOTTKE"
-        ]
+        ],
+        "Result Track Name": "Airproofing",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44EREphgUEnY5kmywWiu2G",
+        "Result Album Name": "The Essential Leo Kottke Collection"
     },
     {
         "Title": "Argentina's Economy",
@@ -216,12 +330,25 @@
         "ATC Track": "TANTE SUZANNE",
         "ATC Artists": [
             "VALARIE MORRIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Call Me Later",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Call Me Later",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2eCNySncBczM9qVDKN3WPp",
+        "Result Album Name": "The Dark Before The Dawn"
     }
 ]

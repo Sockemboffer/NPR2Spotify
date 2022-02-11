@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:43:52"
+        "Scanned Date": "2022-02-06 21:43:52",
+        "Playlist URI": "3MhEsTr7xCzHHerCd3eRak",
+        "Playlist Link": "https://open.spotify.com/playlist/3MhEsTr7xCzHHerCd3eRak",
+        "Snapshot ID": "MSwyYTgyMzViZjRhOTVhODEyMjY3MmJjNmUyYWVkZThhMTdmYWUzNjZk",
+        "Playlist Name": "ATC 2002-09-29 Sun All Things Considered"
     },
     {
         "Title": "Saddam Defiance",
@@ -28,7 +32,15 @@
         "ATC Track": "The State of the Union",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "The State Of The Union",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2323bovOr3cLRjxQJ28BNg",
+        "Result Album Name": "The Richest Man In Babylon"
     },
     {
         "Title": "MTV Indonesia",
@@ -46,7 +58,15 @@
         "ATC Track": "Hey",
         "ATC Artists": [
             "Groove Collective"
-        ]
+        ],
+        "Result Track Name": "Hey",
+        "Result Artist Names": [
+            "Groove Collective"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NKQ5PbG61u31YqOtxj9nH",
+        "Result Album Name": "Dance Of The Drunken Master"
     },
     {
         "Title": "Kidnappings in Japan",
@@ -59,7 +79,12 @@
         "ATC Artists": [
             "Terence Blanchard",
             "Morgan Freeman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ole Miss, 40 Years Later",
@@ -78,6 +103,11 @@
         "ATC Artists": [
             "JOHN WILLIAMS",
             "THE LONDON SYMPHONY ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

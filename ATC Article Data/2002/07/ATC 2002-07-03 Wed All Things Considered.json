@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-07-03",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:45:50"
+        "Scanned Date": "2022-02-06 21:45:50",
+        "Playlist URI": "21XBcde7uPjU6h2oOpnqmT",
+        "Playlist Link": "https://open.spotify.com/playlist/21XBcde7uPjU6h2oOpnqmT",
+        "Snapshot ID": "MSw5NmZhMjI2ZDI4NjU3NGMxMDUzZTgyMWVjZjFiZGQxYjBmZjk3YTYw",
+        "Playlist Name": "ATC 2002-07-03 Wed All Things Considered"
     },
     {
         "Title": "Security - NYC",
@@ -35,13 +39,26 @@
         "ATC Artists": [
             "Martin Simpson",
             "Doug Burns et. al."
-        ]
+        ],
+        "Result Track Name": "O Jerusalem / Go Down Moses",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3qGPrr9bqPW2w3QmRso8GN",
+        "Result Album Name": "A Closer Walk With Thee"
     },
     {
         "ATC Track": "La Bambola/Come Maddalena",
         "ATC Artists": [
             "Sofa Surfers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pregnancy Test Subpoenas",
@@ -59,7 +76,15 @@
         "ATC Track": "Paryer Meetin'",
         "ATC Artists": [
             "Willie Mitchell"
-        ]
+        ],
+        "Result Track Name": "Prayer Meetin'",
+        "Result Artist Names": [
+            "Willie Mitchell"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19YLQaeQT88GJ6nz1IlbNK",
+        "Result Album Name": "Solid Soul"
     },
     {
         "Title": "Vivendi France",
@@ -85,7 +110,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Just Like I Pictured It",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fNQ31fejgWaz83uz4OhXt",
+        "Result Album Name": "Combustication"
     },
     {
         "Title": "Superfund Site",
@@ -104,7 +137,12 @@
         "ATC Artists": [
             "Ferrante",
             "Teicher"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Peacekeeping",
@@ -128,13 +166,30 @@
         "ATC Track": "WAWSHISHIJAY",
         "ATC Artists": [
             "KRONOS QUARTET"
-        ]
+        ],
+        "Result Track Name": "Wawshishijay (\"Our Beginning\")",
+        "Result Artist Names": [
+            "Obo Addy",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01J6Dxe7TdOY36Y4F7BP9Q",
+        "Result Album Name": "Pieces of Africa"
     },
     {
         "ATC Track": "Indigo",
         "ATC Artists": [
             "Future Loop Foundation"
-        ]
+        ],
+        "Result Track Name": "Indigo",
+        "Result Artist Names": [
+            "Future Loop Foundation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TAwUT4y7H63cwvsq4OsXL",
+        "Result Album Name": "Ibiza Lounge Paradise"
     },
     {
         "Title": "Marine Drug Bust",
@@ -152,13 +207,26 @@
         "ATC Track": "VERY RARE",
         "ATC Artists": [
             "the john spencer blues explosion"
-        ]
+        ],
+        "Result Track Name": "Very Rare",
+        "Result Artist Names": [
+            "The Jon Spencer Blues Explosion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3qoozt1EIDcPsJpzR9JPph",
+        "Result Album Name": "Orange"
     },
     {
         "ATC Track": "I'M GOIN' BACK TO BOTTOMLAND",
         "ATC Artists": [
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bush SEC Filings",
@@ -177,13 +245,27 @@
         "ATC Artists": [
             "Gary Burton Quintet",
             "Eberhard Weber"
-        ]
+        ],
+        "Result Track Name": "The Colours Of Chloe",
+        "Result Artist Names": [
+            "Gary Burton Quintet",
+            "Eberhard Weber"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eYo2hqWYWPA76FsV03dTv",
+        "Result Album Name": "Ring"
     },
     {
         "ATC Track": "Smithy Hill",
         "ATC Artists": [
             "Mary Lea"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puyallup Windfall",
@@ -204,12 +286,28 @@
             "His Harp",
             "",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Accidental Slip on an Oriental Rug",
+        "Result Artist Names": [
+            "Robert Maxwell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2rwreH0jmV5rs8wtiRyxow",
+        "Result Album Name": "Hi-Fi Harp"
     },
     {
         "ATC Track": "The Crawl",
         "ATC Artists": [
             "Willie Mitchell"
-        ]
+        ],
+        "Result Track Name": "The Crawl",
+        "Result Artist Names": [
+            "Willie Mitchell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5swfHARFKuZw5kt5LmnGD8",
+        "Result Album Name": "The Best of Willie Mitchell"
     }
 ]

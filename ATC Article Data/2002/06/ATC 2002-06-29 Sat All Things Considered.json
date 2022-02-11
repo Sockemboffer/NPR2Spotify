@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:49:06"
+        "Scanned Date": "2022-02-06 21:49:06",
+        "Playlist URI": "5J6yA14sYI4xQ9KxMBI3dx",
+        "Playlist Link": "https://open.spotify.com/playlist/5J6yA14sYI4xQ9KxMBI3dx",
+        "Snapshot ID": "MSwxZDMzMDZjNzFmNDI5NTc5NzY4MjFlZDQxODFlNjk1NGFkZWJhYzAy",
+        "Playlist Name": "ATC 2002-06-29 Sat All Things Considered"
     },
     {
         "Title": "Corporate Fraud",
@@ -22,7 +26,15 @@
         "ATC Track": "COWBOY",
         "ATC Artists": [
             "the john spencer blues explosion"
-        ]
+        ],
+        "Result Track Name": "Cowboy",
+        "Result Artist Names": [
+            "The Jon Spencer Blues Explosion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6Fta5y4AGEcOPKB4NkXCwZ",
+        "Result Album Name": "Orange"
     },
     {
         "Title": "Global War",
@@ -40,7 +52,15 @@
         "ATC Track": "Battle Hymn of the Republic",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Battle Hymn Of The Republic",
+        "Result Artist Names": [
+            "The Benny Green Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2EArSFos0R1O28wuwBDJDM",
+        "Result Album Name": "Greens"
     },
     {
         "Title": "Slow Food Crabs",
@@ -52,19 +72,40 @@
         "ATC Track": "LA PRIMERA VES",
         "ATC Artists": [
             "MAMBO COMBO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Greens",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Greens",
+        "Result Artist Names": [
+            "The Benny Green Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bay4cwvutubAxQUkdrwFG",
+        "Result Album Name": "Greens"
     },
     {
         "ATC Track": "Bish Bash",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Bish Bash",
+        "Result Artist Names": [
+            "The Benny Green Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KdZ09GNhYfXrUuZ34Iowy",
+        "Result Album Name": "Greens"
     },
     {
         "Title": "Koreas",
@@ -82,7 +123,15 @@
         "ATC Track": "Celebration (remix)",
         "ATC Artists": [
             "Kool and the Gang"
-        ]
+        ],
+        "Result Track Name": "Celebration",
+        "Result Artist Names": [
+            "Kool & The Gang"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3K7Q9PHUWPTaknlbFPThn2",
+        "Result Album Name": "Celebrate!"
     },
     {
         "Title": "Wimbledon Woes",
@@ -100,7 +149,15 @@
         "ATC Track": "ROUND",
         "ATC Artists": [
             "MARGO GURYAN"
-        ]
+        ],
+        "Result Track Name": "The 8:17 Northbound Success Merry-Go-Round",
+        "Result Artist Names": [
+            "Margo Guryan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jwV2OyHrJr5ly6j3PaXJM",
+        "Result Album Name": "27 Demos"
     },
     {
         "Title": "Nancy Drew",
@@ -118,6 +175,11 @@
         "ATC Track": "The Mod Squad",
         "ATC Artists": [
             "Earle Hagen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

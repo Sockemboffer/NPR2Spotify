@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:43:00"
+        "Scanned Date": "2022-02-06 21:43:00",
+        "Playlist URI": "3f5HppOT8RXPG4Dabvo89M",
+        "Playlist Link": "https://open.spotify.com/playlist/3f5HppOT8RXPG4Dabvo89M",
+        "Snapshot ID": "MSxiNDQ4YjkyYzFiNjE4NmYwMGVhNzQ3ODE2ZjI2MWZmYzVhYWVhMTZh",
+        "Playlist Name": "ATC 2002-09-15 Sun All Things Considered"
     },
     {
         "Title": "Making the Case",
@@ -22,7 +26,15 @@
         "ATC Track": "Disappointed",
         "ATC Artists": [
             "The Frames"
-        ]
+        ],
+        "Result Track Name": "Disappointed",
+        "Result Artist Names": [
+            "The Devotchkas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6Mh7WhhC2Etj24taj55asv",
+        "Result Album Name": "Annihilation"
     },
     {
         "Title": "Lackawanna Profiles",
@@ -34,7 +46,12 @@
         "ATC Track": "People On the Go",
         "ATC Artists": [
             "The Hix"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Latino Identity",
@@ -52,13 +69,26 @@
         "ATC Track": "Vierd Blues",
         "ATC Artists": [
             "Bill Evans"
-        ]
+        ],
+        "Result Track Name": "Vierd Blues",
+        "Result Artist Names": [
+            "Bill Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46c4GJJz84dQ0MmkezbljP",
+        "Result Album Name": "Piano Player"
     },
     {
         "ATC Track": "Howling Wilderness",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Coercive Inspections",
@@ -88,6 +118,11 @@
         "ATC Track": "Solo Piano Fantasy",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

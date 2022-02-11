@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-10",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:47:57"
+        "Scanned Date": "2022-02-06 21:47:57",
+        "Playlist URI": "3P6YkECt98CqTViX4gdjTA",
+        "Playlist Link": "https://open.spotify.com/playlist/3P6YkECt98CqTViX4gdjTA",
+        "Snapshot ID": "MSxjZDUzOTAzZDJjZGIwMTg5NDM4YTZmMTExODAwNmVmZmQxNjQzNTZl",
+        "Playlist Name": "ATC 2002-06-10 Mon All Things Considered"
     },
     {
         "Title": "'Dirty' Bomb Suspect Arrest",
@@ -28,7 +32,12 @@
         "ATC Track": "Folk-Tune for piano (Fem Klaverstykker), FS 10/1 (Op. 3/1)",
         "ATC Artists": [
             "Barbara Meister"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Syeeda's Song Flute",
@@ -36,7 +45,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Syeeda's Song Flute",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35z8W5ruxabD8eXx1KFG6m",
+        "Result Album Name": "It's A Jungle In Here"
     },
     {
         "Title": "The Ethics of Cloning",
@@ -54,7 +71,12 @@
         "ATC Track": "Gabe's New Joint",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sharon and Bush",
@@ -79,13 +101,31 @@
         "ATC Artists": [
             "8 1",
             "2 SOUVENIRS"
-        ]
+        ],
+        "Result Track Name": "Minor Swing",
+        "Result Artist Names": [
+            "8 1/2 Souvenirs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QLcRxRUyLJmgbdYf0ikc4",
+        "Result Album Name": "Happy Feet"
     },
     {
         "ATC Track": "Minor Swing",
         "ATC Artists": [
             "Jon Burr"
-        ]
+        ],
+        "Result Track Name": "Minor Swing",
+        "Result Artist Names": [
+            "Mark O'Connor's Hot Swing Trio",
+            "Frank Vignola",
+            "Jon Burr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34tjyQAWlpwPYKdW5zoLc9",
+        "Result Album Name": "Hot Swing!"
     },
     {
         "Title": "Norweigan Hackers",
@@ -100,7 +140,12 @@
             "STEVE KIMOCK",
             "HARVEY MANDEL",
             "FREDDIE ROULETTE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Suspect Profile",
@@ -124,14 +169,31 @@
         "ATC Track": "Kutambarara",
         "ATC Artists": [
             "Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Kutambarara (\"Spreading\")",
+        "Result Artist Names": [
+            "Dumisani Maraire",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HeCfZVCKlWzb37zd6PP7u",
+        "Result Album Name": "Pieces of Africa"
     },
     {
         "ATC Track": "Blooz",
         "ATC Artists": [
             "Wycliffe Gordon",
             "Ronald Westray"
-        ]
+        ],
+        "Result Track Name": "Blooz",
+        "Result Artist Names": [
+            "Wycliffe Gordon & Ronald Westray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57phnZ4RHHR4pJ3MYuRdqE",
+        "Result Album Name": "Bone Structure"
     },
     {
         "Title": "Supreme Court: Sex Predators' Rights",
@@ -149,13 +211,29 @@
         "ATC Track": "Big Sur Moon",
         "ATC Artists": [
             "Buckethead"
-        ]
+        ],
+        "Result Track Name": "Big Sur Moon",
+        "Result Artist Names": [
+            "Buckethead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3F7Z3u2gMiTFff8UoUSaFw",
+        "Result Album Name": "Colma"
     },
     {
         "ATC Track": "Two Kalimbas and a Synth",
         "ATC Artists": [
             "Another Fine Day"
-        ]
+        ],
+        "Result Track Name": "Two Kalimbas and a Synth",
+        "Result Artist Names": [
+            "Another Fine Day"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mdiNFhUvHdkJ1JIprSVrG",
+        "Result Album Name": "Buddhattitude Alaafiya"
     },
     {
         "Title": "Kashmir Questions Answered",
@@ -167,14 +245,30 @@
         "ATC Track": "Wishing Well",
         "ATC Artists": [
             "Buckethead"
-        ]
+        ],
+        "Result Track Name": "Wishing Well",
+        "Result Artist Names": [
+            "Buckethead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3V2cC7m9pcv0h0w1hYxsSy",
+        "Result Album Name": "Colma"
     },
     {
         "ATC Track": "Coming Is Going...",
         "ATC Artists": [
             "Wycliffe Gordon",
             "Ronald Westray"
-        ]
+        ],
+        "Result Track Name": "Coming Is Going",
+        "Result Artist Names": [
+            "Wycliffe Gordon & Ronald Westray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0p8kFA7YUM4VyO6LrRUVR5",
+        "Result Album Name": "Bone Structure"
     },
     {
         "Title": "John Gotti Dies at 61",
@@ -192,12 +286,25 @@
         "ATC Track": "Free Fall",
         "ATC Artists": [
             "Laurie Anderson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "kashmir",
         "ATC Artists": [
             "kashmir"
-        ]
+        ],
+        "Result Track Name": "Kashmir's Groove",
+        "Result Artist Names": [
+            "Kashmir"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cVkmCNOk1SXim8Hr6L2sd",
+        "Result Album Name": "Headbanger"
     }
 ]

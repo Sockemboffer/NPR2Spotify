@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-01-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:56:48"
+        "Scanned Date": "2022-02-06 21:56:48",
+        "Playlist URI": "5h6RTyAGsZL2E8zVKtLdjd",
+        "Playlist Link": "https://open.spotify.com/playlist/5h6RTyAGsZL2E8zVKtLdjd",
+        "Snapshot ID": "MSw4NzI1ZmRhOWI2ZTI2M2JmY2E1YTNiMjY2YWJiZjczODgwOTFiZWJl",
+        "Playlist Name": "ATC 2002-01-12 Sat All Things Considered"
     },
     {
         "Title": "Musharraf",
@@ -22,7 +26,15 @@
         "ATC Track": "Kaliyugavaradana",
         "ATC Artists": [
             "U. Srinivas"
-        ]
+        ],
+        "Result Track Name": "Kaliyugavaradana",
+        "Result Artist Names": [
+            "U. Srinivas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JiPoVDTmteJ0USnow2C1p",
+        "Result Album Name": "Rama Sreerama"
     },
     {
         "Title": "Afghanistan",
@@ -46,7 +58,15 @@
         "ATC Track": "In Heaven There Is No Beer",
         "ATC Artists": [
             "Happy Organ"
-        ]
+        ],
+        "Result Track Name": "In Heaven There Is No Beer",
+        "Result Artist Names": [
+            "The Happy Organ"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00bAo9U6LCioN7rMKo2CwH",
+        "Result Album Name": "20 Polkas & Waltzes"
     },
     {
         "Title": "Enron",
@@ -58,7 +78,15 @@
         "ATC Track": "ASKO HEPOKARHU-KOSKELA",
         "ATC Artists": [
             "TUULENKANTAJAT"
-        ]
+        ],
+        "Result Track Name": "Asko Hepokarhu-Koskela",
+        "Result Artist Names": [
+            "Tuulenkantajat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5a5cC4rCCXyrkVQUqxQSmv",
+        "Result Album Name": "Vedenalusmusiikkia"
     },
     {
         "Title": "New Checkpoint",
@@ -70,7 +98,15 @@
         "ATC Track": "CONSTELLATION",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Constellation",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4DciDYzAhGiZX8oRQryGy5",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "Science Wrap",
@@ -88,6 +124,14 @@
         "ATC Track": "Ça Va Ça Va",
         "ATC Artists": [
             "Karl Zero"
-        ]
+        ],
+        "Result Track Name": "Ça va, ça va",
+        "Result Artist Names": [
+            "Karl Zéro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6Ncw5tQShcWfgInAqAG47u",
+        "Result Album Name": "Songs For Cabriolets (And Otros Tipos de Vehiculos)"
     }
 ]

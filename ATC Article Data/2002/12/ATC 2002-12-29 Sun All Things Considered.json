@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-12-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:38:14"
+        "Scanned Date": "2022-02-06 21:38:14",
+        "Playlist URI": "2Vq0S9LgyXsrkKF3gPxJJy",
+        "Playlist Link": "https://open.spotify.com/playlist/2Vq0S9LgyXsrkKF3gPxJJy",
+        "Snapshot ID": "MSxkNjhhNjliZDBhYmZhOTk0YjdjYzQxNmEzZGNlODg1YWI0NjgxZTll",
+        "Playlist Name": "ATC 2002-12-29 Sun All Things Considered"
     },
     {
         "Title": "N. Korea Talks?",
@@ -22,7 +26,15 @@
         "ATC Track": "Django",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "Django",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T6C54rbleY0fqtxfDNSSc",
+        "Result Album Name": "Evolution II"
     },
     {
         "Title": "Venezuela Oil",
@@ -40,13 +52,29 @@
         "ATC Track": "I'm Confessin' (That I Love You)",
         "ATC Artists": [
             "Thelonious Monk"
-        ]
+        ],
+        "Result Track Name": "I'm Confessin' (That I Love You)",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kLp24Op7cOu8iQkU46sBv",
+        "Result Album Name": "Solo Monk"
     },
     {
         "ATC Track": "Introspection [#]",
         "ATC Artists": [
             "Thelonious Monk"
-        ]
+        ],
+        "Result Track Name": "Introspection",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zPYEgd0HIgIDvl76e37km",
+        "Result Album Name": "Solo Monk"
     },
     {
         "Title": "Kibaki Declared Winner in Kenya Presidential Vote",
@@ -70,7 +98,15 @@
         "ATC Track": "The Waitress",
         "ATC Artists": [
             "The Waifs"
-        ]
+        ],
+        "Result Track Name": "The Waitress",
+        "Result Artist Names": [
+            "The Waifs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63pxlBjWjuhDctf7AEzT9T",
+        "Result Album Name": "A Brief History…"
     },
     {
         "Title": "Harry Potter Fan Fiction",
@@ -88,6 +124,14 @@
         "ATC Track": "BLACKTOP",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Blacktop",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zT4kN7N5IsT6qIQ3d0Dxs",
+        "Result Album Name": "Interstate"
     }
 ]

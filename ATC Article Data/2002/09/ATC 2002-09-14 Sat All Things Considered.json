@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:42:59"
+        "Scanned Date": "2022-02-06 21:42:59",
+        "Playlist URI": "3P0UoYXouuSW9spV0QzudS",
+        "Playlist Link": "https://open.spotify.com/playlist/3P0UoYXouuSW9spV0QzudS",
+        "Snapshot ID": "MSw5MjJkNjU2NTE0MDc1NzUyZTczZmM0N2FjZWZiMjM2YmM4NTM5MzE3",
+        "Playlist Name": "ATC 2002-09-14 Sat All Things Considered"
     },
     {
         "Title": "Lackawanna Arrests",
@@ -22,7 +26,12 @@
         "ATC Track": "Riding the Nuclear Tiger",
         "ATC Artists": [
             "Ben Allison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraqi Dissidents",
@@ -46,7 +55,15 @@
         "ATC Track": "Atabaque",
         "ATC Artists": [
             "Jazzanova"
-        ]
+        ],
+        "Result Track Name": "Atabaque",
+        "Result Artist Names": [
+            "Jazzanova"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gxoO58WeQiWvg6sSoKKum",
+        "Result Album Name": "The New Latinaires"
     },
     {
         "Title": "Boeing Machinists",
@@ -58,7 +75,15 @@
         "ATC Track": "Far East",
         "ATC Artists": [
             "Coctails"
-        ]
+        ],
+        "Result Track Name": "Far East",
+        "Result Artist Names": [
+            "The Coctails"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PpOeW8xVIN72pe3CgYx7Y",
+        "Result Album Name": "Long Sound"
     },
     {
         "Title": "Italy Protests",
@@ -70,7 +95,15 @@
         "ATC Track": "Stories",
         "ATC Artists": [
             "Trapt"
-        ]
+        ],
+        "Result Track Name": "Stories",
+        "Result Artist Names": [
+            "Trapt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GxR3PuiqFiOvzT4TEZYJy",
+        "Result Album Name": "Trapt"
     },
     {
         "Title": "Oaxaca Food Fight",
@@ -94,6 +127,14 @@
         "ATC Track": "Summertime",
         "ATC Artists": [
             "The Gig Gryce Quintet"
-        ]
+        ],
+        "Result Track Name": "Summertime",
+        "Result Artist Names": [
+            "The Kronick Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:6IgJ7jOBCyGKUhsy87MxPO",
+        "Result Album Name": "Chronic!"
     }
 ]

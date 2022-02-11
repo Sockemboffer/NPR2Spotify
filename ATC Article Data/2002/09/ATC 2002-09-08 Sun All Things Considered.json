@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:42:38"
+        "Scanned Date": "2022-02-06 21:42:38",
+        "Playlist URI": "7htP6vdIY8OrlmI9v2Dps0",
+        "Playlist Link": "https://open.spotify.com/playlist/7htP6vdIY8OrlmI9v2Dps0",
+        "Snapshot ID": "MSxkNDUwN2JkZTI4YmYxMjM4ZGUxODdmMmNiODEzMjZkYWFhMTc3MDc1",
+        "Playlist Name": "ATC 2002-09-08 Sun All Things Considered"
     },
     {
         "Title": "News Roundup",
@@ -16,7 +20,17 @@
         "ATC Track": "Township Kwela",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Township Kwela",
+        "Result Artist Names": [
+            "Timothy Walker",
+            "John Williams",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NQBKRmI5S1906rwmE4KeH",
+        "Result Album Name": "The Magic Box"
     },
     {
         "Title": "Authors Auster, Rushdie Reflect on Sept. 11",
@@ -34,13 +48,29 @@
         "ATC Track": "West Eats Meat",
         "ATC Artists": [
             "Ravi Shankar"
-        ]
+        ],
+        "Result Track Name": "West Eats Meat",
+        "Result Artist Names": [
+            "Ravi Shankar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50LcLHEJdnk1ENNVL63jvi",
+        "Result Album Name": "Bridges: The Best of the Private Music Recordings"
     },
     {
         "ATC Track": "Dawganova",
         "ATC Artists": [
             "David Grisman Quintet"
-        ]
+        ],
+        "Result Track Name": "Dawganova",
+        "Result Artist Names": [
+            "DAVID GRISMAN QUINTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:797Ct9AQ8vMwABZmH1ebj9",
+        "Result Album Name": "Dawganova"
     },
     {
         "Title": "Primaries",
@@ -64,7 +94,16 @@
         "ATC Track": "Mater patris et filia, conductus",
         "ATC Artists": [
             "Anonymous 4"
-        ]
+        ],
+        "Result Track Name": "Conductus: Mater patris et filia: Conductus: Mater patris et filia",
+        "Result Artist Names": [
+            "Anonymous ",
+            "Anonymous 4"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FYF088WtYe5j1paaog5J8",
+        "Result Album Name": "Secret Voices"
     },
     {
         "Title": "Anonymous 4",
@@ -76,6 +115,15 @@
         "ATC Track": "Mater patris et filia, conductus",
         "ATC Artists": [
             "Anonymous 4"
-        ]
+        ],
+        "Result Track Name": "Conductus: Mater patris et filia: Conductus: Mater patris et filia",
+        "Result Artist Names": [
+            "Anonymous ",
+            "Anonymous 4"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FYF088WtYe5j1paaog5J8",
+        "Result Album Name": "Secret Voices"
     }
 ]

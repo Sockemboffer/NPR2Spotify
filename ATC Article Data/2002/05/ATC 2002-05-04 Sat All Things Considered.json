@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-05-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:49:22"
+        "Scanned Date": "2022-02-06 21:49:22",
+        "Playlist URI": "3PMRqyugYydzqe4fkts4Aq",
+        "Playlist Link": "https://open.spotify.com/playlist/3PMRqyugYydzqe4fkts4Aq",
+        "Snapshot ID": "MSwwZWE2NjE0ZTA0N2ExNmMxODgyODgwNDYyOTBjNDI3YWJjOTFlNzZj",
+        "Playlist Name": "ATC 2002-05-04 Sat All Things Considered"
     },
     {
         "Title": "Mailbox Bombs",
@@ -16,7 +20,16 @@
         "ATC Track": "Piano Sonata No.1, Op. 22",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Piano Sonata No. 1, Op. 22: I. Allegro marcato",
+        "Result Artist Names": [
+            "Alberto Ginastera",
+            "Francois Xavier Poizat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pkAgGhYu1YGlWYrnd7ylS",
+        "Result Album Name": "Ginastera: Danzas Argentinas, Piano Sonata 1, Suite de danzas criollas, 3 Pieces"
     },
     {
         "Title": "Church Forgiveness",
@@ -40,13 +53,40 @@
         "ATC Track": "Here Comes the Sun",
         "ATC Artists": [
             "Ofra Harnoy"
-        ]
+        ],
+        "Result Track Name": "Harrison-Here Comes The Sun",
+        "Result Artist Names": [
+            "Various Artists",
+            "Pyotr Ilyich Tchaikovsky",
+            "Franz Schubert",
+            "Antonín Dvořák",
+            "Jules Massenet",
+            "Franz Ignaz Danzi",
+            "Nikolai Rimsky-Korsakov",
+            "George Gershwin",
+            "George Harrison",
+            "Eugène Bozza",
+            "Halsey Stevens",
+            "Ofra Harnoy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64WyrsqMHQ9ffIQ3E9EWsR",
+        "Result Album Name": "Gershwin: Summertime"
     },
     {
         "ATC Track": "N.E.S.T.A. [Never Ever Submit to Authority]",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "N.E.S.T.A - Never Ever Submit to Authority",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0P5p6KehtFC4ih7LquAzQT",
+        "Result Album Name": "Liberation Afro Beat Vol.1"
     },
     {
         "Title": "China Policy",
@@ -65,7 +105,12 @@
         "ATC Artists": [
             "itzhak perlman (samuel sanders",
             "piano)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Japanese Food Scandals",
@@ -77,7 +122,15 @@
         "ATC Track": "BURIED AT SEA",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Buried At Sea",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75f5DJSrXyqHiUQwtjTg5K",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Medieval Madness",
@@ -89,7 +142,12 @@
         "ATC Track": "No Information Available At This Time",
         "ATC Artists": [
             "We Apologize for the Inconvenience"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Forest Whitaker",
@@ -101,6 +159,14 @@
         "ATC Track": "Mystery",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Mystery",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7c9eDormgJlnUrrHkWV9r2",
+        "Result Album Name": "Headphone & HiFi Test"
     }
 ]

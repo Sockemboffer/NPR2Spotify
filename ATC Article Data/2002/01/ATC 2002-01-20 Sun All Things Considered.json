@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-01-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:57:18"
+        "Scanned Date": "2022-02-06 21:57:18",
+        "Playlist URI": "32cpALBfLRbWLVlE7oG6pF",
+        "Playlist Link": "https://open.spotify.com/playlist/32cpALBfLRbWLVlE7oG6pF",
+        "Snapshot ID": "MSwzODJjZDc1MGQwYWVmZmYwMTc2NTVmOThjM2Y4MTc2ZWI2OWNmODA3",
+        "Playlist Name": "ATC 2002-01-20 Sun All Things Considered"
     },
     {
         "Title": "Kandahar",
@@ -16,7 +20,15 @@
         "ATC Track": "Negotiation",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Negotiation",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eVnQFT1Yh59hc8hU6VbiG",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Congress Returns",
@@ -46,7 +58,12 @@
         "ATC Track": "Aria Detta \"la Frescobalda",
         "ATC Artists": [
             "Eliot Fisk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Science Wrap",
@@ -58,7 +75,15 @@
         "ATC Track": "Everything in Its Right Place",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "Everything In Its Right Place",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+        "Result Album Name": "Kid A"
     },
     {
         "Title": "Atlanta Transport",
@@ -70,7 +95,15 @@
         "ATC Track": "Worry My Dome",
         "ATC Artists": [
             "Candy Butchers"
-        ]
+        ],
+        "Result Track Name": "Worry My Dome",
+        "Result Artist Names": [
+            "Candy Butchers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JfSb0S9ZEVSrXvBQaRYVE",
+        "Result Album Name": "Play With Your Head"
     },
     {
         "Title": "<I>Among the Missing</I>",
@@ -82,12 +115,25 @@
         "ATC Track": "The Twilight Zone",
         "ATC Artists": [
             "Neil Norman"
-        ]
+        ],
+        "Result Track Name": "The Twilight Zone",
+        "Result Artist Names": [
+            "Neil Norman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ZeVben6H6YkJvo49Tp8fs",
+        "Result Album Name": "Super Scary Monster Party"
     },
     {
         "ATC Track": "Time After Time",
         "ATC Artists": [
             "Chico Freeman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

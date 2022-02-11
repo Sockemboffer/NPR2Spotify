@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-05-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:49:57"
+        "Scanned Date": "2022-02-06 21:49:57",
+        "Playlist URI": "0CgHCXKnqskkxGC8alQkd5",
+        "Playlist Link": "https://open.spotify.com/playlist/0CgHCXKnqskkxGC8alQkd5",
+        "Snapshot ID": "MSxiY2RlYTYwMDQ3MDkzMGIzNWIyNDUyYzE2ZDIwNGM0NDNkYmZmM2Ri",
+        "Playlist Name": "ATC 2002-05-11 Sat All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -28,7 +32,15 @@
         "ATC Track": "Along the Salmon",
         "ATC Artists": [
             "Bob Leon"
-        ]
+        ],
+        "Result Track Name": "Along the Salmon River",
+        "Result Artist Names": [
+            "Bob Wells"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3TB6TBXf4jYkcKiOdekObL",
+        "Result Album Name": "Noroton Bay"
     },
     {
         "Title": "Missing Child",
@@ -46,7 +58,15 @@
         "ATC Track": "FRED'S LIFE",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Fred's Life",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fZL8koylBOxkSEd6Gb5H0",
+        "Result Album Name": "Charlie Hunter Trio"
     },
     {
         "Title": "Argentina",
@@ -70,7 +90,12 @@
         "ATC Track": "North by Northwest Wild Ride",
         "ATC Artists": [
             "MGM Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Math and Infants",

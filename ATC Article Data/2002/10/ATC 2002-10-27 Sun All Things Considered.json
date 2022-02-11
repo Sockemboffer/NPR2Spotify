@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:42:00"
+        "Scanned Date": "2022-02-06 21:42:00",
+        "Playlist URI": "45kHmOVlIpjEQM1oygCHtt",
+        "Playlist Link": "https://open.spotify.com/playlist/45kHmOVlIpjEQM1oygCHtt",
+        "Snapshot ID": "MSxhMWU1MDgyNzg0MmQxNzQ2MTMyNzhkOTVjMjk2YzRjYWUwZjZhNGM0",
+        "Playlist Name": "ATC 2002-10-27 Sun All Things Considered"
     },
     {
         "Title": "Moscow",
@@ -40,14 +44,31 @@
         "ATC Track": "AKU AKU",
         "ATC Artists": [
             "MARTIN DENNY"
-        ]
+        ],
+        "Result Track Name": "Aku Aku",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tF2mQHNOjzpXCrvvOWxUk",
+        "Result Album Name": "Afro-Desia"
     },
     {
         "ATC Track": "ONE MINT JULEP",
         "ATC Artists": [
             "EARL PALMER",
             "KING CURTIS"
-        ]
+        ],
+        "Result Track Name": "One Mint Julep",
+        "Result Artist Names": [
+            "King Curtis",
+            "Earl Palmer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3I78US998DWHhOk4Qz9e8l",
+        "Result Album Name": "Ultra-Lounge: Saxophobia"
     },
     {
         "Title": "Fingerprints",
@@ -65,7 +86,15 @@
         "ATC Track": "TEN-DAY INTERVAL",
         "ATC Artists": [
             "TORTOISE"
-        ]
+        ],
+        "Result Track Name": "Ten-Day Interval",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5A2vl9MadJ87kas3R3GoTm",
+        "Result Album Name": "TNT"
     },
     {
         "Title": "Oldest Market",
@@ -83,7 +112,12 @@
         "ATC Track": "Showroom Dummies [Cha-Cha-Cha]",
         "ATC Artists": [
             "Señor Coconut y Su Conjunto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cmj",

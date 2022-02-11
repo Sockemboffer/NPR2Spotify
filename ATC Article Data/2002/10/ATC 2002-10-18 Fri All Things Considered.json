@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-18",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:41:24"
+        "Scanned Date": "2022-02-06 21:41:24",
+        "Playlist URI": "51gUFoViwtlLPxepuMQIcC",
+        "Playlist Link": "https://open.spotify.com/playlist/51gUFoViwtlLPxepuMQIcC",
+        "Snapshot ID": "MSwwNWM3OTVmMTg3MGUzY2Q3NTlkZjVmYjg0MzRmMmY1NzhmNGNiZGQ5",
+        "Playlist Name": "ATC 2002-10-18 Fri All Things Considered"
     },
     {
         "Title": "Airlines' Red Ink",
@@ -28,13 +32,29 @@
         "ATC Track": "When You Wish Upon a Star",
         "ATC Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "When You Wish Upon a Star - Mono Version",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nVtVkk3HDfT4lN2qkt8id",
+        "Result Album Name": "Dave Digs Disney (Legacy Edition)"
     },
     {
         "ATC Track": "The Meaning of the Blues",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "The Meaning Of The Blues",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2THxlQ1tVQ4thd4B1SVJ8k",
+        "Result Album Name": "Miles Ahead (Expanded Edition)"
     },
     {
         "Title": "Baltimore Firebombing",
@@ -52,13 +72,29 @@
         "ATC Track": "DEVELE WAGUE",
         "ATC Artists": [
             "ALI FARKA TOURE"
-        ]
+        ],
+        "Result Track Name": "Devele Wague",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7n3X9NPTbFHtncaxsie4Rv",
+        "Result Album Name": "Red & Green"
     },
     {
         "ATC Track": "Talkatif",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "Talkatif",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1qlSlUzvKDuBlETIxwmVJF",
+        "Result Album Name": "Talkatif"
     },
     {
         "Title": "Coverage of Iraq",
@@ -82,7 +118,15 @@
         "ATC Track": "FROGSONG",
         "ATC Artists": [
             "KIM ANGELIS"
-        ]
+        ],
+        "Result Track Name": "Frogsong",
+        "Result Artist Names": [
+            "Kim Angelis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XH09VEzj9l6jRlRP9mEUS",
+        "Result Album Name": "The Messenger"
     },
     {
         "Title": "Clean Water Act Anniversary",
@@ -100,7 +144,12 @@
         "ATC Track": "LLEGUE/ GUARAREY DE PASTORITA",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pakistan and North Korea",
@@ -124,7 +173,12 @@
         "ATC Track": "EPOMINOUS, WHERE ARE YOU?",
         "ATC Artists": [
             "HORIZONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chameleon",
@@ -132,7 +186,17 @@
             "Monty Alexander",
             "Sly",
             "Robbie"
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Monty Alexander",
+            "Sly Dunbar",
+            "Robbie Shakespeare"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27X7BSftHLiPIUWDiqolKV",
+        "Result Album Name": "Monty Meets Sly And Robbie"
     },
     {
         "Title": "Florida Election Monitors",
@@ -150,13 +214,27 @@
         "ATC Track": "SABRE DANCE FROM GAYNE BALLET, SUITE NO. 1",
         "ATC Artists": [
             "WOODY PHILLIPS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Perfidia (Perfidy)",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Perfidia (Perfidy)",
+        "Result Artist Names": [
+            "Alberto Domínguez",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7lwsORAiOf3Bxy9WmgUpy3",
+        "Result Album Name": "Kronos Explorer Series"
     },
     {
         "Title": "Vatican Ruling",
@@ -174,7 +252,12 @@
         "ATC Track": "Trojan Women/Lament I (Constantinople Lyra, Ney)",
         "ATC Artists": [
             "Eleni Karaindrou"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ireland Referendum",
@@ -186,14 +269,24 @@
         "ATC Track": "Skymningspolskan",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rolando",
         "ATC Artists": [
             "Joey Altruda",
             "upright bass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Steamboat Montana",
@@ -211,6 +304,14 @@
         "ATC Track": "Ukulele Benny",
         "ATC Artists": [
             "Georgia Jumpers"
-        ]
+        ],
+        "Result Track Name": "Ukulele Benny",
+        "Result Artist Names": [
+            "Georgia Jumpers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FmgwEjd2Idfo8PQBJk8Tq",
+        "Result Album Name": "King Bennie Nawahi: Hawaiian String Virtuoso"
     }
 ]

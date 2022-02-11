@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-04-29",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:52:59"
+        "Scanned Date": "2022-02-06 21:52:59",
+        "Playlist URI": "7apNN0NIA9a06rF6VpYgDh",
+        "Playlist Link": "https://open.spotify.com/playlist/7apNN0NIA9a06rF6VpYgDh",
+        "Snapshot ID": "MSw5ZmMxNTBkMGY0ODVmNjRjNDkzMmYyZjExZDk5Y2U0YzgzOGI3OTYw",
+        "Playlist Name": "ATC 2002-04-29 Mon All Things Considered"
     },
     {
         "Title": "Middle East: Hebron",
@@ -28,13 +32,26 @@
         "ATC Track": "Souvenirs de Villengen",
         "ATC Artists": [
             "Pearl Django with David Lange"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Green Tea",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Green Tea",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Qo5nLKvPYqiTbXrM7YJjt",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Fast Track Trade Authority",
@@ -53,13 +70,23 @@
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sky Lobby",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "American RadioWorks: McDonald's New Farm",
@@ -71,13 +98,29 @@
         "ATC Track": "Rye Whiskey",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Rye Whiskey",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DhkRahb0cek1JaRBJBvLK",
+        "Result Album Name": "Cool and Unusual"
     },
     {
         "ATC Track": "A Go Go",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "A Go Go",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bcyZfaAWCN5SwJgYToxkN",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Bush - Mental Health Coverage",
@@ -101,14 +144,27 @@
         "ATC Track": "Plains of Waterloo",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Plains of Waterloo / James Connolly",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JL9T7W6C9O0dYR8TO1FLg",
+        "Result Album Name": "Bootleg USA"
     },
     {
         "ATC Track": "BRIDGE OVER TROUBLED WATERS",
         "ATC Artists": [
             "BILL CUNLIFFE",
             "FRIENDS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Danube: River of Conflict",
@@ -120,7 +176,15 @@
         "ATC Track": "Urban Dervish",
         "ATC Artists": [
             "Oojami"
-        ]
+        ],
+        "Result Track Name": "Urban Dervish",
+        "Result Artist Names": [
+            "Oojami"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nzf9U2VXt1dr4RfRj8XiE",
+        "Result Album Name": "Belly Zone - Best of Oojami"
     },
     {
         "Title": "Los Angeles Secession",
@@ -138,14 +202,27 @@
         "ATC Track": "HOLE IN THE HEAD",
         "ATC Artists": [
             "JOHN KRUTH"
-        ]
+        ],
+        "Result Track Name": "Hole In Your Head",
+        "Result Artist Names": [
+            "John Type"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2A7bfKINpK7u6mc93gz0uM",
+        "Result Album Name": "The Best of Chillout Music (55 Tracks in Italian Lounge Style)"
     },
     {
         "ATC Track": "The 10 Attacks of Dagger",
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Robots Part Two",
@@ -163,12 +240,28 @@
         "ATC Track": "Pummelled",
         "ATC Artists": [
             "Phono-Comb"
-        ]
+        ],
+        "Result Track Name": "Pummelled",
+        "Result Artist Names": [
+            "Phono-Comb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fMd0vEE2XX1VK6V0XPSQb",
+        "Result Album Name": "Fresh Gasoline"
     },
     {
         "ATC Track": "Istanboogie",
         "ATC Artists": [
             "Oojami"
-        ]
+        ],
+        "Result Track Name": "Istanboogie",
+        "Result Artist Names": [
+            "Oojami"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vM805PPSvXBKO1AbfGyEX",
+        "Result Album Name": "Bellydancing Breakbeats"
     }
 ]

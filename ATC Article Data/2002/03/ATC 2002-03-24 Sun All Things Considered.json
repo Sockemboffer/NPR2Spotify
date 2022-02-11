@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-03-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:54:19"
+        "Scanned Date": "2022-02-06 21:54:19",
+        "Playlist URI": "4cC2oycWuK6zzUbdR970fr",
+        "Playlist Link": "https://open.spotify.com/playlist/4cC2oycWuK6zzUbdR970fr",
+        "Snapshot ID": "MSxjMjc1NTQ4ZWY0Y2RlNjE5MDhiNTY2MmMzZWU2NzE3ZmFlNWE1NjY1",
+        "Playlist Name": "ATC 2002-03-24 Sun All Things Considered"
     },
     {
         "Title": "Bush in Latin America",
@@ -16,7 +20,12 @@
         "ATC Track": "Riding the Nuclear Tiger",
         "ATC Artists": [
             "Ben Allison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Smog Lawsuit",
@@ -28,7 +37,15 @@
         "ATC Track": "E. St. Louis Todalo",
         "ATC Artists": [
             "Fiddlers Five"
-        ]
+        ],
+        "Result Track Name": "E. St. Louis Todalo",
+        "Result Artist Names": [
+            "Fiddlers 4"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2loYPZSUJHtri4XJOgSLiy",
+        "Result Album Name": "Fiddlers 4"
     },
     {
         "Title": "Biotech Drugs",
@@ -52,13 +69,26 @@
         "ATC Track": "KARMACHANIC",
         "ATC Artists": [
             "JOHN KRUTH"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "POUND CAKE",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Pound Cake",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5V39sp30BWDe6wxpXKxXBw",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "Denver Priests",
@@ -88,7 +118,15 @@
         "ATC Track": "Liquid",
         "ATC Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Liquid",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wD32gfbSpnsgNpUeQy7Lx",
+        "Result Album Name": "Next"
     },
     {
         "Title": "Limos",

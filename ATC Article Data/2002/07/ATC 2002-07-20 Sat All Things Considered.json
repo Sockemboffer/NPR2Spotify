@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-07-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:46:52"
+        "Scanned Date": "2022-02-06 21:46:52",
+        "Playlist URI": "3Xiy72sb6jxHT0QupEMigK",
+        "Playlist Link": "https://open.spotify.com/playlist/3Xiy72sb6jxHT0QupEMigK",
+        "Snapshot ID": "MSwwYmNiZWFiMzljZTI2MDQ1MDBmZmVmZjU1YjhmYWMyNTQ1NmQ2N2E1",
+        "Playlist Name": "ATC 2002-07-20 Sat All Things Considered"
     },
     {
         "Title": "Retirement Blues",
@@ -22,7 +26,16 @@
         "ATC Track": "Girl on a Wire [Sexy Element Remix]",
         "ATC Artists": [
             "Swan Dive"
-        ]
+        ],
+        "Result Track Name": "Girl on a Wire - Sexy Element Remix",
+        "Result Artist Names": [
+            "Swan Dive",
+            "Gary Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46DdyqpzEFhGQXCZwLLDmW",
+        "Result Album Name": "June"
     },
     {
         "Title": "Inglewood Past & Present",
@@ -34,7 +47,12 @@
         "ATC Track": "The Common Cold",
         "ATC Artists": [
             "The Common Cold"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cockettes",
@@ -46,13 +64,26 @@
         "ATC Track": "Can't Help Lovin' That Man of Mine",
         "ATC Artists": [
             "Jim Haskins"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "THE PINK PANTHER THEME",
         "ATC Artists": [
             "HOLLYWOOD STUDIO ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "The Pink Panther Theme (from The Pink Panther)",
+        "Result Artist Names": [
+            "Hollywood Studio Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67FjyAH7J1KDYb5m7AcqCl",
+        "Result Album Name": "Academy Award Winning Soundtracks"
     },
     {
         "Title": "Nigeria Oil Protests",
@@ -64,7 +95,15 @@
         "ATC Track": "Kindred Spirits",
         "ATC Artists": [
             "Mauricio Amaya"
-        ]
+        ],
+        "Result Track Name": "Kindred Spirits",
+        "Result Artist Names": [
+            "Mauricio Amaya"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1n1FP1X993yfWx1VZLdV5z",
+        "Result Album Name": "Fields Of War And Peace"
     },
     {
         "Title": "Latino Gubernatorial Candidates",
@@ -88,7 +127,15 @@
         "ATC Track": "Wonderful World",
         "ATC Artists": [
             "Sam Cooke"
-        ]
+        ],
+        "Result Track Name": "(What A) Wonderful World",
+        "Result Artist Names": [
+            "Sam Cooke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2g2GkH3vZHk4lWzBjgQ6nY",
+        "Result Album Name": "The Man Who Invented Soul"
     },
     {
         "Title": "Castle Leslie",
@@ -100,6 +147,14 @@
         "ATC Track": "Stayin' Alive",
         "ATC Artists": [
             "Bee Gees"
-        ]
+        ],
+        "Result Track Name": "Stayin Alive",
+        "Result Artist Names": [
+            "Bee Gees"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ubvP9oKmxLUVq506fgLhk",
+        "Result Album Name": "How Can You Mend A Broken Heart"
     }
 ]

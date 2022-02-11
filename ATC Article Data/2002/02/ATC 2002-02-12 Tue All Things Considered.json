@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-02-12",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 21:55:18"
+        "Scanned Date": "2022-02-06 21:55:18",
+        "Playlist URI": "6dgeJUdacF5cZBfUnaLg2I",
+        "Playlist Link": "https://open.spotify.com/playlist/6dgeJUdacF5cZBfUnaLg2I",
+        "Snapshot ID": "MSwxYzMwMWEwMTQyZTAzZTg2YTIwYTUwZmI1NTkyZDBmMmY2MDk0ZWM0",
+        "Playlist Name": "ATC 2002-02-12 Tue All Things Considered"
     },
     {
         "Title": "Terrorism Alert",
@@ -28,13 +32,29 @@
         "ATC Track": "Lost Lullaby",
         "ATC Artists": [
             "Harvey Reid"
-        ]
+        ],
+        "Result Track Name": "Lost Lullaby",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7plz490QDjVWMikyMfxqjX",
+        "Result Album Name": "The Solo Guitar Project, Vol. 2"
     },
     {
         "ATC Track": "Touchin' on Something",
         "ATC Artists": [
             "Q-Burns Abstract Message"
-        ]
+        ],
+        "Result Track Name": "Touchin' On Something",
+        "Result Artist Names": [
+            "Q-Burns Abstract Message"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3e6vDahJXvJyz7hNBirkF6",
+        "Result Album Name": "Oeuvre"
     },
     {
         "Title": "Ameridebt",
@@ -52,13 +72,29 @@
         "ATC Track": "Jeep on 35",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Jeep On 35",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TtS1V6I12MzJ1doK61e5K",
+        "Result Album Name": "A Go Go"
     },
     {
         "ATC Track": "The Perfect Crime",
         "ATC Artists": [
             "Apollo 440"
-        ]
+        ],
+        "Result Track Name": "The Perfect Crime - Instrumental Version",
+        "Result Artist Names": [
+            "Apollo 440"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CPvnwccfrz4Hnxo7RxY8i",
+        "Result Album Name": "Gettin' High On Your Own Supply"
     },
     {
         "Title": "Hormone Therapy",
@@ -82,13 +118,29 @@
         "ATC Track": "Racing the Storm",
         "ATC Artists": [
             "Harvey Reid"
-        ]
+        ],
+        "Result Track Name": "Racing the Storm",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27gVrMH3pFnx17XATRfZbN",
+        "Result Album Name": "The Solo Guitar Project, Vol. 1"
     },
     {
         "ATC Track": "Iridian",
         "ATC Artists": [
             "Dhol Foundation"
-        ]
+        ],
+        "Result Track Name": "Iridian",
+        "Result Artist Names": [
+            "The Dhol Foundation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JYBNSvQjDD4ccYEJhqMBg",
+        "Result Album Name": "Big Drum: Small World"
     },
     {
         "Title": "International Aid Money",
@@ -106,13 +158,29 @@
         "ATC Track": "Drummer's Reel",
         "ATC Artists": [
             "Dhol Foundation"
-        ]
+        ],
+        "Result Track Name": "Drummer's Reel",
+        "Result Artist Names": [
+            "The Dhol Foundation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7k5kIlwV7M5PycnIqwGw0R",
+        "Result Album Name": "Big Drum: Small World"
     },
     {
         "ATC Track": "Don't Mess With My Toot Toot",
         "ATC Artists": [
             "Zydeco All Stars"
-        ]
+        ],
+        "Result Track Name": "Don't Mess With My Toot Toot",
+        "Result Artist Names": [
+            "Zydeco All-Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LlesNRWDFI4HPX1n3dQT8",
+        "Result Album Name": "Best of Zydeco Instrumentals"
     },
     {
         "Title": "Milosevic Trial",
@@ -137,7 +205,12 @@
         "ATC Artists": [
             "Michael Hester",
             "Marie Sierra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Milosevic Retrospective",
@@ -149,7 +222,15 @@
         "ATC Track": "Toast",
         "ATC Artists": [
             "Q-Burns Abstract Message"
-        ]
+        ],
+        "Result Track Name": "Toast",
+        "Result Artist Names": [
+            "Q-Burns Abstract Message"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mUK49azXJyEkCfm9SuMDb",
+        "Result Album Name": "Oeuvre"
     },
     {
         "Title": "The Fall of Enron",
@@ -173,7 +254,15 @@
         "ATC Track": "Chank",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Chank",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xCGbO3PTLLivhIkt47d0q",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Kenyan Skiers",
@@ -191,6 +280,14 @@
         "ATC Track": "Smilin' Jones",
         "ATC Artists": [
             "Bill Frisell Band"
-        ]
+        ],
+        "Result Track Name": "Smilin' Jones",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5QurFwdIzLTizHdk2vhaP2",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     }
 ]

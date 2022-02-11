@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-12-18",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:37:39"
+        "Scanned Date": "2022-02-06 21:37:39",
+        "Playlist URI": "6SgDz6feBVdVoIT28pPOxK",
+        "Playlist Link": "https://open.spotify.com/playlist/6SgDz6feBVdVoIT28pPOxK",
+        "Snapshot ID": "MSxjOTI4ODg2MDM5ZDAzYWRjNmNlNzI0NjI1MDIwN2FjYzE4NGY5Y2My",
+        "Playlist Name": "ATC 2002-12-18 Wed All Things Considered"
     },
     {
         "Title": "Iraq",
@@ -28,13 +32,29 @@
         "ATC Track": "Elm Street",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Elm Street",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tZq2HQnSYIOgQ6WlCjYjG",
+        "Result Album Name": "elm street"
     },
     {
         "ATC Track": "Falling Pianos",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Falling Pianos",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tqy8l0ZESiYaO5uU6n5lc",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "FTC Unveils National 'No Call' List for Telemarketers",
@@ -58,7 +78,15 @@
         "ATC Track": "Blue Christmas",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Blue Christmas",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1M8gQofu67kL0cnc7zpuOP",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "Title": "From 'Radio Diaries,' an Oral History of the WASPs",
@@ -88,13 +116,33 @@
         "ATC Track": "A Momentary Change of Heart",
         "ATC Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "A Momentary Change Of Heart",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17s37ImM26b00KbqcF27PF",
+        "Result Album Name": "A Windham Hill Retrospective"
     },
     {
         "ATC Track": "Benign",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "The Decline of an American String Quartet: Improvisations: Benign",
+        "Result Artist Names": [
+            "Darol Anger",
+            "David Balakrishnan",
+            "Irene Sazer",
+            "Mark Summer",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0INuqAgJGzsJUEf3mujo6A",
+        "Result Album Name": "Turtle Island String Quartet"
     },
     {
         "Title": "S. Korean Elections",
@@ -112,13 +160,26 @@
         "ATC Track": "Little Niles",
         "ATC Artists": [
             "Ellis Marsalis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blue Christmas",
         "ATC Artists": [
             "New Black Eagle Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Blue Christmas",
+        "Result Artist Names": [
+            "New Black Eagle Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1M8gQofu67kL0cnc7zpuOP",
+        "Result Album Name": "Christmas With The . . . New Black Eagle Jazz Band"
     },
     {
         "Title": "Halliburton Announces Asbestos Settlement",
@@ -142,13 +203,29 @@
         "ATC Track": "In the Deep Shade",
         "ATC Artists": [
             "The Frames"
-        ]
+        ],
+        "Result Track Name": "In The Deep Shade",
+        "Result Artist Names": [
+            "The Frames"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AmmBwFS0DLRm70KzJtmvO",
+        "Result Album Name": "For The Birds"
     },
     {
         "ATC Track": "Chamber of Commerce",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Chamber Of Commerce",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nW8K8P85seETxVzV8lvmQ",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "Disney Creates A Star?",
@@ -166,6 +243,11 @@
         "ATC Track": "Alone Together",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

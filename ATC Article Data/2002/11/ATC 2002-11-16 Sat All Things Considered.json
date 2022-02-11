@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-11-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:39:22"
+        "Scanned Date": "2022-02-06 21:39:22",
+        "Playlist URI": "4ILvP1TORAc3GcEh0XCUwj",
+        "Playlist Link": "https://open.spotify.com/playlist/4ILvP1TORAc3GcEh0XCUwj",
+        "Snapshot ID": "MSw5ZDI5OTg2MWM0OWI1NjRhMDczMmU4ZWFjNDlhMDdkNGE1YzI4MGEw",
+        "Playlist Name": "ATC 2002-11-16 Sat All Things Considered"
     },
     {
         "Title": "Israelis Move on Hebron",
@@ -28,7 +32,12 @@
         "ATC Track": "I've Been Searchin'",
         "ATC Artists": [
             "Will Danforth"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tennis Becomes Political Game in Uzbekistan",
@@ -40,7 +49,12 @@
         "ATC Track": "The Little Children",
         "ATC Artists": [
             "David Axelrod"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nudes for Peace",
@@ -52,7 +66,12 @@
         "ATC Track": "Thursday Waltz",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Thwarting Terrorism Through 'Information Awareness'",
@@ -76,7 +95,15 @@
         "ATC Track": "She Will Be Loved",
         "ATC Artists": [
             "Maroon 5"
-        ]
+        ],
+        "Result Track Name": "She Will Be Loved - Radio Mix",
+        "Result Artist Names": [
+            "Maroon 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4llK75pXNWZz6KAho2Gp16",
+        "Result Album Name": "Songs About Jane: 10th Anniversary Edition"
     },
     {
         "Title": "Funk Brothers: Motown's Secret Weapon",
@@ -88,6 +115,14 @@
         "ATC Track": "Still Water (love)",
         "ATC Artists": [
             "Four Tops"
-        ]
+        ],
+        "Result Track Name": "Still Water (Love)",
+        "Result Artist Names": [
+            "Four Tops"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5feUxmo1qphxusEo1N9GRt",
+        "Result Album Name": "Still Waters Run Deep"
     }
 ]

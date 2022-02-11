@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-02-21",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:55:49"
+        "Scanned Date": "2022-02-06 21:55:49",
+        "Playlist URI": "0U3qOkfOUoIMk1HYFvoMQA",
+        "Playlist Link": "https://open.spotify.com/playlist/0U3qOkfOUoIMk1HYFvoMQA",
+        "Snapshot ID": "MSxlNTE3YzU4OWY2NmMwOWEyZTk0NDIzNzM3NTZjYTkzMWMwZDRjNTg2",
+        "Playlist Name": "ATC 2002-02-21 Thu All Things Considered"
     },
     {
         "Title": "The Mammogram Debate",
@@ -28,7 +32,15 @@
         "ATC Track": "La Sagrada Familia",
         "ATC Artists": [
             "Michael Manring"
-        ]
+        ],
+        "Result Track Name": "La Sagrada Familia",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Izb4kwLrsOBmSOJNaY4vW",
+        "Result Album Name": "The Book of Flame"
     },
     {
         "Title": "Poll: Enron, Taxes and Government",
@@ -46,7 +58,15 @@
         "ATC Track": "WOODPECKER",
         "ATC Artists": [
             "THE AFRICAN JAZZ PIONEERS"
-        ]
+        ],
+        "Result Track Name": "Woodpecker (Live)",
+        "Result Artist Names": [
+            "African Jazz Pioneers"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:6MmgX275rhakY7cWGGyWba",
+        "Result Album Name": "Live at the Montreux Jazz Festival"
     },
     {
         "Title": "Berezovsky's Documentary",
@@ -64,14 +84,27 @@
         "ATC Track": "Where Do We Go?",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Where Do We Go?",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xWBFIIoANAH0omal0rcmi",
+        "Result Album Name": "Valentine"
     },
     {
         "ATC Track": "Letters: deadroll",
         "ATC Artists": [
             "Wycliffe Gordon",
             "Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters",
@@ -90,13 +123,29 @@
         "ATC Artists": [
             "Sir Charles Maskerras",
             "royal Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "All Blues",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+        "Result Artist Names": [
+            "Miles Davis",
+            "John Coltrane",
+            "Cannonball Adderley",
+            "Bill Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5o3DSHw1ORhM3lWxqGRvEf",
+        "Result Album Name": "Kind Of Blue (Legacy Edition)"
     },
     {
         "Title": "Daniel Pearl",
@@ -133,7 +182,12 @@
         "ATC Artists": [
             "Hasidic New Wave",
             "Yakar Rhythms"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lynx Conservation Under Fire",
@@ -169,6 +223,14 @@
         "ATC Track": "Six Pack",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "Six Pack",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kyaFTKrT7ZukXj1irYqgp",
+        "Result Album Name": "Standards"
     }
 ]

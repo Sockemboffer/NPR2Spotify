@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-07-15",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:46:36"
+        "Scanned Date": "2022-02-06 21:46:36",
+        "Playlist URI": "0lG0FlBOdIUoomjmgIoGyL",
+        "Playlist Link": "https://open.spotify.com/playlist/0lG0FlBOdIUoomjmgIoGyL",
+        "Snapshot ID": "MSxhMDJmMmZkZmFmZDg5N2Q0MjdkYWE3NGFkMjU4MTkxNThiZmI5OGFh",
+        "Playlist Name": "ATC 2002-07-15 Mon All Things Considered"
     },
     {
         "Title": "Lindh Guilty Plea",
@@ -29,7 +33,12 @@
         "ATC Artists": [
             "John Coleman",
             "National Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sat",
@@ -47,7 +56,15 @@
         "ATC Track": "Lanikele",
         "ATC Artists": [
             "Jim West"
-        ]
+        ],
+        "Result Track Name": "Lanikele",
+        "Result Artist Names": [
+            "Jim West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14FrMjMFnqCEBhUhbFUswN",
+        "Result Album Name": "Coconut Hat"
     },
     {
         "Title": "Pfizer",
@@ -71,13 +88,26 @@
         "ATC Track": "benjamin's lullaby (instrumental)",
         "ATC Artists": [
             "THE FAR CRY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "River of Man",
         "ATC Artists": [
             "Esteban"
-        ]
+        ],
+        "Result Track Name": "River of Man",
+        "Result Artist Names": [
+            "Esteban"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qdB1KbTfsY1vHNsSV6qef",
+        "Result Album Name": "Duende"
     },
     {
         "Title": "Guts and Glory",
@@ -89,7 +119,15 @@
         "ATC Track": "Happy Meeting in Glory",
         "ATC Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Happy Meeting in Glory",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EsyxJAb0W4H6gBfbSC8Se",
+        "Result Album Name": "Jazz"
     },
     {
         "Title": "Market",
@@ -119,14 +157,30 @@
         "ATC Track": "Dance of the Inhabitants of the Invisible City of Bladensburg",
         "ATC Artists": [
             "John Fahey"
-        ]
+        ],
+        "Result Track Name": "Dance Of The Inhabitants Of The Invisible City Of Bladensburg",
+        "Result Artist Names": [
+            "John Fahey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2duVaj2n1M6jmsbPUr74rp",
+        "Result Album Name": "The Yellow Princess"
     },
     {
         "ATC Track": "Mayfest Junction (Cone's Place)",
         "ATC Artists": [
             "Wycliffe Gordon",
             "Ronald Westray"
-        ]
+        ],
+        "Result Track Name": "Mayfest Junction (Cone's Place)",
+        "Result Artist Names": [
+            "Wycliffe Gordon & Ronald Westray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0TfbjqQojrbWyHKXonjP5e",
+        "Result Album Name": "Bone Structure"
     },
     {
         "Title": "Traficant",
@@ -144,14 +198,30 @@
         "ATC Track": "Long Cool & Bubbly",
         "ATC Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "Long Cool & Bubbly",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1R7t4fria7ZtUtFbRRbXSl",
+        "Result Album Name": "Dad Man Cat"
     },
     {
         "ATC Track": "When We Go",
         "ATC Artists": [
             "Bill Frisell",
             "Jerome Harris et. al."
-        ]
+        ],
+        "Result Track Name": "When We Go",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7br4gkez4Q1NAelarMbjd6",
+        "Result Album Name": "Works"
     },
     {
         "Title": "Coke Changes",
@@ -175,13 +245,27 @@
         "ATC Track": "Stélé: IV. Web",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Stélé: IV. Web",
+        "Result Artist Names": [
+            "Phillip Houghton",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71Ms3irlm2TmVHi4Tlhwm3",
+        "Result Album Name": "The Guitarist"
     },
     {
         "ATC Track": "overture (instrumental)",
         "ATC Artists": [
             "THE FAR CRY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hacker Convention",
@@ -199,6 +283,14 @@
         "ATC Track": "Brains and Eggs",
         "ATC Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Brains & Eggs",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1klwwp4MfVQoBcVqmF3Z5q",
+        "Result Album Name": "¡Viva!"
     }
 ]

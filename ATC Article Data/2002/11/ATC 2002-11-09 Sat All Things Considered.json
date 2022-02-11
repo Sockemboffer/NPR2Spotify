@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-11-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:38:57"
+        "Scanned Date": "2022-02-06 21:38:57",
+        "Playlist URI": "38aZ9wr8gM9SFJngr4PWcB",
+        "Playlist Link": "https://open.spotify.com/playlist/38aZ9wr8gM9SFJngr4PWcB",
+        "Snapshot ID": "MSw1OTJlY2ZiMDk5MzljNWNhNGUxMWQ1ZThjYTc5NmYzOTkyNzBkN2Fl",
+        "Playlist Name": "ATC 2002-11-09 Sat All Things Considered"
     },
     {
         "Title": "Iraq Studying U.N. Resolution",
@@ -28,7 +32,15 @@
         "ATC Track": "GRACIAS PEPE",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Gracias Pepé",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fHdRUXFFcoaccwouCtUgS",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Black Theater Pioneer Carroll Remembered",
@@ -40,7 +52,12 @@
         "ATC Track": "Memory II Var. II",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Anti-War Protest in Italy Sparks Huge Turnout",
@@ -58,7 +75,15 @@
         "ATC Track": "TEISCO REDENTOR",
         "ATC Artists": [
             "TEISCO DEL REY"
-        ]
+        ],
+        "Result Track Name": "Teisco Redentor",
+        "Result Artist Names": [
+            "Teisco Del Rey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46fTUSfoWBNtkfUmTYUlrM",
+        "Result Album Name": "The Many Moods Of"
     },
     {
         "Title": "Incoming Michigan Governor Set for Budget Battles",
@@ -70,7 +95,15 @@
         "ATC Track": "Tango Mendez",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Tango Mendez",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ZcOQdwm8GlV23D4I4h9ZP",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     },
     {
         "Title": "French Sex Industry Fights Proposed TV Ban",
@@ -94,6 +127,11 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

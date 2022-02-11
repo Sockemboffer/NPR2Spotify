@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-05-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:50:40"
+        "Scanned Date": "2022-02-06 21:50:40",
+        "Playlist URI": "6prt2EZ0OVS9e9Wko3R8m4",
+        "Playlist Link": "https://open.spotify.com/playlist/6prt2EZ0OVS9e9Wko3R8m4",
+        "Snapshot ID": "MSwwY2QyY2NiNjdmZmFmYWYyYWU4OWRlZTFlM2MwZTVhZmRjMTEwZjFl",
+        "Playlist Name": "ATC 2002-05-19 Sun All Things Considered"
     },
     {
         "Title": "Attack Warning",
@@ -46,7 +50,15 @@
         "ATC Track": "Groove Holmes",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Groove Holmes",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79RU3IJza68fW10JHbDfhb",
+        "Result Album Name": "The In Sound From Way Out!"
     },
     {
         "Title": "Moscow",
@@ -82,6 +94,14 @@
         "ATC Track": "PAS DE DEUX",
         "ATC Artists": [
             "CRAIG URQUHART"
-        ]
+        ],
+        "Result Track Name": "Pas de Deux",
+        "Result Artist Names": [
+            "Craig Urquhart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SGDswvVTS6J6PEA1r3nj8",
+        "Result Album Name": "Songs Without Words"
     }
 ]

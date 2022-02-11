@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-08-03",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:44:04"
+        "Scanned Date": "2022-02-06 21:44:04",
+        "Playlist URI": "3LIlOiXfukE5k10UfTH2wO",
+        "Playlist Link": "https://open.spotify.com/playlist/3LIlOiXfukE5k10UfTH2wO",
+        "Snapshot ID": "MSw5Nzg2MTA1MWU2ZmI2ZmIwNmQyNjQ1ZWVkMjE4MGY4NzNjYjhkNTFi",
+        "Playlist Name": "ATC 2002-08-03 Sat All Things Considered"
     },
     {
         "Title": "West Nile Virus",
@@ -16,7 +20,15 @@
         "ATC Track": "Earthbound",
         "ATC Artists": [
             "Scott Helland"
-        ]
+        ],
+        "Result Track Name": "Earthbound",
+        "Result Artist Names": [
+            "Scott Helland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1GJVbpBmOJtaUQPSr5e2uq",
+        "Result Album Name": "Earthbound"
     },
     {
         "Title": "Iraq, Why Now?",
@@ -40,7 +52,15 @@
         "ATC Track": "Blackberry Forest",
         "ATC Artists": [
             "Scott Helland"
-        ]
+        ],
+        "Result Track Name": "Blackberry Forest",
+        "Result Artist Names": [
+            "Scott Helland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11JPF3FZYTiBxCPxfvpnPD",
+        "Result Album Name": "Earthbound"
     },
     {
         "Title": "Blueberry Board",
@@ -52,13 +72,29 @@
         "ATC Track": "Blueberry Hill",
         "ATC Artists": [
             "Fats Domino"
-        ]
+        ],
+        "Result Track Name": "Blueberry Hill",
+        "Result Artist Names": [
+            "Fats Domino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06PdA0DLgF4BfAeUNZAbFG",
+        "Result Album Name": "Fats Domino Swings"
     },
     {
         "ATC Track": "Split Pea Personality Soup",
         "ATC Artists": [
             "Scott Helland"
-        ]
+        ],
+        "Result Track Name": "Split Pea Personality Soup",
+        "Result Artist Names": [
+            "Scott Helland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2i89vnK19RTmeD8G9CB7iV",
+        "Result Album Name": "Earthbound"
     },
     {
         "Title": "Hot Tracks",
@@ -70,7 +106,12 @@
         "ATC Track": "Iza Indray Izany?",
         "ATC Artists": [
             "Johnny"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Laughing Clubs",
@@ -88,6 +129,11 @@
         "ATC Track": "Tie a Yellow Ribbon Round the Ole Oak Tree",
         "ATC Artists": [
             "Lawrence Welk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-26",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:48:55"
+        "Scanned Date": "2022-02-06 21:48:55",
+        "Playlist URI": "1zPWrZAb8CrQDyCx0yR1D1",
+        "Playlist Link": "https://open.spotify.com/playlist/1zPWrZAb8CrQDyCx0yR1D1",
+        "Snapshot ID": "MSw5YmVmODE5YjU3MjFhMDZiY2RhYmQ1NTVlNDI2YmI1MTI2NjQ4NjJi",
+        "Playlist Name": "ATC 2002-06-26 Wed All Things Considered"
     },
     {
         "Title": "WorldCom",
@@ -28,7 +32,15 @@
         "ATC Track": "Take Five",
         "ATC Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "Take Five",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YQWosTIljIvxAgHWTp7KP",
+        "Result Album Name": "Time Out"
     },
     {
         "Title": "Telecom Industry",
@@ -47,13 +59,29 @@
         "ATC Artists": [
             "Frank Kimbrough",
             "Joe Locke"
-        ]
+        ],
+        "Result Track Name": "727",
+        "Result Artist Names": [
+            "Frank Kimbrough"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7s72X3mujCRvMCIQm4KAbc",
+        "Result Album Name": "Noumena"
     },
     {
         "ATC Track": "the stevedore's serenade",
         "ATC Artists": [
             "james carter"
-        ]
+        ],
+        "Result Track Name": "The Stevedore's Serenade",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NJyh4bMvt0kLHcnVo8Rzo",
+        "Result Album Name": "The Real Quietstorm"
     },
     {
         "Title": "Pakistan - Gun Battle",
@@ -77,13 +105,29 @@
         "ATC Track": "Whitey",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "Whitey",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5H5VRmtakXcxOBPEIopCB9",
+        "Result Album Name": "Tools in the Dryer"
     },
     {
         "ATC Track": "Over the River",
         "ATC Artists": [
             "The High Llamas"
-        ]
+        ],
+        "Result Track Name": "Over The River",
+        "Result Artist Names": [
+            "The High Llamas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20LMMAOJIjhNK2AjrO61cd",
+        "Result Album Name": "Cold And Bouncy"
     },
     {
         "Title": "'River Deep Mountain High'",
@@ -95,7 +139,16 @@
         "ATC Track": "PAINT IT BLACK",
         "ATC Artists": [
             "BROTHERS OF THE BALADI"
-        ]
+        ],
+        "Result Track Name": "Paint It Black - Rolling Stones in the Middle East",
+        "Result Artist Names": [
+            "Brothers Of The Baladi",
+            "Tariq Banzi, Stephen Skaggs & Michael Beach"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SMZwRe3vJlIBDlvrkdmwn",
+        "Result Album Name": "Eye On The World"
     },
     {
         "Title": "Palestinian Authority: January Elections",
@@ -119,7 +172,15 @@
         "ATC Track": "Highlanders' Farewell/the Old Shoemaker/dunbar",
         "ATC Artists": [
             "Mark Graham"
-        ]
+        ],
+        "Result Track Name": "Highlander's Farewell/The Old Shoemaker/dunbar",
+        "Result Artist Names": [
+            "Mark Graham & Orville Johnson"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1LGxoWE0TKtXPQ419mUEwX",
+        "Result Album Name": "The Kings of Mongrel Folk"
     },
     {
         "Title": "Pledge of Allegiance",
@@ -137,13 +198,26 @@
         "ATC Track": "FLT",
         "ATC Artists": [
             "Pullman"
-        ]
+        ],
+        "Result Track Name": "Flt",
+        "Result Artist Names": [
+            "Pullman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZOYH86i0eP41NOUjuDiug",
+        "Result Album Name": "Viewfinder"
     },
     {
         "ATC Track": "BLUES IN F",
         "ATC Artists": [
             "SONNY DUNHAM SEXTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Campaign Finance",
@@ -167,7 +241,12 @@
         "ATC Track": "Shuman's Leap",
         "ATC Artists": [
             "Shooglenifty"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Firehouse",
@@ -179,12 +258,25 @@
         "ATC Track": "Or Thousands of Prizes",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "Or Thousands of Prizes",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59JoLgUX4Nwec9BjBr6RJQ",
+        "Result Album Name": "Rows of Teeth"
     },
     {
         "ATC Track": "Peachfuzz (version)",
         "ATC Artists": [
             "Michelle Shocked"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

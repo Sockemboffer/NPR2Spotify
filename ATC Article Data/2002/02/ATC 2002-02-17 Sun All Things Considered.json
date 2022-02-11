@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-02-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:55:35"
+        "Scanned Date": "2022-02-06 21:55:35",
+        "Playlist URI": "2f8XfT7PfOU16YqxlfOY6g",
+        "Playlist Link": "https://open.spotify.com/playlist/2f8XfT7PfOU16YqxlfOY6g",
+        "Snapshot ID": "MSxkY2JlOWIwN2ViNDc1ZTU2ODE3ZTYyMWU0NmJiYTFhNWMzMjM3YzFh",
+        "Playlist Name": "ATC 2002-02-17 Sun All Things Considered"
     },
     {
         "Title": "Noble, Ga.",
@@ -16,7 +20,15 @@
         "ATC Track": "El Puente",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": "El Puente",
+        "Result Artist Names": [
+            "Robin Nolan Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rjfMIua2oTgOJaU1kMKkF",
+        "Result Album Name": "Mediterranean Blues"
     },
     {
         "Title": "Bush Trip",
@@ -34,7 +46,12 @@
         "ATC Track": "Souvenir de Porto Rico, marche des gibaros for piano, Op. 31, D. 147 (RO 250)",
         "ATC Artists": [
             "The Nuclear Whales Saxophone Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lincoln Speech",
@@ -52,13 +69,26 @@
         "ATC Track": "Lincoln Grand March",
         "ATC Artists": [
             "The Chesnut Brass Company and Friends"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "NUAGES",
         "ATC Artists": [
             "WASHINGTON SAXOPHONE QUARTET"
-        ]
+        ],
+        "Result Track Name": "Bozza: Nuages",
+        "Result Artist Names": [
+            "Washington Saxophone Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0GkPsXKmt7GZX28TGtSFTz",
+        "Result Album Name": "To China and Bach"
     },
     {
         "Title": "Small Biz",
@@ -88,6 +118,14 @@
         "ATC Track": "Spy Polka",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Spy Polka",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46B4Gp7PuuyzxSKZysy79y",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     }
 ]

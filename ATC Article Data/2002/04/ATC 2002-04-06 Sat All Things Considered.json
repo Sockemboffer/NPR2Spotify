@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-04-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:51:43"
+        "Scanned Date": "2022-02-06 21:51:43",
+        "Playlist URI": "5YQdVgQE0gBz5qjZjbn03d",
+        "Playlist Link": "https://open.spotify.com/playlist/5YQdVgQE0gBz5qjZjbn03d",
+        "Snapshot ID": "MSw4Y2EwZTNiNzk2YTE5OGNiMDZjOGEyOThlZjQzYWIwNzRlOWM3ZDJh",
+        "Playlist Name": "ATC 2002-04-06 Sat All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -28,7 +32,15 @@
         "ATC Track": "Six Plus One",
         "ATC Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "Six Plus One",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qRGFzyuxMIdqYLV4NnX9C",
+        "Result Album Name": "Dad Man Cat"
     },
     {
         "Title": "Toxic Computer Trade",
@@ -40,7 +52,15 @@
         "ATC Track": "A Go Go",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "A Go Go",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bcyZfaAWCN5SwJgYToxkN",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Newhart",
@@ -52,13 +72,26 @@
         "ATC Track": "Home to Emily: Theme From the Bob Newhart Show",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chank",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Chank",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xCGbO3PTLLivhIkt47d0q",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Three Strikes",
@@ -70,7 +103,12 @@
         "ATC Track": "Souvenir de Porto Rico, marche des gibaros for piano, Op. 31, D. 147 (RO 250)",
         "ATC Artists": [
             "The Nuclear Whales Saxophone Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'The Osbournes'",
@@ -94,6 +132,16 @@
         "ATC Track": "Street Culture",
         "ATC Artists": [
             "Paul Tobey"
-        ]
+        ],
+        "Result Track Name": "Street Culture",
+        "Result Artist Names": [
+            "Paul Tobey",
+            "Mike Murley",
+            "Terry Clarke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64hxM3tpbNTl3spvn3wEKs",
+        "Result Album Name": "Street Culture"
     }
 ]

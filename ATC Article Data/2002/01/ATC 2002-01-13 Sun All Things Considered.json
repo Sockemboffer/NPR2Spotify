@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-01-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:56:50"
+        "Scanned Date": "2022-02-06 21:56:50",
+        "Playlist URI": "5AV9DZlD5I3tTYDjcWOSyx",
+        "Playlist Link": "https://open.spotify.com/playlist/5AV9DZlD5I3tTYDjcWOSyx",
+        "Snapshot ID": "MSxhM2UwMTQ5YWNlZDkyMmVkYTI2NjRlODlkOTA0ZDQ2ODdhNWFhMzdl",
+        "Playlist Name": "ATC 2002-01-13 Sun All Things Considered"
     },
     {
         "Title": "Afghanistan",
@@ -28,7 +32,15 @@
         "ATC Track": "The Streets of New Delhi",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Streets Of New Delhi",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T3sta4Tbq1GBPrHRDBOWS",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Anti-Smoking",
@@ -40,7 +52,15 @@
         "ATC Track": "She Just Wants to Be",
         "ATC Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "She Just Wants To Be",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VRTjdQuxEJXnfLIwLGfC4",
+        "Result Album Name": "Reveal"
     },
     {
         "Title": "'Brotherhood of the Wolf'",
@@ -52,20 +72,42 @@
         "ATC Track": "John's Book of Alleged Dances: Ständchen: The Little Serenade",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "John's Book Of Alleged Dances - Standchen: The Little Serenade",
+        "Result Artist Names": [
+            "John Adams",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 0.9,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:33SQeQzuX2bHUHwbR9X1pX",
+        "Result Album Name": "25 Years"
     },
     {
         "ATC Track": "Snibor",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "SNIBOR",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3re3wNqmQqEQdhUGAWQpD5",
+        "Result Album Name": "Bug Music"
     },
     {
         "ATC Track": "Gar Mujhé Iskã Yaqin Ho Meré Hamdam Meré Ãg",
         "ATC Artists": [
             "Sanjeev",
             "Karuna"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Olympic Torch",
@@ -83,7 +125,15 @@
         "ATC Track": "How to Fight Loneliness",
         "ATC Artists": [
             "Wilco"
-        ]
+        ],
+        "Result Track Name": "How to Fight Loneliness",
+        "Result Artist Names": [
+            "Wilco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CsMuJeMzRqNgS7G0fo1Gv",
+        "Result Album Name": "Summerteeth"
     },
     {
         "Title": "'Bombay Time'",
@@ -102,6 +152,11 @@
         "ATC Artists": [
             "Sanjeev",
             "Karuna"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

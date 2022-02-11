@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:47:54"
+        "Scanned Date": "2022-02-06 21:47:54",
+        "Playlist URI": "1HZEDJdZ9LurYCjGATqaiW",
+        "Playlist Link": "https://open.spotify.com/playlist/1HZEDJdZ9LurYCjGATqaiW",
+        "Snapshot ID": "MSw2NjkzNGMwZTVkZjkxY2FmYjkzYjVkZTVjOTA4ZDUyZjE1OTQxYzE2",
+        "Playlist Name": "ATC 2002-06-09 Sun All Things Considered"
     },
     {
         "Title": "Palestinian Shuffle",
@@ -22,7 +26,15 @@
         "ATC Track": "Street Car",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Street Car",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7q4l4P4bdBkqpyXM64Dls3",
+        "Result Album Name": "Skyscraper National Park"
     },
     {
         "Title": "Catholic Abuse Survey",
@@ -35,7 +47,16 @@
         "ATC Artists": [
             "Neneh Cherry",
             "Speech"
-        ]
+        ],
+        "Result Track Name": "Braided Hair",
+        "Result Artist Names": [
+            "Speech",
+            "Neneh Cherry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43ievcG8mUfVBVn5OJkTrC",
+        "Result Album Name": "1 Giant Leap"
     },
     {
         "Title": "Inner Ear",
@@ -47,7 +68,15 @@
         "ATC Track": "Sometime Ago",
         "ATC Artists": [
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": "Sometime Ago / La Fiesta",
+        "Result Artist Names": [
+            "Chick Corea"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5usfjkANiQkilbhmelXPh2",
+        "Result Album Name": "Return To Forever"
     },
     {
         "Title": "French Elections",
@@ -71,7 +100,15 @@
         "ATC Track": "Lookout",
         "ATC Artists": [
             "Larry Goldings Trio"
-        ]
+        ],
+        "Result Track Name": "Lookout",
+        "Result Artist Names": [
+            "Larry Goldings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:7ATpPsWCyWI1duPzxvHqDT",
+        "Result Album Name": "Sweet Science"
     },
     {
         "Title": "State Literature",
@@ -83,7 +120,15 @@
         "ATC Track": "Somebody Else's Favorite Song",
         "ATC Artists": [
             "The Baldwin Brothers"
-        ]
+        ],
+        "Result Track Name": "Somebody Else's Favorite Song",
+        "Result Artist Names": [
+            "The Baldwin Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2W7dZDhskBQw9zD2jXOSvz",
+        "Result Album Name": "Cooking With Lasers"
     },
     {
         "Title": "New Mexico Isotopes",
@@ -95,6 +140,14 @@
         "ATC Track": "Love Is Just Around the Corner",
         "ATC Artists": [
             "Jackie Davis"
-        ]
+        ],
+        "Result Track Name": "Love Is Just Around The Corner - Remastered",
+        "Result Artist Names": [
+            "Jackie Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rxyiuwAQghPSyQEebdRR5",
+        "Result Album Name": "Ultra-Lounge: Organs In Orbit"
     }
 ]

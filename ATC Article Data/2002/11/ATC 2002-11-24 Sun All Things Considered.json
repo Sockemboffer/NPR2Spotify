@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-11-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:39:49"
+        "Scanned Date": "2022-02-06 21:39:49",
+        "Playlist URI": "6AJ5Svwgev27FusaHdRTKU",
+        "Playlist Link": "https://open.spotify.com/playlist/6AJ5Svwgev27FusaHdRTKU",
+        "Snapshot ID": "MSwwN2UxOWJiMWVjMWI2NGJlYjI1NWY5YTI2Mjc5ZjIwNGUyY2IwZjJl",
+        "Playlist Name": "ATC 2002-11-24 Sun All Things Considered"
     },
     {
         "Title": "Dock Dispute Settlement",
@@ -28,7 +32,15 @@
         "ATC Track": "Discretion Grove",
         "ATC Artists": [
             "Stephen Malkmus"
-        ]
+        ],
+        "Result Track Name": "Discretion Grove",
+        "Result Artist Names": [
+            "Stephen Malkmus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gjpA2R1MBgZKyB7e4SwWe",
+        "Result Album Name": "Stephen Malkmus"
     },
     {
         "Title": "Boot Camp For Journalists",
@@ -46,13 +58,23 @@
         "ATC Track": "Neon Lights [Cha-Cha-Cha]",
         "ATC Artists": [
             "Señor Coconut y Su Conjunto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Mr. Lucky",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Louisiana Senate Debate",
@@ -76,7 +98,15 @@
         "ATC Track": "THE CASCADES",
         "ATC Artists": [
             "GUIDO NIELSEN"
-        ]
+        ],
+        "Result Track Name": "The Cascades - A Rag",
+        "Result Artist Names": [
+            "Guido Nielsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HHjYEulkLYLvps4mum59X",
+        "Result Album Name": "Scott Joplin: The Complete Rags, Marches, Waltzes & Songs (1895-1914)"
     },
     {
         "Title": "Baseball",
@@ -94,6 +124,14 @@
         "ATC Track": "HAPPY DAYS ARE HERE AGAIN",
         "ATC Artists": [
             "CASA LOMA ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Happy Days Are Here Again",
+        "Result Artist Names": [
+            "The Casa Loma Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:509OXIWu46j3PaS1pkjzCf",
+        "Result Album Name": "The Great Depression - American Music In The 30's"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-05-26",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:51:05"
+        "Scanned Date": "2022-02-06 21:51:05",
+        "Playlist URI": "1HijlKS7rNdOavltStWAIJ",
+        "Playlist Link": "https://open.spotify.com/playlist/1HijlKS7rNdOavltStWAIJ",
+        "Snapshot ID": "MSwzMDI0Yzg2YTM3NWYyZjNkNmQ0YmRjOGRmZjNmNmZmZGE5MjVjMDQw",
+        "Playlist Name": "ATC 2002-05-26 Sun All Things Considered"
     },
     {
         "Title": "Bush-Chirac",
@@ -34,7 +38,15 @@
         "ATC Track": "Luna Tango",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": "Luna Tango",
+        "Result Artist Names": [
+            "Robin Nolan Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NeQczucnLJc9cZArUtRPF",
+        "Result Album Name": "Mediterranean Blues"
     },
     {
         "Title": "Telemarketers",
@@ -46,7 +58,15 @@
         "ATC Track": "Southern Jukebox Music",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Southern Jukebox Music - 2008 Digital Remaster",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:2xCA9DIeakbeDmDVJxdTun",
+        "Result Album Name": "Signs Of Life"
     },
     {
         "Title": "Memorial Day",
@@ -58,7 +78,15 @@
         "ATC Track": "AUTUMN LEAVES",
         "ATC Artists": [
             "CONNONBALL ADDERLEY WITH MILES DAVIS"
-        ]
+        ],
+        "Result Track Name": "Autumn leaves",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:4QokGll3cjES3H1BIa1yKD",
+        "Result Album Name": "Stockholm 1960 Complete"
     },
     {
         "Title": "Bridge Collapse",
@@ -88,6 +116,11 @@
         "ATC Track": "Koruglu (The Blind Man's Son), opera",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

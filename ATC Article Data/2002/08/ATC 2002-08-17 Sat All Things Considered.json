@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-08-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:44:54"
+        "Scanned Date": "2022-02-06 21:44:54",
+        "Playlist URI": "6XWYgltLWmmxaOhFigsI00",
+        "Playlist Link": "https://open.spotify.com/playlist/6XWYgltLWmmxaOhFigsI00",
+        "Snapshot ID": "MSxmZjc1YWNlOTIyNmY0NTkwYjFmOTU0NmM2NDRjODljNjY0OWU1OWY5",
+        "Playlist Name": "ATC 2002-08-17 Sat All Things Considered"
     },
     {
         "Title": "Iraq - Gergen",
@@ -22,7 +26,15 @@
         "ATC Track": "Miss Prissy",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "Miss Prissy",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eSYjPKXZsVELKwGIO4UfF",
+        "Result Album Name": "Tools in the Dryer"
     },
     {
         "Title": "German Floods",
@@ -34,7 +46,15 @@
         "ATC Track": "Stella by Starlight",
         "ATC Artists": [
             "Ken Watters Group"
-        ]
+        ],
+        "Result Track Name": "Stella By Starlight",
+        "Result Artist Names": [
+            "Ken Watters Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tII8wjiqt9NFdDuKmYZ7T",
+        "Result Album Name": "Southern Exposure"
     },
     {
         "Title": "Mostly Martha",
@@ -53,7 +73,15 @@
         "ATC Artists": [
             "Speedy West",
             "Jimmy Bryant"
-        ]
+        ],
+        "Result Track Name": "Speedin' West",
+        "Result Artist Names": [
+            "Speedy West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:58hhRCgZGA8cY1HWch5NL8",
+        "Result Album Name": "Steel Guitar"
     },
     {
         "Title": "New York's Homeless Problem",
@@ -71,7 +99,15 @@
         "ATC Track": "Sabrosa",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Sabrosa",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yOhl93toXcntCqDtAI7iL",
+        "Result Album Name": "The In Sound From Way Out!"
     },
     {
         "Title": "Horse-Drawn Island",
@@ -89,6 +125,11 @@
         "ATC Track": "Lil' Darlin'",
         "ATC Artists": [
             "Joe Bucci Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

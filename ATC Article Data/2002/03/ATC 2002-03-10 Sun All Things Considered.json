@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-03-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:53:31"
+        "Scanned Date": "2022-02-06 21:53:31",
+        "Playlist URI": "4SFzw9C9pQftrz2aVW2Bko",
+        "Playlist Link": "https://open.spotify.com/playlist/4SFzw9C9pQftrz2aVW2Bko",
+        "Snapshot ID": "MSw2MmNmMzIzMWFkZmIxNGUwMzY4NjcyMzQyNzAzOWIxZDY5N2M1ZGE5",
+        "Playlist Name": "ATC 2002-03-10 Sun All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -17,7 +21,12 @@
         "ATC Artists": [
             "Wahlby",
             "Amal"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Afghanistan",
@@ -29,7 +38,15 @@
         "ATC Track": "Hydrophonic",
         "ATC Artists": [
             "Naked Funk"
-        ]
+        ],
+        "Result Track Name": "Hydrophonic",
+        "Result Artist Names": [
+            "Naked Funk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:53gFLAMS3y4fTxMxEtBizV",
+        "Result Album Name": "Evolution Ending"
     },
     {
         "Title": "Narcotics",
@@ -41,7 +58,15 @@
         "ATC Track": "Loser",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Loser",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PntSbMHC1ud6Vvl8x56qd",
+        "Result Album Name": "Mellow Gold"
     },
     {
         "Title": "Ice Age",
@@ -59,19 +84,44 @@
         "ATC Track": "It's a Mad, Mad, Mad, Mad World",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "It's A Mad World - Funk-Rap",
+        "Result Artist Names": [
+            "Various Artists",
+            "Bones Jones / NuBop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qLFImbwtCsFg3atdC2osA",
+        "Result Album Name": "BOPTOWN(COMPILATION)1&2"
     },
     {
         "ATC Track": "The Hangover",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Hangover",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3imSm6xpkwQHcfyVBeqtNs",
+        "Result Album Name": "Cinemathique"
     },
     {
         "ATC Track": "Sin Acabar",
         "ATC Artists": [
             "Lo'Jo"
-        ]
+        ],
+        "Result Track Name": "Sin acabar",
+        "Result Artist Names": [
+            "Lo'Jo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06xSE82B1X05VZ3JDiBy9E",
+        "Result Album Name": "Mojo Radio (1998)"
     },
     {
         "Title": "Zimbabwe",
@@ -83,7 +133,15 @@
         "ATC Track": "House of Blue Leaves",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "House of Blue Leaves",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mGUlJJLiUzw93lms0fjGj",
+        "Result Album Name": "Ambient"
     },
     {
         "Title": "Sept. 11: Victims' Families",
@@ -95,7 +153,12 @@
         "ATC Track": "Patterns of Motion",
         "ATC Artists": [
             "Richard Bone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ore Mining",

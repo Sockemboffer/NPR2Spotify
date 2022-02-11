@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:41:03"
+        "Scanned Date": "2022-02-06 21:41:03",
+        "Playlist URI": "4wq1O79cgkxNDEOJoJr1BR",
+        "Playlist Link": "https://open.spotify.com/playlist/4wq1O79cgkxNDEOJoJr1BR",
+        "Snapshot ID": "MSw0ZjkwNzY3ZTNiODNkNWQ3ZTBjNzEyNGQ1MTdiMWQ1YWZlYzIxMzAw",
+        "Playlist Name": "ATC 2002-10-13 Sun All Things Considered"
     },
     {
         "Title": "Indonesia Bombing",
@@ -22,7 +26,12 @@
         "ATC Track": "TANNARI",
         "ATC Artists": [
             "ROBERT MUSSO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Maine Race",
@@ -34,7 +43,16 @@
         "ATC Track": "Kgale [Long Suffering]",
         "ATC Artists": [
             "Philip Tabane"
-        ]
+        ],
+        "Result Track Name": "Kgale (Long Suffering)",
+        "Result Artist Names": [
+            "Philip Tabane",
+            "Malombo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BSu8ltuMCm5IyMkAx7wo7",
+        "Result Album Name": "Unh!"
     },
     {
         "Title": "Emerging Democratic Majority",
@@ -46,13 +64,26 @@
         "ATC Track": "home",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Joik",
         "ATC Artists": [
             "Martyn Bennett"
-        ]
+        ],
+        "Result Track Name": "Joik",
+        "Result Artist Names": [
+            "Martyn Bennett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31dJPgHOe0aDYZ2Msv2hRL",
+        "Result Album Name": "Bothy Culture"
     },
     {
         "Title": "Iraq Scientists",
@@ -88,7 +119,15 @@
         "ATC Track": "Notting Hill Gate",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Notting Hill Gate",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59bRBzgcer2unoCHsk5DVe",
+        "Result Album Name": "Euphoria"
     },
     {
         "Title": "Thief Lord",
@@ -100,6 +139,14 @@
         "ATC Track": "Buddha Nature",
         "ATC Artists": [
             "Deuter"
-        ]
+        ],
+        "Result Track Name": "Buddha Nature",
+        "Result Artist Names": [
+            "Deuter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WPlxK2SGXZjTPoz2vHJH1",
+        "Result Album Name": "Buddha Nature"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-07-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:47:13"
+        "Scanned Date": "2022-02-06 21:47:13",
+        "Playlist URI": "2E8TIyuRxyLtkeLoL4o5Ut",
+        "Playlist Link": "https://open.spotify.com/playlist/2E8TIyuRxyLtkeLoL4o5Ut",
+        "Snapshot ID": "MSxiMjFjOTU4MjlmYzRiZTY0ZTg1NzU1NTRiZWIxZWNjOGYyN2VkZDYz",
+        "Playlist Name": "ATC 2002-07-27 Sat All Things Considered"
     },
     {
         "Title": "Mining Update",
@@ -16,7 +20,12 @@
         "ATC Track": "Riding the Nuclear Tiger",
         "ATC Artists": [
             "Ben Allison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Working Longer",
@@ -28,7 +37,15 @@
         "ATC Track": "Elizabeth on the Bathroom Floor",
         "ATC Artists": [
             "Eels"
-        ]
+        ],
+        "Result Track Name": "Elizabeth On The Bathroom Floor",
+        "Result Artist Names": [
+            "Eels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59jlvISxPnbP7RpQ01Hugu",
+        "Result Album Name": "Electro-Shock Blues"
     },
     {
         "Title": "Budget Woes",
@@ -42,7 +59,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Bemsha Swing / Lively up Yourself",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iIfFQeOCLo8RVaKxtyNo6",
+        "Result Album Name": "It's A Jungle In Here"
     },
     {
         "Title": "D.C. Mayor's Ballot Problems",
@@ -62,19 +87,42 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Chubb Sub",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NMpJoxykO6UIIXxg8im8K",
+        "Result Album Name": "Last Chance to Dance Trance (Perhaps): Best Of (1991-1996)"
     },
     {
         "ATC Track": "LADY DELAY",
         "ATC Artists": [
             "DAAU"
-        ]
+        ],
+        "Result Track Name": "Lady Delay",
+        "Result Artist Names": [
+            "DAVID BOUVÉE",
+            "Buni Lenski",
+            "Daau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7H7UZa53uHTvXo2Qsl55S5",
+        "Result Album Name": "We Need New Animals"
     },
     {
         "ATC Track": "Rossa Blanco",
         "ATC Artists": [
             "Seksu Roba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq Opposition",
@@ -86,7 +134,15 @@
         "ATC Track": "The Robots",
         "ATC Artists": [
             "Kraftwerk"
-        ]
+        ],
+        "Result Track Name": "The Robots - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eqZWYQ5tbIehx00NeKXz7",
+        "Result Album Name": "The Man-Machine (2009 Remaster)"
     },
     {
         "Title": "Torture Cases",
@@ -116,6 +172,14 @@
         "ATC Track": "Computer Love",
         "ATC Artists": [
             "Kraftwerk"
-        ]
+        ],
+        "Result Track Name": "Computer Love - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CZdd0S4WTktuiiARS8pY4",
+        "Result Album Name": "Computer World (2009 Remaster)"
     }
 ]

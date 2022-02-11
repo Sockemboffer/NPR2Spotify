@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-02-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:54:48"
+        "Scanned Date": "2022-02-06 21:54:48",
+        "Playlist URI": "3AxtmiUHqGgH2aL9zrYVr0",
+        "Playlist Link": "https://open.spotify.com/playlist/3AxtmiUHqGgH2aL9zrYVr0",
+        "Snapshot ID": "MSw0M2ZiNzFlZjFmOWM4YjlkYTMyZWNhYzY3NjBiZDgzMGYwZTdlY2Zj",
+        "Playlist Name": "ATC 2002-02-03 Sun All Things Considered"
     },
     {
         "Title": "Enron Report",
@@ -29,7 +33,15 @@
         "ATC Artists": [
             "Lydian String Quartet",
             "Bob Nieske 3"
-        ]
+        ],
+        "Result Track Name": "Astor",
+        "Result Artist Names": [
+            "Bob Nieske"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:61ASdeONSM2Oq4bx7gR9pY",
+        "Result Album Name": "Simplicity"
     },
     {
         "Title": "Venezuelan Luger",
@@ -41,13 +53,29 @@
         "ATC Track": "SAUCER",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Saucer",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BQ8IC8LbS5xDFZFhAQe1y",
+        "Result Album Name": "Interstate"
     },
     {
         "ATC Track": "POUND CAKE",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Pound Cake",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5V39sp30BWDe6wxpXKxXBw",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "Cappuccino",
@@ -59,7 +87,12 @@
         "ATC Track": "Complete Score [From Plain Crazy]",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Radio Free Europe",
@@ -71,7 +104,15 @@
         "ATC Track": "Radio Free Europe",
         "ATC Artists": [
             "The String Quartet"
-        ]
+        ],
+        "Result Track Name": "Radio Free Europe",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6JQ9frr0fepQVM5QQqLyPq",
+        "Result Album Name": "VSQ Performs R.E.M."
     },
     {
         "Title": "Immigrants",
@@ -89,7 +130,15 @@
         "ATC Track": "Girl",
         "ATC Artists": [
             "Immigrant Suns"
-        ]
+        ],
+        "Result Track Name": "Girl",
+        "Result Artist Names": [
+            "Immigrant Suns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1g9lXwbnjdH0EeN6uzdbg8",
+        "Result Album Name": "More Than Food"
     },
     {
         "Title": "Hon Man",
@@ -101,6 +150,11 @@
         "ATC Track": "Big Top",
         "ATC Artists": [
             "Caleb Sampson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

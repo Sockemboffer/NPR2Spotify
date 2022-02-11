@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:40:29"
+        "Scanned Date": "2022-02-06 21:40:29",
+        "Playlist URI": "0WVbFZiUYJRlpGpTUAmHPl",
+        "Playlist Link": "https://open.spotify.com/playlist/0WVbFZiUYJRlpGpTUAmHPl",
+        "Snapshot ID": "MSw2NTQ4MDA1YzFkYTZiNjRiMjU1NDc5ZTg0MDBlMTFlMmExOWY1NTZl",
+        "Playlist Name": "ATC 2002-10-05 Sat All Things Considered"
     },
     {
         "Title": "Terrorism Charges in Oregon",
@@ -22,7 +26,12 @@
         "ATC Track": "BETWEEN TIME",
         "ATC Artists": [
             "VALARIE MORRIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Suburban Sniper",
@@ -52,7 +61,15 @@
         "ATC Track": "Instrumental",
         "ATC Artists": [
             "India.arie"
-        ]
+        ],
+        "Result Track Name": "Little Things - Instrumental",
+        "Result Artist Names": [
+            "India.Arie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:68xrBIbAedau6xUbgsSTwj",
+        "Result Album Name": "The LittleThings"
     },
     {
         "Title": "New Jersey Senate Race",
@@ -88,6 +105,14 @@
         "ATC Track": "PARADISIO",
         "ATC Artists": [
             "AL DI MEOLA"
-        ]
+        ],
+        "Result Track Name": "Paradisio",
+        "Result Artist Names": [
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4G8MIJgo6CRP9Y9JxdDPEZ",
+        "Result Album Name": "Orange and Blue"
     }
 ]

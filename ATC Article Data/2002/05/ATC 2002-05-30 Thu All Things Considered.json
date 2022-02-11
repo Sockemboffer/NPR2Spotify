@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-05-30",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:51:19"
+        "Scanned Date": "2022-02-06 21:51:19",
+        "Playlist URI": "5mv9CpD3wMQc7FYIojnwK0",
+        "Playlist Link": "https://open.spotify.com/playlist/5mv9CpD3wMQc7FYIojnwK0",
+        "Snapshot ID": "MSxjMGU4MjdiZTUzNGU4NWYxMjI4OTMwNWNiZjAwOTc1MzllNmY4NTYy",
+        "Playlist Name": "ATC 2002-05-30 Thu All Things Considered"
     },
     {
         "Title": "Rumsfeld - India & Pakistan",
@@ -28,7 +32,15 @@
         "ATC Track": "Killarney Boys of Pleasure",
         "ATC Artists": [
             "Lúnasa"
-        ]
+        ],
+        "Result Track Name": "Killarney Boys Of Pleasure",
+        "Result Artist Names": [
+            "Lúnasa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ndEaJoTHepJkWdFk82e9e",
+        "Result Album Name": "The Merry Sisters of Fate"
     },
     {
         "Title": "Missouri River: Army Corps of Engineers",
@@ -46,13 +58,26 @@
         "ATC Track": "The Water Is Wide",
         "ATC Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "The Water is Wide",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5EmMzozTWczMZVzYLfUTvD",
+        "Result Album Name": "The Live Album"
     },
     {
         "ATC Track": "Runaway",
         "ATC Artists": [
             "Deluxe Vaudeville Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nursing Shortage & Quality of Care",
@@ -70,14 +95,32 @@
         "ATC Track": "Dirge",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Dirge",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JApFiZt3zMZbtCmRoi8hl",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "George's Bad Day",
         "ATC Artists": [
             "Biller",
             "Wakefield"
-        ]
+        ],
+        "Result Track Name": "George's Bad Day",
+        "Result Artist Names": [
+            "Dave Biller",
+            "Jeremy Wakefield",
+            "Carl Sonny Leyland"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5D8elbnxYQnadkicpVKA1f",
+        "Result Album Name": "The Hot Guitars Of Biller And Wakefield"
     },
     {
         "Title": "'Lost and Found'",
@@ -89,7 +132,12 @@
         "ATC Track": "Tumbao No. 5",
         "ATC Artists": [
             "Orlando \"Cachaito\" Lopez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ground Zero Ceremony",
@@ -114,7 +162,15 @@
         "ATC Artists": [
             "Ginger Baker",
             "James Carter et. al."
-        ]
+        ],
+        "Result Track Name": "Jesus Loves Me",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:239HfexXjqZFG4KGSIaqUk",
+        "Result Album Name": "Coward of the County"
     },
     {
         "Title": "Palestinian Reform",
@@ -127,7 +183,15 @@
         "ATC Artists": [
             "Ernest Ranglin",
             "Monty Alexander"
-        ]
+        ],
+        "Result Track Name": "Black Disciples",
+        "Result Artist Names": [
+            "Ernest Ranglin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1V1jLlcS20ftmCbRV9PXTk",
+        "Result Album Name": "Below The Bassline"
     },
     {
         "Title": "World Cup Setup",
@@ -151,13 +215,28 @@
         "ATC Track": "Tiddlywinks",
         "ATC Artists": [
             "Azo Bell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Romance",
         "ATC Artists": [
             "Clara Rockmore"
-        ]
+        ],
+        "Result Track Name": "Violin Concerto No. 2 in D Minor, Op. 22: II. Romance (Arr. For theremin and piano)",
+        "Result Artist Names": [
+            "Henryk Wieniawski",
+            "Clara Rockmore",
+            "Nadia Reisenberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1I5XeJJpgp6IkkOwTOqIuw",
+        "Result Album Name": "Rachmaninov, S.: Vocalise / Saint-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody (The Art of the Theremin)"
     },
     {
         "Title": "National Spelling Bee",
@@ -175,7 +254,12 @@
         "ATC Track": "Gonamombe Rerume",
         "ATC Artists": [
             "Forward Kwenda"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mt. Hood Climbing Disaster",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-06",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:47:42"
+        "Scanned Date": "2022-02-06 21:47:42",
+        "Playlist URI": "2OqlPSnDa3WDROt2wK488b",
+        "Playlist Link": "https://open.spotify.com/playlist/2OqlPSnDa3WDROt2wK488b",
+        "Snapshot ID": "MSxmMjFlMDVkNmIxNjBjZGZkMzAyYmQ0ZmIwOWQ5MDFiYTBiNjJiYjhi",
+        "Playlist Name": "ATC 2002-06-06 Thu All Things Considered"
     },
     {
         "Title": "Bush - Homeland Security",
@@ -29,7 +33,17 @@
         "ATC Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "Sliding Down",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Mike Marshall",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6i3ZOSknAlWQcjkW8gVD1W",
+        "Result Album Name": "Uncommon Ritual"
     },
     {
         "Title": "'Unbuilding the World Trade Center'",
@@ -47,13 +61,29 @@
         "ATC Track": "In the Deep Shade",
         "ATC Artists": [
             "The Frames"
-        ]
+        ],
+        "Result Track Name": "In The Deep Shade",
+        "Result Artist Names": [
+            "The Frames"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AmmBwFS0DLRm70KzJtmvO",
+        "Result Album Name": "For The Birds"
     },
     {
         "ATC Track": "Tightrope",
         "ATC Artists": [
             "Stefan Grossman"
-        ]
+        ],
+        "Result Track Name": "Tightrope - Instrumental",
+        "Result Artist Names": [
+            "Stefan Grossman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qFsHmf1L3HsEsZVQVdYGG",
+        "Result Album Name": "Bottleneck Serenade"
     },
     {
         "Title": "Abortion Privacy",
@@ -72,7 +102,12 @@
         "ATC Artists": [
             "Guy Van Duser",
             "Billy Novick"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Amtrak",
@@ -90,7 +125,15 @@
         "ATC Track": "Now Like Photographs",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Now Like Photographs",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LKif6CMSP9nIId0Zt1Bn0",
+        "Result Album Name": "Things Shaped In Passing"
     },
     {
         "Title": "FBI Warnings on Sept. 11",
@@ -109,13 +152,31 @@
         "ATC Artists": [
             "Gary Burton Quintet",
             "Eberhard Weber"
-        ]
+        ],
+        "Result Track Name": "The Colours Of Chloe",
+        "Result Artist Names": [
+            "Gary Burton Quintet",
+            "Eberhard Weber"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eYo2hqWYWPA76FsV03dTv",
+        "Result Album Name": "Ring"
     },
     {
         "ATC Track": "Sonatina meridional: Campo",
         "ATC Artists": [
             "Jason Vieaux"
-        ]
+        ],
+        "Result Track Name": "Sonatina meridional: I. Campo",
+        "Result Artist Names": [
+            "Manuel Ponce",
+            "Jason Vieaux"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74Q4graHX1sxlQyhbzHAzp",
+        "Result Album Name": "Ponce, M.M.: Sonatina Meridional / Sonata Mexicana / Sonata Clasica / Guitar Sonata No. 3 / Sonata Romantica"
     },
     {
         "Title": "Ramallah and Jenin",
@@ -133,7 +194,15 @@
         "ATC Track": "Waterfall",
         "ATC Artists": [
             "Jeff Elstad"
-        ]
+        ],
+        "Result Track Name": "Waterfall",
+        "Result Artist Names": [
+            "Jeff Jefferson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7oayjGY6WlEeX75jW20fXE",
+        "Result Album Name": "Forever"
     },
     {
         "Title": "Steel Tariffs",

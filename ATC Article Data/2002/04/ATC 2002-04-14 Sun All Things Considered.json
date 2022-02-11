@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-04-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:52:12"
+        "Scanned Date": "2022-02-06 21:52:12",
+        "Playlist URI": "4A5SrIHrwW01oZGwVND4ag",
+        "Playlist Link": "https://open.spotify.com/playlist/4A5SrIHrwW01oZGwVND4ag",
+        "Snapshot ID": "MSxkNmZjNmIwM2JlZGY5ZGU5Yjg3NWMxNzAwNWU4NzFjMDMwNTJkZTc2",
+        "Playlist Name": "ATC 2002-04-14 Sun All Things Considered"
     },
     {
         "Title": "Powell/Sharon",
@@ -28,7 +32,15 @@
         "ATC Track": "Street Car",
         "ATC Artists": [
             "Hayden"
-        ]
+        ],
+        "Result Track Name": "Street Car",
+        "Result Artist Names": [
+            "Hayden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7q4l4P4bdBkqpyXM64Dls3",
+        "Result Album Name": "Skyscraper National Park"
     },
     {
         "Title": "Medicaid",
@@ -46,13 +58,29 @@
         "ATC Track": "Cruxx",
         "ATC Artists": [
             "Soul Oddity"
-        ]
+        ],
+        "Result Track Name": "Cruxx",
+        "Result Artist Names": [
+            "Soul Oddity"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HayqDO8DfQdMi0U09OyKF",
+        "Result Album Name": "Tone Capsule"
     },
     {
         "ATC Track": "Tijuana Gift Shop",
         "ATC Artists": [
             "Charlie Mingus"
-        ]
+        ],
+        "Result Track Name": "Tijuana Gift Shop",
+        "Result Artist Names": [
+            "Charles Mingus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3yDil4HFUb1bwUhlEkcrHx",
+        "Result Album Name": "Tijuana Moods"
     },
     {
         "Title": "Chavez Returns",
@@ -82,7 +110,16 @@
         "ATC Track": "O Bia",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "O Bia",
+        "Result Artist Names": [
+            "Francis Bebey",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KDwVGmIY0PO1z9z6lEAmx",
+        "Result Album Name": "The Magic Box"
     },
     {
         "Title": "Billboard Professor",
@@ -100,6 +137,14 @@
         "ATC Track": "Rock Steady",
         "ATC Artists": [
             "Johnny Hammond"
-        ]
+        ],
+        "Result Track Name": "Rock Steady",
+        "Result Artist Names": [
+            "Johnny \"Hammond\" Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5CRhXxqIacNKOnSR9v92pP",
+        "Result Album Name": "Wild Horses/Rock Steady (CTI Records 40th Anniversary Edition)"
     }
 ]

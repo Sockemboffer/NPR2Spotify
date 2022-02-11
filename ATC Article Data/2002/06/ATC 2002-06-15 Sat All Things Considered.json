@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-15",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:48:16"
+        "Scanned Date": "2022-02-06 21:48:16",
+        "Playlist URI": "6N0j6Ak0503FdiY091y6mo",
+        "Playlist Link": "https://open.spotify.com/playlist/6N0j6Ak0503FdiY091y6mo",
+        "Snapshot ID": "MSxiNzY1ODJkM2U0YTg0NWI2YWRjZmExNTM2NjMyZDQ4ZTYzMjQ3ZGQ4",
+        "Playlist Name": "ATC 2002-06-15 Sat All Things Considered"
     },
     {
         "Title": "Andersen Verdict",
@@ -22,7 +26,15 @@
         "ATC Track": "Kora Kora",
         "ATC Artists": [
             "Simon Jeffes"
-        ]
+        ],
+        "Result Track Name": "Kora Kora",
+        "Result Artist Names": [
+            "Simon Jeffes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6xoB7c4lJUn44pLh0D6068",
+        "Result Album Name": "Piano Music"
     },
     {
         "Title": "U.S. Mayors",
@@ -41,7 +53,16 @@
         "ATC Artists": [
             "Gary Burton",
             "Makoto Ozone"
-        ]
+        ],
+        "Result Track Name": "Capriccio II - Opus 76 - Album Version",
+        "Result Artist Names": [
+            "Gary Burton",
+            "Makoto Ozone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pXYmaud4PE1V8b7CUtscX",
+        "Result Album Name": "Virtuosi"
     },
     {
         "Title": "Father's Day",
@@ -53,7 +74,12 @@
         "ATC Track": "Good Morning, Rachel",
         "ATC Artists": [
             "Valarie Morris"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bishop's Conference",
@@ -65,7 +91,15 @@
         "ATC Track": "Luna Tango",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": "Luna Tango",
+        "Result Artist Names": [
+            "Robin Nolan Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NeQczucnLJc9cZArUtRPF",
+        "Result Album Name": "Mediterranean Blues"
     },
     {
         "Title": "New Planet",
@@ -95,6 +129,14 @@
         "ATC Track": "Atabaque",
         "ATC Artists": [
             "Jazzanova"
-        ]
+        ],
+        "Result Track Name": "Atabaque",
+        "Result Artist Names": [
+            "Jazzanova"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gxoO58WeQiWvg6sSoKKum",
+        "Result Album Name": "The New Latinaires"
     }
 ]

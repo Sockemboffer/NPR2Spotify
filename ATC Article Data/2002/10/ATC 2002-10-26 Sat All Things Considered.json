@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:41:59"
+        "Scanned Date": "2022-02-06 21:41:59",
+        "Playlist URI": "6r2IvhMtYyVjmf3JBNUjE1",
+        "Playlist Link": "https://open.spotify.com/playlist/6r2IvhMtYyVjmf3JBNUjE1",
+        "Snapshot ID": "MSwyOThhMzY5ZDQ3NmE3NDlkZTNjOTZkM2VlYzNjN2I5ZGViYWFhYjM4",
+        "Playlist Name": "ATC 2002-10-26 Sat All Things Considered"
     },
     {
         "Title": "Moscow",
@@ -16,7 +20,15 @@
         "ATC Track": "MIRROR IN BLUE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mirror In Blue",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mqoSKloGP24YYzptURqR4",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "Wellstone Latest",
@@ -34,7 +46,15 @@
         "ATC Track": "Paul's Dance",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Paul's Dance",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:1vOBcrV6ZsM1Ps12rTq0cd",
+        "Result Album Name": "Balearic Ambient"
     },
     {
         "Title": "Apec",
@@ -46,7 +66,15 @@
         "ATC Track": "Bish Bash",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Bish Bash",
+        "Result Artist Names": [
+            "The Benny Green Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KdZ09GNhYfXrUuZ34Iowy",
+        "Result Album Name": "Greens"
     },
     {
         "Title": "Barry Bonds",
@@ -58,19 +86,43 @@
         "ATC Track": "Computer Love",
         "ATC Artists": [
             "Kraftwerk"
-        ]
+        ],
+        "Result Track Name": "Computer Love - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CZdd0S4WTktuiiARS8pY4",
+        "Result Album Name": "Computer World (2009 Remaster)"
     },
     {
         "ATC Track": "neon lights",
         "ATC Artists": [
             "KRAFTWERK"
-        ]
+        ],
+        "Result Track Name": "Neon Lights - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1krBKWusytTAT2jNWJGA7m",
+        "Result Album Name": "The Man-Machine (2009 Remaster)"
     },
     {
         "ATC Track": "ODD JOB MAN / I WANNA BE A JAMES BOND GIRL",
         "ATC Artists": [
             "LEROY HOLMES"
-        ]
+        ],
+        "Result Track Name": "Odd Job Man/I Wanna Be A James Bond Girl",
+        "Result Artist Names": [
+            "Leroy Holmes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7o4q9cm6FtafJIPSRYvdzz",
+        "Result Album Name": "Ultra-Lounge/Cocktail Capers"
     },
     {
         "Title": "Peace Rallies",
@@ -106,6 +158,11 @@
         "ATC Track": "Zen Samba",
         "ATC Artists": [
             "Donald Knaack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

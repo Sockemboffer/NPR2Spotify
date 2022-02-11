@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-02-11",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:55:15"
+        "Scanned Date": "2022-02-06 21:55:15",
+        "Playlist URI": "7GjJLcUZCnaBTTqDMkoOYW",
+        "Playlist Link": "https://open.spotify.com/playlist/7GjJLcUZCnaBTTqDMkoOYW",
+        "Snapshot ID": "MSxiNjJjOGVkNWIwYzAwOGEzNDlkODY5OGE5ZWQxNDNhMWM2MGM3YzRm",
+        "Playlist Name": "ATC 2002-02-11 Mon All Things Considered"
     },
     {
         "Title": "Khost, Afghanistan",
@@ -28,7 +32,12 @@
         "ATC Track": "What Wonderous Love Is This",
         "ATC Artists": [
             "Craig Duncan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Puppy Protection",
@@ -46,13 +55,29 @@
         "ATC Track": "By the Brook",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": "By The Brook",
+        "Result Artist Names": [
+            "Regina Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0IAeyhfzV14dRy9C3i48B2",
+        "Result Album Name": "Rhythms Of The Heart"
     },
     {
         "ATC Track": "Silk Tears",
         "ATC Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": "Silk Tears",
+        "Result Artist Names": [
+            "Simon Shaheen & Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1AmaUb29OOfRqRR7nDuwLz",
+        "Result Album Name": "Blue Flame"
     },
     {
         "Title": "Health Care for the Mentally Retarded",
@@ -76,13 +101,29 @@
         "ATC Track": "Into the Rain",
         "ATC Artists": [
             "Eidolon"
-        ]
+        ],
+        "Result Track Name": "Into The Rain",
+        "Result Artist Names": [
+            "Acoustic Eidolon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1J9oj3knmV1vtwRzdlmkQL",
+        "Result Album Name": "Acoustic Eidolon"
     },
     {
         "ATC Track": "Ramble",
         "ATC Artists": [
             "Velveteen Monster"
-        ]
+        ],
+        "Result Track Name": "Ramble",
+        "Result Artist Names": [
+            "Velveteen Monster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Vf8LhP41KEz3AwmEZAdia",
+        "Result Album Name": "Circumstantial Evidence"
     },
     {
         "Title": "Feeling the Cold",
@@ -100,13 +141,29 @@
         "ATC Track": "Heart Go Boom",
         "ATC Artists": [
             "Apollo 440"
-        ]
+        ],
+        "Result Track Name": "Heart Go Boom - Instrumental Version",
+        "Result Artist Names": [
+            "Apollo 440"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xkzdZp1u6u5sS9NcfuC9j",
+        "Result Album Name": "Gettin' High On Your Own Supply"
     },
     {
         "ATC Track": "Hot Steppin' Zydeco",
         "ATC Artists": [
             "Zydeco All Stars"
-        ]
+        ],
+        "Result Track Name": "Hot Steppin' Zydeco",
+        "Result Artist Names": [
+            "Zydeco All-Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1N4NYo48b0foF8ScXJyUPP",
+        "Result Album Name": "Ultimate Zydeco"
     },
     {
         "Title": "Milosevic Trial",
@@ -130,7 +187,15 @@
         "ATC Track": "Green Tea",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Green Tea",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Qo5nLKvPYqiTbXrM7YJjt",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Jack Henry Abbott",
@@ -148,13 +213,29 @@
         "ATC Track": "No Scratch Blues",
         "ATC Artists": [
             "Zydeco All Stars"
-        ]
+        ],
+        "Result Track Name": "No Scratch Blues",
+        "Result Artist Names": [
+            "Zydeco All-Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18zdxdGtdb9gjcnLHYhYCA",
+        "Result Album Name": "Best of Zydeco Instrumentals"
     },
     {
         "ATC Track": "Casbah Club",
         "ATC Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "Casbah Club",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6SjanJpo40XhqS7qeb4CH0",
+        "Result Album Name": "Guitar Noir"
     },
     {
         "Title": "Protecting Nuclear Reactors",
@@ -178,7 +259,15 @@
         "ATC Track": "Mysterious Mambo",
         "ATC Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "Mysterious Mambo",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tvC38UTkdcGUhcTT0elVx",
+        "Result Album Name": "Guitar Noir"
     },
     {
         "Title": "United Airlines Mechanics",
@@ -190,7 +279,15 @@
         "ATC Track": "Boozer",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Boozer",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cQuFh7Ggw0UAyrDTbO4nx",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "Dave Van Ronk",
@@ -202,6 +299,11 @@
         "ATC Track": "Papa Was a Rolling Stone",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-02-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:55:33"
+        "Scanned Date": "2022-02-06 21:55:33",
+        "Playlist URI": "2PD6KTsRRDm5pySnpoUxYx",
+        "Playlist Link": "https://open.spotify.com/playlist/2PD6KTsRRDm5pySnpoUxYx",
+        "Snapshot ID": "MSxlMjE4MGZiNmIzZDVlYTBkMzlkY2Y4NmFhNGY2Y2VjMWVkNDdiNjhj",
+        "Playlist Name": "ATC 2002-02-16 Sat All Things Considered"
     },
     {
         "Title": "Olympics",
@@ -16,7 +20,12 @@
         "ATC Track": "Krush",
         "ATC Artists": [
             "Stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Milosevic",
@@ -34,7 +43,12 @@
         "ATC Track": "French Perfume",
         "ATC Artists": [
             "Great Big Sea"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Olympians: Where Are They Now?",
@@ -47,7 +61,17 @@
         "ATC Artists": [
             "Thomas Beckman",
             "Johannes Cernota"
-        ]
+        ],
+        "Result Track Name": "Falling Star",
+        "Result Artist Names": [
+            "Charlie Chaplin",
+            "Thomas Beckmann",
+            "Johannes Cernota"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:63Fr1Jo5FHBNIXMIuVOMSf",
+        "Result Album Name": "Oh! That Cello"
     },
     {
         "Title": "Berlin Film Fest",
@@ -59,14 +83,32 @@
         "ATC Track": "Diaspora",
         "ATC Artists": [
             "The Philip Glass Ensemble"
-        ]
+        ],
+        "Result Track Name": "Diaspora",
+        "Result Artist Names": [
+            "The Griot Drum Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6RFNG5xTDdBq3wEvq2NGNl",
+        "Result Album Name": "African Seasonings"
     },
     {
         "ATC Track": "The Peace Patrol",
         "ATC Artists": [
             "Thomas Beckman",
             "Johannes Cernota"
-        ]
+        ],
+        "Result Track Name": "The Peace Patrol",
+        "Result Artist Names": [
+            "Charlie Chaplin",
+            "Thomas Beckmann",
+            "Johannes Cernota"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:3uRqoUItt3LPIFYSlJmZ8d",
+        "Result Album Name": "Oh! That Cello"
     },
     {
         "Title": "Liberia",
@@ -84,7 +126,12 @@
         "ATC Track": "The Shirt",
         "ATC Artists": [
             "Patrick Doyle"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Carter G. Woodson",
@@ -108,6 +155,14 @@
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Caleb Sampson"
-        ]
+        ],
+        "Result Track Name": "Simple Song",
+        "Result Artist Names": [
+            "Caleb Stanton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2zcK2fQgd9WOsq7o7ZqmkV",
+        "Result Album Name": "My Prayer"
     }
 ]

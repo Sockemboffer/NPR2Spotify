@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:42:36"
+        "Scanned Date": "2022-02-06 21:42:36",
+        "Playlist URI": "3TiAajPo1oGt06wVkAsZ1B",
+        "Playlist Link": "https://open.spotify.com/playlist/3TiAajPo1oGt06wVkAsZ1B",
+        "Snapshot ID": "MSwxOTI3OTk3ZWZjZjExZGQ2NWVmNmRjODc1ODUwZjBhMjRlY2Q3YmQx",
+        "Playlist Name": "ATC 2002-09-07 Sat All Things Considered"
     },
     {
         "Title": "German Suspects",
@@ -28,7 +32,15 @@
         "ATC Track": "BLACKTOP",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Blacktop",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zT4kN7N5IsT6qIQ3d0Dxs",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "Bush and Forests",
@@ -52,6 +64,14 @@
         "ATC Track": "Bish Bash",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Bish Bash",
+        "Result Artist Names": [
+            "The Benny Green Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KdZ09GNhYfXrUuZ34Iowy",
+        "Result Album Name": "Greens"
     }
 ]

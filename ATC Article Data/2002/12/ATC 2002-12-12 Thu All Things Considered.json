@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-12-12",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 21:37:18"
+        "Scanned Date": "2022-02-06 21:37:18",
+        "Playlist URI": "2T25Or7xOkIB6YlmgAeVFu",
+        "Playlist Link": "https://open.spotify.com/playlist/2T25Or7xOkIB6YlmgAeVFu",
+        "Snapshot ID": "MSwzMDRmZWE0NjRhNTIxNzJjNzE2MWZhZjBmYjM1NDg3N2FmY2VlYzE0",
+        "Playlist Name": "ATC 2002-12-12 Thu All Things Considered"
     },
     {
         "Title": "North Korea",
@@ -29,14 +33,33 @@
         "ATC Artists": [
             "Dino Saluzzi",
             "Anthony Cox et. al."
-        ]
+        ],
+        "Result Track Name": "Sketch # 1",
+        "Result Artist Names": [
+            "Dino Saluzzi",
+            "Anthony Cox",
+            "David Friedman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ag7etGtDvv5FfxW5qIaNM",
+        "Result Album Name": "Rios"
     },
     {
         "ATC Track": "Turn of the Century",
         "ATC Artists": [
             "David Grisman",
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Turn Of The Century",
+        "Result Artist Names": [
+            "David Grisman",
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6n3J4GVqop9W5jV4CvNOkF",
+        "Result Album Name": "Tone Poems"
     },
     {
         "Title": "Bush Economics Adviser",
@@ -54,14 +77,31 @@
         "ATC Track": "Blackjack",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "Blackjack",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4O6lu9Ri0N5y7BrR63Glv0",
+        "Result Album Name": "Standards"
     },
     {
         "ATC Track": "Swing '42",
         "ATC Artists": [
             "David Grisman",
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Swing '42",
+        "Result Artist Names": [
+            "David Grisman",
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1TguVCVSLQCzM8GnGsvaBT",
+        "Result Album Name": "Tone Poems"
     },
     {
         "Title": "Soldiers, Health Workers Prep for Smallpox Vaccinations",
@@ -91,13 +131,27 @@
         "ATC Track": "A SPOONFUL OF SUGAR - MARY POPPINS",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Perfidia (Perfidy)",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Perfidia (Perfidy)",
+        "Result Artist Names": [
+            "Alberto Domínguez",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7lwsORAiOf3Bxy9WmgUpy3",
+        "Result Album Name": "Kronos Explorer Series"
     },
     {
         "Title": "Bush on Sen. Trent Lott",
@@ -121,13 +175,29 @@
         "ATC Track": "Prelude in C minor",
         "ATC Artists": [
             "Steve Eriquiaga"
-        ]
+        ],
+        "Result Track Name": "Prelude in C Minor",
+        "Result Artist Names": [
+            "Steve Law"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2xguSeFpdNyldL5fx5Nr1H",
+        "Result Album Name": "Piano Music Volume 2"
     },
     {
         "ATC Track": "Santimamiñeko Fandangoa & Ioaeoe",
         "ATC Artists": [
             "Kepa Junkera"
-        ]
+        ],
+        "Result Track Name": "Santimamiñeko Fandango & Ioaeoe - Live",
+        "Result Artist Names": [
+            "Kepa Junkera"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fb4XNUiToeUstawWcEvRX",
+        "Result Album Name": "K"
     },
     {
         "Title": "Mood in Iraq",
@@ -145,13 +215,29 @@
         "ATC Track": "Gone Doe La",
         "ATC Artists": [
             "Monkeyworks"
-        ]
+        ],
+        "Result Track Name": "Gone Doe La",
+        "Result Artist Names": [
+            "Monkeyworks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7k3Eh4dTrTVE5UDC7QqQ7z",
+        "Result Album Name": "Monkeyworks"
     },
     {
         "ATC Track": "Up and Running",
         "ATC Artists": [
             "Caroline Dahl"
-        ]
+        ],
+        "Result Track Name": "Up and Running",
+        "Result Artist Names": [
+            "Caroline Dahl"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fffctoOi9xIoLwhWDVFmQ",
+        "Result Album Name": "No Hats"
     },
     {
         "Title": "Islamic Charity Battles Justice Department Charges",
@@ -163,13 +249,29 @@
         "ATC Track": "In the Deep Shade",
         "ATC Artists": [
             "The Frames"
-        ]
+        ],
+        "Result Track Name": "In The Deep Shade",
+        "Result Artist Names": [
+            "The Frames"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AmmBwFS0DLRm70KzJtmvO",
+        "Result Album Name": "For The Birds"
     },
     {
         "ATC Track": "One Winter's Night",
         "ATC Artists": [
             "Strength in Numbers"
-        ]
+        ],
+        "Result Track Name": "One Winter's Night",
+        "Result Artist Names": [
+            "Strength In Numbers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lYOyLtzF7N4k3NkAMxo8J",
+        "Result Album Name": "Telluride Sessions"
     },
     {
         "Title": "Steven Isserlis",
@@ -181,7 +283,12 @@
         "ATC Track": "Dazed and Confused",
         "ATC Artists": [
             "Section"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Violence Breaks Out in Caracas Over Oil Strike",

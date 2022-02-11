@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-12-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:36:36"
+        "Scanned Date": "2022-02-06 21:36:36",
+        "Playlist URI": "1AcmwGn78EcqgXGPxmiCJh",
+        "Playlist Link": "https://open.spotify.com/playlist/1AcmwGn78EcqgXGPxmiCJh",
+        "Snapshot ID": "MSxkN2ZmNzA1MzNkODRlZWE1NjgwYTQ2MjA4MjBhZmE0Mjg4MzkzZTY0",
+        "Playlist Name": "ATC 2002-12-01 Sun All Things Considered"
     },
     {
         "Title": "AIDS May Pose Security Risk",
@@ -16,7 +20,16 @@
         "ATC Track": "Arctic Paradise",
         "ATC Artists": [
             "Maria Kalaniemi"
-        ]
+        ],
+        "Result Track Name": "Arctic Paradise",
+        "Result Artist Names": [
+            "Maria Kalaniemi",
+            "Aldargaz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5za6JRyxvJSqbRWeJsvldZ",
+        "Result Album Name": "Ahma"
     },
     {
         "Title": "Boston Archdiocese Considers Bankruptcy",
@@ -28,7 +41,18 @@
         "ATC Track": "Fixe",
         "ATC Artists": [
             "Cirque Du Soleil"
-        ]
+        ],
+        "Result Track Name": "Fixe",
+        "Result Artist Names": [
+            "René Dupéré",
+            "Cirque du Soleil",
+            "Luc Gilbert",
+            "Louise Trudel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Lhf6yKMvc0J7Z4rrPEXhF",
+        "Result Album Name": "Nouvelle Experience"
     },
     {
         "Title": "Schools Face Budget Crisis",
@@ -64,7 +88,15 @@
         "ATC Track": "GRACIAS PEPE",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Gracias Pepé",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fHdRUXFFcoaccwouCtUgS",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "A Look at the Life of Strom Thurmond",
@@ -88,6 +120,14 @@
         "ATC Track": "Wild River",
         "ATC Artists": [
             "David Arkenstone"
-        ]
+        ],
+        "Result Track Name": "Wild River",
+        "Result Artist Names": [
+            "David Arkenstone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3O3hgFAypDmdaUL8YtQlcd",
+        "Result Album Name": "Sketches from an American Journey"
     }
 ]

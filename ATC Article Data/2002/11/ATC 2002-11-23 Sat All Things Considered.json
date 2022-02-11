@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-11-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:39:47"
+        "Scanned Date": "2022-02-06 21:39:47",
+        "Playlist URI": "4c5MGcp0ZfXHVWWXvmXwpY",
+        "Playlist Link": "https://open.spotify.com/playlist/4c5MGcp0ZfXHVWWXvmXwpY",
+        "Snapshot ID": "MSxiNzQzN2NlZmI5MWVkOGUwNDRiNTYzNmY2MmNhNmQzZmE5MzdmMjIw",
+        "Playlist Name": "ATC 2002-11-23 Sat All Things Considered"
     },
     {
         "Title": "Bush in Romania",
@@ -16,7 +20,15 @@
         "ATC Track": "Equinox",
         "ATC Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "Equinox",
+        "Result Artist Names": [
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56elAIX47Q7vSQ1bpKNhHo",
+        "Result Album Name": "Naima"
     },
     {
         "Title": "Saddam's Quest for Weapons",
@@ -28,7 +40,12 @@
         "ATC Track": "Hullupolsha",
         "ATC Artists": [
             "Timo Vaananen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Swiss Seek to Slow Influx of Asylum Seekers",
@@ -46,14 +63,27 @@
         "ATC Track": "Hullupolsha",
         "ATC Artists": [
             "Timo Vaananen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "'S Wonderful",
         "ATC Artists": [
             "Ruby Braff",
             "Coleman Hawkins"
-        ]
+        ],
+        "Result Track Name": "'S Wonderful - from Funny Face",
+        "Result Artist Names": [
+            "Ruby Braff & Coleman Hawkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0p3ApyBPvSawH7CREdeMEi",
+        "Result Album Name": "Jazz Gershwin"
     },
     {
         "Title": "Susan Stamberg, Fans Dish About Cranberry Relish",
@@ -65,7 +95,16 @@
         "ATC Track": "Mirabella (A Tarantella)",
         "ATC Artists": [
             "Margaret Leng Tan"
-        ]
+        ],
+        "Result Track Name": "Mirabella (a Tarantella)",
+        "Result Artist Names": [
+            "Stephen Montague",
+            "Margaret Leng Tan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73gJ6Tfz43a9U5Kqt21rGy",
+        "Result Album Name": "The Art of the Toy Piano"
     },
     {
         "Title": "Britain to Ease Quarantine on Pets from U.S.",

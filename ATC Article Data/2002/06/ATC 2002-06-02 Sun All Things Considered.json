@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:47:27"
+        "Scanned Date": "2022-02-06 21:47:27",
+        "Playlist URI": "2H86774r0q8SKLR1BKjEYu",
+        "Playlist Link": "https://open.spotify.com/playlist/2H86774r0q8SKLR1BKjEYu",
+        "Snapshot ID": "MSxkMzhjZGRmNWIzMjMxNmZmMDFmMmRhNDZkMTVkZjA5N2Q3ZmFmMmEy",
+        "Playlist Name": "ATC 2002-06-02 Sun All Things Considered"
     },
     {
         "Title": "Law Enforcement",
@@ -16,7 +20,15 @@
         "ATC Track": "Sogoso",
         "ATC Artists": [
             "Adam Rudolph"
-        ]
+        ],
+        "Result Track Name": "Sogoso",
+        "Result Artist Names": [
+            "Adam Rudolph's Moving Pictures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5CKTErbDjPyhAJhKojqjHW",
+        "Result Album Name": "Adam Rudolph's Moving Pictures"
     },
     {
         "Title": "World Cup",
@@ -52,13 +64,31 @@
         "ATC Track": "Pomp and Circumstance March No. 1",
         "ATC Artists": [
             "Band of the Life Guards"
-        ]
+        ],
+        "Result Track Name": "Land of Hope and Glory: Pomp and Circumstance March No. 1 - Instrumental",
+        "Result Artist Names": [
+            "Edward Elgar",
+            "Band of the Life Guards",
+            "Major Colin J. Reeves"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T8bBYxbwcLUimaLAoxllz",
+        "Result Album Name": "The Royal Salute"
     },
     {
         "ATC Track": "Chow Down",
         "ATC Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "Chow Down - Live",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55qjibmZl5LtshmqW6RRrA",
+        "Result Album Name": "London England Live"
     },
     {
         "Title": "Lax Noise Pollution",
@@ -72,7 +102,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Syeeda's Song Flute",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35z8W5ruxabD8eXx1KFG6m",
+        "Result Album Name": "It's A Jungle In Here"
     },
     {
         "Title": "Women Rabbis",
@@ -84,7 +122,15 @@
         "ATC Track": "Point A",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Point A",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22OolJYm9OfS0ERRKJhcuv",
+        "Result Album Name": "Taproot"
     },
     {
         "Title": "Hearing Pictures",
@@ -102,6 +148,14 @@
         "ATC Track": "Mother Goddess [Bhairavi]",
         "ATC Artists": [
             "Ali Akbar Khan"
-        ]
+        ],
+        "Result Track Name": "Mother Goddess (Bhairavi)",
+        "Result Artist Names": [
+            "Ali Akbar Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73u8oflMMpejRhaQq0egTs",
+        "Result Album Name": "Garden of Dreams"
     }
 ]

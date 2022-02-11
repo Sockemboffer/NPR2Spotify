@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:40:55"
+        "Scanned Date": "2022-02-06 21:40:55",
+        "Playlist URI": "6L5jw97R7mD2MvmeWKJwOu",
+        "Playlist Link": "https://open.spotify.com/playlist/6L5jw97R7mD2MvmeWKJwOu",
+        "Snapshot ID": "MSwzNzZkY2FlOWY2ZDVmMGFjOTQyZDZmZDY5ZTE0ZjA1YmRmMzczNGUy",
+        "Playlist Name": "ATC 2002-10-12 Sat All Things Considered"
     },
     {
         "Title": "Iraq",
@@ -22,7 +26,12 @@
         "ATC Track": "LAST YEAR'S NEST",
         "ATC Artists": [
             "PAUL CARROL BINKLEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ivory Coast",
@@ -40,7 +49,15 @@
         "ATC Track": "ACOUSTIC FUNK",
         "ATC Artists": [
             "PEPPINO D'AGOSTINO"
-        ]
+        ],
+        "Result Track Name": "Acoustic Funk",
+        "Result Artist Names": [
+            "Peppino D'Agostino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nB8GxAN5KA0o1OZghjwSg",
+        "Result Album Name": "Acoustic Guitar with Peppino D'Agostino"
     },
     {
         "Title": "Next Christianity",
@@ -52,14 +69,34 @@
         "ATC Track": "LOLITA",
         "ATC Artists": [
             "ANDY SUMMERS AND JOHN ETHERIDGE"
-        ]
+        ],
+        "Result Track Name": "Lolita",
+        "Result Artist Names": [
+            "Andy Summers",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0TB5qzAmYNbpAWiCwA6poO",
+        "Result Album Name": "Invisible Threads"
     },
     {
         "ATC Track": "Primacy of Number",
         "ATC Artists": [
             "Philip Glass Ensemble",
             "Yo-Yo Ma et. al."
-        ]
+        ],
+        "Result Track Name": "Primacy of Number",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Yo-Yo Ma",
+            "Philip Glass Ensemble",
+            "Michael Riesman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aprQuUcPrH1nPgTlM4jZE",
+        "Result Album Name": "Naqoyqatsi (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Statute of Limitations",
@@ -95,6 +132,14 @@
         "ATC Track": "Inner Gallery",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Inner Gallery",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bG7o1fJriVorknOx9MX0p",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     }
 ]

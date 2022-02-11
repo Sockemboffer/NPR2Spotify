@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:40:32"
+        "Scanned Date": "2022-02-06 21:40:32",
+        "Playlist URI": "6c3Yk42VoLoCi8H08VBRH5",
+        "Playlist Link": "https://open.spotify.com/playlist/6c3Yk42VoLoCi8H08VBRH5",
+        "Snapshot ID": "MSw0NDVjZmNhOGI3NjY1NjU0OGJlMDY5M2NjODllY2NmYzYwOGNkMzgw",
+        "Playlist Name": "ATC 2002-10-06 Sun All Things Considered"
     },
     {
         "Title": "Israel's Shield",
@@ -40,13 +44,29 @@
         "ATC Track": "Old Jalopy",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": "Old Jalopy",
+        "Result Artist Names": [
+            "Gideon Freudmann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Tb85yWePUNFKU9gUog9Wc",
+        "Result Album Name": "Ukrainian Pajama Party"
     },
     {
         "ATC Track": "California Zephyr",
         "ATC Artists": [
             "Lynn Patrick"
-        ]
+        ],
+        "Result Track Name": "California Zephyr",
+        "Result Artist Names": [
+            "Lynn Patrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hFJpLhIIwmOMfP1Egow4V",
+        "Result Album Name": "Winnie's Guitar"
     },
     {
         "Title": "Opus Dei",
@@ -64,7 +84,15 @@
         "ATC Track": "Money for Nothing",
         "ATC Artists": [
             "Dire Straits"
-        ]
+        ],
+        "Result Track Name": "Money for Nothing",
+        "Result Artist Names": [
+            "Dire Straits"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yqtwO7MQIIXqoiRBPHAgR",
+        "Result Album Name": "Brothers in Arms"
     },
     {
         "Title": "Breece Pancake",
@@ -76,6 +104,14 @@
         "ATC Track": "BURY ME NOT ON THE LONE PRAIRIE",
         "ATC Artists": [
             "TODD PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Bury Me Not On The Lone Prairie",
+        "Result Artist Names": [
+            "Todd Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eO9yv9TDT0CRAr36RpboM",
+        "Result Album Name": "In The Pines"
     }
 ]

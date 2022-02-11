@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-02",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:42:22"
+        "Scanned Date": "2022-02-06 21:42:22",
+        "Playlist URI": "7s8WpfRdy8aBY2AuOEM1ww",
+        "Playlist Link": "https://open.spotify.com/playlist/7s8WpfRdy8aBY2AuOEM1ww",
+        "Snapshot ID": "MSw4N2ExOTcxNmZmNDlhMzFmZGMwNTBkNGJlZmM2MDY0NDI4NmY1ZjJm",
+        "Playlist Name": "ATC 2002-09-02 Mon All Things Considered"
     },
     {
         "Title": "Summit",
@@ -28,13 +32,26 @@
         "ATC Track": "Don't Mess With Mister T.",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Groovin'",
         "ATC Artists": [
             "The Streamliners"
-        ]
+        ],
+        "Result Track Name": "Groovin'",
+        "Result Artist Names": [
+            "The Rascals"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5fUAeaKKGxX8gMvilINQKe",
+        "Result Album Name": "Atlantic Records 40th Anniversary: Hit Singles [1958-1977]"
     },
     {
         "Title": "Summer Regrets",
@@ -52,13 +69,26 @@
         "ATC Track": "No Woman, No Cry",
         "ATC Artists": [
             "Monty Alexander"
-        ]
+        ],
+        "Result Track Name": "No Woman No Cry - Live",
+        "Result Artist Names": [
+            "Monty Alexander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gvXbKqKKU7TL0efbnCIfm",
+        "Result Album Name": "Harlem-Kingston Express (Live at Dizzy's Club Coca-Cola, NYC)"
     },
     {
         "ATC Track": "Fullerton, Ca",
         "ATC Artists": [
             "Doublemranch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ridin' with Junior Mcgee",
@@ -70,7 +100,15 @@
         "ATC Track": "Calypsico",
         "ATC Artists": [
             "Zydeco All Stars"
-        ]
+        ],
+        "Result Track Name": "Calypsico",
+        "Result Artist Names": [
+            "Zydeco All-Stars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ZqUM5oDCaCfjyZxH2blmA",
+        "Result Album Name": "Best of Zydeco Instrumentals"
     },
     {
         "Title": "President Bush",
@@ -88,13 +126,29 @@
         "ATC Track": "Higher Ground",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": "Higher Ground",
+        "Result Artist Names": [
+            "Regina Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Ay7zf3gw6e2sNcjBIh3Lh",
+        "Result Album Name": "Motor City Moments"
     },
     {
         "ATC Track": "El Machete",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "El Machete",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:71FG1RSFyLpVqtaeWqbKHV",
+        "Result Album Name": "Liberation Afro Beat Vol.1"
     },
     {
         "Title": "Fall Preview",
@@ -106,7 +160,12 @@
         "ATC Track": "The Ending First",
         "ATC Artists": [
             "Doublemranch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Cathedral",
@@ -130,13 +189,29 @@
         "ATC Track": "N.E.S.T.A. [Never Ever Submit to Authority]",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "N.E.S.T.A - Never Ever Submit to Authority",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0P5p6KehtFC4ih7LquAzQT",
+        "Result Album Name": "Liberation Afro Beat Vol.1"
     },
     {
         "ATC Track": "NICE WORK IF YOU CAN GET IT",
         "ATC Artists": [
             "JOHN HICKS"
-        ]
+        ],
+        "Result Track Name": "Nice Work If You Can Get It",
+        "Result Artist Names": [
+            "John Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1AuWLJkWlA2r5CYBecmgYw",
+        "Result Album Name": "Biding My Time: John Miller Plays George Gershwin"
     },
     {
         "Title": "Firesign",
@@ -149,6 +224,14 @@
         "ATC Artists": [
             "Wycliffe Gordon",
             "Ronald Westray"
-        ]
+        ],
+        "Result Track Name": "Modern Nostalgia",
+        "Result Artist Names": [
+            "Wycliffe Gordon & Ronald Westray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0f8Js44ysitEywx3bbPmP2",
+        "Result Album Name": "Bone Structure"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-10-21",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 21:41:38"
+        "Scanned Date": "2022-02-06 21:41:38",
+        "Playlist URI": "4uEkE1JuqxrOL2mAPtejoU",
+        "Playlist Link": "https://open.spotify.com/playlist/4uEkE1JuqxrOL2mAPtejoU",
+        "Snapshot ID": "MSwzOWUyZTE1NzU0N2ExZjE4NzUwYzhhZTFkNDhkZjIzZTZiYmE1MTQ2",
+        "Playlist Name": "ATC 2002-10-21 Mon All Things Considered"
     },
     {
         "Title": "U.S. - Iraq",
@@ -28,7 +32,12 @@
         "ATC Track": "Forever",
         "ATC Artists": [
             "Acoustek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israel Bus Bombing",
@@ -46,13 +55,23 @@
         "ATC Track": "Moonshaker",
         "ATC Artists": [
             "Acoustek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Red River",
         "ATC Artists": [
             "Esteban"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Organic Labels",
@@ -76,7 +95,15 @@
         "ATC Track": "CHARLIE DOZEN",
         "ATC Artists": [
             "THE DIRTY DOZEN BRASS BAND"
-        ]
+        ],
+        "Result Track Name": "Charlie Dozen",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RlVBRbZ07Kol6ushYUYJN",
+        "Result Album Name": "This is Jazz 30: The Dirty Dozen Brass Band"
     },
     {
         "Title": "Rural Sewage",
@@ -94,7 +121,15 @@
         "ATC Track": "Sabrosa",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Sabrosa",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yOhl93toXcntCqDtAI7iL",
+        "Result Album Name": "The In Sound From Way Out!"
     },
     {
         "Title": "Sniper Latest",
@@ -118,13 +153,30 @@
         "ATC Track": "New Moon",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "New Moon",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gLt20g7iEd6xDecyPDVRj",
+        "Result Album Name": "elm street"
     },
     {
         "ATC Track": "The Diamond World",
         "ATC Artists": [
             "Ahn Trio"
-        ]
+        ],
+        "Result Track Name": "The Diamond World - 1998",
+        "Result Artist Names": [
+            "Eric Ewazen",
+            "Ahn Trio/Brian Resnick/Matthew Gold"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5uhzWdfTaK4baggeTufQOy",
+        "Result Album Name": "Ahn-Plugged"
     },
     {
         "Title": "N. Korea",
@@ -142,13 +194,29 @@
         "ATC Track": "Departures",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Departures",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zvyHRskkAwGpoUezCOVer",
+        "Result Album Name": "elm street"
     },
     {
         "ATC Track": "Maverick",
         "ATC Artists": [
             "Esteban"
-        ]
+        ],
+        "Result Track Name": "Maverick",
+        "Result Artist Names": [
+            "Esteban's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6I8JztMyfuXkPKqamCoNDM",
+        "Result Album Name": "Overthrown"
     },
     {
         "Title": "Minnesota Candidates",
@@ -161,7 +229,15 @@
         "ATC Artists": [
             "8 1",
             "2 SOUVENIRS"
-        ]
+        ],
+        "Result Track Name": "Place de Brouckere",
+        "Result Artist Names": [
+            "8 1/2 Souvenirs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67W7mTEMbSG1yFGCT1ufoJ",
+        "Result Album Name": "Happy Feet"
     },
     {
         "Title": "Bible Bones",
@@ -179,12 +255,22 @@
         "ATC Track": "RID EOF THE RUTHLESS",
         "ATC Artists": [
             "BIG GUITARS FROM TEXAS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "It's Your Thing/jackson's Thing",
         "ATC Artists": [
             "29th Street Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

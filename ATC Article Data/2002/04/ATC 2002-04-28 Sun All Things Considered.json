@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-04-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:52:56"
+        "Scanned Date": "2022-02-06 21:52:56",
+        "Playlist URI": "1V6MqiIn8utWLMweLljyUN",
+        "Playlist Link": "https://open.spotify.com/playlist/1V6MqiIn8utWLMweLljyUN",
+        "Snapshot ID": "MSw3ZjRhNjdjMWI1YmU4ZWY5MTA4NjAyZmRmN2FiNGU2OTEzMzg1YTE5",
+        "Playlist Name": "ATC 2002-04-28 Sun All Things Considered"
     },
     {
         "Title": "Worshippers",
@@ -16,7 +20,12 @@
         "ATC Track": "SUITE FOR THE DUTCHES",
         "ATC Artists": [
             "HARVEY REID"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mideast",
@@ -29,7 +38,16 @@
         "ATC Artists": [
             "Michael Franti",
             "Spearhead"
-        ]
+        ],
+        "Result Track Name": "Skin On The Drum - Bassnectar Redux",
+        "Result Artist Names": [
+            "Michael Franti & Spearhead",
+            "Bassnectar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JGSLaWJcb3ahxmlFKJM0D",
+        "Result Album Name": "All Colors"
     },
     {
         "Title": "The Good Life",
@@ -47,13 +65,29 @@
         "ATC Track": "I'm Not So Sure",
         "ATC Artists": [
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "I'm Not So Sure",
+        "Result Artist Names": [
+            "Milt Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BP3KWsRKNO3a5ZKz5NC42",
+        "Result Album Name": "Olinga (Bonus Track Version)"
     },
     {
         "ATC Track": "September 13",
         "ATC Artists": [
             "Deodato"
-        ]
+        ],
+        "Result Track Name": "September 13",
+        "Result Artist Names": [
+            "Deodato"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1XijA9LO8z5AzXWDWaDqpS",
+        "Result Album Name": "Prelude (CTI Records 40th Anniversary Edition)"
     },
     {
         "Title": "Argentina",
@@ -71,7 +105,17 @@
         "ATC Track": "Township Kwela",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Township Kwela",
+        "Result Artist Names": [
+            "Timothy Walker",
+            "John Williams",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NQBKRmI5S1906rwmE4KeH",
+        "Result Album Name": "The Magic Box"
     },
     {
         "Title": "Napa Valley Migrant Workers",
@@ -83,7 +127,15 @@
         "ATC Track": "Atabaque",
         "ATC Artists": [
             "Jazzanova"
-        ]
+        ],
+        "Result Track Name": "Atabaque",
+        "Result Artist Names": [
+            "Jazzanova"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gxoO58WeQiWvg6sSoKKum",
+        "Result Album Name": "The New Latinaires"
     },
     {
         "Title": "L.A., 10 Years after the Riots",
@@ -95,6 +147,14 @@
         "ATC Track": "People Make the World Go Round",
         "ATC Artists": [
             "Milt Jackson"
-        ]
+        ],
+        "Result Track Name": "People Make The World Go Round",
+        "Result Artist Names": [
+            "Milt Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dMmSPni5BC7pTGjxEKE6c",
+        "Result Album Name": "Sunflower (CTI Records 40th Anniversary Edition)"
     }
 ]

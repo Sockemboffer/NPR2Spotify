@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-11-22",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 21:39:45"
+        "Scanned Date": "2022-02-06 21:39:45",
+        "Playlist URI": "1qfU5JPnEdFyiFmQmgjwMX",
+        "Playlist Link": "https://open.spotify.com/playlist/1qfU5JPnEdFyiFmQmgjwMX",
+        "Snapshot ID": "MSw0ZWYzNTQ4NTliYjJiZjlkMDQyNWZjNmM0NjRlMWU1YThhOTRkOWJk",
+        "Playlist Name": "ATC 2002-11-22 Fri All Things Considered"
     },
     {
         "Title": "EPA Relaxes Clean-Air Rules",
@@ -22,7 +26,12 @@
         "ATC Track": "Radio Waves",
         "ATC Artists": [
             "Doublemranch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Anti-Miss World Rioting",
@@ -34,13 +43,28 @@
         "ATC Track": "Radio Waves",
         "ATC Artists": [
             "Doublemranch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "You Only Live Twice",
         "ATC Artists": [
             "Sex Mob"
-        ]
+        ],
+        "Result Track Name": "You Only Live Twice",
+        "Result Artist Names": [
+            "Sex Mob",
+            "John Medeski",
+            "Steven Bernstein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3boBm8hr02rYu4MCPO8iyF",
+        "Result Album Name": "Sex Mob Meets Medeski- Live In Willisau"
     },
     {
         "Title": "Skinwalkers",
@@ -58,7 +82,15 @@
         "ATC Track": "Speak Low",
         "ATC Artists": [
             "Allen Savedoff"
-        ]
+        ],
+        "Result Track Name": "Speak Low",
+        "Result Artist Names": [
+            "Allen Savedoff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6R9MWQGqF0VmgBdqF21u77",
+        "Result Album Name": "Contradiction"
     },
     {
         "Title": "Kennedy Tapes: 'Government Improvised in the Air' (Pt. I)",
@@ -76,7 +108,15 @@
         "ATC Track": "Blues for Marilyn",
         "ATC Artists": [
             "Hal Schaefer"
-        ]
+        ],
+        "Result Track Name": "Blues For Marilyn",
+        "Result Artist Names": [
+            "Hal Schaefer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pefWi1IZ7iQWhcIAIKUyO",
+        "Result Album Name": "June 1st"
     },
     {
         "Title": "Bush, Putin on Iraq",
@@ -100,13 +140,26 @@
         "ATC Track": "Garifuna",
         "ATC Artists": [
             "Wayward Shamans"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "We See",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "We See",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yuw5PLtxwo9lZcFBgBXbe",
+        "Result Album Name": "Marsalis Plays Monk - Standard Time Vol. 4"
     },
     {
         "Title": "Baseball",
@@ -124,13 +177,29 @@
         "ATC Track": "Stone on the Water",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "Stone on the Water",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lOqVqq8bI50qW9mHdyFai",
+        "Result Album Name": "The Hour of Bewilderbeast"
     },
     {
         "ATC Track": "Lava",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Lava",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zREHNThohe8Ah7GBODRLd",
+        "Result Album Name": "Lava"
     },
     {
         "Title": "Diet Ad Crackdown",
@@ -154,6 +223,11 @@
         "ATC Track": "Trojan Women/Lament I (Constantinople Lyra, Ney)",
         "ATC Artists": [
             "Eleni Karaindrou"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

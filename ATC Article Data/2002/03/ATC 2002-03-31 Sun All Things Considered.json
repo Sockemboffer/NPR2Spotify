@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-03-31",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:54:41"
+        "Scanned Date": "2022-02-06 21:54:41",
+        "Playlist URI": "0BAljQKtpDmHnaBOK518MP",
+        "Playlist Link": "https://open.spotify.com/playlist/0BAljQKtpDmHnaBOK518MP",
+        "Snapshot ID": "MSwxZTNhZTlhYzkyMDExMGViYzc3Mjc1NDIzMDM2MmI3YzkzMjk2YmI5",
+        "Playlist Name": "ATC 2002-03-31 Sun All Things Considered"
     },
     {
         "Title": "Bombs & Attacks",
@@ -28,7 +32,15 @@
         "ATC Track": "Heaven",
         "ATC Artists": [
             "Lamb"
-        ]
+        ],
+        "Result Track Name": "Heaven Bent",
+        "Result Artist Names": [
+            "Lady Lamb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0bjTW3zBohWdYy2z1Sf5hJ",
+        "Result Album Name": "Tender Warriors Club"
     },
     {
         "Title": "N.J. Drivers",
@@ -46,13 +58,26 @@
         "ATC Track": "Smoke House",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Winter",
         "ATC Artists": [
             "Ken Murphy"
-        ]
+        ],
+        "Result Track Name": "Winter",
+        "Result Artist Names": [
+            "Samuel Murphy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7JBDtS5IfN1en6zNjLq8Jo",
+        "Result Album Name": "Leaves in the Wind"
     },
     {
         "Title": "Smaller Airports",
@@ -88,6 +113,14 @@
         "ATC Track": "Maquina 501",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Maquina 501",
+        "Result Artist Names": [
+            "Paraiso Tropical"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckEwP5zgi4fP95iA47MD9",
+        "Result Album Name": "Paraiso Tropical"
     }
 ]

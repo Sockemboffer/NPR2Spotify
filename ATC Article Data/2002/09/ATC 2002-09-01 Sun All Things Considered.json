@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-09-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:42:19"
+        "Scanned Date": "2022-02-06 21:42:19",
+        "Playlist URI": "3vEEMEhoyhY0QoGDmhROeE",
+        "Playlist Link": "https://open.spotify.com/playlist/3vEEMEhoyhY0QoGDmhROeE",
+        "Snapshot ID": "MSw1YTAwOTIxODdhOTA3OWVmOGFiYzIzNWQwOTU3NzgwMWNjMDYzNDVi",
+        "Playlist Name": "ATC 2002-09-01 Sun All Things Considered"
     },
     {
         "Title": "West Nile",
@@ -22,7 +26,12 @@
         "ATC Track": "Riding the Nuclear Tiger",
         "ATC Artists": [
             "Ben Allison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sustainable Development",
@@ -46,7 +55,12 @@
         "ATC Track": "Mercy, Mercy, Mercy",
         "ATC Artists": [
             "Mick Weaver"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "French Vacations",
@@ -58,7 +72,15 @@
         "ATC Track": "Lela",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Lela",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Gke6gstvMA9dGdDMD366G",
+        "Result Album Name": "Ronroco"
     },
     {
         "Title": "Tubby the Tuba",
@@ -76,7 +98,15 @@
         "ATC Track": "Wright's Rolls and Butter",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Wright's Rolls and Butter",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ah2v5b1XnsOKkTiGbprsW",
+        "Result Album Name": "Lunchtime Jazz"
     },
     {
         "Title": "The Accidental Hunter",
@@ -88,6 +118,11 @@
         "ATC Track": "Beautiful Ride",
         "ATC Artists": [
             "Perplexa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

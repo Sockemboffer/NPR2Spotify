@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-07-07",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 21:46:01"
+        "Scanned Date": "2022-02-06 21:46:01",
+        "Playlist URI": "1RT3rNjVpggNw8Q1p5nTvn",
+        "Playlist Link": "https://open.spotify.com/playlist/1RT3rNjVpggNw8Q1p5nTvn",
+        "Snapshot ID": "MSw1MTI2MzMxOWEwN2M1MzY5YmFjYzZjYWY1YjFjNzJjOGYzNmQ3N2U2",
+        "Playlist Name": "ATC 2002-07-07 Sun All Things Considered"
     },
     {
         "Title": "AIDS Conference",
@@ -19,7 +23,18 @@
             "Jan Garbarek",
             "Eberhard Weber",
             "Jon Christensen"
-        ]
+        ],
+        "Result Track Name": "Oceanus",
+        "Result Artist Names": [
+            "Ralph Towner",
+            "Jan Garbarek",
+            "Eberhard Weber",
+            "Jon Christensen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UZYZG3Wkf7ji6aUxqFbaU",
+        "Result Album Name": "Solstice"
     },
     {
         "Title": "Texas Floods",
@@ -44,14 +59,30 @@
         "ATC Artists": [
             "JAMES CARTER",
             "CYRUS CHESTNUT"
-        ]
+        ],
+        "Result Track Name": "A Rare Gem",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6hfdzni9QjNCoYX4oBUz7l",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "ATC Track": "CALL ME LATER",
         "ATC Artists": [
             "JAMES CARTER",
             "CYRUS CHESTNUT"
-        ]
+        ],
+        "Result Track Name": "Call Me Later",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2eCNySncBczM9qVDKN3WPp",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "Title": "Smallpox",
@@ -75,7 +106,12 @@
         "ATC Track": "Riding the Nuclear Tiger",
         "ATC Artists": [
             "Ben Allison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "You've Been Warned",
@@ -93,6 +129,14 @@
         "ATC Track": "Kassie Jones: Part 2",
         "ATC Artists": [
             "Furry Lewis"
-        ]
+        ],
+        "Result Track Name": "Kassie Jones - Part 2",
+        "Result Artist Names": [
+            "Furry Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:02T8GDvas3jy7Ju0MZVpZB",
+        "Result Album Name": "Furry Lewis 1927 - 1929"
     }
 ]

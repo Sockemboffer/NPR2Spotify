@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-01-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:56:25"
+        "Scanned Date": "2022-02-06 21:56:25",
+        "Playlist URI": "3lsIoLLHLvKawTMd9T6Inr",
+        "Playlist Link": "https://open.spotify.com/playlist/3lsIoLLHLvKawTMd9T6Inr",
+        "Snapshot ID": "MSwxNzdkY2UwNTk2NDdiNGMxMzU0NDExZmNmMWExNzc4MTFhOTg3NGQx",
+        "Playlist Name": "ATC 2002-01-05 Sat All Things Considered"
     },
     {
         "Title": "Pakistan",
@@ -28,7 +32,15 @@
         "ATC Track": "El Puente",
         "ATC Artists": [
             "Robin Nolan Trio"
-        ]
+        ],
+        "Result Track Name": "El Puente",
+        "Result Artist Names": [
+            "Robin Nolan Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rjfMIua2oTgOJaU1kMKkF",
+        "Result Album Name": "Mediterranean Blues"
     },
     {
         "Title": "Euroweek",
@@ -40,7 +52,12 @@
         "ATC Track": "KNODELPOLKA",
         "ATC Artists": [
             "DIE KNODEL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Science Wrap",
@@ -52,13 +69,29 @@
         "ATC Track": "Quiet Village",
         "ATC Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "Quiet Village - Original Mono Version",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZI49HJE66dhI3EvYHDqSz",
+        "Result Album Name": "Exotica"
     },
     {
         "ATC Track": "JET POLKA",
         "ATC Artists": [
             "DIE KNODEL"
-        ]
+        ],
+        "Result Track Name": "Jet Polka",
+        "Result Artist Names": [
+            "Die Knödel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:57WIPVlpqGQHzNKyFPKIaG",
+        "Result Album Name": "Verkochte Tiroler"
     },
     {
         "Title": "Brazil",
@@ -71,7 +104,16 @@
         "ATC Artists": [
             "Jorge Ben",
             "Toquinho"
-        ]
+        ],
+        "Result Track Name": "Carolina Carol Bela",
+        "Result Artist Names": [
+            "Jorge Ben Jor",
+            "Toquinho"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:1TyAln1zOKleMgM8vE62cU",
+        "Result Album Name": "25 Years of Mr. Bongo (1989-2014)"
     },
     {
         "Title": "Esau and Jacob",
@@ -83,7 +125,15 @@
         "ATC Track": "Pau-De-Arara",
         "ATC Artists": [
             "Gilberto Gil"
-        ]
+        ],
+        "Result Track Name": "Último pau-de-arara",
+        "Result Artist Names": [
+            "Gilberto Gil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wVm6ism8Z6KEWl9RPghJS",
+        "Result Album Name": "As canções de eu, tu, eles"
     },
     {
         "Title": "Commentary: Preventing CD Piracy",

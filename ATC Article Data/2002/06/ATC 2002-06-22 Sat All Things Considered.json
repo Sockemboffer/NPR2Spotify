@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-06-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:48:40"
+        "Scanned Date": "2022-02-06 21:48:40",
+        "Playlist URI": "5H1bKu2ZJkRg6U3nsHM08o",
+        "Playlist Link": "https://open.spotify.com/playlist/5H1bKu2ZJkRg6U3nsHM08o",
+        "Snapshot ID": "MSw4YWJjZTZlMzFjMTBhN2I2YjczMGRiY2QxMTVmYzcxMTg0ZGE3ZWJh",
+        "Playlist Name": "ATC 2002-06-22 Sat All Things Considered"
     },
     {
         "Title": "Durango Fire",
@@ -28,7 +32,15 @@
         "ATC Track": "Deepest Blue",
         "ATC Artists": [
             "Karsh Kale"
-        ]
+        ],
+        "Result Track Name": "Deepest Blue",
+        "Result Artist Names": [
+            "Karsh Kale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ut1V9bADFLPNE5IYo87Je",
+        "Result Album Name": "Realize"
     },
     {
         "Title": "Fitness",
@@ -40,7 +52,12 @@
         "ATC Track": "Get Ready For This (Radio Mix)",
         "ATC Artists": [
             "2Unlimited"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Soccer Film",
@@ -56,14 +73,30 @@
             "R",
             "R",
             "S"
-        ]
+        ],
+        "Result Track Name": "Pump Up The Volume - UK 12\" Remix",
+        "Result Artist Names": [
+            "M/A/R/R/S"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LERtd1yiclxFH8MHAqr0Q",
+        "Result Album Name": "Pump Up The Volume"
     },
     {
         "ATC Track": "Getaway",
         "ATC Artists": [
             "Tuck",
             "Patti"
-        ]
+        ],
+        "Result Track Name": "Getaway",
+        "Result Artist Names": [
+            "Tuck & Patti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fS7Rnid7rwz04vknJ2c49",
+        "Result Album Name": "Pure Tuck & Patti"
     },
     {
         "Title": "Justin Dart, Jr. Obit",
@@ -93,7 +126,12 @@
         "ATC Track": "Walter Burley Griffin",
         "ATC Artists": [
             "The Catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Spaymobile",
@@ -111,6 +149,11 @@
         "ATC Track": "Why the Caged Bird Sings",
         "ATC Artists": [
             "The Catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

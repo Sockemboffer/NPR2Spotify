@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-03-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 21:54:17"
+        "Scanned Date": "2022-02-06 21:54:17",
+        "Playlist URI": "01aE4ZI4Xkw0oR1cO6gJPF",
+        "Playlist Link": "https://open.spotify.com/playlist/01aE4ZI4Xkw0oR1cO6gJPF",
+        "Snapshot ID": "MSwxMmJjZWY2NDQ1MGQ3Yzg4YzlmYmY5OWQ3NDA2MGM3M2I4Y2RlN2Zk",
+        "Playlist Name": "ATC 2002-03-23 Sat All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -16,7 +20,15 @@
         "ATC Track": "Point A",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Point A",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22OolJYm9OfS0ERRKJhcuv",
+        "Result Album Name": "Taproot"
     },
     {
         "Title": "Textiles",
@@ -34,7 +46,12 @@
         "ATC Track": "Big Black Sneakers",
         "ATC Artists": [
             "Raybeats"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "War Photographer",
@@ -46,13 +63,29 @@
         "ATC Track": "Artillerie Lourde (Heavy Artillery)",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Artillerie Lourde (Heavy Artillery)",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FuO1yeLljBoUA3FTaOlIb",
+        "Result Album Name": "Chasin' The Gypsy"
     },
     {
         "ATC Track": "Nuages",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "Nuages (Clouds)",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BMIOcIFmfp5YHvNTDnhah",
+        "Result Album Name": "Chasin' The Gypsy"
     },
     {
         "Title": "Muslim Women Online",
@@ -82,6 +115,14 @@
         "ATC Track": "Don't Fence Me In",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Don’t Fence Me In",
+        "Result Artist Names": [
+            "Mr. Vegas Man"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5W22bjwOE8GBEgDt1e0ZgN",
+        "Result Album Name": "Welcome to Fabulous Las Vegas!"
     }
 ]

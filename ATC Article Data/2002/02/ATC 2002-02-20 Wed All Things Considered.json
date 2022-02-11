@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2002-02-20",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 21:55:46"
+        "Scanned Date": "2022-02-06 21:55:46",
+        "Playlist URI": "0xvhZtoPiWuThY6NGFYEwY",
+        "Playlist Link": "https://open.spotify.com/playlist/0xvhZtoPiWuThY6NGFYEwY",
+        "Snapshot ID": "MSw0ZjEyODVmZTVhYWZiY2Q0N2Y2ZWU1ODhmZWIyMzhkZTA5NjdiMjgz",
+        "Playlist Name": "ATC 2002-02-20 Wed All Things Considered"
     },
     {
         "Title": "Supreme Court",
@@ -22,13 +26,26 @@
         "ATC Track": "April Aire",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "April Aire",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MTT8xqBu9vdSXr70WvO3d",
+        "Result Album Name": "Solo"
     },
     {
         "ATC Track": "Quizas, Quizas, Quizas [Bolero Cha]",
         "ATC Artists": [
             "Rubén González"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New York Works: Cowbell Maker",
@@ -46,7 +63,15 @@
         "ATC Track": "The Snake and the Lotus (The Pond)",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Snake And The Lotus (The Pond) - 2008 Digital Remaster",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8235294117647058,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5sRbd4Fi95BZ6jytP81vFl",
+        "Result Album Name": "Signs Of Life"
     },
     {
         "Title": "President Bush in China",
@@ -70,7 +95,18 @@
         "ATC Track": "THE WALTZiNG CAT",
         "ATC Artists": [
             "LEROY ANDERSON"
-        ]
+        ],
+        "Result Track Name": "The Waltzing Cat",
+        "Result Artist Names": [
+            "Leroy Anderson",
+            "Simon Tedeschi",
+            "Paul Mann",
+            "Melbourne Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rI1QQ8kMc7MH7LgnOPteX",
+        "Result Album Name": "The Waltzing Cat"
     },
     {
         "Title": "Ice Dancing Fashion",
@@ -89,13 +125,26 @@
         "ATC Artists": [
             "John O'conor",
             "Piano"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "fast food in a",
         "ATC Artists": [
             "die knodel"
-        ]
+        ],
+        "Result Track Name": "Fast Food in A",
+        "Result Artist Names": [
+            "Die Knödel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5MecxYoHGFqRkH3h4Slb43",
+        "Result Album Name": "Die, Noodle"
     },
     {
         "Title": "American Airlines Flight 587",
@@ -119,13 +168,26 @@
         "ATC Track": "Scenes From Ellis Island",
         "ATC Artists": [
             "Curtis High School Guitar Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Theme from Abbadesse's Street",
         "ATC Artists": [
             "Soulstance"
-        ]
+        ],
+        "Result Track Name": "Theme From 'abbadesse's Street'",
+        "Result Artist Names": [
+            "Soulstance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wMUHdDLMW4zJwRDVmXA2J",
+        "Result Album Name": "En Route"
     },
     {
         "Title": "DC Video Surveillance",
@@ -143,13 +205,23 @@
         "ATC Track": "Parisha",
         "ATC Artists": [
             "John Kruth"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Daphné",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "40th Anniversary of Glenn's Orbit",
@@ -162,13 +234,29 @@
         "ATC Artists": [
             "Brian Eno",
             "Roger Eno et. al."
-        ]
+        ],
+        "Result Track Name": "Always Returning - Remastered",
+        "Result Artist Names": [
+            "Brian Eno"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2Z81Ao2PO7UANNZBplQ29O",
+        "Result Album Name": "Apollo: Atmospheres And Soundtracks (Extended Edition)"
     },
     {
         "ATC Track": "Promenade (Tourists on the Menu)",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Promenade (Tourists On The Menu) - From The \"Jaws\" Soundtrack",
+        "Result Artist Names": [
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hVi3NoWPfghwf294n4tF7",
+        "Result Album Name": "Jaws (Music From The Original Motion Picture Soundtrack)"
     },
     {
         "Title": "MGM Online",
@@ -186,12 +274,28 @@
         "ATC Track": "The Daphne Quiz",
         "ATC Artists": [
             "Monkeyworks"
-        ]
+        ],
+        "Result Track Name": "The Daphne Quiz",
+        "Result Artist Names": [
+            "Monkeyworks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6xsFDRQ3B9hpRMzRCZH7kX",
+        "Result Album Name": "Monkeyworks"
     },
     {
         "ATC Track": "In a Sentimental Mood",
         "ATC Artists": [
             "Ted Piltzecker"
-        ]
+        ],
+        "Result Track Name": "In A Sentimental Mood",
+        "Result Artist Names": [
+            "Ted Piltzecker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gkAlKzA12Hr2U2WNHWd8D",
+        "Result Album Name": "Standing Alone"
     }
 ]
