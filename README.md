@@ -2,6 +2,12 @@
 # NPR2Spotify
 Generally, this program parses NPR Morning Edition, Weekend Edition, and All Things Considered and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
 
+========= Notice ========
+
+*** I've discovered that Spotify only shows the most recent 200 playlists publicly. If you use a link from the archive data you can view any of them. I'm working on a temperary solution in the meantime. If you're able, support with a vote here [All Platforms Playlists Get Rid of 200 Public Playlist Limit](https://community.spotify.com/t5/Closed-Ideas/All-Platforms-Playlists-Get-Rid-of-200-Public-Playlist-Limit/idc-p/5341981#M254645) ***
+
+=========================
+
 Morning and Weekend Edition playlists all public: [NPR MoWeEd](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
 
 All Things Considered playlists for 1996-1999 now public: [NPR ATC](https://open.spotify.com/user/31eljfpkmh4v6xux7mu36s32cmzu?si=760639e4c5344320)
@@ -42,6 +48,7 @@ Support your local [NPR station](https://www.npr.org/donations/support) today.
 [Weekend Edition Saturday](https://www.npr.org/programs/weekend-edition-saturday/)
 
 [Weekend Edition Sunday](https://www.npr.org/programs/weekend-edition-sunday/)
+
 [All Things Considered](https://www.npr.org/programs/all-things-considered/)
 ## Thanks
 My pal at [MBGameDev](https://github.com/mbgamedev/) for holding my hand a couple-few times.
