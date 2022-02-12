@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-04-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:57:41"
+        "Scanned Date": "2022-02-06 22:57:41",
+        "Playlist URI": "1lPpWGc01sQfU77Gx02UWd",
+        "Playlist Link": "https://open.spotify.com/playlist/1lPpWGc01sQfU77Gx02UWd",
+        "Snapshot ID": "MSw1Y2FiNjRiNzViYWQyZjA0MjNjMjI3NWY2MjMxZTUwYjlmN2Y5MTk1",
+        "Playlist Name": "ATC 2003-04-13 Sun All Things Considered"
     },
     {
         "Title": "POWs Rescued",
@@ -28,7 +32,15 @@
         "ATC Track": "Stories",
         "ATC Artists": [
             "Trapt"
-        ]
+        ],
+        "Result Track Name": "Stories",
+        "Result Artist Names": [
+            "Trapt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GxR3PuiqFiOvzT4TEZYJy",
+        "Result Album Name": "Trapt"
     },
     {
         "Title": "Chaos Remains in Iraqi Cities",
@@ -47,13 +59,26 @@
         "ATC Artists": [
             "Mike Elizondo",
             "Jose Antonio Pasillas II et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "CITYSCAPE",
         "ATC Artists": [
             "GARY CHANG"
-        ]
+        ],
+        "Result Track Name": "Cityscape",
+        "Result Artist Names": [
+            "Gary Wolk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4IthY1MF28efKBjZHVF5VI",
+        "Result Album Name": "Gary Wolk, Vol. 26"
     },
     {
         "Title": "War Roundup",
@@ -71,7 +96,16 @@
         "ATC Track": "Mouhamadou Bamba",
         "ATC Artists": [
             "Orchestra Baobab"
-        ]
+        ],
+        "Result Track Name": "Mouhamadou Bamba",
+        "Result Artist Names": [
+            "Orchestra Baobab",
+            "Baobab-Gouye-Gui de Dakar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QdcVm85PHGVXtA14LoG59",
+        "Result Album Name": "Mouhamadou Bamba"
     },
     {
         "Title": "Ethicist",

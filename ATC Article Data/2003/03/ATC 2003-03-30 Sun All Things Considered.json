@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-03-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:00:12"
+        "Scanned Date": "2022-02-06 23:00:12",
+        "Playlist URI": "3AzlMflBuanoahhhsx9eqh",
+        "Playlist Link": "https://open.spotify.com/playlist/3AzlMflBuanoahhhsx9eqh",
+        "Snapshot ID": "MSw0YmY3MmY3NTBhZGNhN2Y3ODAwYWQ3ZDQ4M2Q5NTM3NGFmYjhiOTQ2",
+        "Playlist Name": "ATC 2003-03-30 Sun All Things Considered"
     },
     {
         "Title": "U.S.: War Proceeds as Planned",
@@ -46,13 +50,26 @@
         "ATC Track": "Memory II",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Nile Crossing",
         "ATC Artists": [
             "Patrick Lee Hadley"
-        ]
+        ],
+        "Result Track Name": "Nile Crossing",
+        "Result Artist Names": [
+            "Patrick Lee Hadley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SMC7yfcpmIZvLotkXU5yk",
+        "Result Album Name": "Egypticat"
     },
     {
         "Title": "Saddam's Forces on the Retreat in Northern Iraq",
@@ -100,7 +117,15 @@
         "ATC Track": "Wormwood",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Wormwood",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:47JaWIAtppQRKLjPYxWzVf",
+        "Result Album Name": "Trading With The Enemy"
     },
     {
         "Title": "Pentagon Update",

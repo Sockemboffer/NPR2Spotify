@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-11-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:44:38"
+        "Scanned Date": "2022-02-06 22:44:38",
+        "Playlist URI": "3gnmF8IUPaDtlIbSc664qr",
+        "Playlist Link": "https://open.spotify.com/playlist/3gnmF8IUPaDtlIbSc664qr",
+        "Snapshot ID": "MSxiN2QzN2RlZTkyNjcyMzVjZmE0NzE3NWE1YzA4YmViMWI0YTk1Zjkx",
+        "Playlist Name": "ATC 2003-11-09 Sun All Things Considered"
     },
     {
         "Title": "Bombing Spurs Saudi Action",
@@ -22,7 +26,15 @@
         "ATC Track": "ELZIC'S FAREWELL",
         "ATC Artists": [
             "HILLBILLIES FROM MARS"
-        ]
+        ],
+        "Result Track Name": "Elzic's Farewell",
+        "Result Artist Names": [
+            "Hillbillies From Mars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:502aY31er5eeH2Gj94yzgz",
+        "Result Album Name": "Hillbillies from Mars"
     },
     {
         "Title": "Miller: Dems Don't Get South",
@@ -46,13 +58,26 @@
         "ATC Track": "Three/Quarter North",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Three/Quarter North",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qGgTXeBZCl7eei3axSzhQ",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "ATC Track": "Phiesope",
         "ATC Artists": [
             "µ-Ziq"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Qureia Compromises on Cabinet",
@@ -64,7 +89,12 @@
         "ATC Track": "Pocket Monster",
         "ATC Artists": [
             "Vibulator"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congressmen Tour U.S. Efforts in Iraq",
@@ -76,7 +106,15 @@
         "ATC Track": "Traces of the Beloved",
         "ATC Artists": [
             "Ghazal"
-        ]
+        ],
+        "Result Track Name": "Traces of the Beloved",
+        "Result Artist Names": [
+            "Ghazal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AVGX6yziTK4aGiH3NgMSk",
+        "Result Album Name": "As Night Falls On The Silk Road"
     },
     {
         "Title": "The Ethicist: When Your Neighbors Make Porn",
@@ -100,6 +138,11 @@
         "ATC Track": "SUITE IN C MAJOR",
         "ATC Artists": [
             "EUGEN M. DOMBOIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

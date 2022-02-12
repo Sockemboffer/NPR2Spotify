@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-11-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:45:30"
+        "Scanned Date": "2022-02-06 22:45:30",
+        "Playlist URI": "4m1JGcWjF3emhxvTyseO1O",
+        "Playlist Link": "https://open.spotify.com/playlist/4m1JGcWjF3emhxvTyseO1O",
+        "Snapshot ID": "MSwyY2ZhN2MyMWY4NmE2MmNmYTc2NTEwYmE2ZTEyNGIyN2FhYTFjMmQ5",
+        "Playlist Name": "ATC 2003-11-23 Sun All Things Considered"
     },
     {
         "Title": "Shevardnadze Resigns",
@@ -40,14 +44,27 @@
         "ATC Track": "The Full Monty",
         "ATC Artists": [
             "Anne Dudley"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chant of the Cosmos",
         "ATC Artists": [
             "Shorty Rogers",
             "His Giants"
-        ]
+        ],
+        "Result Track Name": "Chant of the Cosmos",
+        "Result Artist Names": [
+            "Shorty Rogers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2idITiACQEYHv8Lq5VT4cb",
+        "Result Album Name": "Martians, Come Back!"
     },
     {
         "Title": "Affirmative Action Ruling Requires New Approach",
@@ -89,12 +106,22 @@
         "ATC Track": "Morning Groove",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "She Ate the Fly",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

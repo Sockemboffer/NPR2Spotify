@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-01-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:02:37"
+        "Scanned Date": "2022-02-06 23:02:37",
+        "Playlist URI": "78opIs4MjPhnqRLynfgR9b",
+        "Playlist Link": "https://open.spotify.com/playlist/78opIs4MjPhnqRLynfgR9b",
+        "Snapshot ID": "MSxlZjEyOTRkMTgxMDcxOTMzMTk3ZTdiYmY0NjRkNjBjOWQzODMzMzlh",
+        "Playlist Name": "ATC 2003-01-11 Sat All Things Considered"
     },
     {
         "Title": "All Spared on Ill. Death Row",
@@ -34,13 +38,29 @@
         "ATC Track": "Prelude to the Sun",
         "ATC Artists": [
             "Rudy Perrone"
-        ]
+        ],
+        "Result Track Name": "Prelude To The Sun",
+        "Result Artist Names": [
+            "Rudy Perrone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1RfafdWohhWMsS6Mng6jp3",
+        "Result Album Name": "Guitar In The Kitchen"
     },
     {
         "ATC Track": "It's a Big Sun Out There",
         "ATC Artists": [
             "Rudy Perrone"
-        ]
+        ],
+        "Result Track Name": "It's A Big Sun Out There",
+        "Result Artist Names": [
+            "Rudy Perrone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UWPqOX5UEeQ2zfCIwZKCZ",
+        "Result Album Name": "Guitar In The Kitchen"
     },
     {
         "Title": "North Korea Talks",
@@ -52,7 +72,12 @@
         "ATC Track": "People Such as These (Ces Gens-La)",
         "ATC Artists": [
             "The Walkabouts"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "California's Davis Faces Fight in Cost-Cutting Effort",
@@ -82,7 +107,12 @@
         "ATC Track": "DIZZY FINGERS",
         "ATC Artists": [
             "GUIDO NIELSEN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Academic Lunacy' from Author Winegardner",
@@ -94,6 +124,11 @@
         "ATC Track": "Elephant Walk",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

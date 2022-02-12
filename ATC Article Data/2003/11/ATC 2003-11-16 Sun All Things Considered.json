@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-11-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:45:03"
+        "Scanned Date": "2022-02-06 22:45:03",
+        "Playlist URI": "3uxWC1q9Grkysd3KA0twly",
+        "Playlist Link": "https://open.spotify.com/playlist/3uxWC1q9Grkysd3KA0twly",
+        "Snapshot ID": "MSw2N2IwNjU1ZDZkMTJhZDk3NGQ0MTM3MzFlNGQ3NWE4NjcwN2UwNGRm",
+        "Playlist Name": "ATC 2003-11-16 Sun All Things Considered"
     },
     {
         "Title": "Medicare Drug Benefit Bill",
@@ -46,7 +50,12 @@
         "ATC Track": "TAKE FIVE",
         "ATC Artists": [
             "ROBERT LAFOND -- SYMFUNNY ORCH."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sen. Hagel on Iraq",
@@ -64,7 +73,15 @@
         "ATC Track": "Dream",
         "ATC Artists": [
             "Tindersticks"
-        ]
+        ],
+        "Result Track Name": "Paco De Renaldo's Dream",
+        "Result Artist Names": [
+            "Tindersticks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OZJFXRasMaWK0XGmNTtuB",
+        "Result Album Name": "The First Tindersticks Album (Deluxe Edition)"
     },
     {
         "Title": "The Red Rose Girls",
@@ -88,6 +105,11 @@
         "ATC Track": "METAL MUSIC",
         "ATC Artists": [
             "DONALD KNAACK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

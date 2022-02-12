@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-07-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:53:01"
+        "Scanned Date": "2022-02-06 22:53:01",
+        "Playlist URI": "3NuHw465UysLtZNvLiBRcB",
+        "Playlist Link": "https://open.spotify.com/playlist/3NuHw465UysLtZNvLiBRcB",
+        "Snapshot ID": "MSxjZmY3YTQ3ZTliMDlhZGNmYWUyODBlOWFiNDE5MWI5NGMxMTk5MjZl",
+        "Playlist Name": "ATC 2003-07-27 Sun All Things Considered"
     },
     {
         "Title": "Raid on Baghdad Villa",
@@ -46,13 +50,26 @@
         "ATC Track": "Eiwef",
         "ATC Artists": [
             "Schneider Tm"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Oil Gusher",
         "ATC Artists": [
             "Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Oil Gusher",
+        "Result Artist Names": [
+            "The Beau Hunks Sextette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Yy3dMuxr544F4R2n415Oo",
+        "Result Album Name": "Manhattan Minuet"
     },
     {
         "Title": "Korean War's Missing in Action",

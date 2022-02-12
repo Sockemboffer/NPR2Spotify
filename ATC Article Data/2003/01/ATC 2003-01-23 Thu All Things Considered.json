@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-01-23",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 23:03:22"
+        "Scanned Date": "2022-02-06 23:03:22",
+        "Playlist URI": "0tbqqUhGefOlHRBzqrkipw",
+        "Playlist Link": "https://open.spotify.com/playlist/0tbqqUhGefOlHRBzqrkipw",
+        "Snapshot ID": "MSwyYThhZjVmYmI2NzNhNWU4MWEyMDFjMDkyOGNmN2FiMjM5OTJhNTQ4",
+        "Playlist Name": "ATC 2003-01-23 Thu All Things Considered"
     },
     {
         "Title": "Economy",
@@ -29,14 +33,31 @@
         "ATC Artists": [
             "Buena Vista Social Club",
             "Compay Segundo"
-        ]
+        ],
+        "Result Track Name": "Amor de Loca Juventud",
+        "Result Artist Names": [
+            "Buena Vista Social Club"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1rsD5809qvVFMa0dhoVoSx",
+        "Result Album Name": "Buena Vista Social Club"
     },
     {
         "ATC Track": "Diddie Wa Diddie",
         "ATC Artists": [
             "Stefan Grossman",
             "Duck Baker"
-        ]
+        ],
+        "Result Track Name": "Diddie Wa Diddie",
+        "Result Artist Names": [
+            "Stefan Grossman",
+            "Duck Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DjmZjrHOceK4rzyz1bqJG",
+        "Result Album Name": "Northern Skies, Southern Blues"
     },
     {
         "Title": "Anxious, Aggressive Mice Used to Test Human Drugs",
@@ -48,13 +69,23 @@
         "ATC Track": "Elements/Fire",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "El Mercado Testaccio",
         "ATC Artists": [
             "Mando Mafia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Switching Beaks",
@@ -86,13 +117,31 @@
             "Johnny Mercer",
             "Paul Weston",
             "His Orchestra et. al."
-        ]
+        ],
+        "Result Track Name": "Baby, It's Cold Outside",
+        "Result Artist Names": [
+            "Johnny Mercer",
+            "Margaret Whiting",
+            "Paul Weston And His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7G5gfLrgDj9f1MSmUuEV9u",
+        "Result Album Name": "Capitol Records From The Vaults: \"Capitol Goes To The Movies\""
     },
     {
         "ATC Track": "Seventh One",
         "ATC Artists": [
             "Dean Magraw"
-        ]
+        ],
+        "Result Track Name": "Seventh One",
+        "Result Artist Names": [
+            "Dean Magraw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44NMzOB4tOI4rrsGmbQda1",
+        "Result Album Name": "Kitchen Man"
     },
     {
         "Title": "'Better Luck Tomorrow'",
@@ -104,13 +153,23 @@
         "ATC Track": "The Ending First",
         "ATC Artists": [
             "Doublemranch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Cutting Branches",
         "ATC Artists": [
             "Another Fine Day"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Istanbul Meeting",
@@ -134,7 +193,15 @@
         "ATC Track": "SAMBA OLEEK",
         "ATC Artists": [
             "DAN NEWTON'S CAFE ACCORDION ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Samba Oleek",
+        "Result Artist Names": [
+            "Cafe Accordion Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4Zkd7Dd8u3ExRAf6BRnNsJ",
+        "Result Album Name": "Dancing On the Moon"
     },
     {
         "Title": "Radionovela",
@@ -170,7 +237,12 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Short Trip Home",
@@ -178,7 +250,12 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Salvatore Licitra: Opera's New Tenor",
@@ -190,6 +267,14 @@
         "ATC Track": "Miss Prissy",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "Miss Prissy",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eSYjPKXZsVELKwGIO4UfF",
+        "Result Album Name": "Tools in the Dryer"
     }
 ]

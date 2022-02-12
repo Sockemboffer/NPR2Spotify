@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-12-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:44:23"
+        "Scanned Date": "2022-02-06 22:44:23",
+        "Playlist URI": "5BRbqlfhpCjOb1UcHfWowt",
+        "Playlist Link": "https://open.spotify.com/playlist/5BRbqlfhpCjOb1UcHfWowt",
+        "Snapshot ID": "MSxjZDM0ZTVkMzgxMzkwMTkwZTIwODhkNmU4MmFlNjY4MTNiYTUwZTY2",
+        "Playlist Name": "ATC 2003-12-21 Sun All Things Considered"
     },
     {
         "Title": "U.S. Heightens Terror Alert",
@@ -28,7 +32,15 @@
         "ATC Track": "Traces of the Beloved",
         "ATC Artists": [
             "Ghazal"
-        ]
+        ],
+        "Result Track Name": "Traces of the Beloved",
+        "Result Artist Names": [
+            "Ghazal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AVGX6yziTK4aGiH3NgMSk",
+        "Result Album Name": "As Night Falls On The Silk Road"
     },
     {
         "Title": "Afghans Debate Governing Plan",
@@ -46,13 +58,26 @@
         "ATC Track": "UMAYEYO",
         "ATC Artists": [
             "MICKEY HART"
-        ]
+        ],
+        "Result Track Name": "Umayeyo",
+        "Result Artist Names": [
+            "Mickey Hart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08W0Rd2UuWGnEQsnrNaMoV",
+        "Result Album Name": "Supralingua"
     },
     {
         "ATC Track": "HEAP BIG CHIEF",
         "ATC Artists": [
             "LEROY HOLMES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Deadline Looms for Sept. 11 Fund",
@@ -76,7 +101,15 @@
         "ATC Track": "ASKO HEPOKARHU-KOSKELA",
         "ATC Artists": [
             "TUULENKANTAJAT"
-        ]
+        ],
+        "Result Track Name": "Asko Hepokarhu-Koskela",
+        "Result Artist Names": [
+            "Tuulenkantajat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5a5cC4rCCXyrkVQUqxQSmv",
+        "Result Album Name": "Vedenalusmusiikkia"
     },
     {
         "Title": "Gingerbread Rome: If You Want To",
@@ -100,6 +133,14 @@
         "ATC Track": "Siberian Sleighride",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "Siberian Sleighride",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3u9e4xXVbwnKoBZe9Arvmr",
+        "Result Album Name": "Bug Music"
     }
 ]

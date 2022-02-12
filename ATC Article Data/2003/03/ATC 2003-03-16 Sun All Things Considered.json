@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-03-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:59:36"
+        "Scanned Date": "2022-02-06 22:59:36",
+        "Playlist URI": "2kHesicV7JDqczinIFfE2A",
+        "Playlist Link": "https://open.spotify.com/playlist/2kHesicV7JDqczinIFfE2A",
+        "Snapshot ID": "MSw2NjBlZDQ5MmQ0ZTE1ZWVkNjViMTRhMjlmMDVmZDNhYmQ4ZWQyZjVi",
+        "Playlist Name": "ATC 2003-03-16 Sun All Things Considered"
     },
     {
         "Title": "Bush: Monday Is Last Day for U.N. Vote",
@@ -28,7 +32,16 @@
         "ATC Track": "Kgale [Long Suffering]",
         "ATC Artists": [
             "Philip Tabane"
-        ]
+        ],
+        "Result Track Name": "Kgale (Long Suffering)",
+        "Result Artist Names": [
+            "Philip Tabane",
+            "Malombo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BSu8ltuMCm5IyMkAx7wo7",
+        "Result Album Name": "Unh!"
     },
     {
         "Title": "Qatar Postcard",
@@ -40,7 +53,15 @@
         "ATC Track": "Kindred Spirits",
         "ATC Artists": [
             "Mauricio Amaya"
-        ]
+        ],
+        "Result Track Name": "Kindred Spirits",
+        "Result Artist Names": [
+            "Mauricio Amaya"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1n1FP1X993yfWx1VZLdV5z",
+        "Result Album Name": "Fields Of War And Peace"
     },
     {
         "Title": "Iraqi Exiles",
@@ -52,13 +73,23 @@
         "ATC Track": "esprit de l'escalier",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "home",
         "ATC Artists": [
             "the catholics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Serbians Mourn Slain PM",
@@ -76,7 +107,12 @@
         "ATC Track": "Tigerwood Rag",
         "ATC Artists": [
             "Nyle Frank"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sxsw",
@@ -94,6 +130,11 @@
         "ATC Track": "Galican Waltz",
         "ATC Artists": [
             "Maggie Sansone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

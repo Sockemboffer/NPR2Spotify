@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-04-03",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 22:57:08"
+        "Scanned Date": "2022-02-06 22:57:08",
+        "Playlist URI": "2HzCDNkpXch571gsYEzDpc",
+        "Playlist Link": "https://open.spotify.com/playlist/2HzCDNkpXch571gsYEzDpc",
+        "Snapshot ID": "MSwzMTY0ZGExZWQ1MjFmZDQzM2VkZGRjNWIxYmI3Y2VkY2U3NjBkZGFm",
+        "Playlist Name": "ATC 2003-04-03 Thu All Things Considered"
     },
     {
         "Title": "Baghdad Airport Under Attack",
@@ -28,13 +32,23 @@
         "ATC Track": "Partch: Two Studies on Ancient Greek Scales",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Dance Party 1929",
         "ATC Artists": [
             "Jenny Scheinman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "NATO Considers Peacekeeping Role in Iraq",
@@ -52,13 +66,26 @@
         "ATC Track": "Bone Dog Blues",
         "ATC Artists": [
             "Carl Weingarten"
-        ]
+        ],
+        "Result Track Name": "Bone Dog Blues",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Erb7lWE09z7ERRWlNaMab",
+        "Result Album Name": "Escapesilence / Local Journeys"
     },
     {
         "ATC Track": "2 Part Invention",
         "ATC Artists": [
             "Bela Fleck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "SARS Timeline",
@@ -82,7 +109,15 @@
         "ATC Track": "Red Gradations",
         "ATC Artists": [
             "Chicago Underground Duo"
-        ]
+        ],
+        "Result Track Name": "Red Gradations",
+        "Result Artist Names": [
+            "Chicago Underground Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5InOXueymJ5EJjC4ku4R55",
+        "Result Album Name": "Synesthesia"
     },
     {
         "Title": "War, Terrorism and Work",
@@ -101,7 +136,12 @@
         "ATC Artists": [
             "EDGAR MEYER",
             "THE EMERSON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "War Update II",
@@ -131,7 +171,15 @@
         "ATC Track": "WHEN WE GO",
         "ATC Artists": [
             "BILL FRISELL"
-        ]
+        ],
+        "Result Track Name": "When We Go",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1w0yFhbpkBthb5iuwHFtWv",
+        "Result Album Name": "Rambler"
     },
     {
         "Title": "Presidents in Wartime",
@@ -161,13 +209,29 @@
         "ATC Track": "THE WISHING",
         "ATC Artists": [
             "CARL WEINGARTEN ET AL"
-        ]
+        ],
+        "Result Track Name": "The Wishing",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hROGkTzB2iystG8LAKwZX",
+        "Result Album Name": "Redwood Melodies"
     },
     {
         "ATC Track": "Glass Everywhere",
         "ATC Artists": [
             "Steve Tibbetts"
-        ]
+        ],
+        "Result Track Name": "Glass Everywhere",
+        "Result Artist Names": [
+            "Steve Tibbetts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1deJtfJOLmyMt79TISrBUm",
+        "Result Album Name": "A Man About A Horse"
     },
     {
         "Title": "War Diaries: Mandy Terc",
@@ -185,12 +249,27 @@
         "ATC Track": "Floe",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Floe",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Philip Glass Ensemble",
+            "Michael Riesman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ThXlHa71fMSsTinfTG0jr",
+        "Result Album Name": "Glassworks - Expanded Edition"
     },
     {
         "ATC Track": "Six Gnossiennes",
         "ATC Artists": [
             "Daniel Barski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

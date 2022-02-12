@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-08-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:50:32"
+        "Scanned Date": "2022-02-06 22:50:32",
+        "Playlist URI": "2B1UGWbo4grgCwa3atJnhJ",
+        "Playlist Link": "https://open.spotify.com/playlist/2B1UGWbo4grgCwa3atJnhJ",
+        "Snapshot ID": "MSw5MTMxNGVlNzY3M2JlOGI1NmNjZmI3ODU2MjI2M2E4N2E5ZTg0MGQz",
+        "Playlist Name": "ATC 2003-08-17 Sun All Things Considered"
     },
     {
         "Title": "Grid Update",
@@ -22,7 +26,15 @@
         "ATC Track": "Ciento Anos de Juventud",
         "ATC Artists": [
             "Irakere"
-        ]
+        ],
+        "Result Track Name": "Ciento Años De Juventud",
+        "Result Artist Names": [
+            "Irakere"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Rt3OYW8iEwsOfGsy6C3D3",
+        "Result Album Name": "THE BEST OF IRAKERE"
     },
     {
         "Title": "Baghdad Water-Main Explosion",
@@ -47,13 +59,26 @@
         "ATC Artists": [
             "Jack D. Elliot",
             "Allyn Ferguson et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "LOS SURF",
         "ATC Artists": [
             "TEISCO DEL REY"
-        ]
+        ],
+        "Result Track Name": "Los Surf",
+        "Result Artist Names": [
+            "Teisco Del Rey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sm0FdYhy5MSow1d527099",
+        "Result Album Name": "The Many Moods Of"
     },
     {
         "Title": "Interim Liberian Government?",
@@ -65,7 +90,15 @@
         "ATC Track": "Suda Balik Oynuyor",
         "ATC Artists": [
             "Talip Özkan"
-        ]
+        ],
+        "Result Track Name": "Suda Balık Oynuyor",
+        "Result Artist Names": [
+            "Talip Özkan"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4a6JejOCT04tHn1XDqg7mk",
+        "Result Album Name": "Yağar Yağmur"
     },
     {
         "Title": "Talks on Interim Liberian Government, Part II",
@@ -83,7 +116,15 @@
         "ATC Track": "Traces of the Beloved",
         "ATC Artists": [
             "Ghazal"
-        ]
+        ],
+        "Result Track Name": "Traces of the Beloved",
+        "Result Artist Names": [
+            "Ghazal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AVGX6yziTK4aGiH3NgMSk",
+        "Result Album Name": "As Night Falls On The Silk Road"
     },
     {
         "Title": "Mideast Truce, Part II",
@@ -107,12 +148,25 @@
         "ATC Track": "Kula",
         "ATC Artists": [
             "Al Gromer Khan"
-        ]
+        ],
+        "Result Track Name": "Kula",
+        "Result Artist Names": [
+            "Al Gromer Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6fhpdTVrt4bL6j51zkZNCD",
+        "Result Album Name": "Tantra Drums"
     },
     {
         "ATC Track": "SHIN- KI- ROW",
         "ATC Artists": [
             "ALTERED BEATS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

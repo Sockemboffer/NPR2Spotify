@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-04-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:57:16"
+        "Scanned Date": "2022-02-06 22:57:16",
+        "Playlist URI": "1nK0GR0klu3nT0lfwOgBOj",
+        "Playlist Link": "https://open.spotify.com/playlist/1nK0GR0klu3nT0lfwOgBOj",
+        "Snapshot ID": "MSwzNWZlNDk3MzM1ZDYzYjVkZDIxMDcwNDc0ZGU1OGI4YjYwZTllNjc2",
+        "Playlist Name": "ATC 2003-04-06 Sun All Things Considered"
     },
     {
         "Title": "Iraq War Roundup",
@@ -46,13 +50,26 @@
         "ATC Track": "Army Dub",
         "ATC Artists": [
             "Gomez"
-        ]
+        ],
+        "Result Track Name": "Army Dub",
+        "Result Artist Names": [
+            "Gomez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VqKBsmG4EfOWmKQ6HlXog",
+        "Result Album Name": "In Our Gun"
     },
     {
         "ATC Track": "Naima",
         "ATC Artists": [
             "Love Devotion Surrender"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Friendly Fire' Deaths",

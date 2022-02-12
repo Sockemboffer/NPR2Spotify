@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-08-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:50:56"
+        "Scanned Date": "2022-02-06 22:50:56",
+        "Playlist URI": "0aYFOVKBKtxx7Q9IRVvNFZ",
+        "Playlist Link": "https://open.spotify.com/playlist/0aYFOVKBKtxx7Q9IRVvNFZ",
+        "Snapshot ID": "MSw1ZDRjYTM0OGIxY2YxOGU2YjZiMzdmMTgxZDRkOWExNTU1MDlkYjY3",
+        "Playlist Name": "ATC 2003-08-24 Sun All Things Considered"
     },
     {
         "Title": "Iraq Violence",
@@ -34,7 +38,15 @@
         "ATC Track": "Falling Pianos",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Falling Pianos",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tqy8l0ZESiYaO5uU6n5lc",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "The Unfinished Business of the March on Washington",
@@ -52,7 +64,15 @@
         "ATC Track": "Mandingo Street",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": "Mandingo Street",
+        "Result Artist Names": [
+            "Regina Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5g1P30QFAsSTnGoaMCiyy5",
+        "Result Album Name": "Rhythms Of The Heart"
     },
     {
         "Title": "Democrats and Education",
@@ -76,7 +96,15 @@
         "ATC Track": "The Melting Sun",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "The Melting Sun",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YImp6DeEgxWlpyvRSFCrQ",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "Argentine Couple",
@@ -100,6 +128,11 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

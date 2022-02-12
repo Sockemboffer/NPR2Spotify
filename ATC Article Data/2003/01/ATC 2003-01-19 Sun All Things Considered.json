@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-01-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:02:58"
+        "Scanned Date": "2022-02-06 23:02:58",
+        "Playlist URI": "0zcxvMP4WGIrg9ZXDVu5gQ",
+        "Playlist Link": "https://open.spotify.com/playlist/0zcxvMP4WGIrg9ZXDVu5gQ",
+        "Snapshot ID": "MSw0NzZkM2QwNWM5MGJjZmYwNDEwZDdiYzRhZWFlOWJlNTIxZmFhNjI1",
+        "Playlist Name": "ATC 2003-01-19 Sun All Things Considered"
     },
     {
         "Title": "Top U.N. Inspectors in Iraq",
@@ -34,7 +38,12 @@
         "ATC Track": "la 7e nuit",
         "ATC Artists": [
             "volapuk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Minnesota Ice Hole",
@@ -46,13 +55,26 @@
         "ATC Track": "ENAS AETOS",
         "ATC Artists": [
             "BLACK CAT ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Enas Aetos",
+        "Result Artist Names": [
+            "Black Cat Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3T5q8ExqkLCANH76NBzq5Q",
+        "Result Album Name": "Black Cat Orchestra"
     },
     {
         "ATC Track": "A MANDELIE",
         "ATC Artists": [
             "PEPE HABICHUELA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Public Conversations Project",
@@ -64,7 +86,15 @@
         "ATC Track": "Wrapping the Lamb, Sir",
         "ATC Artists": [
             "Dianogah"
-        ]
+        ],
+        "Result Track Name": "Wrapping the Lamb, Sir",
+        "Result Artist Names": [
+            "Dianogah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WHea9HHcY7AcmrBduLAcQ",
+        "Result Album Name": "Millions of Brazilians"
     },
     {
         "Title": "Other News",
@@ -88,7 +118,15 @@
         "ATC Track": "INFERNAL CAKEWALK",
         "ATC Artists": [
             "BLACK CAT ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Infernal Cakewalk",
+        "Result Artist Names": [
+            "Black Cat Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BgSXwCnr8ZyVG17avQQrF",
+        "Result Album Name": "Black Cat Orchestra"
     },
     {
         "Title": "Web Site Documents Worst Resume Mistakes",
@@ -100,6 +138,11 @@
         "ATC Track": "Leona's Theme Var. III",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

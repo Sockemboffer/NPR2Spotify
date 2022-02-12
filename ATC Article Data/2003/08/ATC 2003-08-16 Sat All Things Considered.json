@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-08-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:50:30"
+        "Scanned Date": "2022-02-06 22:50:30",
+        "Playlist URI": "0HbRAvvSluxSZfulhcsN1P",
+        "Playlist Link": "https://open.spotify.com/playlist/0HbRAvvSluxSZfulhcsN1P",
+        "Snapshot ID": "MSwwMWMwNzJiMTZjYzlhMjRjNDA2YjAzZDU4MzgxOWY0MjAyNWFmY2My",
+        "Playlist Name": "ATC 2003-08-16 Sat All Things Considered"
     },
     {
         "Title": "Power Grid Studied in Blackout's Aftermath",
@@ -40,13 +44,26 @@
         "ATC Track": "Jungle Madness",
         "ATC Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "Jungle Madness",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BukcptF8jwOyQaKKazpw3",
+        "Result Album Name": "Hypnotique"
     },
     {
         "ATC Track": "Hi'ilawe [Instrumental]",
         "ATC Artists": [
             "Cindy Combs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mosquito Count Stirs W. Nile Fears II",
@@ -64,7 +81,12 @@
         "ATC Track": "DAWN IN ZANZIBAR",
         "ATC Artists": [
             "THE PALM COURT THEATRE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Blast Shuts Iraq Pipeline",
@@ -82,7 +104,15 @@
         "ATC Track": "She Will Be Loved",
         "ATC Artists": [
             "Maroon 5"
-        ]
+        ],
+        "Result Track Name": "She Will Be Loved - Radio Mix",
+        "Result Artist Names": [
+            "Maroon 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4llK75pXNWZz6KAho2Gp16",
+        "Result Album Name": "Songs About Jane: 10th Anniversary Edition"
     },
     {
         "Title": "'Nice Indians Ahead'",
@@ -100,6 +130,14 @@
         "ATC Track": "Night Train",
         "ATC Artists": [
             "World Saxophone Quartet"
-        ]
+        ],
+        "Result Track Name": "Night Train",
+        "Result Artist Names": [
+            "World Saxaphone Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:10jVuH4CelE3woiX2jzpDS",
+        "Result Album Name": "Rhythm & Blues"
     }
 ]

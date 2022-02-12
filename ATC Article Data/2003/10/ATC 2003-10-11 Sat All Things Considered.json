@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-10-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:46:38"
+        "Scanned Date": "2022-02-06 22:46:38",
+        "Playlist URI": "2HGMwv9CgfAjUrcCJFyDgF",
+        "Playlist Link": "https://open.spotify.com/playlist/2HGMwv9CgfAjUrcCJFyDgF",
+        "Snapshot ID": "MSxmNTVmMDk5YWE0MzMwNGI4ZTIxYzI5ZTZmZmJiYTlmYjgxMDQ3Yzkx",
+        "Playlist Name": "ATC 2003-10-11 Sat All Things Considered"
     },
     {
         "Title": "Trouble Stirs in Iraqi Slum",
@@ -22,7 +26,12 @@
         "ATC Track": "The Day I Heard",
         "ATC Artists": [
             "Fognode"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Commentary: Returning from War",
@@ -40,7 +49,15 @@
         "ATC Track": "Where Are the Timpani Heartbeats?",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Where Are The Timpani Heartbeats?",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dMeMUPZfOWno33xkMamqh",
+        "Result Album Name": "Things Shaped In Passing"
     },
     {
         "Title": "Postcard: Fall Birdwatching",
@@ -52,13 +69,29 @@
         "ATC Track": "Waltz of the Titans",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Waltz of the Titans",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38kCzc57KzQNfAMtERNRQo",
+        "Result Album Name": "Country Soul Guitar"
     },
     {
         "ATC Track": "Indian Summer",
         "ATC Artists": [
             "Chris Botti"
-        ]
+        ],
+        "Result Track Name": "Indian Summer",
+        "Result Artist Names": [
+            "Chris Botti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4q71tVc9hHLBcsaPp2uCQA",
+        "Result Album Name": "A Thousand Kisses Deep"
     },
     {
         "Title": "SEC Chief Seeks Reforms",
@@ -76,7 +109,15 @@
         "ATC Track": "Stereo 99",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": "Stereo 99",
+        "Result Artist Names": [
+            "Blue States"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wylLHV0qH7VGQnK4P0PCA",
+        "Result Album Name": "Nothing Changes Under The Sun"
     },
     {
         "Title": "Zagat Guidebook Empire Grows",
@@ -94,6 +135,11 @@
         "ATC Track": "Mandeville",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

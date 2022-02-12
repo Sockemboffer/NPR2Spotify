@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-12-07",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:44:21"
+        "Scanned Date": "2022-02-06 22:44:21",
+        "Playlist URI": "6aOSvNw1PaUmOfEpRfiiCR",
+        "Playlist Link": "https://open.spotify.com/playlist/6aOSvNw1PaUmOfEpRfiiCR",
+        "Snapshot ID": "MSwxNzliMzU4YWFjMWVlNjFmNWJiZThhZWFjZTFjOGRmZmFmNDcxZDg2",
+        "Playlist Name": "ATC 2003-12-07 Sun All Things Considered"
     },
     {
         "Title": "Russian Voters Back Putin",
@@ -46,14 +50,30 @@
         "ATC Track": "The Albion Friend",
         "ATC Artists": [
             "Carl Weingarten"
-        ]
+        ],
+        "Result Track Name": "The Albion Friend",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0h0pOaIqsH0b8M9dSjTnDC",
+        "Result Album Name": "Escapesilence / Local Journeys"
     },
     {
         "ATC Track": "Rhapsody in Violet",
         "ATC Artists": [
             "Big Sandy",
             "His Fly-Rite Boys"
-        ]
+        ],
+        "Result Track Name": "Rhapsody In Violet",
+        "Result Artist Names": [
+            "The Fly-Rite Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:0t50JMnfMWcKch4Uvg8SGp",
+        "Result Album Name": "Big Sandy Presents The Fly-Rite Brothers"
     },
     {
         "Title": "Congressman Derides Spending Bill",
@@ -72,7 +92,16 @@
         "ATC Artists": [
             "Laurindo Almeida",
             "The Modern Jazz Quartet"
-        ]
+        ],
+        "Result Track Name": "One Note Samba",
+        "Result Artist Names": [
+            "The Modern Jazz Quartet",
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55WUiRJj3fFEu3tURJNtVA",
+        "Result Album Name": "MJQ: 40 Years [Box Set]"
     },
     {
         "Title": "Unraveling Mammal Evolution in Africa",
@@ -96,6 +125,14 @@
         "ATC Track": "THE TREMBLER",
         "ATC Artists": [
             "DUANE EDDY"
-        ]
+        ],
+        "Result Track Name": "The Trembler - From \"Natural Born Killers\" Soundtrack",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1p5QsxjYky5OwF5PS0wxY5",
+        "Result Album Name": "Rock 'N Roll Legends"
     }
 ]

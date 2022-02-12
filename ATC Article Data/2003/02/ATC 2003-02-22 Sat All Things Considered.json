@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-02-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:01:38"
+        "Scanned Date": "2022-02-06 23:01:38",
+        "Playlist URI": "5ZLwCnpMichOBvShZPDFAy",
+        "Playlist Link": "https://open.spotify.com/playlist/5ZLwCnpMichOBvShZPDFAy",
+        "Snapshot ID": "MSxhZjYyZmQ1ZDgzMGMxY2VhZTM2MmI4YTQzZTdlOTVjZTZjMTI0OGZh",
+        "Playlist Name": "ATC 2003-02-22 Sat All Things Considered"
     },
     {
         "Title": "R.I. Club Fire Probe",
@@ -40,14 +44,27 @@
         "ATC Track": "Captain Hook",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Captain Hook",
+        "Result Artist Names": [
+            "Benny Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Dixrl2W3dS9GotqmDhfZ4",
+        "Result Album Name": "Naturally"
     },
     {
         "ATC Track": "KITE FLYING CHAMPION OF THE WORLD",
         "ATC Artists": [
             "DAVID GREENBERGER",
             "TERRY ADAMS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Troops to Seek Kidnapped Americans in Colombia",
@@ -77,7 +94,15 @@
         "ATC Track": "Midnight Rain",
         "ATC Artists": [
             "Paul Kelly"
-        ]
+        ],
+        "Result Track Name": "Midnight Rain",
+        "Result Artist Names": [
+            "Paul Kelly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:608xwtPGXDcHw4wEnGZ3AB",
+        "Result Album Name": "Nothing but a Dream"
     },
     {
         "Title": "What Are You Listening To?",

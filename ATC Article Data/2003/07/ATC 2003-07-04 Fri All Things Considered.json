@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-07-04",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 22:51:39"
+        "Scanned Date": "2022-02-06 22:51:39",
+        "Playlist URI": "1V1chAHYbvH6jyzsMLLen9",
+        "Playlist Link": "https://open.spotify.com/playlist/1V1chAHYbvH6jyzsMLLen9",
+        "Snapshot ID": "MSw5YmM1OTQ2NTY3MTRjZGQ3NTZiY2I0MjllZGRhNjNjMDc3NmYxNGUy",
+        "Playlist Name": "ATC 2003-07-04 Fri All Things Considered"
     },
     {
         "Title": "'Saddam' Sends Tape Message",
@@ -29,13 +33,29 @@
         "ATC Artists": [
             "Charlie Haden",
             "Brian Blade et. al."
-        ]
+        ],
+        "Result Track Name": "American Dreams - Instrumental",
+        "Result Artist Names": [
+            "Charlie Haden"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4yemmjBUqYH3aduwLAHyhW",
+        "Result Album Name": "American Dreams"
     },
     {
         "ATC Track": "HEEBIE JEEBIES",
         "ATC Artists": [
             "LOUIS ARMSTRONG"
-        ]
+        ],
+        "Result Track Name": "Heebie Jeebies",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44WgRCq0K8ZUAm70QMhFZV",
+        "Result Album Name": "This Is Jazz #1"
     },
     {
         "Title": "Housekeeping in 1904",
@@ -54,7 +74,16 @@
         "ATC Artists": [
             "Jay Ungar",
             "Molly Mason"
-        ]
+        ],
+        "Result Track Name": "The Farmer's Set",
+        "Result Artist Names": [
+            "Molly Mason",
+            "Jay Ungar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2C3xMh6zlS0HTjoFrscPTZ",
+        "Result Album Name": "Harvest Home"
     },
     {
         "Title": "Folklife Festival: Scottish Invasion",
@@ -78,13 +107,26 @@
         "ATC Track": "1812 Overture",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Fireworks",
         "ATC Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "Fireworks",
+        "Result Artist Names": [
+            "Louis Armstrong & His Hot Five"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qpV8ilWGCYgIyuEfaRteU",
+        "Result Album Name": "The Complete Hot Five And Hot Seven Recordings Volume 3"
     },
     {
         "Title": "California Governor Recall",
@@ -108,13 +150,26 @@
         "ATC Track": "A Solas",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "St. Louis Blues",
         "ATC Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "St. Louis Blues",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2oE0pvWDYHNg9InJT6WGky",
+        "Result Album Name": "Louis Armstrong Plays W. C. Handy"
     },
     {
         "Title": "Airline Industry Reports Pickup in Traffic",
@@ -133,7 +188,15 @@
         "ATC Artists": [
             "Louis Armstrong",
             "His All-Stars"
-        ]
+        ],
+        "Result Track Name": "I Can't Give You Anything But Love",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:4EYiplk6spdpJGOuaxwdkA",
+        "Result Album Name": "The Decca Singles 1949-1958"
     },
     {
         "Title": "New Twist in Controlling Greenhouse Gases",
@@ -157,7 +220,15 @@
         "ATC Track": "BORN TO BE WILD",
         "ATC Artists": [
             "THE HAMPTON STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Born to Be Wild",
+        "Result Artist Names": [
+            "The Hampton String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3u1dFQBGpkyJdwGSC5ZonI",
+        "Result Album Name": "What If Mozart Wrote \"Born to Be Wild\""
     },
     {
         "Title": "'Great Americans'",
@@ -169,14 +240,30 @@
         "ATC Track": "You Know My Name (Look Up the Number)",
         "ATC Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "You Know My Name (Look Up The Number) - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2k7gS1tS9OHeS3e8MatzgJ",
+        "Result Album Name": "Past Masters (Vols. 1 & 2 / Remastered)"
     },
     {
         "ATC Track": "I Can't Give You Anything But Love",
         "ATC Artists": [
             "Louis Armstrong",
             "His All-Stars"
-        ]
+        ],
+        "Result Track Name": "I Can't Give You Anything But Love",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:4EYiplk6spdpJGOuaxwdkA",
+        "Result Album Name": "The Decca Singles 1949-1958"
     },
     {
         "Title": "Soul Singer Barry White Dies",

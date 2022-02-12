@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-02-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:00:26"
+        "Scanned Date": "2022-02-06 23:00:26",
+        "Playlist URI": "3tC1aRIshrKyyZN8l83XCq",
+        "Playlist Link": "https://open.spotify.com/playlist/3tC1aRIshrKyyZN8l83XCq",
+        "Snapshot ID": "MSw0NmNkMzhlZTY5ZjRhNWJjNDU3ZGI3MDUxMzg1OGZhNDRiNjJiMWZj",
+        "Playlist Name": "ATC 2003-02-02 Sun All Things Considered"
     },
     {
         "Title": "What NASA Learns",
@@ -16,7 +20,12 @@
         "ATC Track": "BETWEEN TIME",
         "ATC Artists": [
             "VALARIE MORRIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Debris",
@@ -46,13 +55,26 @@
         "ATC Track": "Arion (Dragazis)",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "My Song in the Night",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "My Song in the Night",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cXaBBZoWBzrl0kT0CcCRw",
+        "Result Album Name": "Earth Stories"
     },
     {
         "Title": "Florida and Texas",
@@ -77,7 +99,12 @@
         "ATC Artists": [
             "Terence Blanchard",
             "Morgan Freeman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq Debate",
@@ -107,7 +134,15 @@
         "ATC Track": "Stereo 99",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": "Stereo 99",
+        "Result Artist Names": [
+            "Blue States"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wylLHV0qH7VGQnK4P0PCA",
+        "Result Album Name": "Nothing Changes Under The Sun"
     },
     {
         "Title": "NASA Press Conference",

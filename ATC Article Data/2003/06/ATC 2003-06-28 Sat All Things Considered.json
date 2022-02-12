@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-06-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:55:00"
+        "Scanned Date": "2022-02-06 22:55:00",
+        "Playlist URI": "2iMX6XrEywuSKrJmYL8Me4",
+        "Playlist Link": "https://open.spotify.com/playlist/2iMX6XrEywuSKrJmYL8Me4",
+        "Snapshot ID": "MSxkNGFiMzAxMGIyZDQzNmQ1Y2M0MDQwMGVlYjQxOTYwMjZkMTQxYzc2",
+        "Playlist Name": "ATC 2003-06-28 Sat All Things Considered"
     },
     {
         "Title": "U.N. Chief Eyes Liberia Role",
@@ -22,7 +26,15 @@
         "ATC Track": "Perritos",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Perritos",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48vrhMPrBWt9sZfTnHlHTt",
+        "Result Album Name": "The Intercontinentals"
     },
     {
         "Title": "States Face Budget Deadline",
@@ -40,13 +52,29 @@
         "ATC Track": "Eenie Meenie",
         "ATC Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Eenie Meenie",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jaWFHmy0zrAZ82lmRFwWz",
+        "Result Album Name": "Big Lazy"
     },
     {
         "ATC Track": "Heaven Above",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": "Heaven Above",
+        "Result Artist Names": [
+            "Ben Vaughn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2n36ETc6dh4oUTJMWXftNr",
+        "Result Album Name": "Instrumental Stylings"
     },
     {
         "Title": "U.S. Losses Mount in Iraq",
@@ -64,7 +92,12 @@
         "ATC Track": "Yála",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alaska Bike Ride",
@@ -88,7 +121,15 @@
         "ATC Track": "Lullaby",
         "ATC Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Lullaby",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qJy8o1DEj36rfSGLokVhg",
+        "Result Album Name": "New Everything"
     },
     {
         "Title": "London's Gin Epidemic",
@@ -100,6 +141,14 @@
         "ATC Track": "THE SUSPENSION BRIDGE AT IGUAZU FALLS",
         "ATC Artists": [
             "TORTOISE"
-        ]
+        ],
+        "Result Track Name": "The Suspension Bridge at Iguazú Falls",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oGDihb54BJoYldvjorUXJ",
+        "Result Album Name": "TNT"
     }
 ]

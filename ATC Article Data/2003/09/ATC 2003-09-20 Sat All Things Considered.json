@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-09-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:48:54"
+        "Scanned Date": "2022-02-06 22:48:54",
+        "Playlist URI": "63GXjdJ1nZ7MfXOD7X4IjM",
+        "Playlist Link": "https://open.spotify.com/playlist/63GXjdJ1nZ7MfXOD7X4IjM",
+        "Snapshot ID": "MSw0YTYwNmYyYmQzMzk5NGY1YmY1ZjEyNTVjYzczNGY3ZWI4YjU4Mzgz",
+        "Playlist Name": "ATC 2003-09-20 Sat All Things Considered"
     },
     {
         "Title": "Pro-U.S. Iraqi Leader Shot",
@@ -22,7 +26,12 @@
         "ATC Track": "TANNARI",
         "ATC Artists": [
             "ROBERT MUSSO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sister to Search for American Missing in Liberia",
@@ -34,7 +43,12 @@
         "ATC Track": "Forever",
         "ATC Artists": [
             "Acoustek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hundreds of Thousands Powerless in Isabel's Wake",
@@ -58,13 +72,29 @@
         "ATC Track": "MA'CHUMBA",
         "ATC Artists": [
             "MARTIN DENNY"
-        ]
+        ],
+        "Result Track Name": "Ma'chumba",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0j55lxzDVam7blCsoFLZWP",
+        "Result Album Name": "Afro-Desia"
     },
     {
         "ATC Track": "Architeuthis Waltz",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Architeuthis Waltz",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4QtmXPXbTKWB0bDNQFiQak",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     },
     {
         "Title": "New Hampshire Voters Confront Clark Candidacy",
@@ -82,7 +112,12 @@
         "ATC Track": "Pocket Monster",
         "ATC Artists": [
             "Vibulator"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Saddam Tapes Thrust Voice Analysis into Spotlight",
@@ -94,7 +129,15 @@
         "ATC Track": "SHOWROOM DUMMIES",
         "ATC Artists": [
             "KRAFTWERK"
-        ]
+        ],
+        "Result Track Name": "Showroom Dummies - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14WXiFyHivuF9FmGD0c7Ot",
+        "Result Album Name": "Trans-Europe Express (2009 Remaster)"
     },
     {
         "Title": "Calif. Tests Admission Rules",
@@ -118,6 +161,11 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

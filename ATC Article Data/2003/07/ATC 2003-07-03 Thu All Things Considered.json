@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-07-03",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 22:51:34"
+        "Scanned Date": "2022-02-06 22:51:34",
+        "Playlist URI": "4NekBEKmG2s8AyILBIAhUC",
+        "Playlist Link": "https://open.spotify.com/playlist/4NekBEKmG2s8AyILBIAhUC",
+        "Snapshot ID": "MSxlNjk0MjkwY2RiMDIyNjc1MDZmNWM1MzY4M2FmZmQ0NTgzNGQyZGJl",
+        "Playlist Name": "ATC 2003-07-03 Thu All Things Considered"
     },
     {
         "Title": "Jobless Rate Hits 6.4 Percent",
@@ -28,13 +32,26 @@
         "ATC Track": "Quiet Village",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Quiet Village",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rcLQbmTOmJVaEhD377VFO",
+        "Result Album Name": "88 Elmira St."
     },
     {
         "ATC Track": "Goldberg Variations, for keyboard (Clavier-Übung IV), BWV 988 (BC L9)",
         "ATC Artists": [
             "Glenn Gould"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Experimental Therapy Heightens Sense of Touch",
@@ -52,13 +69,29 @@
         "ATC Track": "Later for the Gator [#]",
         "ATC Artists": [
             "Willis \"Gator\" Jackson"
-        ]
+        ],
+        "Result Track Name": "Later For The Gator",
+        "Result Artist Names": [
+            "Willis Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3NslrCKOQxs2jkfj2nbQFU",
+        "Result Album Name": "Call of the Gators"
     },
     {
         "ATC Track": "Big Eater",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "Big Eater",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72z9MU95EiNzOhcQmQY6dg",
+        "Result Album Name": "These Are The Vistas"
     },
     {
         "Title": "Italy, Germany Mend Ties After 'Nazi' Remark",
@@ -82,7 +115,12 @@
         "ATC Track": "Orange Roughy",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "TV Host Jerry Springer Eyes Run for Senate",
@@ -100,13 +138,26 @@
         "ATC Track": "O'Malley and Delacey",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "O'malley & Delacey",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cAeENpDpfj3F9EdyN4Guc",
+        "Result Album Name": "Guitar Bones"
     },
     {
         "ATC Track": "Wall Street Rag",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Forces in Liberia Likely",
@@ -130,7 +181,15 @@
         "ATC Track": "Transmitter",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "Transmitter",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qoeQEsrtZT0qQBB1p7dee",
+        "Result Album Name": "Shine"
     },
     {
         "Title": "California Child Sex-Abuse Cases in Question",
@@ -148,7 +207,15 @@
         "ATC Track": "Bone Dog Blues",
         "ATC Artists": [
             "Carl Weingarten"
-        ]
+        ],
+        "Result Track Name": "Bone Dog Blues",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Erb7lWE09z7ERRWlNaMab",
+        "Result Album Name": "Escapesilence / Local Journeys"
     },
     {
         "Title": "New Yorker in Japan",
@@ -172,7 +239,15 @@
         "ATC Track": "Summer",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Summer",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kWbZm04hnP8mDmqFEKY4N",
+        "Result Album Name": "Play & Play: B Sides"
     },
     {
         "Title": "Desert Festival Celebrates Mali's Culture",
@@ -184,6 +259,11 @@
         "ATC Track": "MBAUDY",
         "ATC Artists": [
             "ALI FARKA TOURE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

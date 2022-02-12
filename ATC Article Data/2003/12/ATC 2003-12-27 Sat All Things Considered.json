@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-12-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:44:23"
+        "Scanned Date": "2022-02-06 22:44:23",
+        "Playlist URI": "7LAA34SRrvpfqbX0WM90gH",
+        "Playlist Link": "https://open.spotify.com/playlist/7LAA34SRrvpfqbX0WM90gH",
+        "Snapshot ID": "MSw1MWEwNjczN2Q1NTk3ODNiZDExMDRkNmFkZWI3MzA1YjZiNWExMTA1",
+        "Playlist Name": "ATC 2003-12-27 Sat All Things Considered"
     },
     {
         "Title": "Iraqi Insurgents Hit Karbala",
@@ -36,7 +40,17 @@
             "KETAMA",
             "TOUMANI BIABATE",
             "DANNY THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Jarabi",
+        "Result Artist Names": [
+            "Ketama",
+            "Toumani Diabaté",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:62SpTZPgcuBcygQSb1mC7W",
+        "Result Album Name": "Songhai"
     },
     {
         "Title": "Pork Barrel Spending? You Decide",
@@ -48,7 +62,15 @@
         "ATC Track": "Ciento Anos de Juventud",
         "ATC Artists": [
             "Irakere"
-        ]
+        ],
+        "Result Track Name": "Ciento Años De Juventud",
+        "Result Artist Names": [
+            "Irakere"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Rt3OYW8iEwsOfGsy6C3D3",
+        "Result Album Name": "THE BEST OF IRAKERE"
     },
     {
         "Title": "Audio Postcard: Day After Christmas",
@@ -60,7 +82,12 @@
         "ATC Track": "Deck the Malls",
         "ATC Artists": [
             "Freeway Philharmonic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "USDA: Sick Cow from Canada",
@@ -78,6 +105,14 @@
         "ATC Track": "INVENTION #13",
         "ATC Artists": [
             "john bullard"
-        ]
+        ],
+        "Result Track Name": "BWV 784, Invention, No. 13",
+        "Result Artist Names": [
+            "John Bullard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07Revt5firCUujgTENrTmz",
+        "Result Album Name": "The Classical Banjo"
     }
 ]

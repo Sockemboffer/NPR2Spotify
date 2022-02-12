@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-02-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:01:40"
+        "Scanned Date": "2022-02-06 23:01:40",
+        "Playlist URI": "50hIzjZWsCBU6sEg1EePXG",
+        "Playlist Link": "https://open.spotify.com/playlist/50hIzjZWsCBU6sEg1EePXG",
+        "Snapshot ID": "MSxkZThmZDVjZDg5M2IwODc0ZmYxMGNmMDNjZTZjZDZmODQzMDNkMjM0",
+        "Playlist Name": "ATC 2003-02-23 Sun All Things Considered"
     },
     {
         "Title": "Baghdad",
@@ -22,7 +26,15 @@
         "ATC Track": "Elite Syncopations",
         "ATC Artists": [
             "Giovanni DeChiaro"
-        ]
+        ],
+        "Result Track Name": "Elite Syncopations",
+        "Result Artist Names": [
+            "Giovanni Tornambene"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7jFv1A92eozceJNbjKt5SR",
+        "Result Album Name": "RagTime"
     },
     {
         "Title": "Affirmative Action Supporters",
@@ -40,13 +52,26 @@
         "ATC Track": "Punch-Drunk Melody",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Diamente",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": "Diamente",
+        "Result Artist Names": [
+            "Blue States"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7j73dJlMnhoKjXnHD8ddix",
+        "Result Album Name": "Nothing Changes Under The Sun"
     },
     {
         "Title": "R.I. Nightclub Fire Probe",
@@ -70,7 +95,15 @@
         "ATC Track": "Peckerwood",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Peckerwood",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FR4Rk3PBLYrr4c8Avx6CN",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "Victims Criticize CBS for Airing Rapist's Videotapes",

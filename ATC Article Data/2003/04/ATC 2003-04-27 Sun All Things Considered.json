@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-04-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:58:26"
+        "Scanned Date": "2022-02-06 22:58:26",
+        "Playlist URI": "3rxKfDP5lIH5K99jV31WFB",
+        "Playlist Link": "https://open.spotify.com/playlist/3rxKfDP5lIH5K99jV31WFB",
+        "Snapshot ID": "MSw4NWM2MDlhM2VkZThhMGU1OTkxZjA0MWFlMGM1MzFlZTAyYjJlMzZi",
+        "Playlist Name": "ATC 2003-04-27 Sun All Things Considered"
     },
     {
         "Title": "Baghdad 'Mayor' Detained",
@@ -28,7 +32,16 @@
         "ATC Track": "Mouhamadou Bamba",
         "ATC Artists": [
             "Orchestra Baobab"
-        ]
+        ],
+        "Result Track Name": "Mouhamadou Bamba",
+        "Result Artist Names": [
+            "Orchestra Baobab",
+            "Baobab-Gouye-Gui de Dakar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QdcVm85PHGVXtA14LoG59",
+        "Result Album Name": "Mouhamadou Bamba"
     },
     {
         "Title": "Elections in Argentina",
@@ -40,7 +53,12 @@
         "ATC Track": "Memory I Var. II",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Leaving Mother Lake'",
@@ -52,13 +70,26 @@
         "ATC Track": "TRAVELING IN EMPTY SPACE",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Poor Boy",
         "ATC Artists": [
             "The Royaltones"
-        ]
+        ],
+        "Result Track Name": "Poor Boy",
+        "Result Artist Names": [
+            "The Royaltones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WVRUZn53ozgLLJF2CKp3y",
+        "Result Album Name": "De Rock 'n Roll Methode 23"
     },
     {
         "Title": "Sars",
@@ -94,7 +125,16 @@
         "ATC Track": "Mirabella (A Tarantella)",
         "ATC Artists": [
             "Margaret Leng Tan"
-        ]
+        ],
+        "Result Track Name": "Mirabella (a Tarantella)",
+        "Result Artist Names": [
+            "Stephen Montague",
+            "Margaret Leng Tan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73gJ6Tfz43a9U5Kqt21rGy",
+        "Result Album Name": "The Art of the Toy Piano"
     },
     {
         "Title": "Musicians In Their Own Words: Regina Carter",

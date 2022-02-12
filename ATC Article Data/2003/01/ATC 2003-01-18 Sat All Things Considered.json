@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-01-18",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:02:56"
+        "Scanned Date": "2022-02-06 23:02:56",
+        "Playlist URI": "4ukRHerA01gCv8klayJ5ex",
+        "Playlist Link": "https://open.spotify.com/playlist/4ukRHerA01gCv8klayJ5ex",
+        "Snapshot ID": "MSw4NjIyYzgzYjQ2MGU2MTFhZTllZGU0OWZmMGQ3ODU3MWYyZDg3NDhi",
+        "Playlist Name": "ATC 2003-01-18 Sat All Things Considered"
     },
     {
         "Title": "Anti-War Protests",
@@ -16,7 +20,15 @@
         "ATC Track": "DANCE THE DEVIL AWAY",
         "ATC Artists": [
             "OUTBACK"
-        ]
+        ],
+        "Result Track Name": "Dance the Devil Away",
+        "Result Artist Names": [
+            "Outback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iaFV5kzedYVvs6DIVkaTr",
+        "Result Album Name": "Dance the Devil Away"
     },
     {
         "Title": "Turkey Hosts Anti-War Talks",
@@ -28,7 +40,12 @@
         "ATC Track": "Tabla",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Budget Challenges Greet Maryland's New Governor",
@@ -46,13 +63,27 @@
         "ATC Track": "Pretty Vacant",
         "ATC Artists": [
             "London Punkharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sheena Is a Punk Rocker",
         "ATC Artists": [
             "London Punkharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": "Sheena Is A Punk Rocker",
+        "Result Artist Names": [
+            "Ramone",
+            "London Punkharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1D4qxRuJ8PAYa5b76BjZ45",
+        "Result Album Name": "Classical Punk!"
     },
     {
         "Title": "Arrest Made in Midwest Child Prostitution Ring",
@@ -70,7 +101,12 @@
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In the News",
@@ -95,6 +131,14 @@
         "ATC Artists": [
             "Buena Vista Social Club",
             "Manuel \"Puntillita\" Licea"
-        ]
+        ],
+        "Result Track Name": "La Bayamesa",
+        "Result Artist Names": [
+            "Buena Vista Social Club"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:4jIizyj6SeB9XZZsKCjCTu",
+        "Result Album Name": "Buena Vista Social Club"
     }
 ]

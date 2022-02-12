@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-08-14",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 22:50:20"
+        "Scanned Date": "2022-02-06 22:50:20",
+        "Playlist URI": "236YmMnqQGCBjgctdLN7wo",
+        "Playlist Link": "https://open.spotify.com/playlist/236YmMnqQGCBjgctdLN7wo",
+        "Snapshot ID": "MSxhYjdiMTFhOTg0MjFhOThlZDQ4NTBhNWRkOTk4NjA2NWExYTVhYmQ2",
+        "Playlist Name": "ATC 2003-08-14 Thu All Things Considered"
     },
     {
         "Title": "Heat Blamed for French Deaths",
@@ -34,13 +38,29 @@
         "ATC Track": "Clepsydra",
         "ATC Artists": [
             "Roger Eno"
-        ]
+        ],
+        "Result Track Name": "Clepsydra",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gwTaR6YM8ixh8pOxFRgRQ",
+        "Result Album Name": "The Flatlands"
     },
     {
         "ATC Track": "Two Thousand Hopes",
         "ATC Artists": [
             "Eidolon"
-        ]
+        ],
+        "Result Track Name": "Two Thousand Hopes",
+        "Result Artist Names": [
+            "Acoustic Eidolon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wklsTugZjeb4r1ZadkOcG",
+        "Result Album Name": "A Simpler Time"
     },
     {
         "Title": "Hate Groups, Part Two",
@@ -59,14 +79,30 @@
         "ATC Artists": [
             "Frank Kimbrough",
             "Joe Locke"
-        ]
+        ],
+        "Result Track Name": "727",
+        "Result Artist Names": [
+            "Frank Kimbrough"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7s72X3mujCRvMCIQm4KAbc",
+        "Result Album Name": "Noumena"
     },
     {
         "ATC Track": "727",
         "ATC Artists": [
             "Frank Kimbrough",
             "Joe Locke"
-        ]
+        ],
+        "Result Track Name": "727",
+        "Result Artist Names": [
+            "Frank Kimbrough"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7s72X3mujCRvMCIQm4KAbc",
+        "Result Album Name": "Noumena"
     },
     {
         "Title": "U.N. Approves Iraq Resolution",
@@ -90,7 +126,12 @@
         "ATC Track": "Six Gnossiennes",
         "ATC Artists": [
             "Daniel Barski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Step Into Liquid'",

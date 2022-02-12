@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-05-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:55:43"
+        "Scanned Date": "2022-02-06 22:55:43",
+        "Playlist URI": "1HBOrDyHJftehQN43zLX0w",
+        "Playlist Link": "https://open.spotify.com/playlist/1HBOrDyHJftehQN43zLX0w",
+        "Snapshot ID": "MSwyMTk5Y2FiMzI5ZDQ3NjNlMDE0ZTU0MWNhZDI5ZDI4ZDZkMTBkZDA0",
+        "Playlist Name": "ATC 2003-05-11 Sun All Things Considered"
     },
     {
         "Title": "U.S. Official in Iraq to Leave",
@@ -28,7 +32,15 @@
         "ATC Track": "People in the City",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "People in the City - Live at the Mayan Theatre, Los Angeles, 2001",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ICFoHkvrMhMpXs2aetjrO",
+        "Result Album Name": "More Hertz"
     },
     {
         "Title": "Birders World Series",
@@ -46,13 +58,26 @@
         "ATC Track": "I DIG",
         "ATC Artists": [
             "LES BAXTER"
-        ]
+        ],
+        "Result Track Name": "I Dig",
+        "Result Artist Names": [
+            "Les Baxter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XacQYTj9NGGMi3e6eT6nc",
+        "Result Album Name": "Ultra-Lounge: Saxophobia"
     },
     {
         "ATC Track": "Arion (Dragazis)",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "AIDS Expert Researches SARS",

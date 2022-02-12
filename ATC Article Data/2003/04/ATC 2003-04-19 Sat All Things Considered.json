@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-04-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:58:03"
+        "Scanned Date": "2022-02-06 22:58:03",
+        "Playlist URI": "1vHQ6P7yUqi38XWrHVihMm",
+        "Playlist Link": "https://open.spotify.com/playlist/1vHQ6P7yUqi38XWrHVihMm",
+        "Snapshot ID": "MSw1NWQyMWRmZTZlNzBjZDQwZThlYWI1MDQzODM3MmQwZTUwZDJmZTE4",
+        "Playlist Name": "ATC 2003-04-19 Sat All Things Considered"
     },
     {
         "Title": "Iraqi Finance Minister Held",
@@ -28,7 +32,12 @@
         "ATC Track": "HIGH TIDE IN HUB CITY",
         "ATC Artists": [
             "BIG GUITARS FROM TEXAS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Palestinian Leaders Clash",
@@ -40,7 +49,15 @@
         "ATC Track": "Stories",
         "ATC Artists": [
             "Trapt"
-        ]
+        ],
+        "Result Track Name": "Stories",
+        "Result Artist Names": [
+            "Trapt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GxR3PuiqFiOvzT4TEZYJy",
+        "Result Album Name": "Trapt"
     },
     {
         "Title": "Nigerians Go to Polls for Presidential Vote",
@@ -52,13 +69,30 @@
         "ATC Track": "due something",
         "ATC Artists": [
             "michael masley"
-        ]
+        ],
+        "Result Track Name": "Due Something",
+        "Result Artist Names": [
+            "Michael Masley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WSHInSgzYYpWTviFeDFU0",
+        "Result Album Name": "Mystery Repeats Itself"
     },
     {
         "ATC Track": "God Moving Over the Face of the Waters",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "God Moving Over the Face of The Waters - Reprise Version",
+        "Result Artist Names": [
+            "Moby",
+            "Víkingur Ólafsson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QgzauG3dciYOmv2Wt8cdn",
+        "Result Album Name": "Music For Dogs"
     },
     {
         "Title": "Ten Years Later, Waco Raid Still Sparks Debate",
@@ -76,7 +110,15 @@
         "ATC Track": "BUT IF YOU GO",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "But If You Go",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3G7jWxkCPX61WP9xWiIxXv",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Girl Gangs Correction",
@@ -88,7 +130,15 @@
         "ATC Track": "BUT IF YOU GO",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "But If You Go",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3G7jWxkCPX61WP9xWiIxXv",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Las Vegas Lawn Lovers Face Water Restrictions ",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-06-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:53:22"
+        "Scanned Date": "2022-02-06 22:53:22",
+        "Playlist URI": "3d3TUgMCA42q0tywT8WSBR",
+        "Playlist Link": "https://open.spotify.com/playlist/3d3TUgMCA42q0tywT8WSBR",
+        "Snapshot ID": "MSwwN2E5NTAzYzJjMGY3MWI0ZjA0YTE4ZWRiZmNiYzVhOGFkZDNkZWUz",
+        "Playlist Name": "ATC 2003-06-01 Sun All Things Considered"
     },
     {
         "Title": "Profile of Murphy, N.C.",
@@ -34,7 +38,15 @@
         "ATC Track": "Ulan-Bator",
         "ATC Artists": [
             "3 Balls of Fire"
-        ]
+        ],
+        "Result Track Name": "Ulan-Bator",
+        "Result Artist Names": [
+            "3 Balls of Fire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7o70WkPvd3wBXrXLSWYoqg",
+        "Result Album Name": "FirePower"
     },
     {
         "Title": "Iraqi Gov't Council Announced",
@@ -52,7 +64,15 @@
         "ATC Track": "Sagïndïm Tuulgan Jer Sení (I Miss You, My Birthplace)",
         "ATC Artists": [
             "Salamat Sadikova"
-        ]
+        ],
+        "Result Track Name": "Sagindim tuulgan jer seni (I Miss You, My Birthplace)",
+        "Result Artist Names": [
+            "Salamat Sadikova"
+        ],
+        "Result Track-Match Percent": 0.7777777777777778,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:082HigsJGjComz80hGDfZr",
+        "Result Album Name": "The Voice of Kyrgyzstan"
     },
     {
         "Title": "Bush, Chirac in France",
@@ -76,7 +96,15 @@
         "ATC Track": "Good Clone, Bad Clone",
         "ATC Artists": [
             "3 Balls of Fire"
-        ]
+        ],
+        "Result Track Name": "Good Clone, Bad Clone",
+        "Result Artist Names": [
+            "3 Balls of Fire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pd10CDxRH9ZmIGrm6leSE",
+        "Result Album Name": "FirePower"
     },
     {
         "Title": "The Importance of the Basketball Point Guard",
@@ -88,6 +116,14 @@
         "ATC Track": "Tequila",
         "ATC Artists": [
             "The Champs"
-        ]
+        ],
+        "Result Track Name": "Tequila",
+        "Result Artist Names": [
+            "The Champs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gJKsGij5oGt5H5RSFYXPa",
+        "Result Album Name": "Greatest Hits / Tequila"
     }
 ]

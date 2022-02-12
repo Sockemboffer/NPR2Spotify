@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-04-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:57:37"
+        "Scanned Date": "2022-02-06 22:57:37",
+        "Playlist URI": "6FLlZ9RYcLmPUWHMpGpqsA",
+        "Playlist Link": "https://open.spotify.com/playlist/6FLlZ9RYcLmPUWHMpGpqsA",
+        "Snapshot ID": "MSxmODAxMWUzMGI1MGFlYWRjNGJjY2VhOTgyZGMyY2FiZDBkZmIyYjJl",
+        "Playlist Name": "ATC 2003-04-12 Sat All Things Considered"
     },
     {
         "Title": "Baghdad Chaos Persists",
@@ -22,7 +26,15 @@
         "ATC Track": "Electronic Performers",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Electronic Performers - Live at KCRW, 2001",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mVJWijbkaqMCsEYWeaBCl",
+        "Result Album Name": "More Hertz"
     },
     {
         "Title": "N. Korea Nuclear Shift",
@@ -40,7 +52,15 @@
         "ATC Track": "LAND OF LIGHT",
         "ATC Artists": [
             "STEPHEN SCOTT"
-        ]
+        ],
+        "Result Track Name": "Land Of Light",
+        "Result Artist Names": [
+            "Stephen Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09KrTHudowGFy776xD3JZW",
+        "Result Album Name": "Vikings Of The Sunrise: Fantasy On The Polynesian Star Navigators"
     },
     {
         "Title": "Congress Agrees on Smallpox Compensation Plan",
@@ -58,13 +78,26 @@
         "ATC Track": "Red Gradations",
         "ATC Artists": [
             "Chicago Underground Duo"
-        ]
+        ],
+        "Result Track Name": "Red Gradations",
+        "Result Artist Names": [
+            "Chicago Underground Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5InOXueymJ5EJjC4ku4R55",
+        "Result Album Name": "Synesthesia"
     },
     {
         "ATC Track": "Little Fluffy Clouds",
         "ATC Artists": [
             "Acoustek"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Finance Meeting",
@@ -89,7 +122,15 @@
         "ATC Artists": [
             "B. Bumble",
             "The Stingers"
-        ]
+        ],
+        "Result Track Name": "Nut Rocker",
+        "Result Artist Names": [
+            "B. Bumble & The Stingers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gLfY32qbSjfP9IfhSnnMM",
+        "Result Album Name": "The Piano Stylings of B. Bumble"
     },
     {
         "Title": "Pentagon Downplays Iraq Tumult",
@@ -119,6 +160,14 @@
         "ATC Track": "Stereo 99",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": "Stereo 99",
+        "Result Artist Names": [
+            "Blue States"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wylLHV0qH7VGQnK4P0PCA",
+        "Result Album Name": "Nothing Changes Under The Sun"
     }
 ]

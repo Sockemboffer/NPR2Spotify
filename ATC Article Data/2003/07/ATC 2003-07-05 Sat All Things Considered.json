@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-07-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:51:41"
+        "Scanned Date": "2022-02-06 22:51:41",
+        "Playlist URI": "4yk2NFvs9DHRLugHog4HDA",
+        "Playlist Link": "https://open.spotify.com/playlist/4yk2NFvs9DHRLugHog4HDA",
+        "Snapshot ID": "MSxlZGNlYjAxZWY3Y2FmYTcxOGY4MGU2YjYzZDlmMTY4YzNhZWMwMGY1",
+        "Playlist Name": "ATC 2003-07-05 Sat All Things Considered"
     },
     {
         "Title": "Police Recruits Killed in Iraq",
@@ -40,13 +44,26 @@
         "ATC Track": "Yoshiwara [From Metropolis]",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rebel Rouser",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Rebel Rouser",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nAJtcmiyoL0ARY5WZY9IN",
+        "Result Album Name": "The Best Of Duane Eddy"
     },
     {
         "Title": "California Governor Faces Budget Crisis, Recall",
@@ -76,6 +93,14 @@
         "ATC Track": "J'Ai Dormi Sous l'Eau",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "J'ai dormi sous l'eau",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CIlUgLNKzwjU59hPpqQ45",
+        "Result Album Name": "Premiers Symptômes"
     }
 ]

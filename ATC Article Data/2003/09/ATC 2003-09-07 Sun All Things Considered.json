@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-09-07",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:48:10"
+        "Scanned Date": "2022-02-06 22:48:10",
+        "Playlist URI": "3NslBZsjOWsa5YV7tnLGNu",
+        "Playlist Link": "https://open.spotify.com/playlist/3NslBZsjOWsa5YV7tnLGNu",
+        "Snapshot ID": "MSw0MTI5NTk2YjA4NTdkZTFlOWFiM2Q1ZWYxY2VmNzZkMzU1NTE2OGEz",
+        "Playlist Name": "ATC 2003-09-07 Sun All Things Considered"
     },
     {
         "Title": "Arafat Picks Abbas Replacement",
@@ -41,7 +45,15 @@
         "ATC Artists": [
             "B. Bumble",
             "The Stingers"
-        ]
+        ],
+        "Result Track Name": "Nut Rocker",
+        "Result Artist Names": [
+            "B. Bumble & The Stingers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gLfY32qbSjfP9IfhSnnMM",
+        "Result Album Name": "The Piano Stylings of B. Bumble"
     },
     {
         "Title": "U.N. Officials Struggle to Meet Liberia's Needs",
@@ -53,13 +65,26 @@
         "ATC Track": "Dagna",
         "ATC Artists": [
             "Mamadou Diabate"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Horse",
         "ATC Artists": [
             "Dirty Three"
-        ]
+        ],
+        "Result Track Name": "Last Horse on the Sand",
+        "Result Artist Names": [
+            "Dirty Three"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4k9Qk1XP1fJBcjOZakyu6l",
+        "Result Album Name": "Ocean Songs"
     },
     {
         "Title": "One Firefighter's Sept. 11 Story",
@@ -71,7 +96,15 @@
         "ATC Track": "Opening Titles",
         "ATC Artists": [
             "Tindersticks"
-        ]
+        ],
+        "Result Track Name": "Opening Titles",
+        "Result Artist Names": [
+            "Tindersticks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2H5BBxDUb5FdDQJHS4gxTL",
+        "Result Album Name": "Trouble Every Day"
     },
     {
         "Title": "Alabama Preps for Tax Vote",

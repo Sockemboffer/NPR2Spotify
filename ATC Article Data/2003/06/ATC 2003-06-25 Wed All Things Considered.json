@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-06-25",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 22:54:50"
+        "Scanned Date": "2022-02-06 22:54:50",
+        "Playlist URI": "6y8jUGiYQKsbrZggeVt1cp",
+        "Playlist Link": "https://open.spotify.com/playlist/6y8jUGiYQKsbrZggeVt1cp",
+        "Snapshot ID": "MSxhN2JjMzY2YTQyMWMxYmY5MTQ0NTc2NGMyZWZlOTg4NzVjY2QxOGEy",
+        "Playlist Name": "ATC 2003-06-25 Wed All Things Considered"
     },
     {
         "Title": "Signs of Al Qaeda Activity",
@@ -24,13 +28,23 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Shuman's Leap",
         "ATC Artists": [
             "Shooglenifty"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Crews Battle Western Wildfires",
@@ -48,13 +62,29 @@
         "ATC Track": "Dirge",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Dirge",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JApFiZt3zMZbtCmRoi8hl",
+        "Result Album Name": "Oracle"
     },
     {
         "ATC Track": "Jam Tomorrow",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Jam Tomorrow",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52t8eyFobKMysQ6LzqvqFs",
+        "Result Album Name": "Guitar Bones"
     },
     {
         "Title": "'Norma Rae' Textile Plant  to Shut Down",
@@ -78,14 +108,30 @@
         "ATC Track": "Pampa",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Pampa",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eku3RQWLOSrsxjgt0Y3FS",
+        "Result Album Name": "Ronroco"
     },
     {
         "ATC Track": "The Mysterious Death of Robert Tower",
         "ATC Artists": [
             "Eric Bachmann",
             "Eunice Kang et. al."
-        ]
+        ],
+        "Result Track Name": "The Mysterious Death of Robert Tower",
+        "Result Artist Names": [
+            "Eric Bachmann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1XOvtrAOIuPl3cztpdbdsB",
+        "Result Album Name": "Short Careers - Ball of Wax"
     },
     {
         "Title": "Long U.S. Stay in Iraq Likely",
@@ -103,13 +149,29 @@
         "ATC Track": "All Saints",
         "ATC Artists": [
             "David Bowie"
-        ]
+        ],
+        "Result Track Name": "All Saints - 2001 Remaster",
+        "Result Artist Names": [
+            "David Bowie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ptGkgo5YWeQtokDyGZnlt",
+        "Result Album Name": "All Saints"
     },
     {
         "ATC Track": "Boubacar",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Boubacar",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:02oqormPIABuDlV7SZr7js",
+        "Result Album Name": "East/West"
     },
     {
         "Title": "Fed Cuts Interest Rates",
@@ -134,13 +196,29 @@
         "ATC Artists": [
             "Frank Kimbrough",
             "Joe Locke"
-        ]
+        ],
+        "Result Track Name": "727",
+        "Result Artist Names": [
+            "Frank Kimbrough"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7s72X3mujCRvMCIQm4KAbc",
+        "Result Album Name": "Noumena"
     },
     {
         "ATC Track": "Everything in Its Right Place",
         "ATC Artists": [
             "Christopher O'Riley"
-        ]
+        ],
+        "Result Track Name": "Everything In It's Right Place",
+        "Result Artist Names": [
+            "Christopher O'Riley"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nYWjyefCKTCjpOqhqxqDZ",
+        "Result Album Name": "True Love Waits (Christopher O'Riley Plays Radiohead)"
     },
     {
         "Title": "New York Voids Math Scores on High School Exit Exam",
@@ -158,7 +236,15 @@
         "ATC Track": "For You Alone",
         "ATC Artists": [
             "Joe Lovano"
-        ]
+        ],
+        "Result Track Name": "For You Alone",
+        "Result Artist Names": [
+            "Joe Lovano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7716ZxKMnaffIaxo4WQyVI",
+        "Result Album Name": "Viva Caruso"
     },
     {
         "Title": "Hamas Denies Cease-Fire Deal",
@@ -182,13 +268,29 @@
         "ATC Track": "Computer",
         "ATC Artists": [
             "Tindersticks"
-        ]
+        ],
+        "Result Track Name": "Computer",
+        "Result Artist Names": [
+            "Tindersticks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FF7kwZgVhaVwwy4r82YZQ",
+        "Result Album Name": "Trouble Every Day"
     },
     {
         "ATC Track": "Sunspot",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Sunspot",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j3zTskvIYLNeODbs8yNNm",
+        "Result Album Name": "Play & Play: B Sides"
     },
     {
         "Title": "Music Industry Targets Individual File Swappers",
@@ -206,12 +308,25 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "We Are Everywhere",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "We Are Everywhere",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6qLxMtSgnQlVj0FSpuzaB9",
+        "Result Album Name": "The Intercontinentals"
     }
 ]

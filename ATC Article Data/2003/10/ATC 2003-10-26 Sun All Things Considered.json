@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-10-26",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:47:27"
+        "Scanned Date": "2022-02-06 22:47:27",
+        "Playlist URI": "5gCIFZCNabqmL2YNnRelVx",
+        "Playlist Link": "https://open.spotify.com/playlist/5gCIFZCNabqmL2YNnRelVx",
+        "Snapshot ID": "MSw0OWMxNjczNzY2N2RlMmJmNTkzMmFjMzM3OGU3NDZkOWYxNTc2NTE5",
+        "Playlist Name": "ATC 2003-10-26 Sun All Things Considered"
     },
     {
         "Title": "Calif. Fires Consume Homes",
@@ -28,7 +32,15 @@
         "ATC Track": "Alvin's Theme",
         "ATC Artists": [
             "Angelo Badalamenti"
-        ]
+        ],
+        "Result Track Name": "Laura Palmer's Theme - Instrumental",
+        "Result Artist Names": [
+            "Angelo Badalamenti"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Bk3p8UqcP4sItaWNWbvXL",
+        "Result Album Name": "Soundtrack From Twin Peaks"
     },
     {
         "Title": "Minnesota Farmers Fear Stricter Cuba Trade Rules",
@@ -46,13 +58,29 @@
         "ATC Track": "Fox musette",
         "ATC Artists": [
             "Les Primitifs Du Futur"
-        ]
+        ],
+        "Result Track Name": "Fox musette",
+        "Result Artist Names": [
+            "Les Primitifs Du Futur"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5KOlIwVA3w2jZGOL7hTz4x",
+        "Result Album Name": "World Musette"
     },
     {
         "ATC Track": "Homesick",
         "ATC Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Homesick",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57ez24z4S7igci4qtcQQ3B",
+        "Result Album Name": "New Everything"
     },
     {
         "Title": "Efforts to Re-Open Liberia's Schools Delayed",
@@ -70,7 +98,12 @@
         "ATC Track": "Xp1010",
         "ATC Artists": [
             "Mark Mothersbaugh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Medicare Drug Bill Stalled",
@@ -82,7 +115,15 @@
         "ATC Track": "Elite Syncopations",
         "ATC Artists": [
             "Giovanni DeChiaro"
-        ]
+        ],
+        "Result Track Name": "Elite Syncopations",
+        "Result Artist Names": [
+            "Giovanni Tornambene"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7jFv1A92eozceJNbjKt5SR",
+        "Result Album Name": "RagTime"
     },
     {
         "Title": "The Ethicist: Smoking Pot on the Job",
@@ -100,12 +141,25 @@
         "ATC Track": "SPINNING SONG",
         "ATC Artists": [
             "WOODY PHILLIPS"
-        ]
+        ],
+        "Result Track Name": "Spinning Song",
+        "Result Artist Names": [
+            "Woody Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1y7vwO8QunidrOzDwqcvcK",
+        "Result Album Name": "Toolbox Classics"
     },
     {
         "ATC Track": "Bonzaiko",
         "ATC Artists": [
             "Mark Mothersbaugh"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

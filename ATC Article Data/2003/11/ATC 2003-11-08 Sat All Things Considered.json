@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-11-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:44:35"
+        "Scanned Date": "2022-02-06 22:44:35",
+        "Playlist URI": "0xW2gC0XNziDxT848dPtJ0",
+        "Playlist Link": "https://open.spotify.com/playlist/0xW2gC0XNziDxT848dPtJ0",
+        "Snapshot ID": "MSwxNjU5M2Y3YWNlYmU2YzZiMWZjNGYwMWY3MDkxZTgwMjg3MjAzODM4",
+        "Playlist Name": "ATC 2003-11-08 Sat All Things Considered"
     },
     {
         "Title": "Blast Rocks Saudi City",
@@ -16,7 +20,15 @@
         "ATC Track": "PVC IV",
         "ATC Artists": [
             "Blue Man Group"
-        ]
+        ],
+        "Result Track Name": "PVC IV",
+        "Result Artist Names": [
+            "Blue Man Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DRUGJjui3Z365tU435DTp",
+        "Result Album Name": "Audio"
     },
     {
         "Title": "Dean Opts Out of Federal Funds",
@@ -47,19 +59,44 @@
         "ATC Artists": [
             "Speedy West",
             "Jimmy Bryant"
-        ]
+        ],
+        "Result Track Name": "Boogie Man",
+        "Result Artist Names": [
+            "Speedy West",
+            "Jimmy Bryant"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ZgD3hoPFZUj4JKLVnW0KF",
+        "Result Album Name": "For the Last Time"
     },
     {
         "ATC Track": "Joik",
         "ATC Artists": [
             "Martyn Bennett"
-        ]
+        ],
+        "Result Track Name": "Joik",
+        "Result Artist Names": [
+            "Martyn Bennett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31dJPgHOe0aDYZ2Msv2hRL",
+        "Result Album Name": "Bothy Culture"
     },
     {
         "ATC Track": "You",
         "ATC Artists": [
             "Christopher O'Riley"
-        ]
+        ],
+        "Result Track Name": "Thinking About You",
+        "Result Artist Names": [
+            "Christopher O'Riley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6soS0kfunwa5FFrYYZmfaf",
+        "Result Album Name": "True Love Waits (Christopher O'Riley Plays Radiohead)"
     },
     {
         "Title": "Three Blasts Reported in Riyadh",
@@ -96,7 +133,12 @@
         "ATC Artists": [
             "ORCHESTRELLE AEOLIAN (1880",
             "1900)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Blasts Rock Riyadh",

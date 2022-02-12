@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-04-16",
         "Day": "Wed",
-        "Scanned Date": "2022-02-06 22:57:53"
+        "Scanned Date": "2022-02-06 22:57:53",
+        "Playlist URI": "6NIRyf9AG1bjeNU7CRXKcX",
+        "Playlist Link": "https://open.spotify.com/playlist/6NIRyf9AG1bjeNU7CRXKcX",
+        "Snapshot ID": "MSw3NzMzZGJiMmE1ZDEyMGQyNzgwNTdmNjY3YzA1NmIyMzk5NTljYTVk",
+        "Playlist Name": "ATC 2003-04-16 Wed All Things Considered"
     },
     {
         "Title": "War Update",
@@ -28,13 +32,29 @@
         "ATC Track": "Leila au Pays du Carrousel",
         "ATC Artists": [
             "Anouar Brahem"
-        ]
+        ],
+        "Result Track Name": "Leila au pays du carrousel",
+        "Result Artist Names": [
+            "Anouar Brahem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1O1zGMOJqEzfgTUdNtBhhh",
+        "Result Album Name": "Le pas du chat noir"
     },
     {
         "ATC Track": "La Sagrada Familia",
         "ATC Artists": [
             "Michael Manring"
-        ]
+        ],
+        "Result Track Name": "La Sagrada Familia",
+        "Result Artist Names": [
+            "Michael Manring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Izb4kwLrsOBmSOJNaY4vW",
+        "Result Album Name": "The Book of Flame"
     },
     {
         "Title": "Cold War Divisions Dissolve as EU Adds Members",
@@ -52,13 +72,29 @@
         "ATC Track": "Old Lines",
         "ATC Artists": [
             "Roger Eno"
-        ]
+        ],
+        "Result Track Name": "Old Lines",
+        "Result Artist Names": [
+            "Roger Eno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23V5qeJN2sFUwjvB4GGe6S",
+        "Result Album Name": "The Flatlands"
     },
     {
         "ATC Track": "When We Were Leaving",
         "ATC Artists": [
             "Rob Ickes"
-        ]
+        ],
+        "Result Track Name": "When We Were Leaving",
+        "Result Artist Names": [
+            "Rob Ickes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VqhSmLhNzHfnQqlHb0vtY",
+        "Result Album Name": "What It Is"
     },
     {
         "Title": "Homeland Security Gets Privacy Czar",
@@ -76,7 +112,15 @@
         "ATC Track": "Malaika",
         "ATC Artists": [
             "Edward Gerhard"
-        ]
+        ],
+        "Result Track Name": "Malaika",
+        "Result Artist Names": [
+            "Ed Gerhard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1pIiiNl1yrBcjEgv4PUFfe",
+        "Result Album Name": "The Live Album"
     },
     {
         "Title": "Commentary: Codrescu on a Poet",
@@ -88,13 +132,29 @@
         "ATC Track": "Wave/Mother Nature's Son",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Wave / Mother Nature's Son",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VuPJ7O0JJB4Rg51wPC1nn",
+        "Result Album Name": "Largo"
     },
     {
         "ATC Track": "Skeleton",
         "ATC Artists": [
             "Ginger Baker Trio"
-        ]
+        ],
+        "Result Track Name": "Skeleton",
+        "Result Artist Names": [
+            "Ginger Baker Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0EYgHSsKqRxTQZ31Thypxi",
+        "Result Album Name": "Falling Of The Roof"
     },
     {
         "Title": " Remembering Krakatoa's Cataclysm",
@@ -106,7 +166,19 @@
         "ATC Track": "Drad Dog",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+        "Result Artist Names": [
+            "Miles Davis",
+            "Hank Mobley",
+            "Wynton Kelly",
+            "Paul Chambers",
+            "Jimmy Cobb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uvcEIzqz9mhRcEhrsODgf",
+        "Result Album Name": "Someday My Prince Will Come"
     },
     {
         "Title": "Pentagon Chafes at Failure to Find Banned Iraqi Arms",
@@ -130,7 +202,12 @@
         "ATC Track": "Psalom (1991/1993)",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "S. Africa to Pay Apartheid Victims Reparations",
@@ -172,13 +249,26 @@
         "ATC Track": "In the Mood for Love, I",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pecados da Madrugada [Sins Before Dawn]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Pecados Da Madrugada",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15j52gNCjKqXEh12RaVlGU",
+        "Result Album Name": "Sao Paulo Confessions"
     },
     {
         "Title": "N.J. Child Welfare",
@@ -196,12 +286,25 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Wildside",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Wildside",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:313bv3EQinnoiw2d3WOYnt",
+        "Result Album Name": "Space Island"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-06-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:53:50"
+        "Scanned Date": "2022-02-06 22:53:50",
+        "Playlist URI": "2sG2pD4xS30w6pBc3WDWCi",
+        "Playlist Link": "https://open.spotify.com/playlist/2sG2pD4xS30w6pBc3WDWCi",
+        "Snapshot ID": "MSw3ODQ3ZTk3NWFmMjZmYTExOTM4N2FmOTQ0M2YwZmY1Yzk5ZGY3NDYy",
+        "Playlist Name": "ATC 2003-06-08 Sun All Things Considered"
     },
     {
         "Title": "Mideast",
@@ -22,7 +26,15 @@
         "ATC Track": "LAND OF LIGHT",
         "ATC Artists": [
             "STEPHEN SCOTT"
-        ]
+        ],
+        "Result Track Name": "Land Of Light",
+        "Result Artist Names": [
+            "Stephen Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09KrTHudowGFy776xD3JZW",
+        "Result Album Name": "Vikings Of The Sunrise: Fantasy On The Polynesian Star Navigators"
     },
     {
         "Title": "German Forces in Afghanistan",
@@ -52,13 +64,26 @@
         "ATC Track": "Zen Samba",
         "ATC Artists": [
             "Donald Knaack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pokinoï",
         "ATC Artists": [
             "Cirque du Soleil"
-        ]
+        ],
+        "Result Track Name": "Pokinoï (Sasha Remix)",
+        "Result Artist Names": [
+            "Cirque du Soleil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:361iJ3YkdhoWfwmSqqFTLM",
+        "Result Album Name": "Solarium/Delirium"
     },
     {
         "Title": "High Sales Expected for Hillary Rodham Clinton Memoir",
@@ -88,13 +113,26 @@
         "ATC Track": "Bish Bash",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Bish Bash",
+        "Result Artist Names": [
+            "The Benny Green Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KdZ09GNhYfXrUuZ34Iowy",
+        "Result Album Name": "Greens"
     },
     {
         "ATC Track": "KITE FLYING CHAMPION OF THE WORLD",
         "ATC Artists": [
             "DAVID GREENBERGER",
             "TERRY ADAMS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-08-30",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:51:20"
+        "Scanned Date": "2022-02-06 22:51:20",
+        "Playlist URI": "3V7MxD6bOtVZAqu8qV8Yf5",
+        "Playlist Link": "https://open.spotify.com/playlist/3V7MxD6bOtVZAqu8qV8Yf5",
+        "Snapshot ID": "MSwzNTNlYTc5ZWM4MDY2OTJjYWFjNDNlYzE2YjUyYWNlOTI2NzZmZmQy",
+        "Playlist Name": "ATC 2003-08-30 Sat All Things Considered"
     },
     {
         "Title": "Crowds Protest Najaf Blast",
@@ -46,13 +50,23 @@
         "ATC Track": "Ceasar Boots",
         "ATC Artists": [
             "House of Binary"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Disco",
         "ATC Artists": [
             "House of Binary"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Yale Food Strike Grist for Political Mill",
@@ -89,13 +103,29 @@
         "ATC Artists": [
             "Moondog",
             "London Saxophonic"
-        ]
+        ],
+        "Result Track Name": "Fiesta Piano Solo",
+        "Result Artist Names": [
+            "Moondog"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3vPAeAZcXudVfyRyKWqbmM",
+        "Result Album Name": "More Moondog / The Story Of Moondog"
     },
     {
         "ATC Track": "Mother's Whistler",
         "ATC Artists": [
             "Moondog",
             "London Saxophonic"
-        ]
+        ],
+        "Result Track Name": "Mother's Whistler",
+        "Result Artist Names": [
+            "Moondog"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7j4ePekrq1vDJy0jH4qBur",
+        "Result Album Name": "Sax Pax For A Sax"
     }
 ]

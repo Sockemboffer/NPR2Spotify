@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-06-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:54:36"
+        "Scanned Date": "2022-02-06 22:54:36",
+        "Playlist URI": "7xmXhabESuwP4hLq9g6RjO",
+        "Playlist Link": "https://open.spotify.com/playlist/7xmXhabESuwP4hLq9g6RjO",
+        "Snapshot ID": "MSxlNjI2ZGYxMmZjOTI1MTU3NzcxN2RhZGRjM2NlZjY0MzlhYjhmNjQy",
+        "Playlist Name": "ATC 2003-06-22 Sun All Things Considered"
     },
     {
         "Title": "U.S. Soldier Killed in Iraq",
@@ -28,7 +32,12 @@
         "ATC Track": "The Day I Heard",
         "ATC Artists": [
             "Fognode"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ice Trade",
@@ -46,13 +55,30 @@
         "ATC Track": "Telephone and Rubber Band",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Telephone and Rubber Band",
+        "Result Artist Names": [
+            "Simon Jeffes",
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6NkvFa0WM1CUkprsMOsUQE",
+        "Result Album Name": "Concert Program"
     },
     {
         "ATC Track": "Something About Us",
         "ATC Artists": [
             "Daft Punk"
-        ]
+        ],
+        "Result Track Name": "Something About Us",
+        "Result Artist Names": [
+            "Daft Punk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NeLwFETswx8Fzxl2AFl91",
+        "Result Album Name": "Discovery"
     },
     {
         "Title": "AIDS Patients Criticize China's Aid to SARS Sufferers",
@@ -88,6 +114,14 @@
         "ATC Track": "Groove Holmes",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Groove Holmes",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79RU3IJza68fW10JHbDfhb",
+        "Result Album Name": "The In Sound From Way Out!"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-03-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:58:39"
+        "Scanned Date": "2022-02-06 22:58:39",
+        "Playlist URI": "0TOtzb9dgGF2QlBj50CRpH",
+        "Playlist Link": "https://open.spotify.com/playlist/0TOtzb9dgGF2QlBj50CRpH",
+        "Snapshot ID": "MSwwYzg5Y2NiMWYyM2EwOWZiMzlkMmY1MWMwZDE1OTg3ZDNjMzgzMjBh",
+        "Playlist Name": "ATC 2003-03-01 Sat All Things Considered"
     },
     {
         "Title": "Al Qaeda Arrests",
@@ -28,7 +32,12 @@
         "ATC Track": "Pocket Monster",
         "ATC Artists": [
             "Vibulator"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Turkey Troop Vote",
@@ -46,7 +55,15 @@
         "ATC Track": "Electronic Performers",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Electronic Performers - Live at KCRW, 2001",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mVJWijbkaqMCsEYWeaBCl",
+        "Result Album Name": "More Hertz"
     },
     {
         "Title": "Insurers Add 'Fallout' Clause to Auto Policies",
@@ -58,7 +75,16 @@
         "ATC Track": "Mirabella (A Tarantella)",
         "ATC Artists": [
             "Margaret Leng Tan"
-        ]
+        ],
+        "Result Track Name": "Mirabella (a Tarantella)",
+        "Result Artist Names": [
+            "Stephen Montague",
+            "Margaret Leng Tan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73gJ6Tfz43a9U5Kqt21rGy",
+        "Result Album Name": "The Art of the Toy Piano"
     },
     {
         "Title": "Susan Stamberg Remembers Mister Rogers",
@@ -70,13 +96,26 @@
         "ATC Track": "BLUSETTE",
         "ATC Artists": [
             "ROBERT LAFOND -- SYMFUNNY ORCH."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Torquay",
         "ATC Artists": [
             "The Fireballs"
-        ]
+        ],
+        "Result Track Name": "Torquay",
+        "Result Artist Names": [
+            "The Fireballs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SYCvuVGbRX1EeA1LxRRVu",
+        "Result Album Name": "Clovis Classics: The Definitive Collection"
     },
     {
         "Title": "U.S. Olympic Committee Chief Resigns",
@@ -88,7 +127,15 @@
         "ATC Track": "People in the City",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "People in the City - Live at the Mayan Theatre, Los Angeles, 2001",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ICFoHkvrMhMpXs2aetjrO",
+        "Result Album Name": "More Hertz"
     },
     {
         "Title": "Military Contractors Getting Closer to the Action",
@@ -100,7 +147,15 @@
         "ATC Track": "Pools in Eyes",
         "ATC Artists": [
             "Q-Burns Abstract Message"
-        ]
+        ],
+        "Result Track Name": "Pools In Eyes",
+        "Result Artist Names": [
+            "Q-Burns Abstract Message"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7DDmus29elaDC23N8t4kzY",
+        "Result Album Name": "Oeuvre"
     },
     {
         "Title": "Shuttle's Loss Gives Russia Bigger Space Station Role",

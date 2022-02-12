@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-02-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:00:51"
+        "Scanned Date": "2022-02-06 23:00:51",
+        "Playlist URI": "5GxwDHxzPn54oMR2S4MgLX",
+        "Playlist Link": "https://open.spotify.com/playlist/5GxwDHxzPn54oMR2S4MgLX",
+        "Snapshot ID": "MSxjM2QwMmY0ZDg3NDY2NTc1MzllZDZkYzVhMzZiY2E4MTBlZjJlZDg2",
+        "Playlist Name": "ATC 2003-02-09 Sun All Things Considered"
     },
     {
         "Title": "Blix, ElBaradei on Iraq",
@@ -28,7 +32,15 @@
         "ATC Track": "Dream",
         "ATC Artists": [
             "Tindersticks"
-        ]
+        ],
+        "Result Track Name": "Paco De Renaldo's Dream",
+        "Result Artist Names": [
+            "Tindersticks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OZJFXRasMaWK0XGmNTtuB",
+        "Result Album Name": "The First Tindersticks Album (Deluxe Edition)"
     },
     {
         "Title": "Expansion of Patriot Act Criticized",
@@ -46,13 +58,26 @@
         "ATC Track": "Ceasar Boots",
         "ATC Artists": [
             "House of Binary"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "L' Inverno",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": "L'Inverno",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4QObFX9VYuuZQRsoRbFn5G",
+        "Result Album Name": "Pieces In A Modern Style"
     },
     {
         "Title": "Columbia Shuttle Investigation",

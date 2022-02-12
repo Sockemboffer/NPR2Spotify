@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-07-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:52:35"
+        "Scanned Date": "2022-02-06 22:52:35",
+        "Playlist URI": "60PihAhyb6rVDFFV4ycgxX",
+        "Playlist Link": "https://open.spotify.com/playlist/60PihAhyb6rVDFFV4ycgxX",
+        "Snapshot ID": "MSwyOWI4Y2NiYmNiZGE1OGEyMTg5NDUyYzU1ZmY3YzRmY2U3MzE4MzY3",
+        "Playlist Name": "ATC 2003-07-20 Sun All Things Considered"
     },
     {
         "Title": "U.S. Defends Record in Iraq",
@@ -22,7 +26,15 @@
         "ATC Track": "MIRROR IN BLUE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mirror In Blue",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mqoSKloGP24YYzptURqR4",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "Bush Fallout",
@@ -46,13 +58,26 @@
         "ATC Track": "Eternal Sun",
         "ATC Artists": [
             "Duran Y Garcia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Beach Samba [Bossa Na Praita]",
         "ATC Artists": [
             "Walter Wanderley"
-        ]
+        ],
+        "Result Track Name": "Beach Samba",
+        "Result Artist Names": [
+            "Walter Wanderley"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3grwDO4qQAhGxqDVLLq3y9",
+        "Result Album Name": "Rain Forest"
     },
     {
         "Title": "Liberian Rebels Strike Capital",
@@ -70,7 +95,12 @@
         "ATC Track": "LAST YEAR'S NEST",
         "ATC Artists": [
             "PAUL CARROL BINKLEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cemetery Protection",
@@ -95,7 +125,18 @@
         "ATC Artists": [
             "HOLLYWOOD BOWL ORCHESTRA",
             "MAUCERI"
-        ]
+        ],
+        "Result Track Name": "Spellbound Concerto, for Piano and Orchestra",
+        "Result Artist Names": [
+            "Miklós Rózsa",
+            "Stephen Hough",
+            "Hollywood Bowl Orchestra",
+            "John Mauceri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4w84zHf7dDFtSk2x87DwR5",
+        "Result Album Name": "Hollywood Nightmares"
     },
     {
         "Title": "Ethicist",
@@ -107,12 +148,28 @@
         "ATC Track": "POUND CAKE",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Pound Cake",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5V39sp30BWDe6wxpXKxXBw",
+        "Result Album Name": "Interstate"
     },
     {
         "ATC Track": "NOTHING LIES STILL LONG",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Nothing Lies Still Long",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1X87N9FDFN1re4uL1yqtVK",
+        "Result Album Name": "Interstate"
     }
 ]

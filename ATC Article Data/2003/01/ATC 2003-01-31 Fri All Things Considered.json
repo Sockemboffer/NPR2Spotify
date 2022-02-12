@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-01-31",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 23:03:48"
+        "Scanned Date": "2022-02-06 23:03:48",
+        "Playlist URI": "19aP1QyAaMJa0keuEGpOCq",
+        "Playlist Link": "https://open.spotify.com/playlist/19aP1QyAaMJa0keuEGpOCq",
+        "Snapshot ID": "MSwwMzM5NDBjZGUzNzU2Yjc0MDUyYjgxYzU3YTA2ODIwNzVjYmQ2YjUw",
+        "Playlist Name": "ATC 2003-01-31 Fri All Things Considered"
     },
     {
         "Title": "Evidence of N. Korean Nukes",
@@ -29,13 +33,26 @@
         "ATC Artists": [
             "Zawose",
             "Brook"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "STRAIGHT NO CHASER",
         "ATC Artists": [
             "THELONIOUS MONK"
-        ]
+        ],
+        "Result Track Name": "Straight, No Chaser",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6YYu8qFzcY1ZyzzsJIQM12",
+        "Result Album Name": "Straight, No Chaser"
     },
     {
         "Title": "State of the Union Reaction",
@@ -47,7 +64,15 @@
         "ATC Track": "Sugar Lips",
         "ATC Artists": [
             "Al Hirt"
-        ]
+        ],
+        "Result Track Name": "Sugar Lips",
+        "Result Artist Names": [
+            "Al Hirt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69Gds325yLxpRANE5yfk26",
+        "Result Album Name": "Sugar Lips"
     },
     {
         "Title": "CDC Reports on Environmental Toxins in Humans",
@@ -65,7 +90,15 @@
         "ATC Track": "We See",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "We See",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yuw5PLtxwo9lZcFBgBXbe",
+        "Result Album Name": "Marsalis Plays Monk - Standard Time Vol. 4"
     },
     {
         "Title": "Arena Football on TV",
@@ -77,13 +110,26 @@
         "ATC Track": "Six Gnossiennes",
         "ATC Artists": [
             "Daniel Barski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "How Animals Move",
         "ATC Artists": [
             "John Parish"
-        ]
+        ],
+        "Result Track Name": "How Animals Move",
+        "Result Artist Names": [
+            "John Parish"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5E5hrpXVLvXokbuBU1deN6",
+        "Result Album Name": "How Animals Move"
     },
     {
         "Title": "Terry Gilliam, 'Lost in La Mancha'",
@@ -95,7 +141,15 @@
         "ATC Track": "roll- & rockkragen",
         "ATC Artists": [
             "die knodel"
-        ]
+        ],
+        "Result Track Name": "Roll & Rockkragen",
+        "Result Artist Names": [
+            "Die Knödel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3AaiM9NubKUGmFQNba1Pr1",
+        "Result Album Name": "Die, Noodle"
     },
     {
         "Title": "Bush, Blair Confer on Iraq",
@@ -120,7 +174,17 @@
         "ATC Artists": [
             "Olejniczak",
             "Janusz"
-        ]
+        ],
+        "Result Track Name": "Waltz No. 3 in A Minor, Op. 34 No. 2 \"Valse brillante\" (Arr. K. Michalik & M. Paderewski for Cello & Piano)",
+        "Result Artist Names": [
+            "Frédéric Chopin",
+            "Tomasz Strahl",
+            "Janusz Olejniczak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RjaRyhopZu4SLPQlxnqN3",
+        "Result Album Name": "Chopin: Transcriptions for Cello & Piano"
     },
     {
         "Title": "Terror Victims Compensation",
@@ -132,7 +196,15 @@
         "ATC Track": "Old Friends",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Old Friends",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GqMIZIVawJNuxLx6q8wvk",
+        "Result Album Name": "Guitar Bones"
     },
     {
         "Title": "Many Best Films",
@@ -144,7 +216,12 @@
         "ATC Track": "Star of Munster",
         "ATC Artists": [
             "No Strings Attached"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Nation in Debt, Part 3",
@@ -157,7 +234,16 @@
         "ATC Artists": [
             "Tom Mcdermott",
             "Evan Christopher"
-        ]
+        ],
+        "Result Track Name": "Garoto",
+        "Result Artist Names": [
+            "Tom McDermott",
+            "Evan Christopher"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sAtVG5fjLLTx64uHLyqZD",
+        "Result Album Name": "Danza"
     },
     {
         "Title": "Norman Mailer on 'The Spooky Art' of Writing",
@@ -170,13 +256,28 @@
         "ATC Artists": [
             "Kremerata Baltica",
             "Gidon Kremer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Happy Birthday Variations:",
         "ATC Artists": [
             "Kremerata Baltica",
             "Gidon Kremer"
-        ]
+        ],
+        "Result Track Name": "\"Happy Birthday\" Variations: Variation nach Joseph Haydn",
+        "Result Artist Names": [
+            "Peter Heidrich",
+            "Kremerata Baltica",
+            "Gidon Kremer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Z2kPPnk6Wc6gQlHQrwWpG",
+        "Result Album Name": "Happy Birthday"
     }
 ]

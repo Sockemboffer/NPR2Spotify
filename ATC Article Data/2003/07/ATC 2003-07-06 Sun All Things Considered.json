@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-07-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 22:51:42"
+        "Scanned Date": "2022-02-06 22:51:42",
+        "Playlist URI": "6XPMun1n7Tb8UzoXdnKhmr",
+        "Playlist Link": "https://open.spotify.com/playlist/6XPMun1n7Tb8UzoXdnKhmr",
+        "Snapshot ID": "MSw3OTZiOWE1MGQwNzY1YzIwMTg4NjM2OGRjOWJjMTZlYjAxNWZiNTcw",
+        "Playlist Name": "ATC 2003-07-06 Sun All Things Considered"
     },
     {
         "Title": "Asylum For Liberian President?",
@@ -28,7 +32,12 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Labor Department Seeks to Revamp Overtime-Pay Rules",
@@ -40,7 +49,12 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Speed Bumps",
@@ -52,13 +66,26 @@
         "ATC Track": "Mykologics",
         "ATC Artists": [
             "Mouse On Mars"
-        ]
+        ],
+        "Result Track Name": "Mykologics",
+        "Result Artist Names": [
+            "Mouse On Mars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VHYXIYlmk0GenO7yLywP4",
+        "Result Album Name": "Niun Niggung"
     },
     {
         "ATC Track": "Eiwef",
         "ATC Artists": [
             "Schneider Tm"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Memorials",

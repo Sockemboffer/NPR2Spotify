@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-09-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:48:30"
+        "Scanned Date": "2022-02-06 22:48:30",
+        "Playlist URI": "2seEavSH0TA0RIIZEMgTAW",
+        "Playlist Link": "https://open.spotify.com/playlist/2seEavSH0TA0RIIZEMgTAW",
+        "Snapshot ID": "MSxiMGViYmY5ZmUzMzU4YTZkOTFlM2NjOWNjYzNhOTM3YTMyNzQxMmEz",
+        "Playlist Name": "ATC 2003-09-13 Sat All Things Considered"
     },
     {
         "Title": "Iraq Debate Divides U.N.",
@@ -22,7 +26,15 @@
         "ATC Track": "MIRROR IN BLUE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mirror In Blue",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mqoSKloGP24YYzptURqR4",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "Indiana Governor Dies",
@@ -46,7 +58,12 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bubblehouse",
@@ -54,7 +71,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Bubblehouse",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YtX5xh7y5FoQywRmsGCeK",
+        "Result Album Name": "Shack-man"
     },
     {
         "Title": "U.S. Reins In Shiite Militia",
@@ -96,19 +121,40 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Trambone",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Trambone",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7yXI2dGYUsOpvzHG9BkEBE",
+        "Result Album Name": "The \"Twangs\" The \"Thang\""
     },
     {
         "ATC Track": "Folsom Prison Blues",
         "ATC Artists": [
             "Chet Atkins"
-        ]
+        ],
+        "Result Track Name": "Folsom Prison Blues",
+        "Result Artist Names": [
+            "Chet Atkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0QrUPaKahpg0Sh5d3lE8uB",
+        "Result Album Name": "Solid Gold '69"
     },
     {
         "Title": "More Coverage on the Death of  Indiana Gov. Frank O'Bannon ",

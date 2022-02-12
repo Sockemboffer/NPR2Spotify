@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-05-03",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:55:18"
+        "Scanned Date": "2022-02-06 22:55:18",
+        "Playlist URI": "7dPxWH7zCtLJrhcwVotKDg",
+        "Playlist Link": "https://open.spotify.com/playlist/7dPxWH7zCtLJrhcwVotKDg",
+        "Snapshot ID": "MSw5ZGRlZjEwZWJiYTU2YjVhODM4NzhlNGQ3NGFiNDM1MDRmYTczNjgy",
+        "Playlist Name": "ATC 2003-05-03 Sat All Things Considered"
     },
     {
         "Title": "Powell in Syria",
@@ -40,13 +44,26 @@
         "ATC Track": "Crooked",
         "ATC Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Crooked",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qZ8kHOCF1AyVK1S9YR2Qv",
+        "Result Album Name": "Big Lazy"
     },
     {
         "ATC Track": "The Vampire's Waltz [From Nosferatu]",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "N.H. Loses 'Old Man'",
@@ -64,7 +81,15 @@
         "ATC Track": "It Is Well With My Soul",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "It Is Well (With My Soul)",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hUlnqELshGo1561ASq5P6",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "Title": "Democrats' Debate",
@@ -88,6 +113,11 @@
         "ATC Track": "Sonata in E Major, L. 430/K.531",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

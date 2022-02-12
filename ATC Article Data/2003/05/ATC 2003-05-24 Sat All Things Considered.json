@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2003-05-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 22:56:33"
+        "Scanned Date": "2022-02-06 22:56:33",
+        "Playlist URI": "6CD64ArlljXeSvmZ3p4Awi",
+        "Playlist Link": "https://open.spotify.com/playlist/6CD64ArlljXeSvmZ3p4Awi",
+        "Snapshot ID": "MSxmMmQyNmMzZDhlMzg0ZDlmYjQ4ZjI5ZGUyNTIwMGVhNzk2MGRiMDRl",
+        "Playlist Name": "ATC 2003-05-24 Sat All Things Considered"
     },
     {
         "Title": "Council Picked in Kirkuk",
@@ -22,7 +26,15 @@
         "ATC Track": "Exfoliator",
         "ATC Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "Exfoliator",
+        "Result Artist Names": [
+            "Matt Flinner Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Zd3KwwAEj5h3CSdLsXZgC",
+        "Result Album Name": "Walking on the Moon"
     },
     {
         "Title": "Greensboro Struggles Through Economic Hardships",
@@ -34,7 +46,15 @@
         "ATC Track": "Exfoliator",
         "ATC Artists": [
             "Matt Flinner"
-        ]
+        ],
+        "Result Track Name": "Exfoliator",
+        "Result Artist Names": [
+            "Matt Flinner Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Zd3KwwAEj5h3CSdLsXZgC",
+        "Result Album Name": "Walking on the Moon"
     },
     {
         "Title": "Coney Island's 'Shoot the Freak'",
@@ -46,13 +66,23 @@
         "ATC Track": "Circus in Outer Space",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Exultante",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "SARS 'Relapse' in Toronto",
@@ -88,6 +118,14 @@
         "ATC Track": "my blue heaven",
         "ATC Artists": [
             "juan garcia esquivel"
-        ]
+        ],
+        "Result Track Name": "My Blue Heaven",
+        "Result Artist Names": [
+            "Esquivel!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5yJAmNzBjZVGANyYgfDJyy",
+        "Result Album Name": "Exploring New Sounds in Stereo"
     }
 ]
