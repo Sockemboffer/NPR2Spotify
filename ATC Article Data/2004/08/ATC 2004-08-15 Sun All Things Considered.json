@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-08-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:11:53"
+        "Scanned Date": "2022-02-06 23:11:53",
+        "Playlist URI": "4cVOsLx3lIOtIHXO8Ez4nI",
+        "Playlist Link": "https://open.spotify.com/playlist/4cVOsLx3lIOtIHXO8Ez4nI",
+        "Snapshot ID": "MSwyYzVmZjM4NGY0OGU4YTNjNzU5YmI0MTA2YWRhZDc4NzVjMmQyY2E5",
+        "Playlist Name": "ATC 2004-08-15 Sun All Things Considered"
     },
     {
         "Title": "Mortars Jar Iraq Conference",
@@ -16,7 +20,12 @@
         "ATC Track": "Panther Meets Huggies",
         "ATC Artists": [
             "Siren"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Venezuela Votes on Chavez",
@@ -40,7 +49,15 @@
         "ATC Track": "Make the Most Of",
         "ATC Artists": [
             "David Mead"
-        ]
+        ],
+        "Result Track Name": "Make the Most Of",
+        "Result Artist Names": [
+            "David Mead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30HQS1CDfNXP4JF2jEXC6F",
+        "Result Album Name": "The Luxury of Time"
     },
     {
         "Title": "No Horsing Around for Athens Equestrian Mounts",
@@ -52,13 +69,29 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Florida Cleans Up After Storm",
@@ -82,7 +115,12 @@
         "ATC Track": "Rawhide",
         "ATC Artists": [
             "Esteban"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "NYC Cops, Firefighters Seek Contract Resolution",
@@ -106,6 +144,11 @@
         "ATC Track": "Arion (Dragazis)",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

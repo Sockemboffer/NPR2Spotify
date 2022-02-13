@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-02-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:22:22"
+        "Scanned Date": "2022-02-06 23:22:22",
+        "Playlist URI": "3pQZUSnNmonCR7torPi7aY",
+        "Playlist Link": "https://open.spotify.com/playlist/3pQZUSnNmonCR7torPi7aY",
+        "Snapshot ID": "MSw0ODBkM2ExZDAyYTY1ZWUxM2I5YjYyMmIxNDNjYTk2MDQzZWNmNjM3",
+        "Playlist Name": "ATC 2004-02-22 Sun All Things Considered"
     },
     {
         "Title": "Nader Gets Into 2004 Race",
@@ -22,7 +26,12 @@
         "ATC Track": "LULLABY OF BIRDLAND",
         "ATC Artists": [
             "ROBERT LAFOND -- SYMFUNNY ORCH."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rebels Take Large Haitian City",
@@ -34,7 +43,16 @@
         "ATC Track": "Mouhamadou Bamba",
         "ATC Artists": [
             "Orchestra Baobab"
-        ]
+        ],
+        "Result Track Name": "Mouhamadou Bamba",
+        "Result Artist Names": [
+            "Orchestra Baobab",
+            "Baobab-Gouye-Gui de Dakar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QdcVm85PHGVXtA14LoG59",
+        "Result Album Name": "Mouhamadou Bamba"
     },
     {
         "Title": "GAO: Contractors Owe Taxes",
@@ -52,14 +70,27 @@
         "ATC Track": "Big Guitar",
         "ATC Artists": [
             "Owen Bradley Quintet"
-        ]
+        ],
+        "Result Track Name": "Big Guitar",
+        "Result Artist Names": [
+            "Owen Bradley Quintet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EcotNfZAM6ylnymqvd0tP",
+        "Result Album Name": "Drive-Thru"
     },
     {
         "ATC Track": "Preludio (Suite No. 1 for Cello Solo in G Major, Prelude, BWV 1007)",
         "ATC Artists": [
             "Klazz Brothers",
             "Cuba Percussion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "World Court to Review Barrier",
@@ -71,7 +102,15 @@
         "ATC Track": "Midnight Rain",
         "ATC Artists": [
             "Paul Kelly"
-        ]
+        ],
+        "Result Track Name": "Midnight Rain",
+        "Result Artist Names": [
+            "Paul Kelly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:608xwtPGXDcHw4wEnGZ3AB",
+        "Result Album Name": "Nothing but a Dream"
     },
     {
         "Title": "Tibet 'Treasures' Exhibit Prompts Protests",
@@ -95,12 +134,22 @@
         "ATC Track": "SENTIMENTAL WALK",
         "ATC Artists": [
             "VLADIMIR COSMA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "FUGUE IN D MINOR",
         "ATC Artists": [
             "SYMFUNNY ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

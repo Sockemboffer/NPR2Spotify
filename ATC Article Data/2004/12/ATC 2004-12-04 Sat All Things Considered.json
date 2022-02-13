@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-12-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:04:03"
+        "Scanned Date": "2022-02-06 23:04:03",
+        "Playlist URI": "3NF0O2wVdxTN8TgbvC0bdJ",
+        "Playlist Link": "https://open.spotify.com/playlist/3NF0O2wVdxTN8TgbvC0bdJ",
+        "Snapshot ID": "MSwwN2Q1ZjkyNTM0NDQ4YzlhZjhiZTU0ODBiMGVjOTRiYTQ0ZWZhODUz",
+        "Playlist Name": "ATC 2004-12-04 Sat All Things Considered"
     },
     {
         "Title": "Hearing in Abu Ghraib Case",
@@ -40,13 +44,29 @@
         "ATC Track": "Sentimentalia",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Sentimentalia",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29t0QcUNADVXlEXAP0tibu",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "ATC Track": "Baroque Impressions",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Baroque Impressions",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mvPik8Xeu0lEJX6WywQz5",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "Title": "Ukraine Vote Standoff Persists",
@@ -82,7 +102,16 @@
         "ATC Track": "I'll Remember April",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "I’ll Remember April",
+        "Result Artist Names": [
+            "John Lewis",
+            "Hank Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wTGadkYubpQNGrCemIuBJ",
+        "Result Album Name": "Piano Playhouse"
     },
     {
         "Title": "'Telling Tales': Writers Unite to Fight AIDS",
@@ -94,6 +123,14 @@
         "ATC Track": "Django",
         "ATC Artists": [
             "John Lewis"
-        ]
+        ],
+        "Result Track Name": "Django",
+        "Result Artist Names": [
+            "John Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0T6C54rbleY0fqtxfDNSSc",
+        "Result Album Name": "Evolution II"
     }
 ]

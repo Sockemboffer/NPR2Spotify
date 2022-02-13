@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-08-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:11:05"
+        "Scanned Date": "2022-02-06 23:11:05",
+        "Playlist URI": "0M5Q7mMQspoUvPsAxxh7EF",
+        "Playlist Link": "https://open.spotify.com/playlist/0M5Q7mMQspoUvPsAxxh7EF",
+        "Snapshot ID": "MSw1YTRjNThmODNiMzI3MzJjZGVkYjcyYjdkNzVkZmIyN2VmNjU3Y2Yy",
+        "Playlist Name": "ATC 2004-08-01 Sun All Things Considered"
     },
     {
         "Title": "Car Bombs Target Iraq Churches",
@@ -22,7 +26,15 @@
         "ATC Track": "SUNNY AUGUST FULL OF MOON",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Sunny August Full of Moon",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1i4PODvsrgZO518FPCB1Pq",
+        "Result Album Name": "Metropolis"
     },
     {
         "Title": "Northeast Alert Level Raised",
@@ -40,7 +52,15 @@
         "ATC Track": "Softly, As in a Morning Sunrise",
         "ATC Artists": [
             "Rolf Sturm"
-        ]
+        ],
+        "Result Track Name": "Softly, As in a Morning Sunrise",
+        "Result Artist Names": [
+            "Rolf Sturm"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oeFSVBM7gfAJwiN82hxSq",
+        "Result Album Name": "Solo Acoustic"
     },
     {
         "Title": "Family Scandal in Novel 'Roads of the Heart'",
@@ -52,13 +72,29 @@
         "ATC Track": "Midnight",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "Midnight",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZikwcWKVvUaxzmj42ymSN",
+        "Result Album Name": "The Shadows in the 60s"
     },
     {
         "ATC Track": "The Frightened City",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "The Frightened City",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hDA6rcjoDjs00e2ZUvrui",
+        "Result Album Name": "The Shadows in the 60s"
     },
     {
         "Title": "Youth Vote Activists Turn to Fashion",
@@ -76,7 +112,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Chefs of World's Leaders Hold Summit",
@@ -100,12 +144,22 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MOON RIVER",
         "ATC Artists": [
             "HARVEY REID"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

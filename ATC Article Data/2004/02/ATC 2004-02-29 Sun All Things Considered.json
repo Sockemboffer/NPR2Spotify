@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-02-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:22:47"
+        "Scanned Date": "2022-02-06 23:22:47",
+        "Playlist URI": "5httmb2QknLiBrTVFVbmOy",
+        "Playlist Link": "https://open.spotify.com/playlist/5httmb2QknLiBrTVFVbmOy",
+        "Snapshot ID": "MSwyYzFmZmE1MTg4OTllOTgwYjE5YTg4YWQ3ZmM4ZjdiMTA0ZDgzYWE5",
+        "Playlist Name": "ATC 2004-02-29 Sun All Things Considered"
     },
     {
         "Title": "Haiti Adjusts to Life without Aristide",
@@ -40,7 +44,15 @@
         "ATC Track": "Bushka Lounge",
         "ATC Artists": [
             "Pachora"
-        ]
+        ],
+        "Result Track Name": "Bushka Lounge",
+        "Result Artist Names": [
+            "Pachora"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wCBCJmgJUxO9EipXYyNkE",
+        "Result Album Name": "Astereotypical"
     },
     {
         "Title": "Democrats Spar in New York",
@@ -70,7 +82,15 @@
         "ATC Track": "Simon's Dream",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Simon's Dream - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:46UasBcgXMFxccJpLyPG5w",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "Title": "Oscar's Depressive Tendencies",
@@ -82,12 +102,22 @@
         "ATC Track": "Hunt, Chase",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Circus in Outer Space",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

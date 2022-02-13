@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-08-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:12:19"
+        "Scanned Date": "2022-02-06 23:12:19",
+        "Playlist URI": "4lW0E6XWSH5UDF66NBjFOm",
+        "Playlist Link": "https://open.spotify.com/playlist/4lW0E6XWSH5UDF66NBjFOm",
+        "Snapshot ID": "MSxlMjU4MjU3YWZlZjdjMGFkYTgzMmNjMGRkNTNmNTgyMGQ0MzMxYTBl",
+        "Playlist Name": "ATC 2004-08-22 Sun All Things Considered"
     },
     {
         "Title": "Violence Continues in Najaf",
@@ -46,19 +50,41 @@
         "ATC Track": "Pablo Looks Back",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Pablo Looks Back",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57lBdHTENdwcosJdo6InEf",
+        "Result Album Name": "Book of Silk"
     },
     {
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "String Quartet No. 2 \"Company\": IV",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 2 (Company): IV.",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:0uZ9V5H5KC7Im7mskavO34",
+        "Result Album Name": "Kronos Quartet Performs Philip Glass"
     },
     {
         "Title": "Satellites May Aid Environment",
@@ -70,7 +96,15 @@
         "ATC Track": "Things That Might Have Been",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Things That Might Have Been",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ucv9DISDaBCxsNTagOMCx",
+        "Result Album Name": "Book of Silk"
     },
     {
         "Title": "Debating Merits of Public Breastfeeding",
@@ -88,7 +122,15 @@
         "ATC Track": "Seems Like Most Everything Used to Be Something Else",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Seems Like Most Everything Used To Be Something Else",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2s1mn70Cml7BaGVVNrqGiV",
+        "Result Album Name": "Things Shaped In Passing"
     },
     {
         "Title": "American War Poems, from Revolution to Terror",
@@ -100,6 +142,14 @@
         "ATC Track": "Clocks",
         "ATC Artists": [
             "Vitamin String Quartet"
-        ]
+        ],
+        "Result Track Name": "Clocks",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tEMeBTAiAl70tfIqCpTck",
+        "Result Album Name": "Vitamin String Quartet Performs Coldplay"
     }
 ]

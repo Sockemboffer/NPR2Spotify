@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-11-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:06:52"
+        "Scanned Date": "2022-02-06 23:06:52",
+        "Playlist URI": "5VC9YfoRkNVYxwRl5wLXG1",
+        "Playlist Link": "https://open.spotify.com/playlist/5VC9YfoRkNVYxwRl5wLXG1",
+        "Snapshot ID": "MSxlOTI4YmE4YTBmZDEzOGQwYWUxZWNiZjk5M2MzMDJhNWYyYTJjNjFh",
+        "Playlist Name": "ATC 2004-11-21 Sun All Things Considered"
     },
     {
         "Title": "Iran's Nuclear Ambitions",
@@ -34,7 +38,15 @@
         "ATC Track": "NOTHING LIES STILL LONG",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Nothing Lies Still Long",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1X87N9FDFN1re4uL1yqtVK",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "'The Film Crew': A Soundtrack for Life",
@@ -46,7 +58,12 @@
         "ATC Track": "Easy Muffin",
         "ATC Artists": [
             "Amon Tobin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Update on Iraq",
@@ -76,7 +93,15 @@
         "ATC Track": "Nocturnal Transmission",
         "ATC Artists": [
             "Medeski Martin and Wood"
-        ]
+        ],
+        "Result Track Name": "Nocturnal Transmission",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54zdnrRhGbosQtynHyZA28",
+        "Result Album Name": "Uninvisible"
     },
     {
         "Title": "John Lee Hooker, Through His Daughter's Eyes",
@@ -88,6 +113,14 @@
         "ATC Track": "Monday (End Credits)",
         "ATC Artists": [
             "Jon Brion"
-        ]
+        ],
+        "Result Track Name": "Monday - End Credits",
+        "Result Artist Names": [
+            "Jon Brion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7sFJBEH7J7TmSG1EIMOmcR",
+        "Result Album Name": "I Love Huckabees (Original Motion Picture Soundtrack)"
     }
 ]

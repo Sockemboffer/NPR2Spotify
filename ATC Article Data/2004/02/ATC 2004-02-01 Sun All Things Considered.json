@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-02-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:21:13"
+        "Scanned Date": "2022-02-06 23:21:13",
+        "Playlist URI": "6vT7xm0D1tDtU07sAEvtgL",
+        "Playlist Link": "https://open.spotify.com/playlist/6vT7xm0D1tDtU07sAEvtgL",
+        "Snapshot ID": "MSxiNjI1MDQzOTE4YzFmNzQwMTQ2OTVmMWI3ZTU4YjA0MGM5ZGQ4MzAy",
+        "Playlist Name": "ATC 2004-02-01 Sun All Things Considered"
     },
     {
         "Title": "Two Bombers Kill 56 in Iraq",
@@ -22,7 +26,15 @@
         "ATC Track": "OPUS 4",
         "ATC Artists": [
             "ART OF NOISE"
-        ]
+        ],
+        "Result Track Name": "Opus 4 - 2017 Remaster",
+        "Result Artist Names": [
+            "The Art Of Noise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HZ7yca2j8gelWeu2ad3ea",
+        "Result Album Name": "In Visible Silence (Deluxe Edition)"
     },
     {
         "Title": "Sept. 11 Panel Asks for Time",
@@ -46,13 +58,29 @@
         "ATC Track": "ODE TO DON JOSE",
         "ATC Artists": [
             "ART OF NOISE"
-        ]
+        ],
+        "Result Track Name": "Ode to Don Jose",
+        "Result Artist Names": [
+            "The Art Of Noise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OZNHDPrlYKp8aO4Kl2LdK",
+        "Result Album Name": "In No Sense? Nonsense!"
     },
     {
         "ATC Track": "moonlight sonata",
         "ATC Artists": [
             "liberace"
-        ]
+        ],
+        "Result Track Name": "Moonlight Sonata",
+        "Result Artist Names": [
+            "Liberace"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zMuFnWZbsgDs31ae1wqXt",
+        "Result Album Name": "As Time Goes By"
     },
     {
         "Title": "Dems Face Cash Shortage",
@@ -76,7 +104,15 @@
         "ATC Track": "EYE OF A NEEDLE",
         "ATC Artists": [
             "ART OF NOISE"
-        ]
+        ],
+        "Result Track Name": "Eye of a Needle - 2017 Remaster",
+        "Result Artist Names": [
+            "The Art Of Noise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40Ew1S9Zdo1nQldj8QE5GN",
+        "Result Album Name": "In Visible Silence (Deluxe Edition)"
     },
     {
         "Title": "The Ethicist: Randy Cohen",
@@ -94,12 +130,25 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "LIZA (ALL THE CLOUDS'LL ROLL AWAY)",
         "ATC Artists": [
             "THELONIUS MONK"
-        ]
+        ],
+        "Result Track Name": "Liza (All the Clouds'll Roll Away)",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2jxVS2VTLr3MdrJPQIAJ3y",
+        "Result Album Name": "Monk. (Expanded Edition)"
     }
 ]

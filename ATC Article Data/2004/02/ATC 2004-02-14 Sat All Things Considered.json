@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-02-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:21:58"
+        "Scanned Date": "2022-02-06 23:21:58",
+        "Playlist URI": "12PdrB4IS6Wn88rVcIJMsB",
+        "Playlist Link": "https://open.spotify.com/playlist/12PdrB4IS6Wn88rVcIJMsB",
+        "Snapshot ID": "MSwyNGU3YmQzMjkyMzFlNDBiMWZjYTM0YjQ2NTVjZTFmZjllZGVmNjg4",
+        "Playlist Name": "ATC 2004-02-14 Sat All Things Considered"
     },
     {
         "Title": "Iraqi Police Station Attacked",
@@ -40,13 +44,29 @@
         "ATC Track": "Joyful Noise",
         "ATC Artists": [
             "The Derek Trucks Band"
-        ]
+        ],
+        "Result Track Name": "Joyful Noise",
+        "Result Artist Names": [
+            "The Derek Trucks Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21Y0fegBPWM255E2KxsGqJ",
+        "Result Album Name": "Joyful Noise"
     },
     {
         "ATC Track": "Every Good Boy",
         "ATC Artists": [
             "The Derek Trucks Band"
-        ]
+        ],
+        "Result Track Name": "Every Good Boy",
+        "Result Artist Names": [
+            "The Derek Trucks Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0J9nQuxSVv5ciqvstWTQIw",
+        "Result Album Name": "Joyful Noise"
     },
     {
         "Title": "Police Battle Haitian Rebels",
@@ -58,7 +78,15 @@
         "ATC Track": "Untitled III",
         "ATC Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Untitled III",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dAwbYL7APWchECv49o2Zy",
+        "Result Album Name": "Hot Rail"
     },
     {
         "Title": "Bam: Images of an Earthquake's Survivors",
@@ -88,12 +116,25 @@
         "ATC Track": "Oompa Radar",
         "ATC Artists": [
             "Goldfrapp"
-        ]
+        ],
+        "Result Track Name": "Oompah Radar",
+        "Result Artist Names": [
+            "Goldfrapp"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23cMsEWVaiFOFExtR8oAcD",
+        "Result Album Name": "Felt Mountain"
     },
     {
         "ATC Track": "The Blue Room",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-01-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:23:41"
+        "Scanned Date": "2022-02-06 23:23:41",
+        "Playlist URI": "3yZbseIIKCkOQlGAXHM06F",
+        "Playlist Link": "https://open.spotify.com/playlist/3yZbseIIKCkOQlGAXHM06F",
+        "Snapshot ID": "MSw4MDQyNDI3YmMyNWRmNjJlMDg3ZjUzOTI1ZDRlNTZkZDgyYzZkMDY0",
+        "Playlist Name": "ATC 2004-01-18 Sun All Things Considered"
     },
     {
         "Title": "Iraqi Bomb Kills at Least 20",
@@ -16,7 +20,17 @@
         "ATC Track": "CON MOTO",
         "ATC Artists": [
             "KAREN KADERAVEK"
-        ]
+        ],
+        "Result Track Name": "Pohádka (Fairy Tale) for Cello and Piano: II. Con moto",
+        "Result Artist Names": [
+            "Leoš Janáček",
+            "Karen Kaderavek",
+            "Randall Hodgkinson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hzIFQVrrtr2iM4PAEo3DA",
+        "Result Album Name": "Cello Alchemy: Music from Russia & Eastern Europe"
     },
     {
         "Title": "Dems' Iowa Race a Dead Heat",
@@ -52,7 +66,12 @@
         "ATC Track": "Nocturne, Opus 9 #2",
         "ATC Artists": [
             "Tom Constanten"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "L.A. Official: Repay for Alert",
@@ -65,7 +84,16 @@
         "ATC Artists": [
             "Laurindo Almeida",
             "The Modern Jazz Quartet"
-        ]
+        ],
+        "Result Track Name": "One Note Samba",
+        "Result Artist Names": [
+            "The Modern Jazz Quartet",
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55WUiRJj3fFEu3tURJNtVA",
+        "Result Album Name": "MJQ: 40 Years [Box Set]"
     },
     {
         "Title": "TV's 'Airline' Goes Inside Southwest Air",
@@ -95,12 +123,25 @@
         "ATC Track": "Victory March",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Victory March",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6SijR2NExugfmAX7tEiOtA",
+        "Result Album Name": "Collection Of March"
     },
     {
         "ATC Track": "SUITE",
         "ATC Artists": [
             "THE CANADIAN BRASS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

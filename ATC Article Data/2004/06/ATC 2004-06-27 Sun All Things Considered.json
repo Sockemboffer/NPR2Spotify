@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-06-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:15:58"
+        "Scanned Date": "2022-02-06 23:15:58",
+        "Playlist URI": "24fMuaYb8N7lwwAE5l5YCT",
+        "Playlist Link": "https://open.spotify.com/playlist/24fMuaYb8N7lwwAE5l5YCT",
+        "Snapshot ID": "MSw0OWYzYjZiZGY3ODIzNDdjYWJmNWI4YTRkMDlmZTI0Yzk5MzkxMDJm",
+        "Playlist Name": "ATC 2004-06-27 Sun All Things Considered"
     },
     {
         "Title": "Iraq Envoy Stresses Security",
@@ -28,7 +32,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Bush Seeks NATO Aid in Iraq",
@@ -40,19 +52,40 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lonesome Road [Stereo]",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Lonesome Road",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54Yj2RZI3tMz3v1jbLEc8g",
+        "Result Album Name": "Have 'Twangy' Guitar Will Travel"
     },
     {
         "ATC Track": "La Gazza Ladra",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": "La Gazza Ladra: Overture",
+        "Result Artist Names": [
+            "Carlos Païta"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5e35t8l3K9ODBaxaWg6iCE",
+        "Result Album Name": "Rossini: Overtures"
     },
     {
         "Title": "Green Party Says No to Nader",
@@ -82,7 +115,15 @@
         "ATC Track": "Can't Take the Heat",
         "ATC Artists": [
             "I Am the World Trade Center"
-        ]
+        ],
+        "Result Track Name": "Can't Take the Heat",
+        "Result Artist Names": [
+            "I Am The World Trade Center"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2CMOIwjdIyMw7febdvmoCX",
+        "Result Album Name": "The Tight Connection"
     },
     {
         "Title": "Bob Mondello Review: 'Spider-Man 2'",
@@ -100,12 +141,28 @@
         "ATC Track": "Superman (The Clique)",
         "ATC Artists": [
             "The String Quartet"
-        ]
+        ],
+        "Result Track Name": "Superman (The Clique)",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5t9R5UOSNJ4rrbIPhdc4Tx",
+        "Result Album Name": "VSQ Performs R.E.M."
     },
     {
         "ATC Track": "The Human Jungle",
         "ATC Artists": [
             "John Barry"
-        ]
+        ],
+        "Result Track Name": "The Human Jungle - Remastered",
+        "Result Artist Names": [
+            "John Barry Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6a2M78oPFP6IgbcSt9Y3P3",
+        "Result Album Name": "Ultra-Lounge: TV Town"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-12-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:04:06"
+        "Scanned Date": "2022-02-06 23:04:06",
+        "Playlist URI": "6AeGLQrZEEkipF5tP7YMaE",
+        "Playlist Link": "https://open.spotify.com/playlist/6AeGLQrZEEkipF5tP7YMaE",
+        "Snapshot ID": "MSwxMTcxZGIzMmIzNTc2OTE3ODI5ZDRjODAxMDE4MmEzNDMwNWVhZWM4",
+        "Playlist Name": "ATC 2004-12-05 Sun All Things Considered"
     },
     {
         "Title": "Over 20 Dead in Iraq Attacks",
@@ -28,7 +32,15 @@
         "ATC Track": "ECAROH",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Ecaroh",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yLhLT9hAAs2iooyTrkZU4",
+        "Result Album Name": "Metropolis"
     },
     {
         "Title": "State Ponders Boston's 'Big Dig' Debacle",
@@ -40,7 +52,15 @@
         "ATC Track": "Equinox",
         "ATC Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "Equinox",
+        "Result Artist Names": [
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56elAIX47Q7vSQ1bpKNhHo",
+        "Result Album Name": "Naima"
     },
     {
         "Title": "Gooey-Good Sandwiches to Melt in Your Mouth",
@@ -53,13 +73,26 @@
         "ATC Artists": [
             "Sam Butera",
             "the Witnesses"
-        ]
+        ],
+        "Result Track Name": "La Vie En Rose",
+        "Result Artist Names": [
+            "Sam Butera & The Witnesses"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3k3FW91m6aPXoqwkPoQ9Lo",
+        "Result Album Name": "The Big Horn"
     },
     {
         "ATC Track": "Sublime",
         "ATC Artists": [
             "Caleb Sampson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Floods Devastate Philippines",
@@ -77,7 +110,15 @@
         "ATC Track": "PAUL'S DANCE",
         "ATC Artists": [
             "PENGUIN CAFE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Paul's Dance - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3uVeki7SGJHI06vOWgdm6I",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "Title": "Iranian Nobel Winner Suing U.S. over Memoir",
@@ -95,12 +136,29 @@
         "ATC Track": "TEXAS TARANTELLA",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Spider Dreams: Texas Tarantella",
+        "Result Artist Names": [
+            "David Balakrishnan",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rL0XmwEsFjFVfabjNsPBx",
+        "Result Album Name": "Spider Dreams"
     },
     {
         "ATC Track": "Tahquamenon Falls",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "Tahquamenon Falls",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bbddGVepay96hWxDfn1ty",
+        "Result Album Name": "Michigan"
     }
 ]

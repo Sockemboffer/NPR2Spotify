@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-01-31",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:24:28"
+        "Scanned Date": "2022-02-06 23:24:28",
+        "Playlist URI": "2SHgItgwGquqnoMPdv1P2v",
+        "Playlist Link": "https://open.spotify.com/playlist/2SHgItgwGquqnoMPdv1P2v",
+        "Snapshot ID": "MSxmZTdkNzk0NTVhYzIyNzA0YTU0OWI3MTI2ZGIxZWM5ZGMyZWM0NGQ2",
+        "Playlist Name": "ATC 2004-01-31 Sat All Things Considered"
     },
     {
         "Title": "Kerry Tops Most Feb. 3 Polls",
@@ -28,7 +32,15 @@
         "ATC Track": "BURIED AT SEA",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Buried At Sea",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75f5DJSrXyqHiUQwtjTg5K",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Commentary: In Defense of Football",
@@ -40,13 +52,29 @@
         "ATC Track": "Dance On",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "Dance On",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0aOA3E93Jr3oAzyaAaK2G5",
+        "Result Album Name": "The Shadows' Greatest Hits"
     },
     {
         "ATC Track": "MONA RAY",
         "ATC Artists": [
             "LEO KOTTKE"
-        ]
+        ],
+        "Result Track Name": "Mona Ray",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4N6oEOKxjU5JLSTo7qzZfe",
+        "Result Album Name": "Instrumentals: Best Of The Capitol Years"
     },
     {
         "Title": "McCain Backs Independent Probe of Iraq Threat Assessment",
@@ -58,7 +86,15 @@
         "ATC Track": "DEUS EX MACHINA",
         "ATC Artists": [
             "WILLIAM ORBIT"
-        ]
+        ],
+        "Result Track Name": "Deus Ex Machina",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7f44kK13crelqnp4cmpDrv",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "Title": "Family Bonds Strengthen Terrorism Networks",
@@ -70,7 +106,12 @@
         "ATC Track": "Sadness Vs. Madness",
         "ATC Artists": [
             "David Tronzo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Germany Seeks Its Own Ivy League",
@@ -94,12 +135,28 @@
         "ATC Track": "UNDERWATER CHASE",
         "ATC Artists": [
             "AL CAIOLA"
-        ]
+        ],
+        "Result Track Name": "Underwater Chase - Remastered 1996",
+        "Result Artist Names": [
+            "Al Caiola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ua3Yi4eEZq6LHkeCRCoT0",
+        "Result Album Name": "Ultra-Lounge/Cocktail Capers"
     },
     {
         "ATC Track": "Tracy's Big Moment",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Tracy's Big Moment",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:304dlBmm3wghpQSaIFSEcU",
+        "Result Album Name": "The Very Best of Adrian Legg"
     }
 ]

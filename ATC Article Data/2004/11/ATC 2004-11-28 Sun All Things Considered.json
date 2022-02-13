@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-11-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:07:13"
+        "Scanned Date": "2022-02-06 23:07:13",
+        "Playlist URI": "7Enm3BiUfLKWUGEek9BzHE",
+        "Playlist Link": "https://open.spotify.com/playlist/7Enm3BiUfLKWUGEek9BzHE",
+        "Snapshot ID": "MSxjNDllY2UwZThhZmZlNGI3NDc1NmMwYTNkMDJmYTMyY2Y0M2U5YTMy",
+        "Playlist Name": "ATC 2004-11-28 Sun All Things Considered"
     },
     {
         "Title": "Uraine Turmoil Points to Split",
@@ -16,7 +20,12 @@
         "ATC Track": "BELLIGERENCE",
         "ATC Artists": [
             "AMY WHITE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Afghan Aid Workers Attacked",
@@ -47,13 +56,29 @@
         "ATC Artists": [
             "Philip Glass Ensemble",
             "Yo-Yo Ma et. al."
-        ]
+        ],
+        "Result Track Name": "Religion",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Yo-Yo Ma",
+            "Philip Glass Ensemble",
+            "Michael Riesman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wqZDtHVq8sNeNf6ht3InA",
+        "Result Album Name": "Naqoyqatsi (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Arion (Dragazis)",
         "ATC Artists": [
             "Blue States"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Justices Return Sans Rehnquist",
@@ -77,13 +102,23 @@
         "ATC Track": "Photos",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sorry This Music Is Not in Our Database",
         "ATC Artists": [
             "We Try to List the Music Whenever Possible"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Women of Gee's Bend",

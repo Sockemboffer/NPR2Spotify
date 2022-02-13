@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-04-12",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 23:18:32"
+        "Scanned Date": "2022-02-06 23:18:32",
+        "Playlist URI": "3aVdNQAWZMfSNQMrC5syFu",
+        "Playlist Link": "https://open.spotify.com/playlist/3aVdNQAWZMfSNQMrC5syFu",
+        "Snapshot ID": "MSwzZGI1YzFkNzg2MWU5NWVkY2RkZGY4Mjk1ZjhkNmI2NjdiMjMzOTNi",
+        "Playlist Name": "ATC 2004-04-12 Mon All Things Considered"
     },
     {
         "Title": "Law Officials to Testify on Sept. 11",
@@ -28,7 +32,12 @@
         "ATC Track": "The River People",
         "ATC Artists": [
             "Carl Weingarten"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Quebec Sex Industry Targeted",
@@ -46,13 +55,26 @@
         "ATC Track": "Drifting",
         "ATC Artists": [
             "Pachora"
-        ]
+        ],
+        "Result Track Name": "Drifting",
+        "Result Artist Names": [
+            "Pachora"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CzouwgSH2mLETZapvLHJ2",
+        "Result Album Name": "Astereotypical"
     },
     {
         "ATC Track": "Rainbow's Cadillac",
         "ATC Artists": [
             "UFB"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'No Child' Law Prompts Student Incentives",
@@ -76,13 +98,26 @@
         "ATC Track": "DANCE MUSIC FOR BORNEo HORNS NO. 1",
         "ATC Artists": [
             "LENNY PICKETT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "GET OUT THE SHOVEL",
         "ATC Artists": [
             "THE HENRYS"
-        ]
+        ],
+        "Result Track Name": "Get Out the Shovel",
+        "Result Artist Names": [
+            "The Henrys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ssLfcjf0r8grkFJo9onup",
+        "Result Album Name": "The Yearly Ears"
     },
     {
         "Title": "Disney Rumored to Fire ABC Head",
@@ -100,14 +135,32 @@
         "ATC Track": "A Fine Romance",
         "ATC Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "A Fine Romance",
+        "Result Artist Names": [
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5Lj5l2hbCFmNtnZ8AOdLNf",
+        "Result Album Name": "More DB!, Vol. 2"
     },
     {
         "ATC Track": "The Generals' Jig: Wellington's Coming",
         "ATC Artists": [
             "Karen Ashbrook",
             "Paul Oorts"
-        ]
+        ],
+        "Result Track Name": "Wellington's Coming",
+        "Result Artist Names": [
+            "Karen Ashbrook / Paul Oorts",
+            "Karen Ashbrook",
+            "Paul Oorts"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5YTepsKwyhBpl4u6z35Pnj",
+        "Result Album Name": "Celtic Cafe"
     },
     {
         "Title": "Suicide Materials Found in Fallujah",
@@ -131,13 +184,32 @@
         "ATC Track": "String Quartet No. 2 \"Company\": III",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 2 (Company): III.",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2pVZAf4uIQ3Fl5ajlBLFIO",
+        "Result Album Name": "Kronos Quartet Performs Philip Glass"
     },
     {
         "ATC Track": "DISTANT VILLAGE",
         "ATC Artists": [
             "MICHAEL BROOK"
-        ]
+        ],
+        "Result Track Name": "Distant Village",
+        "Result Artist Names": [
+            "Michael Brook",
+            "Brian Eno",
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OKmg7DvL3Y59rWJP7znJu",
+        "Result Album Name": "Hybrid"
     },
     {
         "Title": "Sept. 11 Commission's Lehman",
@@ -149,13 +221,29 @@
         "ATC Track": "Bone Dog Blues",
         "ATC Artists": [
             "Carl Weingarten"
-        ]
+        ],
+        "Result Track Name": "Bone Dog Blues",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Erb7lWE09z7ERRWlNaMab",
+        "Result Album Name": "Escapesilence / Local Journeys"
     },
     {
         "ATC Track": "Race With Devil on Spanish Highway",
         "ATC Artists": [
             "Al di Meola"
-        ]
+        ],
+        "Result Track Name": "Race With Devil On Spanish Highway",
+        "Result Artist Names": [
+            "Al Di Meola"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qPSxRyMfES52PbpxCzWcd",
+        "Result Album Name": "Elegant Gypsy"
     },
     {
         "Title": "Mubarak, Bush Discuss Israel",
@@ -173,7 +261,15 @@
         "ATC Track": "Oxbow",
         "ATC Artists": [
             "Continental"
-        ]
+        ],
+        "Result Track Name": "Oxbow",
+        "Result Artist Names": [
+            "Continental"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6aQNUCs974w2N2JjHCS3Oq",
+        "Result Album Name": "Continental"
     },
     {
         "Title": "Comment: Dying in Peace, or At Least Happy",
@@ -185,13 +281,29 @@
         "ATC Track": "Scene From Afar",
         "ATC Artists": [
             "Marina Belica"
-        ]
+        ],
+        "Result Track Name": "Scene from Afar",
+        "Result Artist Names": [
+            "Marina Belica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7scAqpnvCAxfcprSaI1rKL",
+        "Result Album Name": "One Sky"
     },
     {
         "ATC Track": "Dynaco 2 Minute Blues",
         "ATC Artists": [
             "Don Julin"
-        ]
+        ],
+        "Result Track Name": "Dynaco 2 Minute Blues",
+        "Result Artist Names": [
+            "Don Julin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5l37LWe7k3B42K5erEGY6w",
+        "Result Album Name": "Don Julin"
     },
     {
         "Title": "Detroit Mayor Wants Cuts in Transit Budget ",
@@ -209,12 +321,31 @@
         "ATC Track": "Mr. Roboto",
         "ATC Artists": [
             "Styx"
-        ]
+        ],
+        "Result Track Name": "Mr. Roboto",
+        "Result Artist Names": [
+            "Styx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7C0rG4oWO7VeZcffyW1sK9",
+        "Result Album Name": "Kilroy Was Here"
     },
     {
         "ATC Track": "Sensitive Like Bull",
         "ATC Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Sensitive Like Bull",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Axe Murderers",
+            "The Rockin' Rhythmaires",
+            "The Heavenly Horns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65PYeluzf0BfCWmAtEHVON",
+        "Result Album Name": "Strong Like Bull...But Sensitive Like Squirrel"
     }
 ]

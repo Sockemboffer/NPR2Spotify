@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-09-26",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:10:45"
+        "Scanned Date": "2022-02-06 23:10:45",
+        "Playlist URI": "3xfo8xW79cmeTmdNGCvXr9",
+        "Playlist Link": "https://open.spotify.com/playlist/3xfo8xW79cmeTmdNGCvXr9",
+        "Snapshot ID": "MSw2NTllNjNjNTExN2MzMjRmN2FjY2VhZjAxZTU5MDJmNzVmMDc1NTll",
+        "Playlist Name": "ATC 2004-09-26 Sun All Things Considered"
     },
     {
         "Title": "Iraq Shaken by Car Bombs",
@@ -16,7 +20,15 @@
         "ATC Track": "Egypticat (on the Prowl)",
         "ATC Artists": [
             "Patrick Lee Hadley"
-        ]
+        ],
+        "Result Track Name": "Egypticat (on the prowl)",
+        "Result Artist Names": [
+            "Patrick Lee Hadley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qG2ubwyImChGdqostcgCg",
+        "Result Album Name": "Egypticat"
     },
     {
         "Title": "Fort Pierce Reels from Jeanne",
@@ -46,13 +58,23 @@
         "ATC Track": "Never Let Me Down Again",
         "ATC Artists": [
             "String Vindaloo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Enjoy the Silence",
         "ATC Artists": [
             "String Vindaloo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kerry Seeks Gains from Women Voters",
@@ -88,6 +110,14 @@
         "ATC Track": "Hanging Upside Down",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Hanging Upside-Down",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0q9o5jqloHSqjOeNQVokWX",
+        "Result Album Name": "Possessed (Reissue)"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-03-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:20:37"
+        "Scanned Date": "2022-02-06 23:20:37",
+        "Playlist URI": "1jyRQQshUK63ZmW1rYp5Kk",
+        "Playlist Link": "https://open.spotify.com/playlist/1jyRQQshUK63ZmW1rYp5Kk",
+        "Snapshot ID": "MSxiOGUxYzY1YTFkYzJhZWNlYjMyMTU2ZGFlNWU0ZTI1MzM2OGRjMjEz",
+        "Playlist Name": "ATC 2004-03-21 Sun All Things Considered"
     },
     {
         "Title": "Afghan Air Minister Killed",
@@ -47,20 +51,38 @@
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Diagram",
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Twisto Teck",
         "ATC Artists": [
             "The High Llamas"
-        ]
+        ],
+        "Result Track Name": "Twisto Teck",
+        "Result Artist Names": [
+            "The High Llamas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2mpMr2tuIyzAjBsfkp1gSh",
+        "Result Album Name": "Cold And Bouncy"
     },
     {
         "Title": "European Eyes on Madrid",
@@ -90,6 +112,11 @@
         "ATC Track": "Punch-Drunk Melody",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

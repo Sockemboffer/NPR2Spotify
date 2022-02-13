@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-03-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:20:18"
+        "Scanned Date": "2022-02-06 23:20:18",
+        "Playlist URI": "1yaX5MhddzvRqtP6FPTpoz",
+        "Playlist Link": "https://open.spotify.com/playlist/1yaX5MhddzvRqtP6FPTpoz",
+        "Snapshot ID": "MSw1YmQ2MzEyMzQxMTRkZjQyZTYzOTk5YWRhZWQ0NWUzM2VmMGVhNTZk",
+        "Playlist Name": "ATC 2004-03-13 Sat All Things Considered"
     },
     {
         "Title": "Arrests in Spain Bombings",
@@ -22,7 +26,12 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Genetic Testing, Part 2: Reading Genes for Disease",
@@ -40,13 +49,29 @@
         "ATC Track": "Shoot You Down",
         "ATC Artists": [
             "I Am the World Trade Center"
-        ]
+        ],
+        "Result Track Name": "Shoot You Down",
+        "Result Artist Names": [
+            "I Am The World Trade Center"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21J1x0EpeQpvpJ51wWf1Sp",
+        "Result Album Name": "OTR Benefit for the National Multiple Sclerosis Society"
     },
     {
         "ATC Track": "Summer Samba [Samba de Verão]",
         "ATC Artists": [
             "Walter Wanderley"
-        ]
+        ],
+        "Result Track Name": "Samba De Verão",
+        "Result Artist Names": [
+            "Walter Wanderley"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0EtAPdqg7TysBXKDbnzuSO",
+        "Result Album Name": "O Autêntico Walter Wanderley"
     },
     {
         "Title": "Putin Cruises to Victory",
@@ -70,7 +95,15 @@
         "ATC Track": "Dancing Alone",
         "ATC Artists": [
             "I Am the World Trade Center"
-        ]
+        ],
+        "Result Track Name": "Dancing Alone",
+        "Result Artist Names": [
+            "I Am The World Trade Center"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6R8ZwekCMQrWMh9d2Q4iaF",
+        "Result Album Name": "The Tight Connection"
     },
     {
         "Title": "Curing the 'Dark Side' of Globalization",
@@ -82,7 +115,12 @@
         "ATC Track": "Prettybaby",
         "ATC Artists": [
             "I Am the World Trade Center"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Review: 'Stage Directions' and Black Homophobia",
@@ -94,7 +132,15 @@
         "ATC Track": "Mandingo Street",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": "Mandingo Street",
+        "Result Artist Names": [
+            "Regina Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5g1P30QFAsSTnGoaMCiyy5",
+        "Result Album Name": "Rhythms Of The Heart"
     },
     {
         "Title": "Tape Claims Al Qaeda Behind Madrid Bombings",

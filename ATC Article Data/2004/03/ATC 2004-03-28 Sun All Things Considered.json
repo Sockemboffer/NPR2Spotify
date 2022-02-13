@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-03-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:21:01"
+        "Scanned Date": "2022-02-06 23:21:01",
+        "Playlist URI": "2bA2OzW099nZ1jstsQuo6F",
+        "Playlist Link": "https://open.spotify.com/playlist/2bA2OzW099nZ1jstsQuo6F",
+        "Snapshot ID": "MSwzNGM4MTRjYzA3YmQ1NDlmN2Y2OGQ5YTc2OTM0ZDI2OWQzY2ZjMjQy",
+        "Playlist Name": "ATC 2004-03-28 Sun All Things Considered"
     },
     {
         "Title": "9-11 Panel: Let Rice Testify",
@@ -35,13 +39,29 @@
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": "Topolino",
+        "Result Artist Names": [
+            "Drums & Tuba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46vHg8Re52XF5RUhyfh13S",
+        "Result Album Name": "Vinyl Killer"
     },
     {
         "ATC Track": "Brass Buttons",
         "ATC Artists": [
             "The String-A-Longs"
-        ]
+        ],
+        "Result Track Name": "Brass Buttons",
+        "Result Artist Names": [
+            "The String-A-Longs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bhND7YqbyRdjnJOrUZdiv",
+        "Result Album Name": "Brass Buttons / Panic Button"
     },
     {
         "Title": "Tunisia Scraps Arab Summit",
@@ -77,12 +97,25 @@
         "ATC Track": "Alvin's Theme",
         "ATC Artists": [
             "Angelo Badalamenti"
-        ]
+        ],
+        "Result Track Name": "Laura Palmer's Theme - Instrumental",
+        "Result Artist Names": [
+            "Angelo Badalamenti"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Bk3p8UqcP4sItaWNWbvXL",
+        "Result Album Name": "Soundtrack From Twin Peaks"
     },
     {
         "ATC Track": "I Want To Know",
         "ATC Artists": [
             "Buddy Lucas"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

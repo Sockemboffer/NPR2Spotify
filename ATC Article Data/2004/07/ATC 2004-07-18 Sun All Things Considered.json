@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-07-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:13:46"
+        "Scanned Date": "2022-02-06 23:13:46",
+        "Playlist URI": "60AZv46dtgvMTr4vzI0SEV",
+        "Playlist Link": "https://open.spotify.com/playlist/60AZv46dtgvMTr4vzI0SEV",
+        "Snapshot ID": "MSwwNzMyMDg5MDc3Mzk4NDdjMDYwOWYxOGNkODQwOTk4Zjg2YjZjOTA4",
+        "Playlist Name": "ATC 2004-07-18 Sun All Things Considered"
     },
     {
         "Title": "CIA Head Rejects Call for Czar",
@@ -16,7 +20,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "McKinney Seeks Comeback",
@@ -36,7 +48,17 @@
             "KETAMA",
             "TOUMANI BIABATE",
             "DANNY THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Jarabi",
+        "Result Artist Names": [
+            "Ketama",
+            "Toumani Diabaté",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:62SpTZPgcuBcygQSb1mC7W",
+        "Result Album Name": "Songhai"
     },
     {
         "Title": "China's Female Population Numbers Continue to Shrink",
@@ -54,13 +76,26 @@
         "ATC Track": "DAYS INTO YEARS",
         "ATC Artists": [
             "JIM ANDREWS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blue Baião",
         "ATC Artists": [
             "Laurindo Almeida"
-        ]
+        ],
+        "Result Track Name": "Blue Baião",
+        "Result Artist Names": [
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UOnWqlxIHVdc7OQ0yVfuD",
+        "Result Album Name": "Plays Bossa Nova"
     },
     {
         "Title": "Health Care Fails to Register in Campaigns",
@@ -78,7 +113,15 @@
         "ATC Track": "ASKO HEPOKARHU-KOSKELA",
         "ATC Artists": [
             "TUULENKANTAJAT"
-        ]
+        ],
+        "Result Track Name": "Asko Hepokarhu-Koskela",
+        "Result Artist Names": [
+            "Tuulenkantajat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5a5cC4rCCXyrkVQUqxQSmv",
+        "Result Album Name": "Vedenalusmusiikkia"
     },
     {
         "Title": "Writer Paula Danziger: An Appreciation",
@@ -96,7 +139,15 @@
         "ATC Track": "Hooray for Hollywood [Cha-Cha]",
         "ATC Artists": [
             "Don Swan"
-        ]
+        ],
+        "Result Track Name": "Hooray For Hollywood (Cha Cha) - Remastered",
+        "Result Artist Names": [
+            "Don Swan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JfksVsJWyMTilD0Wg41CK",
+        "Result Album Name": "Ultra-Lounge / Mambo Fever Volume Two"
     },
     {
         "Title": "A. Van Jordan's Poetry Suite 'M-A-C-N-O-L-I-A'",
@@ -108,12 +159,28 @@
         "ATC Track": "No Whine",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "No Whine",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aHAccqqtsXHfCGR5QfHxX",
+        "Result Album Name": "You Are #6"
     },
     {
         "ATC Track": "Gibson Boy",
         "ATC Artists": [
             "Tal Farlow"
-        ]
+        ],
+        "Result Track Name": "Gibson Boy",
+        "Result Artist Names": [
+            "Tal Farlow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MmPopUNvtLtWZ6v3OeHUk",
+        "Result Album Name": "The Tal Farlow Album"
     }
 ]

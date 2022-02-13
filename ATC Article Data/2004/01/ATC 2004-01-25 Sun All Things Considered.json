@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-01-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:24:07"
+        "Scanned Date": "2022-02-06 23:24:07",
+        "Playlist URI": "17ahBcKWdQGujeW4stg3hl",
+        "Playlist Link": "https://open.spotify.com/playlist/17ahBcKWdQGujeW4stg3hl",
+        "Snapshot ID": "MSxkZTA3OGUyMjY3YWM4N2FkZjQ3MjJkMTM2ZTM2OTVkZjM5ZjcxNTU2",
+        "Playlist Name": "ATC 2004-01-25 Sun All Things Considered"
     },
     {
         "Title": "Kerry Leads N.H. Polls",
@@ -40,13 +44,29 @@
         "ATC Track": "Credit Card Memories",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Credit Card Memories",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4u72ui4dhFIvxacsijjRNl",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     },
     {
         "ATC Track": "Spy Polka",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Spy Polka",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46B4Gp7PuuyzxSKZysy79y",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     },
     {
         "Title": "Twin Rovers at Work on Mars",
@@ -58,7 +78,15 @@
         "ATC Track": "Beverly's March",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Beverly's March",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UBOComKMnuU31bfGL9Xen",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "Tough Week Ahead for Britain's Blair",
@@ -94,12 +122,25 @@
         "ATC Track": "J'Ai Dormi Sous l'Eau",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "J'ai dormi sous l'eau",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CIlUgLNKzwjU59hPpqQ45",
+        "Result Album Name": "Premiers Symptômes"
     },
     {
         "ATC Track": "Enjoy the Silence",
         "ATC Artists": [
             "String Vindaloo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-02-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:21:38"
+        "Scanned Date": "2022-02-06 23:21:38",
+        "Playlist URI": "0H6bbRtLXApKTvYUNd4fXk",
+        "Playlist Link": "https://open.spotify.com/playlist/0H6bbRtLXApKTvYUNd4fXk",
+        "Snapshot ID": "MSw5NTAyYzQ0NDE1MWNiYTIyZTY1MTkxZjQ4NDFiNWU2ZjJmMDI5NzUy",
+        "Playlist Name": "ATC 2004-02-08 Sun All Things Considered"
     },
     {
         "Title": "Bush Defends Iraq Policy",
@@ -22,7 +26,15 @@
         "ATC Track": "Nomad Land",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Nomad Land",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SGjYsgovlc95xvDO9vpfx",
+        "Result Album Name": "Taproot"
     },
     {
         "Title": "Maine Votes on Democrats",
@@ -46,13 +58,29 @@
         "ATC Track": "A New Career in a New Town",
         "ATC Artists": [
             "David Bowie"
-        ]
+        ],
+        "Result Track Name": "A New Career in a New Town - 2017 Remaster",
+        "Result Artist Names": [
+            "David Bowie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6O3YVHQaeImvCBbJbalB00",
+        "Result Album Name": "Low (2017 Remaster)"
     },
     {
         "ATC Track": "Fortune Presents Gifts Not According to the Book",
         "ATC Artists": [
             "Dead Can Dance"
-        ]
+        ],
+        "Result Track Name": "Fortune Presents Gifts Not According to the Book",
+        "Result Artist Names": [
+            "Dead Can Dance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6YIHeVxAvgn1Iyq3wZVNc0",
+        "Result Album Name": "A Passage in Time"
     },
     {
         "Title": "Fighting Flares in Sudan",
@@ -82,7 +110,15 @@
         "ATC Track": "It Is Well With My Soul",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "It Is Well (With My Soul)",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hUlnqELshGo1561ASq5P6",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "Title": "Who Will Be the Next Grammy Success Story?",
@@ -100,6 +136,14 @@
         "ATC Track": "la bikina",
         "ATC Artists": [
             "juan garcia esquivel"
-        ]
+        ],
+        "Result Track Name": "La Bikina",
+        "Result Artist Names": [
+            "Esquivel!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0PHTt2wlEWaCYCsaq0QAGn",
+        "Result Album Name": "Colección Original RCA"
     }
 ]

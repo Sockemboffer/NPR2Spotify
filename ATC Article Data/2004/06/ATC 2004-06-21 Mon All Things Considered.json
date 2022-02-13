@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-06-21",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 23:15:38"
+        "Scanned Date": "2022-02-06 23:15:38",
+        "Playlist URI": "79sN64BffMe4XiIVVmaFSU",
+        "Playlist Link": "https://open.spotify.com/playlist/79sN64BffMe4XiIVVmaFSU",
+        "Snapshot ID": "MSw3MGExMmE0OWQ5ZjE1ZDBkNDE5ZjM1YWQ2ZmQ5NGM2NzRlNDc2MjVm",
+        "Playlist Name": "ATC 2004-06-21 Mon All Things Considered"
     },
     {
         "Title": "Abuse Trials Include Officers",
@@ -22,7 +26,12 @@
         "ATC Track": "PRELUDE 1: SARABANDE",
         "ATC Artists": [
             "EXCELSIOR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Court Rules on Privacy of Personal Identity",
@@ -34,13 +43,29 @@
         "ATC Track": "Mora Roa",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Mora Roa",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mAdvHMK4oADQQ2ZwPMeZl",
+        "Result Album Name": "Try And Stop Me"
     },
     {
         "ATC Track": "Soaring",
         "ATC Artists": [
             "Ron Delano"
-        ]
+        ],
+        "Result Track Name": "Soaring",
+        "Result Artist Names": [
+            "Ron DeLano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ulDuoDlqjhkw9BfjC9XO4",
+        "Result Album Name": "Imaginary Travels"
     },
     {
         "Title": "Building a Town on Sign Language",
@@ -58,13 +83,29 @@
         "ATC Track": "Riversong",
         "ATC Artists": [
             "Ron Delano"
-        ]
+        ],
+        "Result Track Name": "Riversong Waltz",
+        "Result Artist Names": [
+            "Ron DeLano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rm4jNJtocNasbjbunDGYX",
+        "Result Album Name": "Imaginary Travels"
     },
     {
         "ATC Track": "Rise",
         "ATC Artists": [
             "Craig Armstrong"
-        ]
+        ],
+        "Result Track Name": "Rise",
+        "Result Artist Names": [
+            "Craig Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64VsZpFZ5KrILaKQxEiIpW",
+        "Result Album Name": "The Space Between Us"
     },
     {
         "Title": "Jesse's Story: Beyond Myself",
@@ -76,13 +117,26 @@
         "ATC Track": "Godless theme",
         "ATC Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Beautiful Love (It's All About Love)",
         "ATC Artists": [
             "Zim Ngqawana"
-        ]
+        ],
+        "Result Track Name": "Celebrations: Beautiful Love (It's All About Love)",
+        "Result Artist Names": [
+            "Zim Ngqawana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ZfUvkcclNBWj3MKvEzHW6",
+        "Result Album Name": "Grand Masters"
     },
     {
         "Title": "Private Rocket Plane in Space",
@@ -106,13 +160,26 @@
         "ATC Track": "Compay",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Compay",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bjb6MWI6D9nqTjruPyxA6",
+        "Result Album Name": "Book of Silk"
     },
     {
         "ATC Track": "Afrikan Flower",
         "ATC Artists": [
             "Øystein Sevåg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Korean Hostage Deadline Nears in Iraq",
@@ -130,13 +197,29 @@
         "ATC Track": "Fear of the South",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Fear of the South",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1j1x7T0tmzBGX0WjhdtKRg",
+        "Result Album Name": "The Rodeo Eroded"
     },
     {
         "ATC Track": "Seek What You Find",
         "ATC Artists": [
             "Sim Redmond Band"
-        ]
+        ],
+        "Result Track Name": "Seek What You Find",
+        "Result Artist Names": [
+            "Sim Redmond Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pMPVmry6GEZuX4KnQVs1x",
+        "Result Album Name": "Good Thoughts"
     },
     {
         "Title": "Connecticut Governor Resigns",
@@ -154,7 +237,15 @@
         "ATC Track": "Waiting for Fish",
         "ATC Artists": [
             "Susan Conger"
-        ]
+        ],
+        "Result Track Name": "Waiting for Fish",
+        "Result Artist Names": [
+            "Susan Conger and Friends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jNmH3PPEHpgM8zc9CkBMe",
+        "Result Album Name": "Along the River"
     },
     {
         "Title": "Commentary: Marriage Preferences",
@@ -166,13 +257,26 @@
         "ATC Track": "Lovers on Empty Corners",
         "ATC Artists": [
             "Sheer Allstars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Berceuse: Cancion De Cuna",
         "ATC Artists": [
             "Tom Ball"
-        ]
+        ],
+        "Result Track Name": "Berceuse: Cancion De Cuna",
+        "Result Artist Names": [
+            "Tom Ball"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2SCuxoI10xfUK05OUTcg1M",
+        "Result Album Name": "18 Pieces for Solo Steel String Guitar"
     },
     {
         "Title": "Remembering Emma Buck's Family Farm in Illinois",
@@ -190,12 +294,25 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Eclypso",
         "ATC Artists": [
             "Tommy Flanagan Trio"
-        ]
+        ],
+        "Result Track Name": "Eclypso",
+        "Result Artist Names": [
+            "Tommy Flanagan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:3HzOamoBHYUZ1YWsAeqBGe",
+        "Result Album Name": "Eclypso"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-12-07",
         "Day": "Tue",
-        "Scanned Date": "2022-02-06 23:04:16"
+        "Scanned Date": "2022-02-06 23:04:16",
+        "Playlist URI": "7jT1aLP9oeStTYhMzUcssq",
+        "Playlist Link": "https://open.spotify.com/playlist/7jT1aLP9oeStTYhMzUcssq",
+        "Snapshot ID": "MSxiODQ1OWYzZTYzNzUzNzRhNTQ5MjMzYzgzMTY3NTU5ZmJjYmViYjIz",
+        "Playlist Name": "ATC 2004-12-07 Tue All Things Considered"
     },
     {
         "Title": "Intelligence Bill Nears Vote",
@@ -28,7 +32,12 @@
         "ATC Track": "El Baile de Luis Alonso",
         "ATC Artists": [
             "Los Angeles Guitar Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Supreme Court Weighs Restrictions on Interstate Wine Sales",
@@ -46,13 +55,23 @@
         "ATC Track": "Adobe Dog House",
         "ATC Artists": [
             "Gideon Freudmann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Weimaraner Rag",
         "ATC Artists": [
             "Nyle Frank"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Table-Saw Technology Aims to Save Fingers",
@@ -70,13 +89,26 @@
         "ATC Track": "Holiday Joel",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Holiday Joel",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Qkmc9Bd7aj9KxM5t2CFRJ",
+        "Result Album Name": "The Rodeo Eroded"
     },
     {
         "ATC Track": "JAMBOLERO",
         "ATC Artists": [
             "THE YOCKAMO ALL-STARS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Teen Takes U.S. Chess Championship",
@@ -107,14 +139,30 @@
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Loss",
+        "Result Artist Names": [
+            "Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6GRSHmBFL9fh5fu3Kjqxm4",
+        "Result Album Name": "Bittersweet ~ An American Romance"
     },
     {
         "ATC Track": "Loss",
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Loss",
+        "Result Artist Names": [
+            "Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6GRSHmBFL9fh5fu3Kjqxm4",
+        "Result Album Name": "Bittersweet ~ An American Romance"
     },
     {
         "Title": "Deadlock over Ukraine Vote",
@@ -132,13 +180,26 @@
         "ATC Track": "RIDING ON THE D TRAIN",
         "ATC Artists": [
             "OREGON"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "After the Gold Rush",
         "ATC Artists": [
             "String Quartet"
-        ]
+        ],
+        "Result Track Name": "After the Gold Rush",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11T8j5dUEE7L3a4kHItUXp",
+        "Result Album Name": "Rusted Moon: VSQ Performs Neil Young"
     },
     {
         "Title": "CIA Cable Pessimistic on Iraq",
@@ -156,7 +217,15 @@
         "ATC Track": "Misionera",
         "ATC Artists": [
             "Douglas Niedt"
-        ]
+        ],
+        "Result Track Name": "Misionera",
+        "Result Artist Names": [
+            "Douglas Niedt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rdbvpRwYQIQlkgLnUuucI",
+        "Result Album Name": "Pure Magic"
     },
     {
         "Title": "Online Menace of 'Phishing' Proliferates",
@@ -168,7 +237,15 @@
         "ATC Track": "Lucky Strike",
         "ATC Artists": [
             "Bangalore"
-        ]
+        ],
+        "Result Track Name": "Lucky Strike",
+        "Result Artist Names": [
+            "Bangalore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06518army96R67FdPS2ba5",
+        "Result Album Name": "Wanderlust"
     },
     {
         "Title": "Hurricane-Battered Theme Park Reopens in Florida",
@@ -186,12 +263,28 @@
         "ATC Track": "Big Situation",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Big Situation",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cxo9bir9Wb7eqxMQHSoYx",
+        "Result Album Name": "Peculiaroso"
     },
     {
         "ATC Track": "STORM",
         "ATC Artists": [
             "STANLEY TURRENTINE"
-        ]
+        ],
+        "Result Track Name": "Storm",
+        "Result Artist Names": [
+            "Stanley Turrentine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7diUPvk29fw51rrDXC0x9t",
+        "Result Album Name": "The Essential Stanley Turrentine"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-07-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:14:06"
+        "Scanned Date": "2022-02-06 23:14:06",
+        "Playlist URI": "3t972wW9m3cufSLBYNkfjP",
+        "Playlist Link": "https://open.spotify.com/playlist/3t972wW9m3cufSLBYNkfjP",
+        "Snapshot ID": "MSw3ZTQ0NzI0NGU1NWUyNWJhODJlMWU5NzM3ODg1ZDZkMzhlZWUwNjVm",
+        "Playlist Name": "ATC 2004-07-24 Sat All Things Considered"
     },
     {
         "Title": "Iraq Eyes Interim Congress",
@@ -28,7 +32,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Kerry Heads Toward Convention",
@@ -46,13 +58,29 @@
         "ATC Track": "Porky and Pale",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Porky And Pale",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4f29UtYypzHlr9aZJa9fzd",
+        "Result Album Name": "Peculiaroso"
     },
     {
         "ATC Track": "No Matter What Shape (Your Stomach's In)",
         "ATC Artists": [
             "The T-Bones"
-        ]
+        ],
+        "Result Track Name": "No Matter What Shape (Your Stomach's In)",
+        "Result Artist Names": [
+            "The T-Bones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DkgAX62bM7gwYpOGtOGfK",
+        "Result Album Name": "Lost Hits Of The 60's (All Original Artists & Versions)"
     },
     {
         "Title": "Organ Donor Meets The Man She Helped",
@@ -70,7 +98,12 @@
         "ATC Track": "THE ABSORBER",
         "ATC Artists": [
             "BIG GUITARS FROM TEXAS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Remembering the Moon Landing",
@@ -88,12 +121,28 @@
         "ATC Track": "PRETTY LITTLE HORSES",
         "ATC Artists": [
             "BARRY PHILLIPS AND FRIENDS"
-        ]
+        ],
+        "Result Track Name": "Pretty Little Horses",
+        "Result Artist Names": [
+            "Barry Phillips and Friends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ANEqgccgK0QmUjsaA2oq2",
+        "Result Album Name": "The World Turned Upside Down"
     },
     {
         "ATC Track": "Manhattan Minuet",
         "ATC Artists": [
             "Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Manhattan Minuet",
+        "Result Artist Names": [
+            "The Beau Hunks Sextette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FIIm3h0CmrSRhS1U1RcN4",
+        "Result Album Name": "Manhattan Minuet"
     }
 ]

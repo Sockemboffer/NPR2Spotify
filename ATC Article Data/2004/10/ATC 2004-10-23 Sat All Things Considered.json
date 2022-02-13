@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-10-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:08:46"
+        "Scanned Date": "2022-02-06 23:08:46",
+        "Playlist URI": "2VWQ0zQTDBJNwW8FdWo3ba",
+        "Playlist Link": "https://open.spotify.com/playlist/2VWQ0zQTDBJNwW8FdWo3ba",
+        "Snapshot ID": "MSxkYWM3Nzk2MTQ3ODdhMWQwOTY0OWFkNWYwMjA0N2ZiYjEwNmRiNjUx",
+        "Playlist Name": "ATC 2004-10-23 Sat All Things Considered"
     },
     {
         "Title": "Bush, Kerry on Campaign Trail",
@@ -34,7 +38,17 @@
         "ATC Track": "CON MOTO",
         "ATC Artists": [
             "KAREN KADERAVEK"
-        ]
+        ],
+        "Result Track Name": "Pohádka (Fairy Tale) for Cello and Piano: II. Con moto",
+        "Result Artist Names": [
+            "Leoš Janáček",
+            "Karen Kaderavek",
+            "Randall Hodgkinson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hzIFQVrrtr2iM4PAEo3DA",
+        "Result Album Name": "Cello Alchemy: Music from Russia & Eastern Europe"
     },
     {
         "Title": "Audio Postcard: Revolutionary War Dig",
@@ -46,13 +60,26 @@
         "ATC Track": "Yellow Submarine",
         "ATC Artists": [
             "The 12 Cellists of the Berlin Philharmonic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "La valse chinoise",
         "ATC Artists": [
             "Les Primitifs Du Futur"
-        ]
+        ],
+        "Result Track Name": "La valse chinoise",
+        "Result Artist Names": [
+            "Les Primitifs Du Futur"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27vhLvbP33tWbCOsgTs5zx",
+        "Result Album Name": "World Musette"
     },
     {
         "Title": "Biological Basis for False Memories Revealed",
@@ -70,7 +97,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Riding the Subway, All Alone",
@@ -82,7 +117,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "'Lizard Motel' Weighs Children's Reading Habits",
@@ -94,7 +137,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Cardinals Meet Sox in Fenway as Series Begins",
@@ -106,6 +157,11 @@
         "ATC Track": "Baseball Cakewalk",
         "ATC Artists": [
             "D'anna Fortunato and the Triskelion All-stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

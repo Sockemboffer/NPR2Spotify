@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-05-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:17:47"
+        "Scanned Date": "2022-02-06 23:17:47",
+        "Playlist URI": "7pgI6TKoBhhcdyd10ll7yA",
+        "Playlist Link": "https://open.spotify.com/playlist/7pgI6TKoBhhcdyd10ll7yA",
+        "Snapshot ID": "MSxmNzY1YWQyN2JkOGVmYjVkNzMwMTU0NDFlMDdmNDgwNWUwYmRmYzMz",
+        "Playlist Name": "ATC 2004-05-29 Sat All Things Considered"
     },
     {
         "Title": "10 Die in Saudi Oil Attacks",
@@ -34,7 +38,15 @@
         "ATC Track": "I Missed the Glance",
         "ATC Artists": [
             "The Sea and Cake"
-        ]
+        ],
+        "Result Track Name": "I Missed the Glance",
+        "Result Artist Names": [
+            "The Sea and Cake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3N2dpz5AdSRnsGav0vN0mM",
+        "Result Album Name": "Oui"
     },
     {
         "Title": "Republican Strategists Assess Iraq Damage",
@@ -46,19 +58,43 @@
         "ATC Track": "Love Theme",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Love Theme",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Dlz81DHVkwVPctdN1OgAO",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     },
     {
         "ATC Track": "Baja",
         "ATC Artists": [
             "The Astronauts"
-        ]
+        ],
+        "Result Track Name": "Baja",
+        "Result Artist Names": [
+            "The Astronauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IzatacJcPxK6rUY21eYMA",
+        "Result Album Name": "Surfin' With The Astronauts"
     },
     {
         "ATC Track": "Danube Incident",
         "ATC Artists": [
             "Lalo Schifrin"
-        ]
+        ],
+        "Result Track Name": "Danube Incident",
+        "Result Artist Names": [
+            "Lalo Schifrin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QqouLGFYMynquwDMYUGk1",
+        "Result Album Name": "More Mission: Impossible"
     },
     {
         "Title": "Haiti Relief Crews Hampered",
@@ -102,12 +138,27 @@
             "Baron Lee",
             "The Blue Rhythm Band",
             "featuring Charlie Holmes"
-        ]
+        ],
+        "Result Track Name": "The Growl",
+        "Result Artist Names": [
+            "Baron Lee",
+            "The Blue Rhythm Band",
+            "Charlie Holmes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9411764705882353,
+        "Result Track URI": "spotify:track:3HYOw1m3dLyu6soCno0nLo",
+        "Result Album Name": "The World Of Swing"
     },
     {
         "ATC Track": "Circus in Outer Space",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

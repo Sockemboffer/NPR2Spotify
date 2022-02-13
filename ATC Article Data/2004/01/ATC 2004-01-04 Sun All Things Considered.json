@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-01-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:22:55"
+        "Scanned Date": "2022-02-06 23:22:55",
+        "Playlist URI": "5uU7iavBOhoEROq4IQ82U2",
+        "Playlist Link": "https://open.spotify.com/playlist/5uU7iavBOhoEROq4IQ82U2",
+        "Snapshot ID": "MSw3N2Q4YTk5NzI3ZjUxOGQ0ZjdiYmNmZTdjMzBkM2RlZmJlMzg2YTY2",
+        "Playlist Name": "ATC 2004-01-04 Sun All Things Considered"
     },
     {
         "Title": "NASA Mars Rover Beams Images",
@@ -40,13 +44,26 @@
         "ATC Track": "Space Key",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Smoke",
         "ATC Artists": [
             "Medeski Martin and Wood"
-        ]
+        ],
+        "Result Track Name": "Smoke",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4CRNS3ess6Z8LRu0Hak1xo",
+        "Result Album Name": "Uninvisible"
     },
     {
         "Title": "Democrats Debate in Iowa",
@@ -70,7 +87,15 @@
         "ATC Track": "Parade",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Parade",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6tZzq4OUx5KWz25M2sHhyd",
+        "Result Album Name": "Peculiaroso"
     },
     {
         "Title": "The Ethicist: Fruit Picked, vs. Picked Up",
@@ -88,12 +113,22 @@
         "ATC Track": "La Vie En Rose",
         "ATC Artists": [
             "Mr Mcfall's Chamber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Dark Eyes",
         "ATC Artists": [
             "Deluxe Vaudeville Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

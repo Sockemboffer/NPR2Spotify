@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-02-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:22:00"
+        "Scanned Date": "2022-02-06 23:22:00",
+        "Playlist URI": "6wcZpgEZrJ7uhRDbx5GZhZ",
+        "Playlist Link": "https://open.spotify.com/playlist/6wcZpgEZrJ7uhRDbx5GZhZ",
+        "Snapshot ID": "MSw1NDhiNTFjOTdiOTYyMjBkNTdmYWIzMmFhZGY2YzhmNzIxZmZiOTY4",
+        "Playlist Name": "ATC 2004-02-15 Sun All Things Considered"
     },
     {
         "Title": "Kerry Leads Polls as Wisconsin Primary Nears",
@@ -34,13 +38,23 @@
         "ATC Track": "Sinfonia to Cantata #29",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Two-Part Invention in B-Flat Major",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Official Wants Water Concerns Added to Home Data",
@@ -64,7 +78,15 @@
         "ATC Track": "ASKO HEPOKARHU-KOSKELA",
         "ATC Artists": [
             "TUULENKANTAJAT"
-        ]
+        ],
+        "Result Track Name": "Asko Hepokarhu-Koskela",
+        "Result Artist Names": [
+            "Tuulenkantajat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5a5cC4rCCXyrkVQUqxQSmv",
+        "Result Album Name": "Vedenalusmusiikkia"
     },
     {
         "Title": "The Ethicist: Drug-Stash Ettiquette?",
@@ -82,6 +104,14 @@
         "ATC Track": "Spy Polka",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Spy Polka",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46B4Gp7PuuyzxSKZysy79y",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     }
 ]

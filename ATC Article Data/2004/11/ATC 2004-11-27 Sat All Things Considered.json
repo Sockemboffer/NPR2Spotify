@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-11-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:07:11"
+        "Scanned Date": "2022-02-06 23:07:11",
+        "Playlist URI": "5hOhK1J6ray1MzUqLhtEaY",
+        "Playlist Link": "https://open.spotify.com/playlist/5hOhK1J6ray1MzUqLhtEaY",
+        "Snapshot ID": "MSxjZmEwNTQ3YzM0ZGUyNzU3NGE0NWE2YzJiY2VkYWE4NDQwOGJhYzE1",
+        "Playlist Name": "ATC 2004-11-27 Sat All Things Considered"
     },
     {
         "Title": "Ukraine Rejects Vote",
@@ -16,7 +20,15 @@
         "ATC Track": "UNAMUNO",
         "ATC Artists": [
             "DAVID ROTHENBERG"
-        ]
+        ],
+        "Result Track Name": "Unamuno",
+        "Result Artist Names": [
+            "David Rothenberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EXIVHMAFtByfOzWNpvAvu",
+        "Result Album Name": "Unamuno"
     },
     {
         "Title": "Ukraine, Russia and the West",
@@ -52,20 +64,42 @@
         "ATC Track": "Fiesta",
         "ATC Artists": [
             "Elmer Berstein"
-        ]
+        ],
+        "Result Track Name": "Fiesta",
+        "Result Artist Names": [
+            "Elmer Hernandez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5d1cAz69q1mYUfY6BEus1r",
+        "Result Album Name": "Mas Que Vencedores"
     },
     {
         "ATC Track": "Bryant's Bounce",
         "ATC Artists": [
             "Speedy West",
             "Jimmy Bryant"
-        ]
+        ],
+        "Result Track Name": "Bryant's Bounce",
+        "Result Artist Names": [
+            "Jimmy Bryant",
+            "Speedy West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wUvB3S5kY1eR91p5nncbm",
+        "Result Album Name": "2 Guitars Country Style"
     },
     {
         "ATC Track": "Frankfurt Overture",
         "ATC Artists": [
             "Peer Raben"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Doctors, Lawyers Team to Aid Children's Health",
@@ -83,7 +117,15 @@
         "ATC Track": "The Magnificent Seven",
         "ATC Artists": [
             "Tito Rodriguez"
-        ]
+        ],
+        "Result Track Name": "The Magnificent Seven",
+        "Result Artist Names": [
+            "Tito Rodriguez & His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2715Uu8HyR2vLlGdPReFEo",
+        "Result Album Name": "Motion Picture Themes Cha Cha Cha"
     },
     {
         "Title": "Jeunet, Tatou Team for a Romantic 'Engagement'",
@@ -101,12 +143,25 @@
         "ATC Track": "ARAB DANCE",
         "ATC Artists": [
             "CLASSIKS ON TOYS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Swan Lake",
         "ATC Artists": [
             "The Cats"
-        ]
+        ],
+        "Result Track Name": "Swan Lake",
+        "Result Artist Names": [
+            "The Church"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4R4dNzG9e7zu4vuMs8OIDK",
+        "Result Album Name": "Priest = Aura"
     }
 ]

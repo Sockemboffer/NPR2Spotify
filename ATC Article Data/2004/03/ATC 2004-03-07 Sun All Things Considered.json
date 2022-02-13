@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-03-07",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:19:57"
+        "Scanned Date": "2022-02-06 23:19:57",
+        "Playlist URI": "6dvNzzHLWtIM1VRPW4xHJj",
+        "Playlist Link": "https://open.spotify.com/playlist/6dvNzzHLWtIM1VRPW4xHJj",
+        "Snapshot ID": "MSw4NzlhYWM5ZGZlODRmODMyYzJmY2ZlMTEwMDQwMDA3YjNjMTBlYTEy",
+        "Playlist Name": "ATC 2004-03-07 Sun All Things Considered"
     },
     {
         "Title": "14 Die in Gaza Conflict",
@@ -40,19 +44,43 @@
         "ATC Track": "Shiny, Happy People",
         "ATC Artists": [
             "The String Quartet"
-        ]
+        ],
+        "Result Track Name": "Shiny, Happy People",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:17sznyqk6BhA23sTyQRT6E",
+        "Result Album Name": "VSQ Performs R.E.M."
     },
     {
         "ATC Track": "Spy Polka",
         "ATC Artists": [
             "John Kusiak"
-        ]
+        ],
+        "Result Track Name": "Spy Polka",
+        "Result Artist Names": [
+            "John Kusiak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46B4Gp7PuuyzxSKZysy79y",
+        "Result Album Name": "Music from Season One of Errol Morris' First Person (Original Soundtrack)"
     },
     {
         "ATC Track": "Mau Mau",
         "ATC Artists": [
             "The Wailers"
-        ]
+        ],
+        "Result Track Name": "Mau Mau",
+        "Result Artist Names": [
+            "The Wailers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38cpfKQLhEnoEotWjscRju",
+        "Result Album Name": "The Fabulous Wailers"
     },
     {
         "Title": "Gunfire at Haiti Celebration",
@@ -70,7 +98,16 @@
         "ATC Track": "Kgale [Long Suffering]",
         "ATC Artists": [
             "Philip Tabane"
-        ]
+        ],
+        "Result Track Name": "Kgale (Long Suffering)",
+        "Result Artist Names": [
+            "Philip Tabane",
+            "Malombo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BSu8ltuMCm5IyMkAx7wo7",
+        "Result Album Name": "Unh!"
     },
     {
         "Title": "Labor Hopes to Unionize Town",
@@ -100,12 +137,28 @@
         "ATC Track": "Ashley Blue",
         "ATC Artists": [
             "Joey DeFrancesco"
-        ]
+        ],
+        "Result Track Name": "Ashley Blue",
+        "Result Artist Names": [
+            "Joey DeFrancesco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nOUkQaBRrXVrUVwwoOEc3",
+        "Result Album Name": "40"
     },
     {
         "ATC Track": "Back Beat No. 1",
         "ATC Artists": [
             "The Rondels"
-        ]
+        ],
+        "Result Track Name": "Back Beat No. 1",
+        "Result Artist Names": [
+            "The Rondels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6A3rvsveNrl3HPacFZJgEZ",
+        "Result Album Name": "Grinding Raunchy Rockers From the '50s"
     }
 ]

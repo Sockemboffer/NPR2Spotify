@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-03-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:19:54"
+        "Scanned Date": "2022-02-06 23:19:54",
+        "Playlist URI": "3ANVUfGdgA0yRjB7EBM8YZ",
+        "Playlist Link": "https://open.spotify.com/playlist/3ANVUfGdgA0yRjB7EBM8YZ",
+        "Snapshot ID": "MSxlY2I0OThmZDBmMzVkNWE3MWFiMjg5Yzc4YzdhODEyZDRiNWNhOGI0",
+        "Playlist Name": "ATC 2004-03-06 Sat All Things Considered"
     },
     {
         "Title": "Iraq Constitution Plan Revived",
@@ -28,7 +32,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Web Site Helps Single Moms Share Housing",
@@ -40,7 +52,15 @@
         "ATC Track": "What Is it Now",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "What Is It Now?",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gvqRZXNLmrDxLM4VmBZ6Y",
+        "Result Album Name": "Have You Fed The Fish"
     },
     {
         "Title": "Audio Postcard: Bowling with Oranges",
@@ -52,14 +72,27 @@
         "ATC Track": "Orange Blossom Special",
         "ATC Artists": [
             "Glenda Faye"
-        ]
+        ],
+        "Result Track Name": "Orange Blossom Special",
+        "Result Artist Names": [
+            "Glenda Faye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RjNEWqdnNrdCEIh7yujiU",
+        "Result Album Name": "Flatpickin' Favorites"
     },
     {
         "ATC Track": "Mr. Ed in the Style of Joaquin Rodrigo",
         "ATC Artists": [
             "Scott Tennant",
             "Hollywood Chamber Symphony"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Unemployment and Health Care",
@@ -89,7 +122,15 @@
         "ATC Track": "The Robots",
         "ATC Artists": [
             "Kraftwerk"
-        ]
+        ],
+        "Result Track Name": "The Robots - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eqZWYQ5tbIehx00NeKXz7",
+        "Result Album Name": "The Man-Machine (2009 Remaster)"
     },
     {
         "Title": "Zoo Angel",
@@ -107,6 +148,14 @@
         "ATC Track": "The Magnificent Seven",
         "ATC Artists": [
             "Tito Rodriguez"
-        ]
+        ],
+        "Result Track Name": "The Magnificent Seven",
+        "Result Artist Names": [
+            "Tito Rodriguez & His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2715Uu8HyR2vLlGdPReFEo",
+        "Result Album Name": "Motion Picture Themes Cha Cha Cha"
     }
 ]

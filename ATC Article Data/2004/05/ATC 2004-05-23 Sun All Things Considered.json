@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2004-05-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:17:23"
+        "Scanned Date": "2022-02-06 23:17:23",
+        "Playlist URI": "69h3OjQbYlR43uqBKOq3g5",
+        "Playlist Link": "https://open.spotify.com/playlist/69h3OjQbYlR43uqBKOq3g5",
+        "Snapshot ID": "MSxlNjhjNzgzMmUyOGI5NzIzMWZjZTQ5Yjk0ODliMDc4NTlhMDZkMzAw",
+        "Playlist Name": "ATC 2004-05-23 Sun All Things Considered"
     },
     {
         "Title": "Iraq Fallout: European News View",
@@ -16,7 +20,12 @@
         "ATC Track": "CRASH: CRASH",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Graphic Iraqi Images Spark Debate in Schools",
@@ -46,19 +55,37 @@
         "ATC Track": "The Ball Game",
         "ATC Artists": [
             "Sister Wynona Carr"
-        ]
+        ],
+        "Result Track Name": "The Ball Game",
+        "Result Artist Names": [
+            "Sister Wynona Carr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uxDt7o0GWKgflVNi1HvjJ",
+        "Result Album Name": "Dragnet For Jesus"
     },
     {
         "ATC Track": "BLOW UP: MAIN TITLE",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ww Guitar Variations",
         "ATC Artists": [
             "Siren"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Arab Nations Promise Reforms",
@@ -94,6 +121,11 @@
         "ATC Track": "CAVALERIE LEGERE",
         "ATC Artists": [
             "POLYPHON (1890)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
