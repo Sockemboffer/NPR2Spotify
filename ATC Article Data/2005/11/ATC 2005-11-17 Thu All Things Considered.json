@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-11-17",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 23:27:18"
+        "Scanned Date": "2022-02-06 23:27:18",
+        "Playlist URI": "6j1lpHSQ3sUd85UFHWusSn",
+        "Playlist Link": "https://open.spotify.com/playlist/6j1lpHSQ3sUd85UFHWusSn",
+        "Snapshot ID": "MSxkYzQ3MmJmZjFmYjA5ZjdmYTU0NTQ4ZTEzMzMyNjBlMDRhNTQwYjBk",
+        "Playlist Name": "ATC 2005-11-17 Thu All Things Considered"
     },
     {
         "Title": "House Vote on Spending Cuts in Limbo",
@@ -94,13 +98,29 @@
         "ATC Track": "DANCE THE DEVIL AWAY",
         "ATC Artists": [
             "OUTBACK"
-        ]
+        ],
+        "Result Track Name": "Dance the Devil Away",
+        "Result Artist Names": [
+            "Outback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iaFV5kzedYVvs6DIVkaTr",
+        "Result Album Name": "Dance the Devil Away"
     },
     {
         "ATC Track": "Summer Samba [Samba de Verão]",
         "ATC Artists": [
             "Walter Wanderley"
-        ]
+        ],
+        "Result Track Name": "Samba De Verão",
+        "Result Artist Names": [
+            "Walter Wanderley"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0EtAPdqg7TysBXKDbnzuSO",
+        "Result Album Name": "O Autêntico Walter Wanderley"
     },
     {
         "Title": "Abu Ali Terrorism Trial Winds Up",
@@ -118,7 +138,15 @@
         "ATC Track": "Drops",
         "ATC Artists": [
             "Enrico Rava"
-        ]
+        ],
+        "Result Track Name": "Drops",
+        "Result Artist Names": [
+            "Enrico Rava"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kvvYOPy8TCNIRBd0m4dVR",
+        "Result Album Name": "Easy Living"
     },
     {
         "Title": "Stories from Two Generations of Dementia",
@@ -130,13 +158,29 @@
         "ATC Track": "Reverie",
         "ATC Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": "Reverie",
+        "Result Artist Names": [
+            "Jacques Loussier Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OlA43ks7OXcIDRPA1dZWx",
+        "Result Album Name": "Jacques Loussier Trio Plays Debussy"
     },
     {
         "ATC Track": "Bill's Last Adventure",
         "ATC Artists": [
             "3 Leg Torso"
-        ]
+        ],
+        "Result Track Name": "Bill\\'s Last Adventure",
+        "Result Artist Names": [
+            "3 Leg Torso"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XnQ7ocxa9QWF9rtUJTMDN",
+        "Result Album Name": "Astor In Paris"
     },
     {
         "Title": "Mexico Slaps Record Fine on Coca-Cola",
@@ -154,12 +198,22 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tumbanga",
         "ATC Artists": [
             "Orlando \"Cachaito\" Lopez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

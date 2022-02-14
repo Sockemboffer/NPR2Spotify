@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-09-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:31:00"
+        "Scanned Date": "2022-02-06 23:31:00",
+        "Playlist URI": "2GMEUB6CDDKZd1vcpIgiiJ",
+        "Playlist Link": "https://open.spotify.com/playlist/2GMEUB6CDDKZd1vcpIgiiJ",
+        "Snapshot ID": "MSwwNTY4MGI5MDQ0NGRkNjY3ZjU2NDE3ZjQwYWMyN2ZlNDUzMjdlMDhh",
+        "Playlist Name": "ATC 2005-09-17 Sat All Things Considered"
     },
     {
         "Title": "Return to New Orleans Stirs Debate",
@@ -28,7 +32,15 @@
         "ATC Track": "The Producer",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "The Producer",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TOdZwQepMo4STo9gJOos3",
+        "Result Album Name": "No, You C'mon"
     },
     {
         "Title": "Town Doctor Battles Katrina's Bad Breaks",
@@ -46,13 +58,29 @@
         "ATC Track": "Levee Low Moan",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Levee Low Moan",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7sYPoPP784Q1BR9sMWHCib",
+        "Result Album Name": "Levee Low Moan Soul Gestures In Southern Blue Vol. 3"
     },
     {
         "ATC Track": "The Constant Variables",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "The Constant Variables",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Mr7QNtqEvrnTQ4kYpkRSY",
+        "Result Album Name": "Silence Magnifies Sound"
     },
     {
         "Title": "For Earnhardt Fans, Number 3 Lives On",
@@ -70,7 +98,12 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Culture Revealed Through Comfort Food",
@@ -82,13 +115,29 @@
         "ATC Track": "Slow Dance With a Fast Girl",
         "ATC Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "Slow Dance With A Fast Girl",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ftDelod6PVoai6MixZUVK",
+        "Result Album Name": "Guitar Noir"
     },
     {
         "ATC Track": "Silver Morning",
         "ATC Artists": [
             "Brian Eno",
             "Roger Eno et. al."
-        ]
+        ],
+        "Result Track Name": "Silver Morning - Remastered",
+        "Result Artist Names": [
+            "Brian Eno"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4usFUwy5LtJvUS55zKkM9E",
+        "Result Album Name": "Apollo: Atmospheres And Soundtracks (Extended Edition)"
     }
 ]

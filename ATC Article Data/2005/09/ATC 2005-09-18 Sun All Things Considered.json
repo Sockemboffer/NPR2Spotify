@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-09-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:31:04"
+        "Scanned Date": "2022-02-06 23:31:04",
+        "Playlist URI": "6SwwA8O7Utma1NcpAtoD25",
+        "Playlist Link": "https://open.spotify.com/playlist/6SwwA8O7Utma1NcpAtoD25",
+        "Snapshot ID": "MSwwMmYxZmQ2ZTZjNzY3YjVlYzg3NzczMGM0NjAyMzg1ZWY5ZmRjZjUy",
+        "Playlist Name": "ATC 2005-09-18 Sun All Things Considered"
     },
     {
         "Title": "Feds Urge Caution on Return to New Orleans",
@@ -16,7 +20,15 @@
         "ATC Track": "World Made to Order",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "World Made To Order",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QuwEEe5X80op4hQXbxOdD",
+        "Result Album Name": "Peculiaroso"
     },
     {
         "Title": "German Vote May Give Schroeder a Break",
@@ -34,13 +46,29 @@
         "ATC Track": "Trigana",
         "ATC Artists": [
             "Kabul Workshop"
-        ]
+        ],
+        "Result Track Name": "Trigana",
+        "Result Artist Names": [
+            "Kabul Workshop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qqrLbiY6E0bseuBbIdpJL",
+        "Result Album Name": "Trigana"
     },
     {
         "ATC Track": "Despertar",
         "ATC Artists": [
             "Carlos Paredes"
-        ]
+        ],
+        "Result Track Name": "Despertar",
+        "Result Artist Names": [
+            "Carlos Arteaga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2bPENJu5ERNjYeFAj53mfm",
+        "Result Album Name": "Entre Milenios"
     },
     {
         "Title": "Katrina: No Political Watershed",
@@ -72,7 +100,12 @@
             "Olli Varis",
             "Petri Hakala",
             "Arto Jarvela"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "At 50, 'Lolita' Is Aging Well",
@@ -84,7 +117,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "A Family of Artists Picks Up the Pieces",
@@ -96,18 +137,39 @@
         "ATC Track": "twilight eyes",
         "ATC Artists": [
             "david schnaufer"
-        ]
+        ],
+        "Result Track Name": "Twilight Eyes",
+        "Result Artist Names": [
+            "David Schnaufer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:36V7jPitSFu26PZgo5I4G6",
+        "Result Album Name": "Dulcimer Player Deluxe"
     },
     {
         "ATC Track": "Autumn Child/Heaton Chapel",
         "ATC Artists": [
             "Lúnasa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "PANINI PUA KEA",
         "ATC Artists": [
             "CYRIL PAHINUI"
-        ]
+        ],
+        "Result Track Name": "Panini Pua Kea",
+        "Result Artist Names": [
+            "Cyril Pahinui"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0W42rEwiNcycinEvToaFCF",
+        "Result Album Name": "6 & 12 String Slack Key Guitar"
     }
 ]

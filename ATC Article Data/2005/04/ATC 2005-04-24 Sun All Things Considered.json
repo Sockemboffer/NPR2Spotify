@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-04-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:39:41"
+        "Scanned Date": "2022-02-06 23:39:41",
+        "Playlist URI": "14LZzPsTCJI8b5a6S7vdys",
+        "Playlist Link": "https://open.spotify.com/playlist/14LZzPsTCJI8b5a6S7vdys",
+        "Snapshot ID": "MSw1YWQ5YWFiNmNlNDk1YTMwMTI1MjMyMjFjNDZjNjEyZTQzMjJmZGM0",
+        "Playlist Name": "ATC 2005-04-24 Sun All Things Considered"
     },
     {
         "Title": "Frist Takes Filibuster Fight to Church-Backed TV Event",
@@ -22,7 +26,12 @@
         "ATC Track": "If Dogs Wore Hats",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Polls: Blair's Labor Party Leads Ahead of U.K. Vote",
@@ -35,13 +44,31 @@
         "ATC Artists": [
             "Alan Moore",
             "Judith Plant"
-        ]
+        ],
+        "Result Track Name": "Victoria Galop",
+        "Result Artist Names": [
+            "Francis Johnson",
+            "Judith Plant",
+            "Alan Moore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58lBdevN4aRTdKRL0O5mvF",
+        "Result Album Name": "Come and Trip It: Instrumental Dance Music, 1780's-1920's"
     },
     {
         "ATC Track": "Topsy II",
         "ATC Artists": [
             "Cozy Cole"
-        ]
+        ],
+        "Result Track Name": "Topsy II",
+        "Result Artist Names": [
+            "Cozy Cole"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7wKOWJBWY9IVP04YB5L3Ms",
+        "Result Album Name": "Topsy II"
     },
     {
         "Title": "Environmentalist John Francis, Walking the Walk",
@@ -53,7 +80,12 @@
         "ATC Track": "TANNARI",
         "ATC Artists": [
             "ROBERT MUSSO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Joy of Mastering Clichés in English",
@@ -71,7 +103,15 @@
         "ATC Track": "The Clouds",
         "ATC Artists": [
             "The Spacemen"
-        ]
+        ],
+        "Result Track Name": "The Clouds",
+        "Result Artist Names": [
+            "The Spacemen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PdbcsYRKKA8FEo91qPRqF",
+        "Result Album Name": "Hard To Find Hits"
     },
     {
         "Title": "New Model Promises More Accurate Hurricane Forecasts",
@@ -83,7 +123,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Dave Ambrose, Internet Radio Show Host",
@@ -96,7 +144,12 @@
         "ATC Artists": [
             "Bebe Neuwirth",
             "Ann Reinking et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Oldest Living Ziegfeld Girl",
@@ -108,12 +161,28 @@
         "ATC Track": "Midnighter",
         "ATC Artists": [
             "The Champs"
-        ]
+        ],
+        "Result Track Name": "Midnighter",
+        "Result Artist Names": [
+            "The Champs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pfbQyxjTRrzW5IjfL5ryA",
+        "Result Album Name": "Go Champs Go!"
     },
     {
         "ATC Track": "Wild Weekend",
         "ATC Artists": [
             "The Rockin' Rebels"
-        ]
+        ],
+        "Result Track Name": "Wild Weekend",
+        "Result Artist Names": [
+            "The Rockin' Rebels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1aPdVWDcTG2Qn0ziCoHkaG",
+        "Result Album Name": "Wild Weekend"
     }
 ]

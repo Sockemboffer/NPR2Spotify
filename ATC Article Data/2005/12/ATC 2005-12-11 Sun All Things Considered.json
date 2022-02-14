@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-12-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:25:01"
+        "Scanned Date": "2022-02-06 23:25:01",
+        "Playlist URI": "5PYhjqBBzKk2zsEBS6mDkh",
+        "Playlist Link": "https://open.spotify.com/playlist/5PYhjqBBzKk2zsEBS6mDkh",
+        "Snapshot ID": "MSw0MDU3M2JjNzk1NTZmYjk3YzhkNjdjZTE5YmQ5NTAzMGJmZDI2YWM4",
+        "Playlist Name": "ATC 2005-12-11 Sun All Things Considered"
     },
     {
         "Title": "Iraqis in U.S. Reflect on Upcoming Elections",
@@ -22,13 +26,29 @@
         "ATC Track": "Tea in the Sahara",
         "ATC Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": "Tea in the Sahara",
+        "Result Artist Names": [
+            "Simon Shaheen & Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HfgRzZd0QEiDPwVzxAEe4",
+        "Result Album Name": "Blue Flame"
     },
     {
         "ATC Track": "Salta",
         "ATC Artists": [
             "The Surrealistics"
-        ]
+        ],
+        "Result Track Name": "Salta",
+        "Result Artist Names": [
+            "The Surrealistics"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3nbb2l0Gc3WoTqJ7KHIWEN",
+        "Result Album Name": "Me For You & Euphony"
     },
     {
         "Title": "'Jesus and Yahweh: The Names Divine'",
@@ -40,13 +60,26 @@
         "ATC Track": "A Leybedike Honga",
         "ATC Artists": [
             "Tim Sparks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Le blues de dix-neuf heures trente (L'Harmo Qui Venait D'Orly)",
         "ATC Artists": [
             "Les Primitifs Du Futur"
-        ]
+        ],
+        "Result Track Name": "Le blues de dix-neuf heures trente - L'harmo qui venait d'Orly",
+        "Result Artist Names": [
+            "Les Primitifs Du Futur"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2r0DRSLCIOHNhMACLhMhyD",
+        "Result Album Name": "World Musette"
     },
     {
         "Title": "Letters: Deconstructing Nursery Rhymes",
@@ -64,7 +97,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Berliners Split on Future of East German Palace",
@@ -82,12 +123,28 @@
         "ATC Track": "Mississippi Mud",
         "ATC Artists": [
             "Lester Lanin"
-        ]
+        ],
+        "Result Track Name": "Mississippi Mud",
+        "Result Artist Names": [
+            "Lester Lanin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3p9krIEEPGnNWoDGzWPq99",
+        "Result Album Name": "This Is Society Dance Music"
     },
     {
         "ATC Track": "Swing 39",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": "Swing 39",
+        "Result Artist Names": [
+            "Pearl Django"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Mvl3jQ6x5MNJrEkVGbgoO",
+        "Result Album Name": "Under Paris Skies"
     }
 ]

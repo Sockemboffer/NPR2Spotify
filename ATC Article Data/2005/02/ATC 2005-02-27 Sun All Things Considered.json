@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-02-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:43:00"
+        "Scanned Date": "2022-02-06 23:43:00",
+        "Playlist URI": "6qVpOvDQ0wWBFmnl5rwTHj",
+        "Playlist Link": "https://open.spotify.com/playlist/6qVpOvDQ0wWBFmnl5rwTHj",
+        "Snapshot ID": "MSw5OTNmMTRjYTMzYzEwZDVlNGY4ZGM4NjU0M2M2OGQ5NTkyZWRjMmZm",
+        "Playlist Name": "ATC 2005-02-27 Sun All Things Considered"
     },
     {
         "Title": "Governors Focus on High School",
@@ -28,14 +32,24 @@
         "ATC Track": "fantasia",
         "ATC Artists": [
             "JOSEPH LADONE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Mr. Ed in the Style of Joaquin Rodrigo",
         "ATC Artists": [
             "Scott Tennant",
             "Hollywood Chamber Symphony"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jaafari and Iraq's Top Job",
@@ -53,7 +67,15 @@
         "ATC Track": "Make the Most Of",
         "ATC Artists": [
             "David Mead"
-        ]
+        ],
+        "Result Track Name": "Make the Most Of",
+        "Result Artist Names": [
+            "David Mead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30HQS1CDfNXP4JF2jEXC6F",
+        "Result Album Name": "The Luxury of Time"
     },
     {
         "Title": "Nun's Crusade Inspires Oscar-Nominated Film",
@@ -65,7 +87,12 @@
         "ATC Track": "Sonata In D Major, L. 164/k. 491",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Amnesty Founder Benenson Dies",
@@ -89,7 +116,15 @@
         "ATC Track": "Good Vibrations",
         "ATC Artists": [
             "The Beach Boys"
-        ]
+        ],
+        "Result Track Name": "Good Vibrations - Remastered 2001",
+        "Result Artist Names": [
+            "The Beach Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5t9KYe0Fhd5cW6UYT4qP8f",
+        "Result Album Name": "Smiley Smile (Remastered)"
     },
     {
         "Title": "The Popstrology of Britney, by a Double Monkee",
@@ -101,18 +136,41 @@
         "ATC Track": "Blackbird",
         "ATC Artists": [
             "Canadian Brass"
-        ]
+        ],
+        "Result Track Name": "Blackbird",
+        "Result Artist Names": [
+            "Canadian Brass",
+            "Jens Lindemann",
+            "Ronald Romm",
+            "David Ohanian",
+            "Eugene Watts",
+            "Charles Daellenbach"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Yj2oZIoW62XOkpWPn4TFA",
+        "Result Album Name": "All You Need Is Love"
     },
     {
         "ATC Track": "Slavonic Dance No. 5, Op. 46",
         "ATC Artists": [
             "Empire Brass"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "FANTASIA NO. 1 IN C MAJOR FOR BASSOON",
         "ATC Artists": [
             "christopher weait"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

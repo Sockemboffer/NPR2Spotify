@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-10-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:29:25"
+        "Scanned Date": "2022-02-06 23:29:25",
+        "Playlist URI": "1QmIFe1tUZaSvwD5l202xU",
+        "Playlist Link": "https://open.spotify.com/playlist/1QmIFe1tUZaSvwD5l202xU",
+        "Snapshot ID": "MSxhMDIyNGZiNGMyMGJlMDNlNjVlYTdhZjMyYzEzNWZhZGQ3MjU5NzUy",
+        "Playlist Name": "ATC 2005-10-22 Sat All Things Considered"
     },
     {
         "Title": "Wilma Lashes Yucatan, Slouches Toward Florida",
@@ -22,7 +26,15 @@
         "ATC Track": "BLUE CASTLE",
         "ATC Artists": [
             "GLEN VELEZ"
-        ]
+        ],
+        "Result Track Name": "Blue Castle",
+        "Result Artist Names": [
+            "Glen Velez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3aFMvCScBx4TfjH8E4ezYT",
+        "Result Album Name": "Assyrian Rose"
     },
     {
         "Title": "Alexander Yakovlev Shed Light on Dark Places",
@@ -34,13 +46,26 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Swamp Cooler",
         "ATC Artists": [
             "The Sorts"
-        ]
+        ],
+        "Result Track Name": "Swamp Cooler",
+        "Result Artist Names": [
+            "The Sorts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Fpj4mM3QmLmu0qbts9dK0",
+        "Result Album Name": "Six Plus"
     },
     {
         "Title": "Vivid Language from Iraq's Constitution",
@@ -58,7 +83,15 @@
         "ATC Track": "Keep the Bugs Off Your Glass and the Bears Off Your Ass",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "Keep The Bugs Off Your Glass And The Bears Off Your Ass",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nZ1BPN8uz1ckcaNLZd11X",
+        "Result Album Name": "These Are The Vistas"
     },
     {
         "Title": "Sox, Astros Ready to Go in World Series",
@@ -76,13 +109,29 @@
         "ATC Track": "They Say There's a Kid In Texas",
         "ATC Artists": [
             "Steve Vozzolo and the Rookies"
-        ]
+        ],
+        "Result Track Name": "They Say There's a Kid in Texas",
+        "Result Artist Names": [
+            "Steve Vozzolo and The Rookies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Awjq3XgReVcm8RTb5BNe1",
+        "Result Album Name": "I Love Baseball"
     },
     {
         "ATC Track": "Elephant Ride",
         "ATC Artists": [
             "The State of Bengal"
-        ]
+        ],
+        "Result Track Name": "Elephant Ride",
+        "Result Artist Names": [
+            "State Of Bengal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:01RM0rNKthTI2CkoZXL2Kr",
+        "Result Album Name": "Elephant Ride"
     },
     {
         "Title": "Reason Behind the Rhyme: 'Yankee Doodle'",
@@ -106,7 +155,12 @@
         "ATC Track": "fair and square",
         "ATC Artists": [
             "fats waller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Savoring Shirley Horn's Timeless Sound",
@@ -118,18 +172,39 @@
         "ATC Track": "If You Love Me",
         "ATC Artists": [
             "Shirley Horn"
-        ]
+        ],
+        "Result Track Name": "If You Love Me (Really Love Me)",
+        "Result Artist Names": [
+            "Shirley Horn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Q0KXUoPwu7z7cffaUDDU8",
+        "Result Album Name": "Here's To Life"
     },
     {
         "ATC Track": "Melted Matter",
         "ATC Artists": [
             "Tord Gustavsen"
-        ]
+        ],
+        "Result Track Name": "Melted Matter",
+        "Result Artist Names": [
+            "Tord Gustavsen Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5S4ls8NjBhE5zqtrHgZ6Ms",
+        "Result Album Name": "Changing Places"
     },
     {
         "ATC Track": "Spring Any Day Now",
         "ATC Artists": [
             "Fred Frith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

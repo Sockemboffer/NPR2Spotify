@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-07-31",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:35:27"
+        "Scanned Date": "2022-02-06 23:35:27",
+        "Playlist URI": "0kp1PcDwORNa4vBtRftZKT",
+        "Playlist Link": "https://open.spotify.com/playlist/0kp1PcDwORNa4vBtRftZKT",
+        "Snapshot ID": "MSw4MjFjY2YxMDcwYWNkYzhmNzkyM2RhOGQ3M2NkMjg3ZDAwMjZhYTk5",
+        "Playlist Name": "ATC 2005-07-31 Sun All Things Considered"
     },
     {
         "Title": "Food Aid Arrives in Niger, Belatedly",
@@ -16,7 +20,15 @@
         "ATC Track": "Sunday",
         "ATC Artists": [
             "Sonic Youth"
-        ]
+        ],
+        "Result Track Name": "Sunday",
+        "Result Artist Names": [
+            "Sonic Youth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ZNdRdZ2inm4ksA8keadDs",
+        "Result Album Name": "A Thousand Leaves"
     },
     {
         "Title": "Drafters of Iraq's Constitution Consider Seeking Extension",
@@ -34,13 +46,29 @@
         "ATC Track": "NINE BY NINE",
         "ATC Artists": [
             "FRANCIS COVAN"
-        ]
+        ],
+        "Result Track Name": "Nine By Nine",
+        "Result Artist Names": [
+            "Francis Lords"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6LBwiFktcLYovxSDYDWOEw",
+        "Result Album Name": "Envol"
     },
     {
         "ATC Track": "AU CONTRIARE ARTO",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Au Contraire Arto",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75MBSeZbrNBxxIugIijYHh",
+        "Result Album Name": "The Lounge Lizards"
     },
     {
         "Title": "Pakistan to Expel Foreign Students at Religious Schools",
@@ -52,7 +80,15 @@
         "ATC Track": "She Will Be Loved",
         "ATC Artists": [
             "Maroon 5"
-        ]
+        ],
+        "Result Track Name": "She Will Be Loved - Radio Mix",
+        "Result Artist Names": [
+            "Maroon 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4llK75pXNWZz6KAho2Gp16",
+        "Result Album Name": "Songs About Jane: 10th Anniversary Edition"
     },
     {
         "Title": "African-American Churches Weigh Gospel Debate",
@@ -76,7 +112,15 @@
         "ATC Track": "Bish Bash",
         "ATC Artists": [
             "Benny Green"
-        ]
+        ],
+        "Result Track Name": "Bish Bash",
+        "Result Artist Names": [
+            "The Benny Green Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KdZ09GNhYfXrUuZ34Iowy",
+        "Result Album Name": "Greens"
     },
     {
         "Title": "Iranian Political Prisoner on Hunger Strike Nears Death",
@@ -106,12 +150,25 @@
         "ATC Track": "J'Ai Dormi Sous l'Eau",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "J'ai dormi sous l'eau",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CIlUgLNKzwjU59hPpqQ45",
+        "Result Album Name": "Premiers Symptômes"
     },
     {
         "ATC Track": "MILE-OR-MO-BIRD RAG (ALTERNATE YAKE)",
         "ATC Artists": [
             "ALBERT AMMONS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

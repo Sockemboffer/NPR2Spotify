@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-08-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:33:27"
+        "Scanned Date": "2022-02-06 23:33:27",
+        "Playlist URI": "2xiU5agKZNysgAWog477HR",
+        "Playlist Link": "https://open.spotify.com/playlist/2xiU5agKZNysgAWog477HR",
+        "Snapshot ID": "MSw1MmYyY2FiZGU2ZjI0MjRiNzc3NTc5YmRkZmM4MWNhMDhmMDQ1MjVj",
+        "Playlist Name": "ATC 2005-08-28 Sun All Things Considered"
     },
     {
         "Title": "New Orleans Residents Flee Katrina",
@@ -28,7 +32,12 @@
         "ATC Track": "Basse Danse",
         "ATC Artists": [
             "Becky Baxter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Look at Walter Reed's History",
@@ -46,7 +55,15 @@
         "ATC Track": "Rise",
         "ATC Artists": [
             "Craig Armstrong"
-        ]
+        ],
+        "Result Track Name": "Rise",
+        "Result Artist Names": [
+            "Craig Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64VsZpFZ5KrILaKQxEiIpW",
+        "Result Album Name": "The Space Between Us"
     },
     {
         "Title": "Businesses Manage Life's Irksome Details",
@@ -58,13 +75,26 @@
         "ATC Track": "Tony",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Tony",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KWRXQmzLwtSZjLY0iaNZA",
+        "Result Album Name": "Unspeakable"
     },
     {
         "ATC Track": "Aires Tropicales, Contradanza",
         "ATC Artists": [
             "The Classical Underground"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sunnis Reject Newly Signed Iraq Constitution",
@@ -76,7 +106,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Book Explores Wollstonecraft's Life",
@@ -94,7 +132,12 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Meet New Host Debbie Elliott",
@@ -106,18 +149,36 @@
         "ATC Track": "A Breeze from Alabama, march & ragtime two-step for piano",
         "ATC Artists": [
             "Giovanni De Chiaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "WOODCUTS (AFTER SATIE)",
         "ATC Artists": [
             "NANCY ZELTSMAN"
-        ]
+        ],
+        "Result Track Name": "Woodcuts (After Satie)",
+        "Result Artist Names": [
+            "Nancy Zeltsman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uvhsl9hLD5kPHbc5ikXvP",
+        "Result Album Name": "Woodcuts: Music for Solo Marimba"
     },
     {
         "ATC Track": "Maria Cecile",
         "ATC Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

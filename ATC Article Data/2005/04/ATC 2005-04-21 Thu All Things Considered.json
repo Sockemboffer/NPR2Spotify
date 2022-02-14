@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-04-21",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 23:39:35"
+        "Scanned Date": "2022-02-06 23:39:35",
+        "Playlist URI": "5HQrH5q9pi0oT7f6cJLMxG",
+        "Playlist Link": "https://open.spotify.com/playlist/5HQrH5q9pi0oT7f6cJLMxG",
+        "Snapshot ID": "MSw4ZWE4ZDUwNmRlMGI1ZDJlN2QyMjAzNmI5M2ZiZjE4NWEzNDkxZGE4",
+        "Playlist Name": "ATC 2005-04-21 Thu All Things Considered"
     },
     {
         "Title": "U.S. Struggles to Maintain Order in Mosul",
@@ -22,13 +26,29 @@
         "ATC Track": "BURIED AT SEA",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Buried At Sea",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75f5DJSrXyqHiUQwtjTg5K",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "ATC Track": "On the Floor",
         "ATC Artists": [
             "Lakuna"
-        ]
+        ],
+        "Result Track Name": "On the Floor",
+        "Result Artist Names": [
+            "Lakuna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HpN01ucx3DdKU9g82kGQB",
+        "Result Album Name": "Castle of Crime"
     },
     {
         "Title": "Documentary Has Inside Look at Enron",
@@ -40,13 +60,29 @@
         "ATC Track": "Train Travel",
         "ATC Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Train Travel",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AOS93Rn09DeIWJJ6iXicz",
+        "Result Album Name": "New Everything"
     },
     {
         "ATC Track": "White Fang",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "White Fang",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Q7XKjSQrOvw5F1uIEymF1",
+        "Result Album Name": "Unspeakable"
     },
     {
         "Title": "House Passes Energy Bill",
@@ -70,7 +106,12 @@
         "ATC Track": "Christopher Columbus",
         "ATC Artists": [
             "James Dapogny's Chicago Jazz Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rebellion in the Regional Ranks",
@@ -82,7 +123,15 @@
         "ATC Track": "THE ALABAMA JUBILEE",
         "ATC Artists": [
             "EVAN MARSHALL"
-        ]
+        ],
+        "Result Track Name": "The Alabama Jubilee",
+        "Result Artist Names": [
+            "Evan Marshall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Zl2Jxoziehy7iUkllC5gu",
+        "Result Album Name": "Mandolin Magic"
     },
     {
         "Title": "Senate Panel Clears Two Judicial Nominees",
@@ -106,7 +155,15 @@
         "ATC Track": "Utne Wire Man",
         "ATC Artists": [
             "Blue Man Group"
-        ]
+        ],
+        "Result Track Name": "Utne Wire Man",
+        "Result Artist Names": [
+            "Blue Man Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GAaXJoifWEUvrlJcCWaCw",
+        "Result Album Name": "Audio"
     },
     {
         "Title": "Florida County Seeks to Redefine the Wildlife Refuge",
@@ -124,7 +181,12 @@
         "ATC Track": "Estoria da Boca",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jury Finds Soldier Guilty of Murder in Attack on Unit",
@@ -143,7 +205,16 @@
         "ATC Artists": [
             "Sharon Shannon",
             "Carlos Nunez"
-        ]
+        ],
+        "Result Track Name": "A Costa De Galicia",
+        "Result Artist Names": [
+            "Sharon Shannon",
+            "Carlos Nuñez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:0BaKxgSgAw5qPEJ1UwnhTs",
+        "Result Album Name": "The Diamond Mountain Sessions"
     },
     {
         "Title": "NYSE to Merge with Archipelago Trading Firm",
@@ -155,7 +226,12 @@
         "ATC Track": "First Edition 1751: Contrapunctus 1",
         "ATC Artists": [
             "Fretwork"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Fresh Start For Jazzman Henry Grimes",
@@ -167,12 +243,25 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Body and Soul",
         "ATC Artists": [
             "Rafael Mendez"
-        ]
+        ],
+        "Result Track Name": "Body and Soul",
+        "Result Artist Names": [
+            "Rafael Méndez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2w7HAJnX9qeeT1kiEiNtu3",
+        "Result Album Name": "The Singing Trumpet"
     }
 ]

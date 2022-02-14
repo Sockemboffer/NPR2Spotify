@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-06-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:35:42"
+        "Scanned Date": "2022-02-06 23:35:42",
+        "Playlist URI": "0HGfdClO2eAyahT1CO0Cb2",
+        "Playlist Link": "https://open.spotify.com/playlist/0HGfdClO2eAyahT1CO0Cb2",
+        "Snapshot ID": "MSxhN2MyYTAxNWJkY2E2YmY2NjE3MmNhOGMwZjY3ZTA0ZTJlNDc3ZGE1",
+        "Playlist Name": "ATC 2005-06-04 Sat All Things Considered"
     },
     {
         "Title": "White House Tries to Deflect Quran Abuse Report",
@@ -18,7 +22,17 @@
             "KETAMA",
             "TOUMANI BIABATE",
             "DANNY THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Jarabi",
+        "Result Artist Names": [
+            "Ketama",
+            "Toumani Diabaté",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:62SpTZPgcuBcygQSb1mC7W",
+        "Result Album Name": "Songhai"
     },
     {
         "Title": "Reviewing the Base-Closing Process",
@@ -36,13 +50,26 @@
         "ATC Track": "Appropriation",
         "ATC Artists": [
             "Doublemranch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Venetian Silhouettes",
         "ATC Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "Venetian Silhouettes",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2O7b992KxN8AFL8PKEa7YT",
+        "Result Album Name": "Guitar Noir"
     },
     {
         "Title": "Guardsman Sees Daughter Graduate Via Satellite",
@@ -54,7 +81,15 @@
         "ATC Track": "SONG FOR MY FATHER",
         "ATC Artists": [
             "HORACE SILVER"
-        ]
+        ],
+        "Result Track Name": "Song For My Father",
+        "Result Artist Names": [
+            "Horace Silver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CDBaGlisZlOJzvx88lL8A",
+        "Result Album Name": "Song For My Father"
     },
     {
         "Title": "Cal Seeks to Hold Role as Los Alamos Manager",
@@ -72,7 +107,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "A Search for Deep Throat's Garage",
@@ -84,13 +127,29 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "mojave",
         "ATC Artists": [
             "insect surfers"
-        ]
+        ],
+        "Result Track Name": "Mojave",
+        "Result Artist Names": [
+            "Insect Surfers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yCj1CDthDWvLUwogKr49z",
+        "Result Album Name": "Reverb Sun"
     },
     {
         "Title": "A Conversation with Maurice Sendak",
@@ -102,18 +161,39 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Quiet Village",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Quiet Village",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rcLQbmTOmJVaEhD377VFO",
+        "Result Album Name": "88 Elmira St."
     },
     {
         "ATC Track": "The Lone Official",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "The Lone Official",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bcwG2yt0hXKZ7eeACVobs",
+        "Result Album Name": "Aw C'mon"
     }
 ]

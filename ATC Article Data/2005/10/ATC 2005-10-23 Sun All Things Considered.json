@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-10-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:29:27"
+        "Scanned Date": "2022-02-06 23:29:27",
+        "Playlist URI": "5GNnQICyiJJvQANxAFdn1c",
+        "Playlist Link": "https://open.spotify.com/playlist/5GNnQICyiJJvQANxAFdn1c",
+        "Snapshot ID": "MSwwNTMwYWVlMDU3OGM0Nzk2ODhkNmM3NTJmNjk5YTY5NGRmZjAxN2Rh",
+        "Playlist Name": "ATC 2005-10-23 Sun All Things Considered"
     },
     {
         "Title": "Wilma Floods Yucatan, Strands Tourists",
@@ -28,13 +32,29 @@
         "ATC Track": "RESOLUTION",
         "ATC Artists": [
             "VICTOR WOOTEN"
-        ]
+        ],
+        "Result Track Name": "Resolution - Instrumental",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YvQc9nD04qBqhhi3c7iIh",
+        "Result Album Name": "Yin-Yang"
     },
     {
         "ATC Track": "What You Love You Must Love Now",
         "ATC Artists": [
             "Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "What You Love You Must Love Now",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2R7bTCbxSrVlHkZDaQbVs2",
+        "Result Album Name": "Everywhere And Right Here"
     },
     {
         "Title": "Vatican Synod Ends with No Surprises",
@@ -58,7 +78,15 @@
         "ATC Track": "Not in My House",
         "ATC Artists": [
             "Mylab"
-        ]
+        ],
+        "Result Track Name": "Not in My House",
+        "Result Artist Names": [
+            "Mylab"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27agpZWE8R3dBowD3V3rcy",
+        "Result Album Name": "Mylab"
     },
     {
         "Title": "Rat's Tale Highlights Difficulty of Tracking a Pest",
@@ -70,7 +98,12 @@
         "ATC Track": "ANTHROPOLOGY",
         "ATC Artists": [
             "STEVEN KING"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ethicist: How Much Hurricane Help Is Enough?",
@@ -94,19 +127,41 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Dawgwood",
         "ATC Artists": [
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "Dawgwood",
+        "Result Artist Names": [
+            "DAVID GRISMAN QUINTET"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52PsgP1b2EjQt21uqlo9tR",
+        "Result Album Name": "Dawgwood"
     },
     {
         "ATC Track": "Swing '42",
         "ATC Artists": [
             "David Grisman",
             "Tony Rice"
-        ]
+        ],
+        "Result Track Name": "Swing '42",
+        "Result Artist Names": [
+            "David Grisman",
+            "Tony Rice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1TguVCVSLQCzM8GnGsvaBT",
+        "Result Album Name": "Tone Poems"
     }
 ]

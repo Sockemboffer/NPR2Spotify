@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-06-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:36:37"
+        "Scanned Date": "2022-02-06 23:36:37",
+        "Playlist URI": "5wn0wyqxFdcaTh5Et0LcuM",
+        "Playlist Link": "https://open.spotify.com/playlist/5wn0wyqxFdcaTh5Et0LcuM",
+        "Snapshot ID": "MSxmMjAyYWExODk3Y2RhNjgxNTQyNWNkMGM3MzVmYTU5MzNiMWJiMjhi",
+        "Playlist Name": "ATC 2005-06-19 Sun All Things Considered"
     },
     {
         "Title": "Lebanon Wraps up Final Round of Elections",
@@ -28,14 +32,30 @@
         "ATC Track": "Through the Wind",
         "ATC Artists": [
             "Danny Wright"
-        ]
+        ],
+        "Result Track Name": "Through the Wind",
+        "Result Artist Names": [
+            "Danny Zaki"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4bAQQHwfHhWcX1ZEYffYfq",
+        "Result Album Name": "Darts in the Dark"
     },
     {
         "ATC Track": "What a Friend We Have in Jesus",
         "ATC Artists": [
             "Martin Simpson",
             "Doug Burns et. al."
-        ]
+        ],
+        "Result Track Name": "What A Friend We Have In Jesus",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4vlBvBuXUCDQy0cjBrTpsR",
+        "Result Album Name": "A Closer Walk With Thee"
     },
     {
         "Title": "The Bush Administration and the Media",
@@ -65,14 +85,28 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "THE THRILL IS GONE",
         "ATC Artists": [
             "JERRY GARCIA",
             "DAVID GRISMAN"
-        ]
+        ],
+        "Result Track Name": "The Thrill Is Gone",
+        "Result Artist Names": [
+            "Jerry Garcia",
+            "David Grisman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3vZle28ViU8KgFFJN3Y4tA",
+        "Result Album Name": "Jerry Garcia & David Grisman"
     },
     {
         "Title": "The Chinese Restaurant in America",
@@ -102,18 +136,39 @@
         "ATC Track": "Mid the Pyramids",
         "ATC Artists": [
             "Mary Lea"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Kite Flying Society",
         "ATC Artists": [
             "Mark Mothersbaugh"
-        ]
+        ],
+        "Result Track Name": "Kite Flying Society - From The \"Rushmore\" Soundtrack",
+        "Result Artist Names": [
+            "Mark Mothersbaugh"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1svSZP9KnsY0rZycSYgPRp",
+        "Result Album Name": "Rushmore"
     }
 ]

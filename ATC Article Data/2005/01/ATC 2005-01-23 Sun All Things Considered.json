@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-01-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:44:20"
+        "Scanned Date": "2022-02-06 23:44:20",
+        "Playlist URI": "1mphLfmyeRnuurpVbMaxmm",
+        "Playlist Link": "https://open.spotify.com/playlist/1mphLfmyeRnuurpVbMaxmm",
+        "Snapshot ID": "MSxjNDVlYzk5MDk5NDkyODg2MmJkNWI5YWU4NDc3MzNlMGNkNmM5ZGZh",
+        "Playlist Name": "ATC 2005-01-23 Sun All Things Considered"
     },
     {
         "Title": "Johnny Carson Dies at 79",
@@ -28,13 +32,26 @@
         "ATC Track": "It's Raining Again",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "It's Raining Again",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7J97tkP5yyGRHd25RNg7zg",
+        "Result Album Name": "A Little Bit of Somethin'"
     },
     {
         "ATC Track": "Dog Psychosis",
         "ATC Artists": [
             "Jim Hoke"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Worlds of Difference': Latter-Day Saints and Indians",
@@ -46,13 +63,26 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Llama Mama",
         "ATC Artists": [
             "Robert Powell"
-        ]
+        ],
+        "Result Track Name": "Llama Mama",
+        "Result Artist Names": [
+            "Robert Powell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LYy9fxz31tFCLjLZgAD9I",
+        "Result Album Name": "Desert Beach"
     },
     {
         "Title": "Roe v. Wade Anniversary: Two Stories",
@@ -64,7 +94,12 @@
         "ATC Track": "Door Harp",
         "ATC Artists": [
             "Michael Houser"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Soccer Mom's Concerns",
@@ -76,7 +111,12 @@
         "ATC Track": "fair and square",
         "ATC Artists": [
             "fats waller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Soderbergh Takes 'Sequel' to Theaters",
@@ -88,18 +128,40 @@
         "ATC Track": "Angel",
         "ATC Artists": [
             "Roy Mette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Theme From Twin Sheiks",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Theme from Twin Sheiks",
+        "Result Artist Names": [
+            "Kalianji",
+            "Ananji"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lCfXGhOyvEaC8UzdReJQM",
+        "Result Album Name": "Bombay 2: Electric Vindaloo"
     },
     {
         "ATC Track": "Neyem, Neyem",
         "ATC Artists": [
             "Besh O Drom"
-        ]
+        ],
+        "Result Track Name": "Neyem, Neyem",
+        "Result Artist Names": [
+            "Besh o droM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TVaKf7kMrTgXtnF2zbYm5",
+        "Result Album Name": "Can't Make Me!"
     }
 ]

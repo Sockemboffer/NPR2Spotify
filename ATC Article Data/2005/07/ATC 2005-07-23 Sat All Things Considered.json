@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-07-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:35:02"
+        "Scanned Date": "2022-02-06 23:35:02",
+        "Playlist URI": "0vyCIzjpAzxQvll3jwE2ID",
+        "Playlist Link": "https://open.spotify.com/playlist/0vyCIzjpAzxQvll3jwE2ID",
+        "Snapshot ID": "MSxlN2Q5NWMwNzBmZmQ1YjNlZTcxNTE4ZmM3MDJkODEzOTljYzUxMzIz",
+        "Playlist Name": "ATC 2005-07-23 Sat All Things Considered"
     },
     {
         "Title": "Egyptian Resort Reels from Terrorist Attack",
@@ -28,13 +32,26 @@
         "ATC Track": "Ocean Beach (cybophonia Cinematic Rmx)",
         "ATC Artists": [
             "Black Mighty Orchestra"
-        ]
+        ],
+        "Result Track Name": "Ocean Beach",
+        "Result Artist Names": [
+            "Black Mighty Orchestra"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bs3xYcyeBztF37B693bL4",
+        "Result Album Name": "To The Sky (Remastered)"
     },
     {
         "ATC Track": "Matt's Bossa",
         "ATC Artists": [
             "Seks Bomba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Guardsman Carries on After Losing Arm in Iraq",
@@ -46,7 +63,15 @@
         "ATC Track": "The Regulator",
         "ATC Artists": [
             "Clutch"
-        ]
+        ],
+        "Result Track Name": "The Regulator",
+        "Result Artist Names": [
+            "Clutch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ni8h8HAJNFwuL9cMWR9XN",
+        "Result Album Name": "Blast Tyrant (Deluxe Edition)"
     },
     {
         "Title": "Treatygate? Judith Miller, Meet John Nugent",
@@ -58,7 +83,15 @@
         "ATC Track": "The Equaliser",
         "ATC Artists": [
             "Clinic"
-        ]
+        ],
+        "Result Track Name": "The Equaliser",
+        "Result Artist Names": [
+            "Clinic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rOVigMneiJOGa0FqiSRg2",
+        "Result Album Name": "Thirteen [Original Motion Picture Soundtrack]"
     },
     {
         "Title": "Yo-Yo Fun, Some Strings Attached",
@@ -70,13 +103,29 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "RE-ENTRY TO MOG",
         "ATC Artists": [
             "101 STRINGS"
-        ]
+        ],
+        "Result Track Name": "Re-Entry to Mog",
+        "Result Artist Names": [
+            "101 Strings Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5XRSOurVxTdxWHa65gRRab",
+        "Result Album Name": "Astro Sounds - From Beyond the Year 2000 (Remastered from the Original Alshire Tapes)"
     },
     {
         "Title": "Hispanic Growth Reflected in Media Boom",
@@ -100,19 +149,40 @@
         "ATC Track": "Money, Money, Money",
         "ATC Artists": [
             "Munich Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": "Money Money Money",
+        "Result Artist Names": [
+            "Royal Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5lTgQBImE9DIpfCnXTe1k7",
+        "Result Album Name": "Hits of Abba"
     },
     {
         "ATC Track": "THE SHADOW OF YOUR SMILE",
         "ATC Artists": [
             "ARTHUR LYMAN"
-        ]
+        ],
+        "Result Track Name": "The Shadow of Your Smile",
+        "Result Artist Names": [
+            "Arthur Lyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XxlisbBGrOFt3EFjsbZSJ",
+        "Result Album Name": "The Shadow of Your Smile"
     },
     {
         "ATC Track": "Where's the Moment",
         "ATC Artists": [
             "Gabrial McNair",
             "David Ralicke et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-05-05",
         "Day": "Thu",
-        "Scanned Date": "2022-02-06 23:37:30"
+        "Scanned Date": "2022-02-06 23:37:30",
+        "Playlist URI": "1chh3Qud00fYmVLVypRBxq",
+        "Playlist Link": "https://open.spotify.com/playlist/1chh3Qud00fYmVLVypRBxq",
+        "Snapshot ID": "MSxhMzc2ZWYyM2ZkNjY4OGMzNGVhYTQwMjA4NjdkYWZhNzc1OTM0YmVi",
+        "Playlist Name": "ATC 2005-05-05 Thu All Things Considered"
     },
     {
         "Title": "Exit Polls Favor Blair in U.K. Election",
@@ -29,13 +33,26 @@
         "ATC Artists": [
             "John Danley",
             "fingerstyle guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "CANARIOS",
         "ATC Artists": [
             "THE MAIR-DAVIS DUO"
-        ]
+        ],
+        "Result Track Name": "Canarios",
+        "Result Artist Names": [
+            "The Albanach Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5rJELFEY3H6WXV04sutTND",
+        "Result Album Name": "The Spirit of the Grain"
     },
     {
         "Title": "Maryland County Wrangles Over Health Class Curriculum",
@@ -47,13 +64,29 @@
         "ATC Track": "Paul's Dance",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Paul's Dance",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:1vOBcrV6ZsM1Ps12rTq0cd",
+        "Result Album Name": "Balearic Ambient"
     },
     {
         "ATC Track": "Coda",
         "ATC Artists": [
             "Trio Globo"
-        ]
+        ],
+        "Result Track Name": "Coda",
+        "Result Artist Names": [
+            "Trio Kolta"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4TP2lvcyjZznqqPCFJs6bH",
+        "Result Album Name": "Trio Kolta, Vol. 1"
     },
     {
         "Title": "Researchers Set Sights on Early Autism Diagnosis",
@@ -77,13 +110,26 @@
         "ATC Track": "The Infanta",
         "ATC Artists": [
             "The Decemberists"
-        ]
+        ],
+        "Result Track Name": "The Infanta",
+        "Result Artist Names": [
+            "The Decemberists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5JfrAbqlA9nppd2Qzh6Nxx",
+        "Result Album Name": "Picaresque"
     },
     {
         "ATC Track": "Variation One",
         "ATC Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Prosecution Rests in Michael Jackson Trial",
@@ -101,13 +147,26 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "beautiful dreamer",
         "ATC Artists": [
             "david schnaufer"
-        ]
+        ],
+        "Result Track Name": "Beautiful Dreamer",
+        "Result Artist Names": [
+            "David Schnaufer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QsgUHOQ40AILCVRHnxoXu",
+        "Result Album Name": "Dulcimer Player Deluxe"
     },
     {
         "Title": "House Approves Military Package with ID Measure",
@@ -125,7 +184,15 @@
         "ATC Track": "one week: oh, well, the piano",
         "ATC Artists": [
             "bill frisell"
-        ]
+        ],
+        "Result Track Name": "Oh Well - The Piano",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qg8XaSQ4pWs9SUwW35SSf",
+        "Result Album Name": "Music For The Films Of Buster Keaton: The High Sign/One Week"
     },
     {
         "Title": "How Fingerprinting Systems Can Fail",
@@ -137,7 +204,17 @@
         "ATC Track": "Mitopa",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Mitopa",
+        "Result Artist Names": [
+            "PAUL-BERT 'ROSSY' RAHASIMANANA",
+            "John Williams",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eJzBfeXLaZwXU53aIQY7Z",
+        "Result Album Name": "John Williams & John Etheridge: Places Between"
     },
     {
         "Title": "Mozambique Study Sees Hope for Ex-Child Soldiers",
@@ -149,13 +226,33 @@
         "ATC Track": "Caravans of Gold",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Caravans of Gold",
+        "Result Artist Names": [
+            "Tunde Jegede"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46Owa1Z34CihrhnY2yK9dh",
+        "Result Album Name": "Lamentation"
     },
     {
         "ATC Track": "Benign",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "The Decline of an American String Quartet: Improvisations: Benign",
+        "Result Artist Names": [
+            "Darol Anger",
+            "David Balakrishnan",
+            "Irene Sazer",
+            "Mark Summer",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0INuqAgJGzsJUEf3mujo6A",
+        "Result Album Name": "Turtle Island String Quartet"
     },
     {
         "Title": "Holocaust Survivor, Camp Liberator Share Memories",
@@ -167,7 +264,15 @@
         "ATC Track": "Sigma",
         "ATC Artists": [
             "Douglas Niedt"
-        ]
+        ],
+        "Result Track Name": "Sigma",
+        "Result Artist Names": [
+            "Douglas Niedt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UIMnXM7YW1Pw3unvA2FSO",
+        "Result Album Name": "Pure Magic"
     },
     {
         "Title": "U.S. Relationship with Sudan a Balancing Act",
@@ -179,13 +284,26 @@
         "ATC Track": "District Attorney Character Sketch No. 2",
         "ATC Artists": [
             "Stuart Weber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "1979 Semi-finalist",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "1979 Semi-Finalist",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17uPeGmP6DrxfIRcNy9067",
+        "Result Album Name": "Give"
     },
     {
         "Title": "Credit Ratings for GM, Ford Downgraded",
@@ -203,12 +321,28 @@
         "ATC Track": "Bewitched",
         "ATC Artists": [
             "Peggy Lee"
-        ]
+        ],
+        "Result Track Name": "Bewitched - Remastered",
+        "Result Artist Names": [
+            "Peggy Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3qXxcecn6FSRx9lkUhK9ro",
+        "Result Album Name": "Ultra-Lounge: TV Town"
     },
     {
         "ATC Track": "Charlotte Mittnacht (The Fabulous Destiny Of...)",
         "ATC Artists": [
             "DeVotchKa"
-        ]
+        ],
+        "Result Track Name": "Charlotte Mittnacht (The Fabulous Destiny Of&)",
+        "Result Artist Names": [
+            "DeVotchKa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Fv5cPfTGOw4bkjAtPH77F",
+        "Result Album Name": "How It Ends"
     }
 ]

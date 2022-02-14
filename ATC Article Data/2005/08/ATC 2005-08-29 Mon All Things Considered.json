@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-08-29",
         "Day": "Mon",
-        "Scanned Date": "2022-02-06 23:33:32"
+        "Scanned Date": "2022-02-06 23:33:32",
+        "Playlist URI": "3zPPvC6ojup8290OvpadFE",
+        "Playlist Link": "https://open.spotify.com/playlist/3zPPvC6ojup8290OvpadFE",
+        "Snapshot ID": "MSw5NjhhMzVkNmU5MzdmNjcwMjZmZWYxYzBmYjM5YTU5OTA0MmJiZjU0",
+        "Playlist Name": "ATC 2005-08-29 Mon All Things Considered"
     },
     {
         "Title": "New Orleans Swims in Katrina's Wake",
@@ -28,13 +32,26 @@
         "ATC Track": "Hurricane Joe",
         "ATC Artists": [
             "Kim Angelis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Kneel Before Him",
         "ATC Artists": [
             "Chris Thile"
-        ]
+        ],
+        "Result Track Name": "Kneel Before Him",
+        "Result Artist Names": [
+            "Chris Thile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:78NPdU00ZLAxt20TC7SUC2",
+        "Result Album Name": "Stealing Second"
     },
     {
         "Title": "Vietnam Frees Thousands of Prisoners",
@@ -52,7 +69,15 @@
         "ATC Track": "STORMY WEATHER",
         "ATC Artists": [
             "BROOKS WILLIAMS"
-        ]
+        ],
+        "Result Track Name": "Stormy Weather",
+        "Result Artist Names": [
+            "Brooks Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kyWWZRnwYRT8Bv1yzuxvj",
+        "Result Album Name": "Back To Mercy"
     },
     {
         "Title": "Radio Rookies: Exploring My Aggression",
@@ -64,13 +89,29 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Organum",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Organum",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:7IbG4WhB6d2MWVVPuqfNRb",
+        "Result Album Name": "Union Cafe"
     },
     {
         "Title": "Baton Rouge Begins Cleanup",
@@ -88,13 +129,26 @@
         "ATC Track": "It's All Around You",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "It's All Around You",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7DKrKzipnL35PcDqdCGrrq",
+        "Result Album Name": "It's All Around You"
     },
     {
         "ATC Track": "Agbadza",
         "ATC Artists": [
             "Wayward Shamans"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Katrina Douses New Orleans, Moves Inland",
@@ -118,13 +172,26 @@
         "ATC Track": "Keep Your Eyes Open",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Keep Your Eyes Open",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40b7j3bYQqtF4gwjNQhoEP",
+        "Result Album Name": "Valentine"
     },
     {
         "ATC Track": "60's Love Theme",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Iraq's President Offers Constitution; Sunnis Protest",
@@ -142,13 +209,29 @@
         "ATC Track": "California Zephyr",
         "ATC Artists": [
             "Lynn Patrick"
-        ]
+        ],
+        "Result Track Name": "California Zephyr",
+        "Result Artist Names": [
+            "Lynn Patrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hFJpLhIIwmOMfP1Egow4V",
+        "Result Album Name": "Winnie's Guitar"
     },
     {
         "ATC Track": "Organism",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "Organism",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6galGfTFHHzsPieYkReYyN",
+        "Result Album Name": "Soul Food Taqueria"
     },
     {
         "Title": "Katrina Makes Way Into Mississippi, Alabama",
@@ -172,7 +255,12 @@
         "ATC Track": "Spaces Between Days, Pt. 3",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Leaving Messages? That's So 20th Century",
@@ -184,13 +272,26 @@
         "ATC Track": "Relaxation Spa Treatment",
         "ATC Artists": [
             "Dan the Automator"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Take Care, Olaf",
         "ATC Artists": [
             "Dianogah"
-        ]
+        ],
+        "Result Track Name": "Take Care, Olaf",
+        "Result Artist Names": [
+            "Dianogah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BtNa9W2wRg9vz26a8vGZK",
+        "Result Album Name": "Millions of Brazilians"
     },
     {
         "Title": "Anti-Fog Coating May Be First to Be Permanent ",
@@ -208,14 +309,24 @@
         "ATC Track": "The Great Esacpe",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Where's the Moment",
         "ATC Artists": [
             "Gabrial McNair",
             "David Ralicke et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "On Assignment in Biloxi for a Hurricane Landfall",

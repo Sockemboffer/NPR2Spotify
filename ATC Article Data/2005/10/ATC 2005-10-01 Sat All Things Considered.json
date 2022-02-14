@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-10-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:28:08"
+        "Scanned Date": "2022-02-06 23:28:08",
+        "Playlist URI": "1F6DAHKCxFNieoA8FGDG3E",
+        "Playlist Link": "https://open.spotify.com/playlist/1F6DAHKCxFNieoA8FGDG3E",
+        "Snapshot ID": "MSxkNjlmODdhMjRiNzU1NDBhNmI3Y2I4N2FhOWZmMDU0YTNiNDZmZTFj",
+        "Playlist Name": "ATC 2005-10-01 Sat All Things Considered"
     },
     {
         "Title": "Bombings Kill 25 as Terror Returns to Bali",
@@ -28,7 +32,15 @@
         "ATC Track": "vak",
         "ATC Artists": [
             "trilok gurtu's crazy saints"
-        ]
+        ],
+        "Result Track Name": "Vak",
+        "Result Artist Names": [
+            "Trilok Gurtu's Crazy Saints"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JsRSFoZ663Ef1HGB5xmSA",
+        "Result Album Name": "Believe"
     },
     {
         "Title": "Connecticut Hands Out Civil Union Licenses",
@@ -52,7 +64,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Iraq's National Theater Hosts Festival",
@@ -76,18 +96,36 @@
         "ATC Track": "Good Beginnings",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BELL OF THE BALL",
         "ATC Artists": [
             "LEROY ANDERSON"
-        ]
+        ],
+        "Result Track Name": "Belle Of The Ball",
+        "Result Artist Names": [
+            "Leroy Anderson"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0F4s5ryAXCfLDD0LOazQyl",
+        "Result Album Name": "The Leroy Anderson Collection"
     },
     {
         "ATC Track": "Ophelia",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

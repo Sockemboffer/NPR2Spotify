@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-10-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:28:37"
+        "Scanned Date": "2022-02-06 23:28:37",
+        "Playlist URI": "3T6zb0QvGm5xMW54NoXbN5",
+        "Playlist Link": "https://open.spotify.com/playlist/3T6zb0QvGm5xMW54NoXbN5",
+        "Snapshot ID": "MSw2MmJkMmUxOTY4YmI3MTk0YTFiODUyNmZiMjJiNGFmNzE3YTJhOTVk",
+        "Playlist Name": "ATC 2005-10-09 Sun All Things Considered"
     },
     {
         "Title": "Pakistan Gets Disaster Aid as Quake Toll Mounts",
@@ -17,7 +21,12 @@
         "ATC Artists": [
             "Terence Blanchard",
             "Morgan Freeman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rice to Push Democracy in Central Asia",
@@ -29,13 +38,26 @@
         "ATC Track": "Middle of the Night",
         "ATC Artists": [
             "Sepehr"
-        ]
+        ],
+        "Result Track Name": "Middle Of The Night",
+        "Result Artist Names": [
+            "Shahin & Sepehr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6WcNr95dq0uv7J42sc2wps",
+        "Result Album Name": "One Thousand & One Nights"
     },
     {
         "ATC Track": "Haitian Fight Song",
         "ATC Artists": [
             "Hung Drawn Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Many Scenarios in Iraq Constitution Scramble",
@@ -47,7 +69,12 @@
         "ATC Track": "Winning Is Easy",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Democrats Seek Advantage in GOP Strife",
@@ -59,7 +86,15 @@
         "ATC Track": "Entry of the Gladiators",
         "ATC Artists": [
             "Great American Main St. Band"
-        ]
+        ],
+        "Result Track Name": "Opening Entry Of The Gladiators",
+        "Result Artist Names": [
+            "The Great American Main Street Band"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0GEc5UxRPHjd7mjVxELdGr",
+        "Result Album Name": "Under The Big Top"
     },
     {
         "Title": "Hoffman Delivers a Haunting  'Capote'",
@@ -71,13 +106,29 @@
         "ATC Track": "Untitled",
         "ATC Artists": [
             "Simon Jeffes"
-        ]
+        ],
+        "Result Track Name": "Untitled",
+        "Result Artist Names": [
+            "Simon Jeffes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12Te4vyDBRC1FB5A8oBvE6",
+        "Result Album Name": "Piano Music"
     },
     {
         "ATC Track": "The Lover's Dream",
         "ATC Artists": [
             "Carl Weingarten"
-        ]
+        ],
+        "Result Track Name": "The Lover's Dream",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Bu5fUeAeUiIeZ2z0HIy0X",
+        "Result Album Name": "Escapesilence / Local Journeys"
     },
     {
         "Title": "New Orleans Eatery Eyes a Smaller Bite",
@@ -103,7 +154,17 @@
             "KETAMA",
             "TOUMANI BIABATE",
             "DANNY THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Jarabi",
+        "Result Artist Names": [
+            "Ketama",
+            "Toumani Diabaté",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:62SpTZPgcuBcygQSb1mC7W",
+        "Result Album Name": "Songhai"
     },
     {
         "Title": "Ruth Rendell, Taking Readers '13 Steps Down'",
@@ -115,12 +176,25 @@
         "ATC Track": "BAGATELLE IN C MAJOR, WO0 56: ALLEGRETTO",
         "ATC Artists": [
             "JOHN O'CONOR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sharp Briar",
         "ATC Artists": [
             "The American Analog Set"
-        ]
+        ],
+        "Result Track Name": "Sharp Briar",
+        "Result Artist Names": [
+            "The American Analog Set"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jSTOCrgtloFtPWA3df3tX",
+        "Result Album Name": "Set Free"
     }
 ]

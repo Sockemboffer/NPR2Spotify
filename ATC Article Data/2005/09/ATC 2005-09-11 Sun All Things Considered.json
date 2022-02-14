@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-09-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:30:33"
+        "Scanned Date": "2022-02-06 23:30:33",
+        "Playlist URI": "5e9CTH3ihAgA7mEEkUa4fa",
+        "Playlist Link": "https://open.spotify.com/playlist/5e9CTH3ihAgA7mEEkUa4fa",
+        "Snapshot ID": "MSw1ZGQ3ZDY1NmFhMDQzYTc4MmQyNjYyNTA4MDg1NzRkNDdhMzdhNGU2",
+        "Playlist Name": "ATC 2005-09-11 Sun All Things Considered"
     },
     {
         "Title": "In New Orleans, a Memorial Pause for Workers",
@@ -28,7 +32,12 @@
         "ATC Track": "Just Friends",
         "ATC Artists": [
             "Milt Hinton"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Societies Play Role in Supreme Court Nomination Debate",
@@ -46,7 +55,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Europeans' Sympathy on Katrina Tinged with Criticism",
@@ -64,13 +81,30 @@
         "ATC Track": "Suite for keyboard in G minor, HWV 452",
         "ATC Artists": [
             "Keith Jarrett"
-        ]
+        ],
+        "Result Track Name": "Suite in G Minor, HWV 452: 4. Gigue",
+        "Result Artist Names": [
+            "George Frideric Handel",
+            "Keith Jarrett"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:0bCmsuemBZMLBRev1TI3nQ",
+        "Result Album Name": "Handel: Suites For Keyboard"
     },
     {
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Bloomberg Draws Support from Democratic Corners",
@@ -94,7 +128,12 @@
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "9/11 Musical Memorial",
@@ -106,12 +145,30 @@
         "ATC Track": "Träumerei, Op. 9, No. 4",
         "ATC Artists": [
             "John O'Conor"
-        ]
+        ],
+        "Result Track Name": "Stimmungsbilder, Op. 9, TrV 128: No. 4, Träumerei",
+        "Result Artist Names": [
+            "Richard Strauss",
+            "John O'Conor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Bo7jBK2myGpKZ9BnK52xR",
+        "Result Album Name": "Autumn Songs: Popular Works for Solo Piano"
     },
     {
         "ATC Track": "Prelude in C Major",
         "ATC Artists": [
             "John O'Conor"
-        ]
+        ],
+        "Result Track Name": "The Well-Tempered Clavier, Book 1: Prelude No. 1 in C Major, BWV 846",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "John O'Conor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rH37DIR5NDsM2HiZMKTnC",
+        "Result Album Name": "Classical Naptime for Tots"
     }
 ]

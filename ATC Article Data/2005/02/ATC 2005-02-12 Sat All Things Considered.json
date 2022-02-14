@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-02-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:42:18"
+        "Scanned Date": "2022-02-06 23:42:18",
+        "Playlist URI": "5WcwvpvdEQT8VTcxmyIVBe",
+        "Playlist Link": "https://open.spotify.com/playlist/5WcwvpvdEQT8VTcxmyIVBe",
+        "Snapshot ID": "MSw5NTVkY2E3M2IxYmI2NGI1YjNiNDc3NTViM2UyZDNiNGJlMWYxNzc5",
+        "Playlist Name": "ATC 2005-02-12 Sat All Things Considered"
     },
     {
         "Title": "Dean Takes Over as DNC Chairman",
@@ -30,13 +34,26 @@
             "GIL SHAham",
             "LONDON SYMPHONY ORCHESTRA W",
             "ANDRE PREVIN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "1968",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "1968",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RLIzLk4dl8uAYCjUZLlor",
+        "Result Album Name": "Unspeakable"
     },
     {
         "Title": "Book Takes Look at 'China, Inc.'",
@@ -54,7 +71,12 @@
         "ATC Track": "The As Usual Dance Towards the Other Flight to What Is Not, Pt. 3",
         "ATC Artists": [
             "Fred Frith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Internet Tutors from India Aid U.S. Kids with Math",
@@ -66,13 +88,29 @@
         "ATC Track": "Four Blue Poles",
         "ATC Artists": [
             "Clogs"
-        ]
+        ],
+        "Result Track Name": "Four Blue Poles",
+        "Result Artist Names": [
+            "Clogs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yPvHz123zi10lj4unBlNX",
+        "Result Album Name": "Thom's Night Out"
     },
     {
         "ATC Track": "Sweet Hardwood: Spiritual",
         "ATC Artists": [
             "Ethel"
-        ]
+        ],
+        "Result Track Name": "Sweet Hardwood: Spiritual - Live",
+        "Result Artist Names": [
+            "Ethel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xAScdGCqEoNRYLfeCHe3z",
+        "Result Album Name": "State Theater New Jersey 2005 (Live)"
     },
     {
         "Title": "New AIDS Strain Worries Health Officials",
@@ -103,19 +141,40 @@
         "ATC Artists": [
             "Nick Cave",
             "the Bad Seeds"
-        ]
+        ],
+        "Result Track Name": "The Weeping Song - 2010 Remastered Version",
+        "Result Artist Names": [
+            "Nick Cave & The Bad Seeds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7A4qkJulbEMvveTLvj7Tbo",
+        "Result Album Name": "The Good Son (2010 Remastered Version)"
     },
     {
         "ATC Track": "Sthlm",
         "ATC Artists": [
             "Vandermark 5"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Metrics",
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": "The Metrics",
+        "Result Artist Names": [
+            "Drums & Tuba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BwK0CTHiZKf8HaC6VruXj",
+        "Result Album Name": "Mostly Ape"
     }
 ]

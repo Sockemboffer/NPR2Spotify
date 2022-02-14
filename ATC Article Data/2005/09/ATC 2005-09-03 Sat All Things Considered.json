@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-09-03",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:30:07"
+        "Scanned Date": "2022-02-06 23:30:07",
+        "Playlist URI": "3W98rGCf66lHhBVNGYM0Dw",
+        "Playlist Link": "https://open.spotify.com/playlist/3W98rGCf66lHhBVNGYM0Dw",
+        "Snapshot ID": "MSwzODgxZGNmODhhMDViZDk5NmM3NDU1YWYyZWUxYTI2NTExYWVhZTNj",
+        "Playlist Name": "ATC 2005-09-03 Sat All Things Considered"
     },
     {
         "Title": "Bush Pledges More Help, More Troops",
@@ -28,7 +32,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Hospital at New Orleans Airport Overburdened",
@@ -58,7 +70,12 @@
         "ATC Track": "Requiem, K. 626: Introitus: Requiem",
         "ATC Artists": [
             "La Grande Ecurie et la Chambre du Roy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mississippi Guard to Focus on Food, Water",
@@ -88,7 +105,12 @@
         "ATC Track": "A Map of the World",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Guard Troops Restore Some Order to Big Easy",

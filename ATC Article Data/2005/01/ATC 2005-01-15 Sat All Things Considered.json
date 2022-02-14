@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-01-15",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:43:54"
+        "Scanned Date": "2022-02-06 23:43:54",
+        "Playlist URI": "4xgFzMGkMT2SCEgmCFO53k",
+        "Playlist Link": "https://open.spotify.com/playlist/4xgFzMGkMT2SCEgmCFO53k",
+        "Snapshot ID": "MSw2Yzc4NDhkNWI1ZDA3MmY0MDNiYzRhNWQzMmQxYTlmODQ0OGYxNTE0",
+        "Playlist Name": "ATC 2005-01-15 Sat All Things Considered"
     },
     {
         "Title": "Graner Sentenced to 10 Years",
@@ -28,7 +32,12 @@
         "ATC Track": "OUR RELATIONS SUITE",
         "ATC Artists": [
             "LAUREL AND HARDY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Baltimore Officials Battle Witness Intimidation",
@@ -46,7 +55,15 @@
         "ATC Track": "INT O THE PARADISE",
         "ATC Artists": [
             "WILLIAM ORBIT"
-        ]
+        ],
+        "Result Track Name": "Into The Paradise",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2H5rJao0GsQydSv3s7ktPI",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "Title": "A Father-Son Struggle in 'Elmina's Kitchen'",

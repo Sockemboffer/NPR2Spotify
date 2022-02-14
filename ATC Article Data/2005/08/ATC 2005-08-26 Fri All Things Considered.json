@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2005-08-26",
         "Day": "Fri",
-        "Scanned Date": "2022-02-06 23:33:22"
+        "Scanned Date": "2022-02-06 23:33:22",
+        "Playlist URI": "4TPlWtqyKqKmSSEszx1JTM",
+        "Playlist Link": "https://open.spotify.com/playlist/4TPlWtqyKqKmSSEszx1JTM",
+        "Snapshot ID": "MSw1N2UyZWY3ODRkOTllYTQ3NzU0NGE2YjE5MDY4NmIyNjc5OTE1YmY0",
+        "Playlist Name": "ATC 2005-08-26 Fri All Things Considered"
     },
     {
         "Title": "Panel Gives Ellsworth Air Base a Reprieve",
@@ -28,13 +32,23 @@
         "ATC Track": "Mignon, for piano (Fem Klaverstykker), FS 10/4 (Op. 3/4)",
         "ATC Artists": [
             "Barbara Meister"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MUNDO CIVILIZADO ILLUMINATI MIX",
         "ATC Artists": [
             "HYPER CIVILIZADO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ga. Woman Pardoned 60 Years After Her Execution",
@@ -46,7 +60,12 @@
         "ATC Track": "Dog Psychosis",
         "ATC Artists": [
             "Jim Hoke"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Short Fiction: 'Persecuted'",
@@ -58,7 +77,12 @@
         "ATC Track": "Q SAMBA SUB DUB MIX",
         "ATC Artists": [
             "HYPER CIVILIZADO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cheney's Policy Influence Is Unabated",
@@ -70,7 +94,12 @@
         "ATC Track": "Dog Psychosis",
         "ATC Artists": [
             "Jim Hoke"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Dictionary by Rock Snobs, for Rock Snobs",
@@ -82,7 +111,12 @@
         "ATC Track": "Back It Up",
         "ATC Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Female Leagues Lead Roller Derby Revival",
@@ -100,7 +134,12 @@
         "ATC Track": "Scherzo-tarantella",
         "ATC Artists": [
             "Julianne Markavitch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Shiites: No Agreement on Iraq's Draft Constitution",
@@ -118,7 +157,12 @@
         "ATC Track": "A Good One",
         "ATC Artists": [
             "Rick Holmstrom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Katrina Soaks Florida, Gains Force in Gulf",
@@ -136,7 +180,15 @@
         "ATC Track": "Eye of the Hurricane",
         "ATC Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "The Eye Of The Hurricane - Remastered",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FBHUgNaKpWvTn9ArrGFmH",
+        "Result Album Name": "Maiden Voyage"
     },
     {
         "Title": "A Tale of Two Goats -- Barbecued",
@@ -160,7 +212,16 @@
         "ATC Track": "Tocceilidh",
         "ATC Artists": [
             "Lara St. John"
-        ]
+        ],
+        "Result Track Name": "Tocceilidh",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Lara St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MrCAbH9GPwSvPbdS9vMuy",
+        "Result Album Name": "Re: Bach"
     },
     {
         "Title": "The New Words and Ideas We Need",
@@ -172,7 +233,15 @@
         "ATC Track": "Arriving at Kenny's",
         "ATC Artists": [
             "John Lurie"
-        ]
+        ],
+        "Result Track Name": "Arriving at Kenny's",
+        "Result Artist Names": [
+            "John Lurie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RHaMBq2qVlHtBe8o8vPIn",
+        "Result Album Name": "Fishing With John - Original Music From The Series By John Lurie"
     },
     {
         "Title": "Strategy Shines at Scrabble Championship",
@@ -190,6 +259,14 @@
         "ATC Track": "The National Anthem",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "The National Anthem",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Wgj6jzoI2gYlumXdYAB8U",
+        "Result Album Name": "Kid A"
     }
 ]
