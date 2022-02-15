@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-10-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:49:56"
+        "Scanned Date": "2022-02-06 23:49:56",
+        "Playlist URI": "0Btm4xnU1Y4TyNOER06W8y",
+        "Playlist Link": "https://open.spotify.com/playlist/0Btm4xnU1Y4TyNOER06W8y",
+        "Snapshot ID": "MSw4ZTQ3NjgyMDJjNmFlM2Y1OTAyYTRjN2E2MDYxMGRjMmQxZGQzY2U4",
+        "Playlist Name": "ATC 2006-10-28 Sat All Things Considered"
     },
     {
         "Title": "Bush Campaigns for Indiana Congressman",
@@ -22,13 +26,29 @@
         "ATC Track": "THAT'S GOOD",
         "ATC Artists": [
             "DEVO"
-        ]
+        ],
+        "Result Track Name": "That's Good",
+        "Result Artist Names": [
+            "DEVO"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rVbLdk2mZf0w90Xh69mjC",
+        "Result Album Name": "Oh No! It's Devo"
     },
     {
         "ATC Track": "Swan Lake",
         "ATC Artists": [
             "The Cats"
-        ]
+        ],
+        "Result Track Name": "Swan Lake",
+        "Result Artist Names": [
+            "The Church"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4R4dNzG9e7zu4vuMs8OIDK",
+        "Result Album Name": "Priest = Aura"
     },
     {
         "Title": "Playing the Blame Game on Iraq",
@@ -46,7 +66,16 @@
         "ATC Track": "Luminoso",
         "ATC Artists": [
             "Alexandra Gardner and Enrique Malo Lop"
-        ]
+        ],
+        "Result Track Name": "Luminoso",
+        "Result Artist Names": [
+            "Alexandra Gardner",
+            "Enrique Malo Lop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wgPZEMNe6oW56762Ue0nX",
+        "Result Album Name": "Gardner, A.: Luminoso"
     },
     {
         "Title": "Previewing 'Science Out of the Box'",
@@ -58,7 +87,16 @@
         "ATC Track": "Blurred",
         "ATC Artists": [
             "Billband"
-        ]
+        ],
+        "Result Track Name": "Blurred",
+        "Result Artist Names": [
+            "Bill Ryan",
+            "Billband"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JGjvv2r0ZUeXVyVRSJNH0",
+        "Result Album Name": "Billband: Blurred"
     },
     {
         "Title": "Radio Rides Along on the School Bus",
@@ -70,13 +108,29 @@
         "ATC Track": "DANCE THE DEVIL AWAY",
         "ATC Artists": [
             "OUTBACK"
-        ]
+        ],
+        "Result Track Name": "Dance the Devil Away",
+        "Result Artist Names": [
+            "Outback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iaFV5kzedYVvs6DIVkaTr",
+        "Result Album Name": "Dance the Devil Away"
     },
     {
         "ATC Track": "Shiny, Happy People",
         "ATC Artists": [
             "The String Quartet"
-        ]
+        ],
+        "Result Track Name": "Shiny, Happy People",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:17sznyqk6BhA23sTyQRT6E",
+        "Result Album Name": "VSQ Performs R.E.M."
     },
     {
         "Title": "St. Louis Celebrates World Series Win",
@@ -100,12 +154,28 @@
         "ATC Track": "Midnighter",
         "ATC Artists": [
             "The Champs"
-        ]
+        ],
+        "Result Track Name": "Midnighter",
+        "Result Artist Names": [
+            "The Champs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pfbQyxjTRrzW5IjfL5ryA",
+        "Result Album Name": "Go Champs Go!"
     },
     {
         "ATC Track": "La valse chinoise",
         "ATC Artists": [
             "Les Primitifs Du Futur"
-        ]
+        ],
+        "Result Track Name": "La valse chinoise",
+        "Result Artist Names": [
+            "Les Primitifs Du Futur"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27vhLvbP33tWbCOsgTs5zx",
+        "Result Album Name": "World Musette"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-03-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:02:44"
+        "Scanned Date": "2022-02-07 00:02:44",
+        "Playlist URI": "1aaBAOyrRk8cvFUG92oNT4",
+        "Playlist Link": "https://open.spotify.com/playlist/1aaBAOyrRk8cvFUG92oNT4",
+        "Snapshot ID": "MSwzZDUxZDkyMDJmYTYxN2NmZTk4YmRmNGU0YzU1NDkwNjAxZDg5OGRm",
+        "Playlist Name": "ATC 2006-03-19 Sun All Things Considered"
     },
     {
         "Title": "Iraqis Bitter, But Few Wish for Saddam's Return",
@@ -22,13 +26,27 @@
         "ATC Track": "WISTFUL THINKING",
         "ATC Artists": [
             "RALPH TOWNER"
-        ]
+        ],
+        "Result Track Name": "Wistful Thinking",
+        "Result Artist Names": [
+            "Ralph Towner",
+            "Paolo Fresu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34Zc5Efl8Rm8rxlYyj6k8h",
+        "Result Album Name": "Chiaroscuro"
     },
     {
         "ATC Track": "Katamiya",
         "ATC Artists": [
             "Christian Howes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Day to Day Realities of Life in Iraq",
@@ -46,7 +64,12 @@
         "ATC Track": "Yoshiwara [From Metropolis]",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "News from NCAA Basketball Tourney: Upsetting",
@@ -64,13 +87,26 @@
         "ATC Track": "Angelic Brimstone II",
         "ATC Artists": [
             "Alloy Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "UKULELE RAMBLE",
         "ATC Artists": [
             "JIM BELOFF"
-        ]
+        ],
+        "Result Track Name": "Ukulele Ramble",
+        "Result Artist Names": [
+            "Jim Beloff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42ILDMqZ5jSkki8CIJSqGF",
+        "Result Album Name": "Jim's Dog Has Fleas"
     },
     {
         "Title": "Prime Time's Take on War on Terror",
@@ -88,12 +124,25 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Eternal Future",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

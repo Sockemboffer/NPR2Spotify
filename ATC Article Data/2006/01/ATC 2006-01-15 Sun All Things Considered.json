@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-01-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:05:56"
+        "Scanned Date": "2022-02-07 00:05:56",
+        "Playlist URI": "2Gk6GHP0n4g24PyhN11SfZ",
+        "Playlist Link": "https://open.spotify.com/playlist/2Gk6GHP0n4g24PyhN11SfZ",
+        "Snapshot ID": "MSxkMjM1Y2U0NWJiMjZjMjdjN2U0YWIyYzc2MTNmNThjMGQ1MDcxN2Jk",
+        "Playlist Name": "ATC 2006-01-15 Sun All Things Considered"
     },
     {
         "Title": "Stardust Returns, Comet Dust in Tow",
@@ -16,7 +20,15 @@
         "ATC Track": "Clouds",
         "ATC Artists": [
             "HiM"
-        ]
+        ],
+        "Result Track Name": "Clouds",
+        "Result Artist Names": [
+            "HiM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4y0j1MUh1vFH7k3BjAgxJG",
+        "Result Album Name": "New Features"
     },
     {
         "Title": "U.S. Military Frees Iraqi Journalists",
@@ -28,7 +40,12 @@
         "ATC Track": "Honey Suckle Suite",
         "ATC Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Troops May Not Welcome New Armor Additions",
@@ -40,7 +57,15 @@
         "ATC Track": "Magnified Features",
         "ATC Artists": [
             "HiM"
-        ]
+        ],
+        "Result Track Name": "Magnified Features",
+        "Result Artist Names": [
+            "HiM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hWmzMLbBnl4b4zvk5cP1G",
+        "Result Album Name": "New Features"
     },
     {
         "Title": "Olmert May Have Trouble Rallying Supporters in Vote",
@@ -66,13 +91,31 @@
             "KETAMA",
             "TOUMANI BIABATE",
             "DANNY THOMPSON"
-        ]
+        ],
+        "Result Track Name": "Jarabi",
+        "Result Artist Names": [
+            "Ketama",
+            "Toumani Diabaté",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:62SpTZPgcuBcygQSb1mC7W",
+        "Result Album Name": "Songhai"
     },
     {
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "The Power, and Limitations, of Comfort Food",
@@ -103,18 +146,42 @@
         "ATC Artists": [
             "Laurindo Almeida",
             "Bossa Nova All-Stars"
-        ]
+        ],
+        "Result Track Name": "Recado Bossa Nova",
+        "Result Artist Names": [
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3koVseabtzFqHZ0kOqx5B2",
+        "Result Album Name": "Puro"
     },
     {
         "ATC Track": "A Nega Se Vingou",
         "ATC Artists": [
             "Walter Wanderley"
-        ]
+        ],
+        "Result Track Name": "A Nega Se Vingou",
+        "Result Artist Names": [
+            "Walter Wanderley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WHbMLXoCpLBXNBCXs1yxP",
+        "Result Album Name": "O Samba É Mais Samba Com Walter Wanderley"
     },
     {
         "ATC Track": "It Must Be True",
         "ATC Artists": [
             "John Buzon Trio"
-        ]
+        ],
+        "Result Track Name": "It Must Be True",
+        "Result Artist Names": [
+            "John Buzon Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VlGWGOMwGqLPdrcJjM9gH",
+        "Result Album Name": "Cha Cha Masters"
     }
 ]

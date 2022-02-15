@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-02-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:04:30"
+        "Scanned Date": "2022-02-07 00:04:30",
+        "Playlist URI": "5PqLbgbMAAUP8MHEpa2SoR",
+        "Playlist Link": "https://open.spotify.com/playlist/5PqLbgbMAAUP8MHEpa2SoR",
+        "Snapshot ID": "MSw3YjgxZmNmYjQ5YWEyMDFjNWUyMDEyMzc2YTQwZmExNTU2MDZkZmM3",
+        "Playlist Name": "ATC 2006-02-19 Sun All Things Considered"
     },
     {
         "Title": "Georgia Bill Targets Illegal Immigrants' Wire Transfers",
@@ -28,7 +32,12 @@
         "ATC Track": "MR. EXCITEMENT",
         "ATC Artists": [
             "TIPSY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Philippines 'People Power' Anniversary",
@@ -46,7 +55,17 @@
         "ATC Track": "CON MOTO",
         "ATC Artists": [
             "KAREN KADERAVEK"
-        ]
+        ],
+        "Result Track Name": "Pohádka (Fairy Tale) for Cello and Piano: II. Con moto",
+        "Result Artist Names": [
+            "Leoš Janáček",
+            "Karen Kaderavek",
+            "Randall Hodgkinson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hzIFQVrrtr2iM4PAEo3DA",
+        "Result Album Name": "Cello Alchemy: Music from Russia & Eastern Europe"
     },
     {
         "Title": "'Fateless,' Faithful to the Kertesz Novel",
@@ -58,13 +77,29 @@
         "ATC Track": "New Year's Eve",
         "ATC Artists": [
             "Glenn Phillips"
-        ]
+        ],
+        "Result Track Name": "New Years Eve",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Fj9LXM5kZNpK9ugd01kOm",
+        "Result Album Name": "Walking Through Walls"
     },
     {
         "ATC Track": "Lisbon Antigua",
         "ATC Artists": [
             "Nelson Riddle"
-        ]
+        ],
+        "Result Track Name": "Lisbon Antigua",
+        "Result Artist Names": [
+            "Nelson Riddle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07tMKurz0WxXRP7ktP2r8C",
+        "Result Album Name": "The Best Of Nelson Riddle"
     },
     {
         "Title": "Gun Safety on School Grounds",
@@ -88,18 +123,42 @@
         "ATC Track": "Uncloudy Day",
         "ATC Artists": [
             "Harvey Reid"
-        ]
+        ],
+        "Result Track Name": "Uncloudy Day",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45v7zeruITiTyfu1UYWT53",
+        "Result Album Name": "The Solo Guitar Project, Vol. 1"
     },
     {
         "ATC Track": "Doesn't Anybody Know My Name",
         "ATC Artists": [
             "Billy Strange"
-        ]
+        ],
+        "Result Track Name": "Doesn't Anybody Know My Name",
+        "Result Artist Names": [
+            "Billy Strange"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2scmirD371vRc0sAgqcEc0",
+        "Result Album Name": "Strange Country"
     },
     {
         "ATC Track": "MOUNTAIN GREENERY",
         "ATC Artists": [
             "THE ERNIE FREEMAN COMBO"
-        ]
+        ],
+        "Result Track Name": "Mountain Greenery",
+        "Result Artist Names": [
+            "The Ernie Warren Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1dVZ8a4VAfljXGePofbQ32",
+        "Result Album Name": "An Evening In Peacock Alley at the Waldorf Astoria (Digitally Remastered)"
     }
 ]

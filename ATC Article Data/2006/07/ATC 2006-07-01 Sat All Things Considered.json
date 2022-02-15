@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-07-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:53:51"
+        "Scanned Date": "2022-02-06 23:53:51",
+        "Playlist URI": "7IrbY7VGedYk16qtUDZMGt",
+        "Playlist Link": "https://open.spotify.com/playlist/7IrbY7VGedYk16qtUDZMGt",
+        "Snapshot ID": "MSwxNTcwMmQ1NTI3Mzg5OTczN2NkYThkZDNlYjYzMDczMTQ2Y2MxY2Zj",
+        "Playlist Name": "ATC 2006-07-01 Sat All Things Considered"
     },
     {
         "Title": "Israel Rejects Demands of Soldier's Captor",
@@ -16,7 +20,15 @@
         "ATC Track": "GRACIAS PEPE",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Gracias Pepé",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fHdRUXFFcoaccwouCtUgS",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "Weather Forces NASA to Delay Launch",
@@ -34,13 +46,29 @@
         "ATC Track": "JOURNEY TOWARDS STARS",
         "ATC Artists": [
             "SUN RA"
-        ]
+        ],
+        "Result Track Name": "Journey Towards Stars",
+        "Result Artist Names": [
+            "Sun Ra & His Arkestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WE8NzyoMUiBG0IWukkcBU",
+        "Result Album Name": "Purple Night"
     },
     {
         "ATC Track": "Shasta",
         "ATC Artists": [
             "Kobayashi"
-        ]
+        ],
+        "Result Track Name": "Shasta",
+        "Result Artist Names": [
+            "Kobayashi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ACFA7OW4bJKjVRZ47kLPu",
+        "Result Album Name": "Strange Lights and Resolutions"
     },
     {
         "Title": "Court Alters Strategy for Prosecuting White Collar Crime",
@@ -64,7 +92,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Bacteria Outnumber Cells in Human Body",
@@ -77,13 +113,27 @@
         "ATC Artists": [
             "Doc Cheatham",
             "Nicholas Payton"
-        ]
+        ],
+        "Result Track Name": "Jeepers Creepers",
+        "Result Artist Names": [
+            "Doc Cheatham",
+            "Nicholas Payton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:47Fq0x86anzSgdeOzK3D0v",
+        "Result Album Name": "Doc Cheatham & Nicholas Payton"
     },
     {
         "ATC Track": "MY DADDY ROCKS ME",
         "ATC Artists": [
             "MEMPHIS SLIM"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lloyd Richards, Revered Director, Dies at 87",
@@ -101,12 +151,28 @@
         "ATC Track": "Watermelon Man",
         "ATC Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Watermelon Man",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zQl59dZMzwhrmeSBEgiXY",
+        "Result Album Name": "Head Hunters"
     },
     {
         "ATC Track": "Broken Web",
         "ATC Artists": [
             "Guillermo Klein"
-        ]
+        ],
+        "Result Track Name": "Broken Web",
+        "Result Artist Names": [
+            "Guillermo Klein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OKCZrfCVK8H4o3jorot0U",
+        "Result Album Name": "Los Guachos III"
     }
 ]

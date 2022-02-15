@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-07-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:55:10"
+        "Scanned Date": "2022-02-06 23:55:10",
+        "Playlist URI": "2ogZB8ksqfrr4BXbyrcBw8",
+        "Playlist Link": "https://open.spotify.com/playlist/2ogZB8ksqfrr4BXbyrcBw8",
+        "Snapshot ID": "MSwwM2ZhNzZjMWNmMjg2YWM1YjYyMmU4NDZlNTI0Y2MwMzYwNDJjZWNh",
+        "Playlist Name": "ATC 2006-07-23 Sun All Things Considered"
     },
     {
         "Title": "Israel Maintains Pressure on Southern Lebanon",
@@ -28,7 +32,16 @@
         "ATC Track": "Sonata in C-Sharp Minor (\"Moonlight\"), Op. 27, No. 2",
         "ATC Artists": [
             "Margaret Leng Tan"
-        ]
+        ],
+        "Result Track Name": "Piano Sonata No.14 in C sharp minor, Op.27 No.2 -\"Moonlight\" - transcribed for 2 toy piano's by Margaret Leng Tan: 1. Adagio sostenuto",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Margaret Leng Tan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Jpw3JkGPKXAKLlIUtsInc",
+        "Result Album Name": "The Art of the Toy Piano"
     },
     {
         "Title": "Israeli Women Share Thoughts on Middle East",
@@ -46,7 +59,12 @@
         "ATC Track": "Swinging On a Riff",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "How Should You Respond to a Racist Comment?",
@@ -58,7 +76,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Floyd Landis Takes Crown in Tour de France",
@@ -70,7 +96,15 @@
         "ATC Track": "SHOWROOM DUMMIES",
         "ATC Artists": [
             "KRAFTWERK"
-        ]
+        ],
+        "Result Track Name": "Showroom Dummies - 2009 Remaster",
+        "Result Artist Names": [
+            "Kraftwerk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14WXiFyHivuF9FmGD0c7Ot",
+        "Result Album Name": "Trans-Europe Express (2009 Remaster)"
     },
     {
         "Title": "D.C. Divas Make Full-Contact Fight for Super Bowl",
@@ -82,7 +116,15 @@
         "ATC Track": "Wild Weekend",
         "ATC Artists": [
             "The Rockin' Rebels"
-        ]
+        ],
+        "Result Track Name": "Wild Weekend",
+        "Result Artist Names": [
+            "The Rockin' Rebels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1aPdVWDcTG2Qn0ziCoHkaG",
+        "Result Album Name": "Wild Weekend"
     },
     {
         "Title": "Comic-Book Junkies Descend on San Diego",
@@ -100,18 +142,39 @@
         "ATC Track": "THE CASCADES",
         "ATC Artists": [
             "GUIDO NIELSEN"
-        ]
+        ],
+        "Result Track Name": "The Cascades - A Rag",
+        "Result Artist Names": [
+            "Guido Nielsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HHjYEulkLYLvps4mum59X",
+        "Result Album Name": "Scott Joplin: The Complete Rags, Marches, Waltzes & Songs (1895-1914)"
     },
     {
         "ATC Track": "BOHEMIA RAG",
         "ATC Artists": [
             "GUIDO NIELSEN"
-        ]
+        ],
+        "Result Track Name": "Bohemia",
+        "Result Artist Names": [
+            "Guido Nielsen"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cwTRn183BspTRm5K0FO2W",
+        "Result Album Name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)"
     },
     {
         "ATC Track": "STUMBLING",
         "ATC Artists": [
             "GUIDO NIELSEN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

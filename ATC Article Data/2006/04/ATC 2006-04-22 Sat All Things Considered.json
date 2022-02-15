@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-04-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:01:17"
+        "Scanned Date": "2022-02-07 00:01:17",
+        "Playlist URI": "4h9t19FKMEMThTda9ZrVfu",
+        "Playlist Link": "https://open.spotify.com/playlist/4h9t19FKMEMThTda9ZrVfu",
+        "Snapshot ID": "MSw5MmE2OTE4MjhjMTdlNjExNTJiY2MyMTkwM2RjM2QzZDlhZDllYWNh",
+        "Playlist Name": "ATC 2006-04-22 Sat All Things Considered"
     },
     {
         "Title": "Iraqi Parliament Agrees on Senior Leadership",
@@ -28,13 +32,26 @@
         "ATC Track": "Martin's Mambo",
         "ATC Artists": [
             "Kevin Clark"
-        ]
+        ],
+        "Result Track Name": "Martin's Mambo",
+        "Result Artist Names": [
+            "Kevin Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Uy4MMH2AVkWugg8Zx6DAk",
+        "Result Album Name": "New Orleans Trumpet"
     },
     {
         "ATC Track": "Magnolis Triangle",
         "ATC Artists": [
             "Ellis Marsalis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Backyards May Play Role in Climate Change",
@@ -59,13 +76,31 @@
         "ATC Artists": [
             "Edgar Meyer",
             "Béla Fleck et. al."
-        ]
+        ],
+        "Result Track Name": "By The River - Instrumental",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Mike Marshall",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YtV1HVJ8c8MlQeF6xzKAy",
+        "Result Album Name": "The Best of Edgar Meyer"
     },
     {
         "ATC Track": "THIS HERE",
         "ATC Artists": [
             "JIMMY SMITH ET AL"
-        ]
+        ],
+        "Result Track Name": "This Here",
+        "Result Artist Names": [
+            "Jimmy Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5n7aAlXkbjD68or3bYs9WK",
+        "Result Album Name": "Damn!"
     },
     {
         "Title": "Brown and White Eggs, Unscrambled",
@@ -89,6 +124,15 @@
         "ATC Track": "Cherry County",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Cherry County",
+        "Result Artist Names": [
+            "Leo Kottke",
+            "Mike Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FfhgYuxVOVS45bXgFwHql",
+        "Result Album Name": "Sixty Six Steps"
     }
 ]

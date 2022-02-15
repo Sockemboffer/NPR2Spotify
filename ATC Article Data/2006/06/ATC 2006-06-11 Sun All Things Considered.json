@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-06-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:56:12"
+        "Scanned Date": "2022-02-06 23:56:12",
+        "Playlist URI": "0xv7B1bE4sRIYAyfZQ8XW9",
+        "Playlist Link": "https://open.spotify.com/playlist/0xv7B1bE4sRIYAyfZQ8XW9",
+        "Snapshot ID": "MSxiMzY3MGMzYzJjZWRmZjVkYTc1NWM2NDJlN2M0YmEzNzUyOTE2NmI0",
+        "Playlist Name": "ATC 2006-06-11 Sun All Things Considered"
     },
     {
         "Title": "Washington, D.C.: The Week Ahead",
@@ -22,7 +26,15 @@
         "ATC Track": "Nyoka Musango (Enemy in the Jungle)",
         "ATC Artists": [
             "Thomas Mapfumo"
-        ]
+        ],
+        "Result Track Name": "Nyoka Musango",
+        "Result Artist Names": [
+            "Thomas Mapfumo"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gu4QSMTvguH1cHuZAHnNV",
+        "Result Album Name": "Lion Songs: Essential Tracks in the Making of Zimbabwe"
     },
     {
         "Title": "Venezuela Spends Week Preparing for U.S. Invasion",
@@ -34,13 +46,23 @@
         "ATC Track": "Bear No Hair",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Gat Swamba",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cities Try New Approach to Solving Homelessness",
@@ -58,7 +80,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "New Orleans Still Missing Its Most Vital Asset",
@@ -70,13 +100,23 @@
         "ATC Track": "Evening In Atlantis",
         "ATC Artists": [
             "E.s.t."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Micky Fick",
         "ATC Artists": [
             "Art Neville"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Episcopal Forum Tackles Role of Gays in Church",
@@ -94,7 +134,15 @@
         "ATC Track": "Smoothie Song",
         "ATC Artists": [
             "Nickel Creek"
-        ]
+        ],
+        "Result Track Name": "Smoothie Song",
+        "Result Artist Names": [
+            "Nickel Creek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ETiP5S8lbp8w6O7hc70Kk",
+        "Result Album Name": "This Side"
     },
     {
         "Title": "Scientists Grasp for Sense of the Human Touch",
@@ -112,18 +160,39 @@
         "ATC Track": "CINNABAR",
         "ATC Artists": [
             "TIPSY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Gibson Boy",
         "ATC Artists": [
             "Tal Farlow"
-        ]
+        ],
+        "Result Track Name": "Gibson Boy",
+        "Result Artist Names": [
+            "Tal Farlow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6MmPopUNvtLtWZ6v3OeHUk",
+        "Result Album Name": "The Tal Farlow Album"
     },
     {
         "ATC Track": "Magic Step",
         "ATC Artists": [
             "Sam Prekop"
-        ]
+        ],
+        "Result Track Name": "Magic Step",
+        "Result Artist Names": [
+            "Sam Prekop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yIhQ400ppQggsuM2VnEDj",
+        "Result Album Name": "Who's Your New Professor"
     }
 ]

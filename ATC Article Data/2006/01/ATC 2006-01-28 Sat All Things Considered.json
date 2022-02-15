@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-01-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:06:44"
+        "Scanned Date": "2022-02-07 00:06:44",
+        "Playlist URI": "5EOYWs7G8dBs5RwzVvVWR5",
+        "Playlist Link": "https://open.spotify.com/playlist/5EOYWs7G8dBs5RwzVvVWR5",
+        "Snapshot ID": "MSwyMzVlYjg0OWM0YzVjYTA4MmE0ZDlmZjEyODMyYTU5OTUxOWQwYjI3",
+        "Playlist Name": "ATC 2006-01-28 Sat All Things Considered"
     },
     {
         "Title": "Fatah Protests Rock Gaza, West Bank",
@@ -22,13 +26,32 @@
         "ATC Track": "Goldberg2",
         "ATC Artists": [
             "Lara St. John"
-        ]
+        ],
+        "Result Track Name": "Goldberg2",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Brian Gascoigne",
+            "Magnus Fiennes",
+            "Lara St. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MJJA5s6oHoWdgkEQpdAOo",
+        "Result Album Name": "Goldberg2"
     },
     {
         "ATC Track": "INCIDENT ON SOUTH STREET",
         "ATC Artists": [
             "THE LOUNGE LIZARDS"
-        ]
+        ],
+        "Result Track Name": "Incident On South Street",
+        "Result Artist Names": [
+            "The Lounge Lizards"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LHtigiCXBFbNohoRKdF8s",
+        "Result Album Name": "The Lounge Lizards"
     },
     {
         "Title": "Ralph Reed Running in Abramoff's Shadow",
@@ -52,7 +75,12 @@
         "ATC Track": "MUNDO CIVILIZADO ILLUMINATI MIX",
         "ATC Artists": [
             "HYPER CIVILIZADO"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hudson's Bay Company to Have American Owner",
@@ -64,13 +92,29 @@
         "ATC Track": "Cubes",
         "ATC Artists": [
             "Jon Brion"
-        ]
+        ],
+        "Result Track Name": "Cubes",
+        "Result Artist Names": [
+            "Jon Brion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7k9Ec6LGMJ6wadOJ1pRGww",
+        "Result Album Name": "I Love Huckabees (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Blue Moods",
         "ATC Artists": [
             "James P. Johnson"
-        ]
+        ],
+        "Result Track Name": "Blue Moods, Sex",
+        "Result Artist Names": [
+            "James P. Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QykRXiZmBMs386pKF9zEh",
+        "Result Album Name": "Blue Moods, Sex & Charleston"
     },
     {
         "Title": "Floods Didn't Spare New Orleans Graveyards",
@@ -88,7 +132,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Science Fiction Writers Target Global Warming",
@@ -106,18 +158,33 @@
         "ATC Track": "CHINESE NEW YEAR",
         "ATC Artists": [
             "look up"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "WILD CAT BLUES",
         "ATC Artists": [
             "DICK HYMAN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chilli Hot",
         "ATC Artists": [
             "Us3"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

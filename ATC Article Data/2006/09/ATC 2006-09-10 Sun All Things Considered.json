@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-09-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:50:38"
+        "Scanned Date": "2022-02-06 23:50:38",
+        "Playlist URI": "2Tj5OqRisQc30joCqBSjpu",
+        "Playlist Link": "https://open.spotify.com/playlist/2Tj5OqRisQc30joCqBSjpu",
+        "Snapshot ID": "MSwxZmEyZDNjZGMwYTYxZWUzYjk2ZWM2Yjk3Y2FmMzA2ZmRhNTlmNjI5",
+        "Playlist Name": "ATC 2006-09-10 Sun All Things Considered"
     },
     {
         "Title": "Candidates Feel the Pressure in Coming Primaries",
@@ -28,13 +32,29 @@
         "ATC Track": "Moment Musicale, Op.94: No.3",
         "ATC Artists": [
             "Trio Voronezh"
-        ]
+        ],
+        "Result Track Name": "Moment Musicale No. 3 in F Minor D780 Allegro Moderate",
+        "Result Artist Names": [
+            "Trio Voronezh"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4f0pTG2yWOEe1k5Tu0D2Xe",
+        "Result Album Name": "A Special Arrangement"
     },
     {
         "ATC Track": "Les Demoiselles",
         "ATC Artists": [
             "Harmonia"
-        ]
+        ],
+        "Result Track Name": "Les Demoiselles",
+        "Result Artist Names": [
+            "Harmonia & Eno '76"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09KWmqFs8GDSEu8OnKEVGd",
+        "Result Album Name": "Tracks and Traces"
     },
     {
         "Title": "Two Novelists, Two Views of the Middle East",
@@ -46,13 +66,30 @@
         "ATC Track": "MELODIE, OP 3 NO 3",
         "ATC Artists": [
             "SERGEI RACHMANINOFF"
-        ]
+        ],
+        "Result Track Name": "Melodie in E Major, Op. 3, No. 3",
+        "Result Artist Names": [
+            "Sergei Rachmaninoff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3FYpYe70m2ClL4IOYf3CBm",
+        "Result Album Name": "Classical Music for the Home: Rachmaninoff"
     },
     {
         "ATC Track": "Sonata clasica: Allegro",
         "ATC Artists": [
             "Jason Vieaux"
-        ]
+        ],
+        "Result Track Name": "Sonata clasica: I. Allegro",
+        "Result Artist Names": [
+            "Manuel Ponce",
+            "Jason Vieaux"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HNO6c61eNud1suzsmKLit",
+        "Result Album Name": "Ponce, M.M.: Sonatina Meridional / Sonata Mexicana / Sonata Clasica / Guitar Sonata No. 3 / Sonata Romantica"
     },
     {
         "Title": "Formula 1 Racing Legend Announces Retirement",
@@ -70,7 +107,17 @@
         "ATC Track": "INDIAN CONCERTINO: AN INDIAN STORY",
         "ATC Artists": [
             "LAWRENCE GOLAN"
-        ]
+        ],
+        "Result Track Name": "Indian Concertino: An Indian Story",
+        "Result Artist Names": [
+            "George Perlman",
+            "Lawrence Golan",
+            "Martin Perry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Nilht8JKGuVbBVa8zuMPh",
+        "Result Album Name": "Indian Summer"
     },
     {
         "Title": "CEO Makes Her Mark in Crisis Management",
@@ -88,18 +135,38 @@
         "ATC Track": "Manchega, étude de concert for piano, Op. 38, D. 86 (RO 143)",
         "ATC Artists": [
             "Cecile Licad"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SYMPHONIC DANCES FROM WEST SIDE STORY: \"SOMEWHERE\" ADAGIO",
         "ATC Artists": [
             "leonard bernstein and new york philharmonic"
-        ]
+        ],
+        "Result Track Name": "Symphonic Dances from \"West Side Story\" *: Symphonic Dances from West Side Story: Somewhere (Adagio)",
+        "Result Artist Names": [
+            "Leonard Bernstein",
+            "New York Philharmonic",
+            "West Side Story Original Broadway Cast"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Pm3T2GGaBZ5mBYKdbqEVQ",
+        "Result Album Name": "West Side Story (Original Broadway Cast Recording)"
     },
     {
         "ATC Track": "Impromptu in Two Keys, for piano",
         "ATC Artists": [
             "Richard Glazier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

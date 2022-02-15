@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-04-19",
         "Day": "Wed",
-        "Scanned Date": "2022-02-07 00:01:08"
+        "Scanned Date": "2022-02-07 00:01:08",
+        "Playlist URI": "2ZFDYwlB9xpBVcyUiFphLB",
+        "Playlist Link": "https://open.spotify.com/playlist/2ZFDYwlB9xpBVcyUiFphLB",
+        "Snapshot ID": "MSw2MzVhYmI0MmFjYWJlN2JiMzQ2YjRjM2NlZTVmNmRhMGU3NGNlYmY0",
+        "Playlist Name": "ATC 2006-04-19 Wed All Things Considered"
     },
     {
         "Title": "Militant Bombing Plot Foiled, Egyptians Say",
@@ -28,7 +32,12 @@
         "ATC Track": "Cool",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Short of Teachers, New York Tries a Housing Lure",
@@ -40,7 +49,12 @@
         "ATC Track": "Dark Comes Light",
         "ATC Artists": [
             "Crowsong"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Environmental Record of Bush's Pick for Interior",
@@ -52,14 +66,31 @@
         "ATC Track": "Silent Sigh",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "Silent Sigh",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70wcWw5mdlri2oh6RjNUFO",
+        "Result Album Name": "About A Boy Soundtrack"
     },
     {
         "ATC Track": "Caballo Viejo",
         "ATC Artists": [
             "Ry Cooder",
             "Manuel Galbán"
-        ]
+        ],
+        "Result Track Name": "Caballo viejo",
+        "Result Artist Names": [
+            "Ry Cooder",
+            "Manuel Galbán"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5kDnoVuoulSx42y7xmRn9S",
+        "Result Album Name": "Mambo Sinuendo"
     },
     {
         "Title": "Out of Hiding, Into the World: Thembi's AIDS Diary",
@@ -71,7 +102,15 @@
         "ATC Track": "Breaking the Ethers/Serengeti",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Breaking The Ethers\\Serengeti",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LdBgztm20s2ZPkYjoi6j5",
+        "Result Album Name": "Breaking The Ethers"
     },
     {
         "Title": "McClellan Out as White House Shake-Up Continues",
@@ -95,13 +134,26 @@
         "ATC Track": "Amanjiwo",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "CUTTING BRANCHES FOR A TEMPORARY SHELTER",
         "ATC Artists": [
             "PENGUIN CAFE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Cutting Branches For A Temporary Shelter - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Lm3loChnSsNS37nxvLYcN",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "Title": "Scandals Ignite Debate on Vietnam's Free Press",
@@ -137,13 +189,27 @@
         "ATC Track": "Merpati",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SONATA NO. 1",
         "ATC Artists": [
             "PAUL GALBRAITH"
-        ]
+        ],
+        "Result Track Name": "Violin Sonata No. 1 in G Minor, BWV 1001 (arr. P. Galbraith): I. Adagio",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Paul Galbraith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3a8vXgiCVyUvKOSEi68z1A",
+        "Result Album Name": "Bach, J.S.: Sonatas and Partitas (Arr. for Guitar)"
     },
     {
         "Title": "Environmentalists: Nature in Crossfire of Border War",
@@ -161,12 +227,25 @@
         "ATC Track": "Segredo [Secret]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Segredo",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XJzdcdtA6UhgYLQ5le0Xu",
+        "Result Album Name": "The Now Sound Of Brazil"
     },
     {
         "ATC Track": "Empress of the Pagodas",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

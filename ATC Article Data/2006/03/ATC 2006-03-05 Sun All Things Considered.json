@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-03-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:01:49"
+        "Scanned Date": "2022-02-07 00:01:49",
+        "Playlist URI": "7uJ1kht91ii5zZzsWVZXOF",
+        "Playlist Link": "https://open.spotify.com/playlist/7uJ1kht91ii5zZzsWVZXOF",
+        "Snapshot ID": "MSw3OGJmOWMwNTcyMjVmNmY5MDY1Y2ViOTAyYTM2MmY5OTIyMGFkMzgw",
+        "Playlist Name": "ATC 2006-03-05 Sun All Things Considered"
     },
     {
         "Title": "Bush Administration Attempts to Stem Leaks",
@@ -29,7 +33,12 @@
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "AT&T to Buy BellSouth in $67 Billion Stock Deal",
@@ -65,7 +74,15 @@
         "ATC Track": "Sloboda",
         "ATC Artists": [
             "Peter Ostroushko"
-        ]
+        ],
+        "Result Track Name": "Sloboda",
+        "Result Artist Names": [
+            "Peter Ostroushko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zaIDqmoVEkVX6TbppRzFJ",
+        "Result Album Name": "Sacred Heart"
     },
     {
         "Title": "Helping Transgender Women Find a New Voice",
@@ -83,12 +100,28 @@
         "ATC Track": "POUND CAKE",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Pound Cake",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5V39sp30BWDe6wxpXKxXBw",
+        "Result Album Name": "Interstate"
     },
     {
         "ATC Track": "BLACKTOP",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Blacktop",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zT4kN7N5IsT6qIQ3d0Dxs",
+        "Result Album Name": "Interstate"
     }
 ]

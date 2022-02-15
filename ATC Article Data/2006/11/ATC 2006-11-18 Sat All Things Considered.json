@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-11-18",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:47:29"
+        "Scanned Date": "2022-02-06 23:47:29",
+        "Playlist URI": "6EIrBA64k05ToaoHDGJMKD",
+        "Playlist Link": "https://open.spotify.com/playlist/6EIrBA64k05ToaoHDGJMKD",
+        "Snapshot ID": "MSxhM2RkOWQ0MzNiZDY2NTcwYWFhNmIxZGRmOTlkOTQwNTJhYmU5ZTE3",
+        "Playlist Name": "ATC 2006-11-18 Sat All Things Considered"
     },
     {
         "Title": "Roundtable: Iraqi-American Perspectives",
@@ -16,13 +20,29 @@
         "ATC Track": "Pastoral Suite",
         "ATC Artists": [
             "Ben Kunin"
-        ]
+        ],
+        "Result Track Name": "Pastoral Suite {i}",
+        "Result Artist Names": [
+            "Ben Kunin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6tWPCnSLr0CK2V3kMJAskq",
+        "Result Album Name": "Acoustic Adventures"
     },
     {
         "ATC Track": "MERCY STREET",
         "ATC Artists": [
             "HERBIE HANCOCK"
-        ]
+        ],
+        "Result Track Name": "Mercy Street",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hitPzdouIPO5pwUvxvcnV",
+        "Result Album Name": "The New Standard"
     },
     {
         "Title": "National Organization for Women at 40",
@@ -34,7 +54,12 @@
         "ATC Track": "The Common Cold",
         "ATC Artists": [
             "The Common Cold"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "What's a Mammal?",
@@ -46,14 +71,27 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blues Music",
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Blues Music",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fUyndBmTsfMmJdwQvf8bT",
+        "Result Album Name": "G. Love And Special Sauce"
     },
     {
         "Title": "A Taste of Home for Troops",
@@ -78,12 +116,28 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Town To Town",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14S0T7YGqn75gjNrBrHDCZ",
+        "Result Album Name": "G. Love And Special Sauce"
     },
     {
         "ATC Track": "An Ear Out",
         "ATC Artists": [
             "Bright"
-        ]
+        ],
+        "Result Track Name": "An Ear Out",
+        "Result Artist Names": [
+            "Bright"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Jhx4qcKa2xpiKDfpQfyVL",
+        "Result Album Name": "Bells Break Their Towers"
     }
 ]

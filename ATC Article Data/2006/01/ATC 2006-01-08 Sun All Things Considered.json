@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-01-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:05:31"
+        "Scanned Date": "2022-02-07 00:05:31",
+        "Playlist URI": "1URIjuzfZtVyPWoHJNenMi",
+        "Playlist Link": "https://open.spotify.com/playlist/1URIjuzfZtVyPWoHJNenMi",
+        "Snapshot ID": "MSxiNTBkNWE2OTkwMjI3NmFkNjJiMTg3ZTRlMjFkZmIwZTc3Yjg1OGRl",
+        "Playlist Name": "ATC 2006-01-08 Sun All Things Considered"
     },
     {
         "Title": "Preview: The Alito Hearings",
@@ -23,13 +27,30 @@
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Kitty 'Tommy, Quick! Get Up. I Can Hear Clogs Goin' up the Street'.",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 0.9629629629629629,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fKejc23WHOQIDBlX580QU",
+        "Result Album Name": "Industry"
     },
     {
         "ATC Track": "Waltz of the Titans",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Waltz of the Titans",
+        "Result Artist Names": [
+            "duke levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38kCzc57KzQNfAMtERNRQo",
+        "Result Album Name": "Country Soul Guitar"
     },
     {
         "Title": "Scams Plague Efforts to Adopt Beyond Borders",
@@ -41,13 +62,30 @@
         "ATC Track": "WISTFUL THINKING",
         "ATC Artists": [
             "RALPH TOWNER"
-        ]
+        ],
+        "Result Track Name": "Wistful Thinking",
+        "Result Artist Names": [
+            "Ralph Towner",
+            "Paolo Fresu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34Zc5Efl8Rm8rxlYyj6k8h",
+        "Result Album Name": "Chiaroscuro"
     },
     {
         "ATC Track": "Tale of Saverio",
         "ATC Artists": [
             "Ralph Towner"
-        ]
+        ],
+        "Result Track Name": "Tale Of Saverio",
+        "Result Artist Names": [
+            "Ralph Towner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01OrvPGkpUNAOFPND6q446",
+        "Result Album Name": "Ana"
     },
     {
         "Title": "Reason Behind the Rhyme: 'Little Jack Horner'",
@@ -59,7 +97,12 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dust Bowl Stories from 'The Worst Hard Time'",
@@ -71,13 +114,26 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "So Long, It's Been Good to Know You",
         "ATC Artists": [
             "Woody Guthrie"
-        ]
+        ],
+        "Result Track Name": "So Long, It's Been Good to Know You (Wwii Version)",
+        "Result Artist Names": [
+            "Woody Guthrie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rZXmhiE2yw9mF1LPOtWIl",
+        "Result Album Name": "Woody At 100: The Woody Guthrie Centennial Collection"
     },
     {
         "Title": "New Orleans Kicks Off Mardi Gras Season",
@@ -89,19 +145,41 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Broken Windmill",
         "ATC Artists": [
             "Tom Mcdermott",
             "Evan Christopher"
-        ]
+        ],
+        "Result Track Name": "The Broken Windmill",
+        "Result Artist Names": [
+            "Tom McDermott",
+            "Evan Christopher"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WyUgSbUrFr9m6WU5xs0CD",
+        "Result Album Name": "Danza"
     },
     {
         "ATC Track": "St. Phillip Street Breakdown",
         "ATC Artists": [
             "Dr. Michael White"
-        ]
+        ],
+        "Result Track Name": "St. Phillip Street Breakdown",
+        "Result Artist Names": [
+            "Dr. Michael White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DMnJr3xqZZYdSu9UKOgfD",
+        "Result Album Name": "A Song For George Lewis"
     }
 ]

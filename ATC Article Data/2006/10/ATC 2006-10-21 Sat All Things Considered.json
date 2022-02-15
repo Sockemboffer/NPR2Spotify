@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-10-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:49:33"
+        "Scanned Date": "2022-02-06 23:49:33",
+        "Playlist URI": "68if0PnaBg0J5SH6uF4y7I",
+        "Playlist Link": "https://open.spotify.com/playlist/68if0PnaBg0J5SH6uF4y7I",
+        "Snapshot ID": "MSw4MmRkNDJkNDk3MDNlZjZiY2NhMmQ4NTA5MmRmY2Y3N2ExZWM5YjFj",
+        "Playlist Name": "ATC 2006-10-21 Sat All Things Considered"
     },
     {
         "Title": "Democrats Urge Bush to Change Course in Iraq",
@@ -28,13 +32,26 @@
         "ATC Track": "Hey Tulip, Tulip",
         "ATC Artists": [
             "The Crofut Consort"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Smilin' Jones",
         "ATC Artists": [
             "Bill Frisell Band"
-        ]
+        ],
+        "Result Track Name": "Smilin' Jones",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5QurFwdIzLTizHdk2vhaP2",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "Title": "Tigers, Cardinals Kick Off World Series",
@@ -64,13 +81,23 @@
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "LITTLE DANCE IN CANON FORM",
         "ATC Artists": [
             "THE CROFUT CONSORT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Emma Lazarus, Poet of the Huddled Masses",
@@ -88,13 +115,30 @@
         "ATC Track": "Senza Mamma",
         "ATC Artists": [
             "Licia Albanese"
-        ]
+        ],
+        "Result Track Name": "Senza mamma bimbo tu sei morto (Suor Angelica)",
+        "Result Artist Names": [
+            "Licia Albanese",
+            "RCA Victor Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0w5IMnmZAipkvPQnyntBaW",
+        "Result Album Name": "Lebendige Vergangenheit - Licia Albanese (Vol.2)"
     },
     {
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Quando M'en Vo Soletta",
@@ -102,6 +146,11 @@
             "Columbia Symphony Orchestra",
             "New York Philharmonic",
             "Kostelanetz Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

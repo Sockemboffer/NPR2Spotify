@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-05-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:58:20"
+        "Scanned Date": "2022-02-06 23:58:20",
+        "Playlist URI": "5Bzg4Wl0IE3VBRQFqRD6nD",
+        "Playlist Link": "https://open.spotify.com/playlist/5Bzg4Wl0IE3VBRQFqRD6nD",
+        "Snapshot ID": "MSxiOGNiZTUyNGQ3MmZiYzY4MWMwZTc5NDI2Y2UwNjJiOTU4MjllZjM4",
+        "Playlist Name": "ATC 2006-05-06 Sat All Things Considered"
     },
     {
         "Title": "CIA Shakeup May Have Doomed Goss",
@@ -28,7 +32,12 @@
         "ATC Track": "Piso Control (Jive Eclectico)",
         "ATC Artists": [
             "Senor Coconut"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Acquittal in U.S. Reporter's Murder Draws Appeal",
@@ -58,7 +67,17 @@
         "ATC Track": "CHERRY BEAT",
         "ATC Artists": [
             "THE IN GROUP"
-        ]
+        ],
+        "Result Track Name": "Cherry Beat",
+        "Result Artist Names": [
+            "The IN Group",
+            "Glen Campbell",
+            "Leon Russell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zqvAQ4QKG9SOr2ekKMb2n",
+        "Result Album Name": "The Swinging 12 String"
     },
     {
         "Title": "Reporters' Notes Subpoenaed in Steroids Case",
@@ -82,13 +101,31 @@
         "ATC Track": "You Go to My Head [#]",
         "ATC Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "You Go To My Head",
+        "Result Artist Names": [
+            "Dave Brubeck",
+            "Paul Desmond"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05XdYcdJp1knYoAOclTxV9",
+        "Result Album Name": "Dave Brubeck And Paul Desmond"
     },
     {
         "ATC Track": "Brandenburg Gate",
         "ATC Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Brandenburg Gate - Remastered",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet",
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aNXyfB9Nor0OVvEsyO7Cb",
+        "Result Album Name": "Jazz Impressions Of Eurasia"
     },
     {
         "Title": "Happy Birthday, Sigmund Freud",

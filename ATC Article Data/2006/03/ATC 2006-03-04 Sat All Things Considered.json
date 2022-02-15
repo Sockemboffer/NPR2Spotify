@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-03-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:01:47"
+        "Scanned Date": "2022-02-07 00:01:47",
+        "Playlist URI": "1GXIisY1NIwa4vV8i85Fl3",
+        "Playlist Link": "https://open.spotify.com/playlist/1GXIisY1NIwa4vV8i85Fl3",
+        "Snapshot ID": "MSxkYWM1ZTIwZWJmMjg4NDZiMTBhNGRmYThhNjNmYzE1Y2I4OGVkNWVi",
+        "Playlist Name": "ATC 2006-03-04 Sat All Things Considered"
     },
     {
         "Title": "Bush Praises Musharraf's Anti-Terrorism Stance",
@@ -16,7 +20,15 @@
         "ATC Track": "PVC IV",
         "ATC Artists": [
             "Blue Man Group"
-        ]
+        ],
+        "Result Track Name": "PVC IV",
+        "Result Artist Names": [
+            "Blue Man Group"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DRUGJjui3Z365tU435DTp",
+        "Result Album Name": "Audio"
     },
     {
         "Title": "Sudan, U.N. Remain at Odds over Darfur",
@@ -28,14 +40,27 @@
         "ATC Track": "Warszawa",
         "ATC Artists": [
             "David Bowie"
-        ]
+        ],
+        "Result Track Name": "Warszawa - 2017 Remaster",
+        "Result Artist Names": [
+            "David Bowie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DfvrqibQOQLUsN5QKqBJI",
+        "Result Album Name": "Low (2017 Remaster)"
     },
     {
         "ATC Track": "Cochichando",
         "ATC Artists": [
             "Mike Marshall",
             "Choro Famoso"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fires Spark Alabama Congregations' Resolve",
@@ -53,7 +78,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Author Bruce Stutz, 'Chasing Spring'",
@@ -71,13 +104,29 @@
         "ATC Track": "Spring Is Nearly Here",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "Spring Is Nearly Here",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WybrSagfGRf79Wfn7EW0w",
+        "Result Album Name": "The Early Years 1959-1966"
     },
     {
         "ATC Track": "Hammer Blow",
         "ATC Artists": [
             "Skip Martin"
-        ]
+        ],
+        "Result Track Name": "Hammer Blow",
+        "Result Artist Names": [
+            "Skip Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZgFWoAiqhMBBnvFRqa71h",
+        "Result Album Name": "The Music From Mickey Spillane's Mike Hammer"
     },
     {
         "Title": "Stuffing the Wild Pierogi",
@@ -101,12 +150,28 @@
         "ATC Track": "Cactus",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Cactus",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PQCfcIMCkOcO2lf44Y8Kh",
+        "Result Album Name": "Beautiful My Child"
     },
     {
         "ATC Track": "Nomad",
         "ATC Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "nomad",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lSaehdRyGHFPac27MkWkl",
+        "Result Album Name": "Nomad"
     }
 ]

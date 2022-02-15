@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-11-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:46:42"
+        "Scanned Date": "2022-02-06 23:46:42",
+        "Playlist URI": "0ggrMkU8j1M4K8GgnsrnF1",
+        "Playlist Link": "https://open.spotify.com/playlist/0ggrMkU8j1M4K8GgnsrnF1",
+        "Snapshot ID": "MSw0ODczN2NjZTNjNzlhNzg2MDhjMDgxY2M1NTBiYWEyNDEzZTIzYjcz",
+        "Playlist Name": "ATC 2006-11-05 Sun All Things Considered"
     },
     {
         "Title": "Court Sentences Saddam to Death by Hanging",
@@ -34,7 +38,12 @@
         "ATC Track": "Bear No Hair",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pew Poll Shows Strong Last-Minute Gains by GOP",
@@ -59,7 +68,12 @@
         "ATC Artists": [
             "Mike Marshall",
             "Choro Famoso"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Three Vietnamese Americans Held in Vietnam",
@@ -71,7 +85,16 @@
         "ATC Track": "Highlife",
         "ATC Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Highlife",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Rockin' Rhythmaires"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76x5LIWvYqt6RqZ6GbU2q0",
+        "Result Album Name": "All Hat - No Cattle"
     },
     {
         "Title": "Short Films Coming Soon to an iPod Near You",
@@ -83,7 +106,12 @@
         "ATC Track": "THE ABSORBER",
         "ATC Artists": [
             "BIG GUITARS FROM TEXAS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Perfume Gallery Preserves, Re-Creates Fragrances",
@@ -95,7 +123,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Mose T's Art Was an 'Outside' Job",
@@ -107,18 +143,42 @@
         "ATC Track": "Passing Through",
         "ATC Artists": [
             "Lynn Patrick"
-        ]
+        ],
+        "Result Track Name": "Passing Through",
+        "Result Artist Names": [
+            "Lynn Patrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2y10fdzYKP7d6GUe1k7358",
+        "Result Album Name": "Winnie's Guitar"
     },
     {
         "ATC Track": "It Happened",
         "ATC Artists": [
             "Dirty Three"
-        ]
+        ],
+        "Result Track Name": "It Happened",
+        "Result Artist Names": [
+            "Dirty Three"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yLPCSW2VlpA4sf1PVz4O1",
+        "Result Album Name": "Cinder"
     },
     {
         "ATC Track": "Intercontinental Git",
         "ATC Artists": [
             "Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Intercontinental Git",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3smtA2Jj1zzt2NrRj1uCl5",
+        "Result Album Name": "Destination...Get Down!"
     }
 ]

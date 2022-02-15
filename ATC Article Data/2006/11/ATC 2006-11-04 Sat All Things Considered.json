@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-11-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:46:40"
+        "Scanned Date": "2022-02-06 23:46:40",
+        "Playlist URI": "3JPnrlN1baaiznSW8l4xKj",
+        "Playlist Link": "https://open.spotify.com/playlist/3JPnrlN1baaiznSW8l4xKj",
+        "Snapshot ID": "MSxhYmM1ZjEzNTQ2OTUzODMzYTNkYjUxZmQ2NGYzMWEyMDhiNzZhN2Vm",
+        "Playlist Name": "ATC 2006-11-04 Sat All Things Considered"
     },
     {
         "Title": "Tennessee Voters Will Be Going on Faith",
@@ -22,14 +26,30 @@
         "ATC Track": "Smash Up",
         "ATC Artists": [
             "Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Smash Up",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vwhTQkRV6K96sGv7hKgEo",
+        "Result Album Name": "Destination...Get Down!"
     },
     {
         "ATC Track": "The Champ",
         "ATC Artists": [
             "Tébar",
             "Ximo"
-        ]
+        ],
+        "Result Track Name": "The Champ",
+        "Result Artist Names": [
+            "Ximo Tebar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4BKUQOjUlyRp6UqJMbLxjd",
+        "Result Album Name": "The Champs"
     },
     {
         "Title": "'Army Times' Calls for Rumsfeld to Quit",
@@ -41,7 +61,12 @@
         "ATC Track": "Door Harp",
         "ATC Artists": [
             "Michael Houser"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Leader: Gallaudet Protest Sought Equal Treatment",
@@ -53,13 +78,27 @@
         "ATC Track": "OPEN COUNTRY JOY (CONSTANT TRAVELER)",
         "ATC Artists": [
             "LEO KOTTKE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Original Blend",
         "ATC Artists": [
             "Billband"
-        ]
+        ],
+        "Result Track Name": "Original Blend",
+        "Result Artist Names": [
+            "Bill Ryan",
+            "Billband"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mJRQA9xexYz9srSHNhNj6",
+        "Result Album Name": "Billband: Blurred"
     },
     {
         "Title": "Arggh, Why Does the Shower Curtain Attack Me?",
@@ -95,12 +134,33 @@
         "ATC Track": "CONCERTO FOR VIOLIN AND ORCHESTRA",
         "ATC Artists": [
             "LEONARD BERNSTEIN AND NEW YORK PHILHARMONIC"
-        ]
+        ],
+        "Result Track Name": "III. Rondo. Allegro from Concerto for Violin and Orchestra in D Major, Op. 61",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Isaac Stern",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bOH4ahzJ8837erhMWaA82",
+        "Result Album Name": "Isaac Stern - My First 79 Years"
     },
     {
         "ATC Track": "IN PRAISE OF SHAHN",
         "ATC Artists": [
             "LEONARD BERNSTEIN AND NEW YORK PHILHARMONIC"
-        ]
+        ],
+        "Result Track Name": "In Praise of Shahn: I. Vigoroso",
+        "Result Artist Names": [
+            "William Schuman",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HmdDxyRgzVkLcrCICZayq",
+        "Result Album Name": "Barber: Adagio for Strings & Violin Concerto - Schuman: To Thee Old Cause & In Praise of Shahn"
     }
 ]

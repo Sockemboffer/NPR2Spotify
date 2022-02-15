@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-10-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:48:41"
+        "Scanned Date": "2022-02-06 23:48:41",
+        "Playlist URI": "0vouDU06YZVCZ702WxvmE5",
+        "Playlist Link": "https://open.spotify.com/playlist/0vouDU06YZVCZ702WxvmE5",
+        "Snapshot ID": "MSwwZDU4ZDU2NmQxZjBmMGZjMGI2ZGUyZDNiYTg0YjE5MWFhZTQ1ZTc1",
+        "Playlist Name": "ATC 2006-10-08 Sun All Things Considered"
     },
     {
         "Title": "U.S. Monthly Toll in Iraq at Highest Point in 2 Years",
@@ -28,13 +32,30 @@
         "ATC Track": "The Cat",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "But the Cat Has No Hat",
+        "Result Artist Names": [
+            "Various Artists",
+            "Christopher Young"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Vt4JM11iUYk0bpIa9uYDm",
+        "Result Album Name": "Pet Sematary (Music from the Motion Picture)"
     },
     {
         "ATC Track": "AUTUMN LEAVES",
         "ATC Artists": [
             "CANNONBALL ADDERLEY WITH MILES DAVIS"
-        ]
+        ],
+        "Result Track Name": "Autumn Leaves",
+        "Result Artist Names": [
+            "Cannonball Adderley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3MYwjI0iAhBWF9V2ZZga2Q",
+        "Result Album Name": "The Best Of Miles Davis"
     },
     {
         "Title": "Misery Continues One Year After Pakistan Quake",
@@ -64,13 +85,23 @@
         "ATC Track": "THE OPEN PRAIRE",
         "ATC Artists": [
             "BILL FRISELL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Don't Mess With Mister T.",
         "ATC Artists": [
             "Regina Carter"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Take a Fresh Look at a Clever Little Vegetable",
@@ -82,7 +113,15 @@
         "ATC Track": "Alvin's Theme",
         "ATC Artists": [
             "Angelo Badalamenti"
-        ]
+        ],
+        "Result Track Name": "Laura Palmer's Theme - Instrumental",
+        "Result Artist Names": [
+            "Angelo Badalamenti"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Bk3p8UqcP4sItaWNWbvXL",
+        "Result Album Name": "Soundtrack From Twin Peaks"
     },
     {
         "Title": "Augusten Burroughs' Mother Speaks Out",
@@ -94,18 +133,42 @@
         "ATC Track": "Baroque Impressions",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Baroque Impressions",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mvPik8Xeu0lEJX6WywQz5",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "ATC Track": "I CAN'T BE SATISFIED",
         "ATC Artists": [
             "BILL FRISELL"
-        ]
+        ],
+        "Result Track Name": "I Can't Be Satisfied",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03vmLtpbtmNJIyErBQn7As",
+        "Result Album Name": "Have a Little Faith"
     },
     {
         "ATC Track": "AT LONG LAST LOVE",
         "ATC Artists": [
             "GRANT GREEN"
-        ]
+        ],
+        "Result Track Name": "At Long Last Love",
+        "Result Artist Names": [
+            "Grant Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LjYAUjiCnkX2h0gGtJA3K",
+        "Result Album Name": "I Want To Hold Your Hand"
     }
 ]

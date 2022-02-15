@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-07-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:54:43"
+        "Scanned Date": "2022-02-06 23:54:43",
+        "Playlist URI": "00ZNwzdPFjtvhGG3oqJ7vF",
+        "Playlist Link": "https://open.spotify.com/playlist/00ZNwzdPFjtvhGG3oqJ7vF",
+        "Snapshot ID": "MSxjMWM3M2ExM2M5MDEzMzUyNjk3ZWU4NDcyZjUwMGU4N2E5YzAyZTdk",
+        "Playlist Name": "ATC 2006-07-16 Sun All Things Considered"
     },
     {
         "Title": "Eight Israelis Killed in Rocket Attacks on Haifa",
@@ -28,13 +32,26 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Naima",
         "ATC Artists": [
             "Love Devotion Surrender"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "G-8 Leaders Deliver Cautious Statement on Mideast",
@@ -46,7 +63,15 @@
         "ATC Track": "MIRROR IN BLUE",
         "ATC Artists": [
             "JOHN JORGENSON"
-        ]
+        ],
+        "Result Track Name": "Mirror In Blue",
+        "Result Artist Names": [
+            "John Jorgenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mqoSKloGP24YYzptURqR4",
+        "Result Album Name": "After You've Gone"
     },
     {
         "Title": "World Health Organization Takes on Tobacco",
@@ -72,13 +97,32 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "BP - Instrumental",
+        "Result Artist Names": [
+            "Joshua Bell",
+            "Edgar Meyer",
+            "Sam Bush",
+            "Mike Marshall"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.9411764705882353,
+        "Result Track URI": "spotify:track:6IXZHznIXsYm8mj8G0hHTU",
+        "Result Album Name": "Can't You Hear Me Callin' - Bluegrass: 80 Years Of American Music"
     },
     {
         "ATC Track": "I DIG",
         "ATC Artists": [
             "LES BAXTER"
-        ]
+        ],
+        "Result Track Name": "I Dig",
+        "Result Artist Names": [
+            "Les Baxter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XacQYTj9NGGMi3e6eT6nc",
+        "Result Album Name": "Ultra-Lounge: Saxophobia"
     },
     {
         "Title": "Mongol Rally Is International Race in a Tight Space",
@@ -108,18 +152,39 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "DILL PICKLE TANGO",
         "ATC Artists": [
             "THE MICROSCOPIC SEPTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     }
 ]

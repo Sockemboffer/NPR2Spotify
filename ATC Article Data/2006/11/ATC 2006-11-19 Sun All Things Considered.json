@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-11-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:47:32"
+        "Scanned Date": "2022-02-06 23:47:32",
+        "Playlist URI": "6JtyBOUb6bOZmbMROxPOCd",
+        "Playlist Link": "https://open.spotify.com/playlist/6JtyBOUb6bOZmbMROxPOCd",
+        "Snapshot ID": "MSwwZDQyZGNkMWRiOWExNDJhZGQ4YWZhODZkNWRmNzM5ZTNjNzQ0MjI5",
+        "Playlist Name": "ATC 2006-11-19 Sun All Things Considered"
     },
     {
         "Title": "President Bush Concludes Vietnam Visit",
@@ -28,7 +32,12 @@
         "ATC Track": "Pacific Coast",
         "ATC Artists": [
             "Electracoustic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kenya's Farmers Struggle with Weather Changes",
@@ -64,7 +73,16 @@
         "ATC Track": "crazy beat",
         "ATC Artists": [
             "montefiori cocktail"
-        ]
+        ],
+        "Result Track Name": "Crazy Beat",
+        "Result Artist Names": [
+            "Montefiori Cocktail",
+            "Germano Montefiori"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0j15C9NxJKa4qwKbCZVl37",
+        "Result Album Name": "Classics (a New Release of Selected Tracks from 1997 to 2000)"
     },
     {
         "Title": "Lady Bird Marked JFK's Death with Audio Diary Entry",
@@ -76,7 +94,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Widower Learns to Manage First Turkey on His Own",
@@ -100,7 +126,15 @@
         "ATC Track": "San Antonio Rose",
         "ATC Artists": [
             "Les Paul"
-        ]
+        ],
+        "Result Track Name": "San Antonio Rose",
+        "Result Artist Names": [
+            "Paul Eakins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7FFsaUtVpHGnig6qEfGsFd",
+        "Result Album Name": "The World's Most Famous French Gasparini Carousel Organ: Gypsy Queen Carousel Organ"
     },
     {
         "Title": "Dressing Traditions Collide at Thanksgiving",
@@ -112,19 +146,43 @@
         "ATC Track": "The Birthday Song",
         "ATC Artists": [
             "Chris Proctor"
-        ]
+        ],
+        "Result Track Name": "The Birthday Song",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cYNedoaY0iVpX37E7089v",
+        "Result Album Name": "Steel String Stories"
     },
     {
         "ATC Track": "Nocturne of the Neon Night",
         "ATC Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "Nocturne Of The Neon Night",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0X7V0mYYTM7OKVjPed2j4z",
+        "Result Album Name": "Local Warming"
     },
     {
         "ATC Track": "Tico-Tico",
         "ATC Artists": [
             "London Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": "Tico Tico",
+        "Result Artist Names": [
+            "Radio University London Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5nGu8ZowWFoMMgYyd0sxVr",
+        "Result Album Name": "The World‘s Most Beautiful Music 2"
     }
 ]

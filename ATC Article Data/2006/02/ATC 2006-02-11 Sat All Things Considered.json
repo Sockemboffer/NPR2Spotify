@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-02-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:04:02"
+        "Scanned Date": "2022-02-07 00:04:02",
+        "Playlist URI": "3qi6cmNVU7GOWFbHTZN3nv",
+        "Playlist Link": "https://open.spotify.com/playlist/3qi6cmNVU7GOWFbHTZN3nv",
+        "Snapshot ID": "MSxmNGMyMTlmNGFhNmMzNzI3NTcyYTFkODk4YjE0NDkyYzIwNjMyZjY3",
+        "Playlist Name": "ATC 2006-02-11 Sat All Things Considered"
     },
     {
         "Title": "Patriot Act Deal Won't Please Everyone",
@@ -28,7 +32,12 @@
         "ATC Track": "Eternal Future",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gulf Drilling Plans Worry Many Floridians",
@@ -58,7 +67,12 @@
         "ATC Track": "Have Gun Will Travel",
         "ATC Artists": [
             "Esteban"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Turin, City of Chocolate Treats",
@@ -70,13 +84,29 @@
         "ATC Track": "THIS COULD BE THE START OF SOMETHING",
         "ATC Artists": [
             "DAVE PELL"
-        ]
+        ],
+        "Result Track Name": "This Could Be The Start Of Something - Remastered",
+        "Result Artist Names": [
+            "Dave Pell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:670plaYxXRViIqiBkIqEu5",
+        "Result Album Name": "Ultra-Lounge/Cocktail Capers"
     },
     {
         "ATC Track": "GOOD MORNING STARSHINE",
         "ATC Artists": [
             "ARTHUR LYMAN"
-        ]
+        ],
+        "Result Track Name": "Good Morning Starshine",
+        "Result Artist Names": [
+            "Arthur Lyman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27482MfW4M5wNZGUfpkimb",
+        "Result Album Name": "Arthur Lyman: Today's Greatest Hits (Remastered)"
     },
     {
         "Title": "Familiar Faces, Except in the United States",
@@ -100,20 +130,45 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sull Lull",
         "ATC Artists": [
             "Jan Garbarek",
             "Anouar Brahem et. al."
-        ]
+        ],
+        "Result Track Name": "Sull Lull",
+        "Result Artist Names": [
+            "Jan Garbarek",
+            "Anouar Brahem",
+            "Ustad Shaukat Hussain"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DzBR3hE8hzutFqlB1jjmk",
+        "Result Album Name": "Madar"
     },
     {
         "ATC Track": "Sull Lull",
         "ATC Artists": [
             "Jan Garbarek",
             "Anouar Brahem et. al."
-        ]
+        ],
+        "Result Track Name": "Sull Lull",
+        "Result Artist Names": [
+            "Jan Garbarek",
+            "Anouar Brahem",
+            "Ustad Shaukat Hussain"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DzBR3hE8hzutFqlB1jjmk",
+        "Result Album Name": "Madar"
     }
 ]

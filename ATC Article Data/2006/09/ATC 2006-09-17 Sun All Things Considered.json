@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-09-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:51:04"
+        "Scanned Date": "2022-02-06 23:51:04",
+        "Playlist URI": "5bqkgFjhHtgpTgJvgvtBML",
+        "Playlist Link": "https://open.spotify.com/playlist/5bqkgFjhHtgpTgJvgvtBML",
+        "Snapshot ID": "MSw5YjA3MWY4M2VkMWJlMDJjMmVhNmU3NTMxNWVkZjU2OTBjM2RlZTFk",
+        "Playlist Name": "ATC 2006-09-17 Sun All Things Considered"
     },
     {
         "Title": "Baghdad Morgue Dangerous for Families of the Dead",
@@ -28,13 +32,31 @@
         "ATC Track": "TEXAS TARANTELLA",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Spider Dreams: Texas Tarantella",
+        "Result Artist Names": [
+            "David Balakrishnan",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rL0XmwEsFjFVfabjNsPBx",
+        "Result Album Name": "Spider Dreams"
     },
     {
         "ATC Track": "TEXAS TARANTELLA",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "Spider Dreams: Texas Tarantella",
+        "Result Artist Names": [
+            "David Balakrishnan",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rL0XmwEsFjFVfabjNsPBx",
+        "Result Album Name": "Spider Dreams"
     },
     {
         "Title": "New England Salt Marshes Losing Vibrant Grasses",
@@ -58,13 +80,26 @@
         "ATC Track": "Fatou Nana",
         "ATC Artists": [
             "Mamany Kouyate"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "A Show of Hands",
         "ATC Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "A Show of Hands",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KRIMIeAUDdX1U9UXvqQ6T",
+        "Result Album Name": "A Show of Hands 15"
     },
     {
         "Title": "Pioneering Golfer Patty Berg Dies at 88",
@@ -88,18 +123,39 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Memphis",
         "ATC Artists": [
             "Lonnie Mack"
-        ]
+        ],
+        "Result Track Name": "Memphis",
+        "Result Artist Names": [
+            "Lonnie Mack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ci1SmCBwodTJrq5zeW4fp",
+        "Result Album Name": "Glad I'm In The Band"
     },
     {
         "ATC Track": "(Ghost) Riders in the Sky",
         "ATC Artists": [
             "The Ramrods"
-        ]
+        ],
+        "Result Track Name": "Ghost Riders in the Sky",
+        "Result Artist Names": [
+            "The Ramrods"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eUVr9Ja4GK6e1lcIXjML7",
+        "Result Album Name": "Ghost Riders in the Sky"
     }
 ]

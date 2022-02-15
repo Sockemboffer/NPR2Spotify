@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-08-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:52:47"
+        "Scanned Date": "2022-02-06 23:52:47",
+        "Playlist URI": "1rVG2wcTM8T75UMHvxfsq9",
+        "Playlist Link": "https://open.spotify.com/playlist/1rVG2wcTM8T75UMHvxfsq9",
+        "Snapshot ID": "MSxmYzM1NjY5MmJkYmYyODY1MjFlYjFiZDFjODk0ODlmMGIyM2JmYWE3",
+        "Playlist Name": "ATC 2006-08-13 Sun All Things Considered"
     },
     {
         "Title": "Israelis Greet Cease-Fire with Support, Skepticism",
@@ -28,13 +32,29 @@
         "ATC Track": "A Sunday Evening",
         "ATC Artists": [
             "Dromedary"
-        ]
+        ],
+        "Result Track Name": "a sunday evening",
+        "Result Artist Names": [
+            "Dromedary"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CztInj2DH5aJ9OtfJZaxx",
+        "Result Album Name": "Artifact"
     },
     {
         "ATC Track": "Cassiopeia's Dance",
         "ATC Artists": [
             "Dromedary"
-        ]
+        ],
+        "Result Track Name": "cassiopeia's dance",
+        "Result Artist Names": [
+            "Dromedary"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hqjYixlQbIMf3KVQWBFZl",
+        "Result Album Name": "Live From The Make Believe"
     },
     {
         "Title": "Castro Is Optimistic, Yet Warns of 'Adverse News'",
@@ -46,7 +66,12 @@
         "ATC Track": "Rockport Sunday",
         "ATC Artists": [
             "Bob Evans"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Britain Investigating a Dozen Terrorism Plots",
@@ -58,7 +83,15 @@
         "ATC Track": "Daily Huayño",
         "ATC Artists": [
             "Dromedary"
-        ]
+        ],
+        "Result Track Name": "daily huayno",
+        "Result Artist Names": [
+            "Dromedary"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sfkcUaoNKyVscYUaQyU55",
+        "Result Album Name": "Artifact"
     },
     {
         "Title": "The Stigma of AIDS Poses a Health Risk",
@@ -70,7 +103,15 @@
         "ATC Track": "Paper Bag",
         "ATC Artists": [
             "Goldfrapp"
-        ]
+        ],
+        "Result Track Name": "Paper Bag",
+        "Result Artist Names": [
+            "Goldfrapp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cfcbrOFEmZS9H5fB7iKx7",
+        "Result Album Name": "Felt Mountain"
     },
     {
         "Title": "Letters: Airport Security, Cadaver Art",
@@ -82,13 +123,26 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "ASKO HEPOKARHU-KOSKELA",
         "ATC Artists": [
             "TUULENKANTAJAT"
-        ]
+        ],
+        "Result Track Name": "Asko Hepokarhu-Koskela",
+        "Result Artist Names": [
+            "Tuulenkantajat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5a5cC4rCCXyrkVQUqxQSmv",
+        "Result Album Name": "Vedenalusmusiikkia"
     },
     {
         "Title": "Post-Katrina: A Frustrated New Mayor in Pass Christian",
@@ -112,7 +166,15 @@
         "ATC Track": "NIITTYPOLULLA",
         "ATC Artists": [
             "TUULENKANTAJAT"
-        ]
+        ],
+        "Result Track Name": "Niittypolulla",
+        "Result Artist Names": [
+            "Tuulenkantajat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7h14Ivrqg3DvIrkuNxcbKU",
+        "Result Album Name": "Vedenalusmusiikkia"
     },
     {
         "Title": "Happy Birthday, Dear Mayo -- We Hold You Dear",
@@ -124,18 +186,40 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Never on Sunday",
         "ATC Artists": [
             "Don Costa"
-        ]
+        ],
+        "Result Track Name": "Never On Sunday",
+        "Result Artist Names": [
+            "Don Costa And His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Vd0Z8Te5qyQmD9yaONAwu",
+        "Result Album Name": "Lost Hits Of The 60's"
     },
     {
         "ATC Track": "Whispering",
         "ATC Artists": [
             "Les Paul"
-        ]
+        ],
+        "Result Track Name": "Whispering",
+        "Result Artist Names": [
+            "Les Paul",
+            "Mary Ford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04VLxlcXtr2Y03v4elJn5E",
+        "Result Album Name": "The Hit Makers"
     }
 ]

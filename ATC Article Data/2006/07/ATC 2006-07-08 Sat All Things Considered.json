@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-07-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:54:16"
+        "Scanned Date": "2022-02-06 23:54:16",
+        "Playlist URI": "2P0JqXZlt4uvKC8erkaN5P",
+        "Playlist Link": "https://open.spotify.com/playlist/2P0JqXZlt4uvKC8erkaN5P",
+        "Snapshot ID": "MSw4NDc2NGNiNmVmZjgyMTg0MmVkMTZkYWVjNWFiNWYxMTU5MTBhOWFj",
+        "Playlist Name": "ATC 2006-07-08 Sat All Things Considered"
     },
     {
         "Title": "Obrador Supporters Cry Fraud in Mexican Election",
@@ -28,13 +32,29 @@
         "ATC Track": "Las Perdices",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Las Perdices",
+        "Result Artist Names": [
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YhlDH5JBiaJQNQ5LS8Wx5",
+        "Result Album Name": "El Diablo Suelto"
     },
     {
         "ATC Track": "MY BEAUTIFUL MOON",
         "ATC Artists": [
             "CARL WEINGARTEN ET AL"
-        ]
+        ],
+        "Result Track Name": "My Beautiful Moon",
+        "Result Artist Names": [
+            "Carl Weingarten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ajInEnZtz5KW0OfwhA41b",
+        "Result Album Name": "Redwood Melodies"
     },
     {
         "Title": "Union Focuses on Huge N.C. Pork Plant",
@@ -60,7 +80,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "The Lover",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:26IapGXdI0m8nhHs8dRg8X",
+        "Result Album Name": "Friday Afternoon In The Universe"
     },
     {
         "Title": "Fake or Foul? A Soccer Ref Holds Forth",
@@ -78,7 +106,15 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Haven Brothers: A Diner Tradition in Providence",
@@ -90,19 +126,37 @@
         "ATC Track": "Queer Notions",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Responsible Bad Boys",
         "ATC Artists": [
             "Bozo Allegro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Leap Frog",
         "ATC Artists": [
             "Les Brown",
             "His Band of Renown"
-        ]
+        ],
+        "Result Track Name": "Leap Frog",
+        "Result Artist Names": [
+            "Les Brown & His Band Of Renown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s3KWqC02xPnd7Vb6XG8Vk",
+        "Result Album Name": "The Les Brown Story"
     }
 ]

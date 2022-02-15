@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-09-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:50:15"
+        "Scanned Date": "2022-02-06 23:50:15",
+        "Playlist URI": "23nBS7bGWpJ8l2PL0J0fjg",
+        "Playlist Link": "https://open.spotify.com/playlist/23nBS7bGWpJ8l2PL0J0fjg",
+        "Snapshot ID": "MSw3YzRkZmRjZjY2N2MzMTAwMzUwZmI3Mjk0M2JhOWE5YmY0MzA0OWZl",
+        "Playlist Name": "ATC 2006-09-03 Sun All Things Considered"
     },
     {
         "Title": "Rallies Across Country Protest Immigration Policies",
@@ -28,7 +32,12 @@
         "ATC Track": "WAPUNZA MUSHA",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stump Speeches on the Campaign Trail",
@@ -58,13 +67,29 @@
         "ATC Track": "Costume Montage",
         "ATC Artists": [
             "Danny Elfman"
-        ]
+        ],
+        "Result Track Name": "Costume Montage",
+        "Result Artist Names": [
+            "Danny Elfman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Rgbq6MwsEqSBFGBHWcrTI",
+        "Result Album Name": "Spider-Man - Original Motion Picture Score"
     },
     {
         "ATC Track": "Seven Steps to Heaven",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": "Blue In Green-Seven Steps To Heaven",
+        "Result Artist Names": [
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FL4Qj4NfW3ECsKhMgjZ5C",
+        "Result Album Name": "A Retrospective"
     },
     {
         "Title": "How Much Should You Share About a Student?",
@@ -88,18 +113,45 @@
         "ATC Track": "Guitar Makossa",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Guitar Makossa",
+        "Result Artist Names": [
+            "Francis Bebey",
+            "John Williams",
+            "John Etheridge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Z5L4jckL9M4XkRDFgQ7vT",
+        "Result Album Name": "The Magic Box"
     },
     {
         "ATC Track": "The Girl Friend of the Whirling Dervish",
         "ATC Artists": [
             "Martin Denny"
-        ]
+        ],
+        "Result Track Name": "The Girlfriend Of The Whirling Dervish - Digitally Remastered 1996",
+        "Result Artist Names": [
+            "Martin Denny"
+        ],
+        "Result Track-Match Percent": 0.625,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4EUrLHLoJvvrn8nGZpaoCG",
+        "Result Album Name": "Ultra-Lounge/Mondo Exotica: Volume One"
     },
     {
         "ATC Track": "FLIGHT IN THE ANDES",
         "ATC Artists": [
             "LES BAXTER"
-        ]
+        ],
+        "Result Track Name": "Flight in the Andes",
+        "Result Artist Names": [
+            "Les Baxter",
+            "101 Strings Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3N4ehhIhLo1hcMF4BiqROp",
+        "Result Album Name": "Que Mango! Arranged and Conducted by Les Baxter (Remastered from the Original Master Tapes)"
     }
 ]

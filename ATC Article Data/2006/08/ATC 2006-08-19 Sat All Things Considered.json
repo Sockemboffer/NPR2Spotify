@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-08-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:53:09"
+        "Scanned Date": "2022-02-06 23:53:09",
+        "Playlist URI": "3w2M8jYimMcvCxpMbDOJQj",
+        "Playlist Link": "https://open.spotify.com/playlist/3w2M8jYimMcvCxpMbDOJQj",
+        "Snapshot ID": "MSxhMjlmZTk2OWYwZTc0NDg2YjQ5YzQ0YWVjYTdlMjNiMmQ3ZTNlNGJi",
+        "Playlist Name": "ATC 2006-08-19 Sat All Things Considered"
     },
     {
         "Title": "Israeli Raid in Lebanon Disrupts U.N. Truce",
@@ -28,13 +32,29 @@
         "ATC Track": "Nefertiti",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Nefertiti",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AanQLrt4GtYXutqNiiQJG",
+        "Result Album Name": "Nefertiti (Expanded Edition)"
     },
     {
         "ATC Track": "FABLES OF FAUBUS",
         "ATC Artists": [
             "CHARLIE HUNTER TRIO"
-        ]
+        ],
+        "Result Track Name": "Fables of Faubus",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69V4ZtO46BzyHw8yi4PldW",
+        "Result Album Name": "Charlie Hunter Trio"
     },
     {
         "Title": "Negotiator of '98 Deal Weighs New Tobacco Ruling",
@@ -64,13 +84,31 @@
         "ATC Track": "Blue in Green",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Blue in Green (feat. John Coltrane & Bill Evans)",
+        "Result Artist Names": [
+            "Miles Davis",
+            "John Coltrane",
+            "Bill Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0aWMVrwxPNYkKmFthzmpRi",
+        "Result Album Name": "Kind Of Blue (Legacy Edition)"
     },
     {
         "ATC Track": "Jig's Jig",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Jig's Jig",
+        "Result Artist Names": [
+            "Wynton Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rOFVbzOf7VPgh0SjgNEsB",
+        "Result Album Name": "Levee Low Moan Soul Gestures In Southern Blue Vol. 3"
     },
     {
         "Title": "Mongol Rally over for 'Team Newyorkistan'",
@@ -95,7 +133,12 @@
         "ATC Artists": [
             "Coleman Hawkins",
             "Georgie Auld et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Down-to-Earth View of the Planet Debate",
@@ -107,18 +150,33 @@
         "ATC Track": "Waltz (derived from Serenade for Strings)",
         "ATC Artists": [
             "Rafael Mendez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "A Map of the World",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Visit",
         "ATC Artists": [
             "The Microscopic Septet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

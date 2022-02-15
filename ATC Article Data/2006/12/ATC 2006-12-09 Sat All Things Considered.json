@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-12-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:45:13"
+        "Scanned Date": "2022-02-06 23:45:13",
+        "Playlist URI": "4GrKN6EfdKFADvepykGS4E",
+        "Playlist Link": "https://open.spotify.com/playlist/4GrKN6EfdKFADvepykGS4E",
+        "Snapshot ID": "MSw2YzE0MTdmOWE5OTBkMGZhNjM0ZmVmMWM0NDg0N2RmODNiY2FjZDkx",
+        "Playlist Name": "ATC 2006-12-09 Sat All Things Considered"
     },
     {
         "Title": "Gates In, Congress Out, Iraq Up in the Air",
@@ -22,13 +26,29 @@
         "ATC Track": "Where Do We Go?",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Where Do We Go?",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xWBFIIoANAH0omal0rcmi",
+        "Result Album Name": "Valentine"
     },
     {
         "ATC Track": "California Zephyr",
         "ATC Artists": [
             "Lynn Patrick"
-        ]
+        ],
+        "Result Track Name": "California Zephyr",
+        "Result Artist Names": [
+            "Lynn Patrick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hFJpLhIIwmOMfP1Egow4V",
+        "Result Album Name": "Winnie's Guitar"
     },
     {
         "Title": "A New Wrinkle in Border-Crossing Cases",
@@ -58,13 +78,27 @@
         "ATC Track": "Lost City of Joba",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Highlife",
         "ATC Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Highlife",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Rockin' Rhythmaires"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76x5LIWvYqt6RqZ6GbU2q0",
+        "Result Album Name": "All Hat - No Cattle"
     },
     {
         "Title": "Schools Take Precautions Against Nut Allergies",
@@ -88,18 +122,36 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blue Bubbles",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "Blue Bubbles",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Sik7y1hUddU3YGNKwjDbb",
+        "Result Album Name": "Bug Music"
     },
     {
         "ATC Track": "The Goodbye Girl from \"The Goodbye Girl\"",
         "ATC Artists": [
             "David Gates"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

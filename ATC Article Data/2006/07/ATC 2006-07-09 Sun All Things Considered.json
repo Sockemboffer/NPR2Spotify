@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-07-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:54:18"
+        "Scanned Date": "2022-02-06 23:54:18",
+        "Playlist URI": "6cybjgkXUJHdfKwRovCYQ4",
+        "Playlist Link": "https://open.spotify.com/playlist/6cybjgkXUJHdfKwRovCYQ4",
+        "Snapshot ID": "MSwzYTUwODI1NjgxZDhjZTYyNzFkNGJhNmQ3ZDY1MDk5ZDQxMjVmZGE1",
+        "Playlist Name": "ATC 2006-07-09 Sun All Things Considered"
     },
     {
         "Title": "Sectarian Violence Erupts in Baghdad",
@@ -28,7 +32,12 @@
         "ATC Track": "MAGIC KITE",
         "ATC Artists": [
             "ROBERT LAFOND -- SYMFUNNY ORCH."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The 'Daily Effect': Cynical, Yet Informed",
@@ -59,13 +68,31 @@
         "ATC Artists": [
             "Kremerata Baltica",
             "Gidon Kremer"
-        ]
+        ],
+        "Result Track Name": "\"Happy Birthday\" Variations: Polka/Valse",
+        "Result Artist Names": [
+            "Peter Heidrich",
+            "Kremerata Baltica",
+            "Gidon Kremer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:048Y9N7DLQH452TK16DhHD",
+        "Result Album Name": "Happy Birthday"
     },
     {
         "ATC Track": "Peter Tambourine",
         "ATC Artists": [
             "Raymond Scott"
-        ]
+        ],
+        "Result Track Name": "Peter Tambourine",
+        "Result Artist Names": [
+            "Raymond Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ulXNt69fbWc3wHNMDeMMv",
+        "Result Album Name": "The Music Of Raymond Scott: Reckless Nights And Turkish Twilights"
     },
     {
         "Title": "Rise in Metal Prices Leads to Odd Crime Wave",
@@ -95,12 +122,28 @@
         "ATC Track": "Trinkle, Tinkle",
         "ATC Artists": [
             "Marcus Roberts"
-        ]
+        ],
+        "Result Track Name": "Trinkle Tinkle",
+        "Result Artist Names": [
+            "Marcus Roberts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32ml69TNHdieAlvSGodU0N",
+        "Result Album Name": "Alone With Three Giants"
     },
     {
         "ATC Track": "Nomad",
         "ATC Artists": [
             "Dave Brubeck Quartet"
-        ]
+        ],
+        "Result Track Name": "Nomad - Live at the Washington Monument, Washington, D.C. - August 1962",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1dsIz8gA6zHxx98vKXdkB6",
+        "Result Album Name": "Bennett & Brubeck: The White House Sessions, Live 1962"
     }
 ]

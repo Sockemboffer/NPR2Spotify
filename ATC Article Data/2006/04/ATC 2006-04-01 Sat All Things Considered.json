@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-04-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-06 23:59:43"
+        "Scanned Date": "2022-02-06 23:59:43",
+        "Playlist URI": "1Qtt3rIKt9Co5Msac9z668",
+        "Playlist Link": "https://open.spotify.com/playlist/1Qtt3rIKt9Co5Msac9z668",
+        "Snapshot ID": "MSw2NTFmNzBmOWE4YzkxYjk4YzA2NmZjMjFjZDkxOTMzMzM3ZDdkNzkw",
+        "Playlist Name": "ATC 2006-04-01 Sat All Things Considered"
     },
     {
         "Title": "Marchers Seek to Delay New Orleans Vote",
@@ -22,7 +26,16 @@
         "ATC Track": "Prelude in E",
         "ATC Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Prelude in E",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Richard Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eTrLfZRztQWBbYUxU1D5t",
+        "Result Album Name": "WorldBeat Bach"
     },
     {
         "Title": "Prosecutor Preps Taylor Case Amid Venue Doubts",
@@ -52,13 +65,35 @@
         "ATC Track": "Funky C, Funky Do",
         "ATC Artists": [
             "Al Petteway"
-        ]
+        ],
+        "Result Track Name": "Funky C, Funky Do",
+        "Result Artist Names": [
+            "Al Petteway",
+            "Amy White",
+            "Bonnie Rideout",
+            "Maggie Sansone",
+            "Eric Rigler",
+            "Abby Newton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AwQa7twOjDfSz3omd87RE",
+        "Result Album Name": "Caledon Wood"
     },
     {
         "ATC Track": "Siciliano",
         "ATC Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Siciliano",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Richard Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ef5jgnVorowNblH9Jf1fn",
+        "Result Album Name": "WorldBeat Bach"
     },
     {
         "Title": "A Cannes Winner from Belgian Brothers",
@@ -70,7 +105,15 @@
         "ATC Track": "HOT SHADES (MY MEDINA)",
         "ATC Artists": [
             "DAAU"
-        ]
+        ],
+        "Result Track Name": "Hot Shades (my medina)",
+        "Result Artist Names": [
+            "Daau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2d41sdxRXVOjGXU3tPxYFq",
+        "Result Album Name": "We Need New Animals"
     },
     {
         "Title": "One Man's Sad Goal? Make Opera Positive",
@@ -83,18 +126,45 @@
         "ATC Artists": [
             "Johnny Mercer",
             "The Pied Pipers et. al."
-        ]
+        ],
+        "Result Track Name": "Ac-Cent-Tchu-Ate The Positive",
+        "Result Artist Names": [
+            "Johnny Mercer",
+            "The Pied Pipers",
+            "Paul Weston And His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nFIsRhhyB1RcCBaKD4LTT",
+        "Result Album Name": "Accentuate The Positive!"
     },
     {
         "ATC Track": "Invention",
         "ATC Artists": [
             "Richard Stolzman"
-        ]
+        ],
+        "Result Track Name": "Invention",
+        "Result Artist Names": [
+            "Richard Harvey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0FVzc4h3O6GMILjXbp1gkv",
+        "Result Album Name": "The Piano Book"
     },
     {
         "ATC Track": "Air",
         "ATC Artists": [
             "Richard Stoltzman"
-        ]
+        ],
+        "Result Track Name": "Air",
+        "Result Artist Names": [
+            "Richard Stoltzman",
+            "Mika Stoltzman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5beCOazjqoUqdjIu0vFNeT",
+        "Result Album Name": "Duo Cantando"
     }
 ]

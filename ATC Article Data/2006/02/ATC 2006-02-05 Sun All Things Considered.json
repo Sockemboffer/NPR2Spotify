@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-02-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:03:39"
+        "Scanned Date": "2022-02-07 00:03:39",
+        "Playlist URI": "2IETMneVNKEqEKap3aqv50",
+        "Playlist Link": "https://open.spotify.com/playlist/2IETMneVNKEqEKap3aqv50",
+        "Snapshot ID": "MSw3NmFjODk0YzFhY2U4MDQyOTBjZWE2NzQxZmM1YjJmMTQ3ZmVmMDlj",
+        "Playlist Name": "ATC 2006-02-05 Sun All Things Considered"
     },
     {
         "Title": "Protests Over Cartoons Turn Violent in Lebanon",
@@ -28,13 +32,23 @@
         "ATC Track": "To Earth Like Rain",
         "ATC Artists": [
             "Steve Hackett"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Round Waves",
         "ATC Artists": [
             "Ralph E. Hayes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Editors' Roundtable: Federal Wiretapping",
@@ -52,13 +66,29 @@
         "ATC Track": "New Math",
         "ATC Artists": [
             "Tom Lehrer"
-        ]
+        ],
+        "Result Track Name": "New Math",
+        "Result Artist Names": [
+            "Tom Lehrer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3QaqMUVHFvl8wpGdNgyABt",
+        "Result Album Name": "That Was The Year That Was"
     },
     {
         "ATC Track": "Flood",
         "ATC Artists": [
             "Bright"
-        ]
+        ],
+        "Result Track Name": "Flood",
+        "Result Artist Names": [
+            "Bright"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TuZWmEfd1V11rvrstBQjl",
+        "Result Album Name": "Bells Break Their Towers"
     },
     {
         "Title": "Finding Fun on Super Bowl Sunday",
@@ -70,7 +100,15 @@
         "ATC Track": "Go It Alone",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Go It Alone",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zeCIWu37bKFJuem8MTyM1",
+        "Result Album Name": "Guero"
     },
     {
         "Title": "Judging When to Share Private Information",
@@ -82,7 +120,12 @@
         "ATC Track": "Nothing for You",
         "ATC Artists": [
             "Lagbaja!"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Marc-Andre Dalbavie, Composing in 'Color'",
@@ -94,18 +137,39 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Timba",
         "ATC Artists": [
             "Awa Band"
-        ]
+        ],
+        "Result Track Name": "Timba (Full Intention Club Mix)",
+        "Result Artist Names": [
+            "Awa Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4O7XG4Q58ZP8Drmunn0uqB",
+        "Result Album Name": "Timba"
     },
     {
         "ATC Track": "Tournament",
         "ATC Artists": [
             "Chris Brokaw"
-        ]
+        ],
+        "Result Track Name": "tournament",
+        "Result Artist Names": [
+            "Chris Brokaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tj1IwvSXXfwihZY2NJqvo",
+        "Result Album Name": "Red Cities"
     }
 ]

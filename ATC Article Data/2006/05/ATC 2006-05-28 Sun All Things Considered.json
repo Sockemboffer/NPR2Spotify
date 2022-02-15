@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-05-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-06 23:59:32"
+        "Scanned Date": "2022-02-06 23:59:32",
+        "Playlist URI": "5Xjc3EUfnG3Lx5kpndivGV",
+        "Playlist Link": "https://open.spotify.com/playlist/5Xjc3EUfnG3Lx5kpndivGV",
+        "Snapshot ID": "MSw0N2JjZjIxMDdlYWY5ZjVhNDRmZjA1Zjk3MjhiOWVkZThhZjFmNmJl",
+        "Playlist Name": "ATC 2006-05-28 Sun All Things Considered"
     },
     {
         "Title": "Conditions Complicate Hunt for Quake Survivors",
@@ -22,7 +26,17 @@
         "ATC Track": "CON MOTO",
         "ATC Artists": [
             "KAREN KADERAVEK"
-        ]
+        ],
+        "Result Track Name": "Pohádka (Fairy Tale) for Cello and Piano: II. Con moto",
+        "Result Artist Names": [
+            "Leoš Janáček",
+            "Karen Kaderavek",
+            "Randall Hodgkinson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hzIFQVrrtr2iM4PAEo3DA",
+        "Result Album Name": "Cello Alchemy: Music from Russia & Eastern Europe"
     },
     {
         "Title": "Can Bayou La Batre Bounce Back?",
@@ -34,13 +48,29 @@
         "ATC Track": "Deep Blue Sea",
         "ATC Artists": [
             "Martin Simpson"
-        ]
+        ],
+        "Result Track Name": "Deep Blue Sea",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7wecgDNuJALW5dLZcGU4SO",
+        "Result Album Name": "Cool and Unusual"
     },
     {
         "ATC Track": "Pu'u Anahulu",
         "ATC Artists": [
             "Cyril Pahinui"
-        ]
+        ],
+        "Result Track Name": "Pu'u Anahulu - Instrumental",
+        "Result Artist Names": [
+            "Cyril Pahinui"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5B1rNXNkumTYi8MmS0WSXY",
+        "Result Album Name": "Night Moon (Po Mahina)"
     },
     {
         "Title": "Bayou La Batre, Part II",
@@ -52,7 +82,12 @@
         "ATC Track": "Endless Grass Sea",
         "ATC Artists": [
             "David Torn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Letters: Lynching, Heckling, Evolution",
@@ -64,7 +99,15 @@
         "ATC Track": "As the Sea Holds Creatures Vast and True",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "As the Sea Holds Creatures Vast and True",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2GRogVVazTxtLNAjDWMPkL",
+        "Result Album Name": "A Little Bit of Somethin'"
     },
     {
         "Title": "Novelist Michele Serros on Writing 'Chica' Lit",
@@ -82,18 +125,39 @@
         "ATC Track": "As for Us",
         "ATC Artists": [
             "Fernando Ortega"
-        ]
+        ],
+        "Result Track Name": "As For Us",
+        "Result Artist Names": [
+            "Fernando Ortega"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zfudRUPi8QoVD5LlVSI5r",
+        "Result Album Name": "BEGINNINGS - 2 CD Set"
     },
     {
         "ATC Track": "Nyoka Musango (Enemy in the Jungle)",
         "ATC Artists": [
             "Thomas Mapfumo"
-        ]
+        ],
+        "Result Track Name": "Nyoka Musango",
+        "Result Artist Names": [
+            "Thomas Mapfumo"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gu4QSMTvguH1cHuZAHnNV",
+        "Result Album Name": "Lion Songs: Essential Tracks in the Making of Zimbabwe"
     },
     {
         "ATC Track": "Claire's Song",
         "ATC Artists": [
             "Solo Razaf"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

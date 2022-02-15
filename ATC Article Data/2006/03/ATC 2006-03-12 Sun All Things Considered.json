@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2006-03-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:02:15"
+        "Scanned Date": "2022-02-07 00:02:15",
+        "Playlist URI": "3P7RTmppQnKZyKUCwc73ef",
+        "Playlist Link": "https://open.spotify.com/playlist/3P7RTmppQnKZyKUCwc73ef",
+        "Snapshot ID": "MSxiMGNmZjVlMmExM2U2ZWQ3MTJkNjQxNjYzMzcxM2M5YmViN2JlZTU4",
+        "Playlist Name": "ATC 2006-03-12 Sun All Things Considered"
     },
     {
         "Title": "Milosevic Died of a Heart Attack, Autopsy Finds",
@@ -28,13 +32,23 @@
         "ATC Track": "TABULA RASA AND FRATRES FROM \"WENN BACH DIE BIENEN GEZUCHTET HATTTE\"",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "West Nile's Spread Linked to Robin's Migration",
@@ -64,7 +78,15 @@
         "ATC Track": "Poor Boy",
         "ATC Artists": [
             "The Royaltones"
-        ]
+        ],
+        "Result Track Name": "Poor Boy",
+        "Result Artist Names": [
+            "The Royaltones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WVRUZn53ozgLLJF2CKp3y",
+        "Result Album Name": "De Rock 'n Roll Methode 23"
     },
     {
         "Title": "Black Maria Short Film Fest Marks 25 Years",
@@ -82,18 +104,42 @@
         "ATC Track": "Powerhouse",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "Powerhouse",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cVF4ajXQlxuSaV96Edkr2",
+        "Result Album Name": "Bug Music"
     },
     {
         "ATC Track": "Blue Bubbles",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "Blue Bubbles",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Sik7y1hUddU3YGNKwjDbb",
+        "Result Album Name": "Bug Music"
     },
     {
         "ATC Track": "Tobacco Auctioneer",
         "ATC Artists": [
             "Don Byron"
-        ]
+        ],
+        "Result Track Name": "Tobacco Auctioneer",
+        "Result Artist Names": [
+            "Don Byron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bdKOysoMpHK7WvD5nFXFm",
+        "Result Album Name": "Bug Music"
     }
 ]
