@@ -4,7 +4,7 @@ Generally, this program parses NPR Morning Edition, Weekend Edition, and All Thi
 
 ========= Notice ========
 
-*** I've discovered that Spotify only shows the most recent 200 playlists publicly. If you use a link from the archive data you can view any of them. I'm working on a temperary solution in the meantime. If you're able, support with a vote here [All Platforms Playlists Get Rid of 200 Public Playlist Limit](https://community.spotify.com/t5/Closed-Ideas/All-Platforms-Playlists-Get-Rid-of-200-Public-Playlist-Limit/idc-p/5341981#M254645) ***
+*** I've discovered that Spotify only shows the most recent 200 playlists publicly. If you use a link from the archive data you can view any of them. I'm working on a temperary solution in the meantime. If you're able, support with a vote here [All Platforms Playlists Get Rid of 200 Public Playlist Limit](https://community.spotify.com/t5/Closed-Ideas/All-Platforms-Playlists-Get-Rid-of-200-Public-Playlist-Limit/idc-p/5209926#M221568), voting can still help a closed issue. ***
 
 =======================
 
