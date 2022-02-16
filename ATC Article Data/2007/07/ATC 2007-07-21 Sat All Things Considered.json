@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-07-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:17:20"
+        "Scanned Date": "2022-02-07 00:17:20",
+        "Playlist URI": "2ZCVRawDbOrTrUDKasBsIC",
+        "Playlist Link": "https://open.spotify.com/playlist/2ZCVRawDbOrTrUDKasBsIC",
+        "Snapshot ID": "MSxmNjZiZDA5NGRlYWIwNmRhNjBiYTNhMzk0NmQ1MGY4YzI4ZDkyYWJh",
+        "Playlist Name": "ATC 2007-07-21 Sat All Things Considered"
     },
     {
         "Title": "Should U.N. Expand Its Role in Iraq?",
@@ -28,7 +32,12 @@
         "ATC Track": "LOWDOWN",
         "ATC Artists": [
             "BELA FLECK"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Proposal Funds Child Health Care with Tobacco Tax",
@@ -46,7 +55,15 @@
         "ATC Track": "Too Much Tequila",
         "ATC Artists": [
             "The Champs"
-        ]
+        ],
+        "Result Track Name": "Too Much Tequila",
+        "Result Artist Names": [
+            "The Champs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gWAdYak6pGXWDG9phdesr",
+        "Result Album Name": "Greatest Hits / Tequila"
     },
     {
         "Title": "Summer Bounty Prompts Preservation Lesson",
@@ -65,13 +82,28 @@
         "ATC Artists": [
             "Yo-Yo Ma",
             "Edgar Meyer et. al."
-        ]
+        ],
+        "Result Track Name": "Pickles",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Yo-Yo Ma",
+            "Mark O'Connor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7JtVYs3hVlEkZlYQcO97DA",
+        "Result Album Name": "Appalachia Waltz (Remastered)"
     },
     {
         "ATC Track": "High Noon, film score",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Nancy Cunard: Rebellious Heiress, Inspired Life",
@@ -101,18 +133,42 @@
         "ATC Track": "Chameleon",
         "ATC Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ce66JznW8QbeyTdSzdGwR",
+        "Result Album Name": "Head Hunters"
     },
     {
         "ATC Track": "Beat It",
         "ATC Artists": [
             "Michael Jackson"
-        ]
+        ],
+        "Result Track Name": "Beat It",
+        "Result Artist Names": [
+            "Michael Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OOtq8tRnDM8kG2gqUPjAj",
+        "Result Album Name": "Thriller 25 Super Deluxe Edition"
     },
     {
         "ATC Track": "Be (Intro)",
         "ATC Artists": [
             "Common"
-        ]
+        ],
+        "Result Track Name": "Be (Intro)",
+        "Result Artist Names": [
+            "Common"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11aFVmFy8903RwDx4ohQiq",
+        "Result Album Name": "Be"
     }
 ]

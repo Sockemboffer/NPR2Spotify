@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-06-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:19:13"
+        "Scanned Date": "2022-02-07 00:19:13",
+        "Playlist URI": "15BjvIdwadQSSwIr4axEdm",
+        "Playlist Link": "https://open.spotify.com/playlist/15BjvIdwadQSSwIr4axEdm",
+        "Snapshot ID": "MSw5OWZlOTY4NjkxNjExNDhjNzA2YmQ1MTk5YWQ4MGJiMmZmZDEzMzcx",
+        "Playlist Name": "ATC 2007-06-24 Sun All Things Considered"
     },
     {
         "Title": "Iraq's 'Chemical Ali' Sentenced to Death",
@@ -28,13 +32,29 @@
         "ATC Track": "Delirium",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Delirium",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KH8m2RU7pADGBgnJqGJZc",
+        "Result Album Name": "Euphoria"
     },
     {
         "ATC Track": "E-Type",
         "ATC Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "E-Type",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YCRnrAvHz9MlBODCvl15X",
+        "Result Album Name": "Dad Man Cat"
     },
     {
         "Title": "Chancellor Brings Fresh View to D.C. School System",
@@ -52,7 +72,15 @@
         "ATC Track": "Flash of Wings",
         "ATC Artists": [
             "Julie Rivers"
-        ]
+        ],
+        "Result Track Name": "Flash of Wings",
+        "Result Artist Names": [
+            "Julie Rivers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uVsfz2k6YHe1ud1RUC54J",
+        "Result Album Name": "Spinning Gold"
     },
     {
         "Title": "California Teen Wins Top Honor at Braille Challenge",
@@ -64,13 +92,29 @@
         "ATC Track": "Perritos",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Perritos",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48vrhMPrBWt9sZfTnHlHTt",
+        "Result Album Name": "The Intercontinentals"
     },
     {
         "ATC Track": "Samba Rodeo",
         "ATC Artists": [
             "Bangalore"
-        ]
+        ],
+        "Result Track Name": "Samba Rodeo",
+        "Result Artist Names": [
+            "Bangalore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IOEjd0aPDVJg9ic1Dhk9F",
+        "Result Album Name": "Wanderlust"
     },
     {
         "Title": "Talking Houses Practically Sell Themselves",
@@ -95,19 +139,39 @@
         "ATC Artists": [
             "gary gray",
             "clifford benson"
-        ]
+        ],
+        "Result Track Name": "Clarinet Sonata in E-Flat Major, Op. 167: IV. Molto allegro",
+        "Result Artist Names": [
+            "Camille Saint-Saëns",
+            "Gary Gray",
+            "Clifford Benson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:608OhMcvHSnSS4I4l2jOwE",
+        "Result Album Name": "Arnold, Bernstein, Debussy, Martinů, Poulenc & Saint-Saëns: Works for Clarinet & Piano"
     },
     {
         "ATC Track": "Aquí Como Allá",
         "ATC Artists": [
             "Marc Ribot"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Carmen Cubana (Carmen, Suite II, No. 2 Habanera)",
         "ATC Artists": [
             "Klazz Brothers",
             "Cuba Percussion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

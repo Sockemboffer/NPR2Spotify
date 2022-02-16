@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-12-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:07:21"
+        "Scanned Date": "2022-02-07 00:07:21",
+        "Playlist URI": "4fGKdtg2iNeL5mRsjwUlrx",
+        "Playlist Link": "https://open.spotify.com/playlist/4fGKdtg2iNeL5mRsjwUlrx",
+        "Snapshot ID": "MSw5MGIwMTJlNzAzMzcwY2E1YTlkNzQ5YjUwMThmNGJkZjVkMTdmMzVh",
+        "Playlist Name": "ATC 2007-12-08 Sat All Things Considered"
     },
     {
         "Title": "Justice Dept. Opens Inquiry on Tapes' Destruction",
@@ -22,13 +26,26 @@
         "ATC Track": "A Solas",
         "ATC Artists": [
             "Butch Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pecados da Madrugada [Sins Before Dawn]",
         "ATC Artists": [
             "Suba"
-        ]
+        ],
+        "Result Track Name": "Pecados Da Madrugada",
+        "Result Artist Names": [
+            "Suba"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:15j52gNCjKqXEh12RaVlGU",
+        "Result Album Name": "Sao Paulo Confessions"
     },
     {
         "Title": "Experience, Character Issues in 2008 Election",
@@ -58,7 +75,15 @@
         "ATC Track": "Lex",
         "ATC Artists": [
             "Freddie Hubbard"
-        ]
+        ],
+        "Result Track Name": "Lex (Take 2)",
+        "Result Artist Names": [
+            "Freddie Hubbard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1y34qzS9jZCrGqzztL9Vkr",
+        "Result Album Name": "Minor Mishap"
     },
     {
         "Title": "How Cold Can It Get?",
@@ -83,18 +108,39 @@
         "ATC Artists": [
             "Mauro Palmas",
             "Elena Ledda"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Discontinued",
         "ATC Artists": [
             "Nomo"
-        ]
+        ],
+        "Result Track Name": "Discontinued",
+        "Result Artist Names": [
+            "Nomo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BkI4Yoh4a6p3v0PXogsjs",
+        "Result Album Name": "LP"
     },
     {
         "ATC Track": "Reasons",
         "ATC Artists": [
             "Nomo"
-        ]
+        ],
+        "Result Track Name": "Reasons",
+        "Result Artist Names": [
+            "Nomo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fNsK7HvRbXMalGhACpX10",
+        "Result Album Name": "New Tones"
     }
 ]

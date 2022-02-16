@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-12-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:08:34"
+        "Scanned Date": "2022-02-07 00:08:34",
+        "Playlist URI": "2f70nSCAuKYv1Nhuw5zVIY",
+        "Playlist Link": "https://open.spotify.com/playlist/2f70nSCAuKYv1Nhuw5zVIY",
+        "Snapshot ID": "MSwzYTc5MDE4OTVlNDY3OTI3MmJmNGVlODNjYzg2M2UzMTRlN2RkMDI3",
+        "Playlist Name": "ATC 2007-12-29 Sat All Things Considered"
     },
     {
         "Title": "Riots Break Out as Kenyans Await Election Results",
@@ -22,13 +26,26 @@
         "ATC Track": "FOOTPRINTS",
         "ATC Artists": [
             "JAI UTTAL"
-        ]
+        ],
+        "Result Track Name": "Footprints",
+        "Result Artist Names": [
+            "Jai Uttal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XOKWvLoI2PkcvR4SZ322Q",
+        "Result Album Name": "Footprints"
     },
     {
         "ATC Track": "Tunnel of Love/Dear 3",
         "ATC Artists": [
             "Peter Whitehead"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Listeners Share Greatest Accomplishments of 2007",
@@ -58,13 +75,29 @@
         "ATC Track": "The Golden Compass",
         "ATC Artists": [
             "Alexandre Desplat"
-        ]
+        ],
+        "Result Track Name": "The Golden Compass",
+        "Result Artist Names": [
+            "Alexandre Desplat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:110FYxqp1qqMY8MBwfagJ3",
+        "Result Album Name": "The Golden Compass (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "State Troopers, Pt. 1",
         "ATC Artists": [
             "Cornershop"
-        ]
+        ],
+        "Result Track Name": "State Troopers (Pt. 1)",
+        "Result Artist Names": [
+            "Cornershop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7bqUcAAfJUNzQu8uDU0Mrs",
+        "Result Album Name": "When I Was Born For The 7th Time (Expanded)"
     },
     {
         "Title": "Iowa Town Becomes Crossroads for Candidates",
@@ -82,7 +115,15 @@
         "ATC Track": "Baby Elephant Walk",
         "ATC Artists": [
             "The Skatalites"
-        ]
+        ],
+        "Result Track Name": "Baby Elephant Walk",
+        "Result Artist Names": [
+            "The Skatalites"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0LDMtRrf61IrmWf2rkuKw6",
+        "Result Album Name": "Skatalites & Friends At Randy's"
     },
     {
         "Title": "Artist Mary Frank Mingles the Real with the Mythical",
@@ -95,18 +136,36 @@
         "ATC Artists": [
             "London Festival Orchestra",
             "Alfred Scholz"
-        ]
+        ],
+        "Result Track Name": "The Thieving Magpie (\"La Gazza Ladra\"): Overture",
+        "Result Artist Names": [
+            "London Festival Orchestra Alfred Scholz"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6T2ueudxUM15hVqVCBsnX0",
+        "Result Album Name": "Coming Soon: Classical Music from Movie Trailers"
     },
     {
         "ATC Track": "Charade",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ruby's Rhumba",
         "ATC Artists": [
             "Jim Hoke"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

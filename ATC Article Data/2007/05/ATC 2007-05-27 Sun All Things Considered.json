@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-05-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:21:11"
+        "Scanned Date": "2022-02-07 00:21:11",
+        "Playlist URI": "53jhr09rNxqKr2etNFJvVB",
+        "Playlist Link": "https://open.spotify.com/playlist/53jhr09rNxqKr2etNFJvVB",
+        "Snapshot ID": "MSw1NDJjMTdlNjEzMzZiM2VjMjJmNDA3ZTQwYjA0YThiNzA5YTg0ZmI0",
+        "Playlist Name": "ATC 2007-05-27 Sun All Things Considered"
     },
     {
         "Title": "Blair Backs Tougher Interrogation Laws",
@@ -22,7 +26,12 @@
         "ATC Track": "Honey Suckle Suite",
         "ATC Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "DNA Finding May Aid Breast Cancer Fight ",
@@ -34,13 +43,29 @@
         "ATC Track": "The Constant Variables",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "The Constant Variables",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Mr7QNtqEvrnTQ4kYpkRSY",
+        "Result Album Name": "Silence Magnifies Sound"
     },
     {
         "ATC Track": "Forrowest",
         "ATC Artists": [
             "Forro in the Dark"
-        ]
+        ],
+        "Result Track Name": "Forrowest",
+        "Result Artist Names": [
+            "Forro In The Dark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KzOJdqRTYAouueUtnNNvx",
+        "Result Album Name": "Bonfires of Sao Joao"
     },
     {
         "Title": "French Drift Net Dispute Turns Nasty",
@@ -59,7 +84,15 @@
         "ATC Artists": [
             "Eddie",
             "Frank Thomas"
-        ]
+        ],
+        "Result Track Name": "Vacation Blues",
+        "Result Artist Names": [
+            "Eddie and Frank Thomas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ulg8NBxz9FtBgTxHjJrAQ",
+        "Result Album Name": "19 Angels"
     },
     {
         "Title": "A 'Gonzo' Mayoral Debate in Aspen",
@@ -71,13 +104,29 @@
         "ATC Track": "Spirit In the Sky",
         "ATC Artists": [
             "Norman Greenbaum"
-        ]
+        ],
+        "Result Track Name": "Spirit In The Sky",
+        "Result Artist Names": [
+            "Norman Greenbaum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jvN7eQJJt4nxQzgQfZ1SP",
+        "Result Album Name": "Spirit In The Sky"
     },
     {
         "ATC Track": "RIGHT DIRECTION",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": "Heading In The Right Direction-Marilyn Ali",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fxScgXxntxXf7j9gA25lA",
+        "Result Album Name": "Shagg'n On The Beach"
     },
     {
         "Title": "Letters: Dobson, Lloyd Alexander",
@@ -95,7 +144,15 @@
         "ATC Track": "Notting Hill Gate",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Notting Hill Gate",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59bRBzgcer2unoCHsk5DVe",
+        "Result Album Name": "Euphoria"
     },
     {
         "Title": "Two Veterans Cope with Combat Losses",
@@ -107,18 +164,42 @@
         "ATC Track": "SLIPPED THROUGH MY HAND",
         "ATC Artists": [
             "HARVEY REID"
-        ]
+        ],
+        "Result Track Name": "Slipped Through My Hand",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18MpmD17XaVOKVI1WaW1ke",
+        "Result Album Name": "The Autoharp Waltz"
     },
     {
         "ATC Track": "Li'i's Song",
         "ATC Artists": [
             "Keola Beamer"
-        ]
+        ],
+        "Result Track Name": "Li'i's Song",
+        "Result Artist Names": [
+            "Keola Beamer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2EEXUPHQ15b2VEWQ537cYB",
+        "Result Album Name": "Soliloquy: Ka Leo O Loko"
     },
     {
         "ATC Track": "Don't Think Twice, It's All Right",
         "ATC Artists": [
             "Billy Strange"
-        ]
+        ],
+        "Result Track Name": "Don't Think Twice, It's All Right",
+        "Result Artist Names": [
+            "Billy Goerdt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7yS6tttf5LHH01elWvxhQh",
+        "Result Album Name": "Dance Across The Planet"
     }
 ]

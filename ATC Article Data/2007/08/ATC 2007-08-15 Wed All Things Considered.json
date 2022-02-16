@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-08-15",
         "Day": "Wed",
-        "Scanned Date": "2022-02-07 00:15:02"
+        "Scanned Date": "2022-02-07 00:15:02",
+        "Playlist URI": "06Vkn1ZsbF5xKQz9WxBZxm",
+        "Playlist Link": "https://open.spotify.com/playlist/06Vkn1ZsbF5xKQz9WxBZxm",
+        "Snapshot ID": "MSxlYzJiMzRlODEzMTg1YTFjNGI2YThlOWE4ZWUzYTgyYzgxZTk4ZDI2",
+        "Playlist Name": "ATC 2007-08-15 Wed All Things Considered"
     },
     {
         "Title": "New Office to Usher Domestic Use of Spy Satellites",
@@ -28,13 +32,26 @@
         "ATC Track": "Tim & The Bears",
         "ATC Artists": [
             "Richard Thompson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Walk it Off",
         "ATC Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Walk It Off",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fJS2S24y9ibFbhn0PVU5W",
+        "Result Album Name": "Postcards from X"
     },
     {
         "Title": "NBA Ref Pleads Guilty, Faces 25 Years in Prison",
@@ -52,13 +69,32 @@
         "ATC Track": "Trooper",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Storm Trooper",
+        "Result Artist Names": [
+            "Stranger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4IiRtkXBtD3OEqcijF6eGj",
+        "Result Album Name": "Goa Kick"
     },
     {
         "ATC Track": "Invitation",
         "ATC Artists": [
             "Laurent de Wilde"
-        ]
+        ],
+        "Result Track Name": "Invitation",
+        "Result Artist Names": [
+            "Laurent De Wilde",
+            "Ira Coleman",
+            "Dion Parson",
+            "Bobby Thomas Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5q3Fz9v45FqMUyUvZz8206",
+        "Result Album Name": "Spoon-a-Rhythm"
     },
     {
         "Title": "Two Years After Katrina, the Mattios Return Home",
@@ -70,13 +106,29 @@
         "ATC Track": "I Got You (I Feel Good)",
         "ATC Artists": [
             "Joshua Redman"
-        ]
+        ],
+        "Result Track Name": "I Got You - I Feel Good",
+        "Result Artist Names": [
+            "Joshua Redman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Snag7BFP5fx7SonfLcSsh",
+        "Result Album Name": "Joshua Redman"
     },
     {
         "ATC Track": "Don't Get Around Much Anymore",
         "ATC Artists": [
             "Kevin Clark"
-        ]
+        ],
+        "Result Track Name": "Don't Get Around Much Anymore",
+        "Result Artist Names": [
+            "Kevin Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6jpGDQo3o0bf6OMNSetZlq",
+        "Result Album Name": "New Orleans Trumpet"
     },
     {
         "Title": "Summer Food: Mother Knows Best",
@@ -94,13 +146,29 @@
         "ATC Track": "Main Title",
         "ATC Artists": [
             "Richard Thompson"
-        ]
+        ],
+        "Result Track Name": "Main Title",
+        "Result Artist Names": [
+            "Richard Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:49j1TksR8K2sc7pOKkLkTP",
+        "Result Album Name": "A Beginners Guide To Electric Roots Music"
     },
     {
         "ATC Track": "Black Hole Sun",
         "ATC Artists": [
             "Chad Lawson Trio"
-        ]
+        ],
+        "Result Track Name": "Black Hole Sun",
+        "Result Artist Names": [
+            "Chad Lawson Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iAzrxBFN46e2PosOF7SbP",
+        "Result Album Name": "Unforeseen"
     },
     {
         "Title": "Homeowners Aiming to Refinance Hit Mortgage Rut",
@@ -124,13 +192,32 @@
         "ATC Track": "Fall",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "Fall 77",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nOfMh71HrodHRZZNArISP",
+        "Result Album Name": "Out Of The Woods"
     },
     {
         "ATC Track": "RHINE & COURTESAN",
         "ATC Artists": [
             "RACHEL'S"
-        ]
+        ],
+        "Result Track Name": "Rhine & Courtesan",
+        "Result Artist Names": [
+            "Christian Erik Frederickson",
+            "Jason Bingham Noble",
+            "Rachel Grimes",
+            "Rachel's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00Izkw5KpH4cxDbjjVXFCA",
+        "Result Album Name": "The Sea and the Bells"
     },
     {
         "Title": "One Year Later, Vestiges of War Fading in Israel",
@@ -148,14 +235,31 @@
         "ATC Track": "What You Love You Must Love Now",
         "ATC Artists": [
             "Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "What You Love You Must Love Now",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2R7bTCbxSrVlHkZDaQbVs2",
+        "Result Album Name": "Everywhere And Right Here"
     },
     {
         "ATC Track": "How Deep Is the Ocean?",
         "ATC Artists": [
             "Doc Cheatham",
             "Nicholas Payton"
-        ]
+        ],
+        "Result Track Name": "How Deep Is The Ocean?",
+        "Result Artist Names": [
+            "Doc Cheatham",
+            "Nicholas Payton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Lpial1Fd09ltohr6vjABb",
+        "Result Album Name": "Doc Cheatham & Nicholas Payton"
     },
     {
         "Title": "U.S. May Add Iran's Army to List of Terrorist Groups",
@@ -185,7 +289,12 @@
         "ATC Track": "In My Garage",
         "ATC Artists": [
             "E.s.t."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Russian Town Offers Rewards for Baby-Making",
@@ -209,12 +318,25 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Lone Official",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "The Lone Official",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bcwG2yt0hXKZ7eeACVobs",
+        "Result Album Name": "Aw C'mon"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-06-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:18:22"
+        "Scanned Date": "2022-02-07 00:18:22",
+        "Playlist URI": "2kMVkIxc8whhFXDNbUCBAr",
+        "Playlist Link": "https://open.spotify.com/playlist/2kMVkIxc8whhFXDNbUCBAr",
+        "Snapshot ID": "MSw1NmQxNzFkMWZmOGM5ODM2NmM5NmJkZDQ0YTE3ZjI0NTZhMDM1OTUx",
+        "Playlist Name": "ATC 2007-06-09 Sat All Things Considered"
     },
     {
         "Title": "President Bush Discusses Iraq, AIDS with Pope",
@@ -28,13 +32,29 @@
         "ATC Track": "Eighty Eights",
         "ATC Artists": [
             "Tom Verlaine"
-        ]
+        ],
+        "Result Track Name": "Eighty-Eights",
+        "Result Artist Names": [
+            "Tom Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:76puj3yZp7Hc4OyZ5NQlWa",
+        "Result Album Name": "Music For 88"
     },
     {
         "ATC Track": "Calimoxcho",
         "ATC Artists": [
             "Chris Brokaw"
-        ]
+        ],
+        "Result Track Name": "Calimoxcho",
+        "Result Artist Names": [
+            "Chris Brokaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1lEXouBfdYAn0EZKJHu24C",
+        "Result Album Name": "Red Cities"
     },
     {
         "Title": "Rwanda Lawmakers Vote to Scrap Death Penalty",
@@ -46,7 +66,15 @@
         "ATC Track": "Surrealism + Blues",
         "ATC Artists": [
             "Ben Weaver"
-        ]
+        ],
+        "Result Track Name": "Surrealism and Blues",
+        "Result Artist Names": [
+            "Ben Weaver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CvHslvEkCa9svZRLdnzsb",
+        "Result Album Name": "Paper Sky"
     },
     {
         "Title": "Man Spent Three Years in Treatment to Beat TB",
@@ -70,13 +98,23 @@
         "ATC Track": "Too Happy",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "At It Again",
         "ATC Artists": [
             "Cut-Out"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Night in New York, and the Ribs Are Smokin'",
@@ -94,7 +132,15 @@
         "ATC Track": "Homesick",
         "ATC Artists": [
             "Kings of Convenience"
-        ]
+        ],
+        "Result Track Name": "Homesick",
+        "Result Artist Names": [
+            "Kings of Convenience"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WeqauIUZSjsupDGXsXWsP",
+        "Result Album Name": "Riot On An Empty Street"
     },
     {
         "Title": "A Movie Big Enough for the Little Sparrow",
@@ -106,18 +152,39 @@
         "ATC Track": "Non, Je Ne Regrette Rien",
         "ATC Artists": [
             "Edith Piaf"
-        ]
+        ],
+        "Result Track Name": "Non, je ne regrette rien",
+        "Result Artist Names": [
+            "Édith Piaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0D4gIeyrMtxOAvCWsTHN9x",
+        "Result Album Name": "Edith Piaf - The Best Of"
     },
     {
         "ATC Track": "WALTZ FOR A LOVELY WIFE",
         "ATC Artists": [
             "STAN GETZ"
-        ]
+        ],
+        "Result Track Name": "Waltz For A Lovely Wife",
+        "Result Artist Names": [
+            "Stan Getz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j6ysNwF1l4FuO07kQFcpr",
+        "Result Album Name": "Nobody Else But Me"
     },
     {
         "ATC Track": "International Rumba",
         "ATC Artists": [
             "Music Ye Africa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

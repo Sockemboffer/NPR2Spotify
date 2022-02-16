@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-07-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:16:05"
+        "Scanned Date": "2022-02-07 00:16:05",
+        "Playlist URI": "6sloh6QW7lVmwe6O72Kfq7",
+        "Playlist Link": "https://open.spotify.com/playlist/6sloh6QW7lVmwe6O72Kfq7",
+        "Snapshot ID": "MSw4MjhkYjdlZGE4NzYyY2U2MTE1Zjg0NzhkNGRmODhmYzg3ODM2YmU1",
+        "Playlist Name": "ATC 2007-07-01 Sun All Things Considered"
     },
     {
         "Title": "More Suspects Sought in British Terrorist Attacks",
@@ -28,13 +32,29 @@
         "ATC Track": "Sultry",
         "ATC Artists": [
             "Joe Pass"
-        ]
+        ],
+        "Result Track Name": "Sultry",
+        "Result Artist Names": [
+            "Joe Pass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HV88pt1mVtv1BZrDlBOnr",
+        "Result Album Name": "Virtuoso #3"
     },
     {
         "ATC Track": "Blues for Basie",
         "ATC Artists": [
             "Joe Pass"
-        ]
+        ],
+        "Result Track Name": "Blues For Basie",
+        "Result Artist Names": [
+            "Joe Pass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sukQuVWilx3ayttTxChR4",
+        "Result Album Name": "Virtuoso #2"
     },
     {
         "Title": "Bush, Putin Meet for Talks in Maine",
@@ -58,7 +78,15 @@
         "ATC Track": "Whitey",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "Whitey",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5H5VRmtakXcxOBPEIopCB9",
+        "Result Album Name": "Tools in the Dryer"
     },
     {
         "Title": "Lost Pearl Buck Manuscript Recovered",
@@ -70,14 +98,32 @@
         "ATC Track": "The Jumpin' Blues [Live]",
         "ATC Artists": [
             "Kenny Burrell"
-        ]
+        ],
+        "Result Track Name": "Jumpin' The Blues - Live At The Village Vanguard, 1986",
+        "Result Artist Names": [
+            "Kenny Burrell",
+            "The Jazz Guitar Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74gHpNQGuFgamqeVXT2Xvf",
+        "Result Album Name": "Generation (Live)"
     },
     {
         "ATC Track": "Bonde",
         "ATC Artists": [
             "Ali Farka Touré",
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Bonde (with Ry Cooder)",
+        "Result Artist Names": [
+            "Ali Farka Touré",
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7L5FEYVfpIEGHJOv6gZ6EW",
+        "Result Album Name": "Talking Timbuktu (with Ry Cooder)"
     },
     {
         "Title": "Family Pauses over Woman's Posthumous Request",
@@ -89,7 +135,15 @@
         "ATC Track": "My One and Only Love",
         "ATC Artists": [
             "Kenny Burrell"
-        ]
+        ],
+        "Result Track Name": "My One And Only Love",
+        "Result Artist Names": [
+            "Kenny Burrell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58EJ6mTsbeI1drmrLsNoui",
+        "Result Album Name": "Laid Back"
     },
     {
         "Title": "A Jazz Guitar Legend: Alive, Live and 75",
@@ -101,19 +155,40 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sophisticated Lady",
         "ATC Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Sophisticated Lady",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ua1p76h5Yy2u3dVZ9Qb0l",
+        "Result Album Name": "In a Sentimental Mood"
     },
     {
         "ATC Track": "High Heeled Sneakers",
         "ATC Artists": [
             "Grant Green",
             "Big John Patton et. al."
-        ]
+        ],
+        "Result Track Name": "High Heeled Sneakers",
+        "Result Artist Names": [
+            "Grant Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:6zYYKExYh3dcCadKSsXRCm",
+        "Result Album Name": "Jazz For The Open Road"
     }
 ]

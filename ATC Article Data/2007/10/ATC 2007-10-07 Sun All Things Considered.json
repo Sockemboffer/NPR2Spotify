@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-10-07",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:11:07"
+        "Scanned Date": "2022-02-07 00:11:07",
+        "Playlist URI": "7GaiTWG65dTk6RJxytJ3H0",
+        "Playlist Link": "https://open.spotify.com/playlist/7GaiTWG65dTk6RJxytJ3H0",
+        "Snapshot ID": "MSwzMTE4MDMxYTQ5ODY1NTcyM2JkMjJkMTcwZDQ2ZWVkOWE5OTM1Nzlh",
+        "Playlist Name": "ATC 2007-10-07 Sun All Things Considered"
     },
     {
         "Title": "Gen. Petraeus Steps Up Accusations Against Iran",
@@ -23,14 +27,30 @@
         "ATC Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Sunny",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:3S80BeZOHtVw59qop6i4bv",
+        "Result Album Name": "Hip Hug-Her"
     },
     {
         "ATC Track": "Hip Hug-Her",
         "ATC Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Hip Hug-Her",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:4lkwEgSppKli27thHdeRgc",
+        "Result Album Name": "Hip Hug-Her"
     },
     {
         "Title": "Paul Has Long Drawn Support from Unlikely Places",
@@ -60,13 +80,29 @@
         "ATC Track": "Centerfield",
         "ATC Artists": [
             "John Fogerty"
-        ]
+        ],
+        "Result Track Name": "Centerfield",
+        "Result Artist Names": [
+            "John Fogerty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iRfjwzPsooCskZrrlsgcC",
+        "Result Album Name": "Centerfield - 25th Anniversary"
     },
     {
         "ATC Track": "7 Stars",
         "ATC Artists": [
             "The Apples in Stereo"
-        ]
+        ],
+        "Result Track Name": "7 Stars",
+        "Result Artist Names": [
+            "The Apples In Stereo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qqKyxpJyaUs2xdmqs6AD8",
+        "Result Album Name": "New Magnetic Wonder"
     },
     {
         "Title": "Pyongyang Pops: the Philharmonic Goes to Korea",
@@ -85,7 +121,12 @@
         "ATC Artists": [
             "Coleman Hawkins",
             "Georgie Auld et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Healing Old Hostilities: John Fogerty's 'Revival'",
@@ -97,12 +138,29 @@
         "ATC Track": "Back Stabbers",
         "ATC Artists": [
             "The O'Jays"
-        ]
+        ],
+        "Result Track Name": "Back Stabbers",
+        "Result Artist Names": [
+            "The O'Jays"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KpMY3D2G8253VTZbDBUmA",
+        "Result Album Name": "Back Stabbers"
     },
     {
         "ATC Track": "Rockford Files",
         "ATC Artists": [
             "Mike Post"
-        ]
+        ],
+        "Result Track Name": "Theme from The Rockford Files (feat. Larry Carlton)",
+        "Result Artist Names": [
+            "Mike Post",
+            "Larry Carlton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ZX5pIdGQaeHxtHHe7v6ku",
+        "Result Album Name": "Television Theme Songs"
     }
 ]

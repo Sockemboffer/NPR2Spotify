@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-02-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:25:04"
+        "Scanned Date": "2022-02-07 00:25:04",
+        "Playlist URI": "6Ekl1N1MVVK6jPbfTrOJX2",
+        "Playlist Link": "https://open.spotify.com/playlist/6Ekl1N1MVVK6jPbfTrOJX2",
+        "Snapshot ID": "MSxiZmRkM2UyNjI0NWJlYWQ0YTExNzA4Yzc2MzBlNGYyZDdlODY5ZDZk",
+        "Playlist Name": "ATC 2007-02-04 Sun All Things Considered"
     },
     {
         "Title": "Iraqis Bury Dead from Massive Truck Bombing",
@@ -28,7 +32,15 @@
         "ATC Track": "Nu Tones",
         "ATC Artists": [
             "Nomo"
-        ]
+        ],
+        "Result Track Name": "Nu Tones",
+        "Result Artist Names": [
+            "Nomo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HKKQEflaYZmwLrAYJPFek",
+        "Result Album Name": "New Tones"
     },
     {
         "Title": "Calderon and Chavez Trade Barbs over Economics",
@@ -46,7 +58,15 @@
         "ATC Track": "Go It Alone",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Go It Alone",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zeCIWu37bKFJuem8MTyM1",
+        "Result Album Name": "Guero"
     },
     {
         "Title": "Opera Dips Its Toes into the Podcast Pond",
@@ -64,13 +84,26 @@
         "ATC Track": "40's Love Song",
         "ATC Artists": [
             "Becky Archibald"
-        ]
+        ],
+        "Result Track Name": "40's Love Song",
+        "Result Artist Names": [
+            "Becky Archibald"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jUEaZFOcu8iYmf6gmuql5",
+        "Result Album Name": "The Long Ride Home"
     },
     {
         "ATC Track": "Chroma",
         "ATC Artists": [
             "Jon Madof"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kathleen Turner Takes the Stage, on the Road",
@@ -82,18 +115,43 @@
         "ATC Track": "New Metropolitan Swing",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": "New Metropolitan Swing",
+        "Result Artist Names": [
+            "Pearl Django"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tcxlQWYWbZ23aTOglSuxt",
+        "Result Album Name": "Under Paris Skies"
     },
     {
         "ATC Track": "Strange Bath",
         "ATC Artists": [
             "Jon Brion"
-        ]
+        ],
+        "Result Track Name": "Strange Bath",
+        "Result Artist Names": [
+            "Jon Brion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iPWNsibVHCwarTxT6Vunk",
+        "Result Album Name": "I Love Huckabees (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Tabu (Taboo)",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Tabu (Taboo)",
+        "Result Artist Names": [
+            "Margarita Lecuona",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1rAqLfr4FlcjItFU0aUttr",
+        "Result Album Name": "Kronos Explorer Series"
     }
 ]

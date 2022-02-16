@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-12-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:06:56"
+        "Scanned Date": "2022-02-07 00:06:56",
+        "Playlist URI": "1lMvXk9AnkRtiQ5Uu3m8xd",
+        "Playlist Link": "https://open.spotify.com/playlist/1lMvXk9AnkRtiQ5Uu3m8xd",
+        "Snapshot ID": "MSwxMTY4YWJkZjZjYWZhN2EzMGYwOWUwNWZmNzhjNDVhYWQ0MTNiMDM1",
+        "Playlist Name": "ATC 2007-12-02 Sun All Things Considered"
     },
     {
         "Title": "Venezuela Votes on Broad Powers for Chavez",
@@ -28,13 +32,32 @@
         "ATC Track": "GAVOTTE EN RONDEAU",
         "ATC Artists": [
             "RON CARTER"
-        ]
+        ],
+        "Result Track Name": "Gavotte En Rondeau",
+        "Result Artist Names": [
+            "Anthony Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4ccMMveSn2CnzyziJbMBjh",
+        "Result Album Name": "Around The World Deluxe"
     },
     {
         "ATC Track": "Green Groves of Erin/The Flowers of Red Hill",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": "The Green Groves of Erin / The Flowers of Red Hill",
+        "Result Artist Names": [
+            "Traditional",
+            "Yo-Yo Ma",
+            "Mark O'Connor",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3x2VFYyOaKlWnGdlEwY5eW",
+        "Result Album Name": "Appalachia Waltz (Remastered)"
     },
     {
         "Title": "FCC Moves to Protect Low-Power FM Stations",
@@ -70,14 +93,31 @@
         "ATC Track": "Yesternow",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Yesternow - Live",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6qECihVjI1HxAI1swaZ7I3",
+        "Result Album Name": "The Lost Septet (Live)"
     },
     {
         "ATC Track": "They Call the Wind Maria",
         "ATC Artists": [
             "Art Blakey",
             "the Jazz Messengers"
-        ]
+        ],
+        "Result Track Name": "They Call the Wind Mariah (feat. Johnny Griffin)",
+        "Result Artist Names": [
+            "Art Blakey & The Jazz Messengers",
+            "Johnny Griffin"
+        ],
+        "Result Track-Match Percent": 0.6153846153846154,
+        "Result Artists-Match Percent": 0.8333333333333334,
+        "Result Track URI": "spotify:track:3LPQlgAgD6n3LZ0z9nCz43",
+        "Result Album Name": "1957 Second Edition (feat. Johnny Griffin)"
     },
     {
         "Title": "Dodd Looks for Boost in Iowa",
@@ -101,18 +141,40 @@
         "ATC Track": "Going Down the Road Feeling Bad",
         "ATC Artists": [
             "Etta Baker"
-        ]
+        ],
+        "Result Track Name": "Going Down the Road Feeling Bad",
+        "Result Artist Names": [
+            "Etta Baker",
+            "Cora Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qiXg9KqOAxt98S1RthOxQ",
+        "Result Album Name": "Carolina Breakdown"
     },
     {
         "ATC Track": "Good Old Bosom Bread",
         "ATC Artists": [
             "Hot Lips Page"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Slippin' Til My Gal Comes in Partner",
         "ATC Artists": [
             "Rev. Gary Davis"
-        ]
+        ],
+        "Result Track Name": "Slippin' 'Til My Gal Comes In Partner",
+        "Result Artist Names": [
+            "Rev. Gary Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dtEEMSI8GO75NMWN8NwMp",
+        "Result Album Name": "Demons & Angels: The Ultimate Collection, Pt. 1"
     }
 ]

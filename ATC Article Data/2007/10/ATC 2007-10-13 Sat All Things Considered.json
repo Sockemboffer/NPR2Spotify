@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-10-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:11:28"
+        "Scanned Date": "2022-02-07 00:11:28",
+        "Playlist URI": "4mNr17Bo1rn2m0P8mDWDl2",
+        "Playlist Link": "https://open.spotify.com/playlist/4mNr17Bo1rn2m0P8mDWDl2",
+        "Snapshot ID": "MSw2ZjA3ZWI0OGY4ODNjYTJjNTEwYmEzYjk0NTFkZGU5YzE1OTQyMGQw",
+        "Playlist Name": "ATC 2007-10-13 Sat All Things Considered"
     },
     {
         "Title": "Ex-Commander Sanchez Faults Iraq Strategy",
@@ -23,13 +27,27 @@
         "ATC Artists": [
             "Vladimir Leyetchkiss",
             "piano"
-        ]
+        ],
+        "Result Track Name": "Waltz in E Minor",
+        "Result Artist Names": [
+            "Alexander Griboyedov",
+            "Vladimir Leyetchkiss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3KB2zu18Y1hJafPytSxDj1",
+        "Result Album Name": "Russian Reveries"
     },
     {
         "ATC Track": "Froggy Bottom",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Shots for NASCAR Fans?",
@@ -59,7 +77,12 @@
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tracing 'King Corn' Through America",
@@ -89,19 +112,37 @@
         "ATC Track": "THEME FROM \" DRACULA\" (FROM SWAN LAKE)",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Mr. Lucky",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Jericho",
         "ATC Artists": [
             "Booker T.",
             "The MG's"
-        ]
+        ],
+        "Result Track Name": "Jericho",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1inI4OLHL1yAnQbxX645DW",
+        "Result Album Name": "The Albums 1962-1968"
     }
 ]

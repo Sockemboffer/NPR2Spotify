@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-10-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:11:31"
+        "Scanned Date": "2022-02-07 00:11:31",
+        "Playlist URI": "2KtL9aLl3hWknbDFK7KDOP",
+        "Playlist Link": "https://open.spotify.com/playlist/2KtL9aLl3hWknbDFK7KDOP",
+        "Snapshot ID": "MSwxMThhYzNiMDA0ZDhkY2UxN2MzOGU0MTM3M2MxMmVkOTMwZDc5OWYy",
+        "Playlist Name": "ATC 2007-10-14 Sun All Things Considered"
     },
     {
         "Title": "General: Resolution a Threat to U.S.-Turkish Ties",
@@ -23,7 +27,16 @@
         "ATC Artists": [
             "Laurindo Almeida",
             "The Modern Jazz Quartet"
-        ]
+        ],
+        "Result Track Name": "One Note Samba",
+        "Result Artist Names": [
+            "The Modern Jazz Quartet",
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55WUiRJj3fFEu3tURJNtVA",
+        "Result Album Name": "MJQ: 40 Years [Box Set]"
     },
     {
         "Title": "'Security Letters' Aimed at Pentagon Workers",
@@ -36,14 +49,30 @@
         "ATC Artists": [
             "Eric Bachmann",
             "Eunice Kang et. al."
-        ]
+        ],
+        "Result Track Name": "A Diamond Is the Devils Eye",
+        "Result Artist Names": [
+            "Eric Bachmann"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5Tr9lfetRWjtx1oUfQ84S6",
+        "Result Album Name": "Short Careers - Ball of Wax"
     },
     {
         "ATC Track": "A Diamond Is the Devil's Eye",
         "ATC Artists": [
             "Eric Bachmann",
             "Eunice Kang et. al."
-        ]
+        ],
+        "Result Track Name": "A Diamond Is the Devils Eye",
+        "Result Artist Names": [
+            "Eric Bachmann"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5Tr9lfetRWjtx1oUfQ84S6",
+        "Result Album Name": "Short Careers - Ball of Wax"
     },
     {
         "Title": "Tapes Shed More Light on LBJ's Vietnam Struggle",
@@ -61,7 +90,15 @@
         "ATC Track": "Luminitza",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Luminitza",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nbRICrzFeYEAEiHwfAqBa",
+        "Result Album Name": "Luminitza (Reissue)"
     },
     {
         "Title": "Pressure Grows to Clean Up Brooklyn Oil Spill",
@@ -79,13 +116,26 @@
         "ATC Track": "Elephant Walk",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Curiosity",
         "ATC Artists": [
             "Lalo"
-        ]
+        ],
+        "Result Track Name": "curiosity",
+        "Result Artist Names": [
+            "Lalo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oEscdUnzNyydWQQxb9Lfj",
+        "Result Album Name": "Half Moon"
     },
     {
         "Title": "Sri Chinmoy's Weight-Lifting Skills Wowed Fans",
@@ -109,18 +159,42 @@
         "ATC Track": "Sister",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "Sister",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7yAT9Bg4zFUZgXbTmaZJwM",
+        "Result Album Name": "Who Is This America?"
     },
     {
         "ATC Track": "Yakima",
         "ATC Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Yakima",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07FRbB2dc6eZha34mEBCfS",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "ATC Track": "In a Persian Market",
         "ATC Artists": [
             "Taraf de Haidouks"
-        ]
+        ],
+        "Result Track Name": "In A Persian Market",
+        "Result Artist Names": [
+            "Taraf de Haidouks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BI6ABrZuyInvBaRnUWv2u",
+        "Result Album Name": "Maskarada"
     }
 ]

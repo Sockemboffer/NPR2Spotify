@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-07-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:17:45"
+        "Scanned Date": "2022-02-07 00:17:45",
+        "Playlist URI": "4Piok9GUHfhT889VZZ3WvS",
+        "Playlist Link": "https://open.spotify.com/playlist/4Piok9GUHfhT889VZZ3WvS",
+        "Snapshot ID": "MSwxMzIxOTZmNTNhYmVhMDg0MDM2ZTk2YjE0Y2UwN2JkZDNiYTc0ZDJk",
+        "Playlist Name": "ATC 2007-07-28 Sat All Things Considered"
     },
     {
         "Title": "White House Eyes Billions in Arms for Mid-East",
@@ -22,13 +26,29 @@
         "ATC Track": "you belong to my heart",
         "ATC Artists": [
             "juan garcia esquivel"
-        ]
+        ],
+        "Result Track Name": "You Belong to My Heart - Remastered",
+        "Result Artist Names": [
+            "Esquivel!"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7IT8UeLMn2GoMB9ScqS63X",
+        "Result Album Name": "The Sound of Esquivel! / El Sonido de Esquivel! (Remastered)"
     },
     {
         "ATC Track": "Star Wars Main Title",
         "ATC Artists": [
             "The Evil Genius Orchestra"
-        ]
+        ],
+        "Result Track Name": "Star Wars Main Title",
+        "Result Artist Names": [
+            "Evil Genius Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:3HqYXrtgXtqpKoD1s1Ra16",
+        "Result Album Name": "The Evil Genius Awakens & Strikes Back With A New Hope"
     },
     {
         "Title": "Plainfield Riots Remembered 40 Years Later",
@@ -46,7 +66,15 @@
         "ATC Track": "Rain Leaves Smoke",
         "ATC Artists": [
             "Ben Weaver"
-        ]
+        ],
+        "Result Track Name": "Rain Leaves Smoke",
+        "Result Artist Names": [
+            "Ben Weaver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nCtfsrzCYFx6ugDPRxCin",
+        "Result Album Name": "Paper Sky"
     },
     {
         "Title": "'Safe Zone' Method for Wildfires Questioned",
@@ -59,13 +87,30 @@
         "ATC Artists": [
             "The Chasers",
             "Terje Rypdal"
-        ]
+        ],
+        "Result Track Name": "Last Nite",
+        "Result Artist Names": [
+            "Terje Rypdal",
+            "The Chasers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:38KZlmW0tvY9cLBq1S0KvP",
+        "Result Album Name": "Blue"
     },
     {
         "ATC Track": "Where It's At",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Where It's At",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Pdjem5pj41gilOgXqkNtL",
+        "Result Album Name": "Odelay (Deluxe Edition)"
     },
     {
         "Title": "Brother, Can You Spare $2 Million for a Dime?",
@@ -90,12 +135,25 @@
         "ATC Artists": [
             "Baixos",
             "Heleno Dos Oito"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Donna Lee",
         "ATC Artists": [
             "Jaco Pastorius"
-        ]
+        ],
+        "Result Track Name": "Donna Lee",
+        "Result Artist Names": [
+            "Jaco Pastorius"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CfCkdTNWFQDopWol8SWYQ",
+        "Result Album Name": "Jaco Pastorius"
     }
 ]

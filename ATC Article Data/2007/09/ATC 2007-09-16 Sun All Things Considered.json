@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-09-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:13:25"
+        "Scanned Date": "2022-02-07 00:13:25",
+        "Playlist URI": "1ul6diS4wMgSEJf4gk6nxo",
+        "Playlist Link": "https://open.spotify.com/playlist/1ul6diS4wMgSEJf4gk6nxo",
+        "Snapshot ID": "MSwzY2ZkNGMwMGY2MGIzYjhkZWI0MDQwYzEwOGNhY2NhNjVhNTViMmMy",
+        "Playlist Name": "ATC 2007-09-16 Sun All Things Considered"
     },
     {
         "Title": "Iowa Steak Fry Draws Presidential Hopefuls",
@@ -28,13 +32,29 @@
         "ATC Track": "Believe In Me",
         "ATC Artists": [
             "I Am the World Trade Center"
-        ]
+        ],
+        "Result Track Name": "Believe In Me",
+        "Result Artist Names": [
+            "I Am The World Trade Center"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:046fka3sklxT9ZaDSAoUZ8",
+        "Result Album Name": "The Tight Connection"
     },
     {
         "ATC Track": "ROCK STEADY",
         "ATC Artists": [
             "JOHNNY HAMMOND"
-        ]
+        ],
+        "Result Track Name": "Rock Steady",
+        "Result Artist Names": [
+            "Johnny \"Hammond\" Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5CRhXxqIacNKOnSR9v92pP",
+        "Result Album Name": "Wild Horses/Rock Steady (CTI Records 40th Anniversary Edition)"
     },
     {
         "Title": "Ruling Party Declares Victory in Greek Elections",
@@ -47,7 +67,16 @@
         "ATC Artists": [
             "Love Trio in Dub",
             "U-Roy"
-        ]
+        ],
+        "Result Track Name": "Lovers Rock",
+        "Result Artist Names": [
+            "Love Trio In Dub",
+            "U-Roy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7uEXQSskyo1p3Ynf7zbOxa",
+        "Result Album Name": "Lovers Rock"
     },
     {
         "Title": "Fast-Food Ban Proposed in South Los Angeles",
@@ -71,7 +100,15 @@
         "ATC Track": "Love Is In the Air",
         "ATC Artists": [
             "The Juan Maclean"
-        ]
+        ],
+        "Result Track Name": "Love Is In The Air",
+        "Result Artist Names": [
+            "The Juan Maclean"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vBkfeg0kRQOlHAmyiWNbg",
+        "Result Album Name": "Less Than Human"
     },
     {
         "Title": "Tsunami Test Allows Researchers to Prepare",
@@ -83,7 +120,15 @@
         "ATC Track": "Boy Scout in Switzerland",
         "ATC Artists": [
             "Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "Boy Scout in Switzerland",
+        "Result Artist Names": [
+            "The Beau Hunks Sextette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lXXYxrYeRXSRsZD6akK6I",
+        "Result Album Name": "Celebration On The Planet Mars: A Tribute to Raymond Scott"
     },
     {
         "Title": "Letters: Obstructing Hopper's View",
@@ -107,12 +152,25 @@
         "ATC Track": "Charade",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pretty Stars Were Made to Shine",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Pretty Stars Were Made to Shine",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YRYkJwXSrJhrqTT9rootT",
+        "Result Album Name": "Blues Dream"
     }
 ]

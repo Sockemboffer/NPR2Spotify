@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-01-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:28:03"
+        "Scanned Date": "2022-02-07 00:28:03",
+        "Playlist URI": "3vajWRUpw9YlnXgAwR217i",
+        "Playlist Link": "https://open.spotify.com/playlist/3vajWRUpw9YlnXgAwR217i",
+        "Snapshot ID": "MSw0NjJiYjIwMGUwYzI4ODA2ZDBlYzI2YTQzYTk1YmRlYTNlMzFiYzQx",
+        "Playlist Name": "ATC 2007-01-28 Sun All Things Considered"
     },
     {
         "Title": "A View from Inside the Troop Escalation",
@@ -22,13 +26,26 @@
         "ATC Track": "Playground",
         "ATC Artists": [
             "Henry Adam Curtis"
-        ]
+        ],
+        "Result Track Name": "Playground",
+        "Result Artist Names": [
+            "Henry Adam Curtis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WTrTdaaMU6oJsrDLvm8qW",
+        "Result Album Name": "Sundown: A Windam Hill Piano Collection"
     },
     {
         "ATC Track": "Children's Song",
         "ATC Artists": [
             "Oystein Sevag"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "From Sinn Fein, a Surprise Call for Cooperation",
@@ -52,7 +69,15 @@
         "ATC Track": "Pavane",
         "ATC Artists": [
             "Steve Erquiaga"
-        ]
+        ],
+        "Result Track Name": "Pavane",
+        "Result Artist Names": [
+            "Steve Erquiaga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RXbgts7F6Qn9UIziiKhDa",
+        "Result Album Name": "Touch - Windham Hill 25 Years of Guitar"
     },
     {
         "Title": "Letters: Marine Siblings, Ultra-Precise Comments",
@@ -64,7 +89,12 @@
         "ATC Track": "Spinoff",
         "ATC Artists": [
             "Phil Heywood"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Derby Winner Barbaro Still at Risk from Injuries",
@@ -94,18 +124,39 @@
         "ATC Track": "Gymnopédie No. 3",
         "ATC Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "KU'U KIKA KAHIKO (MY OLD GUITAR)",
         "ATC Artists": [
             "OZZIE KOTANI"
-        ]
+        ],
+        "Result Track Name": "Ku'u Kika Kahiko (My Old Guitar)",
+        "Result Artist Names": [
+            "Ozzie Kotani"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4IO1CLctemp8uSohzGLhvZ",
+        "Result Album Name": "Kani Kī Hō'alu"
     },
     {
         "ATC Track": "Hobo's Blues",
         "ATC Artists": [
             "Paul Simon"
-        ]
+        ],
+        "Result Track Name": "Hobo's Blues",
+        "Result Artist Names": [
+            "Paul Simon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ibzGJgUhqJId3IMgzhufM",
+        "Result Album Name": "Paul Simon"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-09-17",
         "Day": "Mon",
-        "Scanned Date": "2022-02-07 00:13:28"
+        "Scanned Date": "2022-02-07 00:13:28",
+        "Playlist URI": "4Ec9yZeF0nzP8HrzjvoCJC",
+        "Playlist Link": "https://open.spotify.com/playlist/4Ec9yZeF0nzP8HrzjvoCJC",
+        "Snapshot ID": "MSw0N2FlNWYzMmUyMWUyMjJmMDc0MzFiZGJmODA5MDRiOWYxYzVmYmI2",
+        "Playlist Name": "ATC 2007-09-17 Mon All Things Considered"
     },
     {
         "Title": "Lawyers Give AG Nominee Strong Marks",
@@ -22,13 +26,26 @@
         "ATC Track": "The Lawrence Tree",
         "ATC Artists": [
             "Goldspiel-Provost Classical Guitar Duo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Theme from Abbadesse's Street",
         "ATC Artists": [
             "Soulstance"
-        ]
+        ],
+        "Result Track Name": "Theme From 'abbadesse's Street'",
+        "Result Artist Names": [
+            "Soulstance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wMUHdDLMW4zJwRDVmXA2J",
+        "Result Album Name": "En Route"
     },
     {
         "Title": "Iraq Pulls Blackwater's License for Security Work",
@@ -46,7 +63,15 @@
         "ATC Track": "Outrage",
         "ATC Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Outrage",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10l7PlavaNnv4x8HsDvtNX",
+        "Result Album Name": "No Place Like Soul"
     },
     {
         "Title": "Climate Changes Lives of Whalers in Alaska",
@@ -58,7 +83,12 @@
         "ATC Track": "Gratitude",
         "ATC Artists": [
             "Rick Ruskin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'The Virginian' Teaches the Merit of a Man",
@@ -76,7 +106,12 @@
         "ATC Track": "Clandestiny",
         "ATC Artists": [
             "Elliott Sharp's Terraplane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mukasey Nomination Finds Friends on Hill",
@@ -100,13 +135,33 @@
         "ATC Track": "The Green Groves of Erin",
         "ATC Artists": [
             "Edgar Meyer"
-        ]
+        ],
+        "Result Track Name": "The Green Groves of Erin / The Flowers of Red Hill",
+        "Result Artist Names": [
+            "Traditional",
+            "Yo-Yo Ma",
+            "Mark O'Connor",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3x2VFYyOaKlWnGdlEwY5eW",
+        "Result Album Name": "Appalachia Waltz (Remastered)"
     },
     {
         "ATC Track": "Olé Baby",
         "ATC Artists": [
             "Mocean Worker"
-        ]
+        ],
+        "Result Track Name": "Olé Baby",
+        "Result Artist Names": [
+            "Mocean Worker",
+            "Oli Rockberger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PZLO7evXb5lqfGeIJe605",
+        "Result Album Name": "Cinco De Mowo!"
     },
     {
         "Title": "British Government Moves to Ease Bank Crisis",
@@ -124,13 +179,29 @@
         "ATC Track": "High Society",
         "ATC Artists": [
             "Eddie Miller"
-        ]
+        ],
+        "Result Track Name": "High Society",
+        "Result Artist Names": [
+            "Eddie Miller's Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lUsztZjxSYoKl8aZMCaP2",
+        "Result Album Name": "Classic Capitol Jazz Sessions"
     },
     {
         "ATC Track": "WATERMELON MAN",
         "ATC Artists": [
             "JIMMY SMITH ET AL"
-        ]
+        ],
+        "Result Track Name": "Watermelon Man",
+        "Result Artist Names": [
+            "Jimmy Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QDtu7hJ5WiV668Nddwv9A",
+        "Result Album Name": "Damn!"
     },
     {
         "Title": "Ordeal on Tarmac Turns Passenger into Activist",
@@ -150,7 +221,16 @@
             "Stef Burns",
             "D'Agostino",
             "Peppino"
-        ]
+        ],
+        "Result Track Name": "Better World",
+        "Result Artist Names": [
+            "Peppino D'Agostino",
+            "Stef Burns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21LnbIOGinz3kf5XrFE4MF",
+        "Result Album Name": "Bayshore Road"
     },
     {
         "Title": "Petraeus Report Changes Little in Iraq",
@@ -162,13 +242,26 @@
         "ATC Track": "Tigers",
         "ATC Artists": [
             "By the End of Tonight"
-        ]
+        ],
+        "Result Track Name": "Tigers",
+        "Result Artist Names": [
+            "By The End Of Tonight"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1A8d4OkpjLOM7x7vBwa4wZ",
+        "Result Album Name": "A Tribute to Tigers"
     },
     {
         "ATC Track": "The Big Parade",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Author Explores the Psalms, Sans Soul",
@@ -181,12 +274,25 @@
         "ATC Artists": [
             "booker t.",
             "the mg's"
-        ]
+        ],
+        "Result Track Name": "No Matter What Shape",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0Q6PiCHALOBQbWl8v6O7He",
+        "Result Album Name": "The Albums 1962-1968"
     },
     {
         "ATC Track": "Dollar of Soul",
         "ATC Artists": [
             "The Ethiopians"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-08-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:14:23"
+        "Scanned Date": "2022-02-07 00:14:23",
+        "Playlist URI": "70EAWqILmb42wOtPWSt8c8",
+        "Playlist Link": "https://open.spotify.com/playlist/70EAWqILmb42wOtPWSt8c8",
+        "Snapshot ID": "MSxjNThkNjU0MWNiMmM3YzZlYjk1OTBiYWM3NmM4ODAzMjU0YWViZjY1",
+        "Playlist Name": "ATC 2007-08-05 Sun All Things Considered"
     },
     {
         "Title": "GOP Candidates Debate in Iowa",
@@ -22,7 +26,15 @@
         "ATC Track": "Jaguar",
         "ATC Artists": [
             "John Gregory"
-        ]
+        ],
+        "Result Track Name": "Jaguar",
+        "Result Artist Names": [
+            "John Gregory"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3T6dG4EYGat81ulJqezEfG",
+        "Result Album Name": "Groovy Lounge"
     },
     {
         "Title": "Cars, I-35 Bridge Parts to Be Raised from River",
@@ -34,13 +46,26 @@
         "ATC Track": "Radio Ballet",
         "ATC Artists": [
             "Eluvium"
-        ]
+        ],
+        "Result Track Name": "Radio Ballet",
+        "Result Artist Names": [
+            "Eluvium"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0waNeA3SmTtmwK5QjFsGRo",
+        "Result Album Name": "Copia"
     },
     {
         "ATC Track": "Diverse bizzarie Sopra la Vecchia Sarabanda o pur Ciaccona (from Ayres for the Violin)",
         "ATC Artists": [
             "Palladian Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Novelist Gordon's Personal Memoir of Her Mother",
@@ -52,7 +77,15 @@
         "ATC Track": "Cuckoo Shuffle",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Cuckoo Shuffle",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yu3zqysX0R0ECl1aJIJBP",
+        "Result Album Name": "Waiting for a Dancer"
     },
     {
         "Title": "Vietnamese Americans Make Pilgrimage to Missouri",
@@ -64,13 +97,30 @@
         "ATC Track": "Tabu (Taboo)",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Tabu (Taboo)",
+        "Result Artist Names": [
+            "Margarita Lecuona",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1rAqLfr4FlcjItFU0aUttr",
+        "Result Album Name": "Kronos Explorer Series"
     },
     {
         "ATC Track": "DEAR, WITH ME",
         "ATC Artists": [
             "THE BEAU HUNKS"
-        ]
+        ],
+        "Result Track Name": "Dear, With Me",
+        "Result Artist Names": [
+            "The Beau Hunks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1iUub1K20yWroBKKZDWM5I",
+        "Result Album Name": "The Beau Hunks Play The Original Laurel & Hardy Music"
     },
     {
         "Title": "School Officials Charged in Student's Drinking Death",
@@ -83,7 +133,16 @@
         "ATC Artists": [
             "Laurindo Almeida",
             "The Modern Jazz Quartet"
-        ]
+        ],
+        "Result Track Name": "One Note Samba",
+        "Result Artist Names": [
+            "The Modern Jazz Quartet",
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55WUiRJj3fFEu3tURJNtVA",
+        "Result Album Name": "MJQ: 40 Years [Box Set]"
     },
     {
         "Title": "Filmmaker Antonioni: An Appreciation",
@@ -107,18 +166,36 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Jerelon",
         "ATC Artists": [
             "Djessou Mory Kante"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Snorkel",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Snorkel",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31nRdOt2oJmsJ3UJPLh9Sp",
+        "Result Album Name": "One Guitar, No Vocals"
     }
 ]

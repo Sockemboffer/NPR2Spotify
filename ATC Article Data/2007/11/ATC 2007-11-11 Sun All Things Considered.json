@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-11-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:09:23"
+        "Scanned Date": "2022-02-07 00:09:23",
+        "Playlist URI": "0xul1C4ydzYn8X1jNJFhnP",
+        "Playlist Link": "https://open.spotify.com/playlist/0xul1C4ydzYn8X1jNJFhnP",
+        "Snapshot ID": "MSxmMjQ0NTJhNmQ1ZWQzOGJhZjYzMjJlNjM2YWI1ZGIyOTcwMGIwOTc0",
+        "Playlist Name": "ATC 2007-11-11 Sun All Things Considered"
     },
     {
         "Title": "Americans Gather to Mark Veterans Day",
@@ -34,13 +38,29 @@
         "ATC Track": "Sunspot",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Sunspot",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j3zTskvIYLNeODbs8yNNm",
+        "Result Album Name": "Play & Play: B Sides"
     },
     {
         "ATC Track": "Desert Rose",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "Desert Rose",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0MPgkoIlmnaSH5VYDMpSNe",
+        "Result Album Name": "Belladonna"
     },
     {
         "Title": "Reunions a Milestone for Argentina's Stolen Victims",
@@ -52,13 +72,29 @@
         "ATC Track": "Gaucho",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Gaucho",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mopXKLjBKnNbCBZm8naAH",
+        "Result Album Name": "Ronroco"
     },
     {
         "ATC Track": "DARK WAS THE NIGHT, COLD WAS THE GROUND",
         "ATC Artists": [
             "SAM MITCHELL"
-        ]
+        ],
+        "Result Track Name": "Dark Was the Night Cold Was the Ground",
+        "Result Artist Names": [
+            "Sam Mitchell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sQInKVdpo3XKKn5SAdT2n",
+        "Result Album Name": "Bottleneck / Slide Guitar"
     },
     {
         "Title": "Screenwriter Adapts 'Love' for the Silver Screen",
@@ -70,7 +106,15 @@
         "ATC Track": "Zing Zong",
         "ATC Artists": [
             "Kanda The Bongo Man"
-        ]
+        ],
+        "Result Track Name": "Zing Zong",
+        "Result Artist Names": [
+            "Kanda Bongo Man"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:1AzGbfsxr79vd4EWReQLnc",
+        "Result Album Name": "Zing Zong"
     },
     {
         "Title": "Finding Music in 'Finnegans Wake'",
@@ -94,18 +138,36 @@
         "ATC Track": "Concerto for Violin, Cello & Orchestra, Op. 85: Adagio",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bare Necessities [Lewis and Clark's Theme]",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Doorbell",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Doorbell",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19lNdsheoXrqs6EStRIAfb",
+        "Result Album Name": "My Father's Face"
     }
 ]

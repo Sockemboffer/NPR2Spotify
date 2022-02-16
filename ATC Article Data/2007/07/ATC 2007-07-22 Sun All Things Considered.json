@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-07-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:17:22"
+        "Scanned Date": "2022-02-07 00:17:22",
+        "Playlist URI": "3qekhMfpkmeySRuG738ACa",
+        "Playlist Link": "https://open.spotify.com/playlist/3qekhMfpkmeySRuG738ACa",
+        "Snapshot ID": "MSxiZTFmMjA1YjA2ZWFmOTMxNDNiNjJlNzQwYjE4NDc4ODkwZjViZDFl",
+        "Playlist Name": "ATC 2007-07-22 Sun All Things Considered"
     },
     {
         "Title": "Erdogan Claims Victory in Turkey Election",
@@ -33,13 +37,26 @@
             "Jim Hoke",
             "Jack Jezzro",
             "Rob Burns"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SEPTEMBER 13",
         "ATC Artists": [
             "DEODATO"
-        ]
+        ],
+        "Result Track Name": "September 13",
+        "Result Artist Names": [
+            "Deodato"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1XijA9LO8z5AzXWDWaDqpS",
+        "Result Album Name": "Prelude (CTI Records 40th Anniversary Edition)"
     },
     {
         "Title": "Under Pressure, Ethiopia Releases Prisoners",
@@ -63,19 +80,40 @@
         "ATC Track": "Mockingbird Hill",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Mockingbird Hill",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Va8b1n1JJ7Q2qLbFDNbop",
+        "Result Album Name": "Try And Stop Me"
     },
     {
         "ATC Track": "Flute Down [Radio Edit]",
         "ATC Artists": [
             "Karl Denson"
-        ]
+        ],
+        "Result Track Name": "Flute Down",
+        "Result Artist Names": [
+            "Karl Denson"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ta8Q8WAFl1DMqfG9rWJ3D",
+        "Result Album Name": "Dance Lesson No. 2"
     },
     {
         "ATC Track": "\"THE ADORATION OF THE EARTH\" FROM THE RITE OF SPRING/ \"SPRING ROUNDS\"/ \"RITUAL OF THE RIVAL TRIBES\"/",
         "ATC Artists": [
             "VARIOUS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Paul Poiret Bucked, Pioneered Fashion Trends",
@@ -93,18 +131,39 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "la bikina",
         "ATC Artists": [
             "juan garcia esquivel"
-        ]
+        ],
+        "Result Track Name": "La Bikina",
+        "Result Artist Names": [
+            "Esquivel!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0PHTt2wlEWaCYCsaq0QAGn",
+        "Result Album Name": "Colección Original RCA"
     },
     {
         "ATC Track": "DINAH",
         "ATC Artists": [
             "LIONEL HAMPTON"
-        ]
+        ],
+        "Result Track Name": "Dinah",
+        "Result Artist Names": [
+            "Lionel Hampton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11Bcmi7OpVjiHsFcHwcc3k",
+        "Result Album Name": "The Essential Coleman Hawkins"
     }
 ]

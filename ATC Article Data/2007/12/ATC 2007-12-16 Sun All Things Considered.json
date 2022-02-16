@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-12-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:07:51"
+        "Scanned Date": "2022-02-07 00:07:51",
+        "Playlist URI": "7gfiNnhHX4r27peCy2Xk82",
+        "Playlist Link": "https://open.spotify.com/playlist/7gfiNnhHX4r27peCy2Xk82",
+        "Snapshot ID": "MSw5ODMyODZkOTU5NzhlZGIwZThmNWI3NTBjZDcxNWMzZjAxN2ZmNDc5",
+        "Playlist Name": "ATC 2007-12-16 Sun All Things Considered"
     },
     {
         "Title": "Basra Security Forces Take Handoff from British",
@@ -16,7 +20,15 @@
         "ATC Track": "Luminitza",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Luminitza",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nbRICrzFeYEAEiHwfAqBa",
+        "Result Album Name": "Luminitza (Reissue)"
     },
     {
         "Title": "Letter from a Famous Hostage Stirs Colombia",
@@ -29,13 +41,30 @@
         "ATC Artists": [
             "Sergio",
             "Odair Assad"
-        ]
+        ],
+        "Result Track Name": "Chora coração",
+        "Result Artist Names": [
+            "Antônio Carlos Jobim",
+            "Sergio & Odair Assad"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0NRcqAxke9QkPPXD2OdrPm",
+        "Result Album Name": "Jardim Abandonado"
     },
     {
         "ATC Track": "Night White",
         "ATC Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Night White",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zRc259pg9Ia2MQI8pMDQE",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "Title": "McCain, Clinton Win Big Endorsement in Iowa",
@@ -65,13 +94,23 @@
         "ATC Track": "Haitian Fight Song",
         "ATC Artists": [
             "Hung Drawn Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sky Cloud Winter Breeze",
         "ATC Artists": [
             "Orba Squara"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A 'Legend' of a Tale, Remade for Era After Era",
@@ -95,18 +134,42 @@
         "ATC Track": "You Send Me",
         "ATC Artists": [
             "Sam Cooke"
-        ]
+        ],
+        "Result Track Name": "You Send Me",
+        "Result Artist Names": [
+            "Sam Cooke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cxNWBuLupOEO3HB5OFgWQ",
+        "Result Album Name": "Love Volume 1"
     },
     {
         "ATC Track": "DARK WAS THE NIGHT, COLD WAS THE GROUND",
         "ATC Artists": [
             "SAM MITCHELL"
-        ]
+        ],
+        "Result Track Name": "Dark Was the Night Cold Was the Ground",
+        "Result Artist Names": [
+            "Sam Mitchell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sQInKVdpo3XKKn5SAdT2n",
+        "Result Album Name": "Bottleneck / Slide Guitar"
     },
     {
         "ATC Track": "Snorkel",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Snorkel",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31nRdOt2oJmsJ3UJPLh9Sp",
+        "Result Album Name": "One Guitar, No Vocals"
     }
 ]

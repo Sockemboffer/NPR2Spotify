@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-01-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:27:32"
+        "Scanned Date": "2022-02-07 00:27:32",
+        "Playlist URI": "3KE5QAhhQnb5s4ENH3fYOs",
+        "Playlist Link": "https://open.spotify.com/playlist/3KE5QAhhQnb5s4ENH3fYOs",
+        "Snapshot ID": "MSwyZmMxNzM1NDRhOWFiOTViNGQ2MGQ1NGZiMWQxMjU3NDZiZTU1OTEx",
+        "Playlist Name": "ATC 2007-01-20 Sat All Things Considered"
     },
     {
         "Title": "Clinton Makes Presidential Bid Official",
@@ -28,7 +32,15 @@
         "ATC Track": "Chameleon",
         "ATC Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ce66JznW8QbeyTdSzdGwR",
+        "Result Album Name": "Head Hunters"
     },
     {
         "Title": "U.S. Helicopter Crash in Baghdad Kills 13",
@@ -40,7 +52,16 @@
         "ATC Track": "Etude No. 7",
         "ATC Artists": [
             "Heitor Villa-Lobos"
-        ]
+        ],
+        "Result Track Name": "12 Etudes for Guitar: Etude No.7 in E major (Très animé - Moins)",
+        "Result Artist Names": [
+            "Heitor Villa-Lobos",
+            "Andrés Segovia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zQmRTbgxAG40NDtZmz2oX",
+        "Result Album Name": "The American Decca Recordings 1"
     },
     {
         "Title": "Government Seeks Billions Lost in Drilling Leases",
@@ -52,7 +73,15 @@
         "ATC Track": "BURIED AT SEA",
         "ATC Artists": [
             "MC 900 FT JESUS"
-        ]
+        ],
+        "Result Track Name": "Buried At Sea",
+        "Result Artist Names": [
+            "MC 900 Ft. Jesus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75f5DJSrXyqHiUQwtjTg5K",
+        "Result Album Name": "One Step Ahead Of The Spider"
     },
     {
         "Title": "The Atomic Secrets of Accurate Time Keeping",
@@ -70,7 +99,15 @@
         "ATC Track": "JC on the Set",
         "ATC Artists": [
             "James Carter"
-        ]
+        ],
+        "Result Track Name": "JC on the Set",
+        "Result Artist Names": [
+            "James Carter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bfD5dOcFWPwUKymzXnliY",
+        "Result Album Name": "JC on the Set"
     },
     {
         "Title": "Can Lying Be Ethical?",
@@ -82,7 +119,15 @@
         "ATC Track": "Coincidences",
         "ATC Artists": [
             "Jon Brion"
-        ]
+        ],
+        "Result Track Name": "Coincidences",
+        "Result Artist Names": [
+            "Jon Brion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Hq1kLx4MZ9sWM8MtR2ooU",
+        "Result Album Name": "I Love Huckabees (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "The Meaning of Movie Ratings to Be Explained",
@@ -100,13 +145,29 @@
         "ATC Track": "I Got Rhythm",
         "ATC Artists": [
             "Goodman Group"
-        ]
+        ],
+        "Result Track Name": "I Got Rhythm",
+        "Result Artist Names": [
+            "Benny Goodman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6XTtMzkAIWBLctwcgW8tAo",
+        "Result Album Name": "Small Groups: Class of '39"
     },
     {
         "ATC Track": "lady, be good!",
         "ATC Artists": [
             "jones- smith",
             "inc."
-        ]
+        ],
+        "Result Track Name": "Lady Be Good",
+        "Result Artist Names": [
+            "Jones-Smith Inc."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2stj4ZoZB7ddD6urdIXMbN",
+        "Result Album Name": "The Real Kansas City Of The '20s, '30s & '40s"
     }
 ]

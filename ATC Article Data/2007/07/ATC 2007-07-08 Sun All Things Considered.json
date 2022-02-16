@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-07-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:16:30"
+        "Scanned Date": "2022-02-07 00:16:30",
+        "Playlist URI": "1yLVi6TFFQ4Xqf3L5N2g6Q",
+        "Playlist Link": "https://open.spotify.com/playlist/1yLVi6TFFQ4Xqf3L5N2g6Q",
+        "Snapshot ID": "MSxmM2ZjMmI1ZTAwMGEyOGFkOWI0OGI1NzUwYWJiZmY3YWFmYWI4MjE5",
+        "Playlist Name": "ATC 2007-07-08 Sun All Things Considered"
     },
     {
         "Title": "Senate to Debate Iraq War Policy",
@@ -22,7 +26,15 @@
         "ATC Track": "Pavane",
         "ATC Artists": [
             "Steve Erquiaga"
-        ]
+        ],
+        "Result Track Name": "Pavane",
+        "Result Artist Names": [
+            "Steve Erquiaga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0RXbgts7F6Qn9UIziiKhDa",
+        "Result Album Name": "Touch - Windham Hill 25 Years of Guitar"
     },
     {
         "Title": "A History of the Pentagon Building",
@@ -34,7 +46,12 @@
         "ATC Track": "Saving Private Ryan, Film Score: Hymn to the Fallen",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Contemplating Man and Fire",
@@ -46,13 +63,26 @@
         "ATC Track": "Already Elsewhere",
         "ATC Artists": [
             "Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Already Elsewhere",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bkhCl0XE0HUCZbWE2lzBC",
+        "Result Album Name": "Everywhere And Right Here"
     },
     {
         "ATC Track": "Golden Point",
         "ATC Artists": [
             "So 'Ho"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pioneering Black Woman Journalist Dies at 91",
@@ -64,7 +94,15 @@
         "ATC Track": "Whipping the Horse's Eyes",
         "ATC Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Whipping the Horse's Eyes",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XTHhAKPzYOWq6YDJ5Tvlq",
+        "Result Album Name": "Feast of Wire"
     },
     {
         "Title": "Listener's Letters",
@@ -82,12 +120,28 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Snorkel",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Snorkel",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:31nRdOt2oJmsJ3UJPLh9Sp",
+        "Result Album Name": "One Guitar, No Vocals"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-03-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:23:37"
+        "Scanned Date": "2022-02-07 00:23:37",
+        "Playlist URI": "6i4GWD6hher7HfIbbooS4N",
+        "Playlist Link": "https://open.spotify.com/playlist/6i4GWD6hher7HfIbbooS4N",
+        "Snapshot ID": "MSw2NjZkMWY3NTZmMzNjMDA5OWE4MDU5MjljYzZkZWY3ZDYzNThmYjY5",
+        "Playlist Name": "ATC 2007-03-10 Sat All Things Considered"
     },
     {
         "Title": "U.S. and Iran Talk While Iraq Asks for Help",
@@ -28,13 +32,26 @@
         "ATC Track": "Cocquette",
         "ATC Artists": [
             "Jimmy Rosenberg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Arabesco [Zambra]",
         "ATC Artists": [
             "Son de La Frontera"
-        ]
+        ],
+        "Result Track Name": "Arabesco",
+        "Result Artist Names": [
+            "Son De La Frontera"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2IhmWttbmo8JUmhOFyEAUr",
+        "Result Album Name": "Son de la Frontera"
     },
     {
         "Title": "Youth Offenders Allege Sexual Abuse in Texas",
@@ -70,7 +87,16 @@
         "ATC Track": "Fiesta de Negritos",
         "ATC Artists": [
             "Lucho Bermúdez"
-        ]
+        ],
+        "Result Track Name": "Fiesta de Negritos",
+        "Result Artist Names": [
+            "Lucho Bermúdez",
+            "Matilde Diaz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Jy2Emkzsx7vddK7RpOsXG",
+        "Result Album Name": "Por Siempre"
     },
     {
         "Title": "'The Host' Rewrites the Monster-Movie Rules",
@@ -94,12 +120,28 @@
         "ATC Track": "Mamblues",
         "ATC Artists": [
             "Cal Tjader"
-        ]
+        ],
+        "Result Track Name": "Mamblues",
+        "Result Artist Names": [
+            "Cal Tjader"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0IocAVYztE2daOFYCHSw4E",
+        "Result Album Name": "Jazz Dispensary: Soul Diesel, Vol. 2"
     },
     {
         "ATC Track": "CHA-CHABORRO",
         "ATC Artists": [
             "LOS AMIGOS INVISIBLES"
-        ]
+        ],
+        "Result Track Name": "Cha-Chaborro",
+        "Result Artist Names": [
+            "Los Amigos Invisibles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6EA2mTVKg805F1Vk4zaHBY",
+        "Result Album Name": "The New Sound of the Venezuelan Gozadera"
     }
 ]

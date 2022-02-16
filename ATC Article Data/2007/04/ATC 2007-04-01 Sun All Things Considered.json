@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-04-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:21:29"
+        "Scanned Date": "2022-02-07 00:21:29",
+        "Playlist URI": "2I0g0Ola3vJwullUnQDnM2",
+        "Playlist Link": "https://open.spotify.com/playlist/2I0g0Ola3vJwullUnQDnM2",
+        "Snapshot ID": "MSw3YmMyYzMyMTUyZjcwOTMyNzljODZiNDIxNTY3NTZkMTUxZjA0ZTZh",
+        "Playlist Name": "ATC 2007-04-01 Sun All Things Considered"
     },
     {
         "Title": "Protesters Mob British Embassy in Tehran",
@@ -28,13 +32,29 @@
         "ATC Track": "TAKE A TRAIN",
         "ATC Artists": [
             "DUCK BAKER"
-        ]
+        ],
+        "Result Track Name": "Take The A Train",
+        "Result Artist Names": [
+            "Duck Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Y3ItloSVzenzJ4Tw7QU03",
+        "Result Album Name": "The Art Of Fingerstyle Jazz Guitar"
     },
     {
         "ATC Track": "CANNED HEAT",
         "ATC Artists": [
             "CHET ATKINS"
-        ]
+        ],
+        "Result Track Name": "Canned Heat - Buddha Remastered - 2000",
+        "Result Artist Names": [
+            "Chet Atkins & His Colorado Mountain Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0OzRwhv4HwIlMTabLvt0bE",
+        "Result Album Name": "Guitar Legend: The RCA Years"
     },
     {
         "Title": "Finding Pork in the 'Bullets and Beans' Bills",
@@ -64,13 +84,29 @@
         "ATC Track": "Peak's Puzzle",
         "ATC Artists": [
             "Stefan Grossman"
-        ]
+        ],
+        "Result Track Name": "Peak's Puzzle",
+        "Result Artist Names": [
+            "Stefan Grossman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05BiQUbZ02Pato6wNaceAI",
+        "Result Album Name": "Guitar Landscapes"
     },
     {
         "ATC Track": "The Further I Slide",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "The Further I Slide",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AYeOkJdKZSq9N2cp7o9Lx",
+        "Result Album Name": "Have You Fed The Fish"
     },
     {
         "Title": "Phelps Whips World Swimming Competitors",
@@ -94,19 +130,41 @@
         "ATC Track": "STEEL GUITAR RAG",
         "ATC Artists": [
             "LES PAUL"
-        ]
+        ],
+        "Result Track Name": "Steel Guitar Rag",
+        "Result Artist Names": [
+            "Les Paul & His Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kwjy3tv8gobN3UV0puzsQ",
+        "Result Album Name": "Galloping Guitars"
     },
     {
         "ATC Track": "Muskrat Ramble",
         "ATC Artists": [
             "Preservation Hall Jazz Band"
-        ]
+        ],
+        "Result Track Name": "Muskrat Ramble - Instrumental",
+        "Result Artist Names": [
+            "Kid Ory",
+            "Preservation Hall Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YfPTawnfSjSBh9C3Y7NdR",
+        "Result Album Name": "Because of You"
     },
     {
         "ATC Track": "DEL SALLE (TAKE 1)",
         "ATC Artists": [
             "DJANGO REINHARDT",
             "THE HOT CLUB OF FRANCE QUINTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

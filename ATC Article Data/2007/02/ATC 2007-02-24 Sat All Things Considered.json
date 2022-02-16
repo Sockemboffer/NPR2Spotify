@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-02-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:26:11"
+        "Scanned Date": "2022-02-07 00:26:11",
+        "Playlist URI": "4TKgpefKAiN2PbOoHdpyeX",
+        "Playlist Link": "https://open.spotify.com/playlist/4TKgpefKAiN2PbOoHdpyeX",
+        "Snapshot ID": "MSxlMTIyYjcwZDg3NWU5MzhlOGRhYjhmYjk2NWMyYTQ5OWRkOWM1Y2Ni",
+        "Playlist Name": "ATC 2007-02-24 Sat All Things Considered"
     },
     {
         "Title": "Federal Oversight of Little Rock Schools Ends",
@@ -28,13 +32,23 @@
         "ATC Track": "Flux",
         "ATC Artists": [
             "Tour De Flux"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MYSTERY TRAIN: CHAUCER STREET",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mexican Truckers Gain More U.S. Access",
@@ -58,7 +72,15 @@
         "ATC Track": "You Gotta Have Skin",
         "ATC Artists": [
             "John Lithgow"
-        ]
+        ],
+        "Result Track Name": "You Gotta Have Skin",
+        "Result Artist Names": [
+            "John Lithgow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0r4082VCMS5HgZhkibqlKO",
+        "Result Album Name": "Singin' In The Bathtub"
     },
     {
         "Title": "Billie Jean King Cheers Equal Pay at Wimbledon",
@@ -71,7 +93,12 @@
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Artists' Masks Hid Wounds of World War I Soldiers",
@@ -101,18 +128,43 @@
         "ATC Track": "End Titles",
         "ATC Artists": [
             "Michael Legrand"
-        ]
+        ],
+        "Result Track Name": "End Titles",
+        "Result Artist Names": [
+            "Michael Brook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5nLSdVVtmaQX733VqE35sj",
+        "Result Album Name": "Journey to Mecca (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "I DIG",
         "ATC Artists": [
             "LES BAXTER"
-        ]
+        ],
+        "Result Track Name": "I Dig",
+        "Result Artist Names": [
+            "Les Baxter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XacQYTj9NGGMi3e6eT6nc",
+        "Result Album Name": "Ultra-Lounge: Saxophobia"
     },
     {
         "ATC Track": "Highlife",
         "ATC Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Highlife",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Rockin' Rhythmaires"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76x5LIWvYqt6RqZ6GbU2q0",
+        "Result Album Name": "All Hat - No Cattle"
     }
 ]

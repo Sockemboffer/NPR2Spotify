@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-12-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:08:38"
+        "Scanned Date": "2022-02-07 00:08:38",
+        "Playlist URI": "0lVaxl7jc1Z691gCN66sk9",
+        "Playlist Link": "https://open.spotify.com/playlist/0lVaxl7jc1Z691gCN66sk9",
+        "Snapshot ID": "MSxkYzEyODIzMzljMDcyNDFmYWJhYzllOTA2MjA0Yzg3ZjYyMDYzYWNm",
+        "Playlist Name": "ATC 2007-12-30 Sun All Things Considered"
     },
     {
         "Title": "Bhutto's Son Named Her Successor",
@@ -28,13 +32,29 @@
         "ATC Track": "SHAKE UP ADINA",
         "ATC Artists": [
             "SUGAR BELLY"
-        ]
+        ],
+        "Result Track Name": "Shake Up Adinah",
+        "Result Artist Names": [
+            "Sugar Belly"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0KeqycDM8rfwD7RivAYjMf",
+        "Result Album Name": "Sugar Merengue"
     },
     {
         "ATC Track": "Up from the Skies",
         "ATC Artists": [
             "Gil Evans"
-        ]
+        ],
+        "Result Track Name": "Up From The Skies - Remastered - 2001",
+        "Result Artist Names": [
+            "The Gil Evans Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01lhOhs9MwgHJbZihJ4txH",
+        "Result Album Name": "Plays The Music Of Jimi Hendrix"
     },
     {
         "Title": "Who Is Alberto Gonzales Again?",
@@ -52,7 +72,15 @@
         "ATC Track": "first tear",
         "ATC Artists": [
             "andre feriante"
-        ]
+        ],
+        "Result Track Name": "First Tear",
+        "Result Artist Names": [
+            "Andre Feriante"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zYxDat0FaccobqN5rOi5a",
+        "Result Album Name": "Serenade"
     },
     {
         "Title": "Arduous $15 Billion Big Dig Completed",
@@ -76,13 +104,26 @@
         "ATC Track": "It's Now or Never [Nunc Hic Aut Numquam]",
         "ATC Artists": [
             "Doctor Ammondt"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Talkatif",
         "ATC Artists": [
             "Antibalas"
-        ]
+        ],
+        "Result Track Name": "Talkatif",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qlSlUzvKDuBlETIxwmVJF",
+        "Result Album Name": "Talkatif"
     },
     {
         "Title": "Celebrating Dirty and Divine Travel Experiences",
@@ -107,19 +148,40 @@
         "ATC Artists": [
             "Roger",
             "Shorty And His Giants"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Recado Bossa Nova",
         "ATC Artists": [
             "Laurindo Almeida",
             "Bossa Nova All-Stars"
-        ]
+        ],
+        "Result Track Name": "Recado Bossa Nova",
+        "Result Artist Names": [
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3koVseabtzFqHZ0kOqx5B2",
+        "Result Album Name": "Puro"
     },
     {
         "ATC Track": "Chichicastenango [Guarcha",
         "ATC Artists": [
             "Chapinlandia"
-        ]
+        ],
+        "Result Track Name": "Chichicastenango",
+        "Result Artist Names": [
+            "Marimba Chapinlandia"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1rwlKOsgQrEGesRVYvfaV5",
+        "Result Album Name": "Chapinlandia - Marimba Music of Guatemala"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-03-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:24:05"
+        "Scanned Date": "2022-02-07 00:24:05",
+        "Playlist URI": "3eQWJl78X9CTdeuFSD7bFk",
+        "Playlist Link": "https://open.spotify.com/playlist/3eQWJl78X9CTdeuFSD7bFk",
+        "Snapshot ID": "MSwyMzhkNDZmNzMwYTgzNzEyMWZlOTY5NWU4YjA4MzYxZTA1YzVmNzgz",
+        "Playlist Name": "ATC 2007-03-17 Sat All Things Considered"
     },
     {
         "Title": "War Protesters Deliver Message to the Pentagon",
@@ -28,7 +32,18 @@
         "ATC Track": "Aileen Aroon",
         "ATC Artists": [
             "Hesperus"
-        ]
+        ],
+        "Result Track Name": "Aileen Aroon",
+        "Result Artist Names": [
+            "Hesperus",
+            "Tina Chancey",
+            "Scott Reiss",
+            "Grant Herreid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZnaWfYrrjJbIkuy4vnSUY",
+        "Result Album Name": "Celtic Roots"
     },
     {
         "Title": "New York Grand Jury Indicts Officers in Shooting",
@@ -40,7 +55,15 @@
         "ATC Track": "DEUS EX MACHINA",
         "ATC Artists": [
             "WILLIAM ORBIT"
-        ]
+        ],
+        "Result Track Name": "Deus Ex Machina",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7f44kK13crelqnp4cmpDrv",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "Title": "Priest Censured Ahead of Papal Latin America Visit",
@@ -58,13 +81,23 @@
         "ATC Track": "Scattering Stars Like Dust (Introduction)",
         "ATC Artists": [
             "Kayhan Kalhor"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "KILLARNEY BOYS OF PLEASURE / ORO 'SE DO",
         "ATC Artists": [
             "CEOLTOIRI"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Salamander's Tongue Packs a Powerful Punch",
@@ -94,18 +127,40 @@
         "ATC Track": "Magnificat Cum Alleluia",
         "ATC Artists": [
             "Nóirín Ní Riain"
-        ]
+        ],
+        "Result Track Name": "Magnificat Cum Alleluia",
+        "Result Artist Names": [
+            "Nóirín Ní Riain",
+            "The Monks Of Glenstal Abbey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uyDfCX7ygSaaLADkd6t6B",
+        "Result Album Name": "Vox De Nube"
     },
     {
         "ATC Track": "Double Knuckle Shuffle: a) Spank the Monkey, b) Double Knuckle Shuffle",
         "ATC Artists": [
             "Kila"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BLACKBIRD",
         "ATC Artists": [
             "SHARON SHANNON"
-        ]
+        ],
+        "Result Track Name": "Blackbird",
+        "Result Artist Names": [
+            "Sharon Shannon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22XHcea6uhw7nzohxrpROn",
+        "Result Album Name": "Sharon Shannon"
     }
 ]

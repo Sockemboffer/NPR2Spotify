@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-04-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:22:13"
+        "Scanned Date": "2022-02-07 00:22:13",
+        "Playlist URI": "1T9CvQSFrEfyjLGynjV38m",
+        "Playlist Link": "https://open.spotify.com/playlist/1T9CvQSFrEfyjLGynjV38m",
+        "Snapshot ID": "MSwwM2NhMDY2ZmVhYzE2OGExYTMwNzM1YWVhYjRiY2M5MGIyYTQwNzM0",
+        "Playlist Name": "ATC 2007-04-15 Sun All Things Considered"
     },
     {
         "Title": "Gonzales Admits Missteps in Attorney Firings",
@@ -22,13 +26,27 @@
         "ATC Track": "Truco Suite: Truco",
         "ATC Artists": [
             "Goldspiel-Provost Classical Guitar Duo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "String Quartet No.5: II",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 5: II.",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:64ragyV6OOjq2Wwvgs90zE",
+        "Result Album Name": "Kronos Quartet Performs Philip Glass"
     },
     {
         "Title": "Home Health Aides Seek Labor Protections",
@@ -53,13 +71,31 @@
         "ATC Artists": [
             "Ingolf Turban",
             "Jascha Nemtsov"
-        ]
+        ],
+        "Result Track Name": "2 Songs, Op. 52: No. 2. Canzonetta (arr. for violin and piano)",
+        "Result Artist Names": [
+            "Joseph Achron",
+            "Ingolf Turban",
+            "Jascha Nemtsov"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5M63ppXPKIgGgOCdpWFuMT",
+        "Result Album Name": "Turnban, Ingolf / Nemtsov, Jascha: Hebrew Melodies"
     },
     {
         "ATC Track": "I Go Ka",
         "ATC Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "I Go Ka - 2017 Remastered Version",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6J2fUEVtSk5oDxJnloWs7g",
+        "Result Album Name": "The Source (2017 Remastered Version)"
     },
     {
         "Title": "A Male Answer to 'Waiting to Exhale'",
@@ -71,7 +107,15 @@
         "ATC Track": "Just Before Sunrise",
         "ATC Artists": [
             "Kevin McKendree"
-        ]
+        ],
+        "Result Track Name": "Just Before Sunrise",
+        "Result Artist Names": [
+            "Kevin McKendree"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2DEK5IZnpAXiS4n5YOKla8",
+        "Result Album Name": "Hammers & Strings"
     },
     {
         "Title": "Gwendolyn Brooks Captures Chicago 'Cool'",
@@ -89,18 +133,33 @@
         "ATC Track": "KING STREET TANGO",
         "ATC Artists": [
             "THE REALLY ECLECTIC STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "HORA MARE",
         "ATC Artists": [
             "THE REALLY ECLECTIC STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "DRAGANOVO KOLO",
         "ATC Artists": [
             "THE REALLY ECLECTIC STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

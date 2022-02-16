@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-09-15",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:13:23"
+        "Scanned Date": "2022-02-07 00:13:23",
+        "Playlist URI": "5UYvX49y4SxhM8gPDLlvxQ",
+        "Playlist Link": "https://open.spotify.com/playlist/5UYvX49y4SxhM8gPDLlvxQ",
+        "Snapshot ID": "MSxjYzU2ODc1MGFkYzg4MTkxYjdjYjdmMTZhZTk0NTRlZmU4ZGJjYTc3",
+        "Playlist Name": "ATC 2007-09-15 Sat All Things Considered"
     },
     {
         "Title": "Shiite Lawmakers to Leave Al-Maliki Government",
@@ -28,7 +32,15 @@
         "ATC Track": "Walking the Strings",
         "ATC Artists": [
             "Eddie Pennington"
-        ]
+        ],
+        "Result Track Name": "Walking the Strings",
+        "Result Artist Names": [
+            "Eddie Pennington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7bTDjs8E8znG0HKopeo18C",
+        "Result Album Name": "Walks the Strings and Even Sings"
     },
     {
         "Title": "Rebels Accuse Ethiopian Government of Atrocities",
@@ -47,7 +59,16 @@
         "ATC Artists": [
             "Chick Corea",
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "Brazil",
+        "Result Artist Names": [
+            "Chick Corea",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4RB1PSsO2StW4XcSk6FEWp",
+        "Result Album Name": "The Enchantment"
     },
     {
         "Title": "Corporate Investors Harvest of California Vineyards",
@@ -65,13 +86,26 @@
         "ATC Track": "Bear No Hair",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Carnival's In Town",
         "ATC Artists": [
             "Leroy Jones"
-        ]
+        ],
+        "Result Track Name": "Carnival's In Town",
+        "Result Artist Names": [
+            "Leroy Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18efu5eDGPfGzdx4zL0UHx",
+        "Result Album Name": "Mo' Cream From The Crop"
     },
     {
         "Title": "Fire Threatens 70-Year-Old Theatre Tradition",
@@ -96,18 +130,39 @@
         "ATC Artists": [
             "The Frank",
             "Joe Show"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Anoche",
         "ATC Artists": [
             "Raulin Rodriguez"
-        ]
+        ],
+        "Result Track Name": "Anoche",
+        "Result Artist Names": [
+            "Raulin Rodriguez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Gvoca9P4prjtRv0tnVtIO",
+        "Result Album Name": "Una Mujer Como Tú"
     },
     {
         "ATC Track": "Chispa Tren",
         "ATC Artists": [
             "Ska Cubano"
-        ]
+        ],
+        "Result Track Name": "Chispa Tren",
+        "Result Artist Names": [
+            "Ska Cubano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tqmCQrxSh1R5ZPBPXLKJZ",
+        "Result Album Name": "¡ay Caramba!"
     }
 ]

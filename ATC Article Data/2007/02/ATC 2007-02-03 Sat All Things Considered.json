@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-02-03",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:25:02"
+        "Scanned Date": "2022-02-07 00:25:02",
+        "Playlist URI": "1I6u8iahhfPs5deY4Y22Bu",
+        "Playlist Link": "https://open.spotify.com/playlist/1I6u8iahhfPs5deY4Y22Bu",
+        "Snapshot ID": "MSxkODg2YTk2ZDNlZGMwOTY5YjgyN2Q0MDgyYTMxMzExMTYxNmIzY2Qz",
+        "Playlist Name": "ATC 2007-02-03 Sat All Things Considered"
     },
     {
         "Title": "House Democratic Retreat Hosts President Bush",
@@ -22,7 +26,15 @@
         "ATC Track": "What Is it Now",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "What Is It Now?",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gvqRZXNLmrDxLM4VmBZ6Y",
+        "Result Album Name": "Have You Fed The Fish"
     },
     {
         "Title": "President Declares Disaster in Four Florida Counties",
@@ -34,13 +46,23 @@
         "ATC Track": "1st Gymnopédie",
         "ATC Artists": [
             "Tim Story"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Menuet from le Tombeau de Couperin",
         "ATC Artists": [
             "Paul McCandless"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Afghanistan Considers Amnesty for Past Conflicts",
@@ -58,7 +80,15 @@
         "ATC Track": "Luminitza",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Luminitza",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nbRICrzFeYEAEiHwfAqBa",
+        "Result Album Name": "Luminitza (Reissue)"
     },
     {
         "Title": "The Super Bowl: Much More than a Game",
@@ -94,12 +124,22 @@
         "ATC Track": "Titoli [From A Fistful of Dollars]",
         "ATC Artists": [
             "Cantori Moderni Di Alessandroni"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Farewell to Cheyenne",
         "ATC Artists": [
             "Ennio Morricone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

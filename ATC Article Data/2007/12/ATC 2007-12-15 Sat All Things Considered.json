@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-12-15",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:07:47"
+        "Scanned Date": "2022-02-07 00:07:47",
+        "Playlist URI": "28OCtxAYhN58yer8OZf7Hl",
+        "Playlist Link": "https://open.spotify.com/playlist/28OCtxAYhN58yer8OZf7Hl",
+        "Snapshot ID": "MSxjZjk5YTUwODUwNTYyY2IxNDRjMTA2ZjRlN2U2ZGYyYzBhM2M2YWRm",
+        "Playlist Name": "ATC 2007-12-15 Sat All Things Considered"
     },
     {
         "Title": "Contentious Climate Talks Yield 'Bali Roadmap'",
@@ -16,7 +20,15 @@
         "ATC Track": "Lifeline",
         "ATC Artists": [
             "Chick Corea"
-        ]
+        ],
+        "Result Track Name": "Lifeline",
+        "Result Artist Names": [
+            "The Chick Corea New Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6J75YyQ01LsKjXTHyTeQ1v",
+        "Result Album Name": "Past, Present & Futures"
     },
     {
         "Title": "Indiana Congresswoman Julia Carson Dies at Age 69",
@@ -28,13 +40,23 @@
         "ATC Track": "Caterina, for piano",
         "ATC Artists": [
             "John Arpin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "TANGO BONITO",
         "ATC Artists": [
             "JPP"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Farm Bill Maintains Criticized Crop Insurance",
@@ -52,7 +74,17 @@
         "ATC Track": "Blue and Sentimental",
         "ATC Artists": [
             "Sex Mob"
-        ]
+        ],
+        "Result Track Name": "Blue and Sentimental",
+        "Result Artist Names": [
+            "Sex Mob",
+            "John Medeski",
+            "Steven Bernstein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Mm6sD48v2vZ0W4qPPRbXi",
+        "Result Album Name": "Sex Mob Meets Medeski- Live In Willisau"
     },
     {
         "Title": "Scientists Seek Cause of Mysterious 'Rogue' Waves",
@@ -70,14 +102,31 @@
         "ATC Track": "Sharks",
         "ATC Artists": [
             "Dr. Didg"
-        ]
+        ],
+        "Result Track Name": "Sharks",
+        "Result Artist Names": [
+            "Dr. Didge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4WLu37S6CrHHPOT9nIJ3yC",
+        "Result Album Name": "Dust Devils"
     },
     {
         "ATC Track": "Waltz in E Minor",
         "ATC Artists": [
             "Vladimir Leyetchkiss",
             "piano"
-        ]
+        ],
+        "Result Track Name": "Waltz in E Minor",
+        "Result Artist Names": [
+            "Alexander Griboyedov",
+            "Vladimir Leyetchkiss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3KB2zu18Y1hJafPytSxDj1",
+        "Result Album Name": "Russian Reveries"
     },
     {
         "Title": "The Best Overlooked Films of 2007",
@@ -101,12 +150,28 @@
         "ATC Track": "Stairs in Stars",
         "ATC Artists": [
             "Nobukazu Takemura"
-        ]
+        ],
+        "Result Track Name": "Stairs in Stars",
+        "Result Artist Names": [
+            "Nobukazu Takemura"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66SMBF4FMwfAjUYzZfvkgk",
+        "Result Album Name": "Hoshi No Koe"
     },
     {
         "ATC Track": "Dead Dog in the Street",
         "ATC Artists": [
             "The Dirty Dozen Brass Band"
-        ]
+        ],
+        "Result Track Name": "Dead Dog in the Street",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37j5g5WfVUxBZTGzwMSCdC",
+        "Result Album Name": "Buck Jump"
     }
 ]

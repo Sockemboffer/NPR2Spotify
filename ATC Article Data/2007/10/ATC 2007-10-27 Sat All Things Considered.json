@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-10-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:12:19"
+        "Scanned Date": "2022-02-07 00:12:19",
+        "Playlist URI": "6G8NpHQ58Po1FzuIvSj1Mb",
+        "Playlist Link": "https://open.spotify.com/playlist/6G8NpHQ58Po1FzuIvSj1Mb",
+        "Snapshot ID": "MSwxODdmM2M2NTliM2EwYzE5YjE0ZmNmMTgxYTA2Y2E5ZGIxZmVmODFj",
+        "Playlist Name": "ATC 2007-10-27 Sat All Things Considered"
     },
     {
         "Title": "Wildfire Response Redemptive for Red Cross",
@@ -28,13 +32,30 @@
         "ATC Track": "Vif from Scaramouche",
         "ATC Artists": [
             "Darius Milhaud"
-        ]
+        ],
+        "Result Track Name": "Vif from Scaramouche",
+        "Result Artist Names": [
+            "Darius Milhaud",
+            "Sergio & Odair Assad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QmJ7JRoAJNy8ZcWygRT2Y",
+        "Result Album Name": "Jardim Abandonado"
     },
     {
         "ATC Track": "Tangos de Mi Novia",
         "ATC Artists": [
             "Son de La Frontera"
-        ]
+        ],
+        "Result Track Name": "Tangos de Mi Novia",
+        "Result Artist Names": [
+            "Son De La Frontera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73HVNBqXQt0OM3lMJsLJgf",
+        "Result Album Name": "Son de la Frontera"
     },
     {
         "Title": "Ethnic Violence Flares Again in Ingushetia",
@@ -59,13 +80,26 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Rhyme for the Summertime",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1I4OmGhhaaDHx6b6IplsfT",
+        "Result Album Name": "G. Love And Special Sauce"
     },
     {
         "ATC Track": "Rememorix [Memorias Perdidas Remix]",
         "ATC Artists": [
             "Ojos de Brujo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Homework: A Mutt on a Mission to Italy's Sights",
@@ -89,18 +123,42 @@
         "ATC Track": "Sideral",
         "ATC Artists": [
             "Macaco"
-        ]
+        ],
+        "Result Track Name": "Sideral",
+        "Result Artist Names": [
+            "Macaco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xJHtiwou4x8u10XDQKJkp",
+        "Result Album Name": "Ingravitto"
     },
     {
         "ATC Track": "Ventilaor R-80",
         "ATC Artists": [
             "Ojos de Brujo"
-        ]
+        ],
+        "Result Track Name": "Ventilaor R-80",
+        "Result Artist Names": [
+            "Ojos de Brujo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PzuUx4CHOhtPm308Akht8",
+        "Result Album Name": "Bari"
     },
     {
         "ATC Track": "Blues de la Fronteira",
         "ATC Artists": [
             "Pata Negra"
-        ]
+        ],
+        "Result Track Name": "Blues de la Frontera - Remasterizada",
+        "Result Artist Names": [
+            "Pata Negra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lfA4E1Z7uNIyN2Fr2k1qi",
+        "Result Album Name": "Blues de la Frontera (Remasterizada)"
     }
 ]

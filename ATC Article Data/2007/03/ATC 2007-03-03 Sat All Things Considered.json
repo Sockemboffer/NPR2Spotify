@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-03-03",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:23:14"
+        "Scanned Date": "2022-02-07 00:23:14",
+        "Playlist URI": "5bSt41743HFzrPTmahypsH",
+        "Playlist Link": "https://open.spotify.com/playlist/5bSt41743HFzrPTmahypsH",
+        "Snapshot ID": "MSwyNGEzOWEyZjgyMjRlYjk1OTZlN2MzYTAxNmY0NzJiZGEwNzBjNmQ2",
+        "Playlist Name": "ATC 2007-03-03 Sat All Things Considered"
     },
     {
         "Title": "Conservatives Focus Their Energies on 2008",
@@ -28,7 +32,12 @@
         "ATC Track": "Bear No Hair",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fund Invests in Profitable Vices, not Virtue",
@@ -52,7 +61,15 @@
         "ATC Track": "Young Folks",
         "ATC Artists": [
             "Peter Bjorn and John"
-        ]
+        ],
+        "Result Track Name": "Young Folks",
+        "Result Artist Names": [
+            "Peter Bjorn and John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dyx5SzxPPaD8xQIid5Wjj",
+        "Result Album Name": "Writer's Block"
     },
     {
         "Title": "The Long History of the Lunar Eclipse",
@@ -70,7 +87,15 @@
         "ATC Track": "That's Amore [From the Caddy]",
         "ATC Artists": [
             "Ralph Sharon"
-        ]
+        ],
+        "Result Track Name": "That's Amore",
+        "Result Artist Names": [
+            "Ralph Sharon"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7AvJMPmUykSnEkq7n0TITk",
+        "Result Album Name": "Harry Warren Songbook"
     },
     {
         "Title": "Colorado Pizza Joint Makes a Honey of a Pie",
@@ -88,18 +113,42 @@
         "ATC Track": "Anthem",
         "ATC Artists": [
             "Ralph Towner"
-        ]
+        ],
+        "Result Track Name": "Anthem",
+        "Result Artist Names": [
+            "Ralph Towner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2A8NA7WsxPORXPAIfSWFcH",
+        "Result Album Name": "Anthem"
     },
     {
         "ATC Track": "Lebanese Blonde",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Lebanese Blonde",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66KcXPDs1hr8T06KvlJCeA",
+        "Result Album Name": "The Mirror Conspiracy"
     },
     {
         "ATC Track": "Soul Island",
         "ATC Artists": [
             "The Meters"
-        ]
+        ],
+        "Result Track Name": "Soul Island - 1997 Remaster",
+        "Result Artist Names": [
+            "The Meters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DVbX7PhTGnGQDRhzWhCvK",
+        "Result Album Name": "The Essentials: The Meters"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-09-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:13:01"
+        "Scanned Date": "2022-02-07 00:13:01",
+        "Playlist URI": "3mMimq6Z8GzX1Pva1XJuL2",
+        "Playlist Link": "https://open.spotify.com/playlist/3mMimq6Z8GzX1Pva1XJuL2",
+        "Snapshot ID": "MSw0MGM4MDViNzQ5MDI5YmQ0NWFiYzFiYjZjMjFlZTZkY2Q1YmFiNGE5",
+        "Playlist Name": "ATC 2007-09-09 Sun All Things Considered"
     },
     {
         "Title": "Previewing the Petraeus Report",
@@ -22,13 +26,29 @@
         "ATC Track": "(Theme From) Everything Ends",
         "ATC Artists": [
             "The American Analog Set"
-        ]
+        ],
+        "Result Track Name": "(Theme From) Everything Ends",
+        "Result Artist Names": [
+            "The American Analog Set"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WSKnAgU3vauTR8IJzOJy0",
+        "Result Album Name": "Set Free"
     },
     {
         "ATC Track": "Desert Drive",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Desert Drive",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6o3HUEBS84q1xL3rGBhKLg",
+        "Result Album Name": "Beautiful My Child"
     },
     {
         "Title": "Will Latest Darfur Talks Succeed?",
@@ -46,7 +66,12 @@
         "ATC Track": "Too Much to Chew",
         "ATC Artists": [
             "Philip E Karnats"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Thompson Campaigns in New Hampshire",
@@ -64,13 +89,29 @@
         "ATC Track": "Mountain",
         "ATC Artists": [
             "Tom Verlaine"
-        ]
+        ],
+        "Result Track Name": "Days on the Mountain",
+        "Result Artist Names": [
+            "Tom Verlaine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44gCC01c1CZBHzcmfYipjE",
+        "Result Album Name": "Words From The Front"
     },
     {
         "ATC Track": "Missed Trains",
         "ATC Artists": [
             "John Danley"
-        ]
+        ],
+        "Result Track Name": "Missed Trains",
+        "Result Artist Names": [
+            "John Danley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17rlUqTjxK2KPHpovmyZqa",
+        "Result Album Name": "A Guitarist's Compendium: 15 Years of Acoustic Addiction"
     },
     {
         "Title": "Preserving Edward Hopper's View in Cape Cod",
@@ -88,12 +129,30 @@
         "ATC Track": "Gandhi's Revenge",
         "ATC Artists": [
             "Hot Club Norvege"
-        ]
+        ],
+        "Result Track Name": "Gandhi's Revenge",
+        "Result Artist Names": [
+            "Hot Club De Norvege",
+            "Ulf Wakenius",
+            "Vertavo String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gapvQayRpgtEGhZi5W5Yd",
+        "Result Album Name": "Vertavo"
     },
     {
         "ATC Track": "Night Behind the Stars",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Night Behind The Stars",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Z3X92XXoapVgMYxhU7Dtw",
+        "Result Album Name": "Casually Smashed To Pieces"
     }
 ]

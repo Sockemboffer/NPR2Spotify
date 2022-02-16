@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-08-25",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:15:40"
+        "Scanned Date": "2022-02-07 00:15:40",
+        "Playlist URI": "1YBDlICuzY6c5BRtey5X80",
+        "Playlist Link": "https://open.spotify.com/playlist/1YBDlICuzY6c5BRtey5X80",
+        "Snapshot ID": "MSw1MWQ3MjljYjMyODY4YjkwMzg2NzQxMzBlZTY5NTM3YTc0NjhhMjZm",
+        "Playlist Name": "ATC 2007-08-25 Sat All Things Considered"
     },
     {
         "Title": "PTSD Takes Toll on Iraq Veteran and Family",
@@ -16,13 +20,23 @@
         "ATC Track": "For Those Left Behind",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Frontiers",
         "ATC Artists": [
             "Excerto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Forest Fires Claim Lives in Greece",
@@ -34,7 +48,15 @@
         "ATC Track": "The Tall Grass",
         "ATC Artists": [
             "Alsace Lorraine"
-        ]
+        ],
+        "Result Track Name": "The Tall Grass",
+        "Result Artist Names": [
+            "Alsace Lorraine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GzOAIPl7vMdL7ruNO9U3N",
+        "Result Album Name": "Dark One"
     },
     {
         "Title": "Democrats Look to Hold Back Primary Dates",
@@ -58,13 +80,29 @@
         "ATC Track": "The Wanderer",
         "ATC Artists": [
             "Floratone"
-        ]
+        ],
+        "Result Track Name": "The Wanderer",
+        "Result Artist Names": [
+            "Floratone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UwvLISCpHWCDZf2rOAkaP",
+        "Result Album Name": "Floratone"
     },
     {
         "ATC Track": "Waterfalls",
         "ATC Artists": [
             "TLC"
-        ]
+        ],
+        "Result Track Name": "Waterfalls",
+        "Result Artist Names": [
+            "TLC"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6qspW4YKycviDFjHBOaqUY",
+        "Result Album Name": "Crazysexycool"
     },
     {
         "Title": "Rocky Balboa Statue Boosts Beleaguered Village",
@@ -82,7 +120,15 @@
         "ATC Track": "Celestial Soda Pop",
         "ATC Artists": [
             "Ray Lynch"
-        ]
+        ],
+        "Result Track Name": "Celestial Soda Pop / Ray Lynch",
+        "Result Artist Names": [
+            "Ray Lynch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2THDVIVytLuGX7S7UghuC1",
+        "Result Album Name": "Deep Breakfast"
     },
     {
         "Title": "California Looks to Desalination for Water Woes",
@@ -100,7 +146,15 @@
         "ATC Track": "Blend",
         "ATC Artists": [
             "Sandy Bull"
-        ]
+        ],
+        "Result Track Name": "Electric Blend",
+        "Result Artist Names": [
+            "Sandy Bull"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Hq4uQ1fTGhGPA01eDhC2S",
+        "Result Album Name": "E Pluribus Unum"
     },
     {
         "Title": "The Desert's Resourceful Survivors",
@@ -112,18 +166,43 @@
         "ATC Track": "The Oh of Pleasure",
         "ATC Artists": [
             "Ray Lynch"
-        ]
+        ],
+        "Result Track Name": "The Oh Of Pleasure / Ray Lynch",
+        "Result Artist Names": [
+            "Ray Lynch",
+            "TOM CANNING"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wNdebqmHRSVm17wWKu8Kw",
+        "Result Album Name": "Deep Breakfast"
     },
     {
         "ATC Track": "As Tears Go By",
         "ATC Artists": [
             "The Rolling Stones"
-        ]
+        ],
+        "Result Track Name": "As Tears Go By - Mono Version",
+        "Result Artist Names": [
+            "The Rolling Stones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LD75COdR1n8jTIjommyS2",
+        "Result Album Name": "December’s Children (And Everybody’s)"
     },
     {
         "ATC Track": "Voodoo Child (slight Return)",
         "ATC Artists": [
             "Jimi Hendrix"
-        ]
+        ],
+        "Result Track Name": "Voodoo Child (Slight Return)",
+        "Result Artist Names": [
+            "Jimi Hendrix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AxCeJ6PSsBYiTckM0HLY7",
+        "Result Album Name": "Electric Ladyland"
     }
 ]

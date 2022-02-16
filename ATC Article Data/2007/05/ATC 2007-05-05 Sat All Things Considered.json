@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-05-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:19:48"
+        "Scanned Date": "2022-02-07 00:19:48",
+        "Playlist URI": "3MGWWtMeme4fhURQp1U7BP",
+        "Playlist Link": "https://open.spotify.com/playlist/3MGWWtMeme4fhURQp1U7BP",
+        "Snapshot ID": "MSwwODFmYzFiZmUyN2M5MDg3MmRmNzU2MzRiYTM1Yzc0NGQ0MzdhZDE1",
+        "Playlist Name": "ATC 2007-05-05 Sat All Things Considered"
     },
     {
         "Title": "Deadly Tornado Destroys Kansas Town",
@@ -16,7 +20,15 @@
         "ATC Track": "What Is it Now",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "What Is It Now?",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gvqRZXNLmrDxLM4VmBZ6Y",
+        "Result Album Name": "Have You Fed The Fish"
     },
     {
         "Title": "Estonia, Russia Confront the Past",
@@ -28,13 +40,31 @@
         "ATC Track": "Egon & Gertie",
         "ATC Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": "Egon & Gertie",
+        "Result Artist Names": [
+            "Rachel Grimes",
+            "Rachel's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HbcmogltXqScczcHfrxke",
+        "Result Album Name": "Music for Egon Schiele"
     },
     {
         "ATC Track": "Third Self-Portrait Series",
         "ATC Artists": [
             "Rachel's"
-        ]
+        ],
+        "Result Track Name": "Third Self-Portrait Series",
+        "Result Artist Names": [
+            "Rachel Grimes",
+            "Rachel's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45C6oXd6C3QZvMsMlWWlqn",
+        "Result Album Name": "Music for Egon Schiele"
     },
     {
         "Title": "Democratic Presidential Hopefuls Court Black Mayors",
@@ -47,7 +77,16 @@
         "ATC Artists": [
             "Chick Corea",
             "Béla Fleck"
-        ]
+        ],
+        "Result Track Name": "A Strange Romance",
+        "Result Artist Names": [
+            "Chick Corea",
+            "Béla Fleck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7APMIC22rzfGr00GOEiA8U",
+        "Result Album Name": "The Enchantment"
     },
     {
         "Title": "Queen Elizabeth II Makes Derby Pilgrimage",
@@ -65,7 +104,12 @@
         "ATC Track": "SHEPHERD'S HEY",
         "ATC Artists": [
             "THE DENVER BRASS CONDUCTED BY KENNETH SINGLETON"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Boxing's Biggest Name Goes Against its Best Fighter",
@@ -85,13 +129,26 @@
             "Olli Varis",
             "Petri Hakala",
             "Arto Jarvela"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ba Kristo",
         "ATC Artists": [
             "Kékélé"
-        ]
+        ],
+        "Result Track Name": "Ba Kristo",
+        "Result Artist Names": [
+            "Kékélé"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wvx0205FilWFfA1znPfnC",
+        "Result Album Name": "Kinavana"
     },
     {
         "Title": "'Away From Her': Into Blankness, Beautifully",
@@ -103,7 +160,15 @@
         "ATC Track": "Cuckoo Shuffle",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Cuckoo Shuffle",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yu3zqysX0R0ECl1aJIJBP",
+        "Result Album Name": "Waiting for a Dancer"
     },
     {
         "Title": "Too 'Kewl' for School: Making Science Click",
@@ -121,6 +186,14 @@
         "ATC Track": "johnson rag",
         "ATC Artists": [
             "liberace"
-        ]
+        ],
+        "Result Track Name": "Johnson Rag",
+        "Result Artist Names": [
+            "Liberace"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3zDnFQmB3HsWgzxyO8t0up",
+        "Result Album Name": "Liberace's Greatest Hits"
     }
 ]

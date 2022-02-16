@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-07-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:17:47"
+        "Scanned Date": "2022-02-07 00:17:47",
+        "Playlist URI": "0i5sHVosQSk4FErVtzqPlR",
+        "Playlist Link": "https://open.spotify.com/playlist/0i5sHVosQSk4FErVtzqPlR",
+        "Snapshot ID": "MSxlYjc3NmQ1NjczYjlkY2I4NDhlNDE3YjBmNjg3NzNhNzU5ZWZhNzdh",
+        "Playlist Name": "ATC 2007-07-29 Sun All Things Considered"
     },
     {
         "Title": "Gunfire Rings Out After Iraqi Soccer Team's Win",
@@ -22,7 +26,15 @@
         "ATC Track": "Hallfield Piano Idea 2",
         "ATC Artists": [
             "Simon Jeffes"
-        ]
+        ],
+        "Result Track Name": "Hallfield Piano Idea 2",
+        "Result Artist Names": [
+            "Simon Jeffes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ybM8DAbdmECQS9MVYetX3",
+        "Result Album Name": "Piano Music"
     },
     {
         "Title": "Waiting for Bonds",
@@ -34,13 +46,30 @@
         "ATC Track": "Aero Dynamik",
         "ATC Artists": [
             "Kraftwerk"
-        ]
+        ],
+        "Result Track Name": "Aéro Dynamik - Francois K Aero Mix",
+        "Result Artist Names": [
+            "Kraftwerk",
+            "Francois K"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zL6JEkl6U7zOtedkRWCki",
+        "Result Album Name": "Remixes"
     },
     {
         "ATC Track": "Sparkle City",
         "ATC Artists": [
             "Shuggie Otis"
-        ]
+        ],
+        "Result Track Name": "Sparkle City",
+        "Result Artist Names": [
+            "Shuggie Otis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:773cKhIOH225LoFoOzr5HO",
+        "Result Album Name": "Inspiration Information/ Wings Of Love"
     },
     {
         "Title": "Maryland Town Recalls Racial Unrest in 1967",
@@ -58,7 +87,15 @@
         "ATC Track": "Spyders",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Spyders - Minority Report Soundtrack",
+        "Result Artist Names": [
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:619KlFe4lSTvOiNTWk20Jv",
+        "Result Album Name": "Minority Report (Original Motion Picture Score)"
     },
     {
         "Title": "Philip K. Dick Collection Aimed at New Generation",
@@ -76,19 +113,40 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Take Me with U",
         "ATC Artists": [
             "Prince",
             "the Revolution"
-        ]
+        ],
+        "Result Track Name": "Take Me with U",
+        "Result Artist Names": [
+            "Prince"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:765k9tDIFOnoOfkO2cgitB",
+        "Result Album Name": "Purple Rain"
     },
     {
         "ATC Track": "Human Nature",
         "ATC Artists": [
             "Youngblood Brass Band"
-        ]
+        ],
+        "Result Track Name": "Human Nature Pt.2",
+        "Result Artist Names": [
+            "Youngblood Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1e7QUUN1NQYZ0FXtHerNPt",
+        "Result Album Name": "center : level : roar"
     }
 ]

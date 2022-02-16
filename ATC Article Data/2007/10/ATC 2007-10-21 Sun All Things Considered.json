@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-10-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:11:54"
+        "Scanned Date": "2022-02-07 00:11:54",
+        "Playlist URI": "1X3ccR9H0LmpoGAFfKshBF",
+        "Playlist Link": "https://open.spotify.com/playlist/1X3ccR9H0LmpoGAFfKshBF",
+        "Snapshot ID": "MSxiZGY3Y2IxM2NmNDZmZDA3NWNlMjAwYzA1NDcyM2I1MDk4ZDM0NGY1",
+        "Playlist Name": "ATC 2007-10-21 Sun All Things Considered"
     },
     {
         "Title": "Kurdish Strike on Turkish Forces Raises Stakes",
@@ -28,13 +32,26 @@
         "ATC Track": "Flambée Montalbanaise",
         "ATC Artists": [
             "Gus Viseur"
-        ]
+        ],
+        "Result Track Name": "Flambée montalbanaise",
+        "Result Artist Names": [
+            "Gus Viseur"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08uHkHwOCjxmGm4xMrfky1",
+        "Result Album Name": "Les Inoubliables De L'accordéon"
     },
     {
         "ATC Track": "While Half Moon Swims to Shore",
         "ATC Artists": [
             "Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Clinton Keeps Distance from the Media",
@@ -59,7 +76,16 @@
         "ATC Artists": [
             "Sergio",
             "Odair Assad"
-        ]
+        ],
+        "Result Track Name": "Chora coração",
+        "Result Artist Names": [
+            "Antônio Carlos Jobim",
+            "Sergio & Odair Assad"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0NRcqAxke9QkPPXD2OdrPm",
+        "Result Album Name": "Jardim Abandonado"
     },
     {
         "Title": "Macedonian Singer's Death Saddens Balkans",
@@ -71,7 +97,15 @@
         "ATC Track": "Buleria del Corazón [Bulería]",
         "ATC Artists": [
             "Son de La Frontera"
-        ]
+        ],
+        "Result Track Name": "Bulería del Corazón",
+        "Result Artist Names": [
+            "Son De La Frontera"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rAi0lIbQSQtbqewQbAkte",
+        "Result Album Name": "Soul Of New Flamenco Guitar"
     },
     {
         "Title": "Broadway Faces Strike by Stage Hands",
@@ -96,18 +130,40 @@
         "ATC Artists": [
             "Sergio",
             "Odair Assad"
-        ]
+        ],
+        "Result Track Name": "Passepied from Suite Bergamasque",
+        "Result Artist Names": [
+            "Claude Debussy",
+            "Sergio & Odair Assad"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5SOcDdi0afVqfBJAJUZdOs",
+        "Result Album Name": "Jardim Abandonado"
     },
     {
         "ATC Track": "Skymningspolskan",
         "ATC Artists": [
             "The Gillham Park Orchtet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BLACKBIRD",
         "ATC Artists": [
             "SHARON SHANNON"
-        ]
+        ],
+        "Result Track Name": "Blackbird",
+        "Result Artist Names": [
+            "Sharon Shannon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22XHcea6uhw7nzohxrpROn",
+        "Result Album Name": "Sharon Shannon"
     }
 ]

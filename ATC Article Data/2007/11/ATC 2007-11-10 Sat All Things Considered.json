@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-11-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:09:21"
+        "Scanned Date": "2022-02-07 00:09:21",
+        "Playlist URI": "5dWI4V1STNFYRaFiU2fUHc",
+        "Playlist Link": "https://open.spotify.com/playlist/5dWI4V1STNFYRaFiU2fUHc",
+        "Snapshot ID": "MSxkN2I4OTNkNTU3OWVmZWQ1OGE5Y2U0NWRkMDBmZGFhOTNiNGQ1MGM5",
+        "Playlist Name": "ATC 2007-11-10 Sat All Things Considered"
     },
     {
         "Title": "Norman Mailer, Literary Giant",
@@ -16,7 +20,15 @@
         "ATC Track": "Slow Drive",
         "ATC Artists": [
             "Todd Syring"
-        ]
+        ],
+        "Result Track Name": "Slow Drive",
+        "Result Artist Names": [
+            "Todd Syring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48mn97ZysBEpg4DCd9h2uX",
+        "Result Album Name": "Prairie Dog"
     },
     {
         "Title": "Ex-U.S. Attorneys Continue to Scrutinize Gonzales",
@@ -29,13 +41,29 @@
         "ATC Artists": [
             "Willie",
             "Lobo"
-        ]
+        ],
+        "Result Track Name": "Saudade",
+        "Result Artist Names": [
+            "Willie And Lobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0IGGUb6kUTUTRVBe4ENLrw",
+        "Result Album Name": "Mañana"
     },
     {
         "ATC Track": "Andre the Giant",
         "ATC Artists": [
             "Trey Anastasio"
-        ]
+        ],
+        "Result Track Name": "Andre the Giant",
+        "Result Artist Names": [
+            "Trey Anastasio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3nYFZKzG2fQBEXUuNqabxJ",
+        "Result Album Name": "Seis de Mayo"
     },
     {
         "Title": "Broadway Stagehands Go on Strike",
@@ -66,7 +94,12 @@
         "ATC Artists": [
             "Johnny",
             "Ralanto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Author Ken Wells on 'Crawfish Mountain'",
@@ -84,7 +117,15 @@
         "ATC Track": "Toujours Gai",
         "ATC Artists": [
             "Eartha Kitt"
-        ]
+        ],
+        "Result Track Name": "Toujours Gai (From \"Shinbone Alley\")",
+        "Result Artist Names": [
+            "Eartha Kitt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0URqDGlGcYLY5lUI6BT3zj",
+        "Result Album Name": "The Essential Eartha Kitt"
     },
     {
         "Title": "Raul Midon: Meditations on Success and Soul",
@@ -98,19 +139,43 @@
             "Raul Midón",
             "Midón",
             "Raul"
-        ]
+        ],
+        "Result Track Name": "Pick Somebody Up",
+        "Result Artist Names": [
+            "Raul Midón"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cWOm4bzt7LEY2ju5vjvWf",
+        "Result Album Name": "A World Within A World"
     },
     {
         "ATC Track": "Piccola Radiolina",
         "ATC Artists": [
             "Manu Chao"
-        ]
+        ],
+        "Result Track Name": "Piccola Radiolina",
+        "Result Artist Names": [
+            "Manu Chao"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SY5EzpDmrasIA2i2bFveq",
+        "Result Album Name": "La Radiolina"
     },
     {
         "ATC Track": "Recado Bossa Nova",
         "ATC Artists": [
             "Laurindo Almeida",
             "Bossa Nova All-Stars"
-        ]
+        ],
+        "Result Track Name": "Recado Bossa Nova",
+        "Result Artist Names": [
+            "Laurindo Almeida"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3koVseabtzFqHZ0kOqx5B2",
+        "Result Album Name": "Puro"
     }
 ]

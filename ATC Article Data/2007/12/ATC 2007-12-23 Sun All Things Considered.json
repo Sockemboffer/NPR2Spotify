@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-12-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:08:16"
+        "Scanned Date": "2022-02-07 00:08:16",
+        "Playlist URI": "4GwV7mdkSk6fIaJR0fmJqt",
+        "Playlist Link": "https://open.spotify.com/playlist/4GwV7mdkSk6fIaJR0fmJqt",
+        "Snapshot ID": "MSw2ZjczMDg4ZmZmNmRmZmVkZDk1ODRhNWEyMDY2MzhlMTcyOTE4ZDAz",
+        "Playlist Name": "ATC 2007-12-23 Sun All Things Considered"
     },
     {
         "Title": "Obama, Clinton Barnstorm Iowa",
@@ -28,13 +32,26 @@
         "ATC Track": "Lila's Healing",
         "ATC Artists": [
             "Billy McLaughlin"
-        ]
+        ],
+        "Result Track Name": "Lila's Healing",
+        "Result Artist Names": [
+            "Billy McLaughlin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VmHPO0hsDwgw4nfzqv6mK",
+        "Result Album Name": "Fingerdance"
     },
     {
         "ATC Track": "Long-Ge (1987)",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Latino Hate Crimes on the Rise",
@@ -46,7 +63,15 @@
         "ATC Track": "Money Thing",
         "ATC Artists": [
             "Low Millions"
-        ]
+        ],
+        "Result Track Name": "Money Thing",
+        "Result Artist Names": [
+            "Low Millions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69QnVZc6z1qfXJPS4Czfph",
+        "Result Album Name": "Ex Girlfriends"
     },
     {
         "Title": " Iran Tamping Down Violence in Iraq, Report Says",
@@ -70,13 +95,26 @@
         "ATC Track": "one week: oh, well",
         "ATC Artists": [
             "bill frisell"
-        ]
+        ],
+        "Result Track Name": "Oh, Well",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pHfUXjopa90WLv8Yrx4zf",
+        "Result Album Name": "Music For The Films Of Buster Keaton: The High Sign/One Week"
     },
     {
         "ATC Track": "Duet, sonata for 2 flutes No. 2 in C minor (Sei duetti No. 2), TWV 40:131",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Many Icelanders Believe in Elves ",
@@ -88,7 +126,12 @@
         "ATC Track": "My Old Kentucky Home",
         "ATC Artists": [
             "We Apologize"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Walk Hard' Sends Up Bio-Pics",
@@ -106,18 +149,41 @@
         "ATC Track": "SLEIGH RIDE (ANDERSON)",
         "ATC Artists": [
             "NO ARTIST ENTERED"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SONATA IN G MINOR: PRESTO",
         "ATC Artists": [
             "NIGEL NORTH"
-        ]
+        ],
+        "Result Track Name": "Oboe Sonata In G Minor RV 58: IV. Allegro, ma non presto",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Paul Goodwin",
+            "John Toll",
+            "Nigel North",
+            "Nicolas Chédeville",
+            "Susan Sheppard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Gjzp0aiegJQbc3SFNYbKq",
+        "Result Album Name": "Vivaldi & Telemann: Oboe Sonatas"
     },
     {
         "ATC Track": "Pavin of Albarti, Gallyard",
         "ATC Artists": [
             "Hesperon XX"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

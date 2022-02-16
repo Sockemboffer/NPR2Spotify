@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-01-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:27:11"
+        "Scanned Date": "2022-02-07 00:27:11",
+        "Playlist URI": "2MHc3iRvZkDFkHUqlNosEk",
+        "Playlist Link": "https://open.spotify.com/playlist/2MHc3iRvZkDFkHUqlNosEk",
+        "Snapshot ID": "MSxjNzlkYzM2MTYwYjI5YWUxYzc1YzU2YjQxNGMxYWU4ODZkOWY1NWQ3",
+        "Playlist Name": "ATC 2007-01-14 Sun All Things Considered"
     },
     {
         "Title": "Iraq Government Backs U.S. Plan, Maliki Says",
@@ -28,7 +32,15 @@
         "ATC Track": "My Song in the Night",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "My Song in the Night",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cXaBBZoWBzrl0kT0CcCRw",
+        "Result Album Name": "Earth Stories"
     },
     {
         "Title": "Iraqi Translator Flees After Working with Americans",
@@ -58,7 +70,15 @@
         "ATC Track": "Vanishing Point",
         "ATC Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Vanishing Point",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rvjvUCV1TJVrZIqHrvZbx",
+        "Result Album Name": "The Water Garden"
     },
     {
         "Title": "California Produce Industry Nears New Guidelines",
@@ -82,6 +102,11 @@
         "ATC Track": "Route Number 1",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

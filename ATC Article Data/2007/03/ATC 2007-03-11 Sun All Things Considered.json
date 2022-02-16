@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-03-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:23:39"
+        "Scanned Date": "2022-02-07 00:23:39",
+        "Playlist URI": "3XdWRmTBRjHo1Wm0YdVfhs",
+        "Playlist Link": "https://open.spotify.com/playlist/3XdWRmTBRjHo1Wm0YdVfhs",
+        "Snapshot ID": "MSxhNTJhNTg1YWQ4MDVhZTM4YWVlNjVjZWZmMTBkN2U2MWY0NTBkMjUx",
+        "Playlist Name": "ATC 2007-03-11 Sun All Things Considered"
     },
     {
         "Title": "Colombians Clash with Police During Bush Visit",
@@ -34,7 +38,15 @@
         "ATC Track": "Hymn",
         "ATC Artists": [
             "Wynton Marsalis"
-        ]
+        ],
+        "Result Track Name": "Hymn - Edited Version",
+        "Result Artist Names": [
+            "Wynton Marsalis Septet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FiyzZrdUE5h4NTymgzg5W",
+        "Result Album Name": "The Spiritual Side of Wynton Marsalis"
     },
     {
         "Title": "Ultra-Orthodox Jews Moving to West Bank",
@@ -65,13 +77,26 @@
         "ATC Artists": [
             "Yo-Yo Ma",
             "Silk Road Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SISTER SADIE",
         "ATC Artists": [
             "JIMMY SMITH ET AL"
-        ]
+        ],
+        "Result Track Name": "Sister Sadie",
+        "Result Artist Names": [
+            "Jimmy Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2n6dVpZyMZYL0J9pZLR2BH",
+        "Result Album Name": "Damn!"
     },
     {
         "Title": "Birds Help You Tune In to Sounds of Spring",
@@ -108,12 +133,28 @@
         "ATC Artists": [
             "Joe Sample",
             "Soul Committee"
-        ]
+        ],
+        "Result Track Name": "Viva De Funk",
+        "Result Artist Names": [
+            "Joe Sample"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7hv0gfcH0giOfVSYGL3KgY",
+        "Result Album Name": "The Best Of Joe Sample"
     },
     {
         "ATC Track": "Chocolate Chip",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Chocolate Chip",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BZY9iKRfhnZ8ZJB52ljdb",
+        "Result Album Name": "Doo-Bop"
     }
 ]

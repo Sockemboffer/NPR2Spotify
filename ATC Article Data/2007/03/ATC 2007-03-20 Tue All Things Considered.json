@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2007-03-20",
         "Day": "Tue",
-        "Scanned Date": "2022-02-07 00:24:14"
+        "Scanned Date": "2022-02-07 00:24:14",
+        "Playlist URI": "3rbB6Y4DruIZb4QrNHVsQV",
+        "Playlist Link": "https://open.spotify.com/playlist/3rbB6Y4DruIZb4QrNHVsQV",
+        "Snapshot ID": "MSw5NTBkYjg5YzZlMzEzYTY0NjFkMDg2MDdiZTMzNTY0MmY4NjA4MDZj",
+        "Playlist Name": "ATC 2007-03-20 Tue All Things Considered"
     },
     {
         "Title": "Congress, White House Clash on Hearing Rules",
@@ -28,13 +32,27 @@
         "ATC Track": "C + F",
         "ATC Artists": [
             "Sam Prekop"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tabu (Taboo)",
         "ATC Artists": [
             "The Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Tabu (Taboo)",
+        "Result Artist Names": [
+            "Margarita Lecuona",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1rAqLfr4FlcjItFU0aUttr",
+        "Result Album Name": "Kronos Explorer Series"
     },
     {
         "Title": "Michigan Cuts Arts Funding, and Trouble Begins",
@@ -52,13 +70,29 @@
         "ATC Track": "Delta (Little Boy Blues)",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "Delta (Little Boy Blues)",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qruEA6iLENHiW1wCQUBSA",
+        "Result Album Name": "About A Boy Soundtrack"
     },
     {
         "ATC Track": "Stretch (You Are All Right)",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "Stretch (You Are All Right)",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3OVgIImuXuOig1NxvC6h9T",
+        "Result Album Name": "It's All Around You"
     },
     {
         "Title": "Seattle Refinery Rides Biodiesel Boom Into Big Time",
@@ -82,13 +116,29 @@
         "ATC Track": "SLOW BURN",
         "ATC Artists": [
             "GAVIN LURSSEN"
-        ]
+        ],
+        "Result Track Name": "Slow Burn",
+        "Result Artist Names": [
+            "Gavin Lurssen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gNphI9U2NPErC8JK8lnqo",
+        "Result Album Name": "Urban Rituals"
     },
     {
         "ATC Track": "Rise and Shine",
         "ATC Artists": [
             "Robert Glasper"
-        ]
+        ],
+        "Result Track Name": "Rise And Shine",
+        "Result Artist Names": [
+            "Robert Glasper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:599soHbRxWxvprY2tE5iQV",
+        "Result Album Name": "Canvas"
     },
     {
         "Title": "Young Pianist Ready to Be Jazz Ambassador",
@@ -100,7 +150,15 @@
         "ATC Track": "JUST YOU, JUST ME",
         "ATC Artists": [
             "THELONIUS MONK"
-        ]
+        ],
+        "Result Track Name": "Just You, Just Me",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:627HruijQU3FBAdIfuWFPm",
+        "Result Album Name": "The Complete Riverside Recordings"
     },
     {
         "Title": "Senate Votes to Resume Attorney Confirmation",
@@ -124,7 +182,15 @@
         "ATC Track": "Falling Pianos",
         "ATC Artists": [
             "Tuatara"
-        ]
+        ],
+        "Result Track Name": "Falling Pianos",
+        "Result Artist Names": [
+            "Tuatara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tqy8l0ZESiYaO5uU6n5lc",
+        "Result Album Name": "Cinemathique"
     },
     {
         "Title": "Zimbabwe Threatens to Expel Western Diplomats",
@@ -142,7 +208,15 @@
         "ATC Track": "Boubacar",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Boubacar",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:02oqormPIABuDlV7SZr7js",
+        "Result Album Name": "East/West"
     },
     {
         "ATC Track": "In Case the World Changes Its Mind",
@@ -151,7 +225,15 @@
             "Martin",
             "Wood",
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "In Case The World Changes Its Mind",
+        "Result Artist Names": [
+            "Medeski Scofield Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7KP1ZfRHtQLPUdU8tiyR8j",
+        "Result Album Name": "Out Louder"
     },
     {
         "Title": "Roadside Bombs Plague Iraq Patrols",
@@ -169,7 +251,12 @@
         "ATC Track": "UNFINISHED STORY",
         "ATC Artists": [
             "DJAMEL BEN YELLES"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Egyptian Opposition Decries Changes to Constitution",
@@ -184,7 +271,15 @@
             "Martin",
             "Wood",
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Hanuman",
+        "Result Artist Names": [
+            "Medeski Scofield Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:22I4oDy0aOlkRlstQFnbSM",
+        "Result Album Name": "MSMW LIVE: In Case the World Changes Its Mind"
     },
     {
         "Title": "Altered Mosquitoes May Save Humans From Malaria",
@@ -202,12 +297,29 @@
         "ATC Track": "Sign 'O' the Times",
         "ATC Artists": [
             "Sex Mob"
-        ]
+        ],
+        "Result Track Name": "Sign 'O' The Times",
+        "Result Artist Names": [
+            "Sex Mob",
+            "Steven Bernstein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PiC9aC8G84pi3wT28HHM5",
+        "Result Album Name": "Din Of Inequity"
     },
     {
         "ATC Track": "36-24-36",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "36-24-36",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6aAZ09YT6pdLslny2SrLDv",
+        "Result Album Name": "The Shadows' Greatest Hits"
     }
 ]
