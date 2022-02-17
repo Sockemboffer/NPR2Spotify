@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-03-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:46:54"
+        "Scanned Date": "2022-02-07 00:46:54",
+        "Playlist URI": "2pU7DB7BfBhGvo8MII3RGB",
+        "Playlist Link": "https://open.spotify.com/playlist/2pU7DB7BfBhGvo8MII3RGB",
+        "Snapshot ID": "MSw5NzNmYmMzZjZkODI3ZDVlZDNiZTE3NzY3YzQ1YzNiN2Q4MGE1ZDBj",
+        "Playlist Name": "ATC 2008-03-29 Sat All Things Considered"
     },
     {
         "Title": "Treasury to Propose Overhaul of Financial Oversight",
@@ -28,13 +32,26 @@
         "ATC Track": "Wasted Years",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Wasted Years",
+        "Result Artist Names": [
+            "Van Morrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EcyDeA3eHl0SwD199vqkC",
+        "Result Album Name": "Too Long in Exile"
     },
     {
         "ATC Track": "The Great Crush Collision March, for piano",
         "ATC Artists": [
             "Giovanni De Chiaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "To the Surprise Victor Go the Freshman Applications",
@@ -46,7 +63,12 @@
         "ATC Track": "Brahms Kugel Hoveskeland",
         "ATC Artists": [
             "The Bottom Line Duo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Elephant Seals Blanket California Beaches",
@@ -64,13 +86,26 @@
         "ATC Track": "Street Music",
         "ATC Artists": [
             "Dr. Didg"
-        ]
+        ],
+        "Result Track Name": "Street Music",
+        "Result Artist Names": [
+            "Dr. Didg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gK3mgniSF3ABEn473ojmX",
+        "Result Album Name": "Out Of The Woods"
     },
     {
         "ATC Track": "Good Old Bosom Bread",
         "ATC Artists": [
             "Hot Lips Page"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Homework: Spring Cleaning",
@@ -100,13 +135,31 @@
         "ATC Track": "Confessin' the Blues",
         "ATC Artists": [
             "Joe Williams"
-        ]
+        ],
+        "Result Track Name": "Confessin' the Blues",
+        "Result Artist Names": [
+            "Joe Williams",
+            "Count Basie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ngi9tt2DxAdVAGY016D88",
+        "Result Album Name": "Every Day I Have The Blues"
     },
     {
         "ATC Track": "Kitty \"Tommy, Quick! Get Up. I Can Hear Clogs Goin' Up the Street.\" Tom",
         "ATC Artists": [
             "Richard Thompson",
             "Danny Thompson"
-        ]
+        ],
+        "Result Track Name": "Kitty 'Tommy, Quick! Get Up. I Can Hear Clogs Goin' up the Street'.",
+        "Result Artist Names": [
+            "Richard Thompson",
+            "Danny Thompson"
+        ],
+        "Result Track-Match Percent": 0.9629629629629629,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fKejc23WHOQIDBlX580QU",
+        "Result Album Name": "Industry"
     }
 ]

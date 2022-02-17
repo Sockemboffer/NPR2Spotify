@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-08-31",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:37:41"
+        "Scanned Date": "2022-02-07 00:37:41",
+        "Playlist URI": "7FxHTDIkDYXLlpQtS7q5vK",
+        "Playlist Link": "https://open.spotify.com/playlist/7FxHTDIkDYXLlpQtS7q5vK",
+        "Snapshot ID": "MSw2ZGFmZWY4YTMyNzg3NjBmMGZjOTBiMDE0Y2M2NGRiNTlmMWE5ODUw",
+        "Playlist Name": "ATC 2008-08-31 Sun All Things Considered"
     },
     {
         "Title": "Gulf Coast Residents Prepare For Worst",
@@ -35,14 +39,30 @@
         "ATC Artists": [
             "Eric Bachmann",
             "Eunice Kang et. al."
-        ]
+        ],
+        "Result Track Name": "A Diamond Is the Devils Eye",
+        "Result Artist Names": [
+            "Eric Bachmann"
+        ],
+        "Result Track-Match Percent": 0.7692307692307693,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5Tr9lfetRWjtx1oUfQ84S6",
+        "Result Album Name": "Short Careers - Ball of Wax"
     },
     {
         "ATC Track": "The Mysterious Death of Robert Tower",
         "ATC Artists": [
             "Eric Bachmann",
             "Eunice Kang et. al."
-        ]
+        ],
+        "Result Track Name": "The Mysterious Death of Robert Tower",
+        "Result Artist Names": [
+            "Eric Bachmann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1XOvtrAOIuPl3cztpdbdsB",
+        "Result Album Name": "Short Careers - Ball of Wax"
     },
     {
         "Title": "GOP Scales Down Convention Plans",
@@ -66,13 +86,33 @@
         "ATC Track": "Baba Drame",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Baba Drame",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0I0xbIFqsdofe9bVvurK9Q",
+        "Result Album Name": "Valentine"
     },
     {
         "ATC Track": "El Condor Pasa",
         "ATC Artists": [
             "James Galway"
-        ]
+        ],
+        "Result Track Name": "El Condor Pasa (If I Could)",
+        "Result Artist Names": [
+            "Paul Simon",
+            "Jorge Milchberg",
+            "Danny A. Robles",
+            "James Galway",
+            "Vincent Fanuele"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bwA9o5lcGVJ906wTC0Jzm",
+        "Result Album Name": "The Essential James Galway"
     },
     {
         "Title": "Lafayette, La., Residents Prepare For Gustav",
@@ -102,18 +142,42 @@
         "ATC Track": "It's Great to be Here",
         "ATC Artists": [
             "The Jackson Five"
-        ]
+        ],
+        "Result Track Name": "It's Great To Be Here",
+        "Result Artist Names": [
+            "The Jackson 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:78qHwCaeAn0VIQcFj1AyXk",
+        "Result Album Name": "Maybe Tomorrow"
     },
     {
         "ATC Track": "Karibu",
         "ATC Artists": [
             "Lionel Loueke"
-        ]
+        ],
+        "Result Track Name": "Karibu",
+        "Result Artist Names": [
+            "Lionel Loueke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wi6KHrpieeO3rdVAZv41J",
+        "Result Album Name": "Karibu"
     },
     {
         "ATC Track": "Railroad Bill",
         "ATC Artists": [
             "Taj Mahal"
-        ]
+        ],
+        "Result Track Name": "Railroad Bill",
+        "Result Artist Names": [
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:120RGbjvi9iBzmTJOvIqUO",
+        "Result Album Name": "The Essential Taj Mahal"
     }
 ]

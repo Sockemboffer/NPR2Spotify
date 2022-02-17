@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-12-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:29:53"
+        "Scanned Date": "2022-02-07 00:29:53",
+        "Playlist URI": "0FkKzoDVEXReJyWbIUC3nt",
+        "Playlist Link": "https://open.spotify.com/playlist/0FkKzoDVEXReJyWbIUC3nt",
+        "Snapshot ID": "MSw3YzQ2YTIwYjg4YzkxNTg5ZDA5Yjk0ZTUzYmM4OGMzZWQxZTY2MTk4",
+        "Playlist Name": "ATC 2008-12-27 Sat All Things Considered"
     },
     {
         "Title": "Israeli Airstrikes Target Hamas In Gaza Strip",
@@ -28,13 +32,32 @@
         "ATC Track": "sunrise serenade",
         "ATC Artists": [
             "glenn miller"
-        ]
+        ],
+        "Result Track Name": "Sunrise Serenade",
+        "Result Artist Names": [
+            "Glenn Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1epO4HLqGdLBYiCNh90f3v",
+        "Result Album Name": "Ultimate Big Band Collection: Glenn Miller"
     },
     {
         "ATC Track": "Desert Drive",
         "ATC Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Desert Drive",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "The Axe Murderers",
+            "The Rockin' Rhythmaires",
+            "The Heavenly Horns"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6N3AZNh6VdtUJfh7b1CMtI",
+        "Result Album Name": "Strong Like Bull...But Sensitive Like Squirrel"
     },
     {
         "Title": "Take Advantage Of Medicare Changes Now",
@@ -59,7 +82,15 @@
         "ATC Artists": [
             "Big Sandy",
             "His Fly-Rite Boys"
-        ]
+        ],
+        "Result Track Name": "Straight-8 Boogie",
+        "Result Artist Names": [
+            "The Fly-Rite Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:0R04TPJ2VHGa5ZzK5C6sH4",
+        "Result Album Name": "Big Sandy Presents The Fly-Rite Brothers"
     },
     {
         "Title": "Third Reich Returns: 'Valkyrie,' 'Defiance' and 'Good'",
@@ -77,19 +108,34 @@
         "ATC Track": "Defiance/Police Station",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "language of the Soul",
         "ATC Artists": [
             "Ronnie Earl",
             "the Broadcasters"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "BUCKAROO",
         "ATC Artists": [
             "DUANE EDDY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

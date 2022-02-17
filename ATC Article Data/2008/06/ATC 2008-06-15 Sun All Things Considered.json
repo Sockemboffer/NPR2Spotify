@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-06-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:40:34"
+        "Scanned Date": "2022-02-07 00:40:34",
+        "Playlist URI": "2ErPnrnZquIFqPpa9eEjXL",
+        "Playlist Link": "https://open.spotify.com/playlist/2ErPnrnZquIFqPpa9eEjXL",
+        "Snapshot ID": "MSwyYzZjM2I1MjcyNWNiNmUwMDNkZjI2YmY3NDJhYjAwYjc5NjlkNDVk",
+        "Playlist Name": "ATC 2008-06-15 Sun All Things Considered"
     },
     {
         "Title": "In Iowa, Worries about Flood Damage, Insurance",
@@ -29,13 +33,26 @@
         "ATC Artists": [
             "Jeff Rian",
             "Palix"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Conversation Heart",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Conversation Heart",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zQWZ8Fz25TnswtkkXDqar",
+        "Result Album Name": "Casually Smashed To Pieces"
     },
     {
         "Title": "At 38, NBA Player at the Top of His Game",
@@ -65,13 +82,29 @@
         "ATC Track": "It's Great to be Here",
         "ATC Artists": [
             "The Jackson Five"
-        ]
+        ],
+        "Result Track Name": "It's Great To Be Here",
+        "Result Artist Names": [
+            "The Jackson 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:78qHwCaeAn0VIQcFj1AyXk",
+        "Result Album Name": "Maybe Tomorrow"
     },
     {
         "ATC Track": "Quattro (World Drifts In)",
         "ATC Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Quattro - World Drifts in",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1J4a2ANjzhpXxSOHREnIQQ",
+        "Result Album Name": "Feast of Wire"
     },
     {
         "Title": "In Calif., New Weddings, Unanswered Questions",
@@ -101,7 +134,15 @@
         "ATC Track": "Pollywog in a Bog",
         "ATC Artists": [
             "Barenaked Ladies"
-        ]
+        ],
+        "Result Track Name": "Pollywog In A Bog",
+        "Result Artist Names": [
+            "Barenaked Ladies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:60Cx4xLdpUKAdEP5179MZ2",
+        "Result Album Name": "Snacktime!"
     },
     {
         "Title": "Parting Words: On Childhood",
@@ -113,12 +154,29 @@
         "ATC Track": "Two Steps Forward, One Step Back",
         "ATC Artists": [
             "Peter Lang"
-        ]
+        ],
+        "Result Track Name": "Two Steps Forward,one Step Back",
+        "Result Artist Names": [
+            "Peter Lang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0S7j2DeuHOXOPsAX3ZXEk9",
+        "Result Album Name": "Peter Lang Live At Charlotte's Web"
     },
     {
         "ATC Track": "Living in the Country",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Living In The Country",
+        "Result Artist Names": [
+            "Leo Kottke",
+            "Mike Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27Cq0RPuH3Hf67hvJ2fOsc",
+        "Result Album Name": "Sixty Six Steps"
     }
 ]

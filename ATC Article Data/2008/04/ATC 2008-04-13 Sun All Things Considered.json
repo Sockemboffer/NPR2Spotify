@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-04-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:44:05"
+        "Scanned Date": "2022-02-07 00:44:05",
+        "Playlist URI": "2bXcvYNLrfxoKHbsSUfjUM",
+        "Playlist Link": "https://open.spotify.com/playlist/2bXcvYNLrfxoKHbsSUfjUM",
+        "Snapshot ID": "MSwwMzI3ZWRlZDRkMmE3OTliNzNhODAxMjcxZDA5MmE5ZjEyNWNiZGM0",
+        "Playlist Name": "ATC 2008-04-13 Sun All Things Considered"
     },
     {
         "Title": "Reaction to Obama's 'Bitter' Comment Brews",
@@ -28,13 +32,26 @@
         "ATC Track": "Rome, Television Score/Rome Main Title Theme",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Times Twelve",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Times Twelve",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6lLWiEpdg7V7cF6qBTycld",
+        "Result Album Name": "My Father's Face"
     },
     {
         "Title": "Tax Cheats Look Offshore",
@@ -52,7 +69,12 @@
         "ATC Track": "Nothing for You",
         "ATC Artists": [
             "Lagbaja!"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Russia's Far East, North Koreans Labor Silently",
@@ -70,14 +92,24 @@
         "ATC Track": "Fisherman's Dance",
         "ATC Artists": [
             "Volga Boatmen"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tico Tico",
         "ATC Artists": [
             "The Frank",
             "Joe Show"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hannibal Lecter: A Psycho with an Unlikely Soft Spot",
@@ -101,7 +133,15 @@
         "ATC Track": "Apriétame Así [Squeeze Me Like That]",
         "ATC Artists": [
             "La India Canela"
-        ]
+        ],
+        "Result Track Name": "Apriétame Así (Squeeze Me Like That)",
+        "Result Artist Names": [
+            "La India Canela"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6k8YGHp6f21UVvJRglzX9G",
+        "Result Album Name": "Merengue Típico from the Dominican Republic"
     },
     {
         "Title": "Parting Words: Lawrence Welk",
@@ -113,12 +153,28 @@
         "ATC Track": "Wonderful Land",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "Wonderful Land",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7yrAJDi3c35byX8HdtBSJM",
+        "Result Album Name": "Another String of Hot Hits (And More!)"
     },
     {
         "ATC Track": "I Already Have a Husband",
         "ATC Artists": [
             "Balafon Marimba Ensemble"
-        ]
+        ],
+        "Result Track Name": "I Already Have A Husband",
+        "Result Artist Names": [
+            "Balafon Marimba Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HHtfZxRqWwh43e9kiysFI",
+        "Result Album Name": "Balafon Marimba Ensemble"
     }
 ]

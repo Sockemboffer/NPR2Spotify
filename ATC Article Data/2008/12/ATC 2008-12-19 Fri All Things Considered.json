@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-12-19",
         "Day": "Fri",
-        "Scanned Date": "2022-02-07 00:29:27"
+        "Scanned Date": "2022-02-07 00:29:27",
+        "Playlist URI": "2x8wjKdA19ZTqgJoqSqbbW",
+        "Playlist Link": "https://open.spotify.com/playlist/2x8wjKdA19ZTqgJoqSqbbW",
+        "Snapshot ID": "MSwzNzE4ZTBkMjI2OTcxZDNjMWUyNTc2OWUzNGI2MjNhYzdiYjA2NDgy",
+        "Playlist Name": "ATC 2008-12-19 Fri All Things Considered"
     },
     {
         "Title": "Auto Bailout, Blagojevich, Obama Analyzed",
@@ -22,13 +26,26 @@
         "ATC Track": "DECK THE HALLS",
         "ATC Artists": [
             "EVERGREEN"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Boogielastic",
         "ATC Artists": [
             "Joshua Redman"
-        ]
+        ],
+        "Result Track Name": "Boogielastic",
+        "Result Artist Names": [
+            "Joshua Redman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45oQMrbUppGoXOoZwtOgvC",
+        "Result Album Name": "Elastic"
     },
     {
         "Title": "New Voices From South Asia Share Hope, Concerns",
@@ -41,13 +58,28 @@
         "ATC Artists": [
             "Anoushka Shankar",
             "Norah Jones et. al."
-        ]
+        ],
+        "Result Track Name": "Easy",
+        "Result Artist Names": [
+            "Anoushka Shankar",
+            "Karsh Kale",
+            "Norah Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Zlp3AkCc1CCtp3yUwqdRr",
+        "Result Album Name": "Breathing Under Water"
     },
     {
         "ATC Track": "Kate Stop Your Running!",
         "ATC Artists": [
             "Reno del Mar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Presses Pakistan To Continue Border Offensive",
@@ -71,7 +103,15 @@
         "ATC Track": "Thule",
         "ATC Artists": [
             "The Album Leaf"
-        ]
+        ],
+        "Result Track Name": "Thule",
+        "Result Artist Names": [
+            "The Album Leaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eZMM8RoxKw7DqI17v0D6P",
+        "Result Album Name": "In a Safe Place"
     },
     {
         "Title": "How To Make A Dream Gingerbread Home",
@@ -84,13 +124,29 @@
         "ATC Artists": [
             "Duke Ellington",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Jingle Bells",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4UkdAMwxS2izD1LYu0HB4Y",
+        "Result Album Name": "A Big Band Christmas"
     },
     {
         "ATC Track": "Boogaloogalick",
         "ATC Artists": [
             "Les Hommes"
-        ]
+        ],
+        "Result Track Name": "Boogaloogalick",
+        "Result Artist Names": [
+            "Les Hommes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5krSdMNpXa0kKmBQf5CG5W",
+        "Result Album Name": "Vibrations in Cinematic Music Lounge (2 Pulsating Hours of Psychedelic Beat, Eastern Vibes, Soft Bossa, Jazz and Italian Cinema Music)"
     },
     {
         "Title": "Despite Loans, Uphill Road For GM, Chrysler",
@@ -120,14 +176,30 @@
         "ATC Track": "Salt Peanuts",
         "ATC Artists": [
             "Richie Cole"
-        ]
+        ],
+        "Result Track Name": "Salt Peanuts",
+        "Result Artist Names": [
+            "Richie Cole with Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Xa3WhqWIvNN9yMQRVLHMH",
+        "Result Album Name": "Kush: The Music Of Dizzy Gillespie"
     },
     {
         "ATC Track": "El Camino del Che",
         "ATC Artists": [
             "Jorgenson",
             "John Quintet"
-        ]
+        ],
+        "Result Track Name": "El Camino de Che",
+        "Result Artist Names": [
+            "John Jorgenson Quintet"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4ELSMsxtafQibnbYlxmdbF",
+        "Result Album Name": "Ultraspontane"
     },
     {
         "Title": "In Chelyabinsk, Corruption A Fixture Of Daily Life",
@@ -145,7 +217,15 @@
         "ATC Track": "Sad American",
         "ATC Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Sad American",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01SCKv1ZPkoOfN0rRk4oxr",
+        "Result Album Name": "Dreaming of Revenge"
     },
     {
         "ATC Track": "Source in Between",
@@ -153,7 +233,15 @@
             "Elio Villafranca",
             "Alexander",
             "Eric"
-        ]
+        ],
+        "Result Track Name": "The Source In Between",
+        "Result Artist Names": [
+            "Elio Villafranca"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1Xq1uXKO73Ju4LNM3lJ0lG",
+        "Result Album Name": "The Source In Between"
     },
     {
         "Title": "Blagojevich Stands Firm On Staying Put",
@@ -171,7 +259,12 @@
         "ATC Track": "Believe Beleft Below",
         "ATC Artists": [
             "E.s.t."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "What's In The Kennedy Name? Plenty",
@@ -183,13 +276,26 @@
         "ATC Track": "The Gentle Rain [RJD2 Remix]",
         "ATC Artists": [
             "Astrud Gilberto"
-        ]
+        ],
+        "Result Track Name": "The Gentle Rain - RJD2 Remix",
+        "Result Artist Names": [
+            "Astrud Gilberto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jSdPpIGG86YgEVvJHsB1G",
+        "Result Album Name": "Verve Remixed 3"
     },
     {
         "ATC Track": "DECK THE HALLS WITH BOUGHS OF FUNKY BASS",
         "ATC Artists": [
             "CHRISTIAN MCBRIDE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Criticism For New NFL Rules On Rough Play",
@@ -207,13 +313,30 @@
         "ATC Track": "Frozen",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "Frozen",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0AgGUiiWGhaxMR8JZiTlsJ",
+        "Result Album Name": "Belladonna"
     },
     {
         "ATC Track": "First Push",
         "ATC Artists": [
             "DeVotchKa"
-        ]
+        ],
+        "Result Track Name": "First Push",
+        "Result Artist Names": [
+            "DeVotchKa",
+            "Mychael Danna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ELpsYMI2ZqVEaYpPY47hJ",
+        "Result Album Name": "Little Miss Sunshine (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Combating The Threat Of Somali Piracy",

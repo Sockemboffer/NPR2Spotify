@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-12-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:29:55"
+        "Scanned Date": "2022-02-07 00:29:55",
+        "Playlist URI": "7dpaThwdYQUaPWW7rIYmhl",
+        "Playlist Link": "https://open.spotify.com/playlist/7dpaThwdYQUaPWW7rIYmhl",
+        "Snapshot ID": "MSw2M2ZiM2IyZTYzNDJlODdiMmU1NjFjMzI2ZWJjMmU3MzA4YzgzZmE5",
+        "Playlist Name": "ATC 2008-12-28 Sun All Things Considered"
     },
     {
         "Title": "Death Toll Climbs As Israel Bombards Gaza",
@@ -28,13 +32,26 @@
         "ATC Track": "Nyla",
         "ATC Artists": [
             "Pachora"
-        ]
+        ],
+        "Result Track Name": "Nyla",
+        "Result Artist Names": [
+            "Pachora"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FSFHR2hgK4f6kx44Tp4p2",
+        "Result Album Name": "Astereotypical"
     },
     {
         "ATC Track": "Etienne",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Reclaiming Detroit Means Reinventing A City",
@@ -58,7 +75,16 @@
         "ATC Track": "The Charlie Brown Suite: Peppermint Patty",
         "ATC Artists": [
             "Vince Guaraldi"
-        ]
+        ],
+        "Result Track Name": "The Charlie Brown Suite: Peppermint Patty",
+        "Result Artist Names": [
+            "Vince Guaraldi",
+            "Richard Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2PulYWB8NqiZYyyetPsZca",
+        "Result Album Name": "The Charlie Brown Suite And Other Favorites"
     },
     {
         "Title": "Hawaii's New Year's Eve Fireworks Traditions",
@@ -82,18 +108,42 @@
         "ATC Track": "Chameleon",
         "ATC Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Ce66JznW8QbeyTdSzdGwR",
+        "Result Album Name": "Head Hunters"
     },
     {
         "ATC Track": "Pule (Rain)",
         "ATC Artists": [
             "Abdullah Ibrahim"
-        ]
+        ],
+        "Result Track Name": "Pule (Rain)",
+        "Result Artist Names": [
+            "Abdullah Ibrahim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WVzn8ak0gmn39PbfeKrKD",
+        "Result Album Name": "The Enja Heritage Collection: Mindif"
     },
     {
         "ATC Track": "DINAH",
         "ATC Artists": [
             "LIONEL HAMPTON"
-        ]
+        ],
+        "Result Track Name": "Dinah",
+        "Result Artist Names": [
+            "Lionel Hampton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11Bcmi7OpVjiHsFcHwcc3k",
+        "Result Album Name": "The Essential Coleman Hawkins"
     }
 ]

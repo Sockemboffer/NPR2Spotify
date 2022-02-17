@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-07-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:38:00"
+        "Scanned Date": "2022-02-07 00:38:00",
+        "Playlist URI": "2LQkipeobcnrLvWdTfjDHU",
+        "Playlist Link": "https://open.spotify.com/playlist/2LQkipeobcnrLvWdTfjDHU",
+        "Snapshot ID": "MSwyNWRkMzVhOGZjMTY3ZTRmOWM1ODE2M2Y0ZGJkZjgzZWE0OGMxNzg3",
+        "Playlist Name": "ATC 2008-07-06 Sun All Things Considered"
     },
     {
         "Title": "In Iraq, Diplomatic Stalemate Over U.S. Presence",
@@ -22,7 +26,15 @@
         "ATC Track": "When I Go",
         "ATC Artists": [
             "Brett Dennen"
-        ]
+        ],
+        "Result Track Name": "When I Go",
+        "Result Artist Names": [
+            "Brett Dennen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1iCELXbFdy69DU7QrJSqLE",
+        "Result Album Name": "Brett Dennen"
     },
     {
         "Title": "Medical Flights Under Scrutiny After Fatalities",
@@ -34,7 +46,16 @@
         "ATC Track": "Miller's Theme",
         "ATC Artists": [
             "Michael Riesman"
-        ]
+        ],
+        "Result Track Name": "Miller's Theme",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Michael Riesman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hJRCF3kzkcpYoLtSEjqoE",
+        "Result Album Name": "Music from The Thin Blue Line"
     },
     {
         "Title": "Evangelical Leader Discusses Candidates",
@@ -64,13 +85,29 @@
         "ATC Track": "Sparkle City",
         "ATC Artists": [
             "Shuggie Otis"
-        ]
+        ],
+        "Result Track Name": "Sparkle City",
+        "Result Artist Names": [
+            "Shuggie Otis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:773cKhIOH225LoFoOzr5HO",
+        "Result Album Name": "Inspiration Information/ Wings Of Love"
     },
     {
         "ATC Track": "Taper Jean Girl",
         "ATC Artists": [
             "Kings of Leon"
-        ]
+        ],
+        "Result Track Name": "Taper Jean Girl",
+        "Result Artist Names": [
+            "Kings of Leon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kUktzISXJLuUurOFhc2Ms",
+        "Result Album Name": "Aha Shake Heartbreak"
     },
     {
         "Title": "Homework: Summer Road Trips",
@@ -82,7 +119,12 @@
         "ATC Track": "On the Road Again",
         "ATC Artists": [
             "Chet Atkins"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Martin Atkins: Teaching Bands To Tour Smart",
@@ -106,13 +148,29 @@
         "ATC Track": "Down Slow",
         "ATC Artists": [
             "Moby"
-        ]
+        ],
+        "Result Track Name": "Down Slow",
+        "Result Artist Names": [
+            "Moby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4RzzjS0nzDRNoz6RKvazDe",
+        "Result Album Name": "Play & Play: B Sides"
     },
     {
         "ATC Track": "Jericho",
         "ATC Artists": [
             "Booker T.",
             "The MG's"
-        ]
+        ],
+        "Result Track Name": "Jericho",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1inI4OLHL1yAnQbxX645DW",
+        "Result Album Name": "The Albums 1962-1968"
     }
 ]

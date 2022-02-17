@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-07-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:39:25"
+        "Scanned Date": "2022-02-07 00:39:25",
+        "Playlist URI": "2KnkemVgPkZP3bsQiMOoTQ",
+        "Playlist Link": "https://open.spotify.com/playlist/2KnkemVgPkZP3bsQiMOoTQ",
+        "Snapshot ID": "MSxkNDc2MzNhYmY5MDIwZmIyMGI3MjIxNGI2MjkxYjQ4OTU2ODQwYmI5",
+        "Playlist Name": "ATC 2008-07-27 Sun All Things Considered"
     },
     {
         "Title": "McCain, Obama Spar Over Iraq",
@@ -22,7 +26,15 @@
         "ATC Track": "Hallfield Piano Idea 2",
         "ATC Artists": [
             "Simon Jeffes"
-        ]
+        ],
+        "Result Track Name": "Hallfield Piano Idea 2",
+        "Result Artist Names": [
+            "Simon Jeffes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ybM8DAbdmECQS9MVYetX3",
+        "Result Album Name": "Piano Music"
     },
     {
         "Title": "Bomb Blasts Strike Neighborhood In Turkey",
@@ -34,13 +46,29 @@
         "ATC Track": "Au Bord de l'Eau",
         "ATC Artists": [
             "Henry Butler"
-        ]
+        ],
+        "Result Track Name": "Au Bord de l'eau",
+        "Result Artist Names": [
+            "Henry Butler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08fSWsVMoV4IfautF81TPG",
+        "Result Album Name": "Sundown: A Windam Hill Piano Collection"
     },
     {
         "ATC Track": "Lemon Tree",
         "ATC Artists": [
             "Herb Alpert"
-        ]
+        ],
+        "Result Track Name": "Lemon Tree",
+        "Result Artist Names": [
+            "Herb Alpert & The Tijuana Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79RbVDjY90dZiVdercBk07",
+        "Result Album Name": "Whipped Cream & Other Delights"
     },
     {
         "Title": "Cart Wash Puts An End To Dirt At Maryland Market",
@@ -82,13 +110,31 @@
         "ATC Track": "LIED OHNE WORTE",
         "ATC Artists": [
             "LEO EIDE"
-        ]
+        ],
+        "Result Track Name": "Lieder ohne Worte (Songs without Words), Book 5, Op. 62 (arr. For whisler and piano): Lied ohne Worte",
+        "Result Artist Names": [
+            "Felix Mendelssohn",
+            "Leo Eide",
+            "Håkan Sund"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Yq4pl4rB7iNM9EMj1gHkY",
+        "Result Album Name": "Eide, Leo: Whistling Virtuoso"
     },
     {
         "ATC Track": "Robodog",
         "ATC Artists": [
             "Ennio Morricone"
-        ]
+        ],
+        "Result Track Name": "Robodog",
+        "Result Artist Names": [
+            "Ennio Morricone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WBpZ8ppW0IN7JC4dlRwTi",
+        "Result Album Name": "L'umanoide (Original Motion Picture Soundtrack) [Remastered]"
     },
     {
         "Title": "Kevin Costner On 'Swing Vote'",
@@ -106,7 +152,12 @@
         "ATC Track": "Main Title from \"Cool Hand Luke\" [From Cool Hand Luke]",
         "ATC Artists": [
             "Lalo Schifrin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Parting Words: Charles Mingus",
@@ -118,12 +169,25 @@
         "ATC Track": "Main Theme from \"Mission: Impossible\"",
         "ATC Artists": [
             "American Film Orchestra"
-        ]
+        ],
+        "Result Track Name": "Main Theme from \"Mission: Impossible\"",
+        "Result Artist Names": [
+            "American Film Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xojxEsfrfDAqdBpGq42ju",
+        "Result Album Name": "Mission: Impossible and Other Movie Hits"
     },
     {
         "ATC Track": "Baby Elephant Gunn (Baby Elephant and Peter Gunn)",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

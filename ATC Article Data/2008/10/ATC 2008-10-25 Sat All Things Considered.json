@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-10-25",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:33:30"
+        "Scanned Date": "2022-02-07 00:33:30",
+        "Playlist URI": "5xPLA9awiGwnZpA2OxBlU9",
+        "Playlist Link": "https://open.spotify.com/playlist/5xPLA9awiGwnZpA2OxBlU9",
+        "Snapshot ID": "MSxkMzJjMzdmY2E3ZmUxYzgxYWRlOWFhYmU1OTE4ZjZiODljYTYwZWM0",
+        "Playlist Name": "ATC 2008-10-25 Sat All Things Considered"
     },
     {
         "Title": "Candidates Take A Swing Through The West",
@@ -28,13 +32,29 @@
         "ATC Track": "Anniversary",
         "ATC Artists": [
             "Howie B."
-        ]
+        ],
+        "Result Track Name": "Anniversary",
+        "Result Artist Names": [
+            "Howie B."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6a4OWF94P6clPDWQJjfPNJ",
+        "Result Album Name": "Snatch (Bonus Track Version)"
     },
     {
         "ATC Track": "To Kiss You",
         "ATC Artists": [
             "Howie B"
-        ]
+        ],
+        "Result Track Name": "To Kiss You",
+        "Result Artist Names": [
+            "Howie B."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BfTuYlOsIGr9i2ERK1ylY",
+        "Result Album Name": "Snatch (Bonus Track Version)"
     },
     {
         "Title": "Expert: One-Size Mortgage Bailout Won't Fit All",
@@ -52,7 +72,15 @@
         "ATC Track": "Jaguar",
         "ATC Artists": [
             "John Gregory"
-        ]
+        ],
+        "Result Track Name": "Jaguar",
+        "Result Artist Names": [
+            "John Gregory"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3T6dG4EYGat81ulJqezEfG",
+        "Result Album Name": "Groovy Lounge"
     },
     {
         "Title": "Sticky Tape Gives Off X-Rays",
@@ -71,13 +99,26 @@
         "ATC Artists": [
             "Eagle-Eye Cherry",
             "Vernon Reid et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Harmony",
         "ATC Artists": [
             "Clinic"
-        ]
+        ],
+        "Result Track Name": "Harmony",
+        "Result Artist Names": [
+            "Clinic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ig6Afu0jtAy10fSxwL7BQ",
+        "Result Album Name": "Walking With Thee"
     },
     {
         "Title": "Ariz. Sheriff Finds Foes Of Immigration Campaign",
@@ -89,7 +130,15 @@
         "ATC Track": "She Will Be Loved",
         "ATC Artists": [
             "Maroon 5"
-        ]
+        ],
+        "Result Track Name": "She Will Be Loved - Radio Mix",
+        "Result Artist Names": [
+            "Maroon 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4llK75pXNWZz6KAho2Gp16",
+        "Result Album Name": "Songs About Jane: 10th Anniversary Edition"
     },
     {
         "Title": "Research On Slave Opens Doorway To Writer's Past",
@@ -115,18 +164,45 @@
             "Daniel Hope",
             "Chamber Orchestra of Europe",
             "Thomas Hengelbrock (conductor)"
-        ]
+        ],
+        "Result Track Name": "Violin Concerto In E Minor, Op. 64, MWV O14: 2. Andante",
+        "Result Artist Names": [
+            "Felix Mendelssohn",
+            "Daniel Hope",
+            "Chamber Orchestra of Europe",
+            "Thomas Hengelbrock"
+        ],
+        "Result Track-Match Percent": 0.7777777777777778,
+        "Result Artists-Match Percent": 0.8421052631578947,
+        "Result Track URI": "spotify:track:73CjIpeeewJbNAmA3ROeI6",
+        "Result Album Name": "Stay at Home with Mendelssohn"
     },
     {
         "ATC Track": "Lovin', Livin' and Givin'",
         "ATC Artists": [
             "Diana Ross"
-        ]
+        ],
+        "Result Track Name": "Lovin', Livin' And Givin'",
+        "Result Artist Names": [
+            "Diana Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0N4OmfMyAwWssjuiBh5FV4",
+        "Result Album Name": "Ross"
     },
     {
         "ATC Track": "Master Blaster (Jammin')",
         "ATC Artists": [
             "Stevie Wonder"
-        ]
+        ],
+        "Result Track Name": "Master Blaster (Jammin')",
+        "Result Artist Names": [
+            "Stevie Wonder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EAgXGJ8Kw5QAfhQkZXYqT",
+        "Result Album Name": "Hotter Than July"
     }
 ]

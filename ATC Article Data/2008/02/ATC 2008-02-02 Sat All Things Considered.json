@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-02-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:47:06"
+        "Scanned Date": "2022-02-07 00:47:06",
+        "Playlist URI": "3bOCG0yzeTEyo9KPf28A8n",
+        "Playlist Link": "https://open.spotify.com/playlist/3bOCG0yzeTEyo9KPf28A8n",
+        "Snapshot ID": "MSxmNTYxYTU4OWM5MjAxYjc3NTRmMTJjMjFmZjFjMzRlMmMwN2FiNzIx",
+        "Playlist Name": "ATC 2008-02-02 Sat All Things Considered"
     },
     {
         "Title": "Republicans in Sprint to Secure Votes",
@@ -28,13 +32,26 @@
         "ATC Track": "Shin-Ki-Row",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chow Down",
         "ATC Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "Chow Down - Live",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55qjibmZl5LtshmqW6RRrA",
+        "Result Album Name": "London England Live"
     },
     {
         "Title": "Rebels Seize Control of Capital in Chad",
@@ -64,13 +81,29 @@
         "ATC Track": "Sweet Sue, Just You",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": "Sweet Sue / Just You",
+        "Result Artist Names": [
+            "Pearl Django"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UyHwmtFidk1dtx0gfVi2K",
+        "Result Album Name": "Swing 48"
     },
     {
         "ATC Track": "Constellation Drive",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": "Constellation Drive",
+        "Result Artist Names": [
+            "Ben Vaughn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21mgbXcrCVLr5T3PpKF83k",
+        "Result Album Name": "Instrumental Stylings"
     },
     {
         "Title": "Microsoft-Yahoo Merger Faces Antitrust Hurdles",
@@ -100,18 +133,39 @@
         "ATC Track": "Le Sacre du printemps (The Rite of Spring), ballet in 2 parts for orchestra",
         "ATC Artists": [
             "Columbia Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Groove Holmes",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Groove Holmes",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79RU3IJza68fW10JHbDfhb",
+        "Result Album Name": "The In Sound From Way Out!"
     },
     {
         "ATC Track": "Smash Up",
         "ATC Artists": [
             "Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Smash Up",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vwhTQkRV6K96sGv7hKgEo",
+        "Result Album Name": "Destination...Get Down!"
     }
 ]

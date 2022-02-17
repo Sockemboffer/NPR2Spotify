@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-12-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:28:37"
+        "Scanned Date": "2022-02-07 00:28:37",
+        "Playlist URI": "3Gvu3M9KtXH0md4bGG0TQp",
+        "Playlist Link": "https://open.spotify.com/playlist/3Gvu3M9KtXH0md4bGG0TQp",
+        "Snapshot ID": "MSxiZTliZjMzZjM3ZGE1YTA1MWNkNTViYTBhZWQ0MTAyOTQyOWZhM2Ez",
+        "Playlist Name": "ATC 2008-12-06 Sat All Things Considered"
     },
     {
         "Title": "Economy Hasn't Hit Bottom, Yet",
@@ -28,7 +32,15 @@
         "ATC Track": "Montgomery Movement",
         "ATC Artists": [
             "The Montgomery Express"
-        ]
+        ],
+        "Result Track Name": "Montgomery Movement",
+        "Result Artist Names": [
+            "The Montgomery Express"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7woA63RVybj2V2UvrsZw5k",
+        "Result Album Name": "The Montgomery Movement"
     },
     {
         "Title": "Security Adviser Pick Stresses Oil Independence",
@@ -65,13 +77,29 @@
         "ATC Artists": [
             "William Colvig",
             "Lou Harrison"
-        ]
+        ],
+        "Result Track Name": "Suite For Violin And American Gamelan: Jhala III",
+        "Result Artist Names": [
+            "Lou Harrison"
+        ],
+        "Result Track-Match Percent": 0.625,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4jFqyMiJugLA29kq4mBM2P",
+        "Result Album Name": "La Koro Sutro"
     },
     {
         "ATC Track": "Painting",
         "ATC Artists": [
             "Atmosphere"
-        ]
+        ],
+        "Result Track Name": "Painting",
+        "Result Artist Names": [
+            "Atmosphere"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24zsodLUzATgZLKbGXo4eF",
+        "Result Album Name": "When Life Gives You Lemons, You Paint That Shit Gold"
     },
     {
         "Title": "First Doctors In Years Graduate From Somali School",
@@ -90,7 +118,15 @@
         "ATC Artists": [
             "The Black Keys",
             "Black Keys"
-        ]
+        ],
+        "Result Track Name": "So He Won't Break",
+        "Result Artist Names": [
+            "The Black Keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yV74f2mUih6EWJf4FUMGY",
+        "Result Album Name": "Attack & Release"
     },
     {
         "Title": "Mercy: Behind Roy Orbison's 'Pretty Woman'",
@@ -108,18 +144,40 @@
         "ATC Track": "Ooby Dooby",
         "ATC Artists": [
             "Roy Orbison"
-        ]
+        ],
+        "Result Track Name": "Ooby Dooby",
+        "Result Artist Names": [
+            "Roy Orbison",
+            "The Teen Kings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Bt1RAu4FSYL3WltEmLmb5",
+        "Result Album Name": "At the Rock House"
     },
     {
         "ATC Track": "Funky Walk",
         "ATC Artists": [
             "Blue Mitchell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Party Fever",
         "ATC Artists": [
             "The Montgomery Express"
-        ]
+        ],
+        "Result Track Name": "Party Fever",
+        "Result Artist Names": [
+            "The Montgomery Express"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ecZSIbQ5PK8eodU368Rf5",
+        "Result Album Name": "The Montgomery Movement"
     }
 ]

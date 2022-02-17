@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-06-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:40:31"
+        "Scanned Date": "2022-02-07 00:40:31",
+        "Playlist URI": "64bnaIW95kxSoBeMqgJ291",
+        "Playlist Link": "https://open.spotify.com/playlist/64bnaIW95kxSoBeMqgJ291",
+        "Snapshot ID": "MSw4ZjE0NGEzODU3MmE1NzhhYTJmOGU2M2YzZTYxMzNmMjNmNmQ0NTcy",
+        "Playlist Name": "ATC 2008-06-14 Sat All Things Considered"
     },
     {
         "Title": "Volunteers Work To Save Homes, Businesses From Floods",
@@ -28,13 +32,26 @@
         "ATC Track": "The Music Song",
         "ATC Artists": [
             "Michael Houser"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pilgrimage",
         "ATC Artists": [
             "Brad Shepik"
-        ]
+        ],
+        "Result Track Name": "Pilgrimage",
+        "Result Artist Names": [
+            "Brad Cole"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4jxtAaXE5OpLfHd3hZ6UBT",
+        "Result Album Name": "Down the Line"
     },
     {
         "Title": "Gas Prices May Curb Extreme Commuter",
@@ -70,13 +87,26 @@
         "ATC Track": "Turning Green Blues",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Kickin' Samba",
         "ATC Artists": [
             "Soulstance"
-        ]
+        ],
+        "Result Track Name": "Kickin' Samba",
+        "Result Artist Names": [
+            "Soulstance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:614XU0aXHq2U1ACXftkOAB",
+        "Result Album Name": "Act On"
     },
     {
         "Title": "'Clumpy' Dirt Muddies Mars Research",
@@ -89,7 +119,15 @@
         "ATC Artists": [
             "KC",
             "the Sunshine Band"
-        ]
+        ],
+        "Result Track Name": "(Shake, Shake, Shake) Shake Your Booty",
+        "Result Artist Names": [
+            "KC & The Sunshine Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Is0Nnz59rzbNZE491URlY",
+        "Result Album Name": "KC & the Sunshine Band, Pt. 3... and More"
     },
     {
         "Title": "Tomatoes Not Chopped From This Menu",
@@ -113,24 +151,47 @@
         "ATC Track": "Introduction & Allegro for Horn & Piano, Op. 30",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hymn Tune Settings (3) for horn & piano",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "News To Go Farther",
         "ATC Artists": [
             "Ui"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sabrosa",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Sabrosa",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yOhl93toXcntCqDtAI7iL",
+        "Result Album Name": "The In Sound From Way Out!"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-04-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:44:55"
+        "Scanned Date": "2022-02-07 00:44:55",
+        "Playlist URI": "1KwQC3oFAY6VNfxYnWEDNP",
+        "Playlist Link": "https://open.spotify.com/playlist/1KwQC3oFAY6VNfxYnWEDNP",
+        "Snapshot ID": "MSxmMDI3MzA3MDJhNzBlMThhMmZiYTJmNWRhODM4MmVlODI0NjQwYWE4",
+        "Playlist Name": "ATC 2008-04-26 Sat All Things Considered"
     },
     {
         "Title": "Mugabe Party Loses Parliament in Recount",
@@ -22,7 +26,12 @@
         "ATC Track": "I Got It Bad",
         "ATC Artists": [
             "Gianluca Petrella"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Village in Guam Holds Democratic Caucus",
@@ -34,7 +43,12 @@
         "ATC Track": "Wissions (of vu)",
         "ATC Artists": [
             "Stanton Moore Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stealth Fighter Flies to Final Resting Place",
@@ -52,7 +66,16 @@
         "ATC Track": "Etude No. 7",
         "ATC Artists": [
             "Heitor Villa-Lobos"
-        ]
+        ],
+        "Result Track Name": "12 Etudes for Guitar: Etude No.7 in E major (Très animé - Moins)",
+        "Result Artist Names": [
+            "Heitor Villa-Lobos",
+            "Andrés Segovia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zQmRTbgxAG40NDtZmz2oX",
+        "Result Album Name": "The American Decca Recordings 1"
     },
     {
         "Title": "Novel Gives Roman Maiden Her Moment in the Sun",
@@ -64,13 +87,30 @@
         "ATC Track": "Oblivion",
         "ATC Artists": [
             "Ahn Trio"
-        ]
+        ],
+        "Result Track Name": "Oblivion",
+        "Result Artist Names": [
+            "Astor Piazzolla",
+            "Ahn Trio/Brian Resnick/Matthew Gold"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rgqTARPRfwLWMCiWkzPr8",
+        "Result Album Name": "Ahn-Plugged"
     },
     {
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "Title": "Messing with the Climate to Save It",
@@ -94,7 +134,15 @@
         "ATC Track": "It's Great to be Here",
         "ATC Artists": [
             "The Jackson Five"
-        ]
+        ],
+        "Result Track Name": "It's Great To Be Here",
+        "Result Artist Names": [
+            "The Jackson 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:78qHwCaeAn0VIQcFj1AyXk",
+        "Result Album Name": "Maybe Tomorrow"
     },
     {
         "Title": "Parting Words: A Break from the High-Brow",
@@ -106,12 +154,25 @@
         "ATC Track": "CANE BREAK BLUES",
         "ATC Artists": [
             "MERLE TRAVIS"
-        ]
+        ],
+        "Result Track Name": "Cane Break Blues - Instrumental",
+        "Result Artist Names": [
+            "Merle Travis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4oqBD8w3KG3uSn1RHXDO1N",
+        "Result Album Name": "Walkin' The Strings"
     },
     {
         "ATC Track": "Cinecitta",
         "ATC Artists": [
             "Ad Vielle Que Pourra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

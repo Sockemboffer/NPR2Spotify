@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-04-09",
         "Day": "Wed",
-        "Scanned Date": "2022-02-07 00:43:53"
+        "Scanned Date": "2022-02-07 00:43:53",
+        "Playlist URI": "0HzGAZIsivfQ3QlKAo4uuN",
+        "Playlist Link": "https://open.spotify.com/playlist/0HzGAZIsivfQ3QlKAo4uuN",
+        "Snapshot ID": "MSw1MzZhMjhhN2U1OGE1NTY5YjgxMTVmZTJmZTI0ZGRlZGQyNzJiNDZl",
+        "Playlist Name": "ATC 2008-04-09 Wed All Things Considered"
     },
     {
         "Title": "Why Risk Models Failed to Spot the Credit Crisis",
@@ -22,13 +26,26 @@
         "ATC Track": "SHIN- KI- ROW",
         "ATC Artists": [
             "ALTERED BEATS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Midwest Gospel Radio",
         "ATC Artists": [
             "Yonder Mountain String Band"
-        ]
+        ],
+        "Result Track Name": "Midwest Gospel Radio",
+        "Result Artist Names": [
+            "Yonder Mountain String Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zLxJBNUnM5goofI3HFgpX",
+        "Result Album Name": "Yonder Mountain String Band"
     },
     {
         "Title": "Al-Qaida Planner Masri Believed Dead",
@@ -46,13 +63,30 @@
         "ATC Track": "The Star Spangled Banner",
         "ATC Artists": [
             "Jimi Hendrix"
-        ]
+        ],
+        "Result Track Name": "The Star Spangled Banner - Woodstock Festival Excerpt",
+        "Result Artist Names": [
+            "Jimi Hendrix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57im5UyAqXFTO6IfbjDOnx",
+        "Result Album Name": "Rattle And Hum"
     },
     {
         "ATC Track": "Sidewinder",
         "ATC Artists": [
             "Vernon Reid"
-        ]
+        ],
+        "Result Track Name": "Sidewinder",
+        "Result Artist Names": [
+            "Vernon Reid",
+            "Masque"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3nefDs23SFe8xPh1e93HQz",
+        "Result Album Name": "Known Unknown"
     },
     {
         "Title": "In 'Bonk,' Mary Roach Explores Science of Sex",
@@ -71,13 +105,26 @@
         "ATC Artists": [
             "Lewis",
             "Clarke"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Magma",
         "ATC Artists": [
             "Cordovan"
-        ]
+        ],
+        "Result Track Name": "Magma",
+        "Result Artist Names": [
+            "Cordovan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fPCcnAnNLZZsu8hGUNkPm",
+        "Result Album Name": "Cordovan"
     },
     {
         "Title": "New House Member Speier: A Survivor",
@@ -97,7 +144,12 @@
             "Bigga Bush",
             "Orkestar",
             "Koçani"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Olympic Torch Draws Heat in San Francisco",
@@ -122,13 +174,26 @@
         "ATC Artists": [
             "Manuel Barrueco",
             "The London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Penny Lane",
+        "Result Artist Names": [
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5s2OGv2AuroPgtz5bHORcx",
+        "Result Album Name": "The Best of the Beatles"
     },
     {
         "ATC Track": "LA MANOUCHE",
         "ATC Artists": [
             "CAFE NOIR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wind Farm Buffets Family, Town Relations",
@@ -140,13 +205,29 @@
         "ATC Track": "Hanna's Mood",
         "ATC Artists": [
             "Percy Heath"
-        ]
+        ],
+        "Result Track Name": "Hanna's Mood",
+        "Result Artist Names": [
+            "Percy Heath"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09qZiTOrwzxns7DhZatupg",
+        "Result Album Name": "A Love Song"
     },
     {
         "ATC Track": "Speakers Built In",
         "ATC Artists": [
             "Charlie Hunter Trio"
-        ]
+        ],
+        "Result Track Name": "\"Speakers Built In\"",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:60tdwXC0P5xerXAUImRM4J",
+        "Result Album Name": "Mistico"
     },
     {
         "Title": "Racetracks Place Survival Odds on Casinos",
@@ -164,7 +245,15 @@
         "ATC Track": "Joyful Noise",
         "ATC Artists": [
             "The Derek Trucks Band"
-        ]
+        ],
+        "Result Track Name": "Joyful Noise",
+        "Result Artist Names": [
+            "The Derek Trucks Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21Y0fegBPWM255E2KxsGqJ",
+        "Result Album Name": "Joyful Noise"
     },
     {
         "Title": "Frank Holds Hearings on Housing-Aid Bill",
@@ -176,13 +265,23 @@
         "ATC Track": "Spaces Between Days, Pt. 3",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Il Grande Silencio",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "American Airlines Grounds Hundreds of Flights",
@@ -200,12 +299,26 @@
         "ATC Track": "Elevation of Love",
         "ATC Artists": [
             "E.s.t."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "20 Million Ways to Die in Chicago",
         "ATC Artists": [
             "Golden Arm Trio"
-        ]
+        ],
+        "Result Track Name": "20 Million Ways to Die in Chicago",
+        "Result Artist Names": [
+            "Graham Reynolds",
+            "The Golden Arm Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4x7tJBawxS9Ok4YiYI69WR",
+        "Result Album Name": "The Tick-Tock Club"
     }
 ]

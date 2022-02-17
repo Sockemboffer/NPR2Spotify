@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-11-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:31:12"
+        "Scanned Date": "2022-02-07 00:31:12",
+        "Playlist URI": "50hLT97IYBO9qsb195bcKM",
+        "Playlist Link": "https://open.spotify.com/playlist/50hLT97IYBO9qsb195bcKM",
+        "Snapshot ID": "MSw4NGJkMWNkNTNiMGE0MWYwNGM3YWI4ODY5YTYwMjJhMDVmNmUyOWQ2",
+        "Playlist Name": "ATC 2008-11-16 Sun All Things Considered"
     },
     {
         "Title": "Freshman Orientation For Congress' New Class",
@@ -28,13 +32,29 @@
         "ATC Track": "Tico-Tico",
         "ATC Artists": [
             "London Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": "Tico Tico",
+        "Result Artist Names": [
+            "Radio University London Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:5nGu8ZowWFoMMgYyd0sxVr",
+        "Result Album Name": "The World‘s Most Beautiful Music 2"
     },
     {
         "ATC Track": "Model",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Model",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oGqYCpQo7cmj4CAvSk2wc",
+        "Result Album Name": "This Is The Balanescu Quartet"
     },
     {
         "Title": "Thousands Of Calif. Fire Evacuees Still In Shelters",
@@ -46,7 +66,12 @@
         "ATC Track": "Nothing for You",
         "ATC Artists": [
             "Lagbaja!"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "For Catherine Deneuve, A Chilly Family 'Christmas'",
@@ -64,7 +89,12 @@
         "ATC Track": "Brahms Kugel Hoveskeland",
         "ATC Artists": [
             "The Bottom Line Duo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "With New Administration, Comedians Shift Gears",
@@ -76,13 +106,26 @@
         "ATC Track": "The Sleepwalker",
         "ATC Artists": [
             "Beau Hunks"
-        ]
+        ],
+        "Result Track Name": "The Sleepwalker",
+        "Result Artist Names": [
+            "The Beau Hunks Sextette"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ePSMnOuPEM6jclqfFwz6i",
+        "Result Album Name": "Manhattan Minuet"
     },
     {
         "ATC Track": "Charade",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Do Hypoallergenic Dogs Exist? Maybe Not",
@@ -112,7 +155,15 @@
         "ATC Track": "lady gazelle",
         "ATC Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "Title": "Parting Words",
@@ -124,13 +175,27 @@
         "ATC Track": "Spinoff",
         "ATC Artists": [
             "Phil Heywood"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "November: Troika",
         "ATC Artists": [
             "Wu Han",
             "Tchaikovsky"
-        ]
+        ],
+        "Result Track Name": "Les Saisons (The Seasons), Op. 37B: November: Troika",
+        "Result Artist Names": [
+            "Pyotr Ilyich Tchaikovsky",
+            "Wu Han"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1scSGKbagxge6XPGTbXw0n",
+        "Result Album Name": "Russian Recital"
     }
 ]

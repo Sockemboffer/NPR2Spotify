@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-03-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:46:08"
+        "Scanned Date": "2022-02-07 00:46:08",
+        "Playlist URI": "342h0NDWpT0SjKSDXdBgxw",
+        "Playlist Link": "https://open.spotify.com/playlist/342h0NDWpT0SjKSDXdBgxw",
+        "Snapshot ID": "MSwwMjYzMjczODZiOTcwNGU1OGEwNzA1NmFiODA3YTBkNjc0NjE3ZTdl",
+        "Playlist Name": "ATC 2008-03-16 Sun All Things Considered"
     },
     {
         "Title": "Should We Call It a Recession?",
@@ -28,13 +32,26 @@
         "ATC Track": "Saber Dance",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Night on Bop Mountain",
         "ATC Artists": [
             "Kai Winding"
-        ]
+        ],
+        "Result Track Name": "A Night On Bop Mountain - Instrumental",
+        "Result Artist Names": [
+            "Kai Winding"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BRCW86wC1nARhZ6NA7ixw",
+        "Result Album Name": "Trombone By Three"
     },
     {
         "Title": "Despite New Highways, Afghans Drive at Own Risk",
@@ -64,7 +81,15 @@
         "ATC Track": "Planxty Bongwater",
         "ATC Artists": [
             "Teja Gerken"
-        ]
+        ],
+        "Result Track Name": "Planxty Bongwater",
+        "Result Artist Names": [
+            "Teja Gerken"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:36aiXFV0CRf15HSh7jNN9Z",
+        "Result Album Name": "Postcards"
     },
     {
         "Title": "'Selection Sunday' Sets NCAA Tourney Field",
@@ -82,7 +107,15 @@
         "ATC Track": "WHITE RABBIT",
         "ATC Artists": [
             "THE TANGO PROJECT"
-        ]
+        ],
+        "Result Track Name": "White Rabbit",
+        "Result Artist Names": [
+            "The Heartcore Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2F0opR6tw1RSKlXGxCiv6q",
+        "Result Album Name": "Vintage Beauty of Nonsense"
     },
     {
         "Title": "Choral Music for Palm Sunday: 'Miserere'",
@@ -100,12 +133,28 @@
         "ATC Track": "Ooh la La",
         "ATC Artists": [
             "Faces"
-        ]
+        ],
+        "Result Track Name": "Ooh La La",
+        "Result Artist Names": [
+            "Faces"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lJ6YVXQ0jUk5ILu0PSrA4",
+        "Result Album Name": "Ooh La La"
     },
     {
         "ATC Track": "From a Dream",
         "ATC Artists": [
             "Oregon"
-        ]
+        ],
+        "Result Track Name": "From A Dream",
+        "Result Artist Names": [
+            "Oregon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3vu9dckd9dYkvEK9r8pWx3",
+        "Result Album Name": "1000 Kilometers"
     }
 ]

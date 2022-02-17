@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-11-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:32:01"
+        "Scanned Date": "2022-02-07 00:32:01",
+        "Playlist URI": "141KVUcJuVy2qvbemEaBiF",
+        "Playlist Link": "https://open.spotify.com/playlist/141KVUcJuVy2qvbemEaBiF",
+        "Snapshot ID": "MSxlMTM5ZGE2MzRlYmM5YTYyYWJhMDE2ZjZjYzRhNDk4ZTdlYmY5NmE2",
+        "Playlist Name": "ATC 2008-11-30 Sun All Things Considered"
     },
     {
         "Title": "Car Bombing Targets NPR Journalists In Baghdad",
@@ -28,13 +32,29 @@
         "ATC Track": "Umoja",
         "ATC Artists": [
             "Imani Winds"
-        ]
+        ],
+        "Result Track Name": "Coleman: Umoja",
+        "Result Artist Names": [
+            "Imani Winds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Z4ckq9QRz8rZnKBsOC0ov",
+        "Result Album Name": "Imani Winds"
     },
     {
         "ATC Track": "Forgotten People",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "(The Forgotten People)",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:51U7HIK99E6G6OrpU1oYEq",
+        "Result Album Name": "Radio Retaliation"
     },
     {
         "Title": "Mass. Health Care Reform Reveals Doctor Shortage",
@@ -58,7 +78,15 @@
         "ATC Track": "Sentimentalia",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Sentimentalia",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29t0QcUNADVXlEXAP0tibu",
+        "Result Album Name": "The Dark Before The Dawn"
     },
     {
         "Title": "Homework: Holiday Decorations",
@@ -82,7 +110,15 @@
         "ATC Track": "Thule",
         "ATC Artists": [
             "The Album Leaf"
-        ]
+        ],
+        "Result Track Name": "Thule",
+        "Result Artist Names": [
+            "The Album Leaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eZMM8RoxKw7DqI17v0D6P",
+        "Result Album Name": "In a Safe Place"
     },
     {
         "Title": "Parting Words",
@@ -94,12 +130,25 @@
         "ATC Track": "Ants Marching",
         "ATC Artists": [
             "Dave Matthews Band"
-        ]
+        ],
+        "Result Track Name": "Ants Marching",
+        "Result Artist Names": [
+            "Dave Matthews Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FfZg072w8RoxlMOR7M4CT",
+        "Result Album Name": "Under the Table and Dreaming (Expanded Edition)"
     },
     {
         "ATC Track": "[Untitled Track]",
         "ATC Artists": [
             "Andrew Bird"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

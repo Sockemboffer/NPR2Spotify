@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-09-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:34:17"
+        "Scanned Date": "2022-02-07 00:34:17",
+        "Playlist URI": "6DsxOCl46gy9BqaXn578fI",
+        "Playlist Link": "https://open.spotify.com/playlist/6DsxOCl46gy9BqaXn578fI",
+        "Snapshot ID": "MSxmOTRkY2FkZTY2ZmJlMDE5ZWFmMTMxOWNlMzhhZTEwM2UyNDE2ZmQ2",
+        "Playlist Name": "ATC 2008-09-06 Sat All Things Considered"
     },
     {
         "Title": "Government To Bail Out Mortgage Giants",
@@ -22,7 +26,12 @@
         "ATC Track": "Thirakkaatha [From en Swasa Kaatrea]",
         "ATC Artists": [
             "A.R. Rahman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bhutto's Widower Elected President In Pakistan",
@@ -34,7 +43,12 @@
         "ATC Track": "Frontiers",
         "ATC Artists": [
             "Excerto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Relief Efforts Under Way In Flood-Stricken Haiti",
@@ -52,13 +66,29 @@
         "ATC Track": "Buleria del Corazón [Bulería]",
         "ATC Artists": [
             "Son de La Frontera"
-        ]
+        ],
+        "Result Track Name": "Bulería del Corazón",
+        "Result Artist Names": [
+            "Son De La Frontera"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rAi0lIbQSQtbqewQbAkte",
+        "Result Album Name": "Soul Of New Flamenco Guitar"
     },
     {
         "ATC Track": "Modern Age",
         "ATC Artists": [
             "The Strokes"
-        ]
+        ],
+        "Result Track Name": "The Modern Age",
+        "Result Artist Names": [
+            "The Strokes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1420BGhbXGkIJtbtBlfpYE",
+        "Result Album Name": "Is This It"
     },
     {
         "Title": "College Republicans Fired Up About Palin",
@@ -88,7 +118,12 @@
         "ATC Track": "D.O.P.E. (Drugs Oppress People Everyday)",
         "ATC Artists": [
             "Dead Prez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Homefront Essay",
@@ -100,19 +135,43 @@
         "ATC Track": "MONA RAY",
         "ATC Artists": [
             "LEO KOTTKE"
-        ]
+        ],
+        "Result Track Name": "Mona Ray",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4N6oEOKxjU5JLSTo7qzZfe",
+        "Result Album Name": "Instrumentals: Best Of The Capitol Years"
     },
     {
         "ATC Track": "American Girl",
         "ATC Artists": [
             "Tom Petty",
             "the Heartbreakers"
-        ]
+        ],
+        "Result Track Name": "American Girl",
+        "Result Artist Names": [
+            "Tom Petty and the Heartbreakers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MRyJPksH3G2cXHN8UKYzP",
+        "Result Album Name": "Tom Petty & The Heartbreakers"
     },
     {
         "ATC Track": "Dead Dog in the Street",
         "ATC Artists": [
             "The Dirty Dozen Brass Band"
-        ]
+        ],
+        "Result Track Name": "Dead Dog in the Street",
+        "Result Artist Names": [
+            "The Dirty Dozen Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37j5g5WfVUxBZTGzwMSCdC",
+        "Result Album Name": "Buck Jump"
     }
 ]

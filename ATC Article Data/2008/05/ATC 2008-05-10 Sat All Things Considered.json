@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-05-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:42:04"
+        "Scanned Date": "2022-02-07 00:42:04",
+        "Playlist URI": "3SdB6sVMxkznBUTlAt4tD4",
+        "Playlist Link": "https://open.spotify.com/playlist/3SdB6sVMxkznBUTlAt4tD4",
+        "Snapshot ID": "MSw2MTcyZTU2MWI1ZTk1ZDExY2M1Yjg4OGRiZWUzOWU3MzU5YjcwYjQ2",
+        "Playlist Name": "ATC 2008-05-10 Sat All Things Considered"
     },
     {
         "Title": "Myanmar Keeps Relief Workers at Bay",
@@ -28,13 +32,26 @@
         "ATC Track": "CLAYCUSSION",
         "ATC Artists": [
             "WARD HARTENSTEIN WITH THE EASTMAN PERCUSSION ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Jupiter",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": "Jupiter",
+        "Result Artist Names": [
+            "Janapriyan Levine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6cXCvlc5nQiArlQLBJj3tO",
+        "Result Album Name": "Bicycle"
     },
     {
         "Title": "Burmese Refugees in Indiana Feel Powerless",
@@ -64,7 +81,15 @@
         "ATC Track": "Taxman",
         "ATC Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "Taxman - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BRkPBUxOYffM2QXVlq7aC",
+        "Result Album Name": "Revolver (Remastered)"
     },
     {
         "Title": "Homework: Economic Stimulus Checks",
@@ -76,13 +101,26 @@
         "ATC Track": "Too Happy",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Swing 39",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": "Swing 39",
+        "Result Artist Names": [
+            "Pearl Django"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Mvl3jQ6x5MNJrEkVGbgoO",
+        "Result Album Name": "Under Paris Skies"
     },
     {
         "Title": "Study: Smart Fruit Flies Are Finished First",
@@ -100,7 +138,15 @@
         "ATC Track": "Keep the Bugs Off Your Glass and the Bears Off Your Ass",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "Keep The Bugs Off Your Glass And The Bears Off Your Ass",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nZ1BPN8uz1ckcaNLZd11X",
+        "Result Album Name": "These Are The Vistas"
     },
     {
         "Title": "William Kapell Recordings Turn Up Down Under",
@@ -118,19 +164,40 @@
         "ATC Track": "Piano Sonata No. 16 in B flat major, K. 570",
         "ATC Artists": [
             "William Kapell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Flyin' Rite",
         "ATC Artists": [
             "Big Sandy",
             "His Fly-Rite Boys"
-        ]
+        ],
+        "Result Track Name": "Flyin' Rite",
+        "Result Artist Names": [
+            "The Fly-Rite Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:1Bir1oHWFttlhO8qg9ACOr",
+        "Result Album Name": "Big Sandy Presents The Fly-Rite Brothers"
     },
     {
         "ATC Track": "Swinging With Jimmy",
         "ATC Artists": [
             "Hot Club Norvege"
-        ]
+        ],
+        "Result Track Name": "Swinging with Jimmy",
+        "Result Artist Names": [
+            "Hot Club De Norvege"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5523RYEyPN6LgVEuvyx9DX",
+        "Result Album Name": "The Best of Hot Club De Norvège"
     }
 ]

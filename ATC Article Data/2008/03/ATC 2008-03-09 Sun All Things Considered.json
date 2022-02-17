@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-03-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:45:40"
+        "Scanned Date": "2022-02-07 00:45:40",
+        "Playlist URI": "4khQytid5C1DuKZ1zttqiT",
+        "Playlist Link": "https://open.spotify.com/playlist/4khQytid5C1DuKZ1zttqiT",
+        "Snapshot ID": "MSw2YTRlNjIxYWVhZDliYWE1ZDM1YjMwMWU3YmRhYjFmMjUwM2IwNTM0",
+        "Playlist Name": "ATC 2008-03-09 Sun All Things Considered"
     },
     {
         "Title": "New U.S. Economic Data Due Out Soon",
@@ -22,13 +26,23 @@
         "ATC Track": "Antoinette",
         "ATC Artists": [
             "Giovanni DeChiaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Napier Stride",
         "ATC Artists": [
             "John Rae"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "New Pakistan Government May Mean Trouble for U.S.",
@@ -58,7 +72,15 @@
         "ATC Track": "Samurai",
         "ATC Artists": [
             "The Pretenders"
-        ]
+        ],
+        "Result Track Name": "Samurai",
+        "Result Artist Names": [
+            "Pretenders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6PQwl9IZdsvn7T5vcIwG1b",
+        "Result Album Name": "Viva El Amor"
     },
     {
         "Title": "European Spacecraft Takes Off ",
@@ -82,19 +104,37 @@
         "ATC Track": "Lily Queen",
         "ATC Artists": [
             "Giovanni DeChiaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "American Girl",
         "ATC Artists": [
             "Tom Petty",
             "the Heartbreakers"
-        ]
+        ],
+        "Result Track Name": "American Girl",
+        "Result Artist Names": [
+            "Tom Petty and the Heartbreakers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MRyJPksH3G2cXHN8UKYzP",
+        "Result Album Name": "Tom Petty & The Heartbreakers"
     },
     {
         "ATC Track": "The Highlander's Blues",
         "ATC Artists": [
             "John Platania"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

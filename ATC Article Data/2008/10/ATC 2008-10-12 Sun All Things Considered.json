@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-10-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:32:45"
+        "Scanned Date": "2022-02-07 00:32:45",
+        "Playlist URI": "4rWFNXUMG7IKoUdU2q8RX6",
+        "Playlist Link": "https://open.spotify.com/playlist/4rWFNXUMG7IKoUdU2q8RX6",
+        "Snapshot ID": "MSxjMzk5MGZhOTdjZmQ2ZDEzMjYwNTNmYzAyZDFkMmNiYzA0YTUxNWQ1",
+        "Playlist Name": "ATC 2008-10-12 Sun All Things Considered"
     },
     {
         "Title": "European Nations Agree To Guarantee Loans",
@@ -28,13 +32,26 @@
         "ATC Track": "Saber Dance",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tangos de Mi Novia",
         "ATC Artists": [
             "Son de La Frontera"
-        ]
+        ],
+        "Result Track Name": "Tangos de Mi Novia",
+        "Result Artist Names": [
+            "Son De La Frontera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73HVNBqXQt0OM3lMJsLJgf",
+        "Result Album Name": "Son de la Frontera"
     },
     {
         "Title": "Clintons Stump For Obama, Biden In Scranton, Pa.",
@@ -71,13 +88,23 @@
         "ATC Artists": [
             "HOLLYWOOD BOWL ORCHESTRA",
             "MAUCERI"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sexy Photograph",
         "ATC Artists": [
             "Ui"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "After Hand Transplant, Patient's Brain Adapts",
@@ -89,7 +116,15 @@
         "ATC Track": "Smiley",
         "ATC Artists": [
             "Nina Nastasia"
-        ]
+        ],
+        "Result Track Name": "Smiley",
+        "Result Artist Names": [
+            "Nina Nastasia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lgz9vhrg3JcsdzC23Ftgc",
+        "Result Album Name": "Dogs"
     },
     {
         "Title": "Parishioners Taking A Pass On Collection Plate",
@@ -101,7 +136,15 @@
         "ATC Track": "Wedding Waltz",
         "ATC Artists": [
             "Gunnar Madsen"
-        ]
+        ],
+        "Result Track Name": "Wedding Waltz",
+        "Result Artist Names": [
+            "Gunnar Madsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kFadLIxlFcR3MvmFZkFL7",
+        "Result Album Name": "Spinning World"
     },
     {
         "Title": "Bringing The Banjo From 'Africa To Appalachia'",
@@ -113,7 +156,15 @@
         "ATC Track": "lady gazelle",
         "ATC Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "Title": "Parting Words: Mark Twain",
@@ -125,12 +176,22 @@
         "ATC Track": "This Is Love",
         "ATC Artists": [
             "David Garland"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "TRIO SONATA IN C MAJOR: VIVACE",
         "ATC Artists": [
             "PALLADIAN ENSEMBLE"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

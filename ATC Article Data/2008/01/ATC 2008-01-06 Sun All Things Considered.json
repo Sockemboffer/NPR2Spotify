@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-01-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:49:06"
+        "Scanned Date": "2022-02-07 00:49:06",
+        "Playlist URI": "3PikgXWj1oBdsTWd0dP0TD",
+        "Playlist Link": "https://open.spotify.com/playlist/3PikgXWj1oBdsTWd0dP0TD",
+        "Snapshot ID": "MSw4NTg0NmQ4NjIxNTI4OGM0YjNmMTc0ZDFlZDdlYWJhMzgwYzM3MTc2",
+        "Playlist Name": "ATC 2008-01-06 Sun All Things Considered"
     },
     {
         "Title": "With 2 Days to Go, Non-Stop Campaigning in N.H.",
@@ -22,13 +26,29 @@
         "ATC Track": "Flowing River",
         "ATC Artists": [
             "Bennie Green"
-        ]
+        ],
+        "Result Track Name": "Flowing River - Instrumental",
+        "Result Artist Names": [
+            "Bennie Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iTBU0Ka6hO4siKpsavJDJ",
+        "Result Album Name": "Trombone By Three"
     },
     {
         "ATC Track": "Night on Bop Mountain",
         "ATC Artists": [
             "Kai Winding"
-        ]
+        ],
+        "Result Track Name": "A Night On Bop Mountain - Instrumental",
+        "Result Artist Names": [
+            "Kai Winding"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BRCW86wC1nARhZ6NA7ixw",
+        "Result Album Name": "Trombone By Three"
     },
     {
         "Title": "'Parade' Interview Fails to Note Bhutto's Death",
@@ -58,13 +78,26 @@
         "ATC Track": "Meltdown (1991)",
         "ATC Artists": [
             "Gerhard Meinl's Tuba Sextet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hittin' the Bottle",
         "ATC Artists": [
             "Mississippi Jook Band"
-        ]
+        ],
+        "Result Track Name": "Hittin' The Bottle Stomp - 1936 Version",
+        "Result Artist Names": [
+            "Mississipi Jook Band"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2zGO7He9ZkDS5v0Mi4HcPg",
+        "Result Album Name": "Back To The Crossroads: The Roots Of Robert Johnson"
     },
     {
         "Title": "Attacks End Lull in Baghdad Violence",
@@ -82,18 +115,39 @@
         "ATC Track": "Sonata No.3: Cancion - Andante",
         "ATC Artists": [
             "Jason Vieaux"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tears, Tears, and More Tears",
         "ATC Artists": [
             "Lee Dorsey"
-        ]
+        ],
+        "Result Track Name": "Tears Tears And More Tears",
+        "Result Artist Names": [
+            "Lee Dorsey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wCLW93umiuNDOUHvyWui8",
+        "Result Album Name": "Yes We Can ...And Then Some"
     },
     {
         "ATC Track": "Ends and Odds",
         "ATC Artists": [
             "Jimmy Reed"
-        ]
+        ],
+        "Result Track Name": "Ends And Odds - Instrumental",
+        "Result Artist Names": [
+            "Jimmy Reed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FTUmCZewfWL0PBxMlPX7c",
+        "Result Album Name": "Rockin' With Reed"
     }
 ]

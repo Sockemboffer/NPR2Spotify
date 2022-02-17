@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-03-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:45:11"
+        "Scanned Date": "2022-02-07 00:45:11",
+        "Playlist URI": "5MpwYnnfMiBpzBWKIXpBoF",
+        "Playlist Link": "https://open.spotify.com/playlist/5MpwYnnfMiBpzBWKIXpBoF",
+        "Snapshot ID": "MSxhMmU3Mjc1MDg4MThmYmVmMmVlMTVhZTU4OTlmYTUzZmQzMzAzMTg5",
+        "Playlist Name": "ATC 2008-03-01 Sat All Things Considered"
     },
     {
         "Title": "At Least 50 Killed in Israeli Strikes on Gaza",
@@ -22,13 +26,27 @@
         "ATC Track": "Sonata romantica: Andante espressivo",
         "ATC Artists": [
             "Jason Vieaux"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sonata clasica: Andante",
         "ATC Artists": [
             "Jason Vieaux"
-        ]
+        ],
+        "Result Track Name": "Sonata clasica: II. Andante",
+        "Result Artist Names": [
+            "Manuel Ponce",
+            "Jason Vieaux"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xCCXcY7gUKC8m9GJPtMOD",
+        "Result Album Name": "Ponce, M.M.: Sonatina Meridional / Sonata Mexicana / Sonata Clasica / Guitar Sonata No. 3 / Sonata Romantica"
     },
     {
         "Title": "Candidates Spar over Free Trade Agreement",
@@ -59,7 +77,15 @@
         "ATC Artists": [
             "Duke Ellington",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Night Creature (Second Movement): Stalking Monster - Remastered",
+        "Result Artist Names": [
+            "Duke Ellington Orchestra"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:3pgEtO4I9TDawUpo87Xj86",
+        "Result Album Name": "Duke Ellington: The Reprise Studio Recordings"
     },
     {
         "Title": "Breslin Finds Star 'Rat' in a New York Mafia Tale",
@@ -77,7 +103,12 @@
         "ATC Track": "The Ballad of Ramblin' Jack Pachelbel",
         "ATC Artists": [
             "John Palmes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Red Priest: Defying Baroque Boundaries",
@@ -89,7 +120,12 @@
         "ATC Track": "Bioshock: Welcome to Rapture",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "En amor trob alque en que'm refraing",
@@ -97,12 +133,22 @@
             "Sequentia Ensemble for Medieval Music",
             "Cologne",
             "Benjamin Bagby (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Dolly, suite for piano, 4 hands or orchestra, Op. 56",
         "ATC Artists": [
             "Amsterdam Guitar Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

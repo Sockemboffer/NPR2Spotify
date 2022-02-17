@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-04-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:44:29"
+        "Scanned Date": "2022-02-07 00:44:29",
+        "Playlist URI": "6WtelQD1ZCQTF3BPcwbtPR",
+        "Playlist Link": "https://open.spotify.com/playlist/6WtelQD1ZCQTF3BPcwbtPR",
+        "Snapshot ID": "MSxjODdlYzk4ZjNlNGI3NGNmYzA0YmQ2MjZmZDIyMDUxZDE2N2RlNmU2",
+        "Playlist Name": "ATC 2008-04-19 Sat All Things Considered"
     },
     {
         "Title": "Pope Urges Youth to Have Hope in Jesus",
@@ -28,13 +32,26 @@
         "ATC Track": "Nyla",
         "ATC Artists": [
             "Pachora"
-        ]
+        ],
+        "Result Track Name": "Nyla",
+        "Result Artist Names": [
+            "Pachora"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FSFHR2hgK4f6kx44Tp4p2",
+        "Result Album Name": "Astereotypical"
     },
     {
         "ATC Track": "Ka Loke de la Corazon",
         "ATC Artists": [
             "Ken Emerson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Young Alaskan Sees Changing Way of Life",
@@ -58,7 +75,15 @@
         "ATC Track": "Rebel Walk",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Rebel Walk",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59Y7z8izldfXOvv2b11Von",
+        "Result Album Name": "The Birth of a Guitar Legend"
     },
     {
         "Title": "Homework: Cross-Cultural Blunders",
@@ -82,7 +107,15 @@
         "ATC Track": "What You Love You Must Love Now",
         "ATC Artists": [
             "Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "What You Love You Must Love Now",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2R7bTCbxSrVlHkZDaQbVs2",
+        "Result Album Name": "Everywhere And Right Here"
     },
     {
         "Title": "High-Fidelity Memories on Record Store Day",
@@ -94,18 +127,39 @@
         "ATC Track": "Storekeeper",
         "ATC Artists": [
             "James McMurtry"
-        ]
+        ],
+        "Result Track Name": "Storekeeper",
+        "Result Artist Names": [
+            "James McMurtry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3k0qFytETbKKXFQFEzrD03",
+        "Result Album Name": "Candyland"
     },
     {
         "ATC Track": "Apt. 604",
         "ATC Artists": [
             "Ben Vaughn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Starlight",
         "ATC Artists": [
             "The Sadies"
-        ]
+        ],
+        "Result Track Name": "The Starlight",
+        "Result Artist Names": [
+            "The Sadies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7w1YsrTSUl2zHWosA7Bkp8",
+        "Result Album Name": "Tales of the Ratfink: Original Soundtrack"
     }
 ]

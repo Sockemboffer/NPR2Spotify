@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-03-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:46:33"
+        "Scanned Date": "2022-02-07 00:46:33",
+        "Playlist URI": "1q1uO44kXx9mxfMz5bL9yc",
+        "Playlist Link": "https://open.spotify.com/playlist/1q1uO44kXx9mxfMz5bL9yc",
+        "Snapshot ID": "MSw4OTRmMmZhODJmYjcxMTE5OGQ1ZDM4ZDhjMjIyMDY0NDZjNDQwMjhh",
+        "Playlist Name": "ATC 2008-03-23 Sun All Things Considered"
     },
     {
         "Title": "Green Zone and Mosul Hit by Surge of Violence",
@@ -16,7 +20,15 @@
         "ATC Track": "I Missed the Glance",
         "ATC Artists": [
             "The Sea and Cake"
-        ]
+        ],
+        "Result Track Name": "I Missed the Glance",
+        "Result Artist Names": [
+            "The Sea and Cake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3N2dpz5AdSRnsGav0vN0mM",
+        "Result Album Name": "Oui"
     },
     {
         "Title": "Black Churchgoers Reflect on Obama's Race Speech",
@@ -34,13 +46,23 @@
         "ATC Track": "Diverse bizzarie Sopra la Vecchia Sarabanda o pur Ciaccona (from Ayres for the Violin)",
         "ATC Artists": [
             "Palladian Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Froggy Bottom",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tenth Anniversary of Ireland's Good Friday Accord",
@@ -58,7 +80,16 @@
         "ATC Track": "Sliabh Russel/Come West Along the Road",
         "ATC Artists": [
             "William Coulter"
-        ]
+        ],
+        "Result Track Name": "Sliabh Russel / Come West Along The Road",
+        "Result Artist Names": [
+            "William Coulter & Friends",
+            "William Coulter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7IglOyOkatLglM2aA3qMK3",
+        "Result Album Name": "Celtic Sessions"
     },
     {
         "Title": "Proposed Law Lengthens Leash for Italian Pets",
@@ -100,12 +131,28 @@
         "ATC Track": "Yoruba Road",
         "ATC Artists": [
             "Boozoo Bajou"
-        ]
+        ],
+        "Result Track Name": "Yoruba Road",
+        "Result Artist Names": [
+            "Boozoo Bajou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YlBussSHZpRsAglcsrXEY",
+        "Result Album Name": "Satta"
     },
     {
         "ATC Track": "I Want You Back",
         "ATC Artists": [
             "Mama Digdown's Brass Band"
-        ]
+        ],
+        "Result Track Name": "I Want You Back",
+        "Result Artist Names": [
+            "Mama Digdown's Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1VjgyMiCzhOIETi0XeWuGi",
+        "Result Album Name": "Bootleg Series Vol. 1 – Live at the Majestic"
     }
 ]

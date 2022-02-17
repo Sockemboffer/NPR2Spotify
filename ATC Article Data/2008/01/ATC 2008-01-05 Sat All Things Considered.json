@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-01-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:49:04"
+        "Scanned Date": "2022-02-07 00:49:04",
+        "Playlist URI": "1lb2gVYGz8J5H0wQwMtMLB",
+        "Playlist Link": "https://open.spotify.com/playlist/1lb2gVYGz8J5H0wQwMtMLB",
+        "Snapshot ID": "MSw3MDgwZDg4YTMxZmE0M2VmMzAxNjZkZmQ5OGZlMjAwYzY3NjJkMzg2",
+        "Playlist Name": "ATC 2008-01-05 Sat All Things Considered"
     },
     {
         "Title": "Candidates Gear Up for Debates Before Primary",
@@ -28,14 +32,30 @@
         "ATC Track": "Caterpillar",
         "ATC Artists": [
             "Lee Ritenour"
-        ]
+        ],
+        "Result Track Name": "Caterpillar",
+        "Result Artist Names": [
+            "Lee Ritenour"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3c2iYau61e4fLC8spzcQY1",
+        "Result Album Name": "The Best Of Lee Ritenour"
     },
     {
         "ATC Track": "Haitian Fight Song",
         "ATC Artists": [
             "Mingus Big Band",
             "Seamus Blake et. al."
-        ]
+        ],
+        "Result Track Name": "Haitian Fight Song",
+        "Result Artist Names": [
+            "Mingus Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:4hns23kYYZg0BhDwXeDxB1",
+        "Result Album Name": "Blues & Politics"
     },
     {
         "Title": "Prankster Fools Media with Bilawal Facebook Page",
@@ -65,13 +85,29 @@
         "ATC Track": "Buleria del Corazón [Bulería]",
         "ATC Artists": [
             "Son de La Frontera"
-        ]
+        ],
+        "Result Track Name": "Bulería del Corazón",
+        "Result Artist Names": [
+            "Son De La Frontera"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rAi0lIbQSQtbqewQbAkte",
+        "Result Album Name": "Soul Of New Flamenco Guitar"
     },
     {
         "ATC Track": "The Perfect Man",
         "ATC Artists": [
             "Sun Ra and His Astro-Galactic Arkestra"
-        ]
+        ],
+        "Result Track Name": "The Perfect Man (single version)",
+        "Result Artist Names": [
+            "Sun Ra & His Arkestra"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:2xIPywTIJYdRz5ujFfoNP8",
+        "Result Album Name": "My Brother the Wind Vol. 1 - Expanded Edition"
     },
     {
         "Title": "From Togas to Yoga: Fraternities Try to Alter Image",
@@ -95,7 +131,16 @@
         "ATC Track": "Bernie's Tune",
         "ATC Artists": [
             "GEne Krupa and Budy Rich"
-        ]
+        ],
+        "Result Track Name": "Bernie's Tune",
+        "Result Artist Names": [
+            "Buddy Rich",
+            "Gene Krupa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6GI5M1Bs0umCXMzhPKAKUv",
+        "Result Album Name": "Krupa And Rich"
     },
     {
         "Title": "Homework: Running for Office",
@@ -107,18 +152,42 @@
         "ATC Track": "Tickle Toe",
         "ATC Artists": [
             "Kansas City Band"
-        ]
+        ],
+        "Result Track Name": "Tickle Toe",
+        "Result Artist Names": [
+            "Kansas City Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mo7FSOQvyjZgqVWZ84BiU",
+        "Result Album Name": "KC After Dark (More Music From Robert Altman's Kansas City)"
     },
     {
         "ATC Track": "Yes We Can, Pt. 1",
         "ATC Artists": [
             "Lee Dorsey"
-        ]
+        ],
+        "Result Track Name": "Yes We Can - Pt. 1",
+        "Result Artist Names": [
+            "Lee Dorsey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1GpU6DCXeKXfnodkEfN5XW",
+        "Result Album Name": "Yes We Can ...And Then Some"
     },
     {
         "ATC Track": "Most Things Haven't Worked Out",
         "ATC Artists": [
             "Junior Kimbrough"
-        ]
+        ],
+        "Result Track Name": "Most Things Haven't Worked Out",
+        "Result Artist Names": [
+            "Junior Kimbrough"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2i93Q7j5Pxjsy7PBV2oro2",
+        "Result Album Name": "Most Things Haven't Worked Out"
     }
 ]

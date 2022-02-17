@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-06-03",
         "Day": "Tue",
-        "Scanned Date": "2022-02-07 00:39:51"
+        "Scanned Date": "2022-02-07 00:39:51",
+        "Playlist URI": "77PoUaRGpIWCRlObL4omhm",
+        "Playlist Link": "https://open.spotify.com/playlist/77PoUaRGpIWCRlObL4omhm",
+        "Snapshot ID": "MSw1ZjQxNGNlNTA0ZTA5ZTA3YTMzYzNjMWUyYWNmNDk2MjllYjdjZjhj",
+        "Playlist Name": "ATC 2008-06-03 Tue All Things Considered"
     },
     {
         "Title": "Primary Season Wraps Up",
@@ -28,13 +32,26 @@
         "ATC Track": "Locks & Barges",
         "ATC Artists": [
             "David Byrne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Reflections",
         "ATC Artists": [
             "Michel Camilo"
-        ]
+        ],
+        "Result Track Name": "Reflections",
+        "Result Artist Names": [
+            "Michel Colombier"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:14S34Eo0ca9A0UNdWrne6j",
+        "Result Album Name": "Largo Winch (Music from the Original TV Series)"
     },
     {
         "Title": "Feds Aim to Dismantle L.A.'s 18th Street Gang",
@@ -46,13 +63,29 @@
         "ATC Track": "Any Way You Flee",
         "ATC Artists": [
             "Roots of Orchis"
-        ]
+        ],
+        "Result Track Name": "Any Way You Flee",
+        "Result Artist Names": [
+            "The Roots of Orchis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27DjTXYBtkftXf3WmEKhE6",
+        "Result Album Name": "Crooked Ceilings"
     },
     {
         "ATC Track": "Smash Up",
         "ATC Artists": [
             "Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Smash Up",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vwhTQkRV6K96sGv7hKgEo",
+        "Result Album Name": "Destination...Get Down!"
     },
     {
         "Title": "GM to Close Four Plants, Reevaluate Hummer Brand",
@@ -76,13 +109,31 @@
         "ATC Track": "Calm",
         "ATC Artists": [
             "Avishai Cohen"
-        ]
+        ],
+        "Result Track Name": "Calm",
+        "Result Artist Names": [
+            "Avishai Cohen",
+            "Sam Barsh",
+            "Mark Guiliana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6SVuL8HxngvWJylrMi1v1q",
+        "Result Album Name": "Continuo"
     },
     {
         "ATC Track": "Day Five",
         "ATC Artists": [
             "Explosions In the Sky"
-        ]
+        ],
+        "Result Track Name": "Day Five - Remastered",
+        "Result Artist Names": [
+            "Explosions In The Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6vrpYAXfDvZICpt8Udelww",
+        "Result Album Name": "The Rescue (Anniversary Edition)"
     },
     {
         "Title": "Second City Comedy Troupe Founder Sills Dies at 80",
@@ -100,13 +151,29 @@
         "ATC Track": "Foxes",
         "ATC Artists": [
             "Richard Thompson"
-        ]
+        ],
+        "Result Track Name": "Foxes",
+        "Result Artist Names": [
+            "Richard Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3IcBcu0bRpKN1xKJPCgHMV",
+        "Result Album Name": "Folk Masters: Guitarists"
     },
     {
         "ATC Track": "Stealing Second",
         "ATC Artists": [
             "Chris Thile"
-        ]
+        ],
+        "Result Track Name": "Stealing Second",
+        "Result Artist Names": [
+            "Chris Thile"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BOadAg2qLDhuSwGK9rcMe",
+        "Result Album Name": "Stealing Second"
     },
     {
         "Title": "Update from Obama Camp",
@@ -130,13 +197,29 @@
         "ATC Track": "Sender",
         "ATC Artists": [
             "Pinback"
-        ]
+        ],
+        "Result Track Name": "Sender",
+        "Result Artist Names": [
+            "Pinback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iZlGoBgMSfpUAnqTYkxl4",
+        "Result Album Name": "Summer in Abaddon"
     },
     {
         "ATC Track": "Madrid",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Madrid",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1sDjAkTP0L3IlG7q8gHIis",
+        "Result Album Name": "Places"
     },
     {
         "Title": "Police Stop Grieving Parents' Protest in China",
@@ -154,7 +237,15 @@
         "ATC Track": "Carla",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "Carla",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rnc3RM9bdErr9ZKEAiHyH",
+        "Result Album Name": "Belladonna"
     },
     {
         "ATC Track": "Little Walter Rides Again",
@@ -163,7 +254,15 @@
             "Martin",
             "Wood",
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Little Walter Rides Again",
+        "Result Artist Names": [
+            "Medeski Scofield Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2kKhUhZYdkrfgdkRrMLJaB",
+        "Result Album Name": "MSMW LIVE: In Case the World Changes Its Mind"
     },
     {
         "Title": "First Stop Jerusalem for Palestinian Fulbright Winner",
@@ -187,13 +286,26 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Asmileyfacefallsapart",
         "ATC Artists": [
             "Tom Verlaine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Summer Books to Feed Your Literary Addiction",
@@ -205,13 +317,29 @@
         "ATC Track": "It's Great to be Here",
         "ATC Artists": [
             "The Jackson Five"
-        ]
+        ],
+        "Result Track Name": "It's Great To Be Here",
+        "Result Artist Names": [
+            "The Jackson 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:78qHwCaeAn0VIQcFj1AyXk",
+        "Result Album Name": "Maybe Tomorrow"
     },
     {
         "ATC Track": "Huffin' the Muggles",
         "ATC Artists": [
             "Carl Henry Brueggen"
-        ]
+        ],
+        "Result Track Name": "Huffin' the Muggles",
+        "Result Artist Names": [
+            "Carl Henry Brueggen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IHzPUtUKl6SU9mAI4FT71",
+        "Result Album Name": "Let's Talk About Hi-Fi"
     },
     {
         "Title": "Primary Analysis: Obama Gets Needed Delegates",

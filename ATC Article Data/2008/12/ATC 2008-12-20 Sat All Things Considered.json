@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-12-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:29:30"
+        "Scanned Date": "2022-02-07 00:29:30",
+        "Playlist URI": "5r36IpF9fuij6fRwVXt6fE",
+        "Playlist Link": "https://open.spotify.com/playlist/5r36IpF9fuij6fRwVXt6fE",
+        "Snapshot ID": "MSw5YjgzMTZhZDQ5ZDQ0ZmQ3YmE1MzA1ZjY3MmEzMDVjMjU3ZWI4OTNj",
+        "Playlist Name": "ATC 2008-12-20 Sat All Things Considered"
     },
     {
         "Title": "Obama's Science Team: A Change Of Climate?",
@@ -28,13 +32,26 @@
         "ATC Track": "HEAL I-SELF",
         "ATC Artists": [
             "THE REALLY ECLECTIC STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rain Shadows",
         "ATC Artists": [
             "Glenn Phillips"
-        ]
+        ],
+        "Result Track Name": "Rain Shadows",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vyuyxjORmCjEbyapj8dUX",
+        "Result Album Name": "Walking Through Walls"
     },
     {
         "Title": "Ecuador Feels Loss Of Money From Abroad",
@@ -52,7 +69,15 @@
         "ATC Track": "Wedding Waltz",
         "ATC Artists": [
             "Gunnar Madsen"
-        ]
+        ],
+        "Result Track Name": "Wedding Waltz",
+        "Result Artist Names": [
+            "Gunnar Madsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kFadLIxlFcR3MvmFZkFL7",
+        "Result Album Name": "Spinning World"
     },
     {
         "Title": "GPS Units Get A Fix On The Football",
@@ -76,13 +101,31 @@
         "ATC Track": "Just a Gigolo/I Ain't Got Nobody",
         "ATC Artists": [
             "Louis Prima"
-        ]
+        ],
+        "Result Track Name": "Just A Gigolo / I Ain't Got Nobody - Medley / Remastered",
+        "Result Artist Names": [
+            "Louis Prima",
+            "Keely Smith",
+            "Sam Butera & The Witnesses"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NI42v4l2AxIbgoIrWKiBU",
+        "Result Album Name": "The Wildest! (Expanded Edition)"
     },
     {
         "ATC Track": "Just You and Me",
         "ATC Artists": [
             "Zee Avi"
-        ]
+        ],
+        "Result Track Name": "Just You And Me",
+        "Result Artist Names": [
+            "Zee Avi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oVMDogKQdedDm5W3wl3TN",
+        "Result Album Name": "Zee Avi"
     },
     {
         "Title": "A Master Bricklayer Preserves His Craft",
@@ -106,7 +149,15 @@
         "ATC Track": "lady gazelle",
         "ATC Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "Title": "Parting Words, With Help From Paul McCartney",
@@ -118,12 +169,25 @@
         "ATC Track": "CAPRIC N 2 IN B MINOR",
         "ATC Artists": [
             "MIDORI"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Classical Thump",
         "ATC Artists": [
             "Victor Wooten"
-        ]
+        ],
+        "Result Track Name": "Classical Thump",
+        "Result Artist Names": [
+            "Victor Wooten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3l3lCbzWLXi9FS4tQ3HSzZ",
+        "Result Album Name": "A Show of Hands 15"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-07-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:38:26"
+        "Scanned Date": "2022-02-07 00:38:26",
+        "Playlist URI": "3QV3532u3u0yW3VUUj94hO",
+        "Playlist Link": "https://open.spotify.com/playlist/3QV3532u3u0yW3VUUj94hO",
+        "Snapshot ID": "MSxhOGRlNzcxNGU1NTYwMjdiYWY5NzIxZTEyN2NjMzQ1ZDBhNGU4YzUw",
+        "Playlist Name": "ATC 2008-07-13 Sun All Things Considered"
     },
     {
         "Title": "Attack Kills 9 U.S. Soldiers In Afghanistan",
@@ -22,7 +26,15 @@
         "ATC Track": "The Tall Grass",
         "ATC Artists": [
             "Alsace Lorraine"
-        ]
+        ],
+        "Result Track Name": "The Tall Grass",
+        "Result Artist Names": [
+            "Alsace Lorraine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GzOAIPl7vMdL7ruNO9U3N",
+        "Result Album Name": "Dark One"
     },
     {
         "Title": "'Bush Hispanics' Say Goodbye To GOP",
@@ -36,7 +48,12 @@
             "Lonnie Liston Smith",
             "Smith",
             "Lonnie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Who's Makin' Love (To Your Old Lady)",
@@ -44,7 +61,15 @@
             "Lou Donaldson",
             "Donaldson",
             "Lou"
-        ]
+        ],
+        "Result Track Name": "Who's Making Love",
+        "Result Artist Names": [
+            "Lou Donaldson"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5HINKgh7LLhMpyAxz28DpI",
+        "Result Album Name": "Hot Dog"
     },
     {
         "Title": "U.S. Announces Plan To Shore Up Fannie, Freddie",
@@ -56,7 +81,15 @@
         "ATC Track": "Point A",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Point A",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22OolJYm9OfS0ERRKJhcuv",
+        "Result Album Name": "Taproot"
     },
     {
         "Title": "U.S. Relations With Tribunal May Be Warming",
@@ -86,13 +119,29 @@
         "ATC Track": "It's Great to be Here",
         "ATC Artists": [
             "The Jackson Five"
-        ]
+        ],
+        "Result Track Name": "It's Great To Be Here",
+        "Result Artist Names": [
+            "The Jackson 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:78qHwCaeAn0VIQcFj1AyXk",
+        "Result Album Name": "Maybe Tomorrow"
     },
     {
         "ATC Track": "Benny's Tune",
         "ATC Artists": [
             "Lionel Loueke"
-        ]
+        ],
+        "Result Track Name": "Benny's Tune",
+        "Result Artist Names": [
+            "Lionel Loueke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7rOMcPOUldbRtoT3jL8vkD",
+        "Result Album Name": "Karibu"
     },
     {
         "Title": "Demand Grows For Older Models",
@@ -116,13 +165,29 @@
         "ATC Track": "It's Great to be Here",
         "ATC Artists": [
             "The Jackson Five"
-        ]
+        ],
+        "Result Track Name": "It's Great To Be Here",
+        "Result Artist Names": [
+            "The Jackson 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:78qHwCaeAn0VIQcFj1AyXk",
+        "Result Album Name": "Maybe Tomorrow"
     },
     {
         "ATC Track": "IT SERVES ME RIGHT",
         "ATC Artists": [
             "JOHN LEE HOOKER"
-        ]
+        ],
+        "Result Track Name": "It Serves Me Right",
+        "Result Artist Names": [
+            "John Lee Hooker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4a0RlE6Mde0N59OLuBQn42",
+        "Result Album Name": "In Person"
     },
     {
         "ATC Track": "To You",
@@ -130,6 +195,11 @@
             "Vinicius Cantuaria",
             "Cantuária",
             "Vinicius"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-08-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:36:19"
+        "Scanned Date": "2022-02-07 00:36:19",
+        "Playlist URI": "1XkS5D4GhkqN8qWh4Geuat",
+        "Playlist Link": "https://open.spotify.com/playlist/1XkS5D4GhkqN8qWh4Geuat",
+        "Snapshot ID": "MSw4MmY1NmU4NjU0MTE1OWNlMDg0ZjExMDc5OTAwNjc4NzU5MDYwYjE0",
+        "Playlist Name": "ATC 2008-08-10 Sun All Things Considered"
     },
     {
         "Title": "Russian Warplanes Continue To Bomb Georgia",
@@ -28,14 +32,27 @@
         "ATC Track": "My Life Extra",
         "ATC Artists": [
             "DJ Technics"
-        ]
+        ],
+        "Result Track Name": "My Life Extra",
+        "Result Artist Names": [
+            "DJ Technics"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0AzwzBnprLl9SAv26Up4TY",
+        "Result Album Name": "...and all the pieces matter, Five Years of Music from The Wire (deluxe version)"
     },
     {
         "ATC Track": "Lullu's Back in Town",
         "ATC Artists": [
             "Steve Cropper",
             "Donald \"Duck\" Dunn et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Juror Questions U.S. Pursuit Of Salim Hamdan",
@@ -65,13 +82,26 @@
         "ATC Track": "Galactic Funk [Live from the Black Hole Mix]",
         "ATC Artists": [
             "DJ Spooky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Who Stole the Booty",
         "ATC Artists": [
             "Boo Boo Davis"
-        ]
+        ],
+        "Result Track Name": "Who Stole the Booty",
+        "Result Artist Names": [
+            "Boo Boo Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LLq6alrvIEvQf6eHjANoo",
+        "Result Album Name": "Name of the Game"
     },
     {
         "Title": "Homework: Sidekicks",
@@ -101,12 +131,28 @@
         "ATC Track": "Life's Mood",
         "ATC Artists": [
             "Isaac Hayes"
-        ]
+        ],
+        "Result Track Name": "Life's Mood",
+        "Result Artist Names": [
+            "Isaac Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cGqNxA560s8EoYR7hErVp",
+        "Result Album Name": "Branded"
     },
     {
         "ATC Track": "Buns O'Plenty",
         "ATC Artists": [
             "Isaac Hayes"
-        ]
+        ],
+        "Result Track Name": "Buns O' Plenty",
+        "Result Artist Names": [
+            "Isaac Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23Aod5EmayZaADghvO5FWq",
+        "Result Album Name": "Tough Guys"
     }
 ]

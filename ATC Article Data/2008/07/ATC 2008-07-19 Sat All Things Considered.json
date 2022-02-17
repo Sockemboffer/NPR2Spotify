@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-07-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:38:56"
+        "Scanned Date": "2022-02-07 00:38:56",
+        "Playlist URI": "1GpiOkO0oJnFTXvVzRPj7a",
+        "Playlist Link": "https://open.spotify.com/playlist/1GpiOkO0oJnFTXvVzRPj7a",
+        "Snapshot ID": "MSw4MzMxY2Y3Y2I1ZTA2YTU0ODk4Yjc0ZTQzZDYyZTMzZWVkNzdlNzRi",
+        "Playlist Name": "ATC 2008-07-19 Sat All Things Considered"
     },
     {
         "Title": "Iranian Nuke Talks End In Deadlock",
@@ -28,13 +32,30 @@
         "ATC Track": "Because They're Young",
         "ATC Artists": [
             "Joe Goldmark"
-        ]
+        ],
+        "Result Track Name": "Because They're Young",
+        "Result Artist Names": [
+            "Joe Goldmark",
+            "Jim Campilongo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iBQ1T1WZ1uAPShEIwCikF",
+        "Result Album Name": "All Hat - No Cattle"
     },
     {
         "ATC Track": "Intercontinental Git",
         "ATC Artists": [
             "Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Intercontinental Git",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3smtA2Jj1zzt2NrRj1uCl5",
+        "Result Album Name": "Destination...Get Down!"
     },
     {
         "Title": "Birmingham Mayor Hobbled By Kickback Charges",
@@ -46,7 +67,12 @@
         "ATC Track": "I'm Not a Hero",
         "ATC Artists": [
             "Galactic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Batman' In Buenos Aires",
@@ -64,7 +90,15 @@
         "ATC Track": "Step into My Fire",
         "ATC Artists": [
             "Michael Whalen"
-        ]
+        ],
+        "Result Track Name": "Step Into My Fire",
+        "Result Artist Names": [
+            "Michael Whalen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5T1aXFByUjUqzKOnkffH1l",
+        "Result Album Name": "Mysterious Ways"
     },
     {
         "Title": "Americans Say Oui, Oui To Foreign Graphic Novels",
@@ -77,13 +111,26 @@
         "ATC Artists": [
             "Simon",
             "Garfunkel"
-        ]
+        ],
+        "Result Track Name": "America",
+        "Result Artist Names": [
+            "Simon & Garfunkel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dfhF1BDGmhM69fnCb6wSC",
+        "Result Album Name": "Bookends"
     },
     {
         "ATC Track": "Blues Is a Botheration",
         "ATC Artists": [
             "Otis Spann"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Emmy Nods Show Viewership May Not Count",
@@ -119,12 +166,28 @@
         "ATC Track": "Rockin' My Boogie",
         "ATC Artists": [
             "Big Walter Horton"
-        ]
+        ],
+        "Result Track Name": "Rockin' My Boogie",
+        "Result Artist Names": [
+            "Big Walter Horton's Blues Harp Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06c9G4OIHjUXBJ488tuiHn",
+        "Result Album Name": "Chicago/The Blues/Today!"
     },
     {
         "ATC Track": "Marie",
         "ATC Artists": [
             "Otis Spann"
-        ]
+        ],
+        "Result Track Name": "Marie",
+        "Result Artist Names": [
+            "Otis Spann's South Side Piano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YXstjQAfgJxzsxF5lU4id",
+        "Result Album Name": "Boogie Woogie 50"
     }
 ]

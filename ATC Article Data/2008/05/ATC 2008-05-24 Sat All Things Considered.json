@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-05-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:42:56"
+        "Scanned Date": "2022-02-07 00:42:56",
+        "Playlist URI": "4HFmD2ZZAkZgmIcna2DBvk",
+        "Playlist Link": "https://open.spotify.com/playlist/4HFmD2ZZAkZgmIcna2DBvk",
+        "Snapshot ID": "MSw3MDMwY2EyZDNiMzg3NTVjMTk5MTU4MGFlNzBlMjUyM2M2OGU5NGI5",
+        "Playlist Name": "ATC 2008-05-24 Sat All Things Considered"
     },
     {
         "Title": "Taliban Attacks Spike in Afghanistan",
@@ -28,13 +32,29 @@
         "ATC Track": "Greetings",
         "ATC Artists": [
             "Hamza el Din"
-        ]
+        ],
+        "Result Track Name": "Greetings",
+        "Result Artist Names": [
+            "Hamza El Din"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6muj0lvXBLEtDM2yw6H6ys",
+        "Result Album Name": "A Wish"
     },
     {
         "ATC Track": "Naive Song",
         "ATC Artists": [
             "Mirwais"
-        ]
+        ],
+        "Result Track Name": "Naïve Song",
+        "Result Artist Names": [
+            "Mirwais"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2czNCcUtP2VygffminEngp",
+        "Result Album Name": "Production (Deluxe Version)"
     },
     {
         "Title": "007 Had It Right with the Martinis",
@@ -58,13 +78,26 @@
         "ATC Track": "Le Désert Bleu",
         "ATC Artists": [
             "Xavier Descarpentries"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Get in Yr Squads",
         "ATC Artists": [
             "Cex"
-        ]
+        ],
+        "Result Track Name": "Get In Yr Squads",
+        "Result Artist Names": [
+            "Cex"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3elUMNgh24sPuzgqvhW4o0",
+        "Result Album Name": "Starship Galactica"
     },
     {
         "Title": "Speedway Gears Up for Danica Patrick",
@@ -88,7 +121,15 @@
         "ATC Track": "Take Your Mama",
         "ATC Artists": [
             "Scissor Sisters"
-        ]
+        ],
+        "Result Track Name": "Take Your Mama",
+        "Result Artist Names": [
+            "Scissor Sisters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0LAfANg75hYiV1IAEP3vY6",
+        "Result Album Name": "Scissor Sisters"
     },
     {
         "Title": "Urban Verbs: Back for One Night Only",
@@ -100,7 +141,15 @@
         "ATC Track": "Subways",
         "ATC Artists": [
             "Urban Verbs"
-        ]
+        ],
+        "Result Track Name": "Subways",
+        "Result Artist Names": [
+            "Urban Verbs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6fODzivD5p5JEqfsdNKxp1",
+        "Result Album Name": "Urban Verbs"
     },
     {
         "Title": "Parting Words: Success and Failure",
@@ -112,12 +161,25 @@
         "ATC Track": "VCF",
         "ATC Artists": [
             "Anything Box"
-        ]
+        ],
+        "Result Track Name": "VCF",
+        "Result Artist Names": [
+            "Anything Box"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Y0FrigBJcUj7aJUuBviDZ",
+        "Result Album Name": "Elektrodelica"
     },
     {
         "ATC Track": "Computer World, Pt. 2",
         "ATC Artists": [
             "Kraftwerk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

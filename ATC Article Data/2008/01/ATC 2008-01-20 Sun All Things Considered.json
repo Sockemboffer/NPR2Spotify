@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-01-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:49:54"
+        "Scanned Date": "2022-02-07 00:49:54",
+        "Playlist URI": "4YYkgNujFb80SOrOI0gk7R",
+        "Playlist Link": "https://open.spotify.com/playlist/4YYkgNujFb80SOrOI0gk7R",
+        "Snapshot ID": "MSxmOWExODNmZTQzYTA2MGM4Zjg3ZWU3NDkxMTc0MmRiZTkwNzkzMWUy",
+        "Playlist Name": "ATC 2008-01-20 Sun All Things Considered"
     },
     {
         "Title": "Huckabee Laments Loss, Looks to Future Primaries",
@@ -24,13 +28,26 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Bubblehouse",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YtX5xh7y5FoQywRmsGCeK",
+        "Result Album Name": "Shack-man"
     },
     {
         "ATC Track": "Etienne",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Obama Campaigns at King's Atlanta Church",
@@ -60,14 +77,31 @@
         "ATC Track": "Crazy",
         "ATC Artists": [
             "Gnarls Barkley"
-        ]
+        ],
+        "Result Track Name": "Crazy",
+        "Result Artist Names": [
+            "Gnarls Barkley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2N5zMZX7YeL1tico8oQxa9",
+        "Result Album Name": "St. Elsewhere"
     },
     {
         "ATC Track": "Iest Sexy",
         "ATC Artists": [
             "Mahala Rai Banda",
             "Shantel"
-        ]
+        ],
+        "Result Track Name": "Iest Sexy",
+        "Result Artist Names": [
+            "Mahala Rai Banda",
+            "Shantel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5R156fd0GSgPDtUqyKMACA",
+        "Result Album Name": "Romanian Carnival Party, Vol. 2"
     },
     {
         "Title": "'Hitman' Shares Secrets of Negative Campaigning",
@@ -85,19 +119,40 @@
         "ATC Track": "Mona Ray",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Mona Ray",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4N6oEOKxjU5JLSTo7qzZfe",
+        "Result Album Name": "Instrumentals: Best Of The Capitol Years"
     },
     {
         "ATC Track": "Mi Lorena Linda [Bolero]",
         "ATC Artists": [
             "Chapinlandia"
-        ]
+        ],
+        "Result Track Name": "Mi Lorena linda",
+        "Result Artist Names": [
+            "Marimba Chapinlandia"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4H4fQ7dOq4VB34rCX0Jn5o",
+        "Result Album Name": "Chapinlandia - Marimba Music of Guatemala"
     },
     {
         "ATC Track": "Where's the Moment",
         "ATC Artists": [
             "Gabrial McNair",
             "David Ralicke et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

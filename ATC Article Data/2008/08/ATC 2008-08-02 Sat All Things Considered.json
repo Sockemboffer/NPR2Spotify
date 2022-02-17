@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-08-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:35:52"
+        "Scanned Date": "2022-02-07 00:35:52",
+        "Playlist URI": "3efUuiyTwBE8jYDDNic2SU",
+        "Playlist Link": "https://open.spotify.com/playlist/3efUuiyTwBE8jYDDNic2SU",
+        "Snapshot ID": "MSxmYzU4ZGNkZmVjNTRhMDJlOGQ1YzNlZmVmMGE4ZTljNGU4NTFmNDhj",
+        "Playlist Name": "ATC 2008-08-02 Sat All Things Considered"
     },
     {
         "Title": "Anthrax Case Raises Concerns About Lab Security",
@@ -22,7 +26,15 @@
         "ATC Track": "Coincidences",
         "ATC Artists": [
             "Jon Brion"
-        ]
+        ],
+        "Result Track Name": "Coincidences",
+        "Result Artist Names": [
+            "Jon Brion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Hq1kLx4MZ9sWM8MtR2ooU",
+        "Result Album Name": "I Love Huckabees (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Candidates Take Turns At Urban League Podium",
@@ -34,13 +46,29 @@
         "ATC Track": "Face the Sun (Africa)",
         "ATC Artists": [
             "Madlib"
-        ]
+        ],
+        "Result Track Name": "Face The Sun (Africa)",
+        "Result Artist Names": [
+            "Madlib"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0llt36BFs8n4S086Wplcno",
+        "Result Album Name": "Beat Konducta Vol. 1-2: Movie Scenes"
     },
     {
         "ATC Track": "Tape Hiss (Dirty)",
         "ATC Artists": [
             "Madlib"
-        ]
+        ],
+        "Result Track Name": "Tape Hiss (Dirty)",
+        "Result Artist Names": [
+            "Madlib"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30E0RS7utw9Ef0XR2Fz7Oz",
+        "Result Album Name": "Beat Konducta Vol. 1-2: Movie Scenes"
     },
     {
         "Title": "HIV Infection Rate In U.S. Higher Than Estimated",
@@ -70,13 +98,29 @@
         "ATC Track": "Organ Donar",
         "ATC Artists": [
             "DJ Shadow"
-        ]
+        ],
+        "Result Track Name": "Organ Donor",
+        "Result Artist Names": [
+            "DJ Shadow"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TdnvxC5E146AXv1doDshO",
+        "Result Album Name": "Endtroducing....."
     },
     {
         "ATC Track": "Basement (Interlude)",
         "ATC Artists": [
             "Oh No"
-        ]
+        ],
+        "Result Track Name": "Basement Interlude",
+        "Result Artist Names": [
+            "Oh No"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xY0ey8OAMKKx3hvlGQbKa",
+        "Result Album Name": "Exodus Into Unheard Rhythms"
     },
     {
         "Title": "Tonga Crowns First King In More Than Four Decades",
@@ -89,7 +133,12 @@
         "ATC Artists": [
             "Peter Breiner",
             "The Slovak Radio Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Zimbabwe Businesses Tackle Inflated Currency",
@@ -120,18 +169,42 @@
         "ATC Artists": [
             "Cindy Kallet",
             "Grey Larsen et. al."
-        ]
+        ],
+        "Result Track Name": "The Humours of Trim/The Moons of Jupiter/Mulhaire's Jig",
+        "Result Artist Names": [
+            "Cindy Kallet & Grey Larsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:41Tuw2wE9xqIUqcyzZ8xLO",
+        "Result Album Name": "Cross the Water"
     },
     {
         "ATC Track": "Once Around the Block",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "Once Around the Block",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2TnNFFgZhaBzEEobxDy5uV",
+        "Result Album Name": "Once Around the Block"
     },
     {
         "ATC Track": "Stone on the Water",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "Stone on the Water",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lOqVqq8bI50qW9mHdyFai",
+        "Result Album Name": "The Hour of Bewilderbeast"
     }
 ]

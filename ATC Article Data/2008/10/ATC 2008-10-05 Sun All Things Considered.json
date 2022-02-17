@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-10-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:32:17"
+        "Scanned Date": "2022-02-07 00:32:17",
+        "Playlist URI": "54Cy4wFhGgoXu5EWCai7Bd",
+        "Playlist Link": "https://open.spotify.com/playlist/54Cy4wFhGgoXu5EWCai7Bd",
+        "Snapshot ID": "MSw5ZmNiODExMmUyZmEzMjA0YTYxNTRjNzRjYjkwY2RjNmEzZjU5NmFl",
+        "Playlist Name": "ATC 2008-10-05 Sun All Things Considered"
     },
     {
         "Title": "Gloves Coming Off In Campaign",
@@ -22,13 +26,26 @@
         "ATC Track": "The Flurry (Pt. 1)",
         "ATC Artists": [
             "Tracker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Douce Ambiance",
         "ATC Artists": [
             "Neptune Quartet"
-        ]
+        ],
+        "Result Track Name": "Douce Ambiance",
+        "Result Artist Names": [
+            "The Neptune Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hvB54LAvmtku3ImEz3PzP",
+        "Result Album Name": "Lonesome Cactus Groove"
     },
     {
         "Title": "Chicago Charter School Network Defies Expectation",
@@ -64,13 +81,26 @@
         "ATC Track": "In the Night",
         "ATC Artists": [
             "Basia Bulat"
-        ]
+        ],
+        "Result Track Name": "In the Night",
+        "Result Artist Names": [
+            "Basia Bulat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XwzOk0L3kC0joseMHvIgJ",
+        "Result Album Name": "Oh, My Darling"
     },
     {
         "ATC Track": "Opening",
         "ATC Artists": [
             "Siren Music Productions"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Political Humor's Hysterical History",
@@ -82,7 +112,15 @@
         "ATC Track": "Milenburg Joys",
         "ATC Artists": [
             "Bob French"
-        ]
+        ],
+        "Result Track Name": "Milenburg Joys",
+        "Result Artist Names": [
+            "Bob French"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12ADoaKJQewFTxWpazJu11",
+        "Result Album Name": "Marsalis Music Honors Bob French"
     },
     {
         "Title": "For Pioneering Black Theater, A Season-Long Salute",
@@ -100,18 +138,39 @@
         "ATC Track": "Im Abendrot",
         "ATC Artists": [
             "Renee Fleming"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Karibu",
         "ATC Artists": [
             "Lionel Loueke"
-        ]
+        ],
+        "Result Track Name": "Karibu",
+        "Result Artist Names": [
+            "Lionel Loueke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wi6KHrpieeO3rdVAZv41J",
+        "Result Album Name": "Karibu"
     },
     {
         "ATC Track": "Wedding Waltz",
         "ATC Artists": [
             "Gunnar Madsen"
-        ]
+        ],
+        "Result Track Name": "Wedding Waltz",
+        "Result Artist Names": [
+            "Gunnar Madsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kFadLIxlFcR3MvmFZkFL7",
+        "Result Album Name": "Spinning World"
     }
 ]

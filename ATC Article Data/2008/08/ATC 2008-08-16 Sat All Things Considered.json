@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-08-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:36:43"
+        "Scanned Date": "2022-02-07 00:36:43",
+        "Playlist URI": "7MhR42hXxfCusJw4J2Z7gG",
+        "Playlist Link": "https://open.spotify.com/playlist/7MhR42hXxfCusJw4J2Z7gG",
+        "Snapshot ID": "MSwxNDM1NzQ0NWVkMDAxZjBjZDFmNTRmODYyYThjM2E2NjNmMjVhYTli",
+        "Playlist Name": "ATC 2008-08-16 Sat All Things Considered"
     },
     {
         "Title": "Russians In No Hurry To Leave Georgia",
@@ -28,13 +32,27 @@
         "ATC Track": "Eastern Twin",
         "ATC Artists": [
             "Martin Tillman"
-        ]
+        ],
+        "Result Track Name": "Eastern Twin",
+        "Result Artist Names": [
+            "Tom Vedvik",
+            "Martin Tillman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NMt1nhobx2mhrgZ4iyKyl",
+        "Result Album Name": "Amadeus On The Nile"
     },
     {
         "ATC Track": "Never Stop [Pink Enemy RMX Instrumental]",
         "ATC Artists": [
             "Delicious Vinyl All-Stars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bolt Bolts To Victory In 100-Meter",
@@ -71,13 +89,26 @@
         "ATC Artists": [
             "The Chemical Brothers",
             "Q-Tip"
-        ]
+        ],
+        "Result Track Name": "Galvanize",
+        "Result Artist Names": [
+            "The Chemical Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:27AJrzumvyzFXmi3hjJBXq",
+        "Result Album Name": "Coding & Hacking Music"
     },
     {
         "ATC Track": "At It Again",
         "ATC Artists": [
             "Cut-Out"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Experts Discuss Strategies For Iraq Withdrawal",
@@ -102,18 +133,39 @@
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Everything's Going to the Beat",
         "ATC Artists": [
             "Ace of Clubs"
-        ]
+        ],
+        "Result Track Name": "Everything Is Going to the Beat",
+        "Result Artist Names": [
+            "The Ace Of Clubs"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:585E84WogU87PB1EnHSk3W",
+        "Result Album Name": "Acid Jazz: Everything's Going to the Beat (Digitally Remastered)"
     },
     {
         "ATC Track": "Naive Song",
         "ATC Artists": [
             "Mirwais"
-        ]
+        ],
+        "Result Track Name": "Naïve Song",
+        "Result Artist Names": [
+            "Mirwais"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2czNCcUtP2VygffminEngp",
+        "Result Album Name": "Production (Deluxe Version)"
     }
 ]

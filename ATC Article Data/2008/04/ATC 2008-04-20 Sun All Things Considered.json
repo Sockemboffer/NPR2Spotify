@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-04-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:44:31"
+        "Scanned Date": "2022-02-07 00:44:31",
+        "Playlist URI": "32yCeFw15Y6AuUPc6ijhA9",
+        "Playlist Link": "https://open.spotify.com/playlist/32yCeFw15Y6AuUPc6ijhA9",
+        "Snapshot ID": "MSwwMTFkZGNmODc5ZWEwNmE5M2M5Y2VmOTM3NTU2OWQzYjc0NjZmYzQ1",
+        "Playlist Name": "ATC 2008-04-20 Sun All Things Considered"
     },
     {
         "Title": "Clinton and Obama Square Off After 6-Week Hiatus",
@@ -22,13 +26,29 @@
         "ATC Track": "12345",
         "ATC Artists": [
             "Gus Black"
-        ]
+        ],
+        "Result Track Name": "12345",
+        "Result Artist Names": [
+            "Gus Black"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3CaSnzu8ndL9yUoBU2Ig6B",
+        "Result Album Name": "Uncivilized Love"
     },
     {
         "ATC Track": "SHANGHAI DREAM",
         "ATC Artists": [
             "TIAN"
-        ]
+        ],
+        "Result Track Name": "Shanghai Dream",
+        "Result Artist Names": [
+            "Tian Jiang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UbSrU1bUDk0k75wk6oYkG",
+        "Result Album Name": "Shanghai Dream"
     },
     {
         "Title": "Benedict Holds Stadium Mass for N.Y.C. Faithful",
@@ -46,7 +66,15 @@
         "ATC Track": "El Aromo (The Aromo Tree) [Milonga Pampeana]",
         "ATC Artists": [
             "Suni Paz"
-        ]
+        ],
+        "Result Track Name": "El Aromo – The Aromo Tree (milonga pampeana)",
+        "Result Artist Names": [
+            "Suni Paz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KCYGpZvA6p89gTIug8NpV",
+        "Result Album Name": "Bandera Mia: Songs of Argentina"
     },
     {
         "Title": "Justice Stevens' Reversal Brings Scalia's Ire",
@@ -64,13 +92,35 @@
         "ATC Track": "BY THE FIRESIDE",
         "ATC Artists": [
             "TURTLE ISLAND STRING QUARTET"
-        ]
+        ],
+        "Result Track Name": "By the Fireside",
+        "Result Artist Names": [
+            "Mark Warshavsky",
+            "Turtle Island String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7i5ciySYP2hIgj7OXYtVS2",
+        "Result Album Name": "By the Fireside"
     },
     {
         "ATC Track": "SONATA IN G MINOR: PRESTO",
         "ATC Artists": [
             "NIGEL NORTH"
-        ]
+        ],
+        "Result Track Name": "Oboe Sonata In G Minor RV 58: IV. Allegro, ma non presto",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Paul Goodwin",
+            "John Toll",
+            "Nigel North",
+            "Nicolas Chédeville",
+            "Susan Sheppard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Gjzp0aiegJQbc3SFNYbKq",
+        "Result Album Name": "Vivaldi & Telemann: Oboe Sonatas"
     },
     {
         "Title": "Asha Bhosle Delights American Fans with Concerts",
@@ -88,19 +138,43 @@
         "ATC Track": "Through the Window of a Train",
         "ATC Artists": [
             "Blue Highway"
-        ]
+        ],
+        "Result Track Name": "Through The Window Of A Train",
+        "Result Artist Names": [
+            "Blue Highway"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nU7RLhXw8HFElaR2zaoUY",
+        "Result Album Name": "Through The Window Of A Train"
     },
     {
         "ATC Track": "BRIMFUL OF ASIA (NORMAN COOK ORIGINAL RADIO EDIT REMIX)",
         "ATC Artists": [
             "CORNERSHOP"
-        ]
+        ],
+        "Result Track Name": "Brimful Of Asha - Norman Cook Remix Single Version",
+        "Result Artist Names": [
+            "Cornershop"
+        ],
+        "Result Track-Match Percent": 0.5882352941176471,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gbdLLUhocAjThL3GvV6Lx",
+        "Result Album Name": "The Greatest Hits: Why Try Harder"
     },
     {
         "ATC Track": "Jericho",
         "ATC Artists": [
             "Booker T.",
             "The MG's"
-        ]
+        ],
+        "Result Track Name": "Jericho",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1inI4OLHL1yAnQbxX645DW",
+        "Result Album Name": "The Albums 1962-1968"
     }
 ]

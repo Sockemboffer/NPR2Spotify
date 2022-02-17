@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2008-07-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:39:22"
+        "Scanned Date": "2022-02-07 00:39:22",
+        "Playlist URI": "0gHqDVyckllGBwMYtv2PRj",
+        "Playlist Link": "https://open.spotify.com/playlist/0gHqDVyckllGBwMYtv2PRj",
+        "Snapshot ID": "MSw0N2FhNjBmN2YwZTIyOGQ1MmVmNzU3ZGU2MjNmZjQ1MDczMzc4OTg2",
+        "Playlist Name": "ATC 2008-07-26 Sat All Things Considered"
     },
     {
         "Title": "Housing Bill Clears Senate, Awaits Bush's Signature",
@@ -28,13 +32,29 @@
         "ATC Track": "So Much for So Little",
         "ATC Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "So Much for so Little",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71DM4x0ko4VZJpoNtOHgdO",
+        "Result Album Name": "Dreaming of Revenge"
     },
     {
         "ATC Track": "Cousin Mary",
         "ATC Artists": [
             "John Coltrane"
-        ]
+        ],
+        "Result Track Name": "Cousin Mary - Mono",
+        "Result Artist Names": [
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6I1pxB8X2Fu4HFjo5Bgwor",
+        "Result Album Name": "Giant Steps (Mono)"
     },
     {
         "Title": "Brooklyn Race A Generational Battle",
@@ -58,7 +78,12 @@
         "ATC Track": "Rome, Television Score/Rome Main Title Theme",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Philly Tour Guides Sue Over License Test",
@@ -70,13 +95,29 @@
         "ATC Track": "That Infernal Optimist",
         "ATC Artists": [
             "Bob Evans"
-        ]
+        ],
+        "Result Track Name": "That Infernal Optimist",
+        "Result Artist Names": [
+            "Bob Evans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79NsddE5456KXCqQ91DK3W",
+        "Result Album Name": "Six Strings North of the Border - Volume 1"
     },
     {
         "ATC Track": "A. J. Bustah",
         "ATC Artists": [
             "Karl Denson"
-        ]
+        ],
+        "Result Track Name": "A.J. Bustah",
+        "Result Artist Names": [
+            "Karl Denson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14EPGjOYarBXxJRGaw1CEs",
+        "Result Album Name": "Dance Lesson No. 2"
     },
     {
         "Title": "The FBI On The Silver Screen",
@@ -94,7 +135,15 @@
         "ATC Track": "Simba Malembe [Remix]",
         "ATC Artists": [
             "Pablo Lubadika"
-        ]
+        ],
+        "Result Track Name": "Simba Malembe",
+        "Result Artist Names": [
+            "Pablo Lubadika"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4IDa7cjDk47WFgp5LUH1V6",
+        "Result Album Name": "Okominiokolo"
     },
     {
         "Title": "Magnetic Pulses To Brain Help 'Lazy Eye'",
@@ -118,7 +167,16 @@
         "ATC Track": "Study No. 2",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Electronic Study No. 2",
+        "Result Artist Names": [
+            "Alfred Del Monaco",
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7opA8NybqZwrqNmukKwVVK",
+        "Result Album Name": "Randall, Seely & Del Monaco: Electronic Music"
     },
     {
         "Title": "Parting Words: Out On The Edge",
@@ -130,12 +188,28 @@
         "ATC Track": "Desmond Blue",
         "ATC Artists": [
             "Paul Desmond"
-        ]
+        ],
+        "Result Track Name": "Desmond Blue - (Live) [Remastered]",
+        "Result Artist Names": [
+            "Paul Desmond"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32jzKypv03J8qN7hn0jora",
+        "Result Album Name": "Desmond Blue"
     },
     {
         "ATC Track": "STORM",
         "ATC Artists": [
             "STANLEY TURRENTINE"
-        ]
+        ],
+        "Result Track Name": "Storm",
+        "Result Artist Names": [
+            "Stanley Turrentine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7diUPvk29fw51rrDXC0x9t",
+        "Result Album Name": "The Essential Stanley Turrentine"
     }
 ]
