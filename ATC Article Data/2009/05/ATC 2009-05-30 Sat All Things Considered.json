@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-05-30",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:06:21"
+        "Scanned Date": "2022-02-07 01:06:21",
+        "Playlist URI": "6dcEvDgYAEkpOLdJHvgqAv",
+        "Playlist Link": "https://open.spotify.com/playlist/6dcEvDgYAEkpOLdJHvgqAv",
+        "Snapshot ID": "MSxiYmQzZThjNzY2NjVjN2U4ODNjODZiYmM0ZjM0YTExMzUyZDkxN2E3",
+        "Playlist Name": "ATC 2009-05-30 Sat All Things Considered"
     },
     {
         "Title": "Supreme Court Pick Didn't Come Lightly For Obama",
@@ -28,7 +32,15 @@
         "ATC Track": "Apache",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "Apache",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0sZy1HE2aGBQABHfVRQ4jB",
+        "Result Album Name": "Another String of Hot Hits (And More!)"
     },
     {
         "Title": "Undercover At An Evangelical University",
@@ -52,7 +64,12 @@
         "ATC Track": "Spinoff",
         "ATC Artists": [
             "Phil Heywood"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Libyan Human Rights Activist Dies",
@@ -64,7 +81,15 @@
         "ATC Track": "Short Double Latté",
         "ATC Artists": [
             "Combustible Edison"
-        ]
+        ],
+        "Result Track Name": "Short Double Latte",
+        "Result Artist Names": [
+            "Combustible Edison"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BONc2KHuZ0A1aqB91AUIj",
+        "Result Album Name": "Schizophonic"
     },
     {
         "Title": "Scientist: Cooking Sets Us Apart From Apes",
@@ -96,7 +121,15 @@
             "Steve Martin",
             "Martin",
             "Steve"
-        ]
+        ],
+        "Result Track Name": "Hoedown At Alice's",
+        "Result Artist Names": [
+            "Steve Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4E8rck1iSNHu1fzcUtVIs4",
+        "Result Album Name": "The Crow: New Songs For the Five-String Banjo"
     },
     {
         "ATC Track": "Clawhammer Medley",
@@ -104,6 +137,14 @@
             "Steve Martin",
             "Martin",
             "Steve"
-        ]
+        ],
+        "Result Track Name": "Clawhammer Medley",
+        "Result Artist Names": [
+            "Steve Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40HrZG1rgdb4p55Qi7yKgQ",
+        "Result Album Name": "The Crow: New Songs For the Five-String Banjo"
     }
 ]

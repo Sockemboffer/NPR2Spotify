@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-11-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:53:28"
+        "Scanned Date": "2022-02-07 00:53:28",
+        "Playlist URI": "6CftwD0IRLUnbyxppD6EQr",
+        "Playlist Link": "https://open.spotify.com/playlist/6CftwD0IRLUnbyxppD6EQr",
+        "Snapshot ID": "MSxhMWYzMGMxY2MwNmI3MzBmOTUxOWY2YTM4NTcwMmU1NThlYmJiMjhi",
+        "Playlist Name": "ATC 2009-11-08 Sun All Things Considered"
     },
     {
         "Title": "1989: Remembering The Fall Of The Berlin Wall",
@@ -22,7 +26,15 @@
         "ATC Track": "Right Here Right Now [The Martyn Phillips Mix]",
         "ATC Artists": [
             "Jesus Jones"
-        ]
+        ],
+        "Result Track Name": "Right Here Right Now - The Martyn Phillips Mix",
+        "Result Artist Names": [
+            "Jesus Jones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HucPKRTdFUOHI5ffgIhTh",
+        "Result Album Name": "The Remixes"
     },
     {
         "Title": "Health Overhaul Has Long Road Ahead",
@@ -46,13 +58,29 @@
         "ATC Track": "From Ann Arbor to War",
         "ATC Artists": [
             "Rolfe Kent"
-        ]
+        ],
+        "Result Track Name": "From Ann Arbor to War - Score",
+        "Result Artist Names": [
+            "Rolfe Kent"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4R2bKftYWUg2Qn7cxyCBvj",
+        "Result Album Name": "The Men Who Stare At Goats (Original Soundtrack) [Score]"
     },
     {
         "ATC Track": "Back from Africa Interlude",
         "ATC Artists": [
             "Nickodemus"
-        ]
+        ],
+        "Result Track Name": "Back From Africa (Interlude)",
+        "Result Artist Names": [
+            "Nickodemus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ph7q23kQfiSuGuCr309nU",
+        "Result Album Name": "Endangered Species"
     },
     {
         "Title": "Is The Droid An IPhone Killer?",
@@ -82,19 +110,40 @@
         "ATC Track": "Gambler",
         "ATC Artists": [
             "Johnny Cash"
-        ]
+        ],
+        "Result Track Name": "The Gambler",
+        "Result Artist Names": [
+            "Johnny Cash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oQnkSQhOQSSPCN0Hb9DCf",
+        "Result Album Name": "Gone Girl"
     },
     {
         "ATC Track": "Answer Me",
         "ATC Artists": [
             "Ticklah",
             "Victor Axelrod"
-        ]
+        ],
+        "Result Track Name": "Answer Me",
+        "Result Artist Names": [
+            "Ticklah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:09VFVhKzkasNxgAIrg2JML",
+        "Result Album Name": "Ticklah vs. Axelrod"
     },
     {
         "ATC Track": "Amalinja [Ibo]",
         "ATC Artists": [
             "Don Isaac Ezekiel Combination"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

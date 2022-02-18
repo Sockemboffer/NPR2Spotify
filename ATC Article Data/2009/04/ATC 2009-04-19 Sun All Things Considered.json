@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-04-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:07:39"
+        "Scanned Date": "2022-02-07 01:07:39",
+        "Playlist URI": "5YlKPK0wdG0li1phQOXsIc",
+        "Playlist Link": "https://open.spotify.com/playlist/5YlKPK0wdG0li1phQOXsIc",
+        "Snapshot ID": "MSwxMjAwMWY3ODlhZWI1ZTIyMTAyMGM4MzAwYjdiZDEyMDYwM2U1YmJj",
+        "Playlist Name": "ATC 2009-04-19 Sun All Things Considered"
     },
     {
         "Title": "2010 Census Stirs Debate In Washington",
@@ -17,13 +21,29 @@
         "ATC Artists": [
             "Pullman",
             "Chris Brokaw"
-        ]
+        ],
+        "Result Track Name": "Delta One",
+        "Result Artist Names": [
+            "Pullman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:01lhY36mdRqWTjZm9utxHV",
+        "Result Album Name": "Viewfinder"
     },
     {
         "ATC Track": "Showdown",
         "ATC Artists": [
             "Ben Neill"
-        ]
+        ],
+        "Result Track Name": "Showdown",
+        "Result Artist Names": [
+            "Ben Neill"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1jrTj7NeGLYJpqhujI285G",
+        "Result Album Name": "Automotive"
     },
     {
         "Title": "Test May Determine Smokers' Lung Cancer Risk",
@@ -53,13 +73,26 @@
         "ATC Track": "Flat Panda",
         "ATC Artists": [
             "Dianogah"
-        ]
+        ],
+        "Result Track Name": "Flat Panda",
+        "Result Artist Names": [
+            "Dianogah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6vF5rd83LMRvI6SWuBuqxV",
+        "Result Album Name": "Millions of Brazilians"
     },
     {
         "ATC Track": "Driomopiatz",
         "ATC Artists": [
             "RH+"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Latina Actress Aims To Break Maid Stereotype",
@@ -89,12 +122,28 @@
         "ATC Track": "The Postcard",
         "ATC Artists": [
             "I Am the World Trade Center"
-        ]
+        ],
+        "Result Track Name": "The Postcard",
+        "Result Artist Names": [
+            "I Am The World Trade Center"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4c8WWFSDTbZE86VthytatG",
+        "Result Album Name": "The Tight Connection"
     },
     {
         "ATC Track": "Voyager",
         "ATC Artists": [
             "Daft Punk"
-        ]
+        ],
+        "Result Track Name": "Voyager",
+        "Result Artist Names": [
+            "Daft Punk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cMFjxhbXBpOlais7KMF3j",
+        "Result Album Name": "Discovery"
     }
 ]

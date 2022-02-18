@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-08-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:00:26"
+        "Scanned Date": "2022-02-07 01:00:26",
+        "Playlist URI": "5v5hx2S1gy5DPj5v5W6OS4",
+        "Playlist Link": "https://open.spotify.com/playlist/5v5hx2S1gy5DPj5v5W6OS4",
+        "Snapshot ID": "MSwxMGNlZGQ4OTk3YjIxZjQwZDkxYzgxYzgwYzQ0ZTcwNDg1ZDBjY2U1",
+        "Playlist Name": "ATC 2009-08-30 Sun All Things Considered"
     },
     {
         "Title": "Politics Behind CIA Probe, Cheney Says",
@@ -28,13 +32,26 @@
         "ATC Track": "Melody for the End of the Day",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Oscillate Wildly [Instrumental]",
         "ATC Artists": [
             "The Smiths"
-        ]
+        ],
+        "Result Track Name": "Oscillate Wildly - Instrumental; 2008 Remaster",
+        "Result Artist Names": [
+            "The Smiths"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gQ8o0z2AjbH4a4SkRYREC",
+        "Result Album Name": "The Sound of the Smiths (Deluxe; 2008 Remaster)"
     },
     {
         "Title": "Japan's Opposition Elected In Historic Victory",
@@ -54,7 +71,15 @@
             "Jack Ingram",
             "Ingram",
             "Jack"
-        ]
+        ],
+        "Result Track Name": "Barefoot And Crazy",
+        "Result Artist Names": [
+            "Jack Ingram"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:743UzZj0Yzh9IYJEzH2f5H",
+        "Result Album Name": "Big Dreams & High Hopes"
     },
     {
         "Title": "Robert Frank's Elevator Girl Sees Herself Years Later",
@@ -72,13 +97,26 @@
         "ATC Track": "Black One",
         "ATC Artists": [
             "Original Broadway Cast"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ain't Got Time",
         "ATC Artists": [
             "Tishamingo"
-        ]
+        ],
+        "Result Track Name": "Ain't Got Time",
+        "Result Artist Names": [
+            "Tishamingo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LJUpG6FvoVisLcVRzC7Iq",
+        "Result Album Name": "Wear n' Tear"
     },
     {
         "Title": "How 'Marx's General' Helped Lead The Revolution",
@@ -96,18 +134,42 @@
         "ATC Track": "Ticket Taker",
         "ATC Artists": [
             "The Low Anthem"
-        ]
+        ],
+        "Result Track Name": "Ticket Taker",
+        "Result Artist Names": [
+            "The Low Anthem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2yh9MdhiPKbqEMFOza1QKt",
+        "Result Album Name": "Oh My God Charlie Darwin (Standard)"
     },
     {
         "ATC Track": "Only Shallow",
         "ATC Artists": [
             "Japancakes"
-        ]
+        ],
+        "Result Track Name": "Only Shallow",
+        "Result Artist Names": [
+            "Japancakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ho3xEgZyhErrgh8HSReIA",
+        "Result Album Name": "Loveless"
     },
     {
         "ATC Track": "The Lone Official",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "The Lone Official",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bcwG2yt0hXKZ7eeACVobs",
+        "Result Album Name": "Aw C'mon"
     }
 ]

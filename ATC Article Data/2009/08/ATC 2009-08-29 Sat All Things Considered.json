@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-08-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:00:24"
+        "Scanned Date": "2022-02-07 01:00:24",
+        "Playlist URI": "73nJZwoEnE9FxRj9fq6bZe",
+        "Playlist Link": "https://open.spotify.com/playlist/73nJZwoEnE9FxRj9fq6bZe",
+        "Snapshot ID": "MSxiNjU2ZWVmNzk5NWJlYjMyNmRiZGI1NGMwMDVhZDlkNWNlM2Y1OTVh",
+        "Playlist Name": "ATC 2009-08-29 Sat All Things Considered"
     },
     {
         "Title": "Rain, Tears At Boston's Farewell To Kennedy",
@@ -28,13 +32,29 @@
         "ATC Track": "Falling Over Evening",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Falling Over Evening",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NndnxKWjmdUDewKnFI7nJ",
+        "Result Album Name": "Casually Smashed To Pieces"
     },
     {
         "ATC Track": "Take a Look",
         "ATC Artists": [
             "Floratone"
-        ]
+        ],
+        "Result Track Name": "Take A Look",
+        "Result Artist Names": [
+            "Floratone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MEewXON83hddEhVzTWcha",
+        "Result Album Name": "Floratone"
     },
     {
         "Title": "Surviving The Storm: Voices From Katrina",
@@ -53,13 +73,32 @@
         "ATC Artists": [
             "Louis Armstrong",
             "His Dixieland Seven"
-        ]
+        ],
+        "Result Track Name": "Do You Know What It Means To Miss New Orleans?",
+        "Result Artist Names": [
+            "Eddie DeLange",
+            "Louis Alter",
+            "Louis Armstrong & His Dixieland Seven",
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ifN0wejUQRSxUDLhDnUjw",
+        "Result Album Name": "Greatest Hits"
     },
     {
         "ATC Track": "go west: saddle up!",
         "ATC Artists": [
             "bill frisell"
-        ]
+        ],
+        "Result Track Name": "Saddle Up!",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YitLOOEF0QhyxD0LHvUaP",
+        "Result Album Name": "Music For The Films Of Buster Keaton: Go West"
     },
     {
         "Title": "Water Delivery Man Has Fans In Parched Nairobi",
@@ -84,18 +123,42 @@
         "ATC Artists": [
             "Choir",
             "Volcano"
-        ]
+        ],
+        "Result Track Name": "Youlogy",
+        "Result Artist Names": [
+            "Volcano Choir"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4a7Ul6k19F6vXaJas1m2YA",
+        "Result Album Name": "Unmap"
     },
     {
         "ATC Track": "Keep Your Eyes Open",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Keep Your Eyes Open",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40b7j3bYQqtF4gwjNQhoEP",
+        "Result Album Name": "Valentine"
     },
     {
         "ATC Track": "That Was Then",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "That Was Then",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KikijTf8WCggOaNplt7BM",
+        "Result Album Name": "Good Dog, Happy Man"
     }
 ]

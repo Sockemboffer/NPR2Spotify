@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-11-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:54:53"
+        "Scanned Date": "2022-02-07 00:54:53",
+        "Playlist URI": "4MuBOMdfc3PL5hoXYJkY0c",
+        "Playlist Link": "https://open.spotify.com/playlist/4MuBOMdfc3PL5hoXYJkY0c",
+        "Snapshot ID": "MSwzMzNjMTZjOTNhNDk3MmE1YWU1N2MyNjk2MjFlMjc5MmZkYjcyZTc5",
+        "Playlist Name": "ATC 2009-11-28 Sat All Things Considered"
     },
     {
         "Title": "Dubai Economic Crisis Hits The World",
@@ -22,7 +26,15 @@
         "ATC Track": "Mutawal",
         "ATC Artists": [
             "Naji Barakat"
-        ]
+        ],
+        "Result Track Name": "Mutawal",
+        "Result Artist Names": [
+            "Naji Barakat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10XW4Q3X16hMOI1TUyhycn",
+        "Result Album Name": "Yemen: Traditional Music of the North"
     },
     {
         "Title": "In New Ad, Chair Floats To Space",
@@ -35,7 +47,16 @@
         "ATC Artists": [
             "Django Reinhardt",
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": "Nuages",
+        "Result Artist Names": [
+            "Django Reinhardt",
+            "Stéphane Grappelli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70v2EagmCiY7JepbEGoeR3",
+        "Result Album Name": "Les chansons d'or"
     },
     {
         "Title": "In 'The Road,' World Ends With Whimper",
@@ -59,7 +80,15 @@
         "ATC Track": "It's Not Impossible",
         "ATC Artists": [
             "Ben Sollee"
-        ]
+        ],
+        "Result Track Name": "It's Not Impossible",
+        "Result Artist Names": [
+            "Ben Sollee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OmuBC7AMlhtPtZbMari8G",
+        "Result Album Name": "Learning to Bend"
     },
     {
         "Title": "Rectangles Vs. Triangles: The Great Sandwich Debate",
@@ -84,19 +113,45 @@
         "ATC Artists": [
             "Travelin' Light",
             "Sam Pilafian et. al."
-        ]
+        ],
+        "Result Track Name": "Frosty the Snowman",
+        "Result Artist Names": [
+            "Travelin' Light"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1AIgEzdhoCeJRWX759hgHw",
+        "Result Album Name": "Christmas With Travelin' Light"
     },
     {
         "ATC Track": "Jaw",
         "ATC Artists": [
             "Jan Garbarek",
             "Anouar Brahem et. al."
-        ]
+        ],
+        "Result Track Name": "Jaw",
+        "Result Artist Names": [
+            "Jan Garbarek",
+            "Anouar Brahem",
+            "Ustad Shaukat Hussain"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XzZUmxdad2U2MOBaRkYoS",
+        "Result Album Name": "Madar"
     },
     {
         "ATC Track": "Wedding Waltz",
         "ATC Artists": [
             "Gunnar Madsen"
-        ]
+        ],
+        "Result Track Name": "Wedding Waltz",
+        "Result Artist Names": [
+            "Gunnar Madsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kFadLIxlFcR3MvmFZkFL7",
+        "Result Album Name": "Spinning World"
     }
 ]

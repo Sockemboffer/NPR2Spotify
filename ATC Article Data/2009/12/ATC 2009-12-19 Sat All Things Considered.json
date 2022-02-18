@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-12-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:52:17"
+        "Scanned Date": "2022-02-07 00:52:17",
+        "Playlist URI": "0MnJZOkIUl5huZPe3GGFnK",
+        "Playlist Link": "https://open.spotify.com/playlist/0MnJZOkIUl5huZPe3GGFnK",
+        "Snapshot ID": "MSxmZjkwMTBhNDI2ZmQ4YjhiY2VjMDZkMmQxN2U3ZmIxYWQ0NGRhNDAy",
+        "Playlist Name": "ATC 2009-12-19 Sat All Things Considered"
     },
     {
         "Title": "Senate Dems Get Needed Votes For Health Bill",
@@ -28,13 +32,27 @@
         "ATC Track": "Magnetic Rag, for piano",
         "ATC Artists": [
             "Giovanni De Chiaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Gallarda Napolitana",
         "ATC Artists": [
             "Hesperion Xxi - Jordi Savall"
-        ]
+        ],
+        "Result Track Name": "Gallarda Napolitana",
+        "Result Artist Names": [
+            "Antonio Valente",
+            "Jordi Savall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5aImR3hF02TN0VeCYiX6ko",
+        "Result Album Name": "Ostinato"
     },
     {
         "Title": "Copenhagen Climate Deal Hinged On 1 Sentence",
@@ -58,13 +76,27 @@
         "ATC Track": "Island",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "George Returns to the Island",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Paul Leonard-Morgan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xhW0CIEOdfSSlaRBwVUog",
+        "Result Album Name": "Tales from the Loop (Original Soundtrack)"
     },
     {
         "ATC Track": "Gallyard",
         "ATC Artists": [
             "Hesperon XX"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Terry Gilliam: The 'Imaginarium' That Almost Wasn't",
@@ -82,18 +114,41 @@
         "ATC Track": "Time/Breathe",
         "ATC Artists": [
             "The Flaming Lips"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SONATA IN G MINOR: PRESTO",
         "ATC Artists": [
             "NIGEL NORTH"
-        ]
+        ],
+        "Result Track Name": "Oboe Sonata In G Minor RV 58: IV. Allegro, ma non presto",
+        "Result Artist Names": [
+            "Antonio Vivaldi",
+            "Paul Goodwin",
+            "John Toll",
+            "Nigel North",
+            "Nicolas Chédeville",
+            "Susan Sheppard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Gjzp0aiegJQbc3SFNYbKq",
+        "Result Album Name": "Vivaldi & Telemann: Oboe Sonatas"
     },
     {
         "ATC Track": "SUITE IN C MAJOR",
         "ATC Artists": [
             "EUGEN M. DOMBOIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

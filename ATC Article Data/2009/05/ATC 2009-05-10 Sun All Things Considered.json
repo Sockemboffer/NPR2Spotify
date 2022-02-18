@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-05-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:05:02"
+        "Scanned Date": "2022-02-07 01:05:02",
+        "Playlist URI": "0DmQfxROfTuApcWfFGLNNM",
+        "Playlist Link": "https://open.spotify.com/playlist/0DmQfxROfTuApcWfFGLNNM",
+        "Snapshot ID": "MSxjODM3NGVhM2E5ZDI4ZDhmN2M2M2Q3ZjI5Y2E1N2MzYzVhZjE2YTQ4",
+        "Playlist Name": "ATC 2009-05-10 Sun All Things Considered"
     },
     {
         "Title": "In U.S., A Change In Tone On Israel",
@@ -28,13 +32,29 @@
         "ATC Track": "Never Young Again",
         "ATC Artists": [
             "Mirwais"
-        ]
+        ],
+        "Result Track Name": "Never Young Again",
+        "Result Artist Names": [
+            "Mirwais"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7garKzy8yLf3nICe6UdmTj",
+        "Result Album Name": "Production (Deluxe Version)"
     },
     {
         "ATC Track": "Around the World",
         "ATC Artists": [
             "Daft Punk"
-        ]
+        ],
+        "Result Track Name": "Around the World",
+        "Result Artist Names": [
+            "Daft Punk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1pKYYY0dkg23sQQXi0Q5zN",
+        "Result Album Name": "Homework"
     },
     {
         "Title": "Hundreds Dead, Injured In Sri Lanka Fighting",
@@ -64,13 +84,26 @@
         "ATC Track": "Blind [Deaf Dub/Blind Mix]",
         "ATC Artists": [
             "Talking Heads"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Believe In Me",
         "ATC Artists": [
             "I Am the World Trade Center"
-        ]
+        ],
+        "Result Track Name": "Believe In Me",
+        "Result Artist Names": [
+            "I Am The World Trade Center"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:046fka3sklxT9ZaDSAoUZ8",
+        "Result Album Name": "The Tight Connection"
     },
     {
         "Title": "Lady Sovereign: The 'Biggest Midget' Returns",
@@ -82,7 +115,12 @@
         "ATC Track": "I Got You Dancing...",
         "ATC Artists": [
             "Lady Sovereign"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Saudi Arabia, A Dilemma Over Lingerie Stores",
@@ -106,12 +144,25 @@
         "ATC Track": "Under Influence",
         "ATC Artists": [
             "Loop Guru"
-        ]
+        ],
+        "Result Track Name": "Under Influence",
+        "Result Artist Names": [
+            "Loop Guru"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6u5te9h3BbsJyJSA24hJDe",
+        "Result Album Name": "Duniya"
     },
     {
         "ATC Track": "My Oracle Lives Uptown",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

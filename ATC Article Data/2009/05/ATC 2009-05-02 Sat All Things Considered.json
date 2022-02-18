@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-05-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:04:25"
+        "Scanned Date": "2022-02-07 01:04:25",
+        "Playlist URI": "5hp4PfApuoE16epfQBaUsD",
+        "Playlist Link": "https://open.spotify.com/playlist/5hp4PfApuoE16epfQBaUsD",
+        "Snapshot ID": "MSxiYWNjMDhlOTJlMTVlYjIzZTFhYjNkZmNiYzYwMmE4Yjc0YTYwMjRj",
+        "Playlist Name": "ATC 2009-05-02 Sat All Things Considered"
     },
     {
         "Title": "Chrysler Expected To File Plan To Sell Assets",
@@ -28,13 +32,29 @@
         "ATC Track": "Dove",
         "ATC Artists": [
             "Cymande"
-        ]
+        ],
+        "Result Track Name": "Dove",
+        "Result Artist Names": [
+            "Cymande"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dckUAPaw3WF2ZyhEACQDK",
+        "Result Album Name": "Cymande"
     },
     {
         "ATC Track": "Fug",
         "ATC Artists": [
             "Cymande"
-        ]
+        ],
+        "Result Track Name": "FUG",
+        "Result Artist Names": [
+            "Cymande"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yZy3H2E4V4q1KDtJ8tEFk",
+        "Result Album Name": "Second Time Round"
     },
     {
         "Title": "Al Jazeera Joins Cable Lineup In D.C.",
@@ -70,7 +90,15 @@
         "ATC Track": "Oh Girl",
         "ATC Artists": [
             "Raphael Saadiq"
-        ]
+        ],
+        "Result Track Name": "Oh Girl",
+        "Result Artist Names": [
+            "Raphael Saadiq"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7wAJQqYDr0sBuh99uLxC03",
+        "Result Album Name": "The Way I See It"
     },
     {
         "Title": "Bulls, Celtics Wrap Up Series",
@@ -100,18 +128,42 @@
         "ATC Track": "Dinah",
         "ATC Artists": [
             "Thelonious Monk"
-        ]
+        ],
+        "Result Track Name": "Dinah (Take 2)",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1XS5vGKquDNjxU6gLQcKd2",
+        "Result Album Name": "Solo Monk"
     },
     {
         "ATC Track": "West End Blues",
         "ATC Artists": [
             "Allen Toussaint"
-        ]
+        ],
+        "Result Track Name": "West End Blues",
+        "Result Artist Names": [
+            "Allen Toussaint"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gFiMwIvb6yAprrbi3AMoM",
+        "Result Album Name": "The Bright Mississippi"
     },
     {
         "ATC Track": "St. James Infirmary",
         "ATC Artists": [
             "Allen Toussaint"
-        ]
+        ],
+        "Result Track Name": "St. James Infirmary",
+        "Result Artist Names": [
+            "Allen Toussaint"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FKasUNG1KT4r9TR9rKdll",
+        "Result Album Name": "The Bright Mississippi"
     }
 ]

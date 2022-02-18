@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-01-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:13:55"
+        "Scanned Date": "2022-02-07 01:13:55",
+        "Playlist URI": "0dKRTT2hYXClSnFW9UUrad",
+        "Playlist Link": "https://open.spotify.com/playlist/0dKRTT2hYXClSnFW9UUrad",
+        "Snapshot ID": "MSxhNmY3MDZmOTkyNDI3OTFlYTVlNzIyNWZiMTQyNDA5N2NlNDA3YmE0",
+        "Playlist Name": "ATC 2009-01-25 Sun All Things Considered"
     },
     {
         "Title": "$825 Billion Stimulus Package Faces Obstacles",
@@ -28,14 +32,27 @@
         "ATC Track": "Verona",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Verona",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27vkVDIo8Nfh7zfigxaua5",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "ATC Track": "Space Base",
         "ATC Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Anger, Dismay As Pope Reinstates Holocaust Denier",
@@ -59,13 +76,29 @@
         "ATC Track": "Breathing Soul",
         "ATC Artists": [
             "Gustavo Santaolalla"
-        ]
+        ],
+        "Result Track Name": "Breathing Soul",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ruowNxMS3wA06zVKsVK0G",
+        "Result Album Name": "Babel - Music From And Inspired By The Motion Picture"
     },
     {
         "ATC Track": "Movin' at Midnight",
         "ATC Artists": [
             "Sir Julian"
-        ]
+        ],
+        "Result Track Name": "Movin' At Midnight - Remastered",
+        "Result Artist Names": [
+            "Sir Julian Gould"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:083EYcR3C2Nkrxea9dcbbk",
+        "Result Album Name": "Ultra-Lounge: Organs In Orbit"
     },
     {
         "Title": "Thailand Cracks Down On Political Dissent",
@@ -96,18 +129,42 @@
         "ATC Artists": [
             "Ashley MacIsaac",
             "Quartetto Gelato"
-        ]
+        ],
+        "Result Track Name": "MacDougall's Pride",
+        "Result Artist Names": [
+            "Ashley MacIsaac"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1GiyNTqJebvJT6aiLxHNUA",
+        "Result Album Name": "The Best Of Ashley MacIsaac"
     },
     {
         "ATC Track": "BIG GUITAR",
         "ATC Artists": [
             "JOHN BARRY"
-        ]
+        ],
+        "Result Track Name": "Big Guitar - Remastered",
+        "Result Artist Names": [
+            "John Barry Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aFKbF5k77tIDUlTH4Bd2r",
+        "Result Album Name": "Anthology: The Deluxe Collection (Remastered)"
     },
     {
         "ATC Track": "Huffin' the Muggles",
         "ATC Artists": [
             "Carl Henry Brueggen"
-        ]
+        ],
+        "Result Track Name": "Huffin' the Muggles",
+        "Result Artist Names": [
+            "Carl Henry Brueggen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IHzPUtUKl6SU9mAI4FT71",
+        "Result Album Name": "Let's Talk About Hi-Fi"
     }
 ]

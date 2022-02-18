@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-04-26",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:08:08"
+        "Scanned Date": "2022-02-07 01:08:08",
+        "Playlist URI": "1LzI3WxUEP5csUz7rZz1oM",
+        "Playlist Link": "https://open.spotify.com/playlist/1LzI3WxUEP5csUz7rZz1oM",
+        "Snapshot ID": "MSxjNGFmY2RiOWQ5NTEyZGJjYWY3NGQ3N2U1MjRhY2IwN2Q4MzA5ZDAw",
+        "Playlist Name": "ATC 2009-04-26 Sun All Things Considered"
     },
     {
         "Title": "Swine Flu Spreads To Canada, 5 U.S. States",
@@ -28,13 +32,29 @@
         "ATC Track": "Timorme",
         "ATC Artists": [
             "Parlour"
-        ]
+        ],
+        "Result Track Name": "Timorme - Remastered",
+        "Result Artist Names": [
+            "Parlour"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uQ0ob7S6WQMP5gTvePuhD",
+        "Result Album Name": "Hives Fives (Anniversary Edition)"
     },
     {
         "ATC Track": "Magnified Features",
         "ATC Artists": [
             "HiM"
-        ]
+        ],
+        "Result Track Name": "Magnified Features",
+        "Result Artist Names": [
+            "HiM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hWmzMLbBnl4b4zvk5cP1G",
+        "Result Album Name": "New Features"
     },
     {
         "Title": "Congress Tackles Credit Card Debt",
@@ -58,13 +78,29 @@
         "ATC Track": "Wildside",
         "ATC Artists": [
             "Rob Wasserman"
-        ]
+        ],
+        "Result Track Name": "Wildside",
+        "Result Artist Names": [
+            "Rob Wasserman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:313bv3EQinnoiw2d3WOYnt",
+        "Result Album Name": "Space Island"
     },
     {
         "ATC Track": "Protest",
         "ATC Artists": [
             "Chicago Underground Trio"
-        ]
+        ],
+        "Result Track Name": "Protest",
+        "Result Artist Names": [
+            "Chicago Underground Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WU6Tnyyt0yBKoYu5xAfZh",
+        "Result Album Name": "Slon"
     },
     {
         "Title": "'Digital Barbarism' Wages Online Copyright Battle",
@@ -94,18 +130,40 @@
         "ATC Track": "Ideal Woman",
         "ATC Artists": [
             "William Shatner"
-        ]
+        ],
+        "Result Track Name": "Ideal Woman",
+        "Result Artist Names": [
+            "William Shatner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6z1SGxric10C0ejI50JXgc",
+        "Result Album Name": "William Shatner Has Been"
     },
     {
         "ATC Track": "Cherokee",
         "ATC Artists": [
             "Lionel Hampton"
-        ]
+        ],
+        "Result Track Name": "Cherokee",
+        "Result Artist Names": [
+            "Lionel Hampton",
+            "Stan Getz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4EQa7541M0xMhiuMa843t6",
+        "Result Album Name": "Hamp & Getz"
     },
     {
         "ATC Track": "Merpati",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-10-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:56:28"
+        "Scanned Date": "2022-02-07 00:56:28",
+        "Playlist URI": "77Eq8pYTDhARohyraMpOY7",
+        "Playlist Link": "https://open.spotify.com/playlist/77Eq8pYTDhARohyraMpOY7",
+        "Snapshot ID": "MSwzYzM3Yjk4ZTA2OGI1OTM0M2U4YmQ2NmY1MGMxMTdiYjBhYzU2MDYz",
+        "Playlist Name": "ATC 2009-10-25 Sun All Things Considered"
     },
     {
         "Title": "Vatican's Overture To Anglicans Rankles, Delights",
@@ -16,7 +20,12 @@
         "ATC Track": "Lullaby for Alexander [Instrumental]",
         "ATC Artists": [
             "Beat Circus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A 'Collision' Of Beliefs: Atheist Vs. Theologian",
@@ -34,13 +43,29 @@
         "ATC Track": "Feeling Gravitys Pull",
         "ATC Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "Feeling Gravitys Pull - Remastered",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xRU6juKQQHGPYEANoKEk4",
+        "Result Album Name": "Fables Of The Reconstruction (Deluxe Edition)"
     },
     {
         "ATC Track": "Nightswimming",
         "ATC Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "Nightswimming",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6G0NzOx2jEPFsSmhr9N8Ys",
+        "Result Album Name": "Automatic For The People"
     },
     {
         "Title": "Sports-Tacular Sunday",
@@ -58,18 +83,36 @@
         "ATC Track": "I've Been High",
         "ATC Artists": [
             "Rem Dog"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Airportman",
         "ATC Artists": [
             "R.E.M."
-        ]
+        ],
+        "Result Track Name": "Airportman",
+        "Result Artist Names": [
+            "R.E.M."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5faNaJWkP4cvGVrBoy6L59",
+        "Result Album Name": "Up"
     },
     {
         "ATC Track": "1418",
         "ATC Artists": [
             "Ulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

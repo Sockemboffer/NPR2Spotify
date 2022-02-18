@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-01-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:13:28"
+        "Scanned Date": "2022-02-07 01:13:28",
+        "Playlist URI": "5JqpqtyTyLRcGqvNtBZMwV",
+        "Playlist Link": "https://open.spotify.com/playlist/5JqpqtyTyLRcGqvNtBZMwV",
+        "Snapshot ID": "MSxiMmExNzhmOGNkNjQ2MDgxODk0OTY3NTc5Y2IzNDEzMjg1NTI1OWY1",
+        "Playlist Name": "ATC 2009-01-18 Sun All Things Considered"
     },
     {
         "Title": "Relative Calm In Gaza As Cease-Fire Observed",
@@ -34,13 +38,26 @@
         "ATC Track": "C Jam Blues",
         "ATC Artists": [
             "Bill Ware"
-        ]
+        ],
+        "Result Track Name": "C Jam Blues",
+        "Result Artist Names": [
+            "Bill Ware"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YHN2DjU0PbJuma09CuVJV",
+        "Result Album Name": "SIR DUKE"
     },
     {
         "ATC Track": "Namasté",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Oath Of Office: To Swear Or To Affirm",
@@ -70,7 +87,15 @@
         "ATC Track": "SUGAR FREE",
         "ATC Artists": [
             "HANK CRAWFORD"
-        ]
+        ],
+        "Result Track Name": "Sugar Free",
+        "Result Artist Names": [
+            "Hank Crawford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DbICca8KtsVXkuEKF2Wrt",
+        "Result Album Name": "I Hear a Symphony"
     },
     {
         "Title": "D.C. Transportation Tested By Swarm Of Tourists",
@@ -106,18 +131,42 @@
         "ATC Track": "Caravan",
         "ATC Artists": [
             "Bill Ware"
-        ]
+        ],
+        "Result Track Name": "Caravan",
+        "Result Artist Names": [
+            "Bill Ware"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yn2CDYLCUWlziRnavVqbO",
+        "Result Album Name": "SIR DUKE"
     },
     {
         "ATC Track": "Night Crawler",
         "ATC Artists": [
             "Destruments"
-        ]
+        ],
+        "Result Track Name": "Night Crawler",
+        "Result Artist Names": [
+            "Destruments"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1MwEXdtsevS5Kx4tbk17ZQ",
+        "Result Album Name": "Destruments"
     },
     {
         "ATC Track": "Smash Up",
         "ATC Artists": [
             "Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Smash Up",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vwhTQkRV6K96sGv7hKgEo",
+        "Result Album Name": "Destination...Get Down!"
     }
 ]

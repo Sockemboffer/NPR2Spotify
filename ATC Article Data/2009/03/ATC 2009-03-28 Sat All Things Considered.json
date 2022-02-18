@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-03-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:10:22"
+        "Scanned Date": "2022-02-07 01:10:22",
+        "Playlist URI": "08JhQRVNS6dBt6zvJVyMyL",
+        "Playlist Link": "https://open.spotify.com/playlist/08JhQRVNS6dBt6zvJVyMyL",
+        "Snapshot ID": "MSwwZTlmZmIwZDJkNTc0OWNiNjUwNDgwNjVhODlhYjUwMzZmMGI3MjVj",
+        "Playlist Name": "ATC 2009-03-28 Sat All Things Considered"
     },
     {
         "Title": "Flood Watch On Along Red River",
@@ -28,7 +32,12 @@
         "ATC Track": "For Those Left Behind",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Three Mile Island Disaster, Revisited",
@@ -40,7 +49,15 @@
         "ATC Track": "A Go Go",
         "ATC Artists": [
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "A Go Go",
+        "Result Artist Names": [
+            "John Scofield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bcyZfaAWCN5SwJgYToxkN",
+        "Result Album Name": "A Go Go"
     },
     {
         "Title": "'Hella Nation' Collects Wright's Tales",
@@ -64,13 +81,29 @@
         "ATC Track": "I Am Not Your Gameboy",
         "ATC Artists": [
             "Freezepop"
-        ]
+        ],
+        "Result Track Name": "i am not your gameboy",
+        "Result Artist Names": [
+            "Freezepop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kc7EyC5pdCvTHHi58otkZ",
+        "Result Album Name": "Fancy Ultra-Fresh"
     },
     {
         "ATC Track": "Close Up and Personal",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "Close Up and Personal",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vpxp9XnVlNO8E1z7xCcZa",
+        "Result Album Name": "OH (ohio)"
     },
     {
         "Title": "Stimulus Money To Launch Texas Health Clinic",
@@ -102,18 +135,42 @@
             "Tracy Chapman",
             "Chapman",
             "Tracy"
-        ]
+        ],
+        "Result Track Name": "Sing for You",
+        "Result Artist Names": [
+            "Tracy Chapman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UPPGj0cv42vHTZAUdOxBx",
+        "Result Album Name": "Our Bright Future"
     },
     {
         "ATC Track": "Pound Cake",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": "Pound Cake",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5V39sp30BWDe6wxpXKxXBw",
+        "Result Album Name": "Interstate"
     },
     {
         "ATC Track": "Lively Chase",
         "ATC Artists": [
             "Portastatic"
-        ]
+        ],
+        "Result Track Name": "Lively Chase",
+        "Result Artist Names": [
+            "Portastatic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WyslmgoqBAtlCy8iWd5PL",
+        "Result Album Name": "Who Loves the Sun"
     }
 ]

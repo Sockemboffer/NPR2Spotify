@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-08-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:59:56"
+        "Scanned Date": "2022-02-07 00:59:56",
+        "Playlist URI": "7wVS6Tr7LXLPXs6IqfmhgD",
+        "Playlist Link": "https://open.spotify.com/playlist/7wVS6Tr7LXLPXs6IqfmhgD",
+        "Snapshot ID": "MSw0ZTUyYjFjN2RkNmMyMDY0NTE1OGQ5OGM0ZDFiYmJiNjZlYWFmNDg3",
+        "Playlist Name": "ATC 2009-08-23 Sun All Things Considered"
     },
     {
         "Title": "Final 'Clunkers' Rush As Program Nears End",
@@ -22,13 +26,26 @@
         "ATC Track": "Golden Country",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rear Moth",
         "ATC Artists": [
             "Psapp"
-        ]
+        ],
+        "Result Track Name": "Rear Moth",
+        "Result Artist Names": [
+            "Psapp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5hYWJBqhrmUiG1A6Orag5Q",
+        "Result Album Name": "Tiger, My Friend"
     },
     {
         "Title": "Colleges Prepare For Swine Flu",
@@ -58,13 +75,29 @@
         "ATC Track": "I Gotta Feeling [Album Version]",
         "ATC Artists": [
             "Black Eyed Peas"
-        ]
+        ],
+        "Result Track Name": "I Gotta Feeling",
+        "Result Artist Names": [
+            "Black Eyed Peas"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72np30cEzvqzxAUG5mrhyT",
+        "Result Album Name": "The Beginning & The Best Of The E.N.D."
     },
     {
         "ATC Track": "Agrippa",
         "ATC Artists": [
             "Divination"
-        ]
+        ],
+        "Result Track Name": "Agrippa",
+        "Result Artist Names": [
+            "Divination"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wIofntT0Si0eQ1jHpMci6",
+        "Result Album Name": "High Priests Of Electronic Dub"
     },
     {
         "Title": "My Lai Soldier: Apology Could Answer Survivors",
@@ -88,7 +121,15 @@
         "ATC Track": "Why R U",
         "ATC Artists": [
             "Amerie"
-        ]
+        ],
+        "Result Track Name": "Why R U",
+        "Result Artist Names": [
+            "Amerie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1olxjwdkmrujTZEIf9wYG6",
+        "Result Album Name": "In Love & War"
     },
     {
         "ATC Track": "Samba 1000 [Nicola Conte Mix]",
@@ -96,12 +137,22 @@
             "Ursula 1000",
             "De Dominicis",
             "Barbara"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Do You Dream of Me [Kraak & Smaak Remix]",
         "ATC Artists": [
             "Ikon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

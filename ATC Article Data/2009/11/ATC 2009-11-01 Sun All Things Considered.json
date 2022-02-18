@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-11-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:53:00"
+        "Scanned Date": "2022-02-07 00:53:00",
+        "Playlist URI": "0c0gfcs7BRFOkiI6xu7YB3",
+        "Playlist Link": "https://open.spotify.com/playlist/0c0gfcs7BRFOkiI6xu7YB3",
+        "Snapshot ID": "MSxlNTFlZGVlOTgwMDQ4YjQ0YmY0YWIzYmQxOWIwOWQ0NTA0MTNjYWVk",
+        "Playlist Name": "ATC 2009-11-01 Sun All Things Considered"
     },
     {
         "Title": "40 Years Later, Looking Back At The Internet's Birth",
@@ -16,13 +20,26 @@
         "ATC Track": "A Transa",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Division!",
         "ATC Artists": [
             "Digital Poodle"
-        ]
+        ],
+        "Result Track Name": "Division!",
+        "Result Artist Names": [
+            "Digital Poodle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gPLolxegBZjhnUj1sZAcx",
+        "Result Album Name": "Division!"
     },
     {
         "Title": "Obama's Support From Pa. Independents Erodes",
@@ -46,13 +63,29 @@
         "ATC Track": "Four Blue Poles",
         "ATC Artists": [
             "Clogs"
-        ]
+        ],
+        "Result Track Name": "Four Blue Poles",
+        "Result Artist Names": [
+            "Clogs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yPvHz123zi10lj4unBlNX",
+        "Result Album Name": "Thom's Night Out"
     },
     {
         "ATC Track": "Thin Air",
         "ATC Artists": [
             "Don Ross"
-        ]
+        ],
+        "Result Track Name": "Thin Air",
+        "Result Artist Names": [
+            "Don Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Puuv2P2T5XKFnJpRLPly5",
+        "Result Album Name": "Huron Street"
     },
     {
         "Title": "For Foer, Meat Is Murder ... And Worse",
@@ -83,18 +116,36 @@
         "ATC Artists": [
             "Omara Portuondo",
             "Pablo Milanés et. al."
-        ]
+        ],
+        "Result Track Name": "Ámame Como Soy",
+        "Result Artist Names": [
+            "Pablo Milanés"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6vOCmV4I5h8wuFUccmcc14",
+        "Result Album Name": "Antología Personal"
     },
     {
         "ATC Track": "To Wisdom the Prize",
         "ATC Artists": [
             "Afrobop Alliance"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Peruchin",
         "ATC Artists": [
             "Afrobop Alliance"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

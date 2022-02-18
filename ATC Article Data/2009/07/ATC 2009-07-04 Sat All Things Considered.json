@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-07-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:00:44"
+        "Scanned Date": "2022-02-07 01:00:44",
+        "Playlist URI": "32PIIzTyrbumNREtUAo3Iy",
+        "Playlist Link": "https://open.spotify.com/playlist/32PIIzTyrbumNREtUAo3Iy",
+        "Snapshot ID": "MSwzOTJlYjQ4MWQyM2YwZDE3NWI1MzY4ZjkwZDIyNjZkZWU5YWQzN2E3",
+        "Playlist Name": "ATC 2009-07-04 Sat All Things Considered"
     },
     {
         "Title": "July Fourth Festivities Around The U.S.",
@@ -23,7 +27,15 @@
         "ATC Artists": [
             "Charlie Haden",
             "Brian Blade et. al."
-        ]
+        ],
+        "Result Track Name": "America The Beautiful",
+        "Result Artist Names": [
+            "Charlie Haden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1pYTqeurylYLLpluH0AnNZ",
+        "Result Album Name": "Not In Our Name"
     },
     {
         "Title": "Honduras' Coup Prompts Meeting Of OAS",
@@ -37,13 +49,29 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "BP - Instrumental",
+        "Result Artist Names": [
+            "Joshua Bell",
+            "Edgar Meyer",
+            "Sam Bush",
+            "Mike Marshall"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.9411764705882353,
+        "Result Track URI": "spotify:track:6IXZHznIXsYm8mj8G0hHTU",
+        "Result Album Name": "Can't You Hear Me Callin' - Bluegrass: 80 Years Of American Music"
     },
     {
         "ATC Track": "\"Times Square: 1944\" from on the Town",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wimbledon: Serena Wins; Roddick, Federer On Deck",
@@ -73,13 +101,26 @@
         "ATC Track": "Struttin' With Some Barbecue",
         "ATC Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "Struttin' With Some Barbecue",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FFngk7s8FmSyIamI5wAXt",
+        "Result Album Name": "New Orleans Nights"
     },
     {
         "ATC Track": "Mississippi Suite: Mardi Gras",
         "ATC Artists": [
             "Boston Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "America's Revolutionary 'Peasant Prince'",
@@ -97,18 +138,41 @@
         "ATC Track": "The Freedom Suite",
         "ATC Artists": [
             "Sonny Rollins"
-        ]
+        ],
+        "Result Track Name": "The Freedom Suite",
+        "Result Artist Names": [
+            "Sonny Rollins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4L056SN3ZVI28xHCWuuxCj",
+        "Result Album Name": "Freedom Suite"
     },
     {
         "ATC Track": "The Cascades, rag for piano",
         "ATC Artists": [
             "Calico Winds"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "THE STARS AND STRIPES FOREVER",
         "ATC Artists": [
             "JOHN WILLIAMS AND THE BOSTON POPS"
-        ]
+        ],
+        "Result Track Name": "Stars And Stripes Forever - Instrumental",
+        "Result Artist Names": [
+            "John Philip Sousa",
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6153846153846154,
+        "Result Track URI": "spotify:track:41S4nyv50lR3K499F2YFL3",
+        "Result Album Name": "I Love A Parade"
     }
 ]

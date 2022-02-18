@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-11-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:54:25"
+        "Scanned Date": "2022-02-07 00:54:25",
+        "Playlist URI": "2EcTrK7dxOAhlHFckeZkW5",
+        "Playlist Link": "https://open.spotify.com/playlist/2EcTrK7dxOAhlHFckeZkW5",
+        "Snapshot ID": "MSxkZDUzYWM3MTFiN2JjMzZlMmQxYjljZWE4MDc0NzhlMzNhZjBmMjkz",
+        "Playlist Name": "ATC 2009-11-21 Sat All Things Considered"
     },
     {
         "Title": "'Public Option' Remains Possible Snag As Vote Looms",
@@ -28,13 +32,29 @@
         "ATC Track": "Meine Marke",
         "ATC Artists": [
             "Couch"
-        ]
+        ],
+        "Result Track Name": "Meine Marke",
+        "Result Artist Names": [
+            "Couch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30zgKxiKtcmzhFUIMDcza9",
+        "Result Album Name": "Profane"
     },
     {
         "ATC Track": "Le Triangle",
         "ATC Artists": [
             "<"
-        ]
+        ],
+        "Result Track Name": "Le Triangle des Bermudes",
+        "Result Artist Names": [
+            "Chapelier Fou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zoIht6lXOGPthKSOosTWQ",
+        "Result Album Name": "Méridiens"
     },
     {
         "Title": "Fallows On The News: Health Care, China, Palin",
@@ -64,20 +84,44 @@
         "ATC Track": "Ballad of Butter Beans",
         "ATC Artists": [
             "Man Man"
-        ]
+        ],
+        "Result Track Name": "The Ballad Of Butter Beans",
+        "Result Artist Names": [
+            "Man Man"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GoXnVv2COxorf3XNW8Lbt",
+        "Result Album Name": "Rabbit Habits"
     },
     {
         "ATC Track": "I Know You Got Soul",
         "ATC Artists": [
             "Eric B.",
             "Rakim"
-        ]
+        ],
+        "Result Track Name": "I Know You Got Soul",
+        "Result Artist Names": [
+            "Eric B. & Rakim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5D2lp16FQ0VIfLGRDn5jcG",
+        "Result Album Name": "Paid In Full"
     },
     {
         "ATC Track": "Philo",
         "ATC Artists": [
             "Viktor Krauss"
-        ]
+        ],
+        "Result Track Name": "Philo",
+        "Result Artist Names": [
+            "Viktor Krauss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mwJuzhkmqCkRcovmY8Vs9",
+        "Result Album Name": "Far from Enough"
     },
     {
         "Title": "'Emancipation,' A Story Of European Jews' Liberation",
@@ -89,7 +133,12 @@
         "ATC Track": "ELECTRONIC ATC THEME - STRAIGHT BUTTON (1976)",
         "ATC Artists": [
             "DON VOEGELI"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rakim: The MC Reveals His 'Seventh Seal'",
@@ -101,18 +150,36 @@
         "ATC Track": "Holy Are U",
         "ATC Artists": [
             "Rakim"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Electric Door Bell Machine",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Money Is",
         "ATC Artists": [
             "Corduroy"
-        ]
+        ],
+        "Result Track Name": "Money Is",
+        "Result Artist Names": [
+            "Corduroy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48oap1clZKP9lzv128gWZI",
+        "Result Album Name": "Dad Man Cat"
     }
 ]

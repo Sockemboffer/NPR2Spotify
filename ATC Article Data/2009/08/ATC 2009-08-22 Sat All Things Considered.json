@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-08-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:59:53"
+        "Scanned Date": "2022-02-07 00:59:53",
+        "Playlist URI": "1HsUTTDjin8KbVBSdVj31p",
+        "Playlist Link": "https://open.spotify.com/playlist/1HsUTTDjin8KbVBSdVj31p",
+        "Snapshot ID": "MSwzZmNmNjE1MDI1ZjExY2Q0Y2Y2MGI0YmFjNjRjMTRiZWU3ZjZkNWY0",
+        "Playlist Name": "ATC 2009-08-22 Sat All Things Considered"
     },
     {
         "Title": "Stories Of Voter Intimidation Mount In Afghanistan",
@@ -22,14 +26,27 @@
         "ATC Track": "Peter Miller's Discovery",
         "ATC Artists": [
             "Bil Frisell"
-        ]
+        ],
+        "Result Track Name": "Peter Miller's Discovery",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:32fD7ioh4049xeen865Q7D",
+        "Result Album Name": "Disfarmer (Standard)"
     },
     {
         "ATC Track": "EMD",
         "ATC Artists": [
             "Jim Hoke",
             "Van Manakas et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sam's Targets Latino Market With 'Mas Club'",
@@ -47,7 +64,15 @@
         "ATC Track": "Untitled",
         "ATC Artists": [
             "Simon Jeffes"
-        ]
+        ],
+        "Result Track Name": "Untitled",
+        "Result Artist Names": [
+            "Simon Jeffes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12Te4vyDBRC1FB5A8oBvE6",
+        "Result Album Name": "Piano Music"
     },
     {
         "Title": "400 Years After Galileo, Astronomy's New Golden Age",
@@ -59,13 +84,29 @@
         "ATC Track": "Taqsim Lami",
         "ATC Artists": [
             "Salaam"
-        ]
+        ],
+        "Result Track Name": "Taqsim Lami",
+        "Result Artist Names": [
+            "Salaam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fZHejcEFMMA0V7fAEQC1r",
+        "Result Album Name": "Salaam"
     },
     {
         "ATC Track": "Day Without Glasses",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "A Day Without Glasses",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7La744gKkNV6EvKU6Olj6H",
+        "Result Album Name": "Damaged"
     },
     {
         "Title": "Searching For Christian Imagery In 'Harry Potter'",
@@ -89,18 +130,42 @@
         "ATC Track": "21st Century Gypsy",
         "ATC Artists": [
             "Salaam"
-        ]
+        ],
+        "Result Track Name": "21st Century Gypsy",
+        "Result Artist Names": [
+            "Salaam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ks0IBmiCIHv8nyh3aVW76",
+        "Result Album Name": "Salaam"
     },
     {
         "ATC Track": "Quattro (World Drifts In)",
         "ATC Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Quattro - World Drifts in",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1J4a2ANjzhpXxSOHREnIQQ",
+        "Result Album Name": "Feast of Wire"
     },
     {
         "ATC Track": "Corazon Negro",
         "ATC Artists": [
             "The Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "El Corazon Negro",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.8888888888888888,
+        "Result Track URI": "spotify:track:0Aqpa7Qe1mlgmkvvpXExam",
+        "Result Album Name": "Remember the Feeling"
     }
 ]

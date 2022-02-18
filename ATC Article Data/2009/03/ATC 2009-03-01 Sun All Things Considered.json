@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-03-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:08:32"
+        "Scanned Date": "2022-02-07 01:08:32",
+        "Playlist URI": "0R5ZbBL9vRgtWBrEUjxsg5",
+        "Playlist Link": "https://open.spotify.com/playlist/0R5ZbBL9vRgtWBrEUjxsg5",
+        "Snapshot ID": "MSwwYTIyYWNkYjhlYmU3ZWI3ZDMxYzlhN2Y1NjMyMjQzZTMyMTkzZmEy",
+        "Playlist Name": "ATC 2009-03-01 Sun All Things Considered"
     },
     {
         "Title": "Obama's Budget Stirs Partisan Debate",
@@ -29,13 +33,30 @@
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Desert Dance",
+        "Result Artist Names": [
+            "Al Petteway and Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73noXVygAoYgdxIieAxV28",
+        "Result Album Name": "Racing Hearts"
     },
     {
         "ATC Track": "Please Send Me Someone to Love",
         "ATC Artists": [
             "Reuben Wilson"
-        ]
+        ],
+        "Result Track Name": "Please Send Me Someone To Love",
+        "Result Artist Names": [
+            "Reuben Wilson",
+            "Bernard Pretty Purdie & Grant Green Jr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dhNXo8cgB2rah72Vo99Q0",
+        "Result Album Name": "Organ Blues"
     },
     {
         "Title": "Undergraduate Economics Sees Popularity Surge",
@@ -65,13 +86,26 @@
         "ATC Track": "I Like Juice in a Shark Suit",
         "ATC Artists": [
             "Dianogah"
-        ]
+        ],
+        "Result Track Name": "I Like Juice in a Shark Suit",
+        "Result Artist Names": [
+            "Dianogah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zB1oRHCJSFj1DlcgfTIia",
+        "Result Album Name": "Qhnnnl"
     },
     {
         "ATC Track": "Stink",
         "ATC Artists": [
             "John Lurie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Midst Of Poverty, A Bash For Zimbabwe's Mugabe",
@@ -95,7 +129,15 @@
         "ATC Track": "lady gazelle",
         "ATC Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "Title": "Parting Words: Paul Harvey",
@@ -107,12 +149,28 @@
         "ATC Track": "The Millionaire's Holiday",
         "ATC Artists": [
             "Combustible Edison"
-        ]
+        ],
+        "Result Track Name": "The Millionaire's Holiday",
+        "Result Artist Names": [
+            "Combustible Edison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vZyjvSw0ME5YtTNjtDN94",
+        "Result Album Name": "I, Swinger"
     },
     {
         "ATC Track": "Cried, Cried [Chorou, Chorou]",
         "ATC Artists": [
             "Walter Wanderley"
-        ]
+        ],
+        "Result Track Name": "Cried, Cried (Choru, Choru)",
+        "Result Artist Names": [
+            "Walter Wanderley"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xcTfceAagGX6LzaKMAji9",
+        "Result Album Name": "Rain Forest"
     }
 ]

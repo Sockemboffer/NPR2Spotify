@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-12-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:52:19"
+        "Scanned Date": "2022-02-07 00:52:19",
+        "Playlist URI": "0etAIMaRijC7fg1P03kPJ6",
+        "Playlist Link": "https://open.spotify.com/playlist/0etAIMaRijC7fg1P03kPJ6",
+        "Snapshot ID": "MSxlNzQ3MjFiYjAyZjA4YjFmM2Y0MmZmZGYyYmI2YjFjZjk3ODM5NzU3",
+        "Playlist Name": "ATC 2009-12-20 Sun All Things Considered"
     },
     {
         "Title": "Snow Cuts Into 'Super Saturday' Sales",
@@ -28,13 +32,23 @@
         "ATC Track": "Arrumacao",
         "ATC Artists": [
             "Uakti"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pois Que Dos Reys (No. 2 [II] from Las Cantigas de Santa Maria)",
         "ATC Artists": [
             "The New Orleans Musica Da Camera"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Senate Heading For Late-Night Health Care Vote",
@@ -58,7 +72,15 @@
         "ATC Track": "MY CUP RUNNETH OVER",
         "ATC Artists": [
             "PAUL CHASMAN"
-        ]
+        ],
+        "Result Track Name": "My Cannabis Cup Runneth Over",
+        "Result Artist Names": [
+            "Paul Krassner"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4GaJtpxrfIfY5ZYWEpWDe3",
+        "Result Album Name": "Irony Lives!"
     },
     {
         "Title": "Awful And Astounding Movie Accents Of The Decade",
@@ -70,7 +92,12 @@
         "ATC Track": "Es ist ein Ros entsprungen (Lo, How A Rose E'er Blooming) (Alte geistliche Kirchengesäng 1599)",
         "ATC Artists": [
             "Giovanni De Chiaro"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Overlooked Music In 2009",
@@ -100,12 +127,28 @@
         "ATC Track": "Thanksgiving Theme",
         "ATC Artists": [
             "Vince Guaraldi Trio"
-        ]
+        ],
+        "Result Track Name": "Thanksgiving Theme",
+        "Result Artist Names": [
+            "Vince Guaraldi Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wygvWnq8gpWnMMNUfuEih",
+        "Result Album Name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]"
     },
     {
         "ATC Track": "Joy to the World",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Joy To The World (Jeramiah Was A Bullfrog)",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UlLMPkj02nYIqvwmmQZwH",
+        "Result Album Name": "Over the Hill 50"
     }
 ]

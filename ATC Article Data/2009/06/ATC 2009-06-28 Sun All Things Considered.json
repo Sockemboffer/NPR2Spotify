@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-06-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:04:08"
+        "Scanned Date": "2022-02-07 01:04:08",
+        "Playlist URI": "3mOI6NABRBN6L9ljpBnON5",
+        "Playlist Link": "https://open.spotify.com/playlist/3mOI6NABRBN6L9ljpBnON5",
+        "Snapshot ID": "MSw2NDliYTczYTY3ODU1MzExZmQ3NzU4ZThkYjJhODhkODYxNTY5YWI2",
+        "Playlist Name": "ATC 2009-06-28 Sun All Things Considered"
     },
     {
         "Title": "40 Years Later, Stonewall Riots Remembered",
@@ -28,13 +32,26 @@
         "ATC Track": "Casesar Boots",
         "ATC Artists": [
             "Wisdom of Harry"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Cavern",
         "ATC Artists": [
             "Liquid Liquid"
-        ]
+        ],
+        "Result Track Name": "Cavern",
+        "Result Artist Names": [
+            "Liquid Liquid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3vS2tjkjD5GSt1ZHOWkQq8",
+        "Result Album Name": "Slip In And Out Of Phenomenon"
     },
     {
         "Title": "Honduran Military Ousts President",
@@ -58,7 +75,15 @@
         "ATC Track": "Night White",
         "ATC Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Night White",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zRc259pg9Ia2MQI8pMDQE",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "Title": "As Supreme Court Break Nears, Big Cases Remain",
@@ -76,13 +101,29 @@
         "ATC Track": "Bled",
         "ATC Artists": [
             "James Blackshaw"
-        ]
+        ],
+        "Result Track Name": "Bled",
+        "Result Artist Names": [
+            "James Blackshaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4i6qSYqXsnYvisnnMNZElz",
+        "Result Album Name": "The Glass Bead Game"
     },
     {
         "ATC Track": "Symphony 6 Fair Thee Well & the Requiem Mix",
         "ATC Artists": [
             "Emily Wells"
-        ]
+        ],
+        "Result Track Name": "Symphony 6: Fair Thee Well & The Requiem Mix",
+        "Result Artist Names": [
+            "Emily Wells"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NlJE67xM1ORsWKhNLSehG",
+        "Result Album Name": "The Symphonies: Dreams Memories & Parties"
     },
     {
         "Title": "Britain, Greece Quarrel Over Ancient Relics",
@@ -112,19 +153,43 @@
         "ATC Track": "Meine Marke",
         "ATC Artists": [
             "Couch"
-        ]
+        ],
+        "Result Track Name": "Meine Marke",
+        "Result Artist Names": [
+            "Couch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30zgKxiKtcmzhFUIMDcza9",
+        "Result Album Name": "Profane"
     },
     {
         "ATC Track": "Variation on 'Commemorative Transfiguration & Communion at ...",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "Variation On 'Commemorative Transfiguration & Communion At Magruder Park'",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:60BvBiuP29m7XuSFrPCIDz",
+        "Result Album Name": "I Am The Resurrection: A Tribute To John Fahey"
     },
     {
         "ATC Track": "Dedication to the Saz",
         "ATC Artists": [
             "Jeff Aug",
             "Aug"
-        ]
+        ],
+        "Result Track Name": "Dedication To The Saz",
+        "Result Artist Names": [
+            "Jeff Aug"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FORpvKYHHrRgiTZMZMVLc",
+        "Result Album Name": "Before then After"
     }
 ]

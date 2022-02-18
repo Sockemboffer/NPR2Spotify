@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-12-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:52:43"
+        "Scanned Date": "2022-02-07 00:52:43",
+        "Playlist URI": "6ZztDfNxbIfYIZmSxqnXrd",
+        "Playlist Link": "https://open.spotify.com/playlist/6ZztDfNxbIfYIZmSxqnXrd",
+        "Snapshot ID": "MSw5NzI1N2M4YjY1YWVkNmEyNzM4ZTg3OTI4MGRmOWZkNzA3ZGQwMGRj",
+        "Playlist Name": "ATC 2009-12-27 Sun All Things Considered"
     },
     {
         "Title": "Hundreds Arrested In Violent Iranian Protests",
@@ -28,13 +32,26 @@
         "ATC Track": "At It Again",
         "ATC Artists": [
             "Cut-Out"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Diablo Rojo",
         "ATC Artists": [
             "Rodrigo y Gabriela"
-        ]
+        ],
+        "Result Track Name": "Diablo Rojo",
+        "Result Artist Names": [
+            "Rodrigo y Gabriela"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uYoY8xfnbpgTVKDLolwxP",
+        "Result Album Name": "Rodrigo y Gabriela"
     },
     {
         "Title": "U.S. Prepares For 2010 Census",
@@ -46,7 +63,15 @@
         "ATC Track": "Slow Drive",
         "ATC Artists": [
             "Todd Syring"
-        ]
+        ],
+        "Result Track Name": "Slow Drive",
+        "Result Artist Names": [
+            "Todd Syring"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:48mn97ZysBEpg4DCd9h2uX",
+        "Result Album Name": "Prairie Dog"
     },
     {
         "Title": "Yellowstone Supervolcano Bigger Than Once Thought",
@@ -71,13 +96,26 @@
         "ATC Artists": [
             "Schola Cantorum de Caracas",
             "Maria Guinand (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Matadjem Yinmixan",
         "ATC Artists": [
             "Tinariwen"
-        ]
+        ],
+        "Result Track Name": "Matadjem Yinmixan",
+        "Result Artist Names": [
+            "Tinariwen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fzVWq9kHQPTDuloCgOwqA",
+        "Result Album Name": "Aman Iman: Water Is Life"
     },
     {
         "Title": "Movies That Should Die With The Decade",
@@ -96,18 +134,39 @@
         "ATC Artists": [
             "Simón Bolívar Symphony Orchestra of Venezuela",
             "Gustavo Dudamel (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Nawa",
         "ATC Artists": [
             "Orchestre Baka Gbine"
-        ]
+        ],
+        "Result Track Name": "Nawa",
+        "Result Artist Names": [
+            "Orchestre Baka Gbiné"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4H5PuOe1V4N8w8aEDq4rsd",
+        "Result Album Name": "Gati Bongo"
     },
     {
         "ATC Track": "Bogota by Bus",
         "ATC Artists": [
             "Jesse Cook"
-        ]
+        ],
+        "Result Track Name": "Bogota By Bus",
+        "Result Artist Names": [
+            "Jesse Cook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pvZkphWuu9QL4hMHurMdF",
+        "Result Album Name": "The Rumba Foundation"
     }
 ]

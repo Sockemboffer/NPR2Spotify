@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-03-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:09:02"
+        "Scanned Date": "2022-02-07 01:09:02",
+        "Playlist URI": "10gj3xODLEVZM9id4WWZKG",
+        "Playlist Link": "https://open.spotify.com/playlist/10gj3xODLEVZM9id4WWZKG",
+        "Snapshot ID": "MSwwODdlNTU5N2M4YmI2NjcwMjdiNGI5OTEyZjNlYTE2MWI5MWUyZWJi",
+        "Playlist Name": "ATC 2009-03-08 Sun All Things Considered"
     },
     {
         "Title": "Ex-Prisoner Sues California Over Years In Solitary",
@@ -22,7 +26,15 @@
         "ATC Track": "Rings",
         "ATC Artists": [
             "Nomo"
-        ]
+        ],
+        "Result Track Name": "Rings",
+        "Result Artist Names": [
+            "Nomo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3d0NIJ8vx7Wq9qthlGYi0p",
+        "Result Album Name": "Ghost Rock"
     },
     {
         "Title": "Suicide Bombing Kills Dozens In Baghdad",
@@ -52,13 +64,30 @@
         "ATC Track": "Smoke",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Smoke",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50ADEhyLIKY2Of8kLlCUtG",
+        "Result Album Name": "elm street"
     },
     {
         "ATC Track": "Camper Giorno",
         "ATC Artists": [
             "Chris Speed's yeah NO"
-        ]
+        ],
+        "Result Track Name": "Camper Giorno",
+        "Result Artist Names": [
+            "Chris Speed",
+            "Yeah No"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8888888888888888,
+        "Result Track URI": "spotify:track:7wyUuuCebk1mPnHpJtR2Xn",
+        "Result Album Name": "Swell Henry"
     },
     {
         "Title": "Grunge Pioneer Chris Cornell Tries Neo Soul",
@@ -88,18 +117,42 @@
         "ATC Track": "Silky Delta",
         "ATC Artists": [
             "Euphoria"
-        ]
+        ],
+        "Result Track Name": "Silky Delta",
+        "Result Artist Names": [
+            "Euphoria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FQogcVjUkxwkjIHvAAJtK",
+        "Result Album Name": "Beautiful My Child"
     },
     {
         "ATC Track": "Howling for Judy",
         "ATC Artists": [
             "Jeremy Steig"
-        ]
+        ],
+        "Result Track Name": "Howlin' For Judy",
+        "Result Artist Names": [
+            "Jeremy Steig"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72RLba4dZZmjCUtxjj8mFP",
+        "Result Album Name": "Howlin' For Judy"
     },
     {
         "ATC Track": "Might as Well Whistle",
         "ATC Artists": [
             "Ant Neely"
-        ]
+        ],
+        "Result Track Name": "Might As Well Whistle",
+        "Result Artist Names": [
+            "Ant Neely"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Y9nhrlo0P2LPMqpwihwQJ",
+        "Result Album Name": "Not Fit For Human Consumption"
     }
 ]

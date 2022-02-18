@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-04-18",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:07:37"
+        "Scanned Date": "2022-02-07 01:07:37",
+        "Playlist URI": "152o3VASBx0Gmw7k9z9prE",
+        "Playlist Link": "https://open.spotify.com/playlist/152o3VASBx0Gmw7k9z9prE",
+        "Snapshot ID": "MSw5ZjEwZTA0MDMxZDM3MTJlZmRlZDRiOWUxNDNkZDY1NDE2OTY3NzA1",
+        "Playlist Name": "ATC 2009-04-18 Sat All Things Considered"
     },
     {
         "Title": "U.S. Journalist Sentenced To Prison In Iran",
@@ -29,14 +33,28 @@
         "ATC Artists": [
             "Ry Cooder",
             "Manuel Galbán"
-        ]
+        ],
+        "Result Track Name": "Bodas de oro",
+        "Result Artist Names": [
+            "Ry Cooder",
+            "Manuel Galbán"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KOhE95xAsioxIVzpGCVgM",
+        "Result Album Name": "Mambo Sinuendo"
     },
     {
         "ATC Track": "No Sleep",
         "ATC Artists": [
             "Mike Elizondo",
             "Jose Antonio Pasillas II et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Embedding Mental Health In The National Guard",
@@ -66,7 +84,15 @@
         "ATC Track": "Tickle It",
         "ATC Artists": [
             "Mocean Worker"
-        ]
+        ],
+        "Result Track Name": "Tickle It",
+        "Result Artist Names": [
+            "Mocean Worker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3uk9N1mP6OkpfQqchV5huf",
+        "Result Album Name": "It's Pronounced Motion..."
     },
     {
         "Title": "'Lemon Tree' Director Wants To Anchor Debate",
@@ -96,19 +122,43 @@
         "ATC Track": "I Just Called to Say I Love You",
         "ATC Artists": [
             "Stevie Wonder"
-        ]
+        ],
+        "Result Track Name": "I Just Called To Say I Love You",
+        "Result Artist Names": [
+            "Stevie Wonder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RNDeRnWsRMjPdNVgupZCs",
+        "Result Album Name": "At The Close Of A Century"
     },
     {
         "ATC Track": "Shout About Pepsi",
         "ATC Artists": [
             "Denny Wright",
             "the Hustlers"
-        ]
+        ],
+        "Result Track Name": "Shout About Pepsi",
+        "Result Artist Names": [
+            "Denny Wright & The Hustlers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GD10OPNV9M8b7TMzKgiYX",
+        "Result Album Name": "Shout About Pepsi"
     },
     {
         "ATC Track": "Church",
         "ATC Artists": [
             "The Detroit Experiment"
-        ]
+        ],
+        "Result Track Name": "Church",
+        "Result Artist Names": [
+            "Detroit Experiment"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:7LQjPXLUKbkcrdTtMOMIRR",
+        "Result Album Name": "The Detroit Experiment"
     }
 ]

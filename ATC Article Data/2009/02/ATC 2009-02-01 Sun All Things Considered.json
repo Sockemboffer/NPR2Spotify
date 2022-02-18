@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-02-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:10:37"
+        "Scanned Date": "2022-02-07 01:10:37",
+        "Playlist URI": "0s3lC1YodqhGFXIc1BkaFY",
+        "Playlist Link": "https://open.spotify.com/playlist/0s3lC1YodqhGFXIc1BkaFY",
+        "Snapshot ID": "MSwzYWVlMDQyNTQ3ZTRiMmVhMmIzMzU5N2FiMDUwOTIxYzhhY2M4Njky",
+        "Playlist Name": "ATC 2009-02-01 Sun All Things Considered"
     },
     {
         "Title": "Drama Surrounds Cabinet Picks Daschle, Gregg",
@@ -28,13 +32,29 @@
         "ATC Track": "Sparkle City",
         "ATC Artists": [
             "Shuggie Otis"
-        ]
+        ],
+        "Result Track Name": "Sparkle City",
+        "Result Artist Names": [
+            "Shuggie Otis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:773cKhIOH225LoFoOzr5HO",
+        "Result Album Name": "Inspiration Information/ Wings Of Love"
     },
     {
         "ATC Track": "Junkie Chase [Instrumental]",
         "ATC Artists": [
             "Curtis Mayfield"
-        ]
+        ],
+        "Result Track Name": "Junkie Chase - Instrumental",
+        "Result Artist Names": [
+            "Curtis Mayfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7s3WcewjV74UJCyyBz3bR1",
+        "Result Album Name": "Superfly (O.S.T.)"
     },
     {
         "Title": "Florida Education Cuts: Three Perspectives",
@@ -58,7 +78,15 @@
         "ATC Track": "Cold Brains",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Cold Brains",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NBsbkyRIhya0fnRm9U18z",
+        "Result Album Name": "Mutations"
     },
     {
         "Title": "British Woman Tries To Sail Into History Books",
@@ -70,7 +98,12 @@
         "ATC Track": "Frontiers",
         "ATC Artists": [
             "Excerto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Author Recounts His 'Journey With Leprosy'",
@@ -82,7 +115,15 @@
         "ATC Track": "Are You Thirsty (Land of Plenty)",
         "ATC Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Are You Thirsty (Land of Plenty)",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pCkcuoiUGvtQIAlaVVGuE",
+        "Result Album Name": "Nightbird"
     },
     {
         "Title": "Ulysses S. Grant Heads To Dixie",
@@ -106,18 +147,42 @@
         "ATC Track": "Hot Chicken",
         "ATC Artists": [
             "Manu Dibango"
-        ]
+        ],
+        "Result Track Name": "Hot Chicken",
+        "Result Artist Names": [
+            "Manu Dibango"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4k01r3CsuWbjrWbmKTSwsv",
+        "Result Album Name": "Best Of"
     },
     {
         "ATC Track": "Magnificent Seven [Edit]",
         "ATC Artists": [
             "The Clash"
-        ]
+        ],
+        "Result Track Name": "The Magnificent Seven - Remastered",
+        "Result Artist Names": [
+            "The Clash"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1W8Jl9KaSSt23ihF1Mej17",
+        "Result Album Name": "Hits Back"
     },
     {
         "ATC Track": "Be (Intro)",
         "ATC Artists": [
             "Common"
-        ]
+        ],
+        "Result Track Name": "Be (Intro)",
+        "Result Artist Names": [
+            "Common"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11aFVmFy8903RwDx4ohQiq",
+        "Result Album Name": "Be"
     }
 ]

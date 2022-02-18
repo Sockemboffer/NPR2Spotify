@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-09-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:58:28"
+        "Scanned Date": "2022-02-07 00:58:28",
+        "Playlist URI": "7CSGA2Ho1JVvH1gISaktbg",
+        "Playlist Link": "https://open.spotify.com/playlist/7CSGA2Ho1JVvH1gISaktbg",
+        "Snapshot ID": "MSwyZDIyNDdiYzZhNjU0YjU0MmJkNmY4YTdmZjAzZmZlNzU2NTA1YjQ0",
+        "Playlist Name": "ATC 2009-09-27 Sun All Things Considered"
     },
     {
         "Title": "'Young Invincibles' Have Stake In Health Debate",
@@ -22,14 +26,31 @@
         "ATC Track": "Thule",
         "ATC Artists": [
             "The Album Leaf"
-        ]
+        ],
+        "Result Track Name": "Thule",
+        "Result Artist Names": [
+            "The Album Leaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eZMM8RoxKw7DqI17v0D6P",
+        "Result Album Name": "In a Safe Place"
     },
     {
         "ATC Track": "Piya Tu AB to Aaja [From Caravans]",
         "ATC Artists": [
             "Asha Bhosle",
             "R.D. Burman et. al."
-        ]
+        ],
+        "Result Track Name": "Piya Tu Ab To Aaja (From \"Caravan\")",
+        "Result Artist Names": [
+            "Asha Bhosle",
+            "R. D. Burman"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7l84ITKK71ZjjrwLkFj401",
+        "Result Album Name": "Singing Icon - Asha Bhosle"
     },
     {
         "Title": "Black President Stands Out At Mostly White College",
@@ -47,7 +68,12 @@
         "ATC Track": "Brand New Life [From Who's the Boss?]",
         "ATC Artists": [
             "Larry Weiss"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Spider Wranglers Weave One-Of-A-Kind Tapestry",
@@ -59,13 +85,26 @@
         "ATC Track": "Old Car [*][Instrumental]",
         "ATC Artists": [
             "Tom Verlaine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Trip Indiano",
         "ATC Artists": [
             "Digital Bled"
-        ]
+        ],
+        "Result Track Name": "Trip Indiano",
+        "Result Artist Names": [
+            "Digital Bled"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3WeI2YTj3xKLBWVIrCuSYL",
+        "Result Album Name": "Tantra Lounge"
     },
     {
         "Title": "Fanfarlo: Music For Book Lovers",
@@ -89,7 +128,15 @@
         "ATC Track": "Bhangra Fever",
         "ATC Artists": [
             "MIDIval PunditZ"
-        ]
+        ],
+        "Result Track Name": "Bhangra Fever",
+        "Result Artist Names": [
+            "Midival Punditz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3izsU40lQvO0pvDjNjhrAz",
+        "Result Album Name": "MIDIval PunditZ"
     },
     {
         "ATC Track": "Bollywood",
@@ -97,6 +144,14 @@
             "Shawn Lee Ping Pong Orchestra",
             "Lee",
             "Shawn Ping Pong Orchestra"
-        ]
+        ],
+        "Result Track Name": "Bollywood",
+        "Result Artist Names": [
+            "Shawn Lee's Ping Pong Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ehua1s2F6sAARrtGLJhHw",
+        "Result Album Name": "Music and Rhythm"
     }
 ]

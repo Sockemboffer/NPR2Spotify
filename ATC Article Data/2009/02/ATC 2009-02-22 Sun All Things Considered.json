@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-02-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:12:01"
+        "Scanned Date": "2022-02-07 01:12:01",
+        "Playlist URI": "3zqa2WpbZKtfHB4epb61YB",
+        "Playlist Link": "https://open.spotify.com/playlist/3zqa2WpbZKtfHB4epb61YB",
+        "Snapshot ID": "MSw4MTEyNzA3NTZlMzNkYTBkNjM1M2VjMDcxMjE2MzdkMjBiMzgzYmY2",
+        "Playlist Name": "ATC 2009-02-22 Sun All Things Considered"
     },
     {
         "Title": "Obama To Submit 'Sober' Budget To Congress",
@@ -22,13 +26,29 @@
         "ATC Track": "Land of...",
         "ATC Artists": [
             "St. Germain"
-        ]
+        ],
+        "Result Track Name": "Land Of...",
+        "Result Artist Names": [
+            "St Germain"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HVcJTb111CdGVwJWPyZcn",
+        "Result Album Name": "Tourist (Remastered)"
     },
     {
         "ATC Track": "BLUE GUITAR",
         "ATC Artists": [
             "EARL HOOKER"
-        ]
+        ],
+        "Result Track Name": "Blue Guitar",
+        "Result Artist Names": [
+            "Earl Hooker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4W5I9ht9ZzD2uvCTMIuhVG",
+        "Result Album Name": "Blue Guitar"
     },
     {
         "Title": "Translating Foreclosure Plan Into Real-Life Aid",
@@ -40,7 +60,15 @@
         "ATC Track": "Should I Stay or Should I Go",
         "ATC Artists": [
             "The Clash"
-        ]
+        ],
+        "Result Track Name": "Should I Stay or Should I Go - Remastered",
+        "Result Artist Names": [
+            "The Clash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39shmbIHICJ2Wxnk1fPSdz",
+        "Result Album Name": "Combat Rock (Remastered)"
     },
     {
         "Title": "Scientists Close To Universal Vaccine For Flu",
@@ -58,7 +86,12 @@
         "ATC Track": "Sellin' D.O.P.E.",
         "ATC Artists": [
             "Dead Prez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "73-Year Old College Basketball Player Benched",
@@ -70,7 +103,15 @@
         "ATC Track": "May-December",
         "ATC Artists": [
             "Mos Def"
-        ]
+        ],
+        "Result Track Name": "May-December",
+        "Result Artist Names": [
+            "Mos Def"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1O5pf5R8xvppS2pD03HVy5",
+        "Result Album Name": "Black On Both Sides"
     },
     {
         "Title": "Yves Saint Laurent Art Collection To Be Auctioned",
@@ -82,7 +123,15 @@
         "ATC Track": "Bye, Bye, Baby",
         "ATC Artists": [
             "Marilyn Monroe"
-        ]
+        ],
+        "Result Track Name": "Bye Bye Baby - From \"Gentlemen Prefer Blondes\"",
+        "Result Artist Names": [
+            "Marilyn Monroe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74h10Q8Li0MYS8orUtOal5",
+        "Result Album Name": "Diamonds Are a Girl's Best Friend"
     },
     {
         "Title": "A Sampling Of Oscar Hopefuls",
@@ -112,18 +161,43 @@
         "ATC Track": "Jeun Ko Ku (Chop'n Quench)",
         "ATC Artists": [
             "Fela Kuti"
-        ]
+        ],
+        "Result Track Name": "Jeun Ko Ku (Chop 'n Quench)",
+        "Result Artist Names": [
+            "Fela Kuti & Nigeria 70"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Fb7zyupNmHWuHor11fov1",
+        "Result Album Name": "Afrodisiac"
     },
     {
         "ATC Track": "Inchana Massina",
         "ATC Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Inchana Massina (feat. Nitin Sawhney) - 2017 Remastered Version",
+        "Result Artist Names": [
+            "Ali Farka Touré",
+            "Nitin Sawhney"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3wvU3SK6KD2m4y5eOEAGjR",
+        "Result Album Name": "The Source (2017 Remastered Version)"
     },
     {
         "ATC Track": "Soul Island",
         "ATC Artists": [
             "The Meters"
-        ]
+        ],
+        "Result Track Name": "Soul Island - 1997 Remaster",
+        "Result Artist Names": [
+            "The Meters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DVbX7PhTGnGQDRhzWhCvK",
+        "Result Album Name": "The Essentials: The Meters"
     }
 ]

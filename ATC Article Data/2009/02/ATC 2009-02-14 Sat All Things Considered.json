@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-02-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:11:32"
+        "Scanned Date": "2022-02-07 01:11:32",
+        "Playlist URI": "5wXuZaT852rqFeCkhz3yIZ",
+        "Playlist Link": "https://open.spotify.com/playlist/5wXuZaT852rqFeCkhz3yIZ",
+        "Snapshot ID": "MSw5MWY0ODI0NjBlMTZlOWY5ZjViMmFiZmQwNjlhMGU0MGMxZjRhODk5",
+        "Playlist Name": "ATC 2009-02-14 Sat All Things Considered"
     },
     {
         "Title": "White House Tries To Sell Bank Bailout",
@@ -28,7 +32,12 @@
         "ATC Track": "In-studio improvisation",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Americans': The Book That Changed Photography",
@@ -52,13 +61,26 @@
         "ATC Track": "Variation d'Apollon",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "Variation d’Apollon",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xxsj5DGpSyqpe4IwaAHkP",
+        "Result Album Name": "For All I Care"
     },
     {
         "ATC Track": "In-studio improvisation",
         "ATC Artists": [
             "Patricia Barber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Oscars: Keeping Things Short ... And Sweet",
@@ -88,7 +110,15 @@
         "ATC Track": "lady gazelle",
         "ATC Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "Title": "Parting Words: Love Is The Magician",
@@ -100,12 +130,22 @@
         "ATC Track": "In-studio improvisation",
         "ATC Artists": [
             "Patricia Barber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "In-studio improvisation",
         "ATC Artists": [
             "Patricia Barber"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

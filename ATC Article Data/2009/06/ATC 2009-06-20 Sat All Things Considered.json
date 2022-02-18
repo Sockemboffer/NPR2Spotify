@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-06-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:03:38"
+        "Scanned Date": "2022-02-07 01:03:38",
+        "Playlist URI": "06rV0kSPQDvscdS5wWrUXq",
+        "Playlist Link": "https://open.spotify.com/playlist/06rV0kSPQDvscdS5wWrUXq",
+        "Snapshot ID": "MSw3YWJmMDU1NWExYjgzYzQxNDRkYzg2MTY2NDJkYjc3MWFmNzNlMmVi",
+        "Playlist Name": "ATC 2009-06-20 Sat All Things Considered"
     },
     {
         "Title": "Iran Protests Escalate; Obama Issues Statement",
@@ -28,13 +32,26 @@
         "ATC Track": "GUITARRESQUE",
         "ATC Artists": [
             "GREG HOWARD"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rain Shadows",
         "ATC Artists": [
             "Glenn Phillips"
-        ]
+        ],
+        "Result Track Name": "Rain Shadows",
+        "Result Artist Names": [
+            "Glenn Phillips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vyuyxjORmCjEbyapj8dUX",
+        "Result Album Name": "Walking Through Walls"
     },
     {
         "Title": "Using Weather Satellites To Predict Epidemics?",
@@ -64,7 +81,15 @@
         "ATC Track": "Highway Hymn Blues",
         "ATC Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "Highway Hymn Blues",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TgIWvNYttX3aItvXeMXHP",
+        "Result Album Name": "Ballads and Blues 1972 (Special Edition)"
     },
     {
         "Title": "Collector Pays $74,000 For Einstein's Mug",
@@ -76,7 +101,15 @@
         "ATC Track": "40'",
         "ATC Artists": [
             "Franz Ferdinand"
-        ]
+        ],
+        "Result Track Name": "40'",
+        "Result Artist Names": [
+            "Franz Ferdinand"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Am4yxuwBTorY6kaqX31zE",
+        "Result Album Name": "Franz Ferdinand"
     },
     {
         "Title": "Three-Minute Fiction: Send Us Your Stories",
@@ -89,7 +122,12 @@
         "ATC Artists": [
             "Wycliffe Gordon",
             "Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Khan, 87, Brought Indian Classical Music To U.S.",
@@ -107,18 +145,39 @@
         "ATC Track": "MMM...",
         "ATC Artists": [
             "Laura Izibor"
-        ]
+        ],
+        "Result Track Name": "Mmm...",
+        "Result Artist Names": [
+            "Laura Izibor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GqSIHouNCZDfNaaG415X7",
+        "Result Album Name": "Let The Truth Be Told"
     },
     {
         "ATC Track": "Charade",
         "ATC Artists": [
             "Oranj Symphonette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blues de la Frontera",
         "ATC Artists": [
             "Pata Negra"
-        ]
+        ],
+        "Result Track Name": "Blues de la Frontera - Remasterizada",
+        "Result Artist Names": [
+            "Pata Negra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lfA4E1Z7uNIyN2Fr2k1qi",
+        "Result Album Name": "Blues de la Frontera (Remasterizada)"
     }
 ]

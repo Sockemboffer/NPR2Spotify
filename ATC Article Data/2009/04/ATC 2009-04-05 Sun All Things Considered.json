@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-04-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:06:41"
+        "Scanned Date": "2022-02-07 01:06:41",
+        "Playlist URI": "4zPLoptr47Nizx3vumb3GV",
+        "Playlist Link": "https://open.spotify.com/playlist/4zPLoptr47Nizx3vumb3GV",
+        "Snapshot ID": "MSwwMGY4MWMwNTQzOWUzODkzYzdhZjhlM2JhNGYzNmJhMDE3MzRjY2Rl",
+        "Playlist Name": "ATC 2009-04-05 Sun All Things Considered"
     },
     {
         "Title": "U.N. Meets On N. Korea; Obama In Turkey",
@@ -29,14 +33,27 @@
         "ATC Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Green Onions",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1BQNiRgXlk8SB7d0Ox8ZoE",
+        "Result Album Name": "Throwback 60s"
     },
     {
         "ATC Track": "The Diagram",
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Guy Who Helped Blow Up Wall Street",
@@ -66,13 +83,29 @@
         "ATC Track": "Polly",
         "ATC Artists": [
             "Nirvana"
-        ]
+        ],
+        "Result Track Name": "Polly",
+        "Result Artist Names": [
+            "Nirvana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tlXDvaNrrOmdvG0XVUOcv",
+        "Result Album Name": "Nevermind (Remastered)"
     },
     {
         "ATC Track": "40'",
         "ATC Artists": [
             "Franz Ferdinand"
-        ]
+        ],
+        "Result Track Name": "40'",
+        "Result Artist Names": [
+            "Franz Ferdinand"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Am4yxuwBTorY6kaqX31zE",
+        "Result Album Name": "Franz Ferdinand"
     },
     {
         "Title": "Making Manic Dance Music, With Lasting Effects",
@@ -102,18 +135,42 @@
         "ATC Track": "Tower of Song",
         "ATC Artists": [
             "Leonard Cohen"
-        ]
+        ],
+        "Result Track Name": "Tower of Song",
+        "Result Artist Names": [
+            "Leonard Cohen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OpDM7JORZzXPo0YIN3vYq",
+        "Result Album Name": "I'm Your Man"
     },
     {
         "ATC Track": "Purple Haze",
         "ATC Artists": [
             "The Jimi Hendrix Experience"
-        ]
+        ],
+        "Result Track Name": "Purple Haze",
+        "Result Artist Names": [
+            "Jimi Hendrix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4BYGxv4rxSNcTgT3DsFB9o",
+        "Result Album Name": "Experience Hendrix: The Best Of Jimi Hendrix"
     },
     {
         "ATC Track": "End",
         "ATC Artists": [
             "The Doors"
-        ]
+        ],
+        "Result Track Name": "The End",
+        "Result Artist Names": [
+            "The Doors"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UgT7w6zVZjP3oyawMzbiK",
+        "Result Album Name": "The Doors"
     }
 ]

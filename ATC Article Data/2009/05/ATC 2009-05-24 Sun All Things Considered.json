@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-05-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:05:56"
+        "Scanned Date": "2022-02-07 01:05:56",
+        "Playlist URI": "0wTJ8ACInOlayZhdVq9tia",
+        "Playlist Link": "https://open.spotify.com/playlist/0wTJ8ACInOlayZhdVq9tia",
+        "Snapshot ID": "MSw1Yjk4NGZlNTViOGU1YzMxNjNmM2YyOTNlY2JjZWE5YzIzMzBkNTNl",
+        "Playlist Name": "ATC 2009-05-24 Sun All Things Considered"
     },
     {
         "Title": "Forgotten Mourners: Siblings Cope With Loss",
@@ -16,7 +20,15 @@
         "ATC Track": "Retrograde",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Retrograde",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ik8OGV3gJevOEuosczrL7",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "Title": "College Rolls Out Red Carpet For Veterans",
@@ -28,13 +40,26 @@
         "ATC Track": "Seems Like Most Everything Used to Be Something Else",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Seems Like Most Everything Used To Be Something Else",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2s1mn70Cml7BaGVVNrqGiV",
+        "Result Album Name": "Things Shaped In Passing"
     },
     {
         "ATC Track": "Vibyl",
         "ATC Artists": [
             "Sound Tribe Sector 9"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cash-Strapped Immigrants Rely On Family Abroad",
@@ -58,13 +83,29 @@
         "ATC Track": "Black Rainbow",
         "ATC Artists": [
             "St. Vincent"
-        ]
+        ],
+        "Result Track Name": "Black Rainbow",
+        "Result Artist Names": [
+            "St. Vincent"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mpGyjCjjXRSF7nO1HQMQc",
+        "Result Album Name": "Actor"
     },
     {
         "ATC Track": "Strange Constellations",
         "ATC Artists": [
             "Bombay Dub Orchestra"
-        ]
+        ],
+        "Result Track Name": "Strange Constellations",
+        "Result Artist Names": [
+            "Bombay Dub Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pdfCkCQsxrJru6cMdvD6w",
+        "Result Album Name": "3 Cities"
     },
     {
         "Title": "A Frank Lloyd Wright Masterwork, In Legos",
@@ -88,7 +129,15 @@
         "ATC Track": "Bourée in G",
         "ATC Artists": [
             "Harvey Reid"
-        ]
+        ],
+        "Result Track Name": "Bouree In G",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mFVJJMo6TshOHxceGrUdJ",
+        "Result Album Name": "The Autoharp Album"
     },
     {
         "Title": "Parting Words",
@@ -100,12 +149,28 @@
         "ATC Track": "Curb",
         "ATC Artists": [
             "RH+"
-        ]
+        ],
+        "Result Track Name": "Curb",
+        "Result Artist Names": [
+            "RH+"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05MYrHxqxkWh1L3gCtA8iO",
+        "Result Album Name": "Electroclash 2000s"
     },
     {
         "ATC Track": "School 4 Robots",
         "ATC Artists": [
             "Brother Cleeve"
-        ]
+        ],
+        "Result Track Name": "School 4 Robots",
+        "Result Artist Names": [
+            "Brother Cleue"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1vXdCIcsuMmhlberElZMZO",
+        "Result Album Name": "Dimension Mix"
     }
 ]

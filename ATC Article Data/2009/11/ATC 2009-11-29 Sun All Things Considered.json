@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-11-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:54:55"
+        "Scanned Date": "2022-02-07 00:54:55",
+        "Playlist URI": "3Pxn6wOfNyzJDFNwE1SB7l",
+        "Playlist Link": "https://open.spotify.com/playlist/3Pxn6wOfNyzJDFNwE1SB7l",
+        "Snapshot ID": "MSw2YWM5Njg5NDFhMjk3MGNlYzQxOGI3ODlmZDhhOTUwMDJmNzZmYjE3",
+        "Playlist Name": "ATC 2009-11-29 Sun All Things Considered"
     },
     {
         "Title": "As Obama Mulls Afghan Decision, A Look Ahead",
@@ -28,13 +32,27 @@
         "ATC Track": "Terra Nova: Sinfonia Antarctica",
         "ATC Artists": [
             "DJ Spooky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sweet Mercy",
         "ATC Artists": [
             "Erik Truffaz"
-        ]
+        ],
+        "Result Track Name": "Sweet Mercy (feat. Nya)",
+        "Result Artist Names": [
+            "Erik Truffaz",
+            "Nya"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jeJOh3tXq3ANc7Wjl8jEe",
+        "Result Album Name": "Bending New Corners"
     },
     {
         "Title": "Wash. Officials Search For Suspect In Police Shootings",
@@ -58,7 +76,12 @@
         "ATC Track": "Terra Nova: Sinfonia Antarctica",
         "ATC Artists": [
             "DJ Spooky"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Transsexual 'L.A. Times' Sportswriter Dead",
@@ -70,7 +93,15 @@
         "ATC Track": "It Wasn't God Who Made Honky Tonk Angels",
         "ATC Artists": [
             "Kitty Wells"
-        ]
+        ],
+        "Result Track Name": "It Wasn’t God Who Made Honky Tonk Angels",
+        "Result Artist Names": [
+            "Kitty Wells"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2i5jLPvxe5BTJunHQGQMwq",
+        "Result Album Name": "Country Legends - Kitty Wells"
     },
     {
         "Title": "Big-Screen Memories Of A New York Adventure",
@@ -88,18 +119,42 @@
         "ATC Track": "Mona Ray",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Mona Ray",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4N6oEOKxjU5JLSTo7qzZfe",
+        "Result Album Name": "Instrumentals: Best Of The Capitol Years"
     },
     {
         "ATC Track": "paris en colere",
         "ATC Artists": [
             "claude bolling big band"
-        ]
+        ],
+        "Result Track Name": "Paris en colère",
+        "Result Artist Names": [
+            "Claude Bolling"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6lwqDB1f5WhvGqkB83cKpO",
+        "Result Album Name": "The Victory Concert, Echoes of 1944-1945 (Recorded in 1994)"
     },
     {
         "ATC Track": "I Bid You Goodnight",
         "ATC Artists": [
             "David Byrne"
-        ]
+        ],
+        "Result Track Name": "I Bid You Goodnight",
+        "Result Artist Names": [
+            "David Byrne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0WJZsQqAu7BXJoIIWV1jgL",
+        "Result Album Name": "The Knee Plays"
     }
 ]

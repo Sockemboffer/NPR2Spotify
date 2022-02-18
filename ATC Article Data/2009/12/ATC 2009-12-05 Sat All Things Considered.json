@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-12-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:50:56"
+        "Scanned Date": "2022-02-07 00:50:56",
+        "Playlist URI": "7LrzxzgwEdkDGwu2pa9Wgw",
+        "Playlist Link": "https://open.spotify.com/playlist/7LrzxzgwEdkDGwu2pa9Wgw",
+        "Snapshot ID": "MSw3ODFhNDBiNWMyN2EzMTZkODJkOTdhMDlhMTBmMDkzNzYyZGI2YzIy",
+        "Playlist Name": "ATC 2009-12-05 Sat All Things Considered"
     },
     {
         "Title": "Reporter: Afghan Civilians Skeptical Of U.S. Plan",
@@ -28,13 +32,28 @@
         "ATC Track": "Sound from memorial service",
         "ATC Artists": [
             "none"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Heroes",
         "ATC Artists": [
             "American Composers Orchestra"
-        ]
+        ],
+        "Result Track Name": "Heroes",
+        "Result Artist Names": [
+            "Philip Glass",
+            "American Composers Orchestra",
+            "Dennis Russell Davies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:62WuO4SWQpsrzJm6OGIv2o",
+        "Result Album Name": "Philip Glass: Heroes Symphony"
     },
     {
         "Title": "Fallows On The News: Afghan Plan, Knox, Panda",
@@ -52,7 +71,15 @@
         "ATC Track": "Organism",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "Organism",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6galGfTFHHzsPieYkReYyN",
+        "Result Album Name": "Soul Food Taqueria"
     },
     {
         "Title": "Future Unclear For 'Megatons To Megawatts' Program",
@@ -70,20 +97,44 @@
         "ATC Track": "Anna Kournikova",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Anna Kournikova",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Vr0hX690Db6EeAoGRGeFa",
+        "Result Album Name": "Helium"
     },
     {
         "ATC Track": "Man Like You",
         "ATC Artists": [
             "Patrick Watson",
             "the Wooden Arms"
-        ]
+        ],
+        "Result Track Name": "Man Like You",
+        "Result Artist Names": [
+            "Patrick Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:3KBxdqIInwuU5aIEeLmBPp",
+        "Result Album Name": "Wooden Arms"
     },
     {
         "ATC Track": "The Night",
         "ATC Artists": [
             "Morphine"
-        ]
+        ],
+        "Result Track Name": "The Night",
+        "Result Artist Names": [
+            "Morphine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Xs1lp4eFxixXW9DkBYkdh",
+        "Result Album Name": "The Night"
     },
     {
         "Title": "Years After Death, Obama's Mom Gets Her Wish",
@@ -102,18 +153,39 @@
         "ATC Artists": [
             "Patrick Watson",
             "the Wooden Arms"
-        ]
+        ],
+        "Result Track Name": "Big Bird In A Small Cage",
+        "Result Artist Names": [
+            "Patrick Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:6BTbkK77y1FAKgEyKN4wmU",
+        "Result Album Name": "Wooden Arms"
     },
     {
         "ATC Track": "Firweed",
         "ATC Artists": [
             "Patrick Watson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Cuckoo Clocks, The Call of the Windmill",
         "ATC Artists": [
             "Unwed Sailor"
-        ]
+        ],
+        "Result Track Name": "Cuckoo Clocks. The Call of the Windmill",
+        "Result Artist Names": [
+            "Unwed Sailor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NGAaAGXlGaLaulKOwLQ4I",
+        "Result Album Name": "The Marionette & The Music Box"
     }
 ]

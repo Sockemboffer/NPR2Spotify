@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-02-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:11:05"
+        "Scanned Date": "2022-02-07 01:11:05",
+        "Playlist URI": "4ay5oxgABkSGVOuJlcb9hl",
+        "Playlist Link": "https://open.spotify.com/playlist/4ay5oxgABkSGVOuJlcb9hl",
+        "Snapshot ID": "MSw0ZGVmOTI1ZjIxOGIzZTYwM2RiMWU4YTNlZDMxMGU3NjhjZWU2YTQ3",
+        "Playlist Name": "ATC 2009-02-07 Sat All Things Considered"
     },
     {
         "Title": "Senate Debates Compromise On Stimulus",
@@ -23,13 +27,29 @@
         "ATC Artists": [
             "G. Love",
             "Special Sauce"
-        ]
+        ],
+        "Result Track Name": "Kick Drum",
+        "Result Artist Names": [
+            "G. Love & Special Sauce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5QjHo7CfLK2mi2u5E8wCzw",
+        "Result Album Name": "Philadelphonic"
     },
     {
         "ATC Track": "One Dime Blues",
         "ATC Artists": [
             "Etta Baker"
-        ]
+        ],
+        "Result Track Name": "One Dime Blues",
+        "Result Artist Names": [
+            "Etta Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52Gj8YMcK0SeUodBoSVmZL",
+        "Result Album Name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music"
     },
     {
         "Title": "Report: A-Rod Tested Positive For Steroids",
@@ -61,13 +81,26 @@
             "Burnett Dillon",
             "Hamilton",
             "Malcolm et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Dedication to Pete Johnson",
         "ATC Artists": [
             "Memphis Slim"
-        ]
+        ],
+        "Result Track Name": "Dedication to Pete Johnson",
+        "Result Artist Names": [
+            "Memphis Slim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hYjMW9Xcq15ueqrm8PNfu",
+        "Result Album Name": "Classic Piano Blues from Smithsonian Folkways"
     },
     {
         "Title": "String Of Fires Has Pennsylvania Town On Edge",
@@ -103,12 +136,28 @@
         "ATC Track": "Pinetop's Boogie Woogie",
         "ATC Artists": [
             "Little Brother Montgomery"
-        ]
+        ],
+        "Result Track Name": "Pinetop's Boogie Woogie",
+        "Result Artist Names": [
+            "Little Brother Montgomery"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RlFgL3EtxKWiW0Nju5Nob",
+        "Result Album Name": "Dealing with the Devil's Music - Bluesmen in Britain"
     },
     {
         "ATC Track": "Rockin' My Boogie",
         "ATC Artists": [
             "Big Walter Horton"
-        ]
+        ],
+        "Result Track Name": "Rockin' My Boogie",
+        "Result Artist Names": [
+            "Big Walter Horton's Blues Harp Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06c9G4OIHjUXBJ488tuiHn",
+        "Result Album Name": "Chicago/The Blues/Today!"
     }
 ]

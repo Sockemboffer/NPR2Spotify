@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-10-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:55:37"
+        "Scanned Date": "2022-02-07 00:55:37",
+        "Playlist URI": "5VmadmpYFaXWCDL3aUZ2yy",
+        "Playlist Link": "https://open.spotify.com/playlist/5VmadmpYFaXWCDL3aUZ2yy",
+        "Snapshot ID": "MSxlMmUxOWNkMWNjMDY3M2EwMjU3OTIyYmRkMzZhMGM2Y2I5ZWRjMWE0",
+        "Playlist Name": "ATC 2009-10-11 Sun All Things Considered"
     },
     {
         "Title": "Marchers In Washington Press For Gay Rights",
@@ -28,13 +32,29 @@
         "ATC Track": "Meditation",
         "ATC Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Meditation",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wxPsBdra40O7DrKbw8pbb",
+        "Result Album Name": "Second Sacred Concert"
     },
     {
         "ATC Track": "You Stepped Out of a Dream",
         "ATC Artists": [
             "Max Roach"
-        ]
+        ],
+        "Result Track Name": "You Stepped Out Of A Dream",
+        "Result Artist Names": [
+            "Max Roach"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6OlnYhiYHlP6SdxmueEgQ1",
+        "Result Album Name": "Deeds, Not Words"
     },
     {
         "Title": "Chew On This: A Salumi Revival In San Francisco",
@@ -58,13 +78,29 @@
         "ATC Track": "Some Blue Song",
         "ATC Artists": [
             "Mitchell Froom"
-        ]
+        ],
+        "Result Track Name": "Some Blue Song",
+        "Result Artist Names": [
+            "Mitchell Froom"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mihCWPcojFU8V6eYtVqhw",
+        "Result Album Name": "A Thousand Days"
     },
     {
         "ATC Track": "Block Ice & Propane",
         "ATC Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Block Ice & Propane",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cta7iSOQRWtidQ8THG2fL",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "Title": "Aussie Frogs Try New Pickup Line",
@@ -94,18 +130,36 @@
         "ATC Track": "untitled",
         "ATC Artists": [
             "Emily Howell"
-        ]
+        ],
+        "Result Track Name": "Untitled",
+        "Result Artist Names": [
+            "Emily Montes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:32iWfmMlXdLQZgi24TUpjK",
+        "Result Album Name": "Emily Montes"
     },
     {
         "ATC Track": "ELECTRONIC ATC THEME - OPEN (1974)",
         "ATC Artists": [
             "DON VOEGELI"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Black Hole Sun",
         "ATC Artists": [
             "The Moog Cookbook"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

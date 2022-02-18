@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-05-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:04:45"
+        "Scanned Date": "2022-02-07 01:04:45",
+        "Playlist URI": "4Q0yWtlHbkArcAx1aCPOXe",
+        "Playlist Link": "https://open.spotify.com/playlist/4Q0yWtlHbkArcAx1aCPOXe",
+        "Snapshot ID": "MSxhYzk1YTU5M2RjNmEwYzE2MzU1MDMyNjI4OTM5ZWJiOGQ0ZjJmNGM0",
+        "Playlist Name": "ATC 2009-05-09 Sat All Things Considered"
     },
     {
         "Title": "Economic Wrap-Up",
@@ -28,13 +32,29 @@
         "ATC Track": "More Milk",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "More Milk - Bonus Track",
+        "Result Artist Names": [
+            "Penguin Cafe"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1PiATVLV9fXQA7DEScQxri",
+        "Result Album Name": "Handfuls of Night (Explored)"
     },
     {
         "ATC Track": "Kickin' Samba",
         "ATC Artists": [
             "Soulstance"
-        ]
+        ],
+        "Result Track Name": "Kickin' Samba",
+        "Result Artist Names": [
+            "Soulstance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:614XU0aXHq2U1ACXftkOAB",
+        "Result Album Name": "Act On"
     },
     {
         "Title": "Pope In Jordan To Promote Mideast Peace",
@@ -64,13 +84,29 @@
         "ATC Track": "Brazilenco",
         "ATC Artists": [
             "Zeb"
-        ]
+        ],
+        "Result Track Name": "Brazilenco",
+        "Result Artist Names": [
+            "Zeb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:13EFpTGLgULTZaX9DVvNFx",
+        "Result Album Name": "Irma At Sex and the City"
     },
     {
         "ATC Track": "Deep Water",
         "ATC Artists": [
             "David Byrne"
-        ]
+        ],
+        "Result Track Name": "Deep Water Swim",
+        "Result Artist Names": [
+            "David Gray"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0RZLlGMVSGKjpokP9GRJwD",
+        "Result Album Name": "Skellig"
     },
     {
         "Title": "Neutral Milk Hotel Album Transformed For Stage",
@@ -82,7 +118,15 @@
         "ATC Track": "lady gazelle",
         "ATC Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "Title": "Game Not Taken Too Seriously In 'Rudo Y Cursi'",
@@ -100,7 +144,12 @@
         "ATC Track": "Amor Platónico",
         "ATC Artists": [
             "Jóvenes Y Sexys"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Parting Words: Remembering Coach Daly",
@@ -112,12 +161,29 @@
         "ATC Track": "Man from Monterey",
         "ATC Artists": [
             "Dizzy Gillespie"
-        ]
+        ],
+        "Result Track Name": "Man From Monterey - 2007 Digital Remaster/24 Bit Mastering",
+        "Result Artist Names": [
+            "Gil Fuller & The Monterey Jazz Festival Orchestra",
+            "Dizzy Gillespie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GCyQkptbsZcQt48DeWefx",
+        "Result Album Name": "Dizzy Gillespie & James Moody With Gil Fuller & The Monterey Jazz Festival Orchestra"
     },
     {
         "ATC Track": "Get Back",
         "ATC Artists": [
             "The 3 Sounds"
-        ]
+        ],
+        "Result Track Name": "Get Back",
+        "Result Artist Names": [
+            "The Three Sounds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:53KA8zmU3Zs3f0swQXpE4k",
+        "Result Album Name": "Blue Beat-The Music Of Lennon & Mccartney"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-06-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:04:06"
+        "Scanned Date": "2022-02-07 01:04:06",
+        "Playlist URI": "4z8HJeg67bM1E4WD646VrG",
+        "Playlist Link": "https://open.spotify.com/playlist/4z8HJeg67bM1E4WD646VrG",
+        "Snapshot ID": "MSxlNjdmYjgwOGIyMThmYzQyMjNmYzE3YmVlMjk4MjY0M2Y1OTE5NDNk",
+        "Playlist Name": "ATC 2009-06-27 Sat All Things Considered"
     },
     {
         "Title": "Making Sense Of Questions Around Michael Jackson",
@@ -28,13 +32,29 @@
         "ATC Track": "Earth Song",
         "ATC Artists": [
             "Michael Jackson"
-        ]
+        ],
+        "Result Track Name": "Earth Song",
+        "Result Artist Names": [
+            "Michael Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4GCGH6TJ69neckwITeBFXK",
+        "Result Album Name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I"
     },
     {
         "ATC Track": "Cinquante Six",
         "ATC Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Cinquante six - Instrumental;2017 Remastered Version",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mfFiMRU8Xr79DL97XPv7O",
+        "Result Album Name": "The Source (2017 Remastered Version)"
     },
     {
         "Title": "Paul Krugman Gives Take On Climate Legislation",
@@ -58,14 +78,24 @@
         "ATC Track": "V-2 Schneider",
         "ATC Artists": [
             "American Composers Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Persia",
         "ATC Artists": [
             "Sepehr",
             "Shahin Shahida"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Principal Ballerina Hangs Up Her Slippers",
@@ -89,18 +119,42 @@
         "ATC Track": "Show You the Way to Go",
         "ATC Artists": [
             "The Jacksons"
-        ]
+        ],
+        "Result Track Name": "Show You the Way to Go",
+        "Result Artist Names": [
+            "The Jacksons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3gGy2V4n2vELDCyuioZLYh",
+        "Result Album Name": "The Jacksons"
     },
     {
         "ATC Track": "Smooth Criminal",
         "ATC Artists": [
             "Michael Jackson"
-        ]
+        ],
+        "Result Track Name": "Smooth Criminal - 2012 Remaster",
+        "Result Artist Names": [
+            "Michael Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2bCQHF9gdG5BNDVuEIEnNk",
+        "Result Album Name": "Bad 25th Anniversary"
     },
     {
         "ATC Track": "Beat It",
         "ATC Artists": [
             "Michael Jackson"
-        ]
+        ],
+        "Result Track Name": "Beat It",
+        "Result Artist Names": [
+            "Michael Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OOtq8tRnDM8kG2gqUPjAj",
+        "Result Album Name": "Thriller 25 Super Deluxe Edition"
     }
 ]

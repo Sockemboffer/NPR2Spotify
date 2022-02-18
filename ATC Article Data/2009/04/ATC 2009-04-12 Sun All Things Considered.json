@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-04-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:07:09"
+        "Scanned Date": "2022-02-07 01:07:09",
+        "Playlist URI": "559Je9JmM9PXMo4WIWCq87",
+        "Playlist Link": "https://open.spotify.com/playlist/559Je9JmM9PXMo4WIWCq87",
+        "Snapshot ID": "MSwxMzNmZDNhMmEyODg2YTFjNzIxYzY2NWZmYWZhZGRiOWFmZTc3YTg0",
+        "Playlist Name": "ATC 2009-04-12 Sun All Things Considered"
     },
     {
         "Title": "U.S. Ship Captain Freed, 3 Pirates Killed",
@@ -28,13 +32,23 @@
         "ATC Track": "Up a Notch",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "LA CORANTO",
         "ATC Artists": [
             "THE FOLGER CONSORT"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Sounds Of Easter In America",
@@ -64,13 +78,26 @@
         "ATC Track": "I Kissed a Girl",
         "ATC Artists": [
             "Jill Sobule"
-        ]
+        ],
+        "Result Track Name": "I Kissed a Girl",
+        "Result Artist Names": [
+            "Jill Sobule"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wbOO38fVqZj0Hz2nRe0Dz",
+        "Result Album Name": "Jill Sobule"
     },
     {
         "ATC Track": "Gallyard",
         "ATC Artists": [
             "Hesperon XX"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "An Update On Masters Tournament",
@@ -102,18 +129,36 @@
             "Pop Winans",
             "Pop Winans",
             "The Winanaries et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "SUITE IN C MAJOR",
         "ATC Artists": [
             "EUGEN M. DOMBOIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "You're So Cool",
         "ATC Artists": [
             "Hans Zimmer"
-        ]
+        ],
+        "Result Track Name": "You're So Cool",
+        "Result Artist Names": [
+            "Hans Zimmer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pcBRYIIxevEGUeGFJQ4hY",
+        "Result Album Name": "True Romance (Original Motion Picture Soundtrack)"
     }
 ]

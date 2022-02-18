@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-03-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:09:28"
+        "Scanned Date": "2022-02-07 01:09:28",
+        "Playlist URI": "6hqbCNYSwKTt8SbJtMx4z4",
+        "Playlist Link": "https://open.spotify.com/playlist/6hqbCNYSwKTt8SbJtMx4z4",
+        "Snapshot ID": "MSw4YTA2MTU0MGU4YTk0Yzg5Y2Y0MmE2YzhmYzgyY2VkZjVlYzcyMDBh",
+        "Playlist Name": "ATC 2009-03-14 Sat All Things Considered"
     },
     {
         "Title": "World Finance Ministers Gather For Summit",
@@ -22,14 +26,27 @@
         "ATC Track": "Frontiers",
         "ATC Artists": [
             "Excerto"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "no matter what shape",
         "ATC Artists": [
             "booker t.",
             "the mg's"
-        ]
+        ],
+        "Result Track Name": "No Matter What Shape",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0Q6PiCHALOBQbWl8v6O7He",
+        "Result Album Name": "The Albums 1962-1968"
     },
     {
         "Title": "Official Tells Of Horrific Conditions In Zimbabwe Jail",
@@ -41,7 +58,15 @@
         "ATC Track": "She Passed Through",
         "ATC Artists": [
             "Dirty Three"
-        ]
+        ],
+        "Result Track Name": "She Passed Through",
+        "Result Artist Names": [
+            "Dirty Three"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xNRtGWhcehuuv67xvBnjp",
+        "Result Album Name": "Cinder"
     },
     {
         "Title": "Putting A Price On Toxic Assets",
@@ -65,19 +90,40 @@
         "ATC Track": "THE FULL CATASTROPHE",
         "ATC Artists": [
             "HILLBILLIES FROM MARS"
-        ]
+        ],
+        "Result Track Name": "The Full Catastrophe",
+        "Result Artist Names": [
+            "Hillbillies From Mars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pzQt7BCZlPBXxJZ1cJsdd",
+        "Result Album Name": "Hillbillies from Mars"
     },
     {
         "ATC Track": "Gone With the Wind: Main Title",
         "ATC Artists": [
             "Warner Bros. Orchestra"
-        ]
+        ],
+        "Result Track Name": "Main Title",
+        "Result Artist Names": [
+            "Warner Bros. Orchestra"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1W2i8gW2DLDP5yOlbrS2nh",
+        "Result Album Name": "Legendary Film Music Classics Gone With The Wind & Casablanca Feelings"
     },
     {
         "ATC Track": "Launch",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "FDA Pick Spent Life 'Preparing For This Job'",
@@ -113,14 +159,27 @@
         "ATC Track": "Toy Piano",
         "ATC Artists": [
             "Dawn Landes"
-        ]
+        ],
+        "Result Track Name": "Toy Piano",
+        "Result Artist Names": [
+            "Dawn Landes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vkDyycwXw3Uw3db6WiOqT",
+        "Result Album Name": "Fireproof"
     },
     {
         "ATC Track": "SWAN'S SPLASHDOWN",
         "ATC Artists": [
             "PERREY",
             "KINGLSEY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Little Walter Rides Again",
@@ -129,6 +188,14 @@
             "Martin",
             "Wood",
             "John Scofield"
-        ]
+        ],
+        "Result Track Name": "Little Walter Rides Again",
+        "Result Artist Names": [
+            "Medeski Scofield Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2kKhUhZYdkrfgdkRrMLJaB",
+        "Result Album Name": "MSMW LIVE: In Case the World Changes Its Mind"
     }
 ]

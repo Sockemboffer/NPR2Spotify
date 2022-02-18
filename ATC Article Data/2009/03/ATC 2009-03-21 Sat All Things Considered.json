@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-03-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:09:54"
+        "Scanned Date": "2022-02-07 01:09:54",
+        "Playlist URI": "7funfrkdMDQ57dAdRwg5oU",
+        "Playlist Link": "https://open.spotify.com/playlist/7funfrkdMDQ57dAdRwg5oU",
+        "Snapshot ID": "MSw5YzhhNzEwMzg0ZjNiNDk4MGM4YTUxZmZkOTIwOTQxZTc1MjAyNjBk",
+        "Playlist Name": "ATC 2009-03-21 Sat All Things Considered"
     },
     {
         "Title": "Economy Wrap-Up: AIG Bonuses, Toxic Asset Plan",
@@ -28,13 +32,26 @@
         "ATC Track": "Delta (Little Boy Blues)",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": "Delta (Little Boy Blues)",
+        "Result Artist Names": [
+            "Badly Drawn Boy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qruEA6iLENHiW1wCQUBSA",
+        "Result Album Name": "About A Boy Soundtrack"
     },
     {
         "ATC Track": "Spat",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Obama Teams Canvass For Support",
@@ -52,7 +69,16 @@
         "ATC Track": "Modern Love Waltz",
         "ATC Artists": [
             "Margaret Leng Tan"
-        ]
+        ],
+        "Result Track Name": "Modern Love Waltz - transcribed for 2 toy pianos by Margaret Leng Tan",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Margaret Leng Tan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0horMic4hc9dcM4OKqZWtZ",
+        "Result Album Name": "Minimalism for the Mind"
     },
     {
         "Title": "Fisher-Price's Little People Grown Up",
@@ -70,13 +96,29 @@
         "ATC Track": "Anniversary",
         "ATC Artists": [
             "Howie B."
-        ]
+        ],
+        "Result Track Name": "Anniversary",
+        "Result Artist Names": [
+            "Howie B."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6a4OWF94P6clPDWQJjfPNJ",
+        "Result Album Name": "Snatch (Bonus Track Version)"
     },
     {
         "ATC Track": "Great DJ",
         "ATC Artists": [
             "The Ting Tings"
-        ]
+        ],
+        "Result Track Name": "Great DJ",
+        "Result Artist Names": [
+            "The Ting Tings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Bw5d2OMSD6099BOsmEmkl",
+        "Result Album Name": "We Started Nothing"
     },
     {
         "Title": "Pope Receives Enthusiastic Welcome In Angola",
@@ -100,7 +142,12 @@
         "ATC Track": "Cappella",
         "ATC Artists": [
             "Tarab Cello Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Citizen Kafka's Greatest Contribution? Himself",
@@ -112,12 +159,22 @@
         "ATC Track": "This Working World",
         "ATC Artists": [
             "Your Thirty Three Black Angels"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "(On Days Like This) It's Good to Be Alive",
         "ATC Artists": [
             "Your Thirty Three Black Angels"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

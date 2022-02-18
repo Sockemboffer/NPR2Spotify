@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-07-25",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:02:03"
+        "Scanned Date": "2022-02-07 01:02:03",
+        "Playlist URI": "0MJnfyaJvXoWPwW03NiSwi",
+        "Playlist Link": "https://open.spotify.com/playlist/0MJnfyaJvXoWPwW03NiSwi",
+        "Snapshot ID": "MSwwMjdjMmRhMDk4ODc5ZWQ3NTljOWQ2MmMzMmExN2Y2NDQ4NGU0NDhh",
+        "Playlist Name": "ATC 2009-07-25 Sat All Things Considered"
     },
     {
         "Title": "Counterterrorism Adviser: Probe Anti-Terror Policy",
@@ -22,13 +26,29 @@
         "ATC Track": "Buckshot",
         "ATC Artists": [
             "The Riptones"
-        ]
+        ],
+        "Result Track Name": "Buckshot",
+        "Result Artist Names": [
+            "The Riptones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j0WqWDfIGj1kOm7thpgfx",
+        "Result Album Name": "Buckshot"
     },
     {
         "ATC Track": "Tournament",
         "ATC Artists": [
             "Chris Brokaw"
-        ]
+        ],
+        "Result Track Name": "tournament",
+        "Result Artist Names": [
+            "Chris Brokaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tj1IwvSXXfwihZY2NJqvo",
+        "Result Album Name": "Red Cities"
     },
     {
         "Title": "Corruption Charges Sting New Jersey",
@@ -58,13 +78,29 @@
         "ATC Track": "BAKA",
         "ATC Artists": [
             "OUTBACK"
-        ]
+        ],
+        "Result Track Name": "Baka",
+        "Result Artist Names": [
+            "Outback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17vyu7wwITOfAUTGBVXM6F",
+        "Result Album Name": "Baka"
     },
     {
         "ATC Track": "Don't Think Twice, It's All Right",
         "ATC Artists": [
             "Billy Strange"
-        ]
+        ],
+        "Result Track Name": "Don't Think Twice, It's All Right",
+        "Result Artist Names": [
+            "Billy Goerdt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7yS6tttf5LHH01elWvxhQh",
+        "Result Album Name": "Dance Across The Planet"
     },
     {
         "Title": "Taqwacore: The Real Muslim Punk Underground",
@@ -76,7 +112,15 @@
         "ATC Track": "lady gazelle",
         "ATC Artists": [
             "minotaur shock"
-        ]
+        ],
+        "Result Track Name": "Lady Gazelle",
+        "Result Artist Names": [
+            "Minotaur Shock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ckBkaO8qzdEQRiSlPsp1L",
+        "Result Album Name": "Vigo Bay"
     },
     {
         "Title": "War On Terror, Katrina Intersect In 'Zeitoun'",
@@ -88,24 +132,53 @@
         "ATC Track": "Conversation Heart",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Conversation Heart",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zQWZ8Fz25TnswtkkXDqar",
+        "Result Album Name": "Casually Smashed To Pieces"
     },
     {
         "ATC Track": "Just You and Me",
         "ATC Artists": [
             "Zee Avi"
-        ]
+        ],
+        "Result Track Name": "Just You And Me",
+        "Result Artist Names": [
+            "Zee Avi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0oVMDogKQdedDm5W3wl3TN",
+        "Result Album Name": "Zee Avi"
     },
     {
         "ATC Track": "IT SERVES ME RIGHT",
         "ATC Artists": [
             "JOHN LEE HOOKER"
-        ]
+        ],
+        "Result Track Name": "It Serves Me Right",
+        "Result Artist Names": [
+            "John Lee Hooker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4a0RlE6Mde0N59OLuBQn42",
+        "Result Album Name": "In Person"
     },
     {
         "ATC Track": "Choserito Plena",
         "ATC Artists": [
             "Marc Ribot"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

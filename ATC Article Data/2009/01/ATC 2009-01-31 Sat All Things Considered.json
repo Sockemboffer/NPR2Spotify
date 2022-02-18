@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-01-31",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:14:20"
+        "Scanned Date": "2022-02-07 01:14:20",
+        "Playlist URI": "00mJ0NWsOVybzhdk6HGTcm",
+        "Playlist Link": "https://open.spotify.com/playlist/00mJ0NWsOVybzhdk6HGTcm",
+        "Snapshot ID": "MSxjNDkxM2NkNGU1MzdmZDdmNDI0YWZmYjg3MGQwYWZhZmZmYWVlMzRi",
+        "Playlist Name": "ATC 2009-01-31 Sat All Things Considered"
     },
     {
         "Title": "Polls Close In Iraq Without Major Violence",
@@ -28,14 +32,24 @@
         "ATC Track": "ZYDECO SHUFFLE",
         "ATC Artists": [
             "SONNY LANDRETH"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "GONNA NEED SOMEBODY ON MY BOND",
         "ATC Artists": [
             "MICHAEL BLOOMFIELD",
             "WOODY HARRIS"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mood Shifts At Davos Economic Conference",
@@ -59,7 +73,15 @@
         "ATC Track": "Heartsprings",
         "ATC Artists": [
             "Heiruspecs"
-        ]
+        ],
+        "Result Track Name": "Heartsprings",
+        "Result Artist Names": [
+            "Heiruspecs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1AEoNmoU5UaP1wV4UisLh7",
+        "Result Album Name": "A Tiger Dancing"
     },
     {
         "Title": "Reading Creates 'Simulations' In Minds",
@@ -71,13 +93,30 @@
         "ATC Track": "Paper Planes [DFA Remix]",
         "ATC Artists": [
             "M.I.A."
-        ]
+        ],
+        "Result Track Name": "Paper Planes - DFA Remix",
+        "Result Artist Names": [
+            "M.I.A.",
+            "DFA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hCD7X2223N2Jt4MzKIe3C",
+        "Result Album Name": "Paper Planes - Homeland Security Remixes"
     },
     {
         "ATC Track": "Taper Jean Girl",
         "ATC Artists": [
             "Kings of Leon"
-        ]
+        ],
+        "Result Track Name": "Taper Jean Girl",
+        "Result Artist Names": [
+            "Kings of Leon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kUktzISXJLuUurOFhc2Ms",
+        "Result Album Name": "Aha Shake Heartbreak"
     },
     {
         "Title": "A.R. Rahman Scores With 'Slumdog Millionaire'",
@@ -107,18 +146,43 @@
         "ATC Track": "Descarga Gusano",
         "ATC Artists": [
             "Spam Allstars"
-        ]
+        ],
+        "Result Track Name": "Descarga Gusano",
+        "Result Artist Names": [
+            "The Spam Allstars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7bdJMVrZoUv0nIUvGqjxmc",
+        "Result Album Name": "Fuacata Live"
     },
     {
         "ATC Track": "Riots",
         "ATC Artists": [
             "A.R. Rahman"
-        ]
+        ],
+        "Result Track Name": "Riots",
+        "Result Artist Names": [
+            "A.R. Rahman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2T6I3qTBSLa0uaLVv0zBKL",
+        "Result Album Name": "Slumdog Millionaire - Music From The Motion Picture"
     },
     {
         "ATC Track": "Paper Planes [DFA Remix]",
         "ATC Artists": [
             "M.I.A."
-        ]
+        ],
+        "Result Track Name": "Paper Planes - DFA Remix",
+        "Result Artist Names": [
+            "M.I.A.",
+            "DFA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hCD7X2223N2Jt4MzKIe3C",
+        "Result Album Name": "Paper Planes - Homeland Security Remixes"
     }
 ]

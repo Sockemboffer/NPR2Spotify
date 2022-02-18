@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-08-15",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:59:35"
+        "Scanned Date": "2022-02-07 00:59:35",
+        "Playlist URI": "1HYsp3Vh7Aa49FGmDCw5O9",
+        "Playlist Link": "https://open.spotify.com/playlist/1HYsp3Vh7Aa49FGmDCw5O9",
+        "Snapshot ID": "MSw4NGZhNWFkOTA2YTNlYmNlNDIzNzQ3NmVlZTYwNzZmYTI0ZWY1Zjc3",
+        "Playlist Name": "ATC 2009-08-15 Sat All Things Considered"
     },
     {
         "Title": "Obama Uses Colo. Program As Backdrop For Health Talk",
@@ -22,13 +26,30 @@
         "ATC Track": "Come Get Some",
         "ATC Artists": [
             "Lafayette Gilchrist"
-        ]
+        ],
+        "Result Track Name": "Come Get Some",
+        "Result Artist Names": [
+            "Lafayette Gilchrist",
+            "The New Volcanoes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GxbyEH5W12obbHgPile6y",
+        "Result Album Name": "Compendium"
     },
     {
         "ATC Track": "You May Be Blue",
         "ATC Artists": [
             "Vetiver"
-        ]
+        ],
+        "Result Track Name": "You May Be Blue",
+        "Result Artist Names": [
+            "Vetiver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pzSiISHRFQTlMKLZ94Z54",
+        "Result Album Name": "To Find Me Gone"
     },
     {
         "Title": "Is Anger Over Health Overhaul Jim Crow 2.0?",
@@ -58,13 +79,26 @@
         "ATC Track": "Revolution [DVD][Live][#]",
         "ATC Artists": [
             "Nina Simone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Johnny Too Bad",
         "ATC Artists": [
             "Taj Mahal"
-        ]
+        ],
+        "Result Track Name": "Johnny Too Bad",
+        "Result Artist Names": [
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2IzMlIwhoCWV3E3JrF9gq1",
+        "Result Album Name": "Mo' Roots"
     },
     {
         "Title": "Demetri Martin On 'Taking Woodstock'",
@@ -82,18 +116,39 @@
         "ATC Track": "One More American Song",
         "ATC Artists": [
             "The Duke and the King"
-        ]
+        ],
+        "Result Track Name": "One More American Song",
+        "Result Artist Names": [
+            "The Duke & The King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4DCtYBaaPOMxTwPSeshBZN",
+        "Result Album Name": "The Duke & The King"
     },
     {
         "ATC Track": "paris en colere",
         "ATC Artists": [
             "claude bolling big band"
-        ]
+        ],
+        "Result Track Name": "Paris en colère",
+        "Result Artist Names": [
+            "Claude Bolling"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6lwqDB1f5WhvGqkB83cKpO",
+        "Result Album Name": "The Victory Concert, Echoes of 1944-1945 (Recorded in 1994)"
     },
     {
         "ATC Track": "SADNESS, SEPARATION",
         "ATC Artists": [
             "ASTOR PIAZZOLLA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

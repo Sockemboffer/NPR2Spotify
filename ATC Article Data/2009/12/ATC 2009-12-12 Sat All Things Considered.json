@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-12-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 00:51:54"
+        "Scanned Date": "2022-02-07 00:51:54",
+        "Playlist URI": "1DPjxaZdd6JGm1igTeZkd2",
+        "Playlist Link": "https://open.spotify.com/playlist/1DPjxaZdd6JGm1igTeZkd2",
+        "Snapshot ID": "MSxhZGNkODc1NTRiNmJlYWEzMjE2ODljNGJmYzY0OGZlNWEzODk0OGY3",
+        "Playlist Name": "ATC 2009-12-12 Sat All Things Considered"
     },
     {
         "Title": "'Global Deal' Author's Blueprint For Climate Action",
@@ -22,13 +26,29 @@
         "ATC Track": "Bango Fields",
         "ATC Artists": [
             "Kutiman"
-        ]
+        ],
+        "Result Track Name": "Bongo Fields",
+        "Result Artist Names": [
+            "Kutiman"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mdjRXihk58fWoxbGQYrWF",
+        "Result Album Name": "Kutiman"
     },
     {
         "ATC Track": "I Want Freedom",
         "ATC Artists": [
             "Chris Joss"
-        ]
+        ],
+        "Result Track Name": "I Want Freedom",
+        "Result Artist Names": [
+            "Chris Joss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ll0pYtjgXX8udIVmOh2Xs",
+        "Result Album Name": "Teraphonic Overdubs"
     },
     {
         "Title": "News Roundup: Obama's Nobel; Financial Overhaul",
@@ -58,13 +78,26 @@
         "ATC Track": "Preta Luxo",
         "ATC Artists": [
             "Marcio Local"
-        ]
+        ],
+        "Result Track Name": "Preta Luxo",
+        "Result Artist Names": [
+            "Márcio Local"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6zcks28GfqSFrK4qo2l6Ct",
+        "Result Album Name": "Three Inches of Music"
     },
     {
         "ATC Track": "Something Tropical",
         "ATC Artists": [
             "Seelenluft"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Domain Name Creator Made Sites Easier To Recall",
@@ -82,7 +115,15 @@
         "ATC Track": "SAUCER",
         "ATC Artists": [
             "pell mell"
-        ]
+        ],
+        "Result Track Name": "Saucer",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BQ8IC8LbS5xDFZFhAQe1y",
+        "Result Album Name": "Interstate"
     },
     {
         "Title": "Lusophonic: A Portuguese Musical Tour",
@@ -94,18 +135,42 @@
         "ATC Track": "Soul Do Samba",
         "ATC Artists": [
             "Marcio Local"
-        ]
+        ],
+        "Result Track Name": "Soul Do Samba",
+        "Result Artist Names": [
+            "Márcio Local"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3gpNLEl4nKQ6odiBTHKzPr",
+        "Result Album Name": "Márcio Local Says Don Day Don Dree Don Don"
     },
     {
         "ATC Track": "Into the Blue",
         "ATC Artists": [
             "Karminsky Experience"
-        ]
+        ],
+        "Result Track Name": "Into the Blue",
+        "Result Artist Names": [
+            "The Karminsky Experience Inc."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kYp7f2p4oUJaMxyMxlXjr",
+        "Result Album Name": "Snapshot"
     },
     {
         "ATC Track": "Moodbender",
         "ATC Artists": [
             "Shawn Lee"
-        ]
+        ],
+        "Result Track Name": "Moodbender",
+        "Result Artist Names": [
+            "Shawn Lee's Ping Pong Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6iRaUatl5nfgAvyqLMGlMB",
+        "Result Album Name": "Strings and Things"
     }
 ]

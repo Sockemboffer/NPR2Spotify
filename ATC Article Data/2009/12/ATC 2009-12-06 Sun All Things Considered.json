@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-12-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:51:11"
+        "Scanned Date": "2022-02-07 00:51:11",
+        "Playlist URI": "6N4gVY3b7ah01lRhUHsL2t",
+        "Playlist Link": "https://open.spotify.com/playlist/6N4gVY3b7ah01lRhUHsL2t",
+        "Snapshot ID": "MSw5ZWU1YjE1Mzc3MzAwM2NiM2NiOTM0ZDA4YWUwNWM5NDYzMzRhZTc3",
+        "Playlist Name": "ATC 2009-12-06 Sun All Things Considered"
     },
     {
         "Title": "Leaders Descend On Copenhagen For Climate Talks",
@@ -29,13 +33,28 @@
         "ATC Artists": [
             "Federal Music Society Opera Company",
             "John Baldon (conductor)"
-        ]
+        ],
+        "Result Track Name": "Air",
+        "Result Artist Names": [
+            "Oliver Shaw",
+            "Federal Music Society",
+            "John Baldon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3h6FXxcUptkp2wDUPfCTCT",
+        "Result Album Name": "Music of the Federal Era"
     },
     {
         "ATC Track": "Sonatas (10) in 4 parts for 2 violins, bass viol & continuo, Z. 802-811 [Sonata 9 In F Major]",
         "ATC Artists": [
             "Locke Consort"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Celebrating 350 Years Of Notable Scientific Papers",
@@ -59,13 +78,29 @@
         "ATC Track": "Timekeeper",
         "ATC Artists": [
             "Hiroshima"
-        ]
+        ],
+        "Result Track Name": "Timekeeper",
+        "Result Artist Names": [
+            "Hiroshima"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3f50vQEB0PFxX9gXRgDEIs",
+        "Result Album Name": "Urban World Music"
     },
     {
         "ATC Track": "Highwood",
         "ATC Artists": [
             "Jay Farrar"
-        ]
+        ],
+        "Result Track Name": "Highwood",
+        "Result Artist Names": [
+            "Jay Farrar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1g4UvqYYzj2UtexLNbBgmT",
+        "Result Album Name": "The Slaughter Rule (Original Movie Soundtrack)"
     },
     {
         "Title": "Why You Love This Decade's Movie Villains",
@@ -83,7 +118,12 @@
         "ATC Track": "Bless Those (Little Annie's Prayer)",
         "ATC Artists": [
             "Living Colour"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Bess Lomax Hawes, Musical Folklorist, Dies",
@@ -95,12 +135,28 @@
         "ATC Track": "Open Letter (To a Landlord)",
         "ATC Artists": [
             "Living Colour"
-        ]
+        ],
+        "Result Track Name": "Open Letter (To a Landlord)",
+        "Result Artist Names": [
+            "Living Colour"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hnKJsEeb0hVkbw16yjcTV",
+        "Result Album Name": "Vivid (Expanded Edition)"
     },
     {
         "ATC Track": "Cult of Personality",
         "ATC Artists": [
             "Living Colour"
-        ]
+        ],
+        "Result Track Name": "Cult of Personality",
+        "Result Artist Names": [
+            "Living Colour"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5e3YOg6fIkP0wD5TyxcHOH",
+        "Result Album Name": "Vivid (Expanded Edition)"
     }
 ]

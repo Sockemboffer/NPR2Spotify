@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-09-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 00:57:39"
+        "Scanned Date": "2022-02-07 00:57:39",
+        "Playlist URI": "2u5KN8TOZcGdUxBkRZS5H0",
+        "Playlist Link": "https://open.spotify.com/playlist/2u5KN8TOZcGdUxBkRZS5H0",
+        "Snapshot ID": "MSw4NzJiYjUxNDAxNGQyNWVhMjBiOGEwNWE1NGMxM2JhMDUyZmU0MWRh",
+        "Playlist Name": "ATC 2009-09-13 Sun All Things Considered"
     },
     {
         "Title": "Good For Acid Rain, But Can It Slow Climate Change?",
@@ -23,13 +27,23 @@
         "ATC Artists": [
             "Richard Dorfmeister",
             "Mandla Mdlalose"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Vigour [*]",
         "ATC Artists": [
             "Tangerine Dream"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jane Goodall Sees 'Hope For Animals'",
@@ -59,7 +73,15 @@
         "ATC Track": "Another Journey by Train",
         "ATC Artists": [
             "The Cure"
-        ]
+        ],
+        "Result Track Name": "Another Journey by Train",
+        "Result Artist Names": [
+            "The Cure"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SHLPL5N8FTM8PhzrPgtO9",
+        "Result Album Name": "Join the Dots: B-Sides and Rarities, 1978-2001 (The Fiction Years)"
     },
     {
         "Title": "Guardian Angels Or The 'Third Man Factor'?",
@@ -77,18 +99,42 @@
         "ATC Track": "If Only",
         "ATC Artists": [
             "Sondre Lerche"
-        ]
+        ],
+        "Result Track Name": "If Only",
+        "Result Artist Names": [
+            "Sondre Lerche"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NJ0ErhqTqc0ecetrTCbND",
+        "Result Album Name": "Heartbeat Radio"
     },
     {
         "ATC Track": "Double Happy",
         "ATC Artists": [
             "Split Enz"
-        ]
+        ],
+        "Result Track Name": "Double Happy",
+        "Result Artist Names": [
+            "Split Enz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NCFKZKLtuJnfAO0TYQBi6",
+        "Result Album Name": "True Colours"
     },
     {
         "ATC Track": "D.N.A.",
         "ATC Artists": [
             "A Flock of Seagulls"
-        ]
+        ],
+        "Result Track Name": "D.N.A.",
+        "Result Artist Names": [
+            "A Flock Of Seagulls"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65GIg0LFMqequ5kZPDCvQn",
+        "Result Album Name": "A Flock Of Seagulls"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2009-06-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:02:46"
+        "Scanned Date": "2022-02-07 01:02:46",
+        "Playlist URI": "0CgUAqIT8lX97ZlJvgH6S9",
+        "Playlist Link": "https://open.spotify.com/playlist/0CgUAqIT8lX97ZlJvgH6S9",
+        "Snapshot ID": "MSw3MmM3OWYzOTc1NDM3YmI4MjYxNDc1ZTU5MWM1YzkzNjFmNTg1YWRh",
+        "Playlist Name": "ATC 2009-06-06 Sat All Things Considered"
     },
     {
         "Title": "Obama Commemorates D-Day At Normandy",
@@ -28,13 +32,29 @@
         "ATC Track": "Under Paris Skies",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": "Under Paris Skies",
+        "Result Artist Names": [
+            "Pearl Django"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Jygl4azS74D5sN5YdxHQF",
+        "Result Album Name": "Under Paris Skies"
     },
     {
         "ATC Track": "Reminds Me of a Song",
         "ATC Artists": [
             "Naim Amor"
-        ]
+        ],
+        "Result Track Name": "Reminds Me Of A Song",
+        "Result Artist Names": [
+            "Naïm Amor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:71IsOPavxrWi0JYtGtEtXt",
+        "Result Album Name": "Soundtracks Vol III"
     },
     {
         "Title": "After Short Respite, Drug Killings Surge In Juarez",
@@ -46,7 +66,15 @@
         "ATC Track": "Buleria del Corazón [Bulería]",
         "ATC Artists": [
             "Son de La Frontera"
-        ]
+        ],
+        "Result Track Name": "Bulería del Corazón",
+        "Result Artist Names": [
+            "Son De La Frontera"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rAi0lIbQSQtbqewQbAkte",
+        "Result Album Name": "Soul Of New Flamenco Guitar"
     },
     {
         "Title": "Fordlandia: The Failure Of Ford's Jungle Utopia",
@@ -64,13 +92,29 @@
         "ATC Track": "Hey Ya",
         "ATC Artists": [
             "Booker T"
-        ]
+        ],
+        "Result Track Name": "Hey Ya",
+        "Result Artist Names": [
+            "Booker T."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MCSwuZiKyatvdQKR1L4pZ",
+        "Result Album Name": "Potato Hole"
     },
     {
         "ATC Track": "Yoruba Road",
         "ATC Artists": [
             "Boozoo Bajou"
-        ]
+        ],
+        "Result Track Name": "Yoruba Road",
+        "Result Artist Names": [
+            "Boozoo Bajou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YlBussSHZpRsAglcsrXEY",
+        "Result Album Name": "Satta"
     },
     {
         "Title": "Kuznetsova Beats No. 1 Safina To Win French Open",
@@ -101,18 +145,42 @@
         "ATC Artists": [
             "Levon Helm",
             "Muddy Waters"
-        ]
+        ],
+        "Result Track Name": "Stuff You Gotta Watch",
+        "Result Artist Names": [
+            "Levon Helm"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:17DJ3FRKwUEhBaV0cNwAys",
+        "Result Album Name": "Electric Dirt"
     },
     {
         "ATC Track": "EL MARABINO",
         "ATC Artists": [
             "ENRIQUE CORIA"
-        ]
+        ],
+        "Result Track Name": "El Marabino",
+        "Result Artist Names": [
+            "The Guitar Artistry Of Enrique Coria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6mD6AfjL9R2yveWePP34Ms",
+        "Result Album Name": "Solos From South America"
     },
     {
         "ATC Track": "Naive Song",
         "ATC Artists": [
             "Mirwais"
-        ]
+        ],
+        "Result Track Name": "Naïve Song",
+        "Result Artist Names": [
+            "Mirwais"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2czNCcUtP2VygffminEngp",
+        "Result Album Name": "Production (Deluxe Version)"
     }
 ]
