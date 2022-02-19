@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-10-31",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:20:10"
+        "Scanned Date": "2022-02-07 01:20:10",
+        "Playlist URI": "4HecN5olilB4WSjEbC9nzm",
+        "Playlist Link": "https://open.spotify.com/playlist/4HecN5olilB4WSjEbC9nzm",
+        "Snapshot ID": "MSw0YjVmMzcyOWI4OThmNjJiYTIzYjViOWYyZTFlN2Y4NWI0ZDY2NDcw",
+        "Playlist Name": "ATC 2010-10-31 Sun All Things Considered"
     },
     {
         "Title": "The Voices That Helped Shape The Campaign Season",
@@ -28,13 +32,29 @@
         "ATC Track": "Kewpie Station",
         "ATC Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Kewpie Station",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kAPiGNGEGlERhCpumCWF9",
+        "Result Album Name": "Everybody Loves You"
     },
     {
         "ATC Track": "Research (Instrumental)",
         "ATC Artists": [
             "Dujeous"
-        ]
+        ],
+        "Result Track Name": "Research - Instrumental",
+        "Result Artist Names": [
+            "Dujeous"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2awocjBtHDY1SIobEMPjcG",
+        "Result Album Name": "Break Bread (Research)"
     },
     {
         "Title": "Nobel Economic Recipe: Help States, Add Stimulus",
@@ -64,7 +84,12 @@
         "ATC Track": "Instrumental",
         "ATC Artists": [
             "Boxcar Racer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dog Food, Or Dogs As Food? Depends Where You Are",
@@ -82,18 +107,40 @@
         "ATC Track": "Alphaville",
         "ATC Artists": [
             "Bryan Ferry"
-        ]
+        ],
+        "Result Track Name": "Alphaville - Todd Terje Remix",
+        "Result Artist Names": [
+            "Bryan Ferry",
+            "Todd Terje"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tuJ7KJNlVRpAIPkpfQ6qw",
+        "Result Album Name": "Olympia Remixes"
     },
     {
         "ATC Track": "Prima Vera",
         "ATC Artists": [
             "Trüby Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Carnival of Souls",
         "ATC Artists": [
             "Combustible Edison"
-        ]
+        ],
+        "Result Track Name": "Carnival Of Souls",
+        "Result Artist Names": [
+            "Combustible Edison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dfKhjrC1mNSaBvBp5zD1J",
+        "Result Album Name": "I, Swinger"
     }
 ]

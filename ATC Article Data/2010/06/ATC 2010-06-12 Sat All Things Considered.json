@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-06-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:26:43"
+        "Scanned Date": "2022-02-07 01:26:43",
+        "Playlist URI": "5NcysxqwrYUSe8P9ssShNq",
+        "Playlist Link": "https://open.spotify.com/playlist/5NcysxqwrYUSe8P9ssShNq",
+        "Snapshot ID": "MSwzODQyNjFlODMwMDgxNjU2MzM0YjQwMDZmMTk5ZDMzNGExYTVmMWYz",
+        "Playlist Name": "ATC 2010-06-12 Sat All Things Considered"
     },
     {
         "Title": "U.N. Ambassador: No Guarantees On Iran Sanctions",
@@ -22,13 +26,23 @@
         "ATC Track": "Howling Wilderness",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Etienne",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "D.C. Soccer Fans Gather Outside To Watch U.S. Match",
@@ -64,13 +78,29 @@
         "ATC Track": "Mountain",
         "ATC Artists": [
             "Tom Verlaine"
-        ]
+        ],
+        "Result Track Name": "Days on the Mountain",
+        "Result Artist Names": [
+            "Tom Verlaine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44gCC01c1CZBHzcmfYipjE",
+        "Result Album Name": "Words From The Front"
     },
     {
         "ATC Track": "You Took Advantage of Me",
         "ATC Artists": [
             "Stéphane Grappelli"
-        ]
+        ],
+        "Result Track Name": "You Took Advantage of Me",
+        "Result Artist Names": [
+            "Stéphane Grappelli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NCnmLymI6gVSkr7COGp4X",
+        "Result Album Name": "From Paris With Love"
     },
     {
         "Title": "High Art: Were Botticelli's Venus And Mars Stoned?",
@@ -95,18 +125,42 @@
         "ATC Artists": [
             "glenn miller",
             "his orchestra"
-        ]
+        ],
+        "Result Track Name": "Rug Cutter's Swing",
+        "Result Artist Names": [
+            "Glenn Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:03el8UdBleYIPSi9Dq12mM",
+        "Result Album Name": "The Complete Glenn Miller and His Orchestra"
     },
     {
         "ATC Track": "Blue Drag",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": "Blue Drag",
+        "Result Artist Names": [
+            "Pearl Django"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ik5H1X3v2EOVYAlndSQSj",
+        "Result Album Name": "Mystery Pacific"
     },
     {
         "ATC Track": "Radio City Rhythm",
         "ATC Artists": [
             "Pearl Django"
-        ]
+        ],
+        "Result Track Name": "Radio City Rhythm",
+        "Result Artist Names": [
+            "Pearl Django"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:267IBN8wjGW7JV1S39O9Wm",
+        "Result Album Name": "Under Paris Skies"
     }
 ]

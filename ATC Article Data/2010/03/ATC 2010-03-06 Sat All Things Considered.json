@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-03-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:31:51"
+        "Scanned Date": "2022-02-07 01:31:51",
+        "Playlist URI": "2lj8hQwzTr3eUNvYzAQBQh",
+        "Playlist Link": "https://open.spotify.com/playlist/2lj8hQwzTr3eUNvYzAQBQh",
+        "Snapshot ID": "MSxlM2JmMTEwNzlhN2RlNzg1MGE5NzEyYmU5MGNlNmUwMDFkZmViNTcz",
+        "Playlist Name": "ATC 2010-03-06 Sat All Things Considered"
     },
     {
         "Title": " Governors: Following The Insider Trend To Office  ",
@@ -22,13 +26,29 @@
         "ATC Track": "The Spaces in Between",
         "ATC Artists": [
             "Bob Holroyd"
-        ]
+        ],
+        "Result Track Name": "The Spaces in Between",
+        "Result Artist Names": [
+            "Bob Holroyd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0kKpEdprsbWYtaVXAO5H7B",
+        "Result Album Name": "Without Within"
     },
     {
         "ATC Track": "Bumbo",
         "ATC Artists": [
             "Nomo"
-        ]
+        ],
+        "Result Track Name": "Bumbo",
+        "Result Artist Names": [
+            "Nomo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56qYV6jCnx8jiQE3lsE7OD",
+        "Result Album Name": "Invisible Cities"
     },
     {
         "Title": "The Process Story: A Washington Distraction",
@@ -46,14 +66,27 @@
         "ATC Track": "My Sharona",
         "ATC Artists": [
             "The Knack"
-        ]
+        ],
+        "Result Track Name": "My Sharona",
+        "Result Artist Names": [
+            "The Knack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HOMkjp0nHMaTnfAkslCQj",
+        "Result Album Name": "Get The Knack"
     },
     {
         "ATC Track": "Moonshine",
         "ATC Artists": [
             "Dave Douglas",
             "Keystone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Picking The Poison: The Story Of Forensic Medicine",
@@ -77,18 +110,42 @@
         "ATC Track": "My Sharona",
         "ATC Artists": [
             "The Knack"
-        ]
+        ],
+        "Result Track Name": "My Sharona",
+        "Result Artist Names": [
+            "The Knack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HOMkjp0nHMaTnfAkslCQj",
+        "Result Album Name": "Get The Knack"
     },
     {
         "ATC Track": "Fury of Yabeh",
         "ATC Artists": [
             "RH+"
-        ]
+        ],
+        "Result Track Name": "The Fury of Yabeh",
+        "Result Artist Names": [
+            "RH+"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3hzZjuvjzJakOswq8J78Sr",
+        "Result Album Name": "Quintana Roo"
     },
     {
         "ATC Track": "Two Step",
         "ATC Artists": [
             "Pacha Massive"
-        ]
+        ],
+        "Result Track Name": "Two Step",
+        "Result Artist Names": [
+            "Pacha Massive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vMatJt6CpNUskgn0adeKi",
+        "Result Album Name": "Latino Beats"
     }
 ]

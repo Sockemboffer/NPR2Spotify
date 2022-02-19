@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-10-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:19:44"
+        "Scanned Date": "2022-02-07 01:19:44",
+        "Playlist URI": "5miZEKL3Q2LgV8gRFNAWKb",
+        "Playlist Link": "https://open.spotify.com/playlist/5miZEKL3Q2LgV8gRFNAWKb",
+        "Snapshot ID": "MSxhMGYyNDMyMjE1ODQ4NTY1NjJiOWZkNzNhMTI3OWY3MGI0NDQyYjlj",
+        "Playlist Name": "ATC 2010-10-24 Sun All Things Considered"
     },
     {
         "Title": "If Republicans Win, How Will They Lead?",
@@ -16,13 +20,29 @@
         "ATC Track": "Bee's on Mars",
         "ATC Artists": [
             "TM Juke"
-        ]
+        ],
+        "Result Track Name": "Bee's on Mars",
+        "Result Artist Names": [
+            "TM Juke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YUzSI8ILyJZIwUO41uFKw",
+        "Result Album Name": "Forward"
     },
     {
         "ATC Track": "Chocolate Lovely",
         "ATC Artists": [
             "Amon Tobin"
-        ]
+        ],
+        "Result Track Name": "Chocolate Lovely",
+        "Result Artist Names": [
+            "Amon Tobin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4C8GnT67x8TIdU0WGBGMi8",
+        "Result Album Name": "Supermodified"
     },
     {
         "Title": "French Students Join Pension Protests",
@@ -52,7 +72,15 @@
         "ATC Track": "Tumbleweed",
         "ATC Artists": [
             "9 Lazy 9"
-        ]
+        ],
+        "Result Track Name": "Tumbleweed",
+        "Result Artist Names": [
+            "9 Lazy 9"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KoSE5VQukgPmplWkNXbNS",
+        "Result Album Name": "Sweet Jones"
     },
     {
         "Title": "'The Forgotten Hero' Of The Civil Rights Movement",
@@ -76,18 +104,39 @@
         "ATC Track": "Breath and Start",
         "ATC Artists": [
             "Blockhead"
-        ]
+        ],
+        "Result Track Name": "Breath And Start",
+        "Result Artist Names": [
+            "Blockhead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2V8nmR4CtmGG90NWX6u00w",
+        "Result Album Name": "Music By Cavelight"
     },
     {
         "ATC Track": "Flutter",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Flutter",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5K8WNrf5JvmBE6O0MbSRuJ",
+        "Result Album Name": "Dial 'M' for Monkey"
     },
     {
         "ATC Track": "Lera Auerbach: \"Sogno di Stabat Mater\" (excerpt)",
         "ATC Artists": [
             "Gidon Kremer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-09-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:20:25"
+        "Scanned Date": "2022-02-07 01:20:25",
+        "Playlist URI": "3VstLLmv6VZFbQpayYWLiZ",
+        "Playlist Link": "https://open.spotify.com/playlist/3VstLLmv6VZFbQpayYWLiZ",
+        "Snapshot ID": "MSw4MzQ1M2E3MjIyNjg4NTkzZTI3ZGVlYTJmM2EwZGYwMzYzMTg5Yzgw",
+        "Playlist Name": "ATC 2010-09-04 Sat All Things Considered"
     },
     {
         "Title": "Thousands Of Returning Soldiers Face A New Enemy",
@@ -16,7 +20,15 @@
         "ATC Track": "The Game Is Won",
         "ATC Artists": [
             "Lucie Silvas"
-        ]
+        ],
+        "Result Track Name": "The Game Is Won",
+        "Result Artist Names": [
+            "Lucie Silvas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DYzTXBP6RhK16sMOuWbyT",
+        "Result Album Name": "Breathe In"
     },
     {
         "Title": "Week In News: Romer, Economy, Midterms, Oil",
@@ -40,13 +52,29 @@
         "ATC Track": "(Theme From) Everything Ends",
         "ATC Artists": [
             "The American Analog Set"
-        ]
+        ],
+        "Result Track Name": "(Theme From) Everything Ends",
+        "Result Artist Names": [
+            "The American Analog Set"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WSKnAgU3vauTR8IJzOJy0",
+        "Result Album Name": "Set Free"
     },
     {
         "ATC Track": "Poker Face",
         "ATC Artists": [
             "Vitaman String Quartet"
-        ]
+        ],
+        "Result Track Name": "Poker Face",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:05kjnMSB0wt8hF2WGnkVtB",
+        "Result Album Name": "VSQ Performs Lady Gaga"
     },
     {
         "Title": "Victory At Marathon Saved A Lot More Than A Race",
@@ -70,19 +98,44 @@
         "ATC Track": "All You Need Is A Wall",
         "ATC Artists": [
             "The Books"
-        ]
+        ],
+        "Result Track Name": "All You Need Is A Wall",
+        "Result Artist Names": [
+            "The Books"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zOwerwxhG5MEJRJmu2SbM",
+        "Result Album Name": "The Way Out"
     },
     {
         "ATC Track": "Numb / Encore",
         "ATC Artists": [
             "Jay Z",
             "Linkin Park"
-        ]
+        ],
+        "Result Track Name": "Numb / Encore",
+        "Result Artist Names": [
+            "JAY-Z",
+            "Linkin Park"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sNESr6pQfIhL3krM8CtZn",
+        "Result Album Name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course"
     },
     {
         "ATC Track": "Smile",
         "ATC Artists": [
             "Lily Allen"
-        ]
+        ],
+        "Result Track Name": "Smile",
+        "Result Artist Names": [
+            "Lily Allen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4aR9bPMAOFySBuQSbVWF3d",
+        "Result Album Name": "Alright, Still (Bonus Track Version)"
     }
 ]

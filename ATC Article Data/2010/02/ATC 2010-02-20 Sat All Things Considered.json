@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-02-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:34:39"
+        "Scanned Date": "2022-02-07 01:34:39",
+        "Playlist URI": "7JyLFDYUmuuQcdQ2klZg4t",
+        "Playlist Link": "https://open.spotify.com/playlist/7JyLFDYUmuuQcdQ2klZg4t",
+        "Snapshot ID": "MSxhNmEyYzJiNmJlOTUyYWM3MGE3ZWRkYmViMGI4ZGIxMWVlMGE1YmU3",
+        "Playlist Name": "ATC 2010-02-20 Sat All Things Considered"
     },
     {
         "Title": "Conservatives Cite A Need To Reclaim Roots",
@@ -28,13 +32,26 @@
         "ATC Track": "Wolves",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "Wolves",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Di9ePtgmi2bQmzYdKFOXv",
+        "Result Album Name": "elm street"
     },
     {
         "ATC Track": "A-frame",
         "ATC Artists": [
             "Garage a Trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fallows On The News: The Death Of Alexander Haig",
@@ -59,7 +76,12 @@
         "ATC Artists": [
             "André Kostelanetz Orchestra",
             "André Kostelanetz (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Chubb Sub",
@@ -67,7 +89,15 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Chubb Sub",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NMpJoxykO6UIIXxg8im8K",
+        "Result Album Name": "Last Chance to Dance Trance (Perhaps): Best Of (1991-1996)"
     },
     {
         "Title": "Authors Attempt 'Death By Rubber Duck'",
@@ -91,12 +121,28 @@
         "ATC Track": "Slouchin'",
         "ATC Artists": [
             "Lonnie Liston Smith"
-        ]
+        ],
+        "Result Track Name": "Slouchin'",
+        "Result Artist Names": [
+            "Dr. Lonnie Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4gkSj853lhLhDeNxexteEZ",
+        "Result Album Name": "Octet in the Beginning, Vol. 1 & 2"
     },
     {
         "ATC Track": "In 3's",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "In 3's - Remastered 2009",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bhQBPayZFhp6nJqGqDTFo",
+        "Result Album Name": "Check Your Head"
     }
 ]

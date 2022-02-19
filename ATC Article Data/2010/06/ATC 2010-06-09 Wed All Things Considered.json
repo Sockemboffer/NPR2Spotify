@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-06-09",
         "Day": "Wed",
-        "Scanned Date": "2022-02-07 01:26:33"
+        "Scanned Date": "2022-02-07 01:26:33",
+        "Playlist URI": "5jUNvmzzH7wcTPQ72eTw1t",
+        "Playlist Link": "https://open.spotify.com/playlist/5jUNvmzzH7wcTPQ72eTw1t",
+        "Snapshot ID": "MSxlZWZkNTA5M2RkZTdlNTg0NmIzODNkNDFlNjcxYzViMmY0YzgzYzUy",
+        "Playlist Name": "ATC 2010-06-09 Wed All Things Considered"
     },
     {
         "Title": "The Endorser: Palin Gains Notice As A Primary Force",
@@ -28,13 +32,26 @@
         "ATC Track": "Thandabantu",
         "ATC Artists": [
             "Mtabhane Ndima"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Gaucho",
         "ATC Artists": [
             "Hot Club Sandwich"
-        ]
+        ],
+        "Result Track Name": "Gaucho",
+        "Result Artist Names": [
+            "Hot Club Sandwich"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:558Ssavaeh0lcOt1GhifwH",
+        "Result Album Name": "Green Room"
     },
     {
         "Title": "Israeli Official Disputes List Of Banned Gaza Products",
@@ -52,7 +69,12 @@
         "ATC Track": "Aquarelle, for guitar",
         "ATC Artists": [
             "David Russell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Death by Triple Fiddle",
@@ -60,7 +82,18 @@
             "Joshua Bell",
             "Edgar Meyer with Sam Bush",
             "Mike Marshall"
-        ]
+        ],
+        "Result Track Name": "Death by Triple Fiddle",
+        "Result Artist Names": [
+            "Joshua Bell",
+            "Sam Bush",
+            "Mike Marshall",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7058823529411765,
+        "Result Track URI": "spotify:track:45AOJcpoK2Xdl11rl07yFW",
+        "Result Album Name": "Short Trip Home"
     },
     {
         "Title": "With Traumatic Brain Injuries, Soldiers Face Battle For Care",
@@ -72,25 +105,57 @@
         "ATC Track": "Without Shades",
         "ATC Artists": [
             "Zagar"
-        ]
+        ],
+        "Result Track Name": "Without Shades",
+        "Result Artist Names": [
+            "Zagar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5dfaCRx82yRyxntQ2px1pJ",
+        "Result Album Name": "Cannot Walk Fly Instead"
     },
     {
         "ATC Track": "Ash Wednesday",
         "ATC Artists": [
             "Big Lazy"
-        ]
+        ],
+        "Result Track Name": "Ash Wednesday",
+        "Result Artist Names": [
+            "Big Lazy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HfXfJvIB3Sy0ZW3LhGFMk",
+        "Result Album Name": "Big Lazy"
     },
     {
         "ATC Track": "Rowing Away",
         "ATC Artists": [
             "Clothesline Revival"
-        ]
+        ],
+        "Result Track Name": "Rowing Away",
+        "Result Artist Names": [
+            "Clothesline Revival"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eDVu21lB57OWIgLIhbA2S",
+        "Result Album Name": "They Came From Somewhere"
     },
     {
         "ATC Track": "Lady!",
         "ATC Artists": [
             "Charlie Hunter Trio"
-        ]
+        ],
+        "Result Track Name": "Lady!",
+        "Result Artist Names": [
+            "Charlie Hunter Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2k2ggk8U0Gbj7K3tZ5RBxe",
+        "Result Album Name": "Mistico"
     },
     {
         "Title": "U.S. Approves New Sanctions Against Iran",
@@ -114,13 +179,29 @@
         "ATC Track": "When The Swallows Come Back To Capistrano",
         "ATC Artists": [
             "The Ink Spots"
-        ]
+        ],
+        "Result Track Name": "When The Swallows Come Back To Capistrano",
+        "Result Artist Names": [
+            "The Ink Spots"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1irsnS9Hy4f5UHszpwaKno",
+        "Result Album Name": "The Anthology"
     },
     {
         "ATC Track": "Psalm for the Elks Lodge Last Call",
         "ATC Artists": [
             "The Weakerthans"
-        ]
+        ],
+        "Result Track Name": "Psalm For The Elks Lodge Last Call",
+        "Result Artist Names": [
+            "The Weakerthans"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50fBHxSJMSvCdQITydVLc2",
+        "Result Album Name": "Reconstruction Site"
     },
     {
         "Title": "Pot Delivery Services Cropping Up Across California",
@@ -132,14 +213,27 @@
         "ATC Track": "The Goat",
         "ATC Artists": [
             "Sea of Cortez"
-        ]
+        ],
+        "Result Track Name": "The Goat",
+        "Result Artist Names": [
+            "The Sea Of Cortez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LSUPfIv7aeL8Ex5MwinWY",
+        "Result Album Name": "Make It Sound"
     },
     {
         "ATC Track": "The American Seasons: Spring",
         "ATC Artists": [
             "Mark O'Connor",
             "Metamorphosen Chamber Orchestra et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Gulf Disaster Spills Over Into Florida Politics",
@@ -157,7 +251,15 @@
         "ATC Track": "Capriccio",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Capriccio",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KTmxWbOk1mfW18ZYZk2OV",
+        "Result Album Name": "Highway Rider"
     },
     {
         "Title": "Tensions Rise Over Shooting Death Of Teen At Border",
@@ -169,14 +271,27 @@
         "ATC Track": "Canvas",
         "ATC Artists": [
             "Imogen Heap"
-        ]
+        ],
+        "Result Track Name": "Canvas",
+        "Result Artist Names": [
+            "Imogen Heap"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LoivZmDpN0aYwhjFzFluD",
+        "Result Album Name": "Ellipse"
     },
     {
         "ATC Track": "language of the Soul",
         "ATC Artists": [
             "Ronnie Earl",
             "the Broadcasters"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Review: 'How To Escape A Leper Colony'",
@@ -194,12 +309,22 @@
         "ATC Track": "House MD Theme Song",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lobby Call",
         "ATC Artists": [
             "Law of the Least Effort"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

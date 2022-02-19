@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-05-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:29:34"
+        "Scanned Date": "2022-02-07 01:29:34",
+        "Playlist URI": "5DY2zcuEBW22kPrKFpd1em",
+        "Playlist Link": "https://open.spotify.com/playlist/5DY2zcuEBW22kPrKFpd1em",
+        "Snapshot ID": "MSwzNWU0ODE0MmU3MzZlZjA0MTAzZTk3ODYyNTY5NTM4MjBkZTYzNGFl",
+        "Playlist Name": "ATC 2010-05-29 Sat All Things Considered"
     },
     {
         "Title": "BP's 'Top Kill' Attempt To Plug Oil Leak Fails",
@@ -28,13 +32,26 @@
         "ATC Track": "Running In Shallow Water",
         "ATC Artists": [
             "Dan Lambert"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sunset to Moonrise",
         "ATC Artists": [
             "Greg V."
-        ]
+        ],
+        "Result Track Name": "Sunset To Moonrise",
+        "Result Artist Names": [
+            "Greg V"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jcVkMH3XIZG1aK9Y5J07S",
+        "Result Album Name": "Tailgate Troubadour"
     },
     {
         "Title": "Week In News: Oil Spill, 'Don't Ask, Don't Tell'",
@@ -58,13 +75,26 @@
         "ATC Track": "Mein Giel [My Girl]",
         "ATC Artists": [
             "The Temptations"
-        ]
+        ],
+        "Result Track Name": "My Girl",
+        "Result Artist Names": [
+            "The Temptations"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:745H5CctFr12Mo7cqa1BMH",
+        "Result Album Name": "The Temptations Sing Smokey"
     },
     {
         "ATC Track": "Flying",
         "ATC Artists": [
             "Duke Levine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Dennis Hopper, Hollywood Rebel, Dies At 74",
@@ -88,18 +118,42 @@
         "ATC Track": "Amore Verra [You Can't Hurry Love]",
         "ATC Artists": [
             "The Supremes"
-        ]
+        ],
+        "Result Track Name": "L'Amore Verra' (You Can't Hurry Love) - Italian Version",
+        "Result Artist Names": [
+            "The Supremes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69AJTriV8mLHK7QO6S3t6s",
+        "Result Album Name": "50th Anniversary: The Singles Collection 1961-1969"
     },
     {
         "ATC Track": "Awful Pretty, Pretty Awful",
         "ATC Artists": [
             "Jim Campilongo"
-        ]
+        ],
+        "Result Track Name": "Awful Pretty, Pretty Awful - Solo Guitar - Chet Atkins Style",
+        "Result Artist Names": [
+            "Jim Campilongo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3py4syLMF9qrfqqKmy1xX4",
+        "Result Album Name": "Orange"
     },
     {
         "ATC Track": "Maroc 7",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "Maroc 7",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75XKTJ2W1JBgOKTpVZrEZc",
+        "Result Album Name": "The Original Chart Hits 1960-1980"
     }
 ]

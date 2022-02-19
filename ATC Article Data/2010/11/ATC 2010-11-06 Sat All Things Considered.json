@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-11-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:16:39"
+        "Scanned Date": "2022-02-07 01:16:39",
+        "Playlist URI": "7z3RlGheTqAHxQHPh2oPdH",
+        "Playlist Link": "https://open.spotify.com/playlist/7z3RlGheTqAHxQHPh2oPdH",
+        "Snapshot ID": "MSw4MGI4YTEyNDRmYzMyYzc1MmZkMDQ1MmQ3ZjU1NzE5NTQ3ODRiMjgx",
+        "Playlist Name": "ATC 2010-11-06 Sat All Things Considered"
     },
     {
         "Title": "White House's Economic Plans Face Gridlock In Congress",
@@ -16,13 +20,26 @@
         "ATC Track": "Outre Mer",
         "ATC Artists": [
             "Garage a trois"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "WINDY AND WARM",
         "ATC Artists": [
             "DOC WATSON"
-        ]
+        ],
+        "Result Track Name": "Windy And Warm",
+        "Result Artist Names": [
+            "Doc Watson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6iTmUT9VOB4tVg5SYBpcmH",
+        "Result Album Name": "The Vanguard Years"
     },
     {
         "Title": "Obama Looks To India To Heat Up U.S. Job Market",
@@ -46,13 +63,26 @@
         "ATC Track": "Follow Your Heart",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Follow Your Heart",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FQNbefyit72cZL1dcdRos",
+        "Result Album Name": "Ghost Town"
     },
     {
         "ATC Track": "Nyame Somafo",
         "ATC Artists": [
             "African Guitar Summit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Welcoming Fall With An Apple Tart",
@@ -76,18 +106,42 @@
         "ATC Track": "Midnight Train to Georgia",
         "ATC Artists": [
             "Neil Diamond"
-        ]
+        ],
+        "Result Track Name": "Midnight Train To Georgia",
+        "Result Artist Names": [
+            "Neil Diamond"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OrcwaX4WpNEFDhMMZaBRc",
+        "Result Album Name": "Dreams"
     },
     {
         "ATC Track": "The Wanderer",
         "ATC Artists": [
             "Floratone"
-        ]
+        ],
+        "Result Track Name": "The Wanderer",
+        "Result Artist Names": [
+            "Floratone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4UwvLISCpHWCDZf2rOAkaP",
+        "Result Album Name": "Floratone"
     },
     {
         "ATC Track": "Dented Fender",
         "ATC Artists": [
             "Roy Clark"
-        ]
+        ],
+        "Result Track Name": "Dented Fender",
+        "Result Artist Names": [
+            "Roy Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33rDdhMfwm3nkn7tcGzbnr",
+        "Result Album Name": "The Lightning Fingers Of Roy Clark"
     }
 ]

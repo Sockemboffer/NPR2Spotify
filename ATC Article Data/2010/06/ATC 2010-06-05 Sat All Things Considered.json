@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-06-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:26:18"
+        "Scanned Date": "2022-02-07 01:26:18",
+        "Playlist URI": "0gaOkozJODe0q1Vb9cnnTT",
+        "Playlist Link": "https://open.spotify.com/playlist/0gaOkozJODe0q1Vb9cnnTT",
+        "Snapshot ID": "MSwwMDM5MDNiNWQzNzA4YTJmYmNmYzgwMzA5M2FjNjY0MzY0NjU2NWUx",
+        "Playlist Name": "ATC 2010-06-05 Sat All Things Considered"
     },
     {
         "Title": "Israel's Right Wing Stance Seen Alienating Youth",
@@ -22,13 +26,26 @@
         "ATC Track": "Golden Country",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Holy Ghost White Noise",
         "ATC Artists": [
             "Ghostland Observatory"
-        ]
+        ],
+        "Result Track Name": "Holy Ghost White Noise",
+        "Result Artist Names": [
+            "Ghostland Observatory"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uLvTJYy6eXplw8SaTU4aY",
+        "Result Album Name": "Robotique Majestic"
     },
     {
         "Title": "Week In News: UCLA's Wooden Dies",
@@ -58,13 +75,29 @@
         "ATC Track": "Mike Mills",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Mike Mills",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Kay0txJIyIz0c941Nurb1",
+        "Result Album Name": "Talkie Walkie"
     },
     {
         "ATC Track": "Mandarine Girl [Album Version]",
         "ATC Artists": [
             "Booka Shade"
-        ]
+        ],
+        "Result Track Name": "Mandarine Girl",
+        "Result Artist Names": [
+            "Booka Shade"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nR2FxzwcHNhA4PiZCvHcJ",
+        "Result Album Name": "Deeper Sessions"
     },
     {
         "Title": "CIA Fight Against Communism Bolsters Radical Islam",
@@ -82,19 +115,46 @@
         "ATC Track": "Sonata In C Minor: I. Allegro",
         "ATC Artists": [
             "Danny Driver"
-        ]
+        ],
+        "Result Track Name": "Violin Sonata No.7 in C Minor, Op. 30/2: I. Allegro con brio",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Chloë Hanslip",
+            "Danny Driver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FhKYWkXSi9ysldyHUKZFZ",
+        "Result Album Name": "Beethoven: Violin Sonatas, Vol. 2"
     },
     {
         "ATC Track": "I Feel Space",
         "ATC Artists": [
             "Lindstrøm"
-        ]
+        ],
+        "Result Track Name": "I Feel Space",
+        "Result Artist Names": [
+            "Lindstrøm"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XwqNJ0IynowN5SEk3A6wP",
+        "Result Album Name": "I Feel Space"
     },
     {
         "ATC Track": "Body Language",
         "ATC Artists": [
             "M.A.N.D.Y.",
             "Booka Shade"
-        ]
+        ],
+        "Result Track Name": "Body Language - Original Mix",
+        "Result Artist Names": [
+            "M.A.N.D.Y.",
+            "Booka Shade"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52wJfSCcUt8qFkU0KYvQ4S",
+        "Result Album Name": "Body Language"
     }
 ]

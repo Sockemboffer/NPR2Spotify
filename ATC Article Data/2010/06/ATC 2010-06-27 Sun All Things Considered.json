@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-06-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:27:40"
+        "Scanned Date": "2022-02-07 01:27:40",
+        "Playlist URI": "0o2Qpdn8zycqk1XxT5qUV0",
+        "Playlist Link": "https://open.spotify.com/playlist/0o2Qpdn8zycqk1XxT5qUV0",
+        "Snapshot ID": "MSxmOWVlODhmZTU1ZDRmMGE1NjRkY2Q4OWE2NmUxYjU3NzQ3NzQ4OGQ5",
+        "Playlist Name": "ATC 2010-06-27 Sun All Things Considered"
     },
     {
         "Title": "U.S., Europe At Odds Over Economic Recovery",
@@ -22,13 +26,26 @@
         "ATC Track": "Voice of the Lobster",
         "ATC Artists": [
             "Clothesline Revival"
-        ]
+        ],
+        "Result Track Name": "Voice of the Lobster",
+        "Result Artist Names": [
+            "Clothesline Revival"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58JzMcLvIPxIv5bTFydSDx",
+        "Result Album Name": "They Came From Somewhere"
     },
     {
         "ATC Track": "Menudo Jaleo",
         "ATC Artists": [
             "Gnawledge"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Study: C-Section Babies Skip The Bacterial Slide",
@@ -59,13 +76,29 @@
         "ATC Artists": [
             "Chiswese",
             "Stella"
-        ]
+        ],
+        "Result Track Name": "Kuzanga",
+        "Result Artist Names": [
+            "Stella Chiweshe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1rs3qvAgdj525njYyZO0uI",
+        "Result Album Name": "Chiweshe: Chisi"
     },
     {
         "ATC Track": "Painting",
         "ATC Artists": [
             "Atmosphere"
-        ]
+        ],
+        "Result Track Name": "Painting",
+        "Result Artist Names": [
+            "Atmosphere"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24zsodLUzATgZLKbGXo4eF",
+        "Result Album Name": "When Life Gives You Lemons, You Paint That Shit Gold"
     },
     {
         "Title": "A Journey Along 'Spartacus Road'",
@@ -89,18 +122,42 @@
         "ATC Track": "What We Do",
         "ATC Artists": [
             "Devo"
-        ]
+        ],
+        "Result Track Name": "What We Do",
+        "Result Artist Names": [
+            "DEVO"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59Ss7vvOhGkuScI5dFFqLm",
+        "Result Album Name": "Something for Everybody (Deluxe)"
     },
     {
         "ATC Track": "Bilar",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Bilar",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jfI6KCyxXNVajIYlerBNr",
+        "Result Album Name": "LP4"
     },
     {
         "ATC Track": "Don't Get Around Much Anymore",
         "ATC Artists": [
             "Kevin Clark"
-        ]
+        ],
+        "Result Track Name": "Don't Get Around Much Anymore",
+        "Result Artist Names": [
+            "Kevin Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6jpGDQo3o0bf6OMNSetZlq",
+        "Result Album Name": "New Orleans Trumpet"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-11-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:17:33"
+        "Scanned Date": "2022-02-07 01:17:33",
+        "Playlist URI": "52ISFIA3GJpPasJgBXAk3Q",
+        "Playlist Link": "https://open.spotify.com/playlist/52ISFIA3GJpPasJgBXAk3Q",
+        "Snapshot ID": "MSxmMGZjY2E0Zjk3ZjQwYWY0MGJlYjZkYTAwZDc1OGRkZmU0MDQxYTEz",
+        "Playlist Name": "ATC 2010-11-20 Sat All Things Considered"
     },
     {
         "Title": "Parting Shots: A Verbal Gunslinger Exits The House",
@@ -23,13 +27,30 @@
         "ATC Artists": [
             "Mark O'Connor",
             "Metamorphosen Chamber Orchestra et. al."
-        ]
+        ],
+        "Result Track Name": "Strings & Threads Suite: VII. Shine On",
+        "Result Artist Names": [
+            "Mark O'Connor",
+            "Scott Yoo"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:0NRcj14mltDVsjYxR65Kd4",
+        "Result Album Name": "The American Seasons"
     },
     {
         "ATC Track": "Playground",
         "ATC Artists": [
             "Viktor Krauss"
-        ]
+        ],
+        "Result Track Name": "Playground",
+        "Result Artist Names": [
+            "Viktor Krauss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AFc5Wv8lx1irZL5Wwsc27",
+        "Result Album Name": "Far from Enough"
     },
     {
         "Title": "Week In News: Lame Duck Congress",
@@ -59,13 +80,26 @@
         "ATC Track": "Palefinger",
         "ATC Artists": [
             "Wisdom of Harry"
-        ]
+        ],
+        "Result Track Name": "Palefinger",
+        "Result Artist Names": [
+            "The Wisdom Of Harry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eQkfNtnnQpbTEeti3LDy5",
+        "Result Album Name": "House of Binary"
     },
     {
         "ATC Track": "Sthlm",
         "ATC Artists": [
             "Vandermark 5"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "OK: How Two Letters Made 'America's Greatest Word'",
@@ -89,18 +123,42 @@
         "ATC Track": "While You Doooo",
         "ATC Artists": [
             "Teebs"
-        ]
+        ],
+        "Result Track Name": "While You Doooo",
+        "Result Artist Names": [
+            "Teebs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2y26A8ntk24DSH0cXe8zpB",
+        "Result Album Name": "Ardour"
     },
     {
         "ATC Track": "Bound Ball",
         "ATC Artists": [
             "Teebs"
-        ]
+        ],
+        "Result Track Name": "Bound Ball",
+        "Result Artist Names": [
+            "Teebs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VZJc1Ks8GmX08VpHySAnW",
+        "Result Album Name": "Ardour (10th Anniversary Edition)"
     },
     {
         "ATC Track": "Wind Loop",
         "ATC Artists": [
             "Teebs"
-        ]
+        ],
+        "Result Track Name": "Wind Loop",
+        "Result Artist Names": [
+            "Teebs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2LJJqExWNlOFFXNLKRgPZt",
+        "Result Album Name": "Ardour"
     }
 ]

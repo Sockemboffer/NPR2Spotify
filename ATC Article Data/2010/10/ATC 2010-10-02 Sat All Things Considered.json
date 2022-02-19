@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-10-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:18:14"
+        "Scanned Date": "2022-02-07 01:18:14",
+        "Playlist URI": "4eRsJtKlpJuNhW8P7fVT32",
+        "Playlist Link": "https://open.spotify.com/playlist/4eRsJtKlpJuNhW8P7fVT32",
+        "Snapshot ID": "MSxmNDgyOWNkYjg3ZDkzYTlmZmEwNDJhYmEwZTYxZDBjYjE5OTFmODhi",
+        "Playlist Name": "ATC 2010-10-02 Sat All Things Considered"
     },
     {
         "Title": "Following The Money Behind Mystery Attack Ads",
@@ -16,13 +20,26 @@
         "ATC Track": "Chromakey Dreamcoat",
         "ATC Artists": [
             "Boards of Canada"
-        ]
+        ],
+        "Result Track Name": "Chromakey Dreamcoat",
+        "Result Artist Names": [
+            "Boards of Canada"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YxoC2dYOotjqt08dEifsc",
+        "Result Album Name": "The Campfire Headphase"
     },
     {
         "ATC Track": "Aja (Ode to Sunshine)",
         "ATC Artists": [
             "T.J. Rehmi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In News: Rahm Emanuel Departure From The White House",
@@ -52,13 +69,29 @@
         "ATC Track": "J'Ai Dormi Sous l'Eau",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "J'ai dormi sous l'eau",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CIlUgLNKzwjU59hPpqQ45",
+        "Result Album Name": "Premiers Symptômes"
     },
     {
         "ATC Track": "Raid the Radio",
         "ATC Artists": [
             "General Elektriks"
-        ]
+        ],
+        "Result Track Name": "Raid the Radio",
+        "Result Artist Names": [
+            "General Elektriks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WGQXwtBA62JfcNmDB9YrD",
+        "Result Album Name": "Good City For Dreamers"
     },
     {
         "Title": "The Great Migration: Journey That Reshaped America",
@@ -77,18 +110,42 @@
         "ATC Artists": [
             "JJ Grey",
             "Mofro"
-        ]
+        ],
+        "Result Track Name": "Hide & Seek",
+        "Result Artist Names": [
+            "JJ Grey & Mofro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7980G1EbUGxOFRLKT7k9CQ",
+        "Result Album Name": "Georgia Warhorse"
     },
     {
         "ATC Track": "Dawa Zangpo",
         "ATC Artists": [
             "Sub Dub"
-        ]
+        ],
+        "Result Track Name": "Dawa Zangpo",
+        "Result Artist Names": [
+            "Sub Dub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GVOPLU9SlMNDb7903hf19",
+        "Result Album Name": "Original Masters 1993-1995"
     },
     {
         "ATC Track": "Be a Bee",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Be a Bee",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OI0StietaYD7dqmzyQlJf",
+        "Result Album Name": "Love 2"
     }
 ]

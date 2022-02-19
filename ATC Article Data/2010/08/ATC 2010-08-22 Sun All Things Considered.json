@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-08-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:23:34"
+        "Scanned Date": "2022-02-07 01:23:34",
+        "Playlist URI": "38suRzszJweIqZcuX5z7K3",
+        "Playlist Link": "https://open.spotify.com/playlist/38suRzszJweIqZcuX5z7K3",
+        "Snapshot ID": "MSxlMDM1MmU1YTg0ZDY4Zjg2M2YwNzVmYjNhMjk3NjI1Zjk5MzUzNzEz",
+        "Playlist Name": "ATC 2010-08-22 Sun All Things Considered"
     },
     {
         "Title": "After Katrina, New Orleans Has A New Political Face",
@@ -16,13 +20,29 @@
         "ATC Track": "Birth of the Blues",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Birth of the Blues",
+        "Result Artist Names": [
+            "Sammy Davis Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5E4VwWbY7NYJHUEptyofcZ",
+        "Result Album Name": "A Treasury Of Golden Hits"
     },
     {
         "ATC Track": "Go Go",
         "ATC Artists": [
             "Galactic"
-        ]
+        ],
+        "Result Track Name": "Go Go",
+        "Result Artist Names": [
+            "Galactic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QHRoZ0WmteprL8tdVg2VN",
+        "Result Album Name": "Coolin' Off"
     },
     {
         "Title": "On A Budget, U.S. Faces World As 'Frugal Superpower'",
@@ -52,13 +72,26 @@
         "ATC Track": "Rhapsody In Blue (Reprise)",
         "ATC Artists": [
             "Brian Wilson"
-        ]
+        ],
+        "Result Track Name": "Rhapsody in Blue (Reprise)",
+        "Result Artist Names": [
+            "Brian Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZneZhedC5V398JV0MPPiT",
+        "Result Album Name": "Brian Wilson Reimagines Gershwin"
     },
     {
         "ATC Track": "Mardi Gras in New Orleans",
         "ATC Artists": [
             "Tuba Fats' Chosen Few Brass Band"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Slow Rebirth, Across Town From 'Treme'",
@@ -82,19 +115,43 @@
         "ATC Track": "It Ain't Necessarily So",
         "ATC Artists": [
             "Brian Wilson"
-        ]
+        ],
+        "Result Track Name": "It Ain't Necessarily So",
+        "Result Artist Names": [
+            "Brian Wilson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hOEqMFPuczClctzpGMTDa",
+        "Result Album Name": "Brian Wilson Reimagines Gershwin"
     },
     {
         "ATC Track": "Dr. Jazz",
         "ATC Artists": [
             "Ellis Marsalis"
-        ]
+        ],
+        "Result Track Name": "Dr. Jazz",
+        "Result Artist Names": [
+            "Ellis Marsalis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6POSNLrXlzfPrioSsnHIOY",
+        "Result Album Name": "Heart Of Gold"
     },
     {
         "ATC Track": "Potato Head Blues",
         "ATC Artists": [
             "Louis Armstrong",
             "His Hot Seven"
-        ]
+        ],
+        "Result Track Name": "Potato Head Blues",
+        "Result Artist Names": [
+            "Louis Armstrong & His Hot Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6v27P8xpwlYSaaV56levKN",
+        "Result Album Name": "The Complete Hot Five And Hot Seven Recordings Volume 2"
     }
 ]

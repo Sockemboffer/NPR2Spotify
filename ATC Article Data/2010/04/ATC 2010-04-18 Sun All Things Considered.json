@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-04-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:30:41"
+        "Scanned Date": "2022-02-07 01:30:41",
+        "Playlist URI": "75neZoYicNeWLcqpElGF6P",
+        "Playlist Link": "https://open.spotify.com/playlist/75neZoYicNeWLcqpElGF6P",
+        "Snapshot ID": "MSw5YzFjYzQ0NTlkN2U1ZjUyY2IzZjZmNjNhOGI2N2I3MTg4OWFmMzYy",
+        "Playlist Name": "ATC 2010-04-18 Sun All Things Considered"
     },
     {
         "Title": "Volcanic Ash Continues To Hamper Air Travel",
@@ -28,13 +32,29 @@
         "ATC Track": "Blimp",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Blimp",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42mu3BO6BwwYVk2H5skHi1",
+        "Result Album Name": "One Guitar, No Vocals"
     },
     {
         "ATC Track": "Bone Chaos in the Castle",
         "ATC Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Bone Chaos in the Castle",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Jqv8VGcsAAMfaEoUVPXkz",
+        "Result Album Name": "Dreaming of Revenge"
     },
     {
         "Title": "Could Bush Tax Cuts Survive?",
@@ -64,14 +84,30 @@
         "ATC Track": "D’amor sull’ali rosee",
         "ATC Artists": [
             "Sondra Radvanovsky"
-        ]
+        ],
+        "Result Track Name": "Il trovatore: Act IV: D'amor sull'ali rosee vanne",
+        "Result Artist Names": [
+            "Giuseppe Verdi",
+            "Sondra Radvanovsky",
+            "Philharmonia of Russia",
+            "Constantine Orbelian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4e34qDzYuqb1RUNKaT0pvi",
+        "Result Album Name": "Verdi: Arias"
     },
     {
         "ATC Track": "Frankie's Blues",
         "ATC Artists": [
             "Mike Morgan",
             "the Crawl"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Three-Minute Fiction: A Sneak Peek",
@@ -89,12 +125,28 @@
         "ATC Track": "SUNSHINE IN HOUSTON",
         "ATC Artists": [
             "SAM MITCHELL"
-        ]
+        ],
+        "Result Track Name": "Sunshine in Houston",
+        "Result Artist Names": [
+            "Sam Mitchell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7sikkwa2xyO0qz2moUmD5X",
+        "Result Album Name": "Bottleneck / Slide Guitar"
     },
     {
         "ATC Track": "Instrumental",
         "ATC Artists": [
             "Taj Mahal"
-        ]
+        ],
+        "Result Track Name": "Instrumental",
+        "Result Artist Names": [
+            "Taj Mahal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22zCQtO22HXIFFSJwJiOz3",
+        "Result Album Name": "Stagger Lee"
     }
 ]

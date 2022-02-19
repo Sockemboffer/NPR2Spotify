@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-09-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:20:27"
+        "Scanned Date": "2022-02-07 01:20:27",
+        "Playlist URI": "3EkkrFGAkJc61OuksvYBV0",
+        "Playlist Link": "https://open.spotify.com/playlist/3EkkrFGAkJc61OuksvYBV0",
+        "Snapshot ID": "MSw2MjVmYTc4NzdlMzA1MGJlNzVjMWI0ZDRhZTk1MWFjMDA3NTlhZDQ2",
+        "Playlist Name": "ATC 2010-09-05 Sun All Things Considered"
     },
     {
         "Title": "Muslim Americans Find Their Voice Amid The Shouts",
@@ -17,14 +21,31 @@
         "ATC Artists": [
             "Mayadine",
             "Al Quartet"
-        ]
+        ],
+        "Result Track Name": "Third Movement",
+        "Result Artist Names": [
+            "SE-Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2aUg1bGonD9qZ8vNnPmhbK",
+        "Result Album Name": "Home"
     },
     {
         "ATC Track": "My Comfort Remains",
         "ATC Artists": [
             "Nusrat Fateh Ali Khan",
             "Michael Brook"
-        ]
+        ],
+        "Result Track Name": "My Comfort Remains",
+        "Result Artist Names": [
+            "Michael Brook",
+            "Nusrat Fateh Ali Khan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1O6CgteM5ETfwiaOiMVtgq",
+        "Result Album Name": "Night Song (Real World Gold)"
     },
     {
         "Title": "Next Up For The Economy: Small-Business Tax Cuts?",
@@ -48,13 +69,26 @@
         "ATC Track": "Caravan",
         "ATC Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Caravan",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Jw4lBWbcznhlitliEMW0x",
+        "Result Album Name": "Jazz Profile: Duke Ellington"
     },
     {
         "ATC Track": "Serenata",
         "ATC Artists": [
             "Orquesta Nova"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Betto Arcos Brings Heat From Mexico",
@@ -72,12 +106,25 @@
         "ATC Track": "I Ain't Got Nothin' But the Blues",
         "ATC Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "I Ain't Got Nothin' But The Blues",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zz6rH3BQrZUni0QqAnti5",
+        "Result Album Name": "Play On! (Original Broadway Cast Recording)"
     },
     {
         "ATC Track": "Blues en Dos Partes",
         "ATC Artists": [
             "Arturo Sandoval"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

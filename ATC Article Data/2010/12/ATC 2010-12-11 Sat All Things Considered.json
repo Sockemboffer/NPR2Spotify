@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-12-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:15:02"
+        "Scanned Date": "2022-02-07 01:15:02",
+        "Playlist URI": "673ewdsPX5Fdv6KLiRv0Op",
+        "Playlist Link": "https://open.spotify.com/playlist/673ewdsPX5Fdv6KLiRv0Op",
+        "Snapshot ID": "MSxmNWYxMjliYTFhZTQ0ZTc4ZDgxYmQ4NTRlM2I2NGE2N2M2NTdkMjE1",
+        "Playlist Name": "ATC 2010-12-11 Sat All Things Considered"
     },
     {
         "Title": "Walmart Shoppers: Homeland Security Wants You",
@@ -16,13 +20,26 @@
         "ATC Track": "Ancient Evenings",
         "ATC Artists": [
             "Garry Hughes"
-        ]
+        ],
+        "Result Track Name": "Ancient Evenings",
+        "Result Artist Names": [
+            "Garry Hughes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1WZBDgWceBu9XJRcpG7DZI",
+        "Result Album Name": "Best of Hearts of Space, No. 2: Ancient Evenings"
     },
     {
         "ATC Track": "Lullaby for Alexander [Instrumental]",
         "ATC Artists": [
             "Beat Circus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In News: Sanders' Filibuster",
@@ -52,19 +69,38 @@
         "ATC Track": "Excerpt From \"Plook the Asbestos Lobster\"",
         "ATC Artists": [
             "Michael Gulezian"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Main Title",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
+        "Result Artist Names": [
+            "John Williams",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FlxqJmoZWS2q1uRlyZVur",
+        "Result Album Name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]"
     },
     {
         "ATC Track": "Chicago Sunrise",
         "ATC Artists": [
             "Nikki Lynette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kitty Kelley Defends The 'Unauthorized' Biography",
@@ -88,18 +124,36 @@
         "ATC Track": "Liberation Time",
         "ATC Artists": [
             "Nikki Lynette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Whatever I Want",
         "ATC Artists": [
             "Nikki Lynette"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Orleans Stomp",
         "ATC Artists": [
             "The Cruel Sea"
-        ]
+        ],
+        "Result Track Name": "Orleans Stomp",
+        "Result Artist Names": [
+            "The Cruel Sea"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FhsxLSn3dLCZ15dF3rICJ",
+        "Result Album Name": "The Most (Best Of)"
     }
 ]

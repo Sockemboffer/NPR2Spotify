@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-07-31",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:25:57"
+        "Scanned Date": "2022-02-07 01:25:57",
+        "Playlist URI": "19rPDT7GdHsVtc2gMNTdoB",
+        "Playlist Link": "https://open.spotify.com/playlist/19rPDT7GdHsVtc2gMNTdoB",
+        "Snapshot ID": "MSwyYWU5NmEzNzUzMjYyYWVkMTA4NTUxM2UzYjQ2NDM5NGU2NGI5NjMw",
+        "Playlist Name": "ATC 2010-07-31 Sat All Things Considered"
     },
     {
         "Title": "Secrets, Leaks And Access",
@@ -16,13 +20,29 @@
         "ATC Track": "Field Code",
         "ATC Artists": [
             "Brokeback"
-        ]
+        ],
+        "Result Track Name": "The Field Code",
+        "Result Artist Names": [
+            "Brokeback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Q3F27RVIqnmSdGYMgefXo",
+        "Result Album Name": "Field Recordings from the Cook County Water Table"
     },
     {
         "ATC Track": "Road Bone",
         "ATC Artists": [
             "Willy Porter"
-        ]
+        ],
+        "Result Track Name": "Road Bone",
+        "Result Artist Names": [
+            "Willy Porter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7llw7XLjrd9pKGz8CkpJQ9",
+        "Result Album Name": "Falling Forward"
     },
     {
         "Title": "Week In News: WikiLeaks, Rangel",
@@ -46,19 +66,40 @@
         "ATC Track": "Clouds Moving In [Instrumental]",
         "ATC Artists": [
             "Beat Circus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Going Back to Cali",
         "ATC Artists": [
             "LL Cool J"
-        ]
+        ],
+        "Result Track Name": "Going Back To Cali",
+        "Result Artist Names": [
+            "LL Cool J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Fkr6zTAxsXbG9kG8ISqos",
+        "Result Album Name": "Walking With A Panther"
     },
     {
         "ATC Track": "Hot Pants Road",
         "ATC Artists": [
             "The J.B.'s"
-        ]
+        ],
+        "Result Track Name": "Hot Pants Road",
+        "Result Artist Names": [
+            "The J.B.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6YYy6cE5nvb7HsD975BR3H",
+        "Result Album Name": "Food For Thought"
     },
     {
         "Title": "'Less Than Zero' Addicts Reach Middle Age",
@@ -76,18 +117,39 @@
         "ATC Track": "Please Don't Offend Me",
         "ATC Artists": [
             "Jac Zinder"
-        ]
+        ],
+        "Result Track Name": "Please Don't Offend Me",
+        "Result Artist Names": [
+            "Jac Zinder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ugrx9fHsi1hSyujk2XMl2",
+        "Result Album Name": "Chairs I Have Known"
     },
     {
         "ATC Track": "Everybody Wants to Rule the World",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Heart of Glass",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "Heart of Glass",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UJBpxe8RLG671e7xnvbGn",
+        "Result Album Name": "These Are The Vistas"
     }
 ]

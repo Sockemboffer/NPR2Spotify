@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-08-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:22:38"
+        "Scanned Date": "2022-02-07 01:22:38",
+        "Playlist URI": "7e3l8FrHKmaLTL3O7nh7r4",
+        "Playlist Link": "https://open.spotify.com/playlist/7e3l8FrHKmaLTL3O7nh7r4",
+        "Snapshot ID": "MSxjMTY5OGQ0NTRhMzk5NGYwNWFkNTY2OTAyYzcwOTdjNWIxYzIxOTA2",
+        "Playlist Name": "ATC 2010-08-07 Sat All Things Considered"
     },
     {
         "Title": "Stockman: Bush Tax Cuts Will Make U.S. Bankrupt",
@@ -22,14 +26,30 @@
         "ATC Track": "Instrumental",
         "ATC Artists": [
             "Doug Martsch"
-        ]
+        ],
+        "Result Track Name": "Instrumental",
+        "Result Artist Names": [
+            "Doug Martsch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kpU7zQdIyjmF6iTA20mrA",
+        "Result Album Name": "Now You Know"
     },
     {
         "ATC Track": "Tu Fin, Mi Comienzo",
         "ATC Artists": [
             "Ocote Soul Sounds",
             "Adrian Quesada"
-        ]
+        ],
+        "Result Track Name": "Tu Fin, Mi Comienzo",
+        "Result Artist Names": [
+            "Ocote Soul Sounds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:5zGet4nH8NGE9hxFHpOlg5",
+        "Result Album Name": "Coconut Rock"
     },
     {
         "Title": "Week In News: Kagan, Net Neutrality",
@@ -59,14 +79,31 @@
         "ATC Track": "Memphis Emphasis",
         "ATC Artists": [
             "Tristeza"
-        ]
+        ],
+        "Result Track Name": "Memphis Emphasis",
+        "Result Artist Names": [
+            "Tristeza"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6EL1SjVXdgSYdEc2JxFbug",
+        "Result Album Name": "Spine And Sensory (Expanded And Remastered)"
     },
     {
         "ATC Track": "2 Sips & Magic",
         "ATC Artists": [
             "Nickodemus",
             "The New York Gypsy Allstars"
-        ]
+        ],
+        "Result Track Name": "2 Sips and Magic",
+        "Result Artist Names": [
+            "Nickodemus",
+            "The NY Gypsy Allstars"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:54e5nrtiXQB88C4HDTyXsy",
+        "Result Album Name": "The Wonderwheel Spins 2012"
     },
     {
         "Title": "'Late-Life Lesbians' Reveal Fluidity Of Sexuality",
@@ -85,19 +122,47 @@
         "ATC Artists": [
             "Björk",
             "Icelandic Choir et. al."
-        ]
+        ],
+        "Result Track Name": "Pleasure Is All Mine",
+        "Result Artist Names": [
+            "Björk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2ZPZLaYjIPxfun7erbbw98",
+        "Result Album Name": "Medulla"
     },
     {
         "ATC Track": "Voodoo Royale (Thunderball vs. Fort Knox Five Remix)",
         "ATC Artists": [
             "Watch TV",
             "The Primetimes"
-        ]
+        ],
+        "Result Track Name": "Voodoo Royale - Thunderball Vs Fort Knox Five Remix",
+        "Result Artist Names": [
+            "Watch TV",
+            "The Primetimes",
+            "El Gran Lapofsky",
+            "Fort Knox Five",
+            "Thunderball"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sF2wZ3quyGqE1mbXPYf0f",
+        "Result Album Name": "Funk n' Beats, Vol. 4 (Mixed by Fort Knox Five)"
     },
     {
         "ATC Track": "Intenso Azul",
         "ATC Artists": [
             "Quasamodo"
-        ]
+        ],
+        "Result Track Name": "Intenso Azul - Atfunk Remix",
+        "Result Artist Names": [
+            "Quasamodo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fPtx0g4ZUrfCRDdAXDRS7",
+        "Result Album Name": "Truth Be Told Remixed Vol.1"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-07-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:24:45"
+        "Scanned Date": "2022-02-07 01:24:45",
+        "Playlist URI": "0KGChqyje2dGfGGDAHOhw4",
+        "Playlist Link": "https://open.spotify.com/playlist/0KGChqyje2dGfGGDAHOhw4",
+        "Snapshot ID": "MSwzODg0ZTIzN2ZlZTM2NTFhY2MxNDdjZWZkZWY5NTdkZDY2ZGUzM2U1",
+        "Playlist Name": "ATC 2010-07-11 Sun All Things Considered"
     },
     {
         "Title": "Congress Stalled As 2 Million Lose Jobless Benefits",
@@ -28,13 +32,29 @@
         "ATC Track": "Timorme",
         "ATC Artists": [
             "Parlour"
-        ]
+        ],
+        "Result Track Name": "Timorme - Remastered",
+        "Result Artist Names": [
+            "Parlour"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uQ0ob7S6WQMP5gTvePuhD",
+        "Result Album Name": "Hives Fives (Anniversary Edition)"
     },
     {
         "ATC Track": "You've Been Spiked",
         "ATC Artists": [
             "Chris Joss"
-        ]
+        ],
+        "Result Track Name": "You've Been Spiked",
+        "Result Artist Names": [
+            "Chris Joss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LTPLra2uBRLUWu3v6ep9x",
+        "Result Album Name": "You've Been Spiked"
     },
     {
         "Title": "Spain Wins World Cup Over Netherlands, 1-0",
@@ -58,7 +78,15 @@
         "ATC Track": "Time Will Tell the Story",
         "ATC Artists": [
             "Bill Kirchen"
-        ]
+        ],
+        "Result Track Name": "Time Will Tell the Story",
+        "Result Artist Names": [
+            "Bill Kirchen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hFd7kGY2jHiECE5Utqpgj",
+        "Result Album Name": "The Proper Years"
     },
     {
         "ATC Track": "Samba 1000 [Nicola Conte Mix]",
@@ -66,7 +94,12 @@
             "Ursula 1000",
             "De Dominicis",
             "Barbara"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Penicillin Comes Of Age In 'A Fierce Radiance'",
@@ -90,18 +123,36 @@
         "ATC Track": "Flip Flop",
         "ATC Artists": [
             "Bill Kirchen"
-        ]
+        ],
+        "Result Track Name": "Flip Flop",
+        "Result Artist Names": [
+            "Bill Kirchen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GnWd52ALnzLFRxou4PFW2",
+        "Result Album Name": "The Proper Years"
     },
     {
         "ATC Track": "Prima Vera",
         "ATC Artists": [
             "Trüby Trio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "My Oracle Lives Uptown",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

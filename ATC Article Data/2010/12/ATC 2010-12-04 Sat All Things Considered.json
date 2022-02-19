@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-12-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:14:34"
+        "Scanned Date": "2022-02-07 01:14:34",
+        "Playlist URI": "6BHI4HD7cSRwbzRWOhnYlD",
+        "Playlist Link": "https://open.spotify.com/playlist/6BHI4HD7cSRwbzRWOhnYlD",
+        "Snapshot ID": "MSxlOTJiYWFkZDYyNzA1N2Y2NmI3YjM1MTQxYjZlMzU0MjY5MmRlNzE1",
+        "Playlist Name": "ATC 2010-12-04 Sat All Things Considered"
     },
     {
         "Title": "Hope For Life After Deficit Plan's Death",
@@ -16,7 +20,12 @@
         "ATC Track": "[Untitled Track]",
         "ATC Artists": [
             "Andrew Bird"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In News: Chinese Internet Hacking",
@@ -34,7 +43,15 @@
         "ATC Track": "Conga Style",
         "ATC Artists": [
             "Dusty Trails"
-        ]
+        ],
+        "Result Track Name": "Conga Style",
+        "Result Artist Names": [
+            "Dusty Trails"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wITA3O2PWQRvOgHcnvRHO",
+        "Result Album Name": "Dusty Trails"
     },
     {
         "Title": "LAPD Stamps 'Closed' On Nearly 100 Cold Cases",
@@ -52,13 +69,30 @@
         "ATC Track": "Monoliths",
         "ATC Artists": [
             "Maserati"
-        ]
+        ],
+        "Result Track Name": "Monoliths",
+        "Result Artist Names": [
+            "Maserati"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KpyRdFIiop5Y8cAvx4CmX",
+        "Result Album Name": "Passages"
     },
     {
         "ATC Track": "Heliocentric",
         "ATC Artists": [
             "DJ Spooky"
-        ]
+        ],
+        "Result Track Name": "Heliocentric",
+        "Result Artist Names": [
+            "DJ Spooky",
+            "Peter Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jB4z4K1fqR1gnFXurY0X3",
+        "Result Album Name": "The Secret Song"
     },
     {
         "Title": "Wrestling Leopards, Felling Apes: A Life In Taxidermy",
@@ -76,18 +110,33 @@
         "ATC Track": "That's Right",
         "ATC Artists": [
             "Girl Talk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Black Hole Sun",
         "ATC Artists": [
             "The Moog Cookbook"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Buddy Holly",
         "ATC Artists": [
             "The Moog Cookbook"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

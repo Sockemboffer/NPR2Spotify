@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-01-18",
         "Day": "Mon",
-        "Scanned Date": "2022-02-07 01:36:12"
+        "Scanned Date": "2022-02-07 01:36:12",
+        "Playlist URI": "3EcT5UZOnT0SoyHCbjK6dZ",
+        "Playlist Link": "https://open.spotify.com/playlist/3EcT5UZOnT0SoyHCbjK6dZ",
+        "Snapshot ID": "MSwxYjAxYmNlMTJhNGYwODZjYmM1ZTA2MTU5ZmE4MjU0NTYyY2U5OTQw",
+        "Playlist Name": "ATC 2010-01-18 Mon All Things Considered"
     },
     {
         "Title": "Devastation Lies Beyond Haiti's Capital",
@@ -22,7 +26,12 @@
         "ATC Track": "The Room of Accidental Gometry",
         "ATC Artists": [
             "Harold Budd"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Report: U.S. Failed To Connect Dots In Airline Plot",
@@ -34,13 +43,29 @@
         "ATC Track": "Koshala",
         "ATC Artists": [
             "Steve Tibbetts"
-        ]
+        ],
+        "Result Track Name": "Koshala",
+        "Result Artist Names": [
+            "Steve Tibbetts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1a7uozMD4xj8KScjGkT868",
+        "Result Album Name": "A Man About A Horse"
     },
     {
         "ATC Track": "EGYPTIAN DOMINO WALTZ",
         "ATC Artists": [
             "AMERICAN CAFE ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Egyptian Domino Waltz",
+        "Result Artist Names": [
+            "American Café Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2M4HdpuH0EAq9O1Ag9jyQs",
+        "Result Album Name": "Nightmare Polka"
     },
     {
         "Title": "Technology And Disaster: Helping Haiti",
@@ -58,7 +83,15 @@
         "ATC Track": "Computer Love",
         "ATC Artists": [
             "Balanescu Quartet"
-        ]
+        ],
+        "Result Track Name": "Computer Love",
+        "Result Artist Names": [
+            "Balanescu Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34qecLz9HBzeZiAovUhAsk",
+        "Result Album Name": "Possessed (Reissue)"
     },
     {
         "Title": "In Las Vegas, African-Americans Rally Around Reid",
@@ -83,14 +116,31 @@
         "ATC Artists": [
             "Ramsey Lewis",
             "Billy Taylor"
-        ]
+        ],
+        "Result Track Name": "We Meet Again",
+        "Result Artist Names": [
+            "Chick Corea",
+            "Ramsey Lewis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7IAfVYqoos7IfMCKukW28j",
+        "Result Album Name": "We Meet Again"
     },
     {
         "ATC Track": "What?!",
         "ATC Artists": [
             "Wycliffe Gordon",
             "Ronald Westray"
-        ]
+        ],
+        "Result Track Name": "What?!",
+        "Result Artist Names": [
+            "Wycliffe Gordon & Ronald Westray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xjAY9d571wELynHcS4JyO",
+        "Result Album Name": "Bone Structure"
     },
     {
         "Title": "An Unsparing Look At A Writer Named Coetzee",
@@ -108,13 +158,28 @@
         "ATC Track": "spring",
         "ATC Artists": [
             "Debussy"
-        ]
+        ],
+        "Result Track Name": "Salut Printemps! (We Sing to Spring)",
+        "Result Artist Names": [
+            "Claude Debussy",
+            "Adolf Fredrik Girls Choir",
+            "Bo Johansson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rdeczPc9f5ZPcLnkRnZ1l",
+        "Result Album Name": "I'm Here! And You?"
     },
     {
         "ATC Track": "paradise",
         "ATC Artists": [
             "curlew"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Marines Arrive In Haiti",
@@ -138,7 +203,15 @@
         "ATC Track": "Sweetness Alone",
         "ATC Artists": [
             "Trapezoid"
-        ]
+        ],
+        "Result Track Name": "Sweetness Alone",
+        "Result Artist Names": [
+            "Trapezoid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cOeT8b6g6FpTSGrfSLkNJ",
+        "Result Album Name": "Remembered Ways"
     },
     {
         "Title": "Mass. Senate Race Has National Implications",
@@ -150,13 +223,29 @@
         "ATC Track": "Lost in the Woods",
         "ATC Artists": [
             "Alex de Grassi"
-        ]
+        ],
+        "Result Track Name": "Lost In The Woods",
+        "Result Artist Names": [
+            "Alex de Grassi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jNKQHCasjluoVM3RVgSyT",
+        "Result Album Name": "The Water Garden"
     },
     {
         "ATC Track": "Spare Change",
         "ATC Artists": [
             "Michael Hedges"
-        ]
+        ],
+        "Result Track Name": "Spare Change",
+        "Result Artist Names": [
+            "Michael Hedges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2jH0tY7Lh1Ia7d4Hie6Muz",
+        "Result Album Name": "Aerial Boundaries"
     },
     {
         "Title": "The Flexner Report And Medical Education",
@@ -174,13 +263,30 @@
         "ATC Track": "Claudia",
         "ATC Artists": [
             "Paquito D'Rivera"
-        ]
+        ],
+        "Result Track Name": "Claudia",
+        "Result Artist Names": [
+            "Paquito D'Rivera",
+            "Arturo Sandoval"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3l1JDeHAlg2h1BqPrEFJxT",
+        "Result Album Name": "Reunion"
     },
     {
         "ATC Track": "Gypsy Stomp/In Walked Bud",
         "ATC Artists": [
             "Rodney Miller"
-        ]
+        ],
+        "Result Track Name": "Gypsy Stomp / In Walked Bud",
+        "Result Artist Names": [
+            "Rodney Miller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FWmESeQmHdaDthJCzKQYE",
+        "Result Album Name": "Airdance"
     },
     {
         "Title": "In China, All Eyes On Google",
@@ -198,7 +304,15 @@
         "ATC Track": "Lonesome Cactus Groove",
         "ATC Artists": [
             "Neptune Quartet"
-        ]
+        ],
+        "Result Track Name": "Lonesome Cactus Groove",
+        "Result Artist Names": [
+            "The Neptune Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Sy0O2DbnivzUoh9bOwTD7",
+        "Result Album Name": "Lonesome Cactus Groove"
     },
     {
         "Title": "Cleveland Orchestra On Strike",
@@ -210,13 +324,31 @@
         "ATC Track": "IN PRAISE OF SHAHN",
         "ATC Artists": [
             "LEONARD BERNSTEIN AND NEW YORK PHILHARMONIC"
-        ]
+        ],
+        "Result Track Name": "In Praise of Shahn: I. Vigoroso",
+        "Result Artist Names": [
+            "William Schuman",
+            "Leonard Bernstein",
+            "New York Philharmonic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HmdDxyRgzVkLcrCICZayq",
+        "Result Album Name": "Barber: Adagio for Strings & Violin Concerto - Schuman: To Thee Old Cause & In Praise of Shahn"
     },
     {
         "ATC Track": "The Blue Ocean",
         "ATC Artists": [
             "Peppino d'Agostino"
-        ]
+        ],
+        "Result Track Name": "The Blue Ocean",
+        "Result Artist Names": [
+            "Peppino D'Agostino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66jUcxXSOtKnVB11Hzvyny",
+        "Result Album Name": "Penumbra"
     },
     {
         "Title": "Nation Commemorates King Holiday",
@@ -235,13 +367,26 @@
         "ATC Artists": [
             "Brian Eno",
             "Roger Eno et. al."
-        ]
+        ],
+        "Result Track Name": "An Ending (Ascent) - Remastered 2019",
+        "Result Artist Names": [
+            "Brian Eno"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4ZknuVR2jOpMOcfwWpsuEr",
+        "Result Album Name": "Apollo: Atmospheres And Soundtracks (Extended Edition)"
     },
     {
         "ATC Track": "LA SERENADE",
         "ATC Artists": [
             "GEF LUCENA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Arsonists, Looters On Rampage In Haiti",

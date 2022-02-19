@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-09-22",
         "Day": "Wed",
-        "Scanned Date": "2022-02-07 01:21:36"
+        "Scanned Date": "2022-02-07 01:21:36",
+        "Playlist URI": "0b8AXXm1LHkEHVQqMEPLBZ",
+        "Playlist Link": "https://open.spotify.com/playlist/0b8AXXm1LHkEHVQqMEPLBZ",
+        "Snapshot ID": "MSxmZmI3YWFiNmQ5NTJhMTA4NDFmNGE2YzI5ZThhNTM1ODU2MTE2NWQ5",
+        "Playlist Name": "ATC 2010-09-22 Wed All Things Considered"
     },
     {
         "Title": "Obama Reaffirms Commitment To Aid Poor Nations",
@@ -22,13 +26,26 @@
         "ATC Track": "Parker's Mood",
         "ATC Artists": [
             "The Roy Hargrove Quintet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Springsville",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Springsville",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4kML1OCLMXpEaWAgExXVdb",
+        "Result Album Name": "Miles Ahead (Expanded Edition)"
     },
     {
         "Title": "Sloppy Paperwork Forces Halt To Some Foreclosures",
@@ -46,13 +63,30 @@
         "ATC Track": "Prelude [Cello Suite No. 1]",
         "ATC Artists": [
             "Yo-Yo Ma"
-        ]
+        ],
+        "Result Track Name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Yo-Yo Ma"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:61dYvvfIRtIDFuqZypPAta",
+        "Result Album Name": "Bach: Unaccompanied Cello Suites (Remastered)"
     },
     {
         "ATC Track": "Black Wolf Blues",
         "ATC Artists": [
             "Champion Jack Dupree"
-        ]
+        ],
+        "Result Track Name": "Black Wolf Blues",
+        "Result Artist Names": [
+            "Champion Jack Dupree"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xOcXHabfABy3QpU04FDnk",
+        "Result Album Name": "Classic Piano Blues from Smithsonian Folkways"
     },
     {
         "Title": "Letters: 'Waiting For Superman'",
@@ -82,13 +116,29 @@
         "ATC Track": "Weigh Your Blessings",
         "ATC Artists": [
             "Chopteeth"
-        ]
+        ],
+        "Result Track Name": "Weigh Your Blessings",
+        "Result Artist Names": [
+            "Chopteeth Afrofunk Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PezDZeQbMzpbGC96kDWTH",
+        "Result Album Name": "Chopteeth Afrofunk Big Band"
     },
     {
         "ATC Track": "Lollipops and Roses",
         "ATC Artists": [
             "Herb Alpert"
-        ]
+        ],
+        "Result Track Name": "Lollipops And Roses",
+        "Result Artist Names": [
+            "Herb Alpert & The Tijuana Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gQKAsWNtTPatFlcmz9ds1",
+        "Result Album Name": "Whipped Cream & Other Delights"
     },
     {
         "Title": "FCC To Weigh In On 'White Spaces'",
@@ -106,19 +156,43 @@
         "ATC Track": "Arati",
         "ATC Artists": [
             "Rasa"
-        ]
+        ],
+        "Result Track Name": "Arati",
+        "Result Artist Names": [
+            "Rasa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0lv2P23cP67c6zysjG8iBT",
+        "Result Album Name": "Devotion"
     },
     {
         "ATC Track": "Whipped Cream",
         "ATC Artists": [
             "Herb Alpert"
-        ]
+        ],
+        "Result Track Name": "Whipped Cream",
+        "Result Artist Names": [
+            "Herb Alpert & The Tijuana Brass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XdUwMWATBQCwemga7jfjA",
+        "Result Album Name": "Whipped Cream & Other Delights"
     },
     {
         "ATC Track": "Dinah",
         "ATC Artists": [
             "Thelonious Monk"
-        ]
+        ],
+        "Result Track Name": "Dinah (Take 2)",
+        "Result Artist Names": [
+            "Thelonious Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1XS5vGKquDNjxU6gLQcKd2",
+        "Result Album Name": "Solo Monk"
     },
     {
         "Title": "Elizabeth Warren Won't Be Put In 'Pumpkin Shell'",
@@ -142,13 +216,29 @@
         "ATC Track": "Nomad",
         "ATC Artists": [
             "Aqua Velvets"
-        ]
+        ],
+        "Result Track Name": "nomad",
+        "Result Artist Names": [
+            "The Aqua Velvets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3lSaehdRyGHFPac27MkWkl",
+        "Result Album Name": "Nomad"
     },
     {
         "ATC Track": "Rebel Walk",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Rebel Walk",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59Y7z8izldfXOvv2b11Von",
+        "Result Album Name": "The Birth of a Guitar Legend"
     },
     {
         "Title": "House Hearing On Salmonella-Tainted Eggs Turns Testy",
@@ -166,13 +256,29 @@
         "ATC Track": "Rain on the Scarecrow",
         "ATC Artists": [
             "John Mellencamp"
-        ]
+        ],
+        "Result Track Name": "Rain On The Scarecrow",
+        "Result Artist Names": [
+            "John Mellencamp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24iUpyUeGv6AoikfxpRofO",
+        "Result Album Name": "Scarecrow"
     },
     {
         "ATC Track": "Black Wolf Blues",
         "ATC Artists": [
             "Champion Jack Dupree"
-        ]
+        ],
+        "Result Track Name": "Black Wolf Blues",
+        "Result Artist Names": [
+            "Champion Jack Dupree"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xOcXHabfABy3QpU04FDnk",
+        "Result Album Name": "Classic Piano Blues from Smithsonian Folkways"
     },
     {
         "Title": "Murkowski Defies GOP, Mounts Write-In Campaign",
@@ -196,13 +302,26 @@
         "ATC Track": "Rosebud",
         "ATC Artists": [
             "Jeff Beck"
-        ]
+        ],
+        "Result Track Name": "Rosebud",
+        "Result Artist Names": [
+            "Jeff Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zu0zce7sWCO39vO7Hkpdg",
+        "Result Album Name": "You Had It Coming"
     },
     {
         "ATC Track": "Everything Must Go",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hilary Hahn Plays Concertos Both Classic And Contemporary",
@@ -214,6 +333,11 @@
         "ATC Track": "Spanish Dances, for violin & piano, Op. 22, No. 1, Romanza Andaluza, Op. 22/1",
         "ATC Artists": [
             "Itzhak Perlman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-05-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:28:46"
+        "Scanned Date": "2022-02-07 01:28:46",
+        "Playlist URI": "7DI7PXwNPONdwVldd5GoCE",
+        "Playlist Link": "https://open.spotify.com/playlist/7DI7PXwNPONdwVldd5GoCE",
+        "Snapshot ID": "MSw4ZGY5ZWExYjc4Mjg0ZTRhMjllNmRlOTlkNjM5OTAzMzRkYzBhNmMx",
+        "Playlist Name": "ATC 2010-05-16 Sun All Things Considered"
     },
     {
         "Title": "In Kentucky, Rand Paul Tries To Ride Tea Party Wave",
@@ -28,13 +32,29 @@
         "ATC Track": "The Snake and the Lotus (The Pond)",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Snake And The Lotus (The Pond) - 2008 Digital Remaster",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8235294117647058,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5sRbd4Fi95BZ6jytP81vFl",
+        "Result Album Name": "Signs Of Life"
     },
     {
         "ATC Track": "Creation Dream",
         "ATC Artists": [
             "Michael Occhipinti"
-        ]
+        ],
+        "Result Track Name": "Creation Dream",
+        "Result Artist Names": [
+            "Michael Occhipinti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4v5srRsq7ohhYnAJU4zmao",
+        "Result Album Name": "Creation Dream: The Songs Of Bruce Cockburn"
     },
     {
         "Title": "Scientists Find Huge Oil Plumes In Gulf",
@@ -58,7 +78,15 @@
         "ATC Track": "Dusty McNugget",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Dusty McNugget",
+        "Result Artist Names": [
+            "Brad Mehldau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rLu8rOuwHPGFCmo1Yv5We",
+        "Result Album Name": "Largo"
     },
     {
         "Title": "A Five-Song Playlist, From 'Morning Becomes Eclectic'",
@@ -76,18 +104,40 @@
         "ATC Track": "Fame",
         "ATC Artists": [
             "String Quartet"
-        ]
+        ],
+        "Result Track Name": "Fame",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1AgWvhMiPYlDEesxByE1FU",
+        "Result Album Name": "VSQ Performs David Bowie"
     },
     {
         "ATC Track": "Cherry County",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Cherry County",
+        "Result Artist Names": [
+            "Leo Kottke",
+            "Mike Gordon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FfhgYuxVOVS45bXgFwHql",
+        "Result Album Name": "Sixty Six Steps"
     },
     {
         "ATC Track": "Gavotte",
         "ATC Artists": [
             "The Modern Mandolin Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

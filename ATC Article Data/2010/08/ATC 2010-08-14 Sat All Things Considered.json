@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-08-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:23:05"
+        "Scanned Date": "2022-02-07 01:23:05",
+        "Playlist URI": "1gDNw2fcsfYChIg8LEKV3g",
+        "Playlist Link": "https://open.spotify.com/playlist/1gDNw2fcsfYChIg8LEKV3g",
+        "Snapshot ID": "MSw1ZGE5ZDBiNzM3NTRiODg4MzJlNTJkYzEzMzJmNDVhZmEzMDU5MWMz",
+        "Playlist Name": "ATC 2010-08-14 Sat All Things Considered"
     },
     {
         "Title": "Revisiting The Constitution's 'Birthright Citizenship'",
@@ -22,13 +26,29 @@
         "ATC Track": "My Only Swerving",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "My Only Swerving",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4q26ViixkilRLjl1MdLABS",
+        "Result Album Name": "El Ten Eleven"
     },
     {
         "ATC Track": "SATURDAY'S CHILD",
         "ATC Artists": [
             "JOHN BARRY"
-        ]
+        ],
+        "Result Track Name": "Saturday's Child - Remastered",
+        "Result Artist Names": [
+            "John Barry Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qhvZAeYfiwWZIe13UNlqO",
+        "Result Album Name": "Anthology: The Deluxe Collection (Remastered)"
     },
     {
         "Title": "Fallows On The News: N.Y. Mosque And More",
@@ -58,13 +78,29 @@
         "ATC Track": "Ted [Bibio Remix]",
         "ATC Artists": [
             "Chris Clark"
-        ]
+        ],
+        "Result Track Name": "Ted (Bibio Remix)",
+        "Result Artist Names": [
+            "Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5t1bJTcIk1KXrRtYF0aVan",
+        "Result Album Name": "Ted E.P."
     },
     {
         "ATC Track": "Moon Child",
         "ATC Artists": [
             "The Ventures"
-        ]
+        ],
+        "Result Track Name": "Moon Child",
+        "Result Artist Names": [
+            "The Ventures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Sr3nTbixmGQDVso5BkYSB",
+        "Result Album Name": "Ventures In Space"
     },
     {
         "Title": "In 'The Great Divorce': A Mover Against The Shakers",
@@ -84,18 +120,39 @@
             "Christine Brewer",
             "Atlanta Symphony Orchestra",
             "Donald Runnicles (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Cannonball",
         "ATC Artists": [
             "Duane Eddy"
-        ]
+        ],
+        "Result Track Name": "Cannonball",
+        "Result Artist Names": [
+            "Duane Eddy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:49pnPOIXktLEbyJmM5iMkf",
+        "Result Album Name": "Have 'Twangy' Guitar Will Travel"
     },
     {
         "ATC Track": "Fandango",
         "ATC Artists": [
             "The Shadows"
-        ]
+        ],
+        "Result Track Name": "Fandango",
+        "Result Artist Names": [
+            "The Shadows"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4dlufpJfktO2Vwn6rgdcuj",
+        "Result Album Name": "The Early Years 1959-1966"
     }
 ]

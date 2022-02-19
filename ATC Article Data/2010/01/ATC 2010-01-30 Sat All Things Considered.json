@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-01-30",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:36:54"
+        "Scanned Date": "2022-02-07 01:36:54",
+        "Playlist URI": "0cQLXWVN9uzej1mnQSBifH",
+        "Playlist Link": "https://open.spotify.com/playlist/0cQLXWVN9uzej1mnQSBifH",
+        "Snapshot ID": "MSw2NzVjNTI0YTkyZjY4Y2QxYmJkZDNjZTAzM2I2YzJjNTBjYzRlNDJl",
+        "Playlist Name": "ATC 2010-01-30 Sat All Things Considered"
     },
     {
         "Title": "Is Bipartisanship Really Possible?",
@@ -16,13 +20,29 @@
         "ATC Track": "Saving Words for Making Sense",
         "ATC Artists": [
             "Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Saving Words For Making Sense",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1t71mp3aGnBhxYj6hsjLER",
+        "Result Album Name": "Everywhere And Right Here"
     },
     {
         "ATC Track": "Happy Together",
         "ATC Artists": [
             "Phil Leadbetter"
-        ]
+        ],
+        "Result Track Name": "Happy Together",
+        "Result Artist Names": [
+            "Phil Leadbetter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gUUZWdUJt15mnY0llmfaJ",
+        "Result Album Name": "Philibuster"
     },
     {
         "Title": "Fallows On The News: State Of The Union, China",
@@ -46,13 +66,26 @@
         "ATC Track": "Cape Cod Kwassa Kwassa",
         "ATC Artists": [
             "Vampire Weekend"
-        ]
+        ],
+        "Result Track Name": "Cape Cod Kwassa Kwassa",
+        "Result Artist Names": [
+            "Vampire Weekend"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vTBBxcBB2Nb3ezQFRrGFO",
+        "Result Album Name": "Vampire Weekend"
     },
     {
         "ATC Track": "Moment's Notice",
         "ATC Artists": [
             "Turtle Island String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Debunking Conspiracy Theories In 'Voodoo Histories'",
@@ -70,18 +103,42 @@
         "ATC Track": "Run",
         "ATC Artists": [
             "Vampire Weekend"
-        ]
+        ],
+        "Result Track Name": "Run",
+        "Result Artist Names": [
+            "Vampire Weekend"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NIdc4obivq0EavNkcPU6Y",
+        "Result Album Name": "Contra"
     },
     {
         "ATC Track": "Diplomat's Son",
         "ATC Artists": [
             "Vampire Weekend"
-        ]
+        ],
+        "Result Track Name": "Diplomat's Son",
+        "Result Artist Names": [
+            "Vampire Weekend"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Dx352kZFiXR1NlcEMDJZx",
+        "Result Album Name": "Contra"
     },
     {
         "ATC Track": "M79",
         "ATC Artists": [
             "Vampire Weekend"
-        ]
+        ],
+        "Result Track Name": "M79",
+        "Result Artist Names": [
+            "Vampire Weekend"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PYTEgSf4opLzuUiPecUqS",
+        "Result Album Name": "Vampire Weekend"
     }
 ]

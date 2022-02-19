@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-01-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:36:32"
+        "Scanned Date": "2022-02-07 01:36:32",
+        "Playlist URI": "3g43Lu6yR06Pxckx6Ut5Lk",
+        "Playlist Link": "https://open.spotify.com/playlist/3g43Lu6yR06Pxckx6Ut5Lk",
+        "Snapshot ID": "MSxmNTEzODVjMDc5OGU3NDA5Yzk1MGI1YjkwYWVjOGRmMGRmYWQwNTYy",
+        "Playlist Name": "ATC 2010-01-24 Sun All Things Considered"
     },
     {
         "Title": "In Wake Of Losses, Obama Retooling Strategy",
@@ -22,13 +26,26 @@
         "ATC Track": "Hard Times",
         "ATC Artists": [
             "Chris Proctor"
-        ]
+        ],
+        "Result Track Name": "Hard Times",
+        "Result Artist Names": [
+            "Chris Proctor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6vCJi9UK6CInJxKR17yzeB",
+        "Result Album Name": "Ladybug Stomp"
     },
     {
         "ATC Track": "White Elephant",
         "ATC Artists": [
             "Aphrodesia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Panel Charts Progress On Preventing WMD Attack",
@@ -58,13 +75,26 @@
         "ATC Track": "Bourée in G",
         "ATC Artists": [
             "Harvey Reid"
-        ]
+        ],
+        "Result Track Name": "Bouree In G",
+        "Result Artist Names": [
+            "Harvey Reid"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mFVJJMo6TshOHxceGrUdJ",
+        "Result Album Name": "The Autoharp Album"
     },
     {
         "ATC Track": "Vavarano",
         "ATC Artists": [
             "D' Gary"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alison Weir, Arguing The Case For Anne Boleyn",
@@ -82,18 +112,41 @@
         "ATC Track": "Concerto for Turntables and Orchestra/Largo Pesante - Allegro - Largo.",
         "ATC Artists": [
             "DJ Yoda"
-        ]
+        ],
+        "Result Track Name": "Concerto for Turntables and Orchestra No. 1: III. Largo Pesante-Allegro-Largo \"Malmo\"",
+        "Result Artist Names": [
+            "Gabriel Prokofiev",
+            "The Heritage Orchestra",
+            "DJ Yoda"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wOoWcposC0CnAKs9LeojO",
+        "Result Album Name": "Gabriel Prokofiev: Concerto for Turntables and Orchestra No. 1"
     },
     {
         "ATC Track": "Tsenao Amin' NY Gara",
         "ATC Artists": [
             "Tarika Sammy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "yaa yaa kole",
         "ATC Artists": [
             "the pan african orchestra"
-        ]
+        ],
+        "Result Track Name": "Yaa Yaa Kolé",
+        "Result Artist Names": [
+            "The Pan African Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UZ8crgL9mCjcBA0tFcJlH",
+        "Result Album Name": "Opus 1"
     }
 ]

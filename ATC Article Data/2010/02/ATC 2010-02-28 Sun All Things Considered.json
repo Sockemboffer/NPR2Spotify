@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-02-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:35:07"
+        "Scanned Date": "2022-02-07 01:35:07",
+        "Playlist URI": "1yCYEE8FBR6vamnCdPJtuX",
+        "Playlist Link": "https://open.spotify.com/playlist/1yCYEE8FBR6vamnCdPJtuX",
+        "Snapshot ID": "MSwxNDUzZGQzYjVhMmZmMjY3NWJlNjc3YWEyYWU1MDkzNDRjNjUwYTky",
+        "Playlist Name": "ATC 2010-02-28 Sun All Things Considered"
     },
     {
         "Title": "Along Chile's Roads, Scenes Of Wreckage",
@@ -36,14 +40,24 @@
             "Steve Reich",
             "Ossia",
             "Alan Pierson (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Cfern, for drum set & ensemble",
         "ATC Artists": [
             "Alarm Will Sound",
             "Alan Pierson (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Team Canada Beats Team USA In Hockey",
@@ -73,13 +87,26 @@
         "ATC Track": "El Colibri for guitar (\"The Hummingbird\")",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Brimful of Asha",
         "ATC Artists": [
             "Cornershop"
-        ]
+        ],
+        "Result Track Name": "Brimful Of Asha - Norman Cook Remix Single Version",
+        "Result Artist Names": [
+            "Cornershop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gbdLLUhocAjThL3GvV6Lx",
+        "Result Album Name": "The Greatest Hits: Why Try Harder"
     },
     {
         "Title": "Three-Minute Fiction Contest Deadline Nears",
@@ -97,6 +124,11 @@
         "ATC Track": "Preludes (24) for piano, Op. 28, CT. 166-189 [No. 24 in D minor. Allegro appassionato]",
         "ATC Artists": [
             "Rafal Blechacz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-07-03",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:24:16"
+        "Scanned Date": "2022-02-07 01:24:16",
+        "Playlist URI": "4XpA4ZUR8EH8y51umU21Uk",
+        "Playlist Link": "https://open.spotify.com/playlist/4XpA4ZUR8EH8y51umU21Uk",
+        "Snapshot ID": "MSwxMzQ0NDQ5NjkzYjdhNjlkZGMxZTk3NjVlOTg1ODJmNDQ0ZjYwM2Rm",
+        "Playlist Name": "ATC 2010-07-03 Sat All Things Considered"
     },
     {
         "Title": "Economic Signs Suggest A Bleak Road Ahead",
@@ -22,13 +26,29 @@
         "ATC Track": "Sabrosa",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Sabrosa",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yOhl93toXcntCqDtAI7iL",
+        "Result Album Name": "The In Sound From Way Out!"
     },
     {
         "ATC Track": "Kenya",
         "ATC Artists": [
             "J.J. Johnson"
-        ]
+        ],
+        "Result Track Name": "Kenya",
+        "Result Artist Names": [
+            "J.J. Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RSi2aq2DypT9LPOyFYAcP",
+        "Result Album Name": "Let's Hang Out"
     },
     {
         "Title": "Week In News: Petraeus Takes Over In Afghanistan",
@@ -58,19 +78,44 @@
         "ATC Track": "Rondo (Allegro)",
         "ATC Artists": [
             "Ludwig van Beethoven"
-        ]
+        ],
+        "Result Track Name": "Violin Concerto in D Major, Op. 61: III. Rondo. Allegro",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Fritz Kreisler",
+            "Anne-Sophie Mutter",
+            "Berliner Philharmoniker",
+            "Herbert von Karajan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2swq2p4lpt41Jp6P0hrxQ0",
+        "Result Album Name": "Deep Dive - Beethoven"
     },
     {
         "ATC Track": "Chocolate City Dreaming",
         "ATC Artists": [
             "Oddisee"
-        ]
+        ],
+        "Result Track Name": "Chocolate City Dreaming",
+        "Result Artist Names": [
+            "Oddisee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:104GvGZMIIWvUiCDqM5tDE",
+        "Result Album Name": "Odd Seasons"
     },
     {
         "ATC Track": "Hip Hop Instrumentals 021",
         "ATC Artists": [
             "Hip Hop Instrumentals"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Biologist Warns Of Danger From Rising Sea Levels",
@@ -88,18 +133,39 @@
         "ATC Track": "The Blooming",
         "ATC Artists": [
             "Oddisee"
-        ]
+        ],
+        "Result Track Name": "The Blooming",
+        "Result Artist Names": [
+            "Oddisee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Jf9QubiT3T9VKwMhCvxrK",
+        "Result Album Name": "Odd Seasons"
     },
     {
         "ATC Track": "Ghost Riders in the Sky",
         "ATC Artists": [
             "The Ventures"
-        ]
+        ],
+        "Result Track Name": "(Ghost) Riders In The Sky",
+        "Result Artist Names": [
+            "The Ventures"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63Hb7XoQ8JzBiTr1nxp9pH",
+        "Result Album Name": "Another Smash!!!"
     },
     {
         "ATC Track": "Hip Hop Instrumentals 007",
         "ATC Artists": [
             "Hip Hop Instrumentals"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

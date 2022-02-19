@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-07-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:24:18"
+        "Scanned Date": "2022-02-07 01:24:18",
+        "Playlist URI": "33vNxpreKeP8NuTxKBVv12",
+        "Playlist Link": "https://open.spotify.com/playlist/33vNxpreKeP8NuTxKBVv12",
+        "Snapshot ID": "MSw3MmJmY2M3YTk3YmM0ZGM5ZGU1MGNiOTMyODRlMjkxOTVlZTUyNzli",
+        "Playlist Name": "ATC 2010-07-04 Sun All Things Considered"
     },
     {
         "Title": "A Reagan Legacy: Amnesty For Illegal Immigrants",
@@ -16,7 +20,15 @@
         "ATC Track": "Sensual Seduction",
         "ATC Artists": [
             "Snoop Dogg"
-        ]
+        ],
+        "Result Track Name": "Sensual Seduction",
+        "Result Artist Names": [
+            "Snoop Dogg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wva1IlWLDNLgwipUWcmjy",
+        "Result Album Name": "Sensual Seduction"
     },
     {
         "Title": "Tobacco Farmers Feel The Pinch Of Rising Taxes",
@@ -40,13 +52,30 @@
         "ATC Track": "Devrah's Delight",
         "ATC Artists": [
             "Trapezoid"
-        ]
+        ],
+        "Result Track Name": "Devrah's Delight",
+        "Result Artist Names": [
+            "Trapezoid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nB7vdwT0bYcHJj3DPqAmP",
+        "Result Album Name": "Long Time Down This Road"
     },
     {
         "ATC Track": "Lil Freak",
         "ATC Artists": [
             "Usher"
-        ]
+        ],
+        "Result Track Name": "Lil Freak (feat. Nicki Minaj)",
+        "Result Artist Names": [
+            "Usher",
+            "Nicki Minaj"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sdarYql1R0GAdFsdb4LDM",
+        "Result Album Name": "Raymond v Raymond (Expanded Edition)"
     },
     {
         "Title": "Philip Mould, 'The Art Detective'",
@@ -64,18 +93,39 @@
         "ATC Track": "This Guitar is For Sale",
         "ATC Artists": [
             "John Prine"
-        ]
+        ],
+        "Result Track Name": "This Guitar Is For Sale",
+        "Result Artist Names": [
+            "John Prine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rHR08qxFVqTUvPMz0wmgt",
+        "Result Album Name": "Twistable, Turnable Man: A Musical Tribute To The Songs Of Shel Silverstein"
     },
     {
         "ATC Track": "Magdelene's House",
         "ATC Artists": [
             "Abdul Aziz el-Sayed"
-        ]
+        ],
+        "Result Track Name": "Magdelene's House",
+        "Result Artist Names": [
+            "Abdul Aziz El-sayed"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0GezNGYlBupdAjYDwIP4qJ",
+        "Result Album Name": "Passion Sources"
     },
     {
         "ATC Track": "I Am a Police Tyrannosaurus",
         "ATC Artists": [
             "Jim Hoke"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-11-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:17:58"
+        "Scanned Date": "2022-02-07 01:17:58",
+        "Playlist URI": "1uzhiRaYaNQFAAZFw2wuvr",
+        "Playlist Link": "https://open.spotify.com/playlist/1uzhiRaYaNQFAAZFw2wuvr",
+        "Snapshot ID": "MSw5OTk0NDIxZWM3N2ZmMzA0NmNiZTg1OWMzYTdlMjI5ODZmOGZkYmMw",
+        "Playlist Name": "ATC 2010-11-27 Sat All Things Considered"
     },
     {
         "Title": "What's The Difference Between Debt And Deficit?",
@@ -16,13 +20,29 @@
         "ATC Track": "For the Love of Money",
         "ATC Artists": [
             "The O'Jays"
-        ]
+        ],
+        "Result Track Name": "For the Love of Money",
+        "Result Artist Names": [
+            "The O'Jays"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3p1JoOEhVkEnTaa4JzTMSk",
+        "Result Album Name": "Ship Ahoy (Expanded Edition)"
     },
     {
         "ATC Track": "Mystic Brew",
         "ATC Artists": [
             "Ronnie Foster"
-        ]
+        ],
+        "Result Track Name": "Mystic Brew",
+        "Result Artist Names": [
+            "Ronnie Foster"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40XIh4aEp1Ts5F4XEQM2lj",
+        "Result Album Name": "Two Headed Freap"
     },
     {
         "Title": "Week In News: Korean Tension, Terror Threats",
@@ -52,14 +72,28 @@
         "ATC Track": "Election Time",
         "ATC Artists": [
             "Wyclef Jean"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Iest Sexy",
         "ATC Artists": [
             "Mahala Rai Banda",
             "Shantel"
-        ]
+        ],
+        "Result Track Name": "Iest Sexy",
+        "Result Artist Names": [
+            "Mahala Rai Banda",
+            "Shantel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5R156fd0GSgPDtUqyKMACA",
+        "Result Album Name": "Romanian Carnival Party, Vol. 2"
     },
     {
         "Title": "NFL Rebroadcast Lets The Players Do The Talking",
@@ -83,7 +117,12 @@
         "ATC Track": "Prison for the K",
         "ATC Artists": [
             "Wyclef Jean"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "It's Your Thing",
@@ -91,6 +130,14 @@
             "Lou Donaldson",
             "Donaldson",
             "Lou"
-        ]
+        ],
+        "Result Track Name": "It's Your Thing",
+        "Result Artist Names": [
+            "Lou Donaldson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gUA3yByA6HPvaJlAYHfQr",
+        "Result Album Name": "Hot Dog"
     }
 ]

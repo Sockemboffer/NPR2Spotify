@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-10-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:18:16"
+        "Scanned Date": "2022-02-07 01:18:16",
+        "Playlist URI": "2NYunVWsi8gKNP10YPR0X8",
+        "Playlist Link": "https://open.spotify.com/playlist/2NYunVWsi8gKNP10YPR0X8",
+        "Snapshot ID": "MSxiZjMwYmYzNTYxNGYwOTc5MjcxOTY4NjE4NDA3MDNmNGMyMWRkMmQz",
+        "Playlist Name": "ATC 2010-10-03 Sun All Things Considered"
     },
     {
         "Title": "Reviled And Revered, TARP Expires",
@@ -16,13 +20,26 @@
         "ATC Track": "D Song",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "D Song",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4d9LscecWjNIkll4aY52Fi",
+        "Result Album Name": "Dial 'M' for Monkey"
     },
     {
         "ATC Track": "Do You Dream [Kraak en Smaak Remix]",
         "ATC Artists": [
             "Ikon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chinese Investment In Greece Spurs Mixed Reaction",
@@ -46,13 +63,29 @@
         "ATC Track": "Memories",
         "ATC Artists": [
             "Weezer"
-        ]
+        ],
+        "Result Track Name": "Memories",
+        "Result Artist Names": [
+            "Weezer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29BK3FAFBEfhO5w4ZlFrky",
+        "Result Album Name": "Hurley (Deluxe Edition)"
     },
     {
         "ATC Track": "Pacific 707",
         "ATC Artists": [
             "808 State"
-        ]
+        ],
+        "Result Track Name": "Pacific 707",
+        "Result Artist Names": [
+            "808 State"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2riROGFV3u0vtPnUT1z9Sc",
+        "Result Album Name": "808:88:98"
     },
     {
         "Title": "Three-Minute Fiction: Sneak Peek",
@@ -76,18 +109,39 @@
         "ATC Track": "Creep",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "Creep",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
+        "Result Album Name": "Pablo Honey"
     },
     {
         "ATC Track": "Only Shallow",
         "ATC Artists": [
             "Japancakes"
-        ]
+        ],
+        "Result Track Name": "Only Shallow",
+        "Result Artist Names": [
+            "Japancakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ho3xEgZyhErrgh8HSReIA",
+        "Result Album Name": "Loveless"
     },
     {
         "ATC Track": "My Oracle Lives Uptown",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

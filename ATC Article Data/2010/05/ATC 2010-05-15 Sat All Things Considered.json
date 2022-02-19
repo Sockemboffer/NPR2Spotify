@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-05-15",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:28:44"
+        "Scanned Date": "2022-02-07 01:28:44",
+        "Playlist URI": "5mQzjGEpNZwv9ofCqbZDcB",
+        "Playlist Link": "https://open.spotify.com/playlist/5mQzjGEpNZwv9ofCqbZDcB",
+        "Snapshot ID": "MSwxM2NlMzhkNzU3OTk0MzNjMjgzZWIyMjNlYmM5Mjc1ZDE4ZTFmMGU3",
+        "Playlist Name": "ATC 2010-05-15 Sat All Things Considered"
     },
     {
         "Title": "Tar Balls Wash Up On Gulf Coast",
@@ -22,13 +26,26 @@
         "ATC Track": "All Cats Are Grey",
         "ATC Artists": [
             "The Cure"
-        ]
+        ],
+        "Result Track Name": "All Cats Are Grey - 2005 Remaster",
+        "Result Artist Names": [
+            "The Cure"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ivExgZt9Inzro5wa4yAYy",
+        "Result Album Name": "Faith"
     },
     {
         "ATC Track": "Long de La Riviere Tendre",
         "ATC Artists": [
             "Sebastien Tellier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "News Wrap-Up: Primaries, Elena Kagan, Immigration",
@@ -52,13 +69,29 @@
         "ATC Track": "Outskirts of Town",
         "ATC Artists": [
             "Josh White"
-        ]
+        ],
+        "Result Track Name": "Outskirts Of Town",
+        "Result Artist Names": [
+            "Josh White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:78v867YaX0fVvJGq2eZ6N5",
+        "Result Album Name": "Classic Appalachian Blues from Smithsonian Folkways"
     },
     {
         "ATC Track": "Love Like a Sunset, Pt. 2",
         "ATC Artists": [
             "Phoenix"
-        ]
+        ],
+        "Result Track Name": "Love Like a Sunset, Pt. 2",
+        "Result Artist Names": [
+            "Phoenix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7DB9MrZ4jthCItE95ycD3g",
+        "Result Album Name": "Wolfgang Amadeus Phoenix"
     },
     {
         "Title": "Colonial 'Revolutionaries' Were Reluctant Rebels",
@@ -82,18 +115,42 @@
         "ATC Track": "One Dime Blues",
         "ATC Artists": [
             "Etta Baker"
-        ]
+        ],
+        "Result Track Name": "One Dime Blues",
+        "Result Artist Names": [
+            "Etta Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52Gj8YMcK0SeUodBoSVmZL",
+        "Result Album Name": "Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music"
     },
     {
         "ATC Track": "Girlfriend",
         "ATC Artists": [
             "Phoenix"
-        ]
+        ],
+        "Result Track Name": "Girlfriend",
+        "Result Artist Names": [
+            "Phoenix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1y93GivWNLkNwZafKo4CjY",
+        "Result Album Name": "Wolfgang Amadeus Phoenix"
     },
     {
         "ATC Track": "Black-Key Magic",
         "ATC Artists": [
             "The Matt Savage Trio"
-        ]
+        ],
+        "Result Track Name": "Black-Key Magic",
+        "Result Artist Names": [
+            "The Matt Savage Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30ShfgmzwJXHk4h9ckeoH5",
+        "Result Album Name": "Hot Ticket: Live in Boston"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-02-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:35:05"
+        "Scanned Date": "2022-02-07 01:35:05",
+        "Playlist URI": "7pFd7AjIiDt1gMfWGfrctO",
+        "Playlist Link": "https://open.spotify.com/playlist/7pFd7AjIiDt1gMfWGfrctO",
+        "Snapshot ID": "MSxlNzZjMTEzOWFlYmJkMDcxNTc5MTM3OGQ0N2MzOWM4YWQ1MzVmM2U5",
+        "Playlist Name": "ATC 2010-02-27 Sat All Things Considered"
     },
     {
         "Title": "Deadly Quake Hits Chile; Sparks Tsunami",
@@ -22,13 +26,29 @@
         "ATC Track": "JJ Leaves LA",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "JJ Leaves LA",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qrG9uYjBEPnhmHKesMZaM",
+        "Result Album Name": "Shine"
     },
     {
         "ATC Track": "Energy Flow",
         "ATC Artists": [
             "Ryuichi Sakamoto"
-        ]
+        ],
+        "Result Track Name": "energy flow",
+        "Result Artist Names": [
+            "Ryuichi Sakamoto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rXnP6n3myylS9PV4N53ID",
+        "Result Album Name": "BTTB - 20th Anniversary Edition"
     },
     {
         "Title": "Obama, Congress, And The Need For Toughness",
@@ -58,13 +78,30 @@
         "ATC Track": "Yeri Ali",
         "ATC Artists": [
             "Clogs"
-        ]
+        ],
+        "Result Track Name": "Yeri Ali",
+        "Result Artist Names": [
+            "Clogs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wCxwJgrpKDnMAgryMGzC6",
+        "Result Album Name": "Thom's Night Out"
     },
     {
         "ATC Track": "The Blue Room & Other Stories: Tarantella",
         "ATC Artists": [
             "Ethel"
-        ]
+        ],
+        "Result Track Name": "The Blue Room and Other Stories: IV. Tarantella",
+        "Result Artist Names": [
+            "Phil Kline",
+            "Ethel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GLRmAbmQp0zoVidHeEmb0",
+        "Result Album Name": "Ethel"
     },
     {
         "Title": "Grapefruit-Mint Panna Cotta: A Taste of Spring",
@@ -76,7 +113,15 @@
         "ATC Track": "Black Book",
         "ATC Artists": [
             "Stephen Malkmus"
-        ]
+        ],
+        "Result Track Name": "Black Book",
+        "Result Artist Names": [
+            "Stephen Malkmus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2T5BUPDYn7Uu4Sm9mj0hvO",
+        "Result Album Name": "Stephen Malkmus"
     },
     {
         "Title": "Writing With The Smiths: Pen, Paper And Morrissey",
@@ -88,18 +133,39 @@
         "ATC Track": "Stop Me If You Think You've Heard This One Before",
         "ATC Artists": [
             "The Smiths"
-        ]
+        ],
+        "Result Track Name": "Stop Me If You Think You've Heard This One Before - 2011 Remaster",
+        "Result Artist Names": [
+            "The Smiths"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JN57QFclho4vExKPq6OYg",
+        "Result Album Name": "Strangeways, Here We Come"
     },
     {
         "ATC Track": "Elevation of Love",
         "ATC Artists": [
             "E.s.t."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Six Pack",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "Six Pack",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kyaFTKrT7ZukXj1irYqgp",
+        "Result Album Name": "Standards"
     }
 ]

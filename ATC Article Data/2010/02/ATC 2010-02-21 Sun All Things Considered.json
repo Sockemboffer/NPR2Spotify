@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-02-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:34:41"
+        "Scanned Date": "2022-02-07 01:34:41",
+        "Playlist URI": "0VLjFpLeU2W8anyayCzBuk",
+        "Playlist Link": "https://open.spotify.com/playlist/0VLjFpLeU2W8anyayCzBuk",
+        "Snapshot ID": "MSxkMDU2MTk1ODBkNzRiYzFkNjQwZWNmNGQyMTQxZmJjZDExNWE4YTUx",
+        "Playlist Name": "ATC 2010-02-21 Sun All Things Considered"
     },
     {
         "Title": "Lawmakers Plan Climate Change Legislation",
@@ -22,13 +26,26 @@
         "ATC Track": "Nadia",
         "ATC Artists": [
             "Jeff Beck"
-        ]
+        ],
+        "Result Track Name": "Nadia",
+        "Result Artist Names": [
+            "Jeff Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MA0KXICplixJO2kqyp5Fr",
+        "Result Album Name": "You Had It Coming"
     },
     {
         "ATC Track": "My Oracle Lives Uptown",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Credit Card Changes To Take Effect",
@@ -59,13 +76,29 @@
         "ATC Artists": [
             "Mumford",
             "Sons"
-        ]
+        ],
+        "Result Track Name": "Timshel",
+        "Result Artist Names": [
+            "Mumford & Sons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4c3zZWPPYkvjSV07Cv95oJ",
+        "Result Album Name": "Sigh No More"
     },
     {
         "ATC Track": "Atom Dream",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": "Atom Dream",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HGgrzZbfCaytz7OClPFv6",
+        "Result Album Name": "Strange Cargo II"
     },
     {
         "Title": "Ex-Student Recalls '68 Columbia University Protests",
@@ -89,12 +122,28 @@
         "ATC Track": "WATER BABIES",
         "ATC Artists": [
             "WILLIAM ORBIT"
-        ]
+        ],
+        "Result Track Name": "Water Babies",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OFW761PCQn3MedR2DUhAu",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "ATC Track": "Dia del Muerto",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": "Dia Del Muerto",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rvRENYImv4i8A087m1zLv",
+        "Result Album Name": "Strange Cargo II"
     }
 ]

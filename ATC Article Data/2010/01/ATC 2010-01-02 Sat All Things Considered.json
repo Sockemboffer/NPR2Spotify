@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-01-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:35:13"
+        "Scanned Date": "2022-02-07 01:35:13",
+        "Playlist URI": "5GbGNmv6sHEcOm6IPEWxCk",
+        "Playlist Link": "https://open.spotify.com/playlist/5GbGNmv6sHEcOm6IPEWxCk",
+        "Snapshot ID": "MSw4ODhiZjMxN2Q4NWEwMjRjYTYyOTlhNjgyOGY4NDM5YTRjMjllY2U4",
+        "Playlist Name": "ATC 2010-01-02 Sat All Things Considered"
     },
     {
         "Title": "What Keeps The Counterterrorism Chief Up At Night",
@@ -16,13 +20,29 @@
         "ATC Track": "Sunny's Song",
         "ATC Artists": [
             "Benevento-Russo Duo"
-        ]
+        ],
+        "Result Track Name": "Sunny's Song",
+        "Result Artist Names": [
+            "Benevento/Russo Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Njbke3AvuVlpqBYGU2GKK",
+        "Result Album Name": "Best Reason to Buy the Sun"
     },
     {
         "ATC Track": "Traffic Boom",
         "ATC Artists": [
             "Piero Piccioni"
-        ]
+        ],
+        "Result Track Name": "Traffic Boom - From \"Tutto A Posto E Niente In Ordine\"",
+        "Result Artist Names": [
+            "Piero Piccioni"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HjDORqi4j2udqq6Gg3b0S",
+        "Result Album Name": "Mondo Italiano: At The Movies, Vol. 5 (Original Soundtrack)"
     },
     {
         "Title": "Afghan Lawmakers Reject Most Cabinet Appointees",
@@ -40,7 +60,15 @@
         "ATC Track": "12345",
         "ATC Artists": [
             "Gus Black"
-        ]
+        ],
+        "Result Track Name": "12345",
+        "Result Artist Names": [
+            "Gus Black"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3CaSnzu8ndL9yUoBU2Ig6B",
+        "Result Album Name": "Uncivilized Love"
     },
     {
         "Title": "World's Tallest Building Rises Amid Dubai's Flop",
@@ -58,13 +86,26 @@
         "ATC Track": "Calabazar de Sagua",
         "ATC Artists": [
             "Gnawledge"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Yakima",
         "ATC Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Yakima",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07FRbB2dc6eZha34mEBCfS",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "Title": "Tracy Chevalier's 'Remarkable' Real-Life Heroine",
@@ -82,18 +123,42 @@
         "ATC Track": "Rip It Up",
         "ATC Artists": [
             "Elvis Presley"
-        ]
+        ],
+        "Result Track Name": "Rip It Up",
+        "Result Artist Names": [
+            "Elvis Presley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:242E7zj2wWWegVlurGpaVz",
+        "Result Album Name": "Elvis"
     },
     {
         "ATC Track": "Wrote & the Writ",
         "ATC Artists": [
             "Johnny Flynn"
-        ]
+        ],
+        "Result Track Name": "The Wrote & The Writ",
+        "Result Artist Names": [
+            "Johnny Flynn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vLH58T2L3uHryV2JAT8rk",
+        "Result Album Name": "A Larum"
     },
     {
         "ATC Track": "Tippi-Toes",
         "ATC Artists": [
             "The Meters"
-        ]
+        ],
+        "Result Track Name": "Tippi-Toes",
+        "Result Artist Names": [
+            "The Meters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4IC87geBnjbgduIfAz5xbd",
+        "Result Album Name": "Struttin'"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-03-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:32:50"
+        "Scanned Date": "2022-02-07 01:32:50",
+        "Playlist URI": "0lKSoBd0PBYK3u9a8Lnu7U",
+        "Playlist Link": "https://open.spotify.com/playlist/0lKSoBd0PBYK3u9a8Lnu7U",
+        "Snapshot ID": "MSwyMmJiMjAxOTEyNTNiMzAxOTRjYzM2NjljZjQxOTYzYzYxNTkxMmJi",
+        "Playlist Name": "ATC 2010-03-21 Sun All Things Considered"
     },
     {
         "Title": "House Debates Health Care Overhaul",
@@ -28,13 +32,29 @@
         "ATC Track": "Illumination",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Illumination",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2S3GEr4xzn9o3qMgOtVO4r",
+        "Result Album Name": "The Mirror Conspiracy"
     },
     {
         "ATC Track": "Beautiful Burnout",
         "ATC Artists": [
             "Underworld"
-        ]
+        ],
+        "Result Track Name": "Beautiful Burnout",
+        "Result Artist Names": [
+            "Underworld"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1I61h0TNyzE86dx1tZzj3b",
+        "Result Album Name": "Oblivion With Bells"
     },
     {
         "Title": "Gambling To Fix Pensions Can Lead To A Bigger Bind",
@@ -64,13 +84,26 @@
         "ATC Track": "Ape to Angel",
         "ATC Artists": [
             "Pitch Black"
-        ]
+        ],
+        "Result Track Name": "Ape to Angel",
+        "Result Artist Names": [
+            "Pitch Black [Nz]"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7wXp6wwb9Ldv2a8sqEDaC8",
+        "Result Album Name": "Ape to Angel"
     },
     {
         "ATC Track": "J.J. Bailey",
         "ATC Artists": [
             "DJ Logic"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Three-Minute Fiction Round Three: The Winner Is ...",
@@ -89,18 +122,39 @@
         "ATC Artists": [
             "She",
             "Him"
-        ]
+        ],
+        "Result Track Name": "Sing",
+        "Result Artist Names": [
+            "She & Him"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lPVHAO1TANsgd224wDbOc",
+        "Result Album Name": "Volume Two"
     },
     {
         "ATC Track": "Marbles",
         "ATC Artists": [
             "Plone"
-        ]
+        ],
+        "Result Track Name": "Marbles",
+        "Result Artist Names": [
+            "Plone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rB79BYMEg2EF3MSJxWjYR",
+        "Result Album Name": "For Beginner Piano"
     },
     {
         "ATC Track": "My Oracle Lives Uptown",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

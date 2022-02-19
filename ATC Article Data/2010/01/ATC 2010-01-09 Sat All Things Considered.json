@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-01-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:35:39"
+        "Scanned Date": "2022-02-07 01:35:39",
+        "Playlist URI": "53QUX1W4tj44HAkJRLQ0KZ",
+        "Playlist Link": "https://open.spotify.com/playlist/53QUX1W4tj44HAkJRLQ0KZ",
+        "Snapshot ID": "MSxkNDBjNWIyNzhiNGE4MjEzYzU0ZmY2NDZkMmFhZDFiMTJmNzU3YTE0",
+        "Playlist Name": "ATC 2010-01-09 Sat All Things Considered"
     },
     {
         "Title": "How Dodd's Retirement Might Impact Wall Street Reform",
@@ -30,14 +34,27 @@
             "Lonnie Liston Smith",
             "Smith",
             "Lonnie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "no matter what shape",
         "ATC Artists": [
             "booker t.",
             "the mg's"
-        ]
+        ],
+        "Result Track Name": "No Matter What Shape",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:0Q6PiCHALOBQbWl8v6O7He",
+        "Result Album Name": "The Albums 1962-1968"
     },
     {
         "Title": "Fallows On The News: Security, Senate Retirements and Smart Phones",
@@ -61,13 +78,29 @@
         "ATC Track": "Buckshot",
         "ATC Artists": [
             "The Riptones"
-        ]
+        ],
+        "Result Track Name": "Buckshot",
+        "Result Artist Names": [
+            "The Riptones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j0WqWDfIGj1kOm7thpgfx",
+        "Result Album Name": "Buckshot"
     },
     {
         "ATC Track": "Everything in Its Right Place",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "Everything In Its Right Place",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+        "Result Album Name": "Kid A"
     },
     {
         "Title": "A Tribute To Gumby Creator Art Clokey",
@@ -85,7 +118,15 @@
         "ATC Track": "Are You Thirsty (Land of Plenty)",
         "ATC Artists": [
             "Markus James"
-        ]
+        ],
+        "Result Track Name": "Are You Thirsty (Land of Plenty)",
+        "Result Artist Names": [
+            "Markus James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pCkcuoiUGvtQIAlaVVGuE",
+        "Result Album Name": "Nightbird"
     },
     {
         "Title": "African American Museum Begins To Take Shape",
@@ -103,18 +144,39 @@
         "ATC Track": "Rip It Up",
         "ATC Artists": [
             "Elvis Presley"
-        ]
+        ],
+        "Result Track Name": "Rip It Up",
+        "Result Artist Names": [
+            "Elvis Presley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:242E7zj2wWWegVlurGpaVz",
+        "Result Album Name": "Elvis"
     },
     {
         "ATC Track": "Harmony",
         "ATC Artists": [
             "Clinic"
-        ]
+        ],
+        "Result Track Name": "Harmony",
+        "Result Artist Names": [
+            "Clinic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ig6Afu0jtAy10fSxwL7BQ",
+        "Result Album Name": "Walking With Thee"
     },
     {
         "ATC Track": "The Highlander's Blues",
         "ATC Artists": [
             "John Platania"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

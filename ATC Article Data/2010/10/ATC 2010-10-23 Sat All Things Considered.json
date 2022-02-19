@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-10-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:19:42"
+        "Scanned Date": "2022-02-07 01:19:42",
+        "Playlist URI": "35gN5Sv1Fsd2YJBLYAM1mO",
+        "Playlist Link": "https://open.spotify.com/playlist/35gN5Sv1Fsd2YJBLYAM1mO",
+        "Snapshot ID": "MSw4NmUxOTBiMGIxODZkNjZjODQxMTJlYjcyZjUzNDk3MWRiY2M4OTA1",
+        "Playlist Name": "ATC 2010-10-23 Sat All Things Considered"
     },
     {
         "Title": "GOP Victory May Be Defeat For Climate Change Policy",
@@ -16,14 +20,32 @@
         "ATC Track": "Tea in the Sahara",
         "ATC Artists": [
             "Simon Shaheen"
-        ]
+        ],
+        "Result Track Name": "Tea in the Sahara",
+        "Result Artist Names": [
+            "Simon Shaheen & Qantara"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HfgRzZd0QEiDPwVzxAEe4",
+        "Result Album Name": "Blue Flame"
     },
     {
         "ATC Track": "Hello Good Morning [Remix]",
         "ATC Artists": [
             "Diddy",
             "Dirty Money"
-        ]
+        ],
+        "Result Track Name": "Hello Good Morning - Remix",
+        "Result Artist Names": [
+            "Diddy - Dirty Money",
+            "Nicki Minaj",
+            "Rick Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uAbEJGrLecIbkW9p3OqQl",
+        "Result Album Name": "Hello Good Morning (Remix)"
     },
     {
         "Title": "Week In News: WikiLeaks",
@@ -53,7 +75,15 @@
         "ATC Track": "Dust Devil",
         "ATC Artists": [
             "School of Seven Bells"
-        ]
+        ],
+        "Result Track Name": "Dust Devil",
+        "Result Artist Names": [
+            "School Of Seven Bells"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6EMzhTZ2ROEAd85rEqBduu",
+        "Result Album Name": "Disconnect from Desire"
     },
     {
         "Title": "Rival Railways Race Across The Continent",
@@ -71,18 +101,42 @@
         "ATC Track": "Bye Bye Bye",
         "ATC Artists": [
             "School of Seven Bells"
-        ]
+        ],
+        "Result Track Name": "Bye Bye Bye",
+        "Result Artist Names": [
+            "School Of Seven Bells"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79sSaIw7fXRxc1XKvauPTr",
+        "Result Album Name": "Disconnect from Desire"
     },
     {
         "ATC Track": "Tell Me Something Good",
         "ATC Artists": [
             "Chaka Kahn"
-        ]
+        ],
+        "Result Track Name": "Tell Me Something Good - Live",
+        "Result Artist Names": [
+            "Chaka Khan"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1N8b8seqz0BeiqAQ3biUqP",
+        "Result Album Name": "Homecoming (Live)"
     },
     {
         "ATC Track": "Look of Love",
         "ATC Artists": [
             "Isaac Hayes"
-        ]
+        ],
+        "Result Track Name": "The Look Of Love",
+        "Result Artist Names": [
+            "Isaac Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Ln0hyWkihBuc1L2pKhCwP",
+        "Result Album Name": "...To Be Continued"
     }
 ]

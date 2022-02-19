@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-01-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:35:41"
+        "Scanned Date": "2022-02-07 01:35:41",
+        "Playlist URI": "2gvV6agyZwW93R4ktEGF5d",
+        "Playlist Link": "https://open.spotify.com/playlist/2gvV6agyZwW93R4ktEGF5d",
+        "Snapshot ID": "MSwwZDYzMzVhMTgyMGQ5NGZhNWEzMWEzZGJjMGQ1ZWMyM2E0YTExMDI2",
+        "Playlist Name": "ATC 2010-01-10 Sun All Things Considered"
     },
     {
         "Title": "U.S. Census Bureau Gears Up For 2010 Count",
@@ -22,14 +26,31 @@
         "ATC Track": "Carmella [Four Tet Remix]",
         "ATC Artists": [
             "Beth Orton"
-        ]
+        ],
+        "Result Track Name": "Carmella - Four Tet Remix",
+        "Result Artist Names": [
+            "Beth Orton",
+            "Four Tet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BBkBha2jIHhkSOSixmeDt",
+        "Result Album Name": "The Other Side Of Daybreak"
     },
     {
         "ATC Track": "Give It Away",
         "ATC Artists": [
             "Zero 7",
             "Henry Binns et. al."
-        ]
+        ],
+        "Result Track Name": "Give It Away",
+        "Result Artist Names": [
+            "Zero 7"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2dYexYOVMItMNUvGXl4gtR",
+        "Result Album Name": "Simple Things"
     },
     {
         "Title": "Beyond Terrorism: Seeing Another Side Of Yemen",
@@ -65,13 +86,29 @@
         "ATC Track": "Traffic and Weather",
         "ATC Artists": [
             "Fountains of Wayne"
-        ]
+        ],
+        "Result Track Name": "Traffic And Weather",
+        "Result Artist Names": [
+            "Fountains Of Wayne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0B5w3fc6HCwtUF93HssaW3",
+        "Result Album Name": "Traffic And Weather"
     },
     {
         "ATC Track": "Mike Mills",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Mike Mills",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Kay0txJIyIz0c941Nurb1",
+        "Result Album Name": "Talkie Walkie"
     },
     {
         "Title": "Brian Williams: Why Jon Stewart Is Good For News",
@@ -89,18 +126,39 @@
         "ATC Track": "Oh Yes, That's Right",
         "ATC Artists": [
             "True Gospel Wymics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hear in Colour",
         "ATC Artists": [
             "Nightmares on Wax"
-        ]
+        ],
+        "Result Track Name": "Hear in colour",
+        "Result Artist Names": [
+            "Nightmares On Wax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NPFHf7KA43BgKG6GunOdZ",
+        "Result Album Name": "Thought So…"
     },
     {
         "ATC Track": "We Will Become Silhouettes",
         "ATC Artists": [
             "The Postal Service"
-        ]
+        ],
+        "Result Track Name": "We Will Become Silhouettes - Remastered",
+        "Result Artist Names": [
+            "The Postal Service"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xn9WsyWhNbfI82Ipnpwqa",
+        "Result Album Name": "Give Up (Deluxe 10th Anniversary Edition)"
     }
 ]

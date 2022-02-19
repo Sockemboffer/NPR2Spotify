@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-11-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:17:35"
+        "Scanned Date": "2022-02-07 01:17:35",
+        "Playlist URI": "6otzKwDwiM6WBxVHS2FIbu",
+        "Playlist Link": "https://open.spotify.com/playlist/6otzKwDwiM6WBxVHS2FIbu",
+        "Snapshot ID": "MSxjMmI5MTVmYmMyMjhmNWYyYmVlNzEzYzhlODQ5MjdkMTJlNjI4YWQ4",
+        "Playlist Name": "ATC 2010-11-21 Sun All Things Considered"
     },
     {
         "Title": "Social Security, Medicare Face The Age Of Austerity",
@@ -16,13 +20,26 @@
         "ATC Track": "Union Square",
         "ATC Artists": [
             "Hauschka"
-        ]
+        ],
+        "Result Track Name": "Union Square",
+        "Result Artist Names": [
+            "Hauschka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UBti90KOilRpsO4GdLl7a",
+        "Result Album Name": "Foreign Landscapes"
     },
     {
         "ATC Track": "Dodge the Dodo",
         "ATC Artists": [
             "E.S.T."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rural Democratic Lawmakers Join Endangered List",
@@ -46,13 +63,31 @@
         "ATC Track": "October 25th",
         "ATC Artists": [
             "Avishai Cohen"
-        ]
+        ],
+        "Result Track Name": "October 25th",
+        "Result Artist Names": [
+            "Avishai Cohen",
+            "Nasheet Waits",
+            "Omer Avital"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27dNRlXfAccQpd0y1Ch9LL",
+        "Result Album Name": "Introducing Triveni"
     },
     {
         "ATC Track": "Funky Miracle",
         "ATC Artists": [
             "The Meters"
-        ]
+        ],
+        "Result Track Name": "Funky Miracle",
+        "Result Artist Names": [
+            "The Meters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6YBc1KPVqvhB8ugdC9Enkh",
+        "Result Album Name": "Look-Ka Py Py"
     },
     {
         "Title": "A Riot Sparks Robert Siegel's Love For Radio",
@@ -76,12 +111,22 @@
         "ATC Track": "Drink of Spring",
         "ATC Artists": [
             "Rafi Malkiel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Something About Camels",
         "ATC Artists": [
             "Anat Fort"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

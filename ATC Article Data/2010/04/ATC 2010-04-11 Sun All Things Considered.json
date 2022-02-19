@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-04-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:30:16"
+        "Scanned Date": "2022-02-07 01:30:16",
+        "Playlist URI": "2r6n2let9mpHnAWCrt8apE",
+        "Playlist Link": "https://open.spotify.com/playlist/2r6n2let9mpHnAWCrt8apE",
+        "Snapshot ID": "MSwwNmExMjVkMjAwYTg4MjU2NTc0OWMzY2UwNzdjNzJiNmEzNWU0MzRl",
+        "Playlist Name": "ATC 2010-04-11 Sun All Things Considered"
     },
     {
         "Title": "Developments In The World Of Nuclear Security",
@@ -28,13 +32,26 @@
         "ATC Track": "Discipline",
         "ATC Artists": [
             "King Crimson"
-        ]
+        ],
+        "Result Track Name": "Discipline",
+        "Result Artist Names": [
+            "King Crimson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uRCY0IMvoOnfeNfZpoLEI",
+        "Result Album Name": "Discipline"
     },
     {
         "ATC Track": "Bridge Over a Red Sky",
         "ATC Artists": [
             "Trey Gunn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Fallows On The News",
@@ -58,13 +75,26 @@
         "ATC Track": "Orange",
         "ATC Artists": [
             "Ken Nordine"
-        ]
+        ],
+        "Result Track Name": "Orange",
+        "Result Artist Names": [
+            "Ken Nordine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mCbedC8BpVkSrfqXGLuqF",
+        "Result Album Name": "Colors"
     },
     {
         "ATC Track": "Clouds Moving In [Instrumental]",
         "ATC Artists": [
             "Beat Circus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Three-Minute Fiction Reminder",
@@ -88,18 +118,36 @@
         "ATC Track": "La Vie en Rose",
         "ATC Artists": [
             "Pomplamoose"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Mr. Sandman",
         "ATC Artists": [
             "Pomplamoose"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lunch Time at Rosie's",
         "ATC Artists": [
             "Adrian Legg"
-        ]
+        ],
+        "Result Track Name": "Lunch Time At Rosie's",
+        "Result Artist Names": [
+            "Adrian Legg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YegXuz2duPeMXFTcYKKRE",
+        "Result Album Name": "The Very Best of Adrian Legg"
     }
 ]

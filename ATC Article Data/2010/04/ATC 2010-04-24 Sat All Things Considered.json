@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-04-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:31:09"
+        "Scanned Date": "2022-02-07 01:31:09",
+        "Playlist URI": "3U1zMfsJ0IlqTrRkMlMEKP",
+        "Playlist Link": "https://open.spotify.com/playlist/3U1zMfsJ0IlqTrRkMlMEKP",
+        "Snapshot ID": "MSxlNGM0NmM0MGY1ZTY3YjY3YTY4MTJmYzNjZjJiMGY3NTBmMWYxNmUz",
+        "Playlist Name": "ATC 2010-04-24 Sat All Things Considered"
     },
     {
         "Title": "Can Washington Embrace The Value-Added Tax?",
@@ -28,7 +32,15 @@
         "ATC Track": "Hot Stick",
         "ATC Artists": [
             "The Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Hot Stick",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8888888888888888,
+        "Result Track URI": "spotify:track:5KGug5AMXHuAtrpBY9SrZe",
+        "Result Album Name": "Instrumental, Action, Soul"
     },
     {
         "Title": "Fallows On The News: Financial Overhaul",
@@ -58,13 +70,30 @@
         "ATC Track": "Greatness",
         "ATC Artists": [
             "Raheem DeVaughn"
-        ]
+        ],
+        "Result Track Name": "The Greatness (feat. Wale)",
+        "Result Artist Names": [
+            "Raheem DeVaughn",
+            "Wale"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jQR8wV4IT8ogi4it9M8sk",
+        "Result Album Name": "The Love & War MasterPeace"
     },
     {
         "ATC Track": "Roda de Samba",
         "ATC Artists": [
             "The Hi Fly Orchestra"
-        ]
+        ],
+        "Result Track Name": "Roda De Samba",
+        "Result Artist Names": [
+            "The Hi-Fly Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tEzJTGImodfaq7BuOEasl",
+        "Result Album Name": "Soulshaker, Vol. 6"
     },
     {
         "Title": "How A Beetle And A Mountie Shaped The Ad Business",
@@ -88,18 +117,39 @@
         "ATC Track": "Hopeless Romantic",
         "ATC Artists": [
             "Raheem DeVaughn"
-        ]
+        ],
+        "Result Track Name": "Hopeless Romantic",
+        "Result Artist Names": [
+            "Raheem DeVaughn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5md2yEJg7l4DxFXGSihZx5",
+        "Result Album Name": "The Love & War MasterPeace - Deluxe Version"
     },
     {
         "ATC Track": "Dig In",
         "ATC Artists": [
             "The Packeys"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Jeun Ko Ku (Chop'n Quench)",
         "ATC Artists": [
             "Fela Kuti"
-        ]
+        ],
+        "Result Track Name": "Jeun Ko Ku (Chop 'n Quench)",
+        "Result Artist Names": [
+            "Fela Kuti & Nigeria 70"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Fb7zyupNmHWuHor11fov1",
+        "Result Album Name": "Afrodisiac"
     }
 ]

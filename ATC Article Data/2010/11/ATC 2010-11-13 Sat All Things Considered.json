@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-11-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:17:05"
+        "Scanned Date": "2022-02-07 01:17:05",
+        "Playlist URI": "0js8xiCSMsdbLWDh85IGwx",
+        "Playlist Link": "https://open.spotify.com/playlist/0js8xiCSMsdbLWDh85IGwx",
+        "Snapshot ID": "MSwwMGQ1ZGZmNDE2YTRhYTQwODQyYjQyMGUzYTY3NjBiNjVjMTE5Mzk5",
+        "Playlist Name": "ATC 2010-11-13 Sat All Things Considered"
     },
     {
         "Title": "Betting On The Gold Standard? Odds Are Still Long",
@@ -16,13 +20,29 @@
         "ATC Track": "Gold to Me",
         "ATC Artists": [
             "Ben Harper"
-        ]
+        ],
+        "Result Track Name": "Gold To Me",
+        "Result Artist Names": [
+            "Ben Harper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SZIg7MCc00PcWpLJhCASr",
+        "Result Album Name": "Fight For Your Mind"
     },
     {
         "ATC Track": "Conversation Heart",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Conversation Heart",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zQWZ8Fz25TnswtkkXDqar",
+        "Result Album Name": "Casually Smashed To Pieces"
     },
     {
         "Title": "Crowds In Myanmar Rejoice At Suu Kyi's Release",
@@ -46,13 +66,26 @@
         "ATC Track": "Kouseiji",
         "ATC Artists": [
             "Hauschka"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "On a Letter",
         "ATC Artists": [
             "The Sea and Cake"
-        ]
+        ],
+        "Result Track Name": "on a Letter",
+        "Result Artist Names": [
+            "The Sea and Cake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gnmnPnwOyOl1LTz47rDme",
+        "Result Album Name": "Car Alarm"
     },
     {
         "Title": "'Battle Hymn Of The Republic': The Other National Anthem",
@@ -70,18 +103,39 @@
         "ATC Track": "In-studio improvisation",
         "ATC Artists": [
             "Please Check Back In a Few Days"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Music for a Found Harmonium",
         "ATC Artists": [
             "California Guitar Trio"
-        ]
+        ],
+        "Result Track Name": "Music For A Found Harmonium",
+        "Result Artist Names": [
+            "California Guitar Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79u6nvUo1xOe0sFVaPtGJc",
+        "Result Album Name": "Echoes"
     },
     {
         "ATC Track": "In the Back of a Taxi",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "In The Back Of A Taxi - 2008 Digital Remaster",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5PMrjBIsDgeaQaqh25JXnb",
+        "Result Album Name": "Broadcasting From Home"
     }
 ]

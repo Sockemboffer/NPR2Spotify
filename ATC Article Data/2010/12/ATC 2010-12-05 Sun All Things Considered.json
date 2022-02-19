@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-12-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:14:36"
+        "Scanned Date": "2022-02-07 01:14:36",
+        "Playlist URI": "3LfDoBtYmIvrSNst7SUZO4",
+        "Playlist Link": "https://open.spotify.com/playlist/3LfDoBtYmIvrSNst7SUZO4",
+        "Snapshot ID": "MSwwOTFlYTc2ZGZhOTJhMGU2MzgxYWRjNTVhZDNiMzhiNjIzNDA2ZmM5",
+        "Playlist Name": "ATC 2010-12-05 Sun All Things Considered"
     },
     {
         "Title": "Living Without Work: The Long-Term Unemployed",
@@ -16,7 +20,12 @@
         "ATC Track": "RAY'S DREAM",
         "ATC Artists": [
             "SANDY BULL"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Ivory Coast's Presidential Problem",
@@ -46,14 +55,28 @@
         "ATC Track": "Baby Shoes",
         "ATC Artists": [
             "Kevin Divine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bolero Sonámbulo",
         "ATC Artists": [
             "Ry Cooder",
             "Manuel Galbán"
-        ]
+        ],
+        "Result Track Name": "Bolero sonámbulo",
+        "Result Artist Names": [
+            "Ry Cooder",
+            "Manuel Galbán"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0psyeHec8n59pvziGS2Juv",
+        "Result Album Name": "Mambo Sinuendo"
     },
     {
         "Title": "Short Takes: Richard Russo On 2010's Best Stories",
@@ -71,18 +94,40 @@
         "ATC Track": "Holding Down The Laughter",
         "ATC Artists": [
             "Kevin Divine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Winter",
         "ATC Artists": [
             "Eddie Daniels"
-        ]
+        ],
+        "Result Track Name": "Winter 2",
+        "Result Artist Names": [
+            "Eddie Daniels"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6qxd5NwFKeXFj3QkWpifwq",
+        "Result Album Name": "The Five Seasons"
     },
     {
         "ATC Track": "Numb/Encore",
         "ATC Artists": [
             "Jay-Z"
-        ]
+        ],
+        "Result Track Name": "Numb / Encore",
+        "Result Artist Names": [
+            "JAY-Z",
+            "Linkin Park"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sNESr6pQfIhL3krM8CtZn",
+        "Result Album Name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course"
     }
 ]

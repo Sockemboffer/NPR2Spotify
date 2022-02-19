@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-10-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:18:49"
+        "Scanned Date": "2022-02-07 01:18:49",
+        "Playlist URI": "4fp55776kjKxff32voBcji",
+        "Playlist Link": "https://open.spotify.com/playlist/4fp55776kjKxff32voBcji",
+        "Snapshot ID": "MSw2ODI1Zjg3NmUzYmI1M2Q2NTgzOTU2NTg0MDdkOWZlYTExYzE2N2Fl",
+        "Playlist Name": "ATC 2010-10-10 Sun All Things Considered"
     },
     {
         "Title": "A Parkway Built When Stimulus Money Was Popular",
@@ -16,13 +20,29 @@
         "ATC Track": "One Twenty",
         "ATC Artists": [
             "Jeff Aug"
-        ]
+        ],
+        "Result Track Name": "One Twenty",
+        "Result Artist Names": [
+            "Jeff Aug"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lxfKZf3ql9crUKdjlfUxo",
+        "Result Album Name": "Ibiza Balearic Island Chillers Vol.1"
     },
     {
         "ATC Track": "Passing Time",
         "ATC Artists": [
             "Jeff Aug"
-        ]
+        ],
+        "Result Track Name": "Passing Time",
+        "Result Artist Names": [
+            "Jeff Aug"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BZ7BqRBahcSy4FCB0lHpI",
+        "Result Album Name": "Living Room Sessions"
     },
     {
         "Title": "Soros: Damn The Cutbacks, Full Speed Ahead!",
@@ -47,13 +67,26 @@
         "ATC Artists": [
             "Alarm Will Sound",
             "Alan Pierson (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Nitpickin'",
         "ATC Artists": [
             "Danny Gatton"
-        ]
+        ],
+        "Result Track Name": "Nitpickin'",
+        "Result Artist Names": [
+            "Danny Gatton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XbbUYPvXJQ1tBEfIGQHUY",
+        "Result Album Name": "Unfinished Business"
     },
     {
         "Title": "Three-Minute Fiction: A Few Head-Turners",
@@ -77,18 +110,39 @@
         "ATC Track": "Sex Karma",
         "ATC Artists": [
             "Of Montreal"
-        ]
+        ],
+        "Result Track Name": "Sex Karma - feat. Solange Knowles",
+        "Result Artist Names": [
+            "of Montreal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:41axe4Ur2YeScYgPlsycIh",
+        "Result Album Name": "False Priest"
     },
     {
         "ATC Track": "Godly Intersex",
         "ATC Artists": [
             "Of Montreal"
-        ]
+        ],
+        "Result Track Name": "Godly Intersex",
+        "Result Artist Names": [
+            "of Montreal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bXVI6PoPjA1MMUGqv3ias",
+        "Result Album Name": "False Priest"
     },
     {
         "ATC Track": "Heart of Hearts [The Brothers Mix][*]",
         "ATC Artists": [
             "!!!"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

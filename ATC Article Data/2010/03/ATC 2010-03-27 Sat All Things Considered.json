@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-03-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:33:13"
+        "Scanned Date": "2022-02-07 01:33:13",
+        "Playlist URI": "53GyA8Urew8v4jlnyy05fD",
+        "Playlist Link": "https://open.spotify.com/playlist/53GyA8Urew8v4jlnyy05fD",
+        "Snapshot ID": "MSwyZTNmYjYzMjEzOTkxYTczNDk0OWJhZDFiNTFkZDcxMGE2NTljNzQy",
+        "Playlist Name": "ATC 2010-03-27 Sat All Things Considered"
     },
     {
         "Title": "What's Next: Finance Bill?",
@@ -16,13 +20,27 @@
         "ATC Track": "Mrs. Lady Lady",
         "ATC Artists": [
             "Ui"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "House of the Rising Sun",
         "ATC Artists": [
             "Sex Mob"
-        ]
+        ],
+        "Result Track Name": "House Of The Rising Sun",
+        "Result Artist Names": [
+            "Sex Mob",
+            "Steven Bernstein"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FkK47IlGvIPKWuTV9h0Wn",
+        "Result Album Name": "Din Of Inequity"
     },
     {
         "Title": "Fallows On The News: Health Care, Sarah Palin",
@@ -46,13 +64,29 @@
         "ATC Track": "Super Blonde",
         "ATC Artists": [
             "Sun Ra"
-        ]
+        ],
+        "Result Track Name": "Super Blonde",
+        "Result Artist Names": [
+            "Sun Ra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QUgj9f4cxtHkNvn59WaWd",
+        "Result Album Name": "Supersonic Jazz"
     },
     {
         "ATC Track": "Keep the Bugs Off Your Glass and the Bears Off Your Ass",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "Keep The Bugs Off Your Glass And The Bears Off Your Ass",
+        "Result Artist Names": [
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4nZ1BPN8uz1ckcaNLZd11X",
+        "Result Album Name": "These Are The Vistas"
     },
     {
         "Title": "Pulitzer-Prize Winning Food Writer Will Try Anything",
@@ -70,18 +104,43 @@
         "ATC Track": "I Can't Get Started",
         "ATC Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "I Can't Get Started",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3RaHjywMGrnFy3Mqy9kBWk",
+        "Result Album Name": "Piano In the Foreground"
     },
     {
         "ATC Track": "Great Balls of Fire",
         "ATC Artists": [
             "Sun Ra"
-        ]
+        ],
+        "Result Track Name": "Great Balls Of Fire",
+        "Result Artist Names": [
+            "Sun Ra",
+            "Sun Ra Arkestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HNCla0RZ1j5CWQif2XFBK",
+        "Result Album Name": "Singles"
     },
     {
         "ATC Track": "Big City Blues",
         "ATC Artists": [
             "Sun Ra"
-        ]
+        ],
+        "Result Track Name": "Big City Blues - single version",
+        "Result Artist Names": [
+            "Sun Ra & His Arkestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xdcdCpg8w2h2w9TES1020",
+        "Result Album Name": "Transitions 3: Chicago to NY"
     }
 ]

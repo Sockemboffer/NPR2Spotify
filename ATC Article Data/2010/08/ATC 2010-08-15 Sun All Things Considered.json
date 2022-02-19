@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2010-08-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:23:07"
+        "Scanned Date": "2022-02-07 01:23:07",
+        "Playlist URI": "5ZLW4nGR1vsYU8ADF9XNML",
+        "Playlist Link": "https://open.spotify.com/playlist/5ZLW4nGR1vsYU8ADF9XNML",
+        "Snapshot ID": "MSw3MDMxMTkwZjVkMGFjNmVkY2U5OGNhNmRiMDU5NmE1NDVlMTk1MWRi",
+        "Playlist Name": "ATC 2010-08-15 Sun All Things Considered"
     },
     {
         "Title": "Affirmative Action: How Far Have We Come?",
@@ -16,7 +20,15 @@
         "ATC Track": "Money to Blow",
         "ATC Artists": [
             "DJ Hotday"
-        ]
+        ],
+        "Result Track Name": "Money To Blow",
+        "Result Artist Names": [
+            "DJ Hotday"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05YOsgv881ZIb0dlDSY16u",
+        "Result Album Name": "Southstramentals 2 (Instrumental)"
     },
     {
         "Title": "Astronauts To Conduct Third Spacewalk To Fix Pump",
@@ -47,13 +59,26 @@
         "ATC Artists": [
             "Charlie Haden",
             "Hank Jones"
-        ]
+        ],
+        "Result Track Name": "Wade In The Water - Instrumental",
+        "Result Artist Names": [
+            "Charlie Haden"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:28e2fk0j2eAL7gPzHMq24q",
+        "Result Album Name": "Steal Away"
     },
     {
         "ATC Track": "Lady Ann Bothwet's Lament, air with variations for violin (or recorder) & continuo (Treatise of Good Taste 2/10)",
         "ATC Artists": [
             "Palladian Ensemble"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Many Black Social Movements Began In The Pulpit",
@@ -72,12 +97,28 @@
         "ATC Artists": [
             "Martin Simpson",
             "Doug Burns et. al."
-        ]
+        ],
+        "Result Track Name": "There's A Great Change",
+        "Result Artist Names": [
+            "Martin Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5YqWiSWXJIozRgIWhRWWqO",
+        "Result Album Name": "A Closer Walk With Thee"
     },
     {
         "ATC Track": "One Foot in the Gutter",
         "ATC Artists": [
             "Psychograss"
-        ]
+        ],
+        "Result Track Name": "One Foot in the Gutter",
+        "Result Artist Names": [
+            "Psychograss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ZAopiR3oPxVnMokC0rY9P",
+        "Result Album Name": "Now Hear This"
     }
 ]
