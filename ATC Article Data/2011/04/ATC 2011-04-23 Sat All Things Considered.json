@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-04-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:53:28"
+        "Scanned Date": "2022-02-07 01:53:28",
+        "Playlist URI": "6bMCSjsVApYrtDCiXE4CPK",
+        "Playlist Link": "https://open.spotify.com/playlist/6bMCSjsVApYrtDCiXE4CPK",
+        "Snapshot ID": "MSw0N2ZjNjJjZTZiNTgwMmIzZThiNDMyZmYxYjAzMGYyYWY1YTMzNjQ2",
+        "Playlist Name": "ATC 2011-04-23 Sat All Things Considered"
     },
     {
         "Title": "The Cycle Of Fear Over Rising Gas Prices",
@@ -28,7 +32,12 @@
         "ATC Track": "King Solomon Hill",
         "ATC Artists": [
             "Clothesline Revival"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In News: U.S. Drones Strike Libya",
@@ -58,13 +67,29 @@
         "ATC Track": "Pack Up",
         "ATC Artists": [
             "Eliza Doolittle"
-        ]
+        ],
+        "Result Track Name": "Pack Up",
+        "Result Artist Names": [
+            "Eliza Doolittle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5YWP23fhLuBR7adVav91Nb",
+        "Result Album Name": "Eliza Doolittle"
     },
     {
         "ATC Track": "Workaholic Song",
         "ATC Artists": [
             "Mylab"
-        ]
+        ],
+        "Result Track Name": "Workaholic Song",
+        "Result Artist Names": [
+            "Mylab"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73cONjMMJh8LcQ8Xdi6r3f",
+        "Result Album Name": "Mylab"
     },
     {
         "Title": "There's More To Books Than Words",
@@ -88,18 +113,39 @@
         "ATC Track": "Moneybox",
         "ATC Artists": [
             "Eliza Doolittle"
-        ]
+        ],
+        "Result Track Name": "Moneybox",
+        "Result Artist Names": [
+            "Eliza Doolittle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yCtU9JQ9jitleEwYjXJdZ",
+        "Result Album Name": "Eliza Doolittle"
     },
     {
         "ATC Track": "Ah, It Was In The Garage After All",
         "ATC Artists": [
             "Lullatone"
-        ]
+        ],
+        "Result Track Name": "Ah, It Was in the Garage After All",
+        "Result Artist Names": [
+            "Lullatone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0lKWthyoFS3jmWClvP5GXp",
+        "Result Album Name": "Elevator Music"
     },
     {
         "ATC Track": "DM Smith Remix",
         "ATC Artists": [
             "Clark"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

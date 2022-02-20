@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-09-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:42:57"
+        "Scanned Date": "2022-02-07 01:42:57",
+        "Playlist URI": "5M7W9yyMkWwPuHqy1pvdpU",
+        "Playlist Link": "https://open.spotify.com/playlist/5M7W9yyMkWwPuHqy1pvdpU",
+        "Snapshot ID": "MSxjNzYwN2UwZTQyZjcyMWFkNWYxMzk2OWUyZTk2NGE4ZjkzN2EyMTg4",
+        "Playlist Name": "ATC 2011-09-04 Sun All Things Considered"
     },
     {
         "Title": "Jails Struggle With Mentally Ill Inmates ",
@@ -16,13 +20,33 @@
         "ATC Track": "Tonic",
         "ATC Artists": [
             "Kyle Eastwood"
-        ]
+        ],
+        "Result Track Name": "Tonic",
+        "Result Artist Names": [
+            "Kyle Eastwood",
+            "Dave Chamberlain",
+            "David Newton",
+            "Jim Tomlinson",
+            "Matt Home"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4I8NLRaX60TVHBt1jcrYaD",
+        "Result Album Name": "Candid Kyle"
     },
     {
         "ATC Track": "Age of Consent",
         "ATC Artists": [
             "New Order"
-        ]
+        ],
+        "Result Track Name": "Age of Consent - 2015 Remaster",
+        "Result Artist Names": [
+            "New Order"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2EEinN4Zk8MUv4OQuLsTBj",
+        "Result Album Name": "Power Corruption and Lies"
     },
     {
         "Title": "Modern Firefighters: Tackling More Than Just Flames",
@@ -52,14 +76,27 @@
         "ATC Track": "Enter Sandman",
         "ATC Artists": [
             "Apocalyptica"
-        ]
+        ],
+        "Result Track Name": "Enter Sandman",
+        "Result Artist Names": [
+            "Apocalyptica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7h3XH5BWgo06IGNmqRkmMf",
+        "Result Album Name": "Plays Metallica by Four Cellos (Remastered)"
     },
     {
         "ATC Track": "Essay, for guitar & orchestra [Allegretto]",
         "ATC Artists": [
             "Christopher Parkening",
             "Elmer Bernstein (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A 'Showdown' That Changed Football's Racial History",
@@ -83,18 +120,42 @@
         "ATC Track": "One Day You'll Dance For Me, New York City",
         "ATC Artists": [
             "Thomas Dybdahl"
-        ]
+        ],
+        "Result Track Name": "One Day You'll Dance for Me, New York City",
+        "Result Artist Names": [
+            "Thomas Dybdahl"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4T9x6eGgl7vuu1yYVKPzNU",
+        "Result Album Name": "One Day You'll Dance for Me, New York City"
     },
     {
         "ATC Track": "Dreamworld",
         "ATC Artists": [
             "Rilo Kiley"
-        ]
+        ],
+        "Result Track Name": "Dreamworld",
+        "Result Artist Names": [
+            "Rilo Kiley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5kK5yiLTJZ2hxQJarlgmn8",
+        "Result Album Name": "Under The Blacklight (Standard Version)"
     },
     {
         "ATC Track": "Burger Queen",
         "ATC Artists": [
             "Placebo"
-        ]
+        ],
+        "Result Track Name": "Burger Queen",
+        "Result Artist Names": [
+            "Placebo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:439uj7xeQ3vGnWafAvqmGe",
+        "Result Album Name": "Without You I'm Nothing"
     }
 ]

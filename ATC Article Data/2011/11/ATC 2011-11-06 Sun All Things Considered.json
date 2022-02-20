@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-11-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:39:17"
+        "Scanned Date": "2022-02-07 01:39:17",
+        "Playlist URI": "7qSWOkxhP7gNCciG2WmfMk",
+        "Playlist Link": "https://open.spotify.com/playlist/7qSWOkxhP7gNCciG2WmfMk",
+        "Snapshot ID": "MSw3M2Y4MzhlYjc0M2ZlMGJlZjc0ZDcxNWVhNjE1MjA5NmFhYjdlOTdi",
+        "Playlist Name": "ATC 2011-11-06 Sun All Things Considered"
     },
     {
         "Title": "Small Elections Drawing Big Money In Some States",
@@ -16,14 +20,31 @@
         "ATC Track": "Air and Kilometers",
         "ATC Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Air and Kilometers",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6e3VWBwXcgqQIuZ52X8Uni",
+        "Result Album Name": "Dreaming of Revenge"
     },
     {
         "ATC Track": "Got Your Money",
         "ATC Artists": [
             "Ol' Dirty Bastard",
             "Kelis"
-        ]
+        ],
+        "Result Track Name": "Got Your Money (feat. Kelis)",
+        "Result Artist Names": [
+            "Ol' Dirty Bastard",
+            "Kelis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6YYd5MLpu45J0uLrMdivF7",
+        "Result Album Name": "Nigga Please"
     },
     {
         "Title": "In Nicaragua, Ortega Poised For Re-Election",
@@ -41,7 +62,12 @@
         "ATC Track": "Gitanos de LA Cava - Bulerias",
         "ATC Artists": [
             "Triana Pura"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "What Do Occupy Wall Street Protesters Want?",
@@ -59,13 +85,29 @@
         "ATC Track": "Money for Nothing",
         "ATC Artists": [
             "Dire Straits"
-        ]
+        ],
+        "Result Track Name": "Money for Nothing",
+        "Result Artist Names": [
+            "Dire Straits"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yqtwO7MQIIXqoiRBPHAgR",
+        "Result Album Name": "Brothers in Arms"
     },
     {
         "ATC Track": "Arabesque",
         "ATC Artists": [
             "Nicola Conte"
-        ]
+        ],
+        "Result Track Name": "Arabesque",
+        "Result Artist Names": [
+            "Nicola Conte"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5hyE2L0gwFFZfn6OVhfy5Y",
+        "Result Album Name": "Jet Sounds"
     },
     {
         "Title": "Three-Minute Fiction Winners: Where Are They Now?",
@@ -83,18 +125,42 @@
         "ATC Track": "November Rain",
         "ATC Artists": [
             "Guns N' Roses"
-        ]
+        ],
+        "Result Track Name": "November Rain",
+        "Result Artist Names": [
+            "Guns N' Roses"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YRCqOhFifThpSRFJ1VWFM",
+        "Result Album Name": "Use Your Illusion I"
     },
     {
         "ATC Track": "Axel F.",
         "ATC Artists": [
             "Harold Faltermeyer"
-        ]
+        ],
+        "Result Track Name": "Axel F",
+        "Result Artist Names": [
+            "Harold Faltermeyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kgqupahrJpYB4r1poTXEY",
+        "Result Album Name": "Harold F"
     },
     {
         "ATC Track": "Rockit",
         "ATC Artists": [
             "Herbie Hancock"
-        ]
+        ],
+        "Result Track Name": "Rockit",
+        "Result Artist Names": [
+            "Herbie Hancock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nWHzbBWBOePUvAImQv2So",
+        "Result Album Name": "Future Shock"
     }
 ]

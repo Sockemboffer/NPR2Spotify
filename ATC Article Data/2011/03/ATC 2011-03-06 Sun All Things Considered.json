@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-03-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:54:14"
+        "Scanned Date": "2022-02-07 01:54:14",
+        "Playlist URI": "1pajWYHaMeFZOwmkDgwnyo",
+        "Playlist Link": "https://open.spotify.com/playlist/1pajWYHaMeFZOwmkDgwnyo",
+        "Snapshot ID": "MSxlZTFlNGM5NmMyMTJkMDYwNjkwMzY4ZjliOWU3M2RkODExYTBhMDE2",
+        "Playlist Name": "ATC 2011-03-06 Sun All Things Considered"
     },
     {
         "Title": "Libya Fight Rages As Gadhafi Strikes Back",
@@ -34,7 +38,12 @@
         "ATC Track": "Ghost In The Shell",
         "ATC Artists": [
             "Aphex Twin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Air Force Museum Makes Its Case To Land A Shuttle",
@@ -64,7 +73,16 @@
         "ATC Track": "Sunrise Projector (Nautilis Remix)",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Sunrise Projector - Nautilis Remix",
+        "Result Artist Names": [
+            "Tycho",
+            "Nautilis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6McFw6lTDtKtapy2Mzt9YO",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "Title": "Eugene Peterson Chronicles Memories In 'Pastor'",
@@ -83,18 +101,40 @@
         "ATC Artists": [
             "Ivan",
             "Alyosha"
-        ]
+        ],
+        "Result Track Name": "I Was Born to Love Her",
+        "Result Artist Names": [
+            "Ivan & Alyosha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zy20WTVwklbkjmddr1sQq",
+        "Result Album Name": "Fathers Be Kind"
     },
     {
         "ATC Track": "From Home (Mux Mool Remix)",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "From Home - Mux Mool Remix",
+        "Result Artist Names": [
+            "Tycho",
+            "Mux Mool"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QYMDYPCpvXEzmkEH1oW7B",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "ATC Track": "The Tallest Man, The Broadest Shoulders: Pt. 1: The Great Frontier/Pt. ...",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

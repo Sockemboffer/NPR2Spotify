@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-06-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:49:27"
+        "Scanned Date": "2022-02-07 01:49:27",
+        "Playlist URI": "2KBkgUTPgkFkn35q5CiapA",
+        "Playlist Link": "https://open.spotify.com/playlist/2KBkgUTPgkFkn35q5CiapA",
+        "Snapshot ID": "MSw5OGU4ZDIzYmM1MWVhNzVlZWI4ZjM5NzY3ZmQwYTUxMWZlMmZiNTg2",
+        "Playlist Name": "ATC 2011-06-19 Sun All Things Considered"
     },
     {
         "Title": "NATO Says Strike May Have Killed Libyan Civilians",
@@ -28,13 +32,26 @@
         "ATC Track": "Schultz: Largo in G Minor",
         "ATC Artists": [
             "Sony Classical"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Orbit Around The Moon",
         "ATC Artists": [
             "Joe Meek"
-        ]
+        ],
+        "Result Track Name": "Orbit Around the Moon",
+        "Result Artist Names": [
+            "Joe Meek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Djo25tz4jHVTc1GUiO1y7",
+        "Result Album Name": "The Complete Recordings"
     },
     {
         "Title": "A County Takes Down Prescription 'Pill Mills'",
@@ -58,13 +75,26 @@
         "ATC Track": "Jazzavator",
         "ATC Artists": [
             "Lullatone"
-        ]
+        ],
+        "Result Track Name": "Jazzavator",
+        "Result Artist Names": [
+            "Lullatone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65HFPkEW83xVK9biQXdYX7",
+        "Result Album Name": "Elevator Music"
     },
     {
         "ATC Track": "Beau Mot Plage",
         "ATC Artists": [
             "Isolee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "How Gold Turned The Yukon Into The Wild West",
@@ -82,12 +112,25 @@
         "ATC Track": "Tauben",
         "ATC Artists": [
             "Maher Daniel and Matthew Dekay"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Aeronaut",
         "ATC Artists": [
             "Dominik Eulberg"
-        ]
+        ],
+        "Result Track Name": "Aeronaut",
+        "Result Artist Names": [
+            "Dominik Eulberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7sQ1Deqfg443xrMujjsBPq",
+        "Result Album Name": "Diorama"
     }
 ]

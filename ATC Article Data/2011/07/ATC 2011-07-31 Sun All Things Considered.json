@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-07-31",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:48:18"
+        "Scanned Date": "2022-02-07 01:48:18",
+        "Playlist URI": "68HINcvoNITrU7szkNRZuI",
+        "Playlist Link": "https://open.spotify.com/playlist/68HINcvoNITrU7szkNRZuI",
+        "Snapshot ID": "MSxjMjg5ZmMwZTYxODJiMjE5Yzk2ZDhlYzUyMzM3Y2I0YTQ3N2QxMGVj",
+        "Playlist Name": "ATC 2011-07-31 Sun All Things Considered"
     },
     {
         "Title": "Debt Ceiling Talks Drag On",
@@ -22,13 +26,26 @@
         "ATC Track": "Diving",
         "ATC Artists": [
             "Mikael Delta"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Drive",
         "ATC Artists": [
             "Pacha Massive"
-        ]
+        ],
+        "Result Track Name": "Drive",
+        "Result Artist Names": [
+            "Pacha Massive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ChGOglxqYhYsznruNKPWE",
+        "Result Album Name": "All Good Things"
     },
     {
         "Title": "Syrian Government Escalates Crackdown Ahead Of Ramadan",
@@ -58,19 +75,43 @@
         "ATC Track": "Chromakey Dreamcoat",
         "ATC Artists": [
             "Boards of Canada"
-        ]
+        ],
+        "Result Track Name": "Chromakey Dreamcoat",
+        "Result Artist Names": [
+            "Boards of Canada"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YxoC2dYOotjqt08dEifsc",
+        "Result Album Name": "The Campfire Headphase"
     },
     {
         "ATC Track": "Cry Myself to Sleep",
         "ATC Artists": [
             "Joss Stone"
-        ]
+        ],
+        "Result Track Name": "Cry Myself to Sleep",
+        "Result Artist Names": [
+            "Joss Stone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Ou30zyAOEc12EEJEHc5on",
+        "Result Album Name": "LP1"
     },
     {
         "ATC Track": "Intenso Azul",
         "ATC Artists": [
             "Quasamodo"
-        ]
+        ],
+        "Result Track Name": "Intenso Azul - Atfunk Remix",
+        "Result Artist Names": [
+            "Quasamodo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fPtx0g4ZUrfCRDdAXDRS7",
+        "Result Album Name": "Truth Be Told Remixed Vol.1"
     },
     {
         "Title": "Writer's Mystery Endures, Long After He Vanished",
@@ -88,18 +129,39 @@
         "ATC Track": "Newborn",
         "ATC Artists": [
             "Joss Stone"
-        ]
+        ],
+        "Result Track Name": "Newborn",
+        "Result Artist Names": [
+            "Joss Stone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OZSVBhFm17nFIJoRJwjUJ",
+        "Result Album Name": "LP1"
     },
     {
         "ATC Track": "Gambit",
         "ATC Artists": [
             "Ursula 1000"
-        ]
+        ],
+        "Result Track Name": "Gambit",
+        "Result Artist Names": [
+            "Ursula 1000"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74Z8pACnoAiJmvvVRmZ5eh",
+        "Result Album Name": "The Now Sound of Ursula 1000"
     },
     {
         "ATC Track": "Do You Dream of Me [Kraak & Smaak Remix]",
         "ATC Artists": [
             "Ikon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

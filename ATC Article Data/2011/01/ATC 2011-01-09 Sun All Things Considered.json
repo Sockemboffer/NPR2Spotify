@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-01-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:58:01"
+        "Scanned Date": "2022-02-07 01:58:01",
+        "Playlist URI": "4GjsSlq4cl5HDErghR0Zfh",
+        "Playlist Link": "https://open.spotify.com/playlist/4GjsSlq4cl5HDErghR0Zfh",
+        "Snapshot ID": "MSw4Y2NmYjgwMDJkZDk3YjEzNmFkNWE5ZGMxNTVkNjJlZTE2YWJmM2Vl",
+        "Playlist Name": "ATC 2011-01-09 Sun All Things Considered"
     },
     {
         "Title": "Charges Filed In Giffords Shooting",
@@ -28,13 +32,29 @@
         "ATC Track": "Funeral Dirge",
         "ATC Artists": [
             "Terence Blanchard"
-        ]
+        ],
+        "Result Track Name": "Funeral Dirge",
+        "Result Artist Names": [
+            "Terence Blanchard"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:758uMHQXHzOaWAZZk9WoZn",
+        "Result Album Name": "A Tale Of God's Will (A Requiem For Katrina)"
     },
     {
         "ATC Track": "By the Water's Edge",
         "ATC Artists": [
             "David Rothenberg"
-        ]
+        ],
+        "Result Track Name": "By the Water's Edge",
+        "Result Artist Names": [
+            "David Rothenberg"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ZBR9HSSgRZHccAZM0WJF9",
+        "Result Album Name": "Unamuno"
     },
     {
         "Title": "Southern Sudan Braces For Independence",
@@ -65,13 +85,26 @@
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Session",
         "ATC Artists": [
             "Linkin Park"
-        ]
+        ],
+        "Result Track Name": "Session",
+        "Result Artist Names": [
+            "Linkin Park"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5KNJ2qBD92lNfdcdcHmzEY",
+        "Result Album Name": "Meteora (Bonus Edition)"
     },
     {
         "Title": "As The Facts Win Out, Vaccinations May, Too",
@@ -101,13 +134,30 @@
         "ATC Track": "Singe [Classic Mix]",
         "ATC Artists": [
             "Metropolitan Jazz Affair"
-        ]
+        ],
+        "Result Track Name": "Singe - Classic Mix",
+        "Result Artist Names": [
+            "Metropolitan Jazz Affair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PADkMLF8XY5P432TMGx1Y",
+        "Result Album Name": "Mja"
     },
     {
         "ATC Track": "My Love",
         "ATC Artists": [
             "Justin Timberlake",
             "T.I."
-        ]
+        ],
+        "Result Track Name": "My Love (feat. T.I.)",
+        "Result Artist Names": [
+            "Justin Timberlake",
+            "T.I."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4NeOWqHmlrGRuBvsLJC9rL",
+        "Result Album Name": "FutureSex/LoveSounds Deluxe Edition"
     }
 ]

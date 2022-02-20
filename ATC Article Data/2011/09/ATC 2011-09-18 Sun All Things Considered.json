@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-09-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:43:48"
+        "Scanned Date": "2022-02-07 01:43:48",
+        "Playlist URI": "4gHjV9xbxzvYQ2SaQleuPT",
+        "Playlist Link": "https://open.spotify.com/playlist/4gHjV9xbxzvYQ2SaQleuPT",
+        "Snapshot ID": "MSwxMDEyODRkNDU4NzUxNDkxMWM2OGYyYWE1Yjk1OGJiZWJmNGNjZGZk",
+        "Playlist Name": "ATC 2011-09-18 Sun All Things Considered"
     },
     {
         "Title": "Jimmy Carter: 'No Downside' to Palestine Statehood",
@@ -16,13 +20,30 @@
         "ATC Track": "The Blue Room & Other Stories: Tarantella",
         "ATC Artists": [
             "Ethel"
-        ]
+        ],
+        "Result Track Name": "The Blue Room and Other Stories: IV. Tarantella",
+        "Result Artist Names": [
+            "Phil Kline",
+            "Ethel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GLRmAbmQp0zoVidHeEmb0",
+        "Result Album Name": "Ethel"
     },
     {
         "ATC Track": "Mango Di Bango",
         "ATC Artists": [
             "Tosca"
-        ]
+        ],
+        "Result Track Name": "Mango di Bango",
+        "Result Artist Names": [
+            "Tosca"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2luFGaZ4yq8ifsj2NLClqU",
+        "Result Album Name": "Dehli 9"
     },
     {
         "Title": "The Ed Koch Factor: How Will It Play In 2012?",
@@ -52,13 +73,30 @@
         "ATC Track": "A Beautiful Mine (Theme Music from Mad Men)",
         "ATC Artists": [
             "David Carbonara"
-        ]
+        ],
+        "Result Track Name": "A Beautiful Mine (Mad Men Theme)",
+        "Result Artist Names": [
+            "David Carbonara"
+        ],
+        "Result Track-Match Percent": 0.7142857142857143,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Hg1LFvVcl0K7ErJvAaEwr",
+        "Result Album Name": "Mad Men: After Hours"
     },
     {
         "ATC Track": "What Is Cool? [Downtempo Momento Mix]",
         "ATC Artists": [
             "Kevin Yost"
-        ]
+        ],
+        "Result Track Name": "What Is Cool? - Downtempo Momemto Mix",
+        "Result Artist Names": [
+            "Kevin Yost",
+            "Howard Burns"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5kD2UA3effB1wXFxjJkxAX",
+        "Result Album Name": "Future Flashback Remixed"
     },
     {
         "Title": "American History, Seen Through A Shot Glass",
@@ -76,18 +114,39 @@
         "ATC Track": "Resistencia",
         "ATC Artists": [
             "John Santos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Livin' the Truth",
         "ATC Artists": [
             "Guy Monk"
-        ]
+        ],
+        "Result Track Name": "Living the Truth",
+        "Result Artist Names": [
+            "Guy Monk"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zFrbzwR79S5GL5T0wZ0XN",
+        "Result Album Name": "Solid"
     },
     {
         "ATC Track": "Do What You Wanna [Mr. Scruff's Soul Party Mix]",
         "ATC Artists": [
             "Ramsey Lewis"
-        ]
+        ],
+        "Result Track Name": "Do What You Wanna - Mr. Scruff's Soul Party Remix",
+        "Result Artist Names": [
+            "Ramsey Lewis"
+        ],
+        "Result Track-Match Percent": 0.9,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65AKynIofZNqC2HWcJzDR6",
+        "Result Album Name": "Verve Remixed 2"
     }
 ]

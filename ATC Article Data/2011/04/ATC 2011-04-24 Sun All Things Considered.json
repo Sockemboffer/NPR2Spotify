@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-04-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:53:30"
+        "Scanned Date": "2022-02-07 01:53:30",
+        "Playlist URI": "4qU58pZ7Y7arQlapfJBgTo",
+        "Playlist Link": "https://open.spotify.com/playlist/4qU58pZ7Y7arQlapfJBgTo",
+        "Snapshot ID": "MSxlYmM4YzNhODNmMTU4MTdmZGI5YzBmOGVmZDdlYjc2MmY0YjJlNTYz",
+        "Playlist Name": "ATC 2011-04-24 Sun All Things Considered"
     },
     {
         "Title": "In Misrata, Rebels Call For NATO Strikes",
@@ -28,13 +32,26 @@
         "ATC Track": "Cherry (Remix)",
         "ATC Artists": [
             "Dj Easter Egg"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Egg Radio",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Egg Radio",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dSzl6wug5LQOwXvZ3lsuV",
+        "Result Album Name": "Gone, Just Like a Train"
     },
     {
         "Title": "Neither Ban Nor Tumor Can Stop Top NFL Prospect",
@@ -58,7 +75,15 @@
         "ATC Track": "Easter Parade",
         "ATC Artists": [
             "Herb Ellis"
-        ]
+        ],
+        "Result Track Name": "Easter Parade",
+        "Result Artist Names": [
+            "Herb Ellis & Ray Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7dJep7sRSQ84NSB6cgXXIY",
+        "Result Album Name": "Soft Shoe"
     },
     {
         "Title": "Correction: Bears In Yellowstone",
@@ -82,18 +107,43 @@
         "ATC Track": "Two Step De Mama",
         "ATC Artists": [
             "Amede Ardoin"
-        ]
+        ],
+        "Result Track Name": "Two Step De Mama - 78rpm Version",
+        "Result Artist Names": [
+            "Amede Ardoin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3smJs9IhUrXYcXhv4gpaPf",
+        "Result Album Name": "Cajun Dance Party: Fais Do-Do"
     },
     {
         "ATC Track": "Bunnydust",
         "ATC Artists": [
             "Ronnie Reverb"
-        ]
+        ],
+        "Result Track Name": "Bunnydust",
+        "Result Artist Names": [
+            "Robbie Reverb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:62IqsiFN0VNKcpQnS1VS6Z",
+        "Result Album Name": "Expletive Deleted"
     },
     {
         "ATC Track": "I'm Putting All My Eggs in One Basket",
         "ATC Artists": [
             "Fred Astaire"
-        ]
+        ],
+        "Result Track Name": "I'm Putting All My Eggs In One Basket (with Johnny Green & His Orchestra)",
+        "Result Artist Names": [
+            "Fred Astaire",
+            "Johnny Green & His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4igpZk31jhbW2xBvZ9U5Sl",
+        "Result Album Name": "The Essential Fred Astaire"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-02-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:57:23"
+        "Scanned Date": "2022-02-07 01:57:23",
+        "Playlist URI": "7kYhizrA5oolbCQXHl2nyE",
+        "Playlist Link": "https://open.spotify.com/playlist/7kYhizrA5oolbCQXHl2nyE",
+        "Snapshot ID": "MSxmMzg0NWEzMTdiYmU0ZDBhYmQ1MGZkNjdhMDk2ZWVlMTJlZjE4YTBm",
+        "Playlist Name": "ATC 2011-02-26 Sat All Things Considered"
     },
     {
         "Title": "Gadhafi's Control Shrinks To Zone Around Tripoli",
@@ -16,7 +20,15 @@
         "ATC Track": "Certified",
         "ATC Artists": [
             "Calvin Harris"
-        ]
+        ],
+        "Result Track Name": "Certified",
+        "Result Artist Names": [
+            "Calvin Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yRfR8GzW7XN4TOFFTE0Kz",
+        "Result Album Name": "I Created Disco"
     },
     {
         "Title": "Evidence Of Gadhafi's Downfall On Display In East",
@@ -40,7 +52,15 @@
         "ATC Track": "Rude Profile",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Rude Profile",
+        "Result Artist Names": [
+            "Fleck & Fish Finger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7t2MQp7mY8TXirSpNezG1j",
+        "Result Album Name": "Generation Bass Presents: Transnational Dubstep"
     },
     {
         "Title": "Unions Face Major Turning Point",
@@ -58,7 +78,12 @@
         "ATC Track": "Today",
         "ATC Artists": [
             "Sound Tribe Sector 9"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Researchers Link Gene Mutation To Schizophrenia",
@@ -70,7 +95,15 @@
         "ATC Track": "Need You Now",
         "ATC Artists": [
             "Cut Copy"
-        ]
+        ],
+        "Result Track Name": "Need You Now",
+        "Result Artist Names": [
+            "Cut Copy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1abUzN0mxXuoiGsMvj1FxS",
+        "Result Album Name": "Zonoscope"
     },
     {
         "Title": "'Henry's Demons': Mental Illness From The Inside",
@@ -94,18 +127,44 @@
         "ATC Track": "No Time For Dreaming",
         "ATC Artists": [
             "Charles Bradley"
-        ]
+        ],
+        "Result Track Name": "No Time for Dreaming",
+        "Result Artist Names": [
+            "Charles Bradley",
+            "Menahan Street Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0LHm5xYhzH6ZfmTVJ6LWpR",
+        "Result Album Name": "No Time For Dreaming"
     },
     {
         "ATC Track": "Hustler [A-Trak Remix]",
         "ATC Artists": [
             "Simian Mobile Disco"
-        ]
+        ],
+        "Result Track Name": "Hustler - A-Trak Remix",
+        "Result Artist Names": [
+            "Simian Mobile Disco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jGJ2eiQWNaPgzvxOs4b6U",
+        "Result Album Name": "Hustler"
     },
     {
         "ATC Track": "Alive (Joakim NRG Dub)",
         "ATC Artists": [
             "Goldfrapp"
-        ]
+        ],
+        "Result Track Name": "Alive - Joakim NRG Dub",
+        "Result Artist Names": [
+            "Goldfrapp",
+            "Joakim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GszSK6vGhQ2i2WlaXnxMB",
+        "Result Album Name": "Alive"
     }
 ]

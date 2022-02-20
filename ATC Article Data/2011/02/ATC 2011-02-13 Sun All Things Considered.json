@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-02-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:56:32"
+        "Scanned Date": "2022-02-07 01:56:32",
+        "Playlist URI": "0jVjygT3DEkeXgoKNJ3v1x",
+        "Playlist Link": "https://open.spotify.com/playlist/0jVjygT3DEkeXgoKNJ3v1x",
+        "Snapshot ID": "MSwxNGZlY2QxMjYwYWQ4YzRmZGEwMjI3MzM5MDFjNDI5NzEwODQ5NzFk",
+        "Playlist Name": "ATC 2011-02-13 Sun All Things Considered"
     },
     {
         "Title": "Previewing Obama's Budget Cuts",
@@ -17,7 +21,17 @@
         "ATC Artists": [
             "Montefiori Cocktail",
             "Pierfilippi"
-        ]
+        ],
+        "Result Track Name": "On A Clear Day (Tu Sai Chi Sei)",
+        "Result Artist Names": [
+            "Montefiori Cocktail",
+            "Pierfilippi",
+            "Germano Montefiori"
+        ],
+        "Result Track-Match Percent": 0.8421052631578947,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:0FDrwzn5cd8srtvLI6kNtY",
+        "Result Album Name": "Classics (a New Release of Selected Tracks from 1997 to 2000)"
     },
     {
         "Title": "What's Next In Egypt?",
@@ -47,7 +61,12 @@
         "ATC Track": "So Good [Psyan Remix]",
         "ATC Artists": [
             "Nubian Mindz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Following The Flavors From Africa To America",
@@ -65,18 +84,42 @@
         "ATC Track": "Mi Korason",
         "ATC Artists": [
             "Yasmin Levy"
-        ]
+        ],
+        "Result Track Name": "Mi Korason",
+        "Result Artist Names": [
+            "Yasmin Levy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7s4lMWuTIRhFJKYLvoPr69",
+        "Result Album Name": "Sentir"
     },
     {
         "ATC Track": "Greenwood Groove",
         "ATC Artists": [
             "Greenwood Rhythm Coalition"
-        ]
+        ],
+        "Result Track Name": "Greenwood Groove",
+        "Result Artist Names": [
+            "Greenwood Groove Coalition"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1aiOCmUkAfzdQK8e6XZhoU",
+        "Result Album Name": "Turntables on the Hudson: 10 Year Anniversary"
     },
     {
         "ATC Track": "Papa Was Stoned [Fuzzbox Inc. Remix]",
         "ATC Artists": [
             "Fort Knox Five"
-        ]
+        ],
+        "Result Track Name": "Papa Was Stoned - Fuzzbox Inc. Remix",
+        "Result Artist Names": [
+            "Fort Knox Five"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4D5PMHMmf1FYbGm0W51LFE",
+        "Result Album Name": "Radio Free DC Remixed"
     }
 ]

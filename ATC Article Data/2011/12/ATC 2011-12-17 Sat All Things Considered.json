@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-12-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:38:02"
+        "Scanned Date": "2022-02-07 01:38:02",
+        "Playlist URI": "63kH8k3qE3P6IlRABfArKK",
+        "Playlist Link": "https://open.spotify.com/playlist/63kH8k3qE3P6IlRABfArKK",
+        "Snapshot ID": "MSxhZDk4MjI4M2UwYjYwZDUzODljNzBlZDhjMTcxM2VkNzA0YmI1Mzc5",
+        "Playlist Name": "ATC 2011-12-17 Sat All Things Considered"
     },
     {
         "Title": "The Arab Spring: A Year Of Revolution",
@@ -16,7 +20,15 @@
         "ATC Track": "You May Be Blue",
         "ATC Artists": [
             "Vetiver"
-        ]
+        ],
+        "Result Track Name": "You May Be Blue",
+        "Result Artist Names": [
+            "Vetiver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pzSiISHRFQTlMKLZ94Z54",
+        "Result Album Name": "To Find Me Gone"
     },
     {
         "Title": "Week In News: Deal Keeps U.S. Afloat, For Now",
@@ -46,13 +58,29 @@
         "ATC Track": "Loft",
         "ATC Artists": [
             "Caspian"
-        ]
+        ],
+        "Result Track Name": "Loft - Remastered",
+        "Result Artist Names": [
+            "Caspian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4aPNUDWYrha0uXjfohI6cw",
+        "Result Album Name": "You Are the Conductor & The Four Trees (Remastered)"
     },
     {
         "ATC Track": "Stretch (You Are All Right)",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "Stretch (You Are All Right)",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3OVgIImuXuOig1NxvC6h9T",
+        "Result Album Name": "It's All Around You"
     },
     {
         "Title": "William F. Buckley, Father Of American Conservatism",
@@ -76,18 +104,39 @@
         "ATC Track": "Carnaval de São Vicente [São Vicente Carnival]",
         "ATC Artists": [
             "Césaria Évora"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Quattro (World Drifts In)",
         "ATC Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Quattro - World Drifts in",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1J4a2ANjzhpXxSOHREnIQQ",
+        "Result Album Name": "Feast of Wire"
     },
     {
         "ATC Track": "Thule",
         "ATC Artists": [
             "The Album Leaf"
-        ]
+        ],
+        "Result Track Name": "Thule",
+        "Result Artist Names": [
+            "The Album Leaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eZMM8RoxKw7DqI17v0D6P",
+        "Result Album Name": "In a Safe Place"
     }
 ]

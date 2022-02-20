@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-10-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:42:17"
+        "Scanned Date": "2022-02-07 01:42:17",
+        "Playlist URI": "1bYAexmWBCSjniSXzuGCEi",
+        "Playlist Link": "https://open.spotify.com/playlist/1bYAexmWBCSjniSXzuGCEi",
+        "Snapshot ID": "MSw5OWMxODg0MzZhNTU5MTkzMGJhZDFlMGI3NzMyNmMyYzI4N2YwOGM3",
+        "Playlist Name": "ATC 2011-10-23 Sun All Things Considered"
     },
     {
         "Title": "Today's Wall Street Not Much Different From 2008",
@@ -16,7 +20,17 @@
         "ATC Track": "Where Them Girls At",
         "ATC Artists": [
             "David Guetta"
-        ]
+        ],
+        "Result Track Name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+        "Result Artist Names": [
+            "David Guetta",
+            "Flo Rida",
+            "Nicki Minaj"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63rbP24OzfaQCJjsHWZXnY",
+        "Result Album Name": "Nothing but the Beat 2.0"
     },
     {
         "Title": "Tunisians Vote In Free Elections",
@@ -46,7 +60,15 @@
         "ATC Track": "Tik Tok",
         "ATC Artists": [
             "Kesha"
-        ]
+        ],
+        "Result Track Name": "TiK ToK",
+        "Result Artist Names": [
+            "Kesha"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+        "Result Album Name": "Animal (Expanded Edition)"
     },
     {
         "Title": "Products R Us: Are We 'Brandwashed'?",
@@ -64,18 +86,44 @@
         "ATC Track": "Broken People",
         "ATC Artists": [
             "Jane's Addiction"
-        ]
+        ],
+        "Result Track Name": "Broken People",
+        "Result Artist Names": [
+            "Jane's Addiction"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5N5o5FArQjWJdZhy00qmUK",
+        "Result Album Name": "The Great Escape Artist"
     },
     {
         "ATC Track": "Boom",
         "ATC Artists": [
             "Snoop Dogg"
-        ]
+        ],
+        "Result Track Name": "Boom",
+        "Result Artist Names": [
+            "Snoop Dogg",
+            "T-Pain"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BAQaMRd8ty7q1N1xVssZZ",
+        "Result Album Name": "Doggumentary"
     },
     {
         "ATC Track": "Without You",
         "ATC Artists": [
             "David Guetta"
-        ]
+        ],
+        "Result Track Name": "Without You (feat. Usher)",
+        "Result Artist Names": [
+            "David Guetta",
+            "Usher"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tAutlhI9FwnKn7fVgmd5P",
+        "Result Album Name": "Nothing but the Beat 2.0"
     }
 ]

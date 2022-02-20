@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-06-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:48:35"
+        "Scanned Date": "2022-02-07 01:48:35",
+        "Playlist URI": "1pzJI6hPuk4JhMyI8NlTSl",
+        "Playlist Link": "https://open.spotify.com/playlist/1pzJI6hPuk4JhMyI8NlTSl",
+        "Snapshot ID": "MSxlOTIyOWUwOTE3Njc2OWY5ODNiODgwOTIwYTBkYzQ0MTE1YTVlMzI5",
+        "Playlist Name": "ATC 2011-06-05 Sun All Things Considered"
     },
     {
         "Title": "The Hollywoodification Of Presidential Politics",
@@ -16,7 +20,12 @@
         "ATC Track": "Something Tropical",
         "ATC Artists": [
             "Seelenluft"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Yemen Leader's Exit Leaves Shaky Political Ground",
@@ -40,13 +49,26 @@
         "ATC Track": "Papaya Freeway",
         "ATC Artists": [
             "Tipsy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Born on the Cusp",
         "ATC Artists": [
             "The American Analog Set"
-        ]
+        ],
+        "Result Track Name": "Born On The Cusp",
+        "Result Artist Names": [
+            "The American Analog Set"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bMBciL1mTjfhT5Iu2AOiK",
+        "Result Album Name": "Set Free"
     },
     {
         "Title": "The Sweet Taste Of 'Pop' Culture Nostalgia",
@@ -70,12 +92,28 @@
         "ATC Track": "Strawberry Girl",
         "ATC Artists": [
             "Loop Guru"
-        ]
+        ],
+        "Result Track Name": "Strawberry Girl (5:00)",
+        "Result Artist Names": [
+            "Loop Guru"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6a6mEB9iKqwcsjPqPgjWYN",
+        "Result Album Name": "Elderberry Shiftglass"
     },
     {
         "ATC Track": "The Lone Official",
         "ATC Artists": [
             "Lambchop"
-        ]
+        ],
+        "Result Track Name": "The Lone Official",
+        "Result Artist Names": [
+            "Lambchop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bcwG2yt0hXKZ7eeACVobs",
+        "Result Album Name": "Aw C'mon"
     }
 ]

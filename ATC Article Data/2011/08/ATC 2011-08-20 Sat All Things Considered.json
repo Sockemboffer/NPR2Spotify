@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-08-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:45:50"
+        "Scanned Date": "2022-02-07 01:45:50",
+        "Playlist URI": "1ZqOaXjXVfWIQkESdrFVxi",
+        "Playlist Link": "https://open.spotify.com/playlist/1ZqOaXjXVfWIQkESdrFVxi",
+        "Snapshot ID": "MSw5NGM4YTRhNmQ5YjYwN2ExODlhMTVjZjc5ZDI0M2NjNDJiZjkyYjRj",
+        "Playlist Name": "ATC 2011-08-20 Sat All Things Considered"
     },
     {
         "Title": "Do More Jobs Mean More Government Spending?",
@@ -16,7 +20,12 @@
         "ATC Track": "CINNABAR",
         "ATC Artists": [
             "TIPSY"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In News: 'West Memphis Three,' 2012 Election",
@@ -40,13 +49,29 @@
         "ATC Track": "Water Babies",
         "ATC Artists": [
             "William Orbit"
-        ]
+        ],
+        "Result Track Name": "Water Babies",
+        "Result Artist Names": [
+            "William Orbit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5OFW761PCQn3MedR2DUhAu",
+        "Result Album Name": "Strange Cargo 3"
     },
     {
         "ATC Track": "SATURDAY'S CHILD",
         "ATC Artists": [
             "JOHN BARRY"
-        ]
+        ],
+        "Result Track Name": "Saturday's Child - Remastered",
+        "Result Artist Names": [
+            "John Barry Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qhvZAeYfiwWZIe13UNlqO",
+        "Result Album Name": "Anthology: The Deluxe Collection (Remastered)"
     },
     {
         "Title": "'Intrepid Cub Reporter' Living With A 'Colbert Bump'",
@@ -70,18 +95,42 @@
         "ATC Track": "Damn Love Song",
         "ATC Artists": [
             "Amy LaVere"
-        ]
+        ],
+        "Result Track Name": "Damn Love Song",
+        "Result Artist Names": [
+            "Amy LaVere"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ovMFNNn3h04stDL85EoOX",
+        "Result Album Name": "Stranger Me"
     },
     {
         "ATC Track": "Spooks in Space",
         "ATC Artists": [
             "Perrey-Kingsley"
-        ]
+        ],
+        "Result Track Name": "Spooks In Space",
+        "Result Artist Names": [
+            "Perrey and Kingsley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1uiq5J0ev5HsHSYL2HPwZ0",
+        "Result Album Name": "The In Sound From Way Out"
     },
     {
         "ATC Track": "Huffin' the Muggles",
         "ATC Artists": [
             "Carl Henry Brueggen"
-        ]
+        ],
+        "Result Track Name": "Huffin' the Muggles",
+        "Result Artist Names": [
+            "Carl Henry Brueggen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IHzPUtUKl6SU9mAI4FT71",
+        "Result Album Name": "Let's Talk About Hi-Fi"
     }
 ]

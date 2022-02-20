@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-05-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:51:30"
+        "Scanned Date": "2022-02-07 01:51:30",
+        "Playlist URI": "5X2WEiRc4UoTSJ2DazWs3l",
+        "Playlist Link": "https://open.spotify.com/playlist/5X2WEiRc4UoTSJ2DazWs3l",
+        "Snapshot ID": "MSw0ZTcxZGVlOTkzOGE4MGE1OTdmMDRlNWQzYmU0Mjk4MmFiN2QzZTNl",
+        "Playlist Name": "ATC 2011-05-22 Sun All Things Considered"
     },
     {
         "Title": "Obama Reiterates Comments On Israel's Borders",
@@ -22,7 +26,15 @@
         "ATC Track": "Drive",
         "ATC Artists": [
             "Pacha Massive"
-        ]
+        ],
+        "Result Track Name": "Drive",
+        "Result Artist Names": [
+            "Pacha Massive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ChGOglxqYhYsznruNKPWE",
+        "Result Album Name": "All Good Things"
     },
     {
         "Title": "Vt. Steps Closer To Single-Payer Health Care",
@@ -47,7 +59,15 @@
         "ATC Artists": [
             "Koop",
             "Yukimi Nagano"
-        ]
+        ],
+        "Result Track Name": "Bright Nights - Rima Techno Chimp Dub Mix",
+        "Result Artist Names": [
+            "Koop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7KWa3bMOVH1NJokHELGEgx",
+        "Result Album Name": "Waltz For Koop - Alternative Takes"
     },
     {
         "Title": "Biopunks Tinker With The Building Blocks Of Life",
@@ -65,18 +85,43 @@
         "ATC Track": "Sonata in B Flat Major, Kk.472",
         "ATC Artists": [
             "Alexandre Tharaud"
-        ]
+        ],
+        "Result Track Name": "Sonata in B Flat Major, Kk.472",
+        "Result Artist Names": [
+            "Domenico Scarlatti",
+            "Alexandre Tharaud"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5YXbiQJK3I7bpDo0KjAtqq",
+        "Result Album Name": "D. Scarlatti : Sonatas"
     },
     {
         "ATC Track": "Grass-Hopper",
         "ATC Artists": [
             "Lemongrass"
-        ]
+        ],
+        "Result Track Name": "Grass-Hopper",
+        "Result Artist Names": [
+            "Lemongrass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YKx3PrNUIzcobZwm52Mtf",
+        "Result Album Name": "Filmothèque"
     },
     {
         "ATC Track": "Oficios",
         "ATC Artists": [
             "Mexican Institute of Sound"
-        ]
+        ],
+        "Result Track Name": "Oficios",
+        "Result Artist Names": [
+            "Mexican Institute Of Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25ia8viGmUYs2vwGWSuZ8Y",
+        "Result Album Name": "Suave Patria"
     }
 ]

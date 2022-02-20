@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-09-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:43:20"
+        "Scanned Date": "2022-02-07 01:43:20",
+        "Playlist URI": "5jKvjvduIscwB6WEO1bF0y",
+        "Playlist Link": "https://open.spotify.com/playlist/5jKvjvduIscwB6WEO1bF0y",
+        "Snapshot ID": "MSw0YWEyMDFkMWE1YTA1YThkYTI0Njg1ZjI5MWU5MTU4NjE4M2NiNTg0",
+        "Playlist Name": "ATC 2011-09-10 Sat All Things Considered"
     },
     {
         "Title": "Corporate Taxes: How Low Can You Go?",
@@ -16,7 +20,15 @@
         "ATC Track": "She Just Likes To Fight",
         "ATC Artists": [
             "Four Tet"
-        ]
+        ],
+        "Result Track Name": "She Just Likes to Fight",
+        "Result Artist Names": [
+            "Four Tet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dxtGo6FGs3Hxyv73tDsx7",
+        "Result Album Name": "There Is Love in You (Expanded Edition)"
     },
     {
         "Title": "Memorial To Flight 93 Dedicated In Pa.",
@@ -46,7 +58,16 @@
         "ATC Track": "Days to Come",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Days To Come",
+        "Result Artist Names": [
+            "Bonobo",
+            "Bajka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mRTSIs40qa2L7omBzQd1u",
+        "Result Album Name": "Days To Come"
     },
     {
         "ATC Track": "Samba 1000 [Nicola Conte Mix]",
@@ -54,7 +75,12 @@
             "Ursula 1000",
             "De Dominicis",
             "Barbara"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Three-Minute Fiction Round 7: Arriving And Leaving",
@@ -72,18 +98,42 @@
         "ATC Track": "Port Of Call",
         "ATC Artists": [
             "Beirut"
-        ]
+        ],
+        "Result Track Name": "Port of Call",
+        "Result Artist Names": [
+            "Beirut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30dhPgtCMf02weLLYCJNiI",
+        "Result Album Name": "The Rip Tide"
     },
     {
         "ATC Track": "Raid the Radio",
         "ATC Artists": [
             "General Elektriks"
-        ]
+        ],
+        "Result Track Name": "Raid the Radio",
+        "Result Artist Names": [
+            "General Elektriks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WGQXwtBA62JfcNmDB9YrD",
+        "Result Album Name": "Good City For Dreamers"
     },
     {
         "ATC Track": "Caravan [DJ Smash's Smashish Remix]",
         "ATC Artists": [
             "Dizzy Gillespie"
-        ]
+        ],
+        "Result Track Name": "Caravan (DJ Smash's Smashish Remix)",
+        "Result Artist Names": [
+            "Dizzy Gillespie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:742NZBULhpzZzJzJLLHagi",
+        "Result Album Name": "Re-Bop: The Savoy Remixes"
     }
 ]

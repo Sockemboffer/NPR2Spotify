@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-07-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:47:27"
+        "Scanned Date": "2022-02-07 01:47:27",
+        "Playlist URI": "32CIehANTeGw5OByp4HdXe",
+        "Playlist Link": "https://open.spotify.com/playlist/32CIehANTeGw5OByp4HdXe",
+        "Snapshot ID": "MSxjYTNiMWU5NDY0MmFmZDMzYTY2ZGRjMGMxYzExOTRiNmJiMDM5OTE5",
+        "Playlist Name": "ATC 2011-07-17 Sun All Things Considered"
     },
     {
         "Title": "Debt Talks Bring Out Strains In GOP Ranks",
@@ -16,7 +20,12 @@
         "ATC Track": "Phoenix - 1901 (Beat Culture Remix)",
         "ATC Artists": [
             "Beat Culture"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Murdoch Aide Arrested In Hacking Scandal",
@@ -46,7 +55,15 @@
         "ATC Track": "5891",
         "ATC Artists": [
             "Com Truise"
-        ]
+        ],
+        "Result Track Name": "5891",
+        "Result Artist Names": [
+            "Com Truise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wMPRlcWEPaBiYrhkE3qAg",
+        "Result Album Name": "Cyanide Sisters EP"
     },
     {
         "Title": "Author George R.R. Martin 'Playing For Keeps'",
@@ -64,12 +81,28 @@
         "ATC Track": "Huggy's Parade",
         "ATC Artists": [
             "Matthew Dear"
-        ]
+        ],
+        "Result Track Name": "Huggy's Parade",
+        "Result Artist Names": [
+            "Matthew Dear"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2i99kSYIsER4QVTPHUOIBw",
+        "Result Album Name": "Backstroke"
     },
     {
         "ATC Track": "Immune",
         "ATC Artists": [
             "Bodycode"
-        ]
+        ],
+        "Result Track Name": "Immune",
+        "Result Artist Names": [
+            "Bodycode"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:34bTvwVmtt0cGEL1LGmadI",
+        "Result Album Name": "Immune"
     }
 ]

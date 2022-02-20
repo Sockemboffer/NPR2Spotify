@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-09-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:44:13"
+        "Scanned Date": "2022-02-07 01:44:13",
+        "Playlist URI": "5VRBhTWFllLIRnGI3TMnZp",
+        "Playlist Link": "https://open.spotify.com/playlist/5VRBhTWFllLIRnGI3TMnZp",
+        "Snapshot ID": "MSwwMDEzMWU5MWNkYTQwMjQ2NThlNDNhNzM5NGU0ZmNmNmUyMzZkN2M4",
+        "Playlist Name": "ATC 2011-09-25 Sun All Things Considered"
     },
     {
         "Title": "New Boom Reshapes Oil World, Rocks North Dakota",
@@ -16,13 +20,26 @@
         "ATC Track": "God Particle",
         "ATC Artists": [
             "Kate Simko"
-        ]
+        ],
+        "Result Track Name": "God Particle",
+        "Result Artist Names": [
+            "Kate Simko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pj01JSNO2vVDZEFe1Q0g7",
+        "Result Album Name": "Music from the Atom Smashers"
     },
     {
         "ATC Track": "Something Tropical",
         "ATC Artists": [
             "Seelenluft"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Haiti's Martelly: From Pop Star To President",
@@ -52,13 +69,29 @@
         "ATC Track": "Battle Without Honor or Humanity",
         "ATC Artists": [
             "Tomoyasu Hotei"
-        ]
+        ],
+        "Result Track Name": "Battle Without Honor or Humanity",
+        "Result Artist Names": [
+            "HOTEI"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6cmXGQzHHg2uu3wAamPbzh",
+        "Result Album Name": "Strangers (Special Edition)"
     },
     {
         "ATC Track": "As Serious as Your Life",
         "ATC Artists": [
             "Four Tet"
-        ]
+        ],
+        "Result Track Name": "As Serious As Your Life",
+        "Result Artist Names": [
+            "Four Tet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6eCEGA6Ind89PPtgG8o6Lw",
+        "Result Album Name": "Rounds"
     },
     {
         "Title": "'Skyjack': The Unsolved Case Of D.B. Cooper's Escape",
@@ -82,18 +115,42 @@
         "ATC Track": "Lost in the Sun",
         "ATC Artists": [
             "Ivy"
-        ]
+        ],
+        "Result Track Name": "Lost In The Sun",
+        "Result Artist Names": [
+            "Ivy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2wpxXOFBZjcrtQ1xuAgkxc",
+        "Result Album Name": "All Hours"
     },
     {
         "ATC Track": "No Freeway",
         "ATC Artists": [
             "Spaceheater"
-        ]
+        ],
+        "Result Track Name": "No Freeway",
+        "Result Artist Names": [
+            "Spaceheater"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5KgG28bBo0zxjgBPnjrKEb",
+        "Result Album Name": "The Record"
     },
     {
         "ATC Track": "Camera",
         "ATC Artists": [
             "Lemongrass"
-        ]
+        ],
+        "Result Track Name": "The Camera",
+        "Result Artist Names": [
+            "Lemongrass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UhJr4Z2ocmvFSUSm5m5h5",
+        "Result Album Name": "Filmothèque"
     }
 ]

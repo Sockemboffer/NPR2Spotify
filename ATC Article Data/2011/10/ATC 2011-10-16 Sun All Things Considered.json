@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-10-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:41:50"
+        "Scanned Date": "2022-02-07 01:41:50",
+        "Playlist URI": "0KEXCkhqNsqdA2qtqpkFT8",
+        "Playlist Link": "https://open.spotify.com/playlist/0KEXCkhqNsqdA2qtqpkFT8",
+        "Snapshot ID": "MSwyYzA3YTE3Mjk2OGE4OGMxOWI3Y2Y0YTJiODkyMzRjM2Y0NWM0ZTIx",
+        "Playlist Name": "ATC 2011-10-16 Sun All Things Considered"
     },
     {
         "Title": "Amid Breast Cancer Month, Is There Pink Fatigue?",
@@ -16,7 +20,15 @@
         "ATC Track": "Steal Away",
         "ATC Artists": [
             "Imani Winds"
-        ]
+        ],
+        "Result Track Name": "Steal Away",
+        "Result Artist Names": [
+            "Imani Winds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42qMwQ9PKh3421f8S4qef6",
+        "Result Album Name": "Imani Winds:classical Underground"
     },
     {
         "Title": "King's Legacy Remembered At Memorial",
@@ -46,7 +58,15 @@
         "ATC Track": "Organism",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "Organism",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6galGfTFHHzsPieYkReYyN",
+        "Result Album Name": "Soul Food Taqueria"
     },
     {
         "Title": "'The Breakfast Club' Meets Hell In 'Damned'",
@@ -70,18 +90,40 @@
         "ATC Track": "Bohemian Rhapsody",
         "ATC Artists": [
             "William Shatner"
-        ]
+        ],
+        "Result Track Name": "Bohemian Rhapsody",
+        "Result Artist Names": [
+            "William Shatner",
+            "John Wetton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00rebvyorHbzb10mkBk2dJ",
+        "Result Album Name": "Seeking Major Tom"
     },
     {
         "ATC Track": "Main Theme from \"Star Trek\" [Original TV Series]",
         "ATC Artists": [
             "Cincinnati Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Theme from T.J. Hooker",
         "ATC Artists": [
             "TV Sounds Unlimited"
-        ]
+        ],
+        "Result Track Name": "Theme From T.J.Hooker",
+        "Result Artist Names": [
+            "TV Sounds Unlimited"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0yanTmv3KqD4gSzMdqxuks",
+        "Result Album Name": "Greatest TV Themes: Cops & Detectives"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-06-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:49:02"
+        "Scanned Date": "2022-02-07 01:49:02",
+        "Playlist URI": "3tgK0eJzDZw6mNNKqEKG4v",
+        "Playlist Link": "https://open.spotify.com/playlist/3tgK0eJzDZw6mNNKqEKG4v",
+        "Snapshot ID": "MSxhNjUzMjIyZWNmM2U3OTZjZGYwNDM5NjgyYTdhOGM3NDkzNmUxNTQy",
+        "Playlist Name": "ATC 2011-06-12 Sun All Things Considered"
     },
     {
         "Title": "Group Bridges Civilians, Military Gap",
@@ -16,7 +20,15 @@
         "ATC Track": "The Broad Day King",
         "ATC Artists": [
             "Craig Taborn"
-        ]
+        ],
+        "Result Track Name": "The Broad Day King",
+        "Result Artist Names": [
+            "Craig Taborn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4da6AGObjjYkHulbm7Oeb0",
+        "Result Album Name": "Avenging Angel"
     },
     {
         "Title": "Once A Critic, VA Blogger Seeks To Fix Problems",
@@ -40,7 +52,15 @@
         "ATC Track": "Cloud Generator",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Cloud Generator",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bXERByegZZubIis3htEcQ",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "Title": "For Military, Different Wars Mean Different Injuries",
@@ -52,13 +72,29 @@
         "ATC Track": "Cool Jerk",
         "ATC Artists": [
             "The GoGos"
-        ]
+        ],
+        "Result Track Name": "Cool Jerk",
+        "Result Artist Names": [
+            "The Capitols"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2BhWXkmBkj42lIPHjWGAQO",
+        "Result Album Name": "Oldies 60's"
     },
     {
         "ATC Track": "Avenging Angel",
         "ATC Artists": [
             "Craig Taborn"
-        ]
+        ],
+        "Result Track Name": "Avenging Angel",
+        "Result Artist Names": [
+            "Craig Taborn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2TEgIdqztamnFIYzzZFqWd",
+        "Result Album Name": "Avenging Angel"
     },
     {
         "Title": "Female Priests Defy Catholic Church At The Altar",
@@ -70,7 +106,15 @@
         "ATC Track": "Past Is Prologue",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Past Is Prologue",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fEO7Eq0wHpFdGaZV4NitC",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "Title": "In NBA's Game 6: A Mythic Matchup",
@@ -88,12 +132,25 @@
         "ATC Track": "Our Lips Are Sealed",
         "ATC Artists": [
             "The GoGos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Absinthe Party at the Fly Honey Warehouse",
         "ATC Artists": [
             "Minus The Bear"
-        ]
+        ],
+        "Result Track Name": "Absinthe Party At The Fly Honey Warehouse",
+        "Result Artist Names": [
+            "Minus the Bear"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LkwIps8gLQKC4qX99NMrj",
+        "Result Album Name": "Highly Refined Pirates"
     }
 ]

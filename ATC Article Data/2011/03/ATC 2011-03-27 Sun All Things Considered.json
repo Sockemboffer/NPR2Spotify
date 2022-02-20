@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-03-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:55:31"
+        "Scanned Date": "2022-02-07 01:55:31",
+        "Playlist URI": "2jot4WDmCw4kkNHYkByaz2",
+        "Playlist Link": "https://open.spotify.com/playlist/2jot4WDmCw4kkNHYkByaz2",
+        "Snapshot ID": "MSxmOWMxYTRlYTNlYTlkMjY3MzI1NDZkNTgyMDZkYzMzYjE2ZDJlZmU0",
+        "Playlist Name": "ATC 2011-03-27 Sun All Things Considered"
     },
     {
         "Title": "Explosions Reported In Libyan Capital",
@@ -34,7 +38,16 @@
         "ATC Track": "A Circular Reduction (Dusty Brown Remix)",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "A Circular Reeducation - Dusty Brown Remix",
+        "Result Artist Names": [
+            "Tycho",
+            "Dusty Brown"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7L0KIGBXTPPAQQ1rIWWswS",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "Title": "In Quake-Affected Town, Scenes Of Chaos",
@@ -64,13 +77,26 @@
         "ATC Track": "La Noyée",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "A Lot of People Cutting Grass on Sunday",
         "ATC Artists": [
             "Lullatone"
-        ]
+        ],
+        "Result Track Name": "A Lot of People Cutting Grass on a Sunday",
+        "Result Artist Names": [
+            "Lullatone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XYvA32fUaSWGyyiU9i8n4",
+        "Result Album Name": "Elevator Music"
     },
     {
         "Title": "The Eichmann Trial: Fifty Years Later",
@@ -88,18 +114,33 @@
         "ATC Track": "Entropy And Time",
         "ATC Artists": [
             "Tirtha"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pijama Party Pop",
         "ATC Artists": [
             "Lullatone"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "You're Nasty",
         "ATC Artists": [
             "Duck Sauce"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

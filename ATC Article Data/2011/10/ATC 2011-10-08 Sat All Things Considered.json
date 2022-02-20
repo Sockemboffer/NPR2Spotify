@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-10-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:41:20"
+        "Scanned Date": "2022-02-07 01:41:20",
+        "Playlist URI": "2NrwHiEZEuQmVDDyLvZdhY",
+        "Playlist Link": "https://open.spotify.com/playlist/2NrwHiEZEuQmVDDyLvZdhY",
+        "Snapshot ID": "MSxiZjY1ZmFiZjY4MzkzMGZhN2Y5Mzk3NjE4NWU1N2IzZTAxOTVjMzQ1",
+        "Playlist Name": "ATC 2011-10-08 Sat All Things Considered"
     },
     {
         "Title": "The Economic Reality Of Tough Immigration Laws",
@@ -16,13 +20,29 @@
         "ATC Track": "Adoration",
         "ATC Artists": [
             "Kevin Eubanks"
-        ]
+        ],
+        "Result Track Name": "Adoration",
+        "Result Artist Names": [
+            "Kevin Eubanks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:78HycjUfSALSvbEzxZgN8Y",
+        "Result Album Name": "Zen Food"
     },
     {
         "ATC Track": "Laurel Canyon",
         "ATC Artists": [
             "Shawn Lee"
-        ]
+        ],
+        "Result Track Name": "Laurel Canyon",
+        "Result Artist Names": [
+            "Shawn Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cxTGlQRrT5ZNlsNF3dMen",
+        "Result Album Name": "Moods and Grooves"
     },
     {
         "Title": "Week In News: Visionary Steve Jobs Dies",
@@ -52,13 +72,26 @@
         "ATC Track": "Toccata and Fugue, for organ in D minor, BWV 565 (BC J37) [Toccata]",
         "ATC Artists": [
             "Helmut Walcha"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Fools Gold",
         "ATC Artists": [
             "The Stone Roses"
-        ]
+        ],
+        "Result Track Name": "Fools Gold - Remastered",
+        "Result Artist Names": [
+            "The Stone Roses"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2mv6GY70UsHiTCGQZ4JfgC",
+        "Result Album Name": "The Stone Roses"
     },
     {
         "Title": "Modern Horror Defined By Edgy Realism Of The 1970s",
@@ -82,18 +115,43 @@
         "ATC Track": "Love Won't Let You Get Away",
         "ATC Artists": [
             "Seth MacFarlane"
-        ]
+        ],
+        "Result Track Name": "Love Won't Let You Get Away",
+        "Result Artist Names": [
+            "Seth MacFarlane",
+            "Sara Bareilles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xNdKpcKqES50j78ac9woY",
+        "Result Album Name": "Music Is Better Than Words"
     },
     {
         "ATC Track": "The In Samba",
         "ATC Artists": [
             "Nicola Conte"
-        ]
+        ],
+        "Result Track Name": "The In Samba",
+        "Result Artist Names": [
+            "Nicola Conte"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DiDgcOXgy0gMARsYH5TNX",
+        "Result Album Name": "Jet Sounds"
     },
     {
         "ATC Track": "Montanita",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Montanita",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56Ql46GJj0uh0Iig6FtzqV",
+        "Result Album Name": "Classics"
     }
 ]

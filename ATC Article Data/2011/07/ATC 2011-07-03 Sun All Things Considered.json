@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-07-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:46:40"
+        "Scanned Date": "2022-02-07 01:46:40",
+        "Playlist URI": "11A13Do71kwMOR85kL80FK",
+        "Playlist Link": "https://open.spotify.com/playlist/11A13Do71kwMOR85kL80FK",
+        "Snapshot ID": "MSw2MTVhMWFmYjIxOGEzNzc2Y2ZiZTY0ODIwZGU3MTY4ZmRkNDI4ZTYz",
+        "Playlist Name": "ATC 2011-07-03 Sun All Things Considered"
     },
     {
         "Title": "Debt Showdown: Another Financial Disaster?",
@@ -16,7 +20,15 @@
         "ATC Track": "Gambit",
         "ATC Artists": [
             "Ursula 1000"
-        ]
+        ],
+        "Result Track Name": "Gambit",
+        "Result Artist Names": [
+            "Ursula 1000"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74Z8pACnoAiJmvvVRmZ5eh",
+        "Result Album Name": "The Now Sound of Ursula 1000"
     },
     {
         "Title": "CEO Salaries Continues To Rise",
@@ -46,13 +58,30 @@
         "ATC Track": "Gangsta's Paradise",
         "ATC Artists": [
             "Coolio"
-        ]
+        ],
+        "Result Track Name": "Gangsta's Paradise",
+        "Result Artist Names": [
+            "Coolio",
+            "L.V."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DIXPcTDzTj8ZMHt3PDt8p",
+        "Result Album Name": "Gangsta's Paradise"
     },
     {
         "ATC Track": "Something I Shouldn't Have Had",
         "ATC Artists": [
             "Revolvo"
-        ]
+        ],
+        "Result Track Name": "Something I Shouldn't Have Had",
+        "Result Artist Names": [
+            "Revolvo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5SUlceYbr7Q0oOBAkFzBTC",
+        "Result Album Name": "Gym Music from Burn After Reading"
     },
     {
         "Title": "'Big Roads': From Tire-Killing Paths To Superhighways",
@@ -76,18 +105,39 @@
         "ATC Track": "Flutter",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Flutter",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5K8WNrf5JvmBE6O0MbSRuJ",
+        "Result Album Name": "Dial 'M' for Monkey"
     },
     {
         "ATC Track": "Natural Causes",
         "ATC Artists": [
             "Freezepop"
-        ]
+        ],
+        "Result Track Name": "Natural Causes",
+        "Result Artist Names": [
+            "Freezepop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0c1WHB6CB5gdvhD6nkAw7b",
+        "Result Album Name": "Imaginary Friends"
     },
     {
         "ATC Track": "Butter & Guns (Loyalty 2) [Instrumental]",
         "ATC Artists": [
             "Blue Scholars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

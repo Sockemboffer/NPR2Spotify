@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-08-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:46:19"
+        "Scanned Date": "2022-02-07 01:46:19",
+        "Playlist URI": "3DKc09HYjGkLO7XKeyFB5l",
+        "Playlist Link": "https://open.spotify.com/playlist/3DKc09HYjGkLO7XKeyFB5l",
+        "Snapshot ID": "MSw4NzViY2Y3Y2UwOTk0NjQ1MDg4ZWFkZjMxYTNkZmYyODkwMjFjYzhk",
+        "Playlist Name": "ATC 2011-08-28 Sun All Things Considered"
     },
     {
         "Title": "Residents Clean Up After Irene Drenches East Coast",
@@ -40,13 +44,29 @@
         "ATC Track": "The Creative Part",
         "ATC Artists": [
             "Kate Simko"
-        ]
+        ],
+        "Result Track Name": "The Creative Part",
+        "Result Artist Names": [
+            "Kate Simko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FRGwpsIHHsHHP01H0JM3r",
+        "Result Album Name": "Music from the Atom Smashers"
     },
     {
         "ATC Track": "Jack's Tune",
         "ATC Artists": [
             "Southern Culture on the Skids"
-        ]
+        ],
+        "Result Track Name": "Jack's Tune",
+        "Result Artist Names": [
+            "Southern Culture on the Skids"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DKsqWrVfHKXW9fOkDoV3R",
+        "Result Album Name": "The Kudzu Ranch"
     },
     {
         "Title": "Mia Farrow Spotlights African Refugees' Plight",
@@ -70,14 +90,30 @@
         "ATC Track": "Standby, Sir",
         "ATC Artists": [
             "Signal Hill"
-        ]
+        ],
+        "Result Track Name": "Standby, Sir",
+        "Result Artist Names": [
+            "Signal Hill"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:236Ayc1Ae775OFYPoXZeNW",
+        "Result Album Name": "Self-Titled EP"
     },
     {
         "ATC Track": "Challenger 64",
         "ATC Artists": [
             "Los Straitjackets",
             "Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Challenger 64",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3O3qXCAIIp4IfzbJs1R9eY",
+        "Result Album Name": "The Further Adventures of Los Straitjackets"
     },
     {
         "Title": "Online Review Too Good To Be True? Sometimes It Is",
@@ -101,7 +137,12 @@
         "ATC Track": "I'm Lookin' for Someone To Love",
         "ATC Artists": [
             "Imelda May"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Slinky",
@@ -109,12 +150,28 @@
             "Eddie Angel",
             "Curry",
             "Pete And His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Slinky",
+        "Result Artist Names": [
+            "Eddie Angel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0tgZTNnTk34lsBMrWCZBpR",
+        "Result Album Name": "Eddie Angel Plays Link Wray"
     },
     {
         "ATC Track": "Rum Runner",
         "ATC Artists": [
             "Surfriders"
-        ]
+        ],
+        "Result Track Name": "Rum Runner",
+        "Result Artist Names": [
+            "The Surfriders"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cNFaxiDwqcXZF3dgfpAQV",
+        "Result Album Name": "Surfbeat, Vol. 2"
     }
 ]

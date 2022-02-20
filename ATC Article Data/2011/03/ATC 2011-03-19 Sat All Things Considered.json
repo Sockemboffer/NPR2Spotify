@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-03-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:55:05"
+        "Scanned Date": "2022-02-07 01:55:05",
+        "Playlist URI": "5LON8MSNybSCUuvda3CSh1",
+        "Playlist Link": "https://open.spotify.com/playlist/5LON8MSNybSCUuvda3CSh1",
+        "Snapshot ID": "MSw3ZDhlZjUzZTk5N2VjYjVkNjQ5MmVjYTA5N2Y5Mjc5NTJkMWFiYzI5",
+        "Playlist Name": "ATC 2011-03-19 Sat All Things Considered"
     },
     {
         "Title": "Libya  Under Missile Attack",
@@ -28,7 +32,15 @@
         "ATC Track": "Beau Mot Plage",
         "ATC Artists": [
             "Isolée"
-        ]
+        ],
+        "Result Track Name": "Beau Mot Plage",
+        "Result Artist Names": [
+            "Isolée"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5voCbV34XZKPX30WaasXAH",
+        "Result Album Name": "Rest"
     },
     {
         "Title": "Japan Tries To Reconnect Power To Nuclear Plant",
@@ -52,7 +64,16 @@
         "ATC Track": "Paris [Aeroplane Remix]",
         "ATC Artists": [
             "Friendly Fires"
-        ]
+        ],
+        "Result Track Name": "Paris - Aeroplane Remix",
+        "Result Artist Names": [
+            "Friendly Fires",
+            "Aeroplane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hHjWMWYIuAFVa5RQZJFIP",
+        "Result Album Name": "Friendly Fires"
     },
     {
         "Title": "Gadhafi Supporters Rally As Obama Explains Action",
@@ -70,12 +91,25 @@
         "ATC Track": "U-Uno",
         "ATC Artists": [
             "Protect-U"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ecstasy of Dancing Fleas",
         "ATC Artists": [
             "Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "The Ecstasy Of Dancing Fleas - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0SrJKLmxC624x3r9j2O374",
+        "Result Album Name": "Penguin Café Orchestra"
     }
 ]

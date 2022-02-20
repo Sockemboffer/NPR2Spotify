@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-10-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:41:23"
+        "Scanned Date": "2022-02-07 01:41:23",
+        "Playlist URI": "6g2kIRSBG2p5GGdeHxzgya",
+        "Playlist Link": "https://open.spotify.com/playlist/6g2kIRSBG2p5GGdeHxzgya",
+        "Snapshot ID": "MSw1ZTg0ODY4Mjg1NTgyNWJkZjYxMTM3NmI5ZGNkNTMwYzVhMTU5MWNk",
+        "Playlist Name": "ATC 2011-10-09 Sun All Things Considered"
     },
     {
         "Title": "When A Country Defaults, Who Comes Knocking?",
@@ -17,13 +21,31 @@
         "ATC Artists": [
             "Kevin Hays",
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Crazy Quilt",
+        "Result Artist Names": [
+            "Brad Mehldau",
+            "Kevin Hays",
+            "Patrick Zimmerli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1CEA5YTKPDHiAYYeCYufzh",
+        "Result Album Name": "Modern Music"
     },
     {
         "ATC Track": "Dynamite",
         "ATC Artists": [
             "Taio Cruz"
-        ]
+        ],
+        "Result Track Name": "Dynamite",
+        "Result Artist Names": [
+            "Taio Cruz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2CEgGE6aESpnmtfiZwYlbV",
+        "Result Album Name": "The Rokstarr Hits Collection"
     },
     {
         "Title": "At Least 19 Dead In Egypt Riots",
@@ -54,13 +76,33 @@
         "ATC Artists": [
             "Frank London",
             "Roger Davidson"
-        ]
+        ],
+        "Result Track Name": "Dance of Hope",
+        "Result Artist Names": [
+            "Roger Davidson",
+            "The Frank London Klezmer Orchestra",
+            "Andy Statman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77ZESt8KpeYm0MKdc5zSTY",
+        "Result Album Name": "On the Road of Life"
     },
     {
         "ATC Track": "Deuces",
         "ATC Artists": [
             "Chris Brown"
-        ]
+        ],
+        "Result Track Name": "Deuces (feat. Tyga & Kevin McCall)",
+        "Result Artist Names": [
+            "Chris Brown",
+            "Tyga",
+            "Kevin McCall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wN4nT2qy3MQc098yL3Eu9",
+        "Result Album Name": "F.A.M.E. (Expanded Edition)"
     },
     {
         "Title": "Quest For The Holy Doughnut, And The First Dessert",
@@ -84,12 +126,29 @@
         "ATC Track": "Make a Movie",
         "ATC Artists": [
             "Twista"
-        ]
+        ],
+        "Result Track Name": "Make A Movie",
+        "Result Artist Names": [
+            "Twista",
+            "Chris Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CisLSqtKbDw2VtpN6IuLw",
+        "Result Album Name": "The Perfect Storm"
     },
     {
         "ATC Track": "Poker Face [Guide Vocal Track]",
         "ATC Artists": [
             "Karaoke"
-        ]
+        ],
+        "Result Track Name": "Poker Face",
+        "Result Artist Names": [
+            "Starlite Karaoke"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2nQNC6vE0dgOP2uONgKNym",
+        "Result Album Name": "Karaoke Party in the USA"
     }
 ]

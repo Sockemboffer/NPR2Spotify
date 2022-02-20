@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-04-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:52:36"
+        "Scanned Date": "2022-02-07 01:52:36",
+        "Playlist URI": "3nw1hWdb7uJbbqbnxux3fd",
+        "Playlist Link": "https://open.spotify.com/playlist/3nw1hWdb7uJbbqbnxux3fd",
+        "Snapshot ID": "MSxlMjlhZjJhNzhjNjNjNmZiNDVjMTRjZjNjZDg2OThmODA3MWY1OWE3",
+        "Playlist Name": "ATC 2011-04-10 Sun All Things Considered"
     },
     {
         "Title": "Ivory Coast People Face A 'Hostile Environment'",
@@ -28,13 +32,30 @@
         "ATC Track": "Unilateralism",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Unilateralism",
+        "Result Artist Names": [
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3P1LBOYZrzz1vp7m4Fv8TS",
+        "Result Album Name": "Music From The Fog of War"
     },
     {
         "ATC Track": "O Bia",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "O Bia",
+        "Result Artist Names": [
+            "Francis Bebey",
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KDwVGmIY0PO1z9z6lEAmx",
+        "Result Album Name": "The Magic Box"
     },
     {
         "Title": "Paul Ryan's 2012 Budget: Good, Bad AND Ugly?",
@@ -53,7 +74,15 @@
         "ATC Artists": [
             "Mitchell Froom",
             "Lisa Germano"
-        ]
+        ],
+        "Result Track Name": "Kitsum",
+        "Result Artist Names": [
+            "Mitchell Froom"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6QBLzBHvUNc7JXpMjGdLjq",
+        "Result Album Name": "Dopamine"
     },
     {
         "Title": "In Japan, Many Still Living On The Edge",
@@ -71,7 +100,12 @@
         "ATC Track": "1418",
         "ATC Artists": [
             "Ulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Twin Drama Returns in 'Sweet Valley Confidential'",
@@ -95,12 +129,28 @@
         "ATC Track": "No Regrets",
         "ATC Artists": [
             "Gaby Moreno"
-        ]
+        ],
+        "Result Track Name": "No Regrets",
+        "Result Artist Names": [
+            "Gaby Moreno"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bD0ZSftbPDq1w9OCtzipQ",
+        "Result Album Name": "Illustrated Songs"
     },
     {
         "ATC Track": "Monoliths",
         "ATC Artists": [
             "Maserati"
-        ]
+        ],
+        "Result Track Name": "Monoliths",
+        "Result Artist Names": [
+            "Maserati"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2KpyRdFIiop5Y8cAvx4CmX",
+        "Result Album Name": "Passages"
     }
 ]

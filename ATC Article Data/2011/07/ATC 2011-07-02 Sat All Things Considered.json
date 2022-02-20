@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-07-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:46:38"
+        "Scanned Date": "2022-02-07 01:46:38",
+        "Playlist URI": "74fhsq3kuNIb95BXfRbYfh",
+        "Playlist Link": "https://open.spotify.com/playlist/74fhsq3kuNIb95BXfRbYfh",
+        "Snapshot ID": "MSxhYWJhMzg2ZmIyM2VmZTVjY2VlOTQ2OGU3M2E1NDc0MTA0MWY1OGZl",
+        "Playlist Name": "ATC 2011-07-02 Sat All Things Considered"
     },
     {
         "Title": "Political Gridlock Rises, The Debt Ceiling Doesn't",
@@ -16,7 +20,15 @@
         "ATC Track": "You've Been Spiked",
         "ATC Artists": [
             "Chris Joss"
-        ]
+        ],
+        "Result Track Name": "You've Been Spiked",
+        "Result Artist Names": [
+            "Chris Joss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4LTPLra2uBRLUWu3v6ep9x",
+        "Result Album Name": "You've Been Spiked"
     },
     {
         "Title": "Week In News: Debt Ceiling, Strauss-Kahn Case, Google",
@@ -46,13 +58,29 @@
         "ATC Track": "Get on Up",
         "ATC Artists": [
             "Murphy Williams"
-        ]
+        ],
+        "Result Track Name": "Get on Up/Sanford & Son",
+        "Result Artist Names": [
+            "Keller Williams"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4xkYIShXW9BSDtkOHs2Y2C",
+        "Result Album Name": "Freek"
     },
     {
         "ATC Track": "Web of Deception",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Web of Deception",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4g2dDlVCL7KMBhN6c37RjY",
+        "Result Album Name": "Culture of Fear"
     },
     {
         "Title": "In Race To South Pole, Scott Lost ... Or Did He?",
@@ -70,18 +98,42 @@
         "ATC Track": "Love or Money",
         "ATC Artists": [
             "The Stormmers"
-        ]
+        ],
+        "Result Track Name": "Love or Money",
+        "Result Artist Names": [
+            "The Blackwells"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0Xm4ZocNObPh3krcLJ0CAe",
+        "Result Album Name": "Sweet Harmony: The Jamie Years"
     },
     {
         "ATC Track": "Comets [Beatbroker Remix]",
         "ATC Artists": [
             "Hatchback"
-        ]
+        ],
+        "Result Track Name": "Comets - Beatbroker Remix",
+        "Result Artist Names": [
+            "Hatchback"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28i4r1XrWHZ3ZytZp1uKgV",
+        "Result Album Name": "Milky Disco III : To The Stars"
     },
     {
         "ATC Track": "Discoteca Nacional",
         "ATC Artists": [
             "Clorofila"
-        ]
+        ],
+        "Result Track Name": "Discoteca Nacional",
+        "Result Artist Names": [
+            "Clorofila"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4HoYybxjGrWhcQvUYHKO76",
+        "Result Album Name": "Corridos Urbanos"
     }
 ]

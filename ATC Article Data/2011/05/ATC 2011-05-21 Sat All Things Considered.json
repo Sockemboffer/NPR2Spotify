@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-05-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:51:28"
+        "Scanned Date": "2022-02-07 01:51:28",
+        "Playlist URI": "5LwQvFnhkzq7Y1m5rgooZx",
+        "Playlist Link": "https://open.spotify.com/playlist/5LwQvFnhkzq7Y1m5rgooZx",
+        "Snapshot ID": "MSwwMjczYTE5Y2NlMjIyN2JlMjllYjVhMDA2MDc0MThjOWNmNTMwZDI1",
+        "Playlist Name": "ATC 2011-05-21 Sat All Things Considered"
     },
     {
         "Title": "Getting Real About Funding Mideast Reform",
@@ -16,13 +20,29 @@
         "ATC Track": "Magic",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Magic",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44ivwEffkMAOjrC1SALJlO",
+        "Result Album Name": "The Intercontinentals"
     },
     {
         "ATC Track": "Two Step",
         "ATC Artists": [
             "Pacha Massive"
-        ]
+        ],
+        "Result Track Name": "Two Step",
+        "Result Artist Names": [
+            "Pacha Massive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vMatJt6CpNUskgn0adeKi",
+        "Result Album Name": "Latino Beats"
     },
     {
         "Title": "Week In News: U.S.-Israeli Relations",
@@ -53,7 +73,12 @@
         "ATC Artists": [
             "Mike Elizondo",
             "Jose Antonio Pasillas II et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Psychopath Walks Into A Room. Can You Tell?",
@@ -77,19 +102,40 @@
         "ATC Track": "It's the End of the World as We Know It (And I Feel Fine)",
         "ATC Artists": [
             "REM"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Answer Me",
         "ATC Artists": [
             "Ticklah",
             "Victor Axelrod"
-        ]
+        ],
+        "Result Track Name": "Answer Me",
+        "Result Artist Names": [
+            "Ticklah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:09VFVhKzkasNxgAIrg2JML",
+        "Result Album Name": "Ticklah vs. Axelrod"
     },
     {
         "ATC Track": "Groove Holmes",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Groove Holmes",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:79RU3IJza68fW10JHbDfhb",
+        "Result Album Name": "The In Sound From Way Out!"
     }
 ]

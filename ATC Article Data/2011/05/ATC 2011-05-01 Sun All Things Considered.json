@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-05-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:50:07"
+        "Scanned Date": "2022-02-07 01:50:07",
+        "Playlist URI": "6RRUBu1cHYAJTRjm0xokRf",
+        "Playlist Link": "https://open.spotify.com/playlist/6RRUBu1cHYAJTRjm0xokRf",
+        "Snapshot ID": "MSxiM2VjZjc3NmU0NzRlMDBjYmE2ZTU4NTQ3Zjg4MWFlZDNiZjJhZDdk",
+        "Playlist Name": "ATC 2011-05-01 Sun All Things Considered"
     },
     {
         "Title": "Bumping Up Against The Debt Ceiling: That Hurts!",
@@ -16,13 +20,29 @@
         "ATC Track": "Yodel 1",
         "ATC Artists": [
             "The Penguin Cafe Orchestra"
-        ]
+        ],
+        "Result Track Name": "Yodel 1 - Remastered 2008",
+        "Result Artist Names": [
+            "Penguin Cafe Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:0EGgkbkXhMWECLSegbv0yl",
+        "Result Album Name": "Penguin Café Orchestra"
     },
     {
         "ATC Track": "Sunblocks",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Sunblocks",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DgE54HBMsOaLNnKKqDQ5a",
+        "Result Album Name": "LP4"
     },
     {
         "Title": "Embassies Attacked After Gadhafi Son's Reported Death",
@@ -52,7 +72,15 @@
         "ATC Track": "December Hunting for Vegetarian",
         "ATC Artists": [
             "Stars of the Lid"
-        ]
+        ],
+        "Result Track Name": "December Hunting for Vegetarian Fuckface",
+        "Result Artist Names": [
+            "Stars Of The Lid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FYbiwCEaxSEp2iAeteqUJ",
+        "Result Album Name": "And Their Refinement of the Decline"
     },
     {
         "Title": "Lost In Translation? TV's 'Raymond' Goes To Russia",
@@ -70,12 +98,28 @@
         "ATC Track": "Last Ride In",
         "ATC Artists": [
             "Green Day"
-        ]
+        ],
+        "Result Track Name": "Last Ride In",
+        "Result Artist Names": [
+            "Green Day"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FnDerFHdaeCFovZnQ3r14",
+        "Result Album Name": "Nimrod"
     },
     {
         "ATC Track": "Requiem For Dying Mothers",
         "ATC Artists": [
             "Stars of the Lid"
-        ]
+        ],
+        "Result Track Name": "Requiem for Dying Mothers, Pt. 2",
+        "Result Artist Names": [
+            "Stars Of The Lid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7m2iqOIBuCT0XvMkv4wYNv",
+        "Result Album Name": "The Tired Sounds of Stars of the Lid"
     }
 ]

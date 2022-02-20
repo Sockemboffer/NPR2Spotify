@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-02-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:57:25"
+        "Scanned Date": "2022-02-07 01:57:25",
+        "Playlist URI": "34v5Rj7S8DxMLW6rsAbb0J",
+        "Playlist Link": "https://open.spotify.com/playlist/34v5Rj7S8DxMLW6rsAbb0J",
+        "Snapshot ID": "MSxjMjIyYTEwNmU4OTc4NDNmYWExZjg4OGQxMTc4YTAwNjE1ZmUzZjYx",
+        "Playlist Name": "ATC 2011-02-27 Sun All Things Considered"
     },
     {
         "Title": "Latest From  Libya",
@@ -29,13 +33,30 @@
         "ATC Artists": [
             "Claude VonStroke",
             "Christian Martin"
-        ]
+        ],
+        "Result Track Name": "Groundhog Day - Original Mix",
+        "Result Artist Names": [
+            "Claude VonStroke",
+            "Christian Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zCdgxfStoyl5zZz5XRY2q",
+        "Result Album Name": "Groundhog Day"
     },
     {
         "ATC Track": "Neckbrace",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Neckbrace",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6iDU7XRi0cxXvUYk3s8OOk",
+        "Result Album Name": "LP4"
     },
     {
         "Title": "Rep. Jane Harman Reflects On Career",
@@ -65,13 +86,32 @@
         "ATC Track": "Violin Concerto No.1 in A minor, Op.99 (formerly Op.77) - 2. Scherzo (Allegro)",
         "ATC Artists": [
             "Bavarian Radio Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Violin Concerto No. 1 in A Minor, Op. 99 (Formerly Op. 77): II. Scherzo (Allegro)",
+        "Result Artist Names": [
+            "Dmitri Shostakovich",
+            "Lisa Batiashvili",
+            "Bavarian Radio Symphony Orchestra",
+            "Esa-Pekka Salonen"
+        ],
+        "Result Track-Match Percent": 0.9333333333333333,
+        "Result Artists-Match Percent": 0.5333333333333333,
+        "Result Track URI": "spotify:track:0oAyMQgH5oh1EGsxisR4Ux",
+        "Result Album Name": "Echoes of Time"
     },
     {
         "ATC Track": "All In",
         "ATC Artists": [
             "Flying Lotus"
-        ]
+        ],
+        "Result Track Name": "All In",
+        "Result Artist Names": [
+            "Flying Lotus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eWIBNEmDlIpnrrhcubpK0",
+        "Result Album Name": "Until The Quiet Comes"
     },
     {
         "Title": "Dreams, Death And Jewish Gangsters In 'Odessa'",
@@ -89,18 +129,39 @@
         "ATC Track": "Vocalise, Op.34 No.14",
         "ATC Artists": [
             "Bavarian Radio Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Apples and Pears",
         "ATC Artists": [
             "The Canyons"
-        ]
+        ],
+        "Result Track Name": "Apples And Pears",
+        "Result Artist Names": [
+            "Canyons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6jbgySyREi0vZIldoca1n5",
+        "Result Album Name": "The Lovemore Ep"
     },
     {
         "ATC Track": "Toxygene (7\" Edit)",
         "ATC Artists": [
             "The Orb"
-        ]
+        ],
+        "Result Track Name": "Toxygene - 7\" Edit",
+        "Result Artist Names": [
+            "The Orb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3OBcUfsknT6UgaqOfh5S3a",
+        "Result Album Name": "U.F.Off: The Best Of The Orb"
     }
 ]

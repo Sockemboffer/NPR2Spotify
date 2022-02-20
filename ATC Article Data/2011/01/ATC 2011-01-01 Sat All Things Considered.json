@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-01-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:57:32"
+        "Scanned Date": "2022-02-07 01:57:32",
+        "Playlist URI": "1XY5zVAoqdDQWfv5MRA0w1",
+        "Playlist Link": "https://open.spotify.com/playlist/1XY5zVAoqdDQWfv5MRA0w1",
+        "Snapshot ID": "MSwzNzRjMzBiZGEwZGJmOTc4ZDk4NDkxNjQwMDFhMTgxOTJhMzQ0M2Y0",
+        "Playlist Name": "ATC 2011-01-01 Sat All Things Considered"
     },
     {
         "Title": "In 2011, $5 Gas, Tea Party Power And An E-Book Boom?",
@@ -16,13 +20,26 @@
         "ATC Track": "Beat Hollow",
         "ATC Artists": [
             "Fognode"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Concerto for Cootie",
         "ATC Artists": [
             "Duke Ellington and His Famous Orchestra"
-        ]
+        ],
+        "Result Track Name": "Concerto for Cootie",
+        "Result Artist Names": [
+            "Duke Ellington and His Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:7jqJOSlaMc4PZ7ARS8YVvi",
+        "Result Album Name": "Duke Ellington & His Orchestra"
     },
     {
         "Title": "Week In News: Remembering Those Who Died",
@@ -52,7 +69,15 @@
         "ATC Track": "Instrumental 4",
         "ATC Artists": [
             "Poppa"
-        ]
+        ],
+        "Result Track Name": "instrumental 4",
+        "Result Artist Names": [
+            "poppa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YOh3Qog3emTu0qKUz5all",
+        "Result Album Name": "Freestyle Bangers"
     },
     {
         "Title": "The Enduring Allure Of Chanel No. 5",
@@ -70,12 +95,25 @@
         "ATC Track": "Arizona Daybreak",
         "ATC Artists": [
             "Craig Chaquico"
-        ]
+        ],
+        "Result Track Name": "Arizona Daybreak",
+        "Result Artist Names": [
+            "Craig Chaquico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3BZzkgYeoqkz442blkqghN",
+        "Result Album Name": "Four Corners"
     },
     {
         "ATC Track": "Mama Elephant",
         "ATC Artists": [
             "E. Cap"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

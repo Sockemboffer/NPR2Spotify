@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-07-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:47:55"
+        "Scanned Date": "2022-02-07 01:47:55",
+        "Playlist URI": "52TzUTW03kxdEGv1Xzy8y2",
+        "Playlist Link": "https://open.spotify.com/playlist/52TzUTW03kxdEGv1Xzy8y2",
+        "Snapshot ID": "MSw0NWM1ZmVlNTBiMzRiMzU1NGNmOTI3ZDhkN2Q1MzFmYWUzNzI4NzBk",
+        "Playlist Name": "ATC 2011-07-24 Sun All Things Considered"
     },
     {
         "Title": "Lawmakers Craft Alternate Debt Plans",
@@ -28,13 +32,26 @@
         "ATC Track": "So Good [Psyan Remix]",
         "ATC Artists": [
             "Nubian Mindz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Do What You Love",
         "ATC Artists": [
             "J Boogie"
-        ]
+        ],
+        "Result Track Name": "Do What You Love",
+        "Result Artist Names": [
+            "J Boogie's Dubtronic Science"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0cEkiOXLmsGuHB9qOzmVvL",
+        "Result Album Name": "J Boogie's Dubtronic Science"
     },
     {
         "Title": "'Pure Politics' In D.C.; A True Crisis In Europe",
@@ -64,13 +81,26 @@
         "ATC Track": "D Song",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "D Song",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4d9LscecWjNIkll4aY52Fi",
+        "Result Album Name": "Dial 'M' for Monkey"
     },
     {
         "ATC Track": "Crawl, End Crawl (from the Motion Picture \"Quantum of Solace\")",
         "ATC Artists": [
             "Four Tet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A New Movie, Starring You",
@@ -100,19 +130,43 @@
         "ATC Track": "Laurel Canyon",
         "ATC Artists": [
             "Shawn Lee"
-        ]
+        ],
+        "Result Track Name": "Laurel Canyon",
+        "Result Artist Names": [
+            "Shawn Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6cxTGlQRrT5ZNlsNF3dMen",
+        "Result Album Name": "Moods and Grooves"
     },
     {
         "ATC Track": "Hot Fun in the Summertime",
         "ATC Artists": [
             "Sly",
             "the Family Stone"
-        ]
+        ],
+        "Result Track Name": "Hot Fun in the Summertime",
+        "Result Artist Names": [
+            "Sly & The Family Stone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4t6NQkpUmvpvLDCkl3XuwA",
+        "Result Album Name": "Greatest Hits"
     },
     {
         "ATC Track": "Grass-Hopper",
         "ATC Artists": [
             "Lemongrass"
-        ]
+        ],
+        "Result Track Name": "Grass-Hopper",
+        "Result Artist Names": [
+            "Lemongrass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YKx3PrNUIzcobZwm52Mtf",
+        "Result Album Name": "Filmothèque"
     }
 ]

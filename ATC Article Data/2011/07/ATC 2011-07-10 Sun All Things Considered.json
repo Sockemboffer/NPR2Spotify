@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-07-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 01:47:03"
+        "Scanned Date": "2022-02-07 01:47:03",
+        "Playlist URI": "0jfMgnTg7Ux8Yo8ll4LsnG",
+        "Playlist Link": "https://open.spotify.com/playlist/0jfMgnTg7Ux8Yo8ll4LsnG",
+        "Snapshot ID": "MSw4YWIzYTkxMDlkYjk4ZDc4NmMzOTJiZTA5NTlhYzlkMDE2MzllNjk4",
+        "Playlist Name": "ATC 2011-07-10 Sun All Things Considered"
     },
     {
         "Title": "As Income Gap Balloons, Is It Holding Back Growth?",
@@ -16,7 +20,15 @@
         "ATC Track": "Intothinair",
         "ATC Artists": [
             "Mocean Worker"
-        ]
+        ],
+        "Result Track Name": "Intothinair",
+        "Result Artist Names": [
+            "Mocean Worker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3WLRNM6jEUd2zne9P1xt65",
+        "Result Album Name": "Aural & Hearty"
     },
     {
         "Title": "Obama, Lawmakers Have Another Go At Debt Talks",
@@ -52,13 +64,26 @@
         "ATC Track": "Stay",
         "ATC Artists": [
             "Pretty Lights"
-        ]
+        ],
+        "Result Track Name": "Stay",
+        "Result Artist Names": [
+            "Pretty Lights"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FfeHvApX9d9yaSCHtlZ74",
+        "Result Album Name": "Taking up Your Precious Time"
     },
     {
         "ATC Track": "Forest Hu",
         "ATC Artists": [
             "Sound Tribe Sector 9"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "30-Year Con: From German Kid To Rockefeller Scion",
@@ -76,18 +101,42 @@
         "ATC Track": "Voodoo",
         "ATC Artists": [
             "Brian Carpenter's Ghost Train Orchestra"
-        ]
+        ],
+        "Result Track Name": "Voodoo",
+        "Result Artist Names": [
+            "Ghost Train Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1H0I3cBo861gZ7PbNUicKH",
+        "Result Album Name": "Hothouse Stomp"
     },
     {
         "ATC Track": "Tip of the Tongue",
         "ATC Artists": [
             "Lotus"
-        ]
+        ],
+        "Result Track Name": "Tip of the Tongue",
+        "Result Artist Names": [
+            "Lotus "
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3nZCiso5r8Nr2Rf7xvd0ln",
+        "Result Album Name": "The Strength of Weak Ties"
     },
     {
         "ATC Track": "Rock Kit",
         "ATC Artists": [
             "Future Rock"
-        ]
+        ],
+        "Result Track Name": "Rock Kit",
+        "Result Artist Names": [
+            "Future Rock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Dcx7zgIHbQrOfAhfBnnS4",
+        "Result Album Name": "Gears"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-12-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:37:32"
+        "Scanned Date": "2022-02-07 01:37:32",
+        "Playlist URI": "4oJq7umLKxq61DotUvEE4y",
+        "Playlist Link": "https://open.spotify.com/playlist/4oJq7umLKxq61DotUvEE4y",
+        "Snapshot ID": "MSw5NTA3ODI1YTFlMTc2ZGZhMjk3ZDc3M2MyNWExYjkzZGYzZjQzZjIy",
+        "Playlist Name": "ATC 2011-12-10 Sat All Things Considered"
     },
     {
         "Title": "Just What Do The Rich Have That's Taxable?",
@@ -16,7 +20,12 @@
         "ATC Track": "Atta Onukpa",
         "ATC Artists": [
             "Pax Nicholas And The Nettey Family"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": " Week In News: Plan To Save Eurozone Takes A Hit",
@@ -47,13 +56,29 @@
         "ATC Artists": [
             "Christian McBride",
             "Christian McBride Big Band"
-        ]
+        ],
+        "Result Track Name": "The Shade of the Cedar Tree",
+        "Result Artist Names": [
+            "Christian McBride Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TCs9AgPobZBQYrXe5Z2Xc",
+        "Result Album Name": "The Good Feeling"
     },
     {
         "ATC Track": "Moon of Tunis",
         "ATC Artists": [
             "The Beyman Bros"
-        ]
+        ],
+        "Result Track Name": "Moon of Tunis",
+        "Result Artist Names": [
+            "The Beyman Bros"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xVLUHvZ8WeaeIFfC9lilA",
+        "Result Album Name": "Memories of Summer as a Child"
     },
     {
         "Title": "Nobel Peace Prize Accepted By 3 Women",
@@ -77,18 +102,40 @@
         "ATC Track": "Spiritual",
         "ATC Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "Spiritual",
+        "Result Artist Names": [
+            "Christian McBride",
+            "Dr. Billy Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WOZFxaV9hpXQgvsrclK84",
+        "Result Album Name": "Conversations with Christian"
     },
     {
         "ATC Track": "Malato",
         "ATC Artists": [
             "Novalima"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Obi Agye Me Dofo",
         "ATC Artists": [
             "Vis-A-Vis"
-        ]
+        ],
+        "Result Track Name": "Obi Agye Me Dofo",
+        "Result Artist Names": [
+            "Vis-A-Vis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0L3ix7W8mmZvwRVohG6qb5",
+        "Result Album Name": "Obi Agye Me Dofo"
     }
 ]

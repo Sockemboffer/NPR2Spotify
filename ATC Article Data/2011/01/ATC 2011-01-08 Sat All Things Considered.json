@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-01-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:57:58"
+        "Scanned Date": "2022-02-07 01:57:58",
+        "Playlist URI": "5EiFicPsqYS9jTJBbjQJKH",
+        "Playlist Link": "https://open.spotify.com/playlist/5EiFicPsqYS9jTJBbjQJKH",
+        "Snapshot ID": "MSwwMDY2ZjlkYzk3ZmE2ZjQ4MWY0NzVlOTc5NWEyZjRiMDI3YWRmMjcz",
+        "Playlist Name": "ATC 2011-01-08 Sat All Things Considered"
     },
     {
         "Title": "Arizona Congresswoman Shot, In Critical Condition",
@@ -28,13 +32,26 @@
         "ATC Track": "PAS DE DEUX",
         "ATC Artists": [
             "HANS-JOACHIM RODELIUS"
-        ]
+        ],
+        "Result Track Name": "Pas de deux",
+        "Result Artist Names": [
+            "Hans-Joachim Schneider"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:1uowdLGzTdTxWRUdxiAr33",
+        "Result Album Name": "Piano Works I"
     },
     {
         "ATC Track": "Etude in C Sharp Minor, Op 2, No. 1",
         "ATC Artists": [
             "Judith Lynn Stillman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In News: Giffords' Shooting",
@@ -65,13 +82,29 @@
         "ATC Artists": [
             "Harry Connick",
             "Jr."
-        ]
+        ],
+        "Result Track Name": "I Like Love More",
+        "Result Artist Names": [
+            "Harry Connick, Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52hmDHULDlLKAy983jL8mq",
+        "Result Album Name": "Occasion: Connick on Piano 2"
     },
     {
         "ATC Track": "Swisha",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Swisha",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3LbhNPQ42157CHVH7soU1n",
+        "Result Album Name": "Classics"
     },
     {
         "Title": "Three-Minute Fiction Round 6: Laughing And Crying",
@@ -89,7 +122,15 @@
         "ATC Track": "It's Easy to Remember",
         "ATC Artists": [
             "Bucky Pizzarelli"
-        ]
+        ],
+        "Result Track Name": "Medley: It's Easy to Remember/This Nearly Was Mine",
+        "Result Artist Names": [
+            "Bucky Pizzarelli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0pF4CEa9mGWpdRctvOADBB",
+        "Result Album Name": "Renaissance: A Journey From"
     },
     {
         "Title": "Arizona Rep. Giffords Shot In Rampage",
@@ -101,12 +142,25 @@
         "ATC Track": "Necessary Messages",
         "ATC Artists": [
             "Tadamitsu Saito"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Summer Night",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Summer Night",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eN0rzXMRYXmXtBkFOXYdI",
+        "Result Album Name": "Quiet Nights"
     }
 ]

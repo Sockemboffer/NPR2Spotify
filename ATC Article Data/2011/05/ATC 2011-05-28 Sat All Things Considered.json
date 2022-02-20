@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2011-05-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 01:51:52"
+        "Scanned Date": "2022-02-07 01:51:52",
+        "Playlist URI": "3sXQFqFGky6Rcw1VBxwopH",
+        "Playlist Link": "https://open.spotify.com/playlist/3sXQFqFGky6Rcw1VBxwopH",
+        "Snapshot ID": "MSxmNmJmNjE5OTJiNmFmNGI3MTAxMjg2ZDU3MThlNDUyY2QzZDYxMTk2",
+        "Playlist Name": "ATC 2011-05-28 Sat All Things Considered"
     },
     {
         "Title": "General: We Can't Kill Our Way Out Of Afghanistan",
@@ -28,7 +32,15 @@
         "ATC Track": "A Lot of People Cutting Grass on Sunday",
         "ATC Artists": [
             "Lullatone"
-        ]
+        ],
+        "Result Track Name": "A Lot of People Cutting Grass on a Sunday",
+        "Result Artist Names": [
+            "Lullatone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XYvA32fUaSWGyyiU9i8n4",
+        "Result Album Name": "Elevator Music"
     },
     {
         "Title": "Week In News: Russia Joins Chorus Against Gadhafi",
@@ -58,7 +70,12 @@
         "ATC Track": "You're Nasty",
         "ATC Artists": [
             "Duck Sauce"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Revved Up For The Indy 500 Every Year Since 1947",
@@ -82,24 +99,53 @@
         "ATC Track": "\"HoeDown\" from Rodeo (Four Dance Episodes)",
         "ATC Artists": [
             "New York Philharmonic - Leonard Berstein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Past Is Prologue",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Past Is Prologue",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fEO7Eq0wHpFdGaZV4NitC",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "ATC Track": "La Ballade d'Alain Georges",
         "ATC Artists": [
             "The Dead Texan"
-        ]
+        ],
+        "Result Track Name": "La Ballade D'alain Georges",
+        "Result Artist Names": [
+            "The Dead Texan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ZMuZcAR6PEhh3ssr7y85e",
+        "Result Album Name": "The Dead Texan"
     },
     {
         "ATC Track": "Caravan",
         "ATC Artists": [
             "Piero Umiliani"
-        ]
+        ],
+        "Result Track Name": "Caravan",
+        "Result Artist Names": [
+            "Piero Umiliani"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4slkTB0ippXc3KUpGUlKqL",
+        "Result Album Name": "Ode To Duke Ellington"
     }
 ]
