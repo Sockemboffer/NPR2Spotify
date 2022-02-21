@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-03-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:19:03"
+        "Scanned Date": "2022-02-07 02:19:03",
+        "Playlist URI": "3VYo3b3MbqqQrI5KMIzI00",
+        "Playlist Link": "https://open.spotify.com/playlist/3VYo3b3MbqqQrI5KMIzI00",
+        "Snapshot ID": "MSxmNjAwODRmY2Y0OTYwMzM5OWM5NjljMDkwMWYwNzNlMTcyOTE0YTRh",
+        "Playlist Name": "ATC 2012-03-04 Sun All Things Considered"
     },
     {
         "Title": "Ohio Is Key Test For GOP Hopefuls",
@@ -16,7 +20,15 @@
         "ATC Track": "Delia Derbyshire",
         "ATC Artists": [
             "King of Woolworths"
-        ]
+        ],
+        "Result Track Name": "Delia Derbyshire",
+        "Result Artist Names": [
+            "King Of Woolworths"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5z7m0r7VqF45d6ZqQ7WBL4",
+        "Result Album Name": "L'illustration Musicale"
     },
     {
         "Title": "They're Nobody And Want To Know Everything",
@@ -40,7 +52,12 @@
         "ATC Track": "Live Buchla Concert 1975",
         "ATC Artists": [
             "Suzanne Ciani"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "(Sock) Monkey Business: A Festival For Iconic Toy",
@@ -64,18 +81,39 @@
         "ATC Track": "Eighth Wave",
         "ATC Artists": [
             "Suzanne Ciani"
-        ]
+        ],
+        "Result Track Name": "The Eighth Wave",
+        "Result Artist Names": [
+            "Suzanne Ciani"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0hfdtb8oN7bWS0P5aqRbyZ",
+        "Result Album Name": "The Velocity Of Love"
     },
     {
         "ATC Track": "Sonata for keyboard in E major, K. 531 (L. 430)",
         "ATC Artists": [
             "Wendy Carlos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Little Man from Mars",
         "ATC Artists": [
             "Perrey-Kingsley"
-        ]
+        ],
+        "Result Track Name": "The Little Man From Mars",
+        "Result Artist Names": [
+            "Perrey and Kingsley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Y4lx1dpUJ11jHOBKfnK8q",
+        "Result Album Name": "The In Sound From Way Out"
     }
 ]

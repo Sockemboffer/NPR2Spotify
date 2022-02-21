@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-08-26",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:10:55"
+        "Scanned Date": "2022-02-07 02:10:55",
+        "Playlist URI": "2tOD4lMlt8LqONFempviFN",
+        "Playlist Link": "https://open.spotify.com/playlist/2tOD4lMlt8LqONFempviFN",
+        "Snapshot ID": "MSwyZTkyYTM4YWUyNjJhZDc3YWNlYjg1ODEyNzU2ZWVkYWJkMGQ3NzVl",
+        "Playlist Name": "ATC 2012-08-26 Sun All Things Considered"
     },
     {
         "Title": "Obama's Warfare: 'From Power To A Policy'",
@@ -16,7 +20,12 @@
         "ATC Track": "OCDC",
         "ATC Artists": [
             "OCDC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tropical Storm Isaac Looms Over GOP Convention",
@@ -52,7 +61,15 @@
         "ATC Track": "Cross",
         "ATC Artists": [
             "James Blackshaw"
-        ]
+        ],
+        "Result Track Name": "Cross",
+        "Result Artist Names": [
+            "James Blackshaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AvHk3QdMABWRKvcwfo85b",
+        "Result Album Name": "The Glass Bead Game"
     },
     {
         "Title": "'A Contest Of Wits': A Former Forger Recalls His Art",
@@ -70,18 +87,43 @@
         "ATC Track": "Live And Die",
         "ATC Artists": [
             "The Avett Brothers"
-        ]
+        ],
+        "Result Track Name": "Live And Die",
+        "Result Artist Names": [
+            "The Avett Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19n9s9SfnLtwPEODqk8KCT",
+        "Result Album Name": "The Carpenter"
     },
     {
         "ATC Track": "JJ Leaves LA",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "JJ Leaves LA",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qrG9uYjBEPnhmHKesMZaM",
+        "Result Album Name": "Shine"
     },
     {
         "ATC Track": "Sweet Dreams",
         "ATC Artists": [
             "Mark Knopfler"
-        ]
+        ],
+        "Result Track Name": "Sweet Dreams",
+        "Result Artist Names": [
+            "Chet Atkins",
+            "Mark Knopfler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4z96W9h0tlw4pQgE8xctgU",
+        "Result Album Name": "Neck And Neck"
     }
 ]

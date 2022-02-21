@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-04-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:17:50"
+        "Scanned Date": "2022-02-07 02:17:50",
+        "Playlist URI": "3QNAnPjHZQKDKThkg7nskC",
+        "Playlist Link": "https://open.spotify.com/playlist/3QNAnPjHZQKDKThkg7nskC",
+        "Snapshot ID": "MSwwZDhkZDk4MmJhZjgxNzNkMThkM2NiYzk4MzNkMTk3NGNjOTYxYjE3",
+        "Playlist Name": "ATC 2012-04-15 Sun All Things Considered"
     },
     {
         "Title": "The Tax Man Cometh! But For Whom?",
@@ -16,14 +20,30 @@
         "ATC Track": "Six Pack",
         "ATC Artists": [
             "Tortoise"
-        ]
+        ],
+        "Result Track Name": "Six Pack",
+        "Result Artist Names": [
+            "Tortoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kyaFTKrT7ZukXj1irYqgp",
+        "Result Album Name": "Standards"
     },
     {
         "ATC Track": "Out of Town",
         "ATC Artists": [
             "Zero 7",
             "Henry Binns et. al."
-        ]
+        ],
+        "Result Track Name": "Out Of Town",
+        "Result Artist Names": [
+            "Zero 7"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4MiF5T5dWo9iEPf76ugXA1",
+        "Result Album Name": "Simple Things"
     },
     {
         "Title": "Tornado Warnings May Have Had Desired Effect",
@@ -59,7 +79,15 @@
         "ATC Track": "Photograph",
         "ATC Artists": [
             "World Party"
-        ]
+        ],
+        "Result Track Name": "Photograph",
+        "Result Artist Names": [
+            "World Party"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59PqsygYcu5WmSdYgtEXyS",
+        "Result Album Name": "Arkeology"
     },
     {
         "Title": "'Violins Of Hope': Instruments From The Holocaust",
@@ -83,12 +111,25 @@
         "ATC Track": "Photograph",
         "ATC Artists": [
             "World Party"
-        ]
+        ],
+        "Result Track Name": "Photograph",
+        "Result Artist Names": [
+            "World Party"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59PqsygYcu5WmSdYgtEXyS",
+        "Result Album Name": "Arkeology"
     },
     {
         "ATC Track": "Gbobgo Lope",
         "ATC Artists": [
             "King Sunny Ade"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

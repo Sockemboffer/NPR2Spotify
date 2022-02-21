@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-07-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:12:55"
+        "Scanned Date": "2022-02-07 02:12:55",
+        "Playlist URI": "0Q5XjepToOWYFYRxEWK9A2",
+        "Playlist Link": "https://open.spotify.com/playlist/0Q5XjepToOWYFYRxEWK9A2",
+        "Snapshot ID": "MSxlNjAxMjg4OGYwMmRiNTJkY2RjM2E4NTEyMmFmMjVhZWNkN2M3NWNh",
+        "Playlist Name": "ATC 2012-07-22 Sun All Things Considered"
     },
     {
         "Title": "Testing, Treatment Key Weapons In AIDS Fight",
@@ -17,7 +21,16 @@
         "ATC Artists": [
             "Bonobo",
             "Bajka"
-        ]
+        ],
+        "Result Track Name": "Days To Come",
+        "Result Artist Names": [
+            "Bonobo",
+            "Bajka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mRTSIs40qa2L7omBzQd1u",
+        "Result Album Name": "Days To Come"
     },
     {
         "Title": "After Shooting Rampage, A Community Looks To Heal",
@@ -47,13 +60,29 @@
         "ATC Track": "Múmtaz Khan",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Mumtaz Khan",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LatvWOuJPJpJ1GaNipcdy",
+        "Result Album Name": "LP3"
     },
     {
         "ATC Track": "Pretty Take",
         "ATC Artists": [
             "Elm from Arm"
-        ]
+        ],
+        "Result Track Name": "Pretty Take",
+        "Result Artist Names": [
+            "Elm From Arm"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3R1yk12m6xGqIwiO8bQif3",
+        "Result Album Name": "The Synchronicity Suite"
     },
     {
         "Title": "'Savages' Return In 'The Kings Of Cool'",
@@ -77,12 +106,28 @@
         "ATC Track": "Pontooner",
         "ATC Artists": [
             "Carl Henry Brueggen"
-        ]
+        ],
+        "Result Track Name": "Pontooner",
+        "Result Artist Names": [
+            "Carl Henry Brueggen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:58daaYBAEFYN3Fl5ru3nYe",
+        "Result Album Name": "Let's Talk About Hi-Fi"
     },
     {
         "ATC Track": "Hot Banana",
         "ATC Artists": [
             "Tipsy"
-        ]
+        ],
+        "Result Track Name": "Hot Banana",
+        "Result Artist Names": [
+            "Tipsy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76ASBanBeO54Pqdg9aKvcG",
+        "Result Album Name": "Buzzz"
     }
 ]

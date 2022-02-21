@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-01-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:24:41"
+        "Scanned Date": "2022-02-07 02:24:41",
+        "Playlist URI": "7lV9LnPsLR9oBphsCVq46v",
+        "Playlist Link": "https://open.spotify.com/playlist/7lV9LnPsLR9oBphsCVq46v",
+        "Snapshot ID": "MSxkZDFjYjExYTNlMmQzY2I1YjdlM2Y0YzVmOGEyOTYzN2EyMzQxMzll",
+        "Playlist Name": "ATC 2012-01-28 Sat All Things Considered"
     },
     {
         "Title": "Made In The USA: Saving The American Brand",
@@ -16,7 +20,15 @@
         "ATC Track": "Suco de Tangerina",
         "ATC Artists": [
             "Beastie Boys"
-        ]
+        ],
+        "Result Track Name": "Suco De Tangerina",
+        "Result Artist Names": [
+            "Beastie Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lRRQ4TmmiTonIPKWUtC6f",
+        "Result Album Name": "The Mix-Up"
     },
     {
         "Title": "GM CEO: No Apologies For Accepting U.S. Bailout",
@@ -46,7 +58,15 @@
         "ATC Track": "Gambit",
         "ATC Artists": [
             "Ursula 1000"
-        ]
+        ],
+        "Result Track Name": "Gambit",
+        "Result Artist Names": [
+            "Ursula 1000"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74Z8pACnoAiJmvvVRmZ5eh",
+        "Result Album Name": "The Now Sound of Ursula 1000"
     },
     {
         "Title": "New Latin American Music Picks From 'Global Village'",
@@ -64,20 +84,41 @@
         "ATC Track": "Miniature Finale",
         "ATC Artists": [
             "Lullatone"
-        ]
+        ],
+        "Result Track Name": "A Miniature Finale",
+        "Result Artist Names": [
+            "Lullatone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:198iAfFXK0K670xtz7luLt",
+        "Result Album Name": "Little Songs About Raindrops"
     },
     {
         "ATC Track": "Peaceblaster '68",
         "ATC Artists": [
             "STS9",
             "Sound Tribe Sector 9"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lagos Calling",
         "ATC Artists": [
             "Shawn Lee Ping Pong Orchestra",
             "Shawn Lee's Ping Pong Orchestra"
-        ]
+        ],
+        "Result Track Name": "Lagos Calling",
+        "Result Artist Names": [
+            "Shawn Lee's Ping Pong Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:226xKcXFD9VnxNWBTIvgoi",
+        "Result Album Name": "Miles of Styles"
     }
 ]

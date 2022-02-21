@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-01-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:22:53"
+        "Scanned Date": "2022-02-07 02:22:53",
+        "Playlist URI": "0HaJJthABdMi8IYcVj8aAz",
+        "Playlist Link": "https://open.spotify.com/playlist/0HaJJthABdMi8IYcVj8aAz",
+        "Snapshot ID": "MSxjMjExMjMzYjA4ZGEzOTBjNzUwMDgxNjUwMjE0NzMxOWFjZjBmZmQ5",
+        "Playlist Name": "ATC 2012-01-01 Sun All Things Considered"
     },
     {
         "Title": "A Quick Look At The Year Ahead",
@@ -16,7 +20,12 @@
         "ATC Track": "New Year's Day In The Morning",
         "ATC Artists": [
             "* Frederick Renz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Physicists Seek To Lose The Lecture As Teaching Tool",
@@ -40,7 +49,17 @@
         "ATC Track": "CARNIVAL OF THE ANIMALS: AQUARIUM",
         "ATC Artists": [
             "ARTHUR FIEDLER AND THE BOSTON POPS ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Carnival of the Animals, R. 125: Aquarium",
+        "Result Artist Names": [
+            "Camille Saint-Saëns",
+            "Arthur Fiedler",
+            "Boston Pops Orchestra"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 0.7142857142857143,
+        "Result Track URI": "spotify:track:2hrpshhsBK6kut08Kb28Q3",
+        "Result Album Name": "Un siècle de musique française"
     },
     {
         "Title": "An Amazing Trickeration?: Banished Words For 2012",
@@ -64,12 +83,28 @@
         "ATC Track": "Auld Lang Syne",
         "ATC Artists": [
             "Hot Club Of San Francisco"
-        ]
+        ],
+        "Result Track Name": "Auld Lang Syne",
+        "Result Artist Names": [
+            "The Hot Club Of San Francisco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6lAufNCzTUzbiuin41Nc3w",
+        "Result Album Name": "Hot Club of San Francisco: Hot Club Cool Yule"
     },
     {
         "ATC Track": "Soul'd Lang Syne",
         "ATC Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Soul'd Lang Syne",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1aMiVuI9jU3A8u4Q3XWCZj",
+        "Result Album Name": "Yuletide Beat"
     }
 ]

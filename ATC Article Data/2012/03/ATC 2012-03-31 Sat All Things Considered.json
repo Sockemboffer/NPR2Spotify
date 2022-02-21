@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-03-31",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:20:49"
+        "Scanned Date": "2022-02-07 02:20:49",
+        "Playlist URI": "5mrSFsBraS7849vzBzqxsZ",
+        "Playlist Link": "https://open.spotify.com/playlist/5mrSFsBraS7849vzBzqxsZ",
+        "Snapshot ID": "MSw2NmExMzgxZGZmZmQzYjc2ZTA2NjE5ZTE4ZTYyM2ZiN2JmMjU1OGJm",
+        "Playlist Name": "ATC 2012-03-31 Sat All Things Considered"
     },
     {
         "Title": "The Individual Mandate's Growth In Unpopularity",
@@ -16,13 +20,26 @@
         "ATC Track": "Mango Di Bango",
         "ATC Artists": [
             "Tosca"
-        ]
+        ],
+        "Result Track Name": "Mango di Bango",
+        "Result Artist Names": [
+            "Tosca"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2luFGaZ4yq8ifsj2NLClqU",
+        "Result Album Name": "Dehli 9"
     },
     {
         "ATC Track": "Bridge Over a Red Sky",
         "ATC Artists": [
             "Trey Gunn"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In 1993, Republicans Proposed A Mandate First",
@@ -41,7 +58,15 @@
         "ATC Artists": [
             "The Black Keys",
             "Black Keys"
-        ]
+        ],
+        "Result Track Name": "So He Won't Break",
+        "Result Artist Names": [
+            "The Black Keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yV74f2mUih6EWJf4FUMGY",
+        "Result Album Name": "Attack & Release"
     },
     {
         "Title": "Here (And There, And Really Everywhere) Be Dragons",
@@ -59,13 +84,29 @@
         "ATC Track": "Wonderwall",
         "ATC Artists": [
             "Oasis"
-        ]
+        ],
+        "Result Track Name": "Wonderwall - Remastered",
+        "Result Artist Names": [
+            "Oasis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ygpwy2qP3NbrxVkHvUhXY",
+        "Result Album Name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)"
     },
     {
         "ATC Track": "Moon Fever",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Moon Fever",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mKB8BUg6JIXlNChQXQQNR",
+        "Result Album Name": "Le voyage dans la lune"
     },
     {
         "Title": "Fight For Klimt Portrait A Fight To Reclaim History",
@@ -83,18 +124,42 @@
         "ATC Track": "Wonderwall",
         "ATC Artists": [
             "Oasis"
-        ]
+        ],
+        "Result Track Name": "Wonderwall - Remastered",
+        "Result Artist Names": [
+            "Oasis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ygpwy2qP3NbrxVkHvUhXY",
+        "Result Album Name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)"
     },
     {
         "ATC Track": "Live Forever",
         "ATC Artists": [
             "Oasis"
-        ]
+        ],
+        "Result Track Name": "Live Forever - Remastered",
+        "Result Artist Names": [
+            "Oasis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6TlQ5fbojNRuG0hPQMbxeW",
+        "Result Album Name": "Definitely Maybe (Deluxe Edition Remastered)"
     },
     {
         "ATC Track": "Everybody's on the Run",
         "ATC Artists": [
             "Noel Gallagher's High Flying Birds"
-        ]
+        ],
+        "Result Track Name": "Everybody's On The Run",
+        "Result Artist Names": [
+            "Noel Gallagher's High Flying Birds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7IEBI3QQTQ4U2nTBwQowd7",
+        "Result Album Name": "Noel Gallagher's High Flying Birds (Deluxe Edition)"
     }
 ]

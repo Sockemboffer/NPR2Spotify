@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-06-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:14:05"
+        "Scanned Date": "2022-02-07 02:14:05",
+        "Playlist URI": "0lLn6nWfG5nHIyyxdYvlGn",
+        "Playlist Link": "https://open.spotify.com/playlist/0lLn6nWfG5nHIyyxdYvlGn",
+        "Snapshot ID": "MSxmMWE3NmJiODU1NDU4YjU3NzdiYzExN2Y4OTE0OWEwMWU0OWM0NDlh",
+        "Playlist Name": "ATC 2012-06-09 Sat All Things Considered"
     },
     {
         "Title": "Could 'Taxmageddon' Crisis Create Compromise?",
@@ -16,13 +20,30 @@
         "ATC Track": "Drunk Socks",
         "ATC Artists": [
             "Clutchy Hopkins"
-        ]
+        ],
+        "Result Track Name": "Drunk Socks",
+        "Result Artist Names": [
+            "Clutchy Hopkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19PlqdOz1FDkOiE6lW7cRl",
+        "Result Album Name": "The Story Teller"
     },
     {
         "ATC Track": "Protection",
         "ATC Artists": [
             "Massive Attack"
-        ]
+        ],
+        "Result Track Name": "Protection",
+        "Result Artist Names": [
+            "Massive Attack",
+            "Tracey Thorn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kKVqFF4pv4EXeQe428zl2",
+        "Result Album Name": "Protection"
     },
     {
         "Title": "Free Syrian Army Linked To Damascus Attacks",
@@ -52,13 +73,26 @@
         "ATC Track": "Forsaken Cowboy",
         "ATC Artists": [
             "Röyksopp"
-        ]
+        ],
+        "Result Track Name": "Forsaken Cowboy",
+        "Result Artist Names": [
+            "Röyksopp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PavOmkhyMfqGMypQRX8ji",
+        "Result Album Name": "Senior"
     },
     {
         "ATC Track": "It's a Secret",
         "ATC Artists": [
             "Flying Lotus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Steve Guttenberg Writes His Own 'Bible' ",
@@ -82,18 +116,43 @@
         "ATC Track": "Call Me Maybe",
         "ATC Artists": [
             "Carly Rae Jepsen"
-        ]
+        ],
+        "Result Track Name": "Call Me Maybe",
+        "Result Artist Names": [
+            "Carly Rae Jepsen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TGRqZ0a2l1LRblBkJoaDx",
+        "Result Album Name": "Kiss (Deluxe)"
     },
     {
         "ATC Track": "On the Floor (Rock-It)",
         "ATC Artists": [
             "Tony Cook"
-        ]
+        ],
+        "Result Track Name": "On The Floor (Rock-It)",
+        "Result Artist Names": [
+            "Tony Cook",
+            "The Party People"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3I2ixlVMaYgAZYssJuW0zs",
+        "Result Album Name": "Back To Reality"
     },
     {
         "ATC Track": "Mind Control",
         "ATC Artists": [
             "Friends"
-        ]
+        ],
+        "Result Track Name": "Mind Control",
+        "Result Artist Names": [
+            "Friends"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5fkc8YQWSwa1Frx906QRbD",
+        "Result Album Name": "Manifest!"
     }
 ]

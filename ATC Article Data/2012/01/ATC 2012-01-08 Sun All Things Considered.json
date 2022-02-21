@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-01-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:23:20"
+        "Scanned Date": "2022-02-07 02:23:20",
+        "Playlist URI": "5pv3tERhYwi3U8LgA2QFfg",
+        "Playlist Link": "https://open.spotify.com/playlist/5pv3tERhYwi3U8LgA2QFfg",
+        "Snapshot ID": "MSwxMDhkZmYxN2U4NWI3YTIwMTU5N2JkYTY1NWI0ZTM3NWEzYzAwYzYw",
+        "Playlist Name": "ATC 2012-01-08 Sun All Things Considered"
     },
     {
         "Title": "The State Of Play In The GOP Presidential Field",
@@ -16,7 +20,15 @@
         "ATC Track": "Believe in It",
         "ATC Artists": [
             "Michna"
-        ]
+        ],
+        "Result Track Name": "Believe In It",
+        "Result Artist Names": [
+            "Michna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gb1ybGMOBw7Ez4CkXeZjM",
+        "Result Album Name": "Magic Monday"
     },
     {
         "Title": "The New Hampshire Primary: Boost Or Bust",
@@ -46,13 +58,29 @@
         "ATC Track": "Vampire Girl",
         "ATC Artists": [
             "Jonathan Richman"
-        ]
+        ],
+        "Result Track Name": "Vampire Girl",
+        "Result Artist Names": [
+            "Jonathan Richman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AGyfH2Y9X0yraWVkFpTNF",
+        "Result Album Name": "You Must Ask The Heart"
     },
     {
         "ATC Track": "Camera",
         "ATC Artists": [
             "Lemongrass"
-        ]
+        ],
+        "Result Track Name": "The Camera",
+        "Result Artist Names": [
+            "Lemongrass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6UhJr4Z2ocmvFSUSm5m5h5",
+        "Result Album Name": "Filmothèque"
     },
     {
         "Title": "A Self-Published Author's $2 Million Cinderella Story",
@@ -72,18 +100,39 @@
             "ABBC",
             "Tokyo Symphony Orchestra",
             "Yoshinori Nishiwaki (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Smokebomb",
         "ATC Artists": [
             "Ursula 1000"
-        ]
+        ],
+        "Result Track Name": "Smokebomb",
+        "Result Artist Names": [
+            "Ursula 1000"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3DruPcwchUN0bti3QgxysV",
+        "Result Album Name": "Kinda' Kinky"
     },
     {
         "ATC Track": "Mirando",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Mirando",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:26GjrTtgreXBg4mEFV3Xh6",
+        "Result Album Name": "LP3"
     }
 ]

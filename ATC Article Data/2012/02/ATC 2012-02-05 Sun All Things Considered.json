@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-02-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:21:12"
+        "Scanned Date": "2022-02-07 02:21:12",
+        "Playlist URI": "6vxcXUQApShrl6z56arQpJ",
+        "Playlist Link": "https://open.spotify.com/playlist/6vxcXUQApShrl6z56arQpJ",
+        "Snapshot ID": "MSxmMjI4MjZiNjg5ZTk1ODc2YzI1YjIwNTY0M2I1YjNlMWRhZmU5MzYw",
+        "Playlist Name": "ATC 2012-02-05 Sun All Things Considered"
     },
     {
         "Title": "Stopping The 'Brain Drain' Of The U.S. Economy",
@@ -16,7 +20,15 @@
         "ATC Track": "Meter's Running",
         "ATC Artists": [
             "Speedometer"
-        ]
+        ],
+        "Result Track Name": "Meter's Running",
+        "Result Artist Names": [
+            "Speedometer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29AMKD4DgAiho0zj6duBkI",
+        "Result Album Name": "Four Flights Up"
     },
     {
         "Title": "PIMCO CEO: World's Economy Is 'On A Knife's Edge'",
@@ -46,7 +58,15 @@
         "ATC Track": "Hot Stick",
         "ATC Artists": [
             "The Diplomats of Solid Sound"
-        ]
+        ],
+        "Result Track Name": "Hot Stick",
+        "Result Artist Names": [
+            "Diplomats of Solid Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8888888888888888,
+        "Result Track URI": "spotify:track:5KGug5AMXHuAtrpBY9SrZe",
+        "Result Album Name": "Instrumental, Action, Soul"
     },
     {
         "Title": "How Whitey Bulger Corrupted The Justice System",
@@ -64,12 +84,25 @@
         "ATC Track": "Funky Jam",
         "ATC Artists": [
             "Eddie Bo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Baby I Love You",
         "ATC Artists": [
             "The Sugarman 3"
-        ]
+        ],
+        "Result Track Name": "Baby I Love You",
+        "Result Artist Names": [
+            "The Sugarman 3"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jARzUwfmn5nrpo0r7poUT",
+        "Result Album Name": "Soul Donkey"
     }
 ]

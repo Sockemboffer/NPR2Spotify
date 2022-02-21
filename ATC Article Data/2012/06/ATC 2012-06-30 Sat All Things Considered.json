@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-06-30",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:15:30"
+        "Scanned Date": "2022-02-07 02:15:30",
+        "Playlist URI": "0R411tUPJFCPxy1Hegf01E",
+        "Playlist Link": "https://open.spotify.com/playlist/0R411tUPJFCPxy1Hegf01E",
+        "Snapshot ID": "MSwxOWIyMGQ0MWQwMGY1NmJlOWNmYzI2YTRhZDE3YjllMTEzMDIyOTQ1",
+        "Playlist Name": "ATC 2012-06-30 Sat All Things Considered"
     },
     {
         "Title": "Synthetic 'Bath Salts' An Evolving Problem For DEA",
@@ -40,7 +44,15 @@
         "ATC Track": "Places",
         "ATC Artists": [
             "Brad Mehldau"
-        ]
+        ],
+        "Result Track Name": "Places",
+        "Result Artist Names": [
+            "(Brad Little)"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3jzTZrs2QZivbX99rUeisu",
+        "Result Album Name": "Live In Korea"
     },
     {
         "Title": "'Billy Lynn' A Full-Bore Tale Of A Day After Iraq",
@@ -58,6 +70,14 @@
         "ATC Track": "Synthetica",
         "ATC Artists": [
             "Metric"
-        ]
+        ],
+        "Result Track Name": "Synthetica",
+        "Result Artist Names": [
+            "Metric"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rAMEH9r80J7vGtT2ZVuwn",
+        "Result Album Name": "Synthetica (Deluxe Edition)"
     }
 ]

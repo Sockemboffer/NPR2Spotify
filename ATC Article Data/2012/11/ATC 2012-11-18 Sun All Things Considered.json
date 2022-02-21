@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-11-18",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:04:16"
+        "Scanned Date": "2022-02-07 02:04:16",
+        "Playlist URI": "4a0YiKCkeYOPRDQKcbfK9R",
+        "Playlist Link": "https://open.spotify.com/playlist/4a0YiKCkeYOPRDQKcbfK9R",
+        "Snapshot ID": "MSw2MTg4NmE3MWUzZmNkYjgxNDg0N2Q3ZDIwZDU4MWYzMDBkYmFlZmZk",
+        "Playlist Name": "ATC 2012-11-18 Sun All Things Considered"
     },
     {
         "Title": "Few Signs Of Break In Mideast Flare-Up",
@@ -28,7 +32,12 @@
         "ATC Track": "The Highlander's Blues",
         "ATC Artists": [
             "John Platania"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Debt Talks A 'Roosevelt Moment' For Obama",
@@ -64,12 +73,25 @@
         "ATC Track": "Rowing",
         "ATC Artists": [
             "Soundgarden"
-        ]
+        ],
+        "Result Track Name": "Rowing",
+        "Result Artist Names": [
+            "Soundgarden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0J16sUbP1lsczlVh01MVzg",
+        "Result Album Name": "King Animal (Deluxe Version)"
     },
     {
         "ATC Track": "I Can't Live Without My Radio",
         "ATC Artists": [
             "World Domination Enterprises"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-01-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:24:43"
+        "Scanned Date": "2022-02-07 02:24:43",
+        "Playlist URI": "5iIdoPkRx7GjWfx1UjUtj4",
+        "Playlist Link": "https://open.spotify.com/playlist/5iIdoPkRx7GjWfx1UjUtj4",
+        "Snapshot ID": "MSw5YTJjOWEwNWYzODBjM2ZlZWU4ZmMwN2VlZTllYjczYTExYzY2OGU3",
+        "Playlist Name": "ATC 2012-01-29 Sun All Things Considered"
     },
     {
         "Title": "Public Or Private: Keeping Google From Being 'Evil'",
@@ -16,7 +20,15 @@
         "ATC Track": "Espionage",
         "ATC Artists": [
             "Green Day"
-        ]
+        ],
+        "Result Track Name": "Espionage",
+        "Result Artist Names": [
+            "Green Day"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fcjZYFWDlBJMaiJWJlcBi",
+        "Result Album Name": "Shenanigans"
     },
     {
         "Title": "After Nigeria Attacks, Religious Groups Band Together",
@@ -46,14 +58,27 @@
         "ATC Track": "Seven Stars",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Seven Stars",
+        "Result Artist Names": [
+            "Air"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4s0bhnrvdhWmN5qfjk1aYB",
+        "Result Album Name": "Le voyage dans la lune"
     },
     {
         "ATC Track": "19th Century France",
         "ATC Artists": [
             "Philip Glass",
             "Foday Musa Suso"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "On Amazon, An Uneasy Mix Of Plagiarism And Erotica",
@@ -71,18 +96,39 @@
         "ATC Track": "Lava",
         "ATC Artists": [
             "Air"
-        ]
+        ],
+        "Result Track Name": "Lava Anesthetize Basin",
+        "Result Artist Names": [
+            "Compressed Air Taps Lever"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3l1hCn2UOiLjMYorKGceTp",
+        "Result Album Name": "Lava Anesthetize Basin"
     },
     {
         "ATC Track": "Champs-Elysées",
         "ATC Artists": [
             "Joe Dassin"
-        ]
+        ],
+        "Result Track Name": "Les Champs-Elysées",
+        "Result Artist Names": [
+            "Joe Dassin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VWbPQUPvLes814r6T11Jz",
+        "Result Album Name": "Les Champs-Èlysées"
     },
     {
         "ATC Track": "Ping",
         "ATC Artists": [
             "rs-232"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

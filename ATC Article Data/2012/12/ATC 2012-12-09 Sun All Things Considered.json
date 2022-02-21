@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-12-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:00:03"
+        "Scanned Date": "2022-02-07 02:00:03",
+        "Playlist URI": "3dJXHm1b9TV1yzPZrTbRuI",
+        "Playlist Link": "https://open.spotify.com/playlist/3dJXHm1b9TV1yzPZrTbRuI",
+        "Snapshot ID": "MSwzYTQ3ODUyMjViYTQ5OGViYmE0ZTBlMjE1NDA3Yjc4YzY1OGEyYmU0",
+        "Playlist Name": "ATC 2012-12-09 Sun All Things Considered"
     },
     {
         "Title": "Affirmative Action: Factious Past, Uncertain Future",
@@ -16,7 +20,15 @@
         "ATC Track": "You've Got Maelstrom",
         "ATC Artists": [
             "Blockhead"
-        ]
+        ],
+        "Result Track Name": "You've got Maelstrom",
+        "Result Artist Names": [
+            "Blockhead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ue14BGYW2LTuy7qeggV0z",
+        "Result Album Name": "Music By Cavelight"
     },
     {
         "Title": "Baltimore Says, 'Immigrants Welcome'",
@@ -40,13 +52,23 @@
         "ATC Track": "A Beantown Christmas",
         "ATC Artists": [
             "Auld Lang Syne"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ellenville",
         "ATC Artists": [
             "Ben Monder"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "UPDATE: This One Really Is The World's Most Expensive Whisky, We're Told",
@@ -72,12 +94,25 @@
             "Leila Josefowicz",
             "Finnish Radio Symphony Orchestra",
             "Esa-Pekka Salonen (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "MOUNTAIN GREENERY",
         "ATC Artists": [
             "THE ERNIE FREEMAN COMBO"
-        ]
+        ],
+        "Result Track Name": "Mountain Greenery",
+        "Result Artist Names": [
+            "The Ernie Warren Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1dVZ8a4VAfljXGePofbQ32",
+        "Result Album Name": "An Evening In Peacock Alley at the Waldorf Astoria (Digitally Remastered)"
     }
 ]

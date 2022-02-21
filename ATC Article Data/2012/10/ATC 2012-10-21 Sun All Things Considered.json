@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-10-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:06:16"
+        "Scanned Date": "2022-02-07 02:06:16",
+        "Playlist URI": "5Zp7o5993iAFkBBBhwCWlY",
+        "Playlist Link": "https://open.spotify.com/playlist/5Zp7o5993iAFkBBBhwCWlY",
+        "Snapshot ID": "MSxjY2ZiM2E5MGU3MDBjMjA2MjcwZDYzYTVjZTQ2NmJhM2ExNThlMjIw",
+        "Playlist Name": "ATC 2012-10-21 Sun All Things Considered"
     },
     {
         "Title": "Foreign Policy Debate: Rhetoric Vs. Reality",
@@ -28,13 +32,26 @@
         "ATC Track": "Magre in the Air",
         "ATC Artists": [
             "Badly Drawn Boy"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Corporate World",
         "ATC Artists": [
             "The Dust Brothers"
-        ]
+        ],
+        "Result Track Name": "Corporate World",
+        "Result Artist Names": [
+            "The Dust Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NOId30dbtZ0rU3em9KqT9",
+        "Result Album Name": "Fight Club (Original Motion Picture Score)"
     },
     {
         "Title": "A Reminder To Tolkien Fans Of Their First Love",
@@ -58,6 +75,11 @@
         "ATC Track": "Poème pastoral, songs (6) for voice & piano [No. 5 Crépuscule]",
         "ATC Artists": [
             "Stephen Hough"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

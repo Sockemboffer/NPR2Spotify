@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-12-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:01:36"
+        "Scanned Date": "2022-02-07 02:01:36",
+        "Playlist URI": "675ntNWcdGYvOavwKOijMC",
+        "Playlist Link": "https://open.spotify.com/playlist/675ntNWcdGYvOavwKOijMC",
+        "Snapshot ID": "MSw2ZmUxNmVjZWZjN2ViOWE0ZDYwMTE2NDYzOGExYmJhMDM3N2E3MzRi",
+        "Playlist Name": "ATC 2012-12-29 Sat All Things Considered"
     },
     {
         "Title": "Cautious Optimism For Behind-The-Scenes Fiscal Dealing",
@@ -28,13 +32,29 @@
         "ATC Track": "Past Is Prologue",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Past Is Prologue",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fEO7Eq0wHpFdGaZV4NitC",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "ATC Track": "Team",
         "ATC Artists": [
             "Bon Iver"
-        ]
+        ],
+        "Result Track Name": "Team",
+        "Result Artist Names": [
+            "Bon Iver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Wpwfxa2s7oQ1ll7IUKnds",
+        "Result Album Name": "For Emma, Forever Ago"
     },
     {
         "Title": "'Truth By Repetition': The Evolution Of Political Mudslinging",
@@ -58,7 +78,15 @@
         "ATC Track": "We Are Never Ever Getting Back Together",
         "ATC Artists": [
             "Taylor Swift"
-        ]
+        ],
+        "Result Track Name": "We Are Never Ever Getting Back Together",
+        "Result Artist Names": [
+            "Taylor Swift"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VwNdo84DaVYLIkbVO86ND",
+        "Result Album Name": "Red (Big Machine Radio Release Special)"
     },
     {
         "Title": "In Limbo: Stateless Man Stuck On American Samoa",
@@ -84,13 +112,26 @@
             "The Boomtang Boys",
             "Mason",
             "Devin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Too Close",
         "ATC Artists": [
             "Alex Clare"
-        ]
+        ],
+        "Result Track Name": "Too Close",
+        "Result Artist Names": [
+            "Alex Clare"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sK96UnGx3NjBaqvfTG2dm",
+        "Result Album Name": "The Lateness Of The Hour"
     },
     {
         "Title": "Beck Explains 'Song Reader,' An Album Fans Perform Themselves",
@@ -102,12 +143,25 @@
         "ATC Track": "Deadweight",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Deadweight",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gZcPNxufeLtRbznS1Odji",
+        "Result Album Name": "Odelay (Deluxe Edition)"
     },
     {
         "ATC Track": "Untitled #12 (Free Jazz)",
         "ATC Artists": [
             "RZA"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

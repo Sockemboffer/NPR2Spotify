@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-07-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:12:22"
+        "Scanned Date": "2022-02-07 02:12:22",
+        "Playlist URI": "1fpTIRKeIkV2D9S9zpzxeM",
+        "Playlist Link": "https://open.spotify.com/playlist/1fpTIRKeIkV2D9S9zpzxeM",
+        "Snapshot ID": "MSw1MjJjMzhmOWZkYTI2OTRiYzhhMDA2NTM3OWI1OGU1MzhjNWFiMDNj",
+        "Playlist Name": "ATC 2012-07-14 Sat All Things Considered"
     },
     {
         "Title": "Miners Weather The Slow Burn Of Coal's Demise",
@@ -16,7 +20,15 @@
         "ATC Track": "Fixed Income",
         "ATC Artists": [
             "DJ Shadow"
-        ]
+        ],
+        "Result Track Name": "Fixed Income",
+        "Result Artist Names": [
+            "DJ Shadow"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64pJLTowXAwQCsyTBl1UpU",
+        "Result Album Name": "The Private Press"
     },
     {
         "Title": "Week In News: The 'Swiftboating' Of Mitt Romney",
@@ -40,13 +52,30 @@
         "ATC Track": "Sunrise Projector (Nautilis Remix)",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Sunrise Projector - Nautilis Remix",
+        "Result Artist Names": [
+            "Tycho",
+            "Nautilis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6McFw6lTDtKtapy2Mzt9YO",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "ATC Track": "Batman",
         "ATC Artists": [
             "Various Artists"
-        ]
+        ],
+        "Result Track Name": "Batman: Suite",
+        "Result Artist Names": [
+            "Various Artists"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4PnVKnbanUpT2bgfLRH6mM",
+        "Result Album Name": "The Fantasy Album: Adventure And Fantasy Film Themes"
     },
     {
         "Title": "Pennsylvania Cuts Medicaid Coverage For Dental Care",
@@ -76,18 +105,42 @@
         "ATC Track": "Gun Has No Trigger",
         "ATC Artists": [
             "Dirty Projectors"
-        ]
+        ],
+        "Result Track Name": "Gun Has No Trigger",
+        "Result Artist Names": [
+            "Dirty Projectors"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2TAVBD7uYxrkp5Ca3nCyan",
+        "Result Album Name": "Swing Lo Magellan"
     },
     {
         "ATC Track": "Lonesome Train",
         "ATC Artists": [
             "Woody Guthrie"
-        ]
+        ],
+        "Result Track Name": "Lonesome Train",
+        "Result Artist Names": [
+            "Sonny Terry, Woody Guthrie, and Cisco Houston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:54LozORn8ot5l0Ds30G5HF",
+        "Result Album Name": "Classic Railroad Songs from Smithsonian Folkways"
     },
     {
         "ATC Track": "This Land Is Your Land",
         "ATC Artists": [
             "Woody Guthrie"
-        ]
+        ],
+        "Result Track Name": "This Land is Your Land",
+        "Result Artist Names": [
+            "Woody Guthrie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZjrfGcb3A2PMGA1vRNgSk",
+        "Result Album Name": "This Land is Your Land: The Asch Recordings, Vol. 1"
     }
 ]

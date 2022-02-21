@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-09-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:08:51"
+        "Scanned Date": "2022-02-07 02:08:51",
+        "Playlist URI": "79DXpm7QFc4k5ICXZ298Po",
+        "Playlist Link": "https://open.spotify.com/playlist/79DXpm7QFc4k5ICXZ298Po",
+        "Snapshot ID": "MSxiNGQ4YTExZTY2ZGVjYjUzZTg4YjZlYjkyOGRhMGM5OGRhZWY1MjA3",
+        "Playlist Name": "ATC 2012-09-30 Sun All Things Considered"
     },
     {
         "Title": "Online Education Grows Up, And For Now, It's Free",
@@ -16,19 +20,43 @@
         "ATC Track": "God Particle",
         "ATC Artists": [
             "Kate Simko"
-        ]
+        ],
+        "Result Track Name": "God Particle",
+        "Result Artist Names": [
+            "Kate Simko"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pj01JSNO2vVDZEFe1Q0g7",
+        "Result Album Name": "Music from the Atom Smashers"
     },
     {
         "ATC Track": "Flim",
         "ATC Artists": [
             "Aphex Twin"
-        ]
+        ],
+        "Result Track Name": "Flim",
+        "Result Artist Names": [
+            "Aphex Twin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4q650OiSDQIwccxDFpuuBm",
+        "Result Album Name": "Come To Daddy"
     },
     {
         "ATC Track": "Spiders",
         "ATC Artists": [
             "The Jazz Mandolin Project"
-        ]
+        ],
+        "Result Track Name": "Spiders - Live",
+        "Result Artist Names": [
+            "The Jazz Mandolin Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76kPOvq9Rlw2gAGdv6wu8N",
+        "Result Album Name": "Xenoblast"
     },
     {
         "Title": "Being 'Better Off' May Not Be Enough To Win Colo.",
@@ -46,7 +74,15 @@
         "ATC Track": "Umoja",
         "ATC Artists": [
             "Imani Winds"
-        ]
+        ],
+        "Result Track Name": "Coleman: Umoja",
+        "Result Artist Names": [
+            "Imani Winds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Z4ckq9QRz8rZnKBsOC0ov",
+        "Result Album Name": "Imani Winds"
     },
     {
         "Title": "A Tiny Ocean World With A Mighty Important Future",
@@ -58,7 +94,12 @@
         "ATC Track": "To All Tiny Creatures",
         "ATC Artists": [
             "All Tiny Creatures"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "From Tea To T-Shirts: The History Of U.S.-China Trade",
@@ -83,19 +124,45 @@
         "ATC Artists": [
             "Sistema Bomb",
             "Cojolites"
-        ]
+        ],
+        "Result Track Name": "El Butaquito (feat. Los Cojolites)",
+        "Result Artist Names": [
+            "Sistema Bomb",
+            "Los Cojolites"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cgjhX3dmy6qqZKzaFFG1k",
+        "Result Album Name": "Electro-Jarocho"
     },
     {
         "ATC Track": "Butaquito",
         "ATC Artists": [
             "Sistema Bomb",
             "Cojolites"
-        ]
+        ],
+        "Result Track Name": "El Butaquito (feat. Los Cojolites)",
+        "Result Artist Names": [
+            "Sistema Bomb",
+            "Los Cojolites"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cgjhX3dmy6qqZKzaFFG1k",
+        "Result Album Name": "Electro-Jarocho"
     },
     {
         "ATC Track": "La Bamba Rebelde",
         "ATC Artists": [
             "Las Cafeteras"
-        ]
+        ],
+        "Result Track Name": "La Bamba Rebelde",
+        "Result Artist Names": [
+            "Las Cafeteras"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cyREPYKAMQNfki246eknU",
+        "Result Album Name": "It's Time"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-08-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:10:17"
+        "Scanned Date": "2022-02-07 02:10:17",
+        "Playlist URI": "1MLuOUHI0zcuJFSUspbctk",
+        "Playlist Link": "https://open.spotify.com/playlist/1MLuOUHI0zcuJFSUspbctk",
+        "Snapshot ID": "MSwzMGViODViOGJiNDE3YmU2NTc4YmM3YzRlMDY1NjJiNmE1YTJjNGYy",
+        "Playlist Name": "ATC 2012-08-19 Sun All Things Considered"
     },
     {
         "Title": "Teen Pregnancy Declines, But U.S. Still Lags ",
@@ -46,7 +50,12 @@
         "ATC Track": "Dark Side of the Moon Documentary",
         "ATC Artists": [
             "Pink Floyd"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Long After Katrina, New Orleans Fights For 'Home'",
@@ -64,6 +73,14 @@
         "ATC Track": "Crucifixion",
         "ATC Artists": [
             "Arizona Dranes"
-        ]
+        ],
+        "Result Track Name": "Crucifixion",
+        "Result Artist Names": [
+            "Arizona Dranes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5R0nmP6bVd70xt9ke89cL8",
+        "Result Album Name": "He Is My Story"
     }
 ]

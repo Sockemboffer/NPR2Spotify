@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-12-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:01:13"
+        "Scanned Date": "2022-02-07 02:01:13",
+        "Playlist URI": "3RH9ytcOF5ty6XbQzJ3XmX",
+        "Playlist Link": "https://open.spotify.com/playlist/3RH9ytcOF5ty6XbQzJ3XmX",
+        "Snapshot ID": "MSxkMWZhN2YyNmQ0NTgyZGVjN2MxZGQ5YjYwYmFhYzVkYzc2OTJmZTk1",
+        "Playlist Name": "ATC 2012-12-23 Sun All Things Considered"
     },
     {
         "Title": "When There's A Baby Between You And The Glass Ceiling",
@@ -16,13 +20,29 @@
         "ATC Track": "Meeting in the Aisle",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "Meeting in the Aisle - Remastered",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Dq6LgGObozz8ykRgYKIGn",
+        "Result Album Name": "OK Computer OKNOTOK 1997 2017"
     },
     {
         "ATC Track": "The National Anthem",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "The National Anthem",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Wgj6jzoI2gYlumXdYAB8U",
+        "Result Album Name": "Kid A"
     },
     {
         "Title": "Mug Shot Websites Charge When You're Charged, For Now",
@@ -64,6 +84,11 @@
         "ATC Track": "[Untitled] [*]",
         "ATC Artists": [
             "Babbu Maan"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

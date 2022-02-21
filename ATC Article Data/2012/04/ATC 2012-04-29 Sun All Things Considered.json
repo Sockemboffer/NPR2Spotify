@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-04-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:18:43"
+        "Scanned Date": "2022-02-07 02:18:43",
+        "Playlist URI": "2rMuWWVnZlQgL1yve6kZn5",
+        "Playlist Link": "https://open.spotify.com/playlist/2rMuWWVnZlQgL1yve6kZn5",
+        "Snapshot ID": "MSwyMDc1MjJhZWYzZmVhZTM3OWYxMzM3NzkwMzE1MzQ5OWVhNzg3Mjhj",
+        "Playlist Name": "ATC 2012-04-29 Sun All Things Considered"
     },
     {
         "Title": "The Death Of Facts In An Age Of 'Truthiness'",
@@ -16,7 +20,15 @@
         "ATC Track": "Calypso Facto",
         "ATC Artists": [
             "Peppino D'Agostino"
-        ]
+        ],
+        "Result Track Name": "Calypso Facto",
+        "Result Artist Names": [
+            "Peppino D'Agostino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sGCfPBpcjTg0Rih65Veai",
+        "Result Album Name": "Close to the Heart"
     },
     {
         "Title": "State Of Emergency Raises The Stakes In Sudan",
@@ -46,7 +58,12 @@
         "ATC Track": "Johnson Boys",
         "ATC Artists": [
             "Reed Martin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Chris Colfer Goes From 'Glee' Singer To 'Struck' Screenwriter",
@@ -64,12 +81,28 @@
         "ATC Track": "Lightning Song",
         "ATC Artists": [
             "Queens Of The Stone Age"
-        ]
+        ],
+        "Result Track Name": "Lightning Song",
+        "Result Artist Names": [
+            "Queens of the Stone Age"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3x0jeGEyBp3Pg4xkzqOdED",
+        "Result Album Name": "Rated R"
     },
     {
         "ATC Track": "Requiem For Dying Mothers",
         "ATC Artists": [
             "Stars of the Lid"
-        ]
+        ],
+        "Result Track Name": "Requiem for Dying Mothers, Pt. 2",
+        "Result Artist Names": [
+            "Stars Of The Lid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7m2iqOIBuCT0XvMkv4wYNv",
+        "Result Album Name": "The Tired Sounds of Stars of the Lid"
     }
 ]

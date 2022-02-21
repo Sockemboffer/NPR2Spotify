@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-01-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:23:18"
+        "Scanned Date": "2022-02-07 02:23:18",
+        "Playlist URI": "3wqxKkBSvANKCuV92fcLYG",
+        "Playlist Link": "https://open.spotify.com/playlist/3wqxKkBSvANKCuV92fcLYG",
+        "Snapshot ID": "MSw3ZDVkZDFkMTAwMDFjN2VlMDFhYzIyMDA4Y2NlYjlhOWYwODY1YWYy",
+        "Playlist Name": "ATC 2012-01-07 Sat All Things Considered"
     },
     {
         "Title": "GOP Candidates In Race To Prove Conservatism",
@@ -22,7 +26,15 @@
         "ATC Track": "Jack's Tune",
         "ATC Artists": [
             "Southern Culture on the Skids"
-        ]
+        ],
+        "Result Track Name": "Jack's Tune",
+        "Result Artist Names": [
+            "Southern Culture on the Skids"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DKsqWrVfHKXW9fOkDoV3R",
+        "Result Album Name": "The Kudzu Ranch"
     },
     {
         "Title": "Week In News: Jobs, Recess Appointments, Military",
@@ -52,14 +64,30 @@
         "ATC Track": "Mr. Know It All",
         "ATC Artists": [
             "Kelly Clarkson"
-        ]
+        ],
+        "Result Track Name": "Mr. Know It All",
+        "Result Artist Names": [
+            "Kelly Clarkson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7uRznL3LcuazKpwCTpDltz",
+        "Result Album Name": "Stronger (Deluxe Version)"
     },
     {
         "ATC Track": "Meneito Paraiso",
         "ATC Artists": [
             "Laika",
             "the Cosmonauts"
-        ]
+        ],
+        "Result Track Name": "Meneito Paraiso",
+        "Result Artist Names": [
+            "Laika & The Cosmonauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pcPK0MeBOq9NfwwZdE8CW",
+        "Result Album Name": "Local Warming"
     },
     {
         "Title": "'Man In The Middle': Between Faith And Politics",
@@ -77,13 +105,29 @@
         "ATC Track": "What Doesn't Kill You (Stronger)",
         "ATC Artists": [
             "Kelly Clarkson"
-        ]
+        ],
+        "Result Track Name": "What Doesn't Kill You (Stronger)",
+        "Result Artist Names": [
+            "Kelly Clarkson Karaoke Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0JDliQ0sqgJ0tor9iuAIyv",
+        "Result Album Name": "Top Karaoke Hits of 2011"
     },
     {
         "ATC Track": "Lost Vagueness",
         "ATC Artists": [
             "Thunderball"
-        ]
+        ],
+        "Result Track Name": "Lost Vagueness",
+        "Result Artist Names": [
+            "Thunderball"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ajoyYydkStuJFFeQ7fBxw",
+        "Result Album Name": "Cinescope"
     },
     {
         "ATC Track": "Slinky",
@@ -91,6 +135,14 @@
             "Eddie Angel",
             "Curry",
             "Pete And His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Slinky",
+        "Result Artist Names": [
+            "Eddie Angel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0tgZTNnTk34lsBMrWCZBpR",
+        "Result Album Name": "Eddie Angel Plays Link Wray"
     }
 ]

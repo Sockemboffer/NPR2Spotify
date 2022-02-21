@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2012-08-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:09:48"
+        "Scanned Date": "2022-02-07 02:09:48",
+        "Playlist URI": "1IG2BYLhON3OOQyyT10rFa",
+        "Playlist Link": "https://open.spotify.com/playlist/1IG2BYLhON3OOQyyT10rFa",
+        "Snapshot ID": "MSwyNzAxMTdmN2RjYmNiMmE3M2NlYjhiYjI3NmNmZDg3YWU2YmVjZTMx",
+        "Playlist Name": "ATC 2012-08-12 Sun All Things Considered"
     },
     {
         "Title": "Breaking Down Gun Violence: No 'Simple Formula'",
@@ -16,13 +20,26 @@
         "ATC Track": "Crepuscolo Sul Mare",
         "ATC Artists": [
             "Kid Loco"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Gun",
         "ATC Artists": [
             "The Golden Palominos"
-        ]
+        ],
+        "Result Track Name": "Gun",
+        "Result Artist Names": [
+            "The Golden Palominos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5U2uuySEJqGGKlpREFb60I",
+        "Result Album Name": "Pure"
     },
     {
         "Title": "Egypt's New Leader Dismisses Military Chiefs",
@@ -46,7 +63,17 @@
         "ATC Track": "The Watcher",
         "ATC Artists": [
             "Avishai Cohen"
-        ]
+        ],
+        "Result Track Name": "The Watcher",
+        "Result Artist Names": [
+            "Avishai Cohen",
+            "Mark Guiliana",
+            "Bernie Kirsch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0AeT9wkfZmnLPfpKL6bkZ5",
+        "Result Album Name": "Lyla"
     },
     {
         "Title": "Tears And Drama Punctuate Olympics' Final Weekend",
@@ -64,13 +91,29 @@
         "ATC Track": "Survival",
         "ATC Artists": [
             "Muse"
-        ]
+        ],
+        "Result Track Name": "Survival",
+        "Result Artist Names": [
+            "Muse"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2IFqUmfW8oQoKn6ToxKsMs",
+        "Result Album Name": "The 2nd Law"
     },
     {
         "ATC Track": "Good Time",
         "ATC Artists": [
             "Brazilian Girls"
-        ]
+        ],
+        "Result Track Name": "Good Time",
+        "Result Artist Names": [
+            "Brazilian Girls"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23UfUx67sIKChSO8aNPCoY",
+        "Result Album Name": "New York City"
     },
     {
         "Title": "The Olympic Soundtrack: A Story Of National Pride",
@@ -94,18 +137,43 @@
         "ATC Track": "We OK",
         "ATC Artists": [
             "The Very Best"
-        ]
+        ],
+        "Result Track Name": "We OK",
+        "Result Artist Names": [
+            "The Very Best",
+            "K'NAAN"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zQWfrBDAJ5h6j5MDfYaXZ",
+        "Result Album Name": "Mtmtmk"
     },
     {
         "ATC Track": "Cape Cod Kwassa Kwassa",
         "ATC Artists": [
             "Vampire Weekend"
-        ]
+        ],
+        "Result Track Name": "Cape Cod Kwassa Kwassa",
+        "Result Artist Names": [
+            "Vampire Weekend"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1vTBBxcBB2Nb3ezQFRrGFO",
+        "Result Album Name": "Vampire Weekend"
     },
     {
         "ATC Track": "Graceland",
         "ATC Artists": [
             "Paul Simon"
-        ]
+        ],
+        "Result Track Name": "Graceland",
+        "Result Artist Names": [
+            "Paul Simon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:51KKQAgYFoJHgVIuJWHdHb",
+        "Result Album Name": "Graceland (25th Anniversary Deluxe Edition)"
     }
 ]
