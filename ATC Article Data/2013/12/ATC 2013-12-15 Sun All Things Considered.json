@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-12-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:25:52"
+        "Scanned Date": "2022-02-07 02:25:52",
+        "Playlist URI": "53u6aeGVZqUcLfrxzIDjVI",
+        "Playlist Link": "https://open.spotify.com/playlist/53u6aeGVZqUcLfrxzIDjVI",
+        "Snapshot ID": "MSxjN2I4MDk3ZTdlOWMyMjJiMWRjYjIxNmZiYTg1MTBkMGZkN2I2MTUx",
+        "Playlist Name": "ATC 2013-12-15 Sun All Things Considered"
     },
     {
         "Title": "Nelson Mandela Laid To Rest In Hometown",
@@ -28,7 +32,15 @@
         "ATC Track": "Unc",
         "ATC Artists": [
             "Trombone Shorty"
-        ]
+        ],
+        "Result Track Name": "Unc",
+        "Result Artist Names": [
+            "Trombone Shorty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0AOcbJgH2wBPhJ4DFDdLXv",
+        "Result Album Name": "For True"
     },
     {
         "Title": "FDA Fighting The Antibiotic Backlash In U.S. Meat",
@@ -52,13 +64,29 @@
         "ATC Track": "All the Cats Join In",
         "ATC Artists": [
             "Benny Goodman"
-        ]
+        ],
+        "Result Track Name": "All The Cats Join In",
+        "Result Artist Names": [
+            "Benny Goodman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BBD04jL8wOWW1e0jS52go",
+        "Result Album Name": "The Best Of Benny Goodman"
     },
     {
         "ATC Track": "White Christmas",
         "ATC Artists": [
             "David Grisman"
-        ]
+        ],
+        "Result Track Name": "White Christmas",
+        "Result Artist Names": [
+            "David Ian"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3mbQ4D1sHHYb3KtAVfvMlr",
+        "Result Album Name": "The Vintage Christmas Collection"
     },
     {
         "Title": "Peter O'Toole, A Life Even Larger Than 'Lawrence'",
@@ -82,18 +110,42 @@
         "ATC Track": "Good Name",
         "ATC Artists": [
             "William Onyeabor"
-        ]
+        ],
+        "Result Track Name": "Good Name",
+        "Result Artist Names": [
+            "William Onyeabor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1GYqLlsektdwKzrAWB08Ae",
+        "Result Album Name": "World Psychedelic Classics 5: Who Is William Onyeabor?"
     },
     {
         "ATC Track": "Love Is Blind",
         "ATC Artists": [
             "William Onyeabor"
-        ]
+        ],
+        "Result Track Name": "Love Is Blind",
+        "Result Artist Names": [
+            "William Onyeabor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zcEUIyjR2NqUlFsSFJlOS",
+        "Result Album Name": "World Psychedelic Classics 5: Who Is William Onyeabor?"
     },
     {
         "ATC Track": "Beasts of No Nation",
         "ATC Artists": [
             "Fela Kuti"
-        ]
+        ],
+        "Result Track Name": "Beasts of No Nation",
+        "Result Artist Names": [
+            "Fela Kuti"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dKgDhGr2Me8OaWn4n3RQM",
+        "Result Album Name": "Beasts of No Nation"
     }
 ]

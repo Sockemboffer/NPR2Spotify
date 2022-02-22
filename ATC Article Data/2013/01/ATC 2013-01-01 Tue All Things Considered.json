@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-01-01",
         "Day": "Tue",
-        "Scanned Date": "2022-02-07 02:46:50"
+        "Scanned Date": "2022-02-07 02:46:50",
+        "Playlist URI": "03LqLnoqeLjuJoUvuVVTmU",
+        "Playlist Link": "https://open.spotify.com/playlist/03LqLnoqeLjuJoUvuVVTmU",
+        "Snapshot ID": "MSxhNzZjZDk4ZGY0OTRjM2QxZGEzOGIxZTcwNzljMmUxNmYwYzQ2OWFj",
+        "Playlist Name": "ATC 2013-01-01 Tue All Things Considered"
     },
     {
         "Title": "'Fiscal Cliff' Action Moves To The House",
@@ -28,13 +32,26 @@
         "ATC Track": "Revolting Children",
         "ATC Artists": [
             "Matilda"
-        ]
+        ],
+        "Result Track Name": "Revolting Children",
+        "Result Artist Names": [
+            "Matilda the Musical Original Cast"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jb55O3h5dfOK4YMUbTb1Y",
+        "Result Album Name": "Matilda the Musical (Original London Cast Recording)"
     },
     {
         "ATC Track": "Ostinato",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Israel Eases Gaza Blockade, Allowing Construction Supplies",
@@ -53,14 +70,33 @@
         "ATC Artists": [
             "Medeski Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Note Bleu",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FXWPrTeKir7yqA5WyJgh8",
+        "Result Album Name": "The Dropper"
     },
     {
         "ATC Track": "Death by Triple Fiddle",
         "ATC Artists": [
             "Edgar Meyer",
             "Joshua Bell"
-        ]
+        ],
+        "Result Track Name": "Death by Triple Fiddle",
+        "Result Artist Names": [
+            "Joshua Bell",
+            "Sam Bush",
+            "Mike Marshall",
+            "Edgar Meyer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4ZzvWFF07LmF5R37hIRmrC",
+        "Result Album Name": "Short Trip Home"
     },
     {
         "Title": "Youth Unemployment On The Rise In Europe",
@@ -84,14 +120,30 @@
         "ATC Track": "Revolting Children",
         "ATC Artists": [
             "Matilda"
-        ]
+        ],
+        "Result Track Name": "Revolting Children",
+        "Result Artist Names": [
+            "Matilda the Musical Original Cast"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jb55O3h5dfOK4YMUbTb1Y",
+        "Result Album Name": "Matilda the Musical (Original London Cast Recording)"
     },
     {
         "ATC Track": "Just Chillin'",
         "ATC Artists": [
             "Joe Sample",
             "Soul Committee"
-        ]
+        ],
+        "Result Track Name": "Just Chillin'",
+        "Result Artist Names": [
+            "Joe Sample"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:7glQE5b3PRDPGBNjOIM1SP",
+        "Result Album Name": "Mellow Smooth Jazz"
     },
     {
         "Title": "2013's New Laws Govern Driverless Cars, Employee Passwords",
@@ -109,13 +161,29 @@
         "ATC Track": "Juicebox",
         "ATC Artists": [
             "Section Quartet"
-        ]
+        ],
+        "Result Track Name": "Juicebox",
+        "Result Artist Names": [
+            "The Section Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ocLSA621bC8vSAyJ1VNMa",
+        "Result Album Name": "Fuzzbox"
     },
     {
         "ATC Track": "Pixie",
         "ATC Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "Autumn Wind (Pixie #11)",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2oVviM9VOiJqlk62FDWZSt",
+        "Result Album Name": "Restless Wind"
     },
     {
         "Title": "Harkin Explains 'No' Vote On 'Fiscal Cliff' Deal",
@@ -139,13 +207,23 @@
         "ATC Track": "People Going Down in Pieces 2",
         "ATC Artists": [
             "The Horseflies"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Jack of Speed",
         "ATC Artists": [
             "Phil Upchurch"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Tea Party Texan Cruz Gives GOP Hope In Hunt For Hispanic Votes",
@@ -163,7 +241,15 @@
         "ATC Track": "Attachment",
         "ATC Artists": [
             "Sameer Gupta"
-        ]
+        ],
+        "Result Track Name": "Attachment",
+        "Result Artist Names": [
+            "Sameer Gupta"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2CbITCmwADgpmgbqcPpC0e",
+        "Result Album Name": "Namaskar"
     },
     {
         "Title": "Peace Pilgrim's 28-Year Walk For 'A Meaningful Way Of Life'",
@@ -175,7 +261,15 @@
         "ATC Track": "Dream Song",
         "ATC Artists": [
             "Erik Friedlander"
-        ]
+        ],
+        "Result Track Name": "Dream Song",
+        "Result Artist Names": [
+            "Erik Friedlander"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7kFSfg5AXPh3zWsWQTnsPp",
+        "Result Album Name": "Block Ice & Propane"
     },
     {
         "Title": "Shell Faces New Questions After Rig Runs Aground",
@@ -187,13 +281,29 @@
         "ATC Track": "Perfect Darkness",
         "ATC Artists": [
             "Fink"
-        ]
+        ],
+        "Result Track Name": "Perfect Darkness",
+        "Result Artist Names": [
+            "Fink"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oAHuXFJ2L7V5As4jXsXAZ",
+        "Result Album Name": "Perfect Darkness"
     },
     {
         "ATC Track": "Sinner Street",
         "ATC Artists": [
             "Jimmy Thackery"
-        ]
+        ],
+        "Result Track Name": "Sinner Street - Instrumental",
+        "Result Artist Names": [
+            "Jimmy Thackery And The Drivers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ULjcvbK89F0bov3DmB2ph",
+        "Result Album Name": "Sinner Street"
     },
     {
         "Title": "Depression-Era Evil: Gothic Horror In A Haunted Land",
@@ -211,12 +321,25 @@
         "ATC Track": "Revolting Children",
         "ATC Artists": [
             "Matilda"
-        ]
+        ],
+        "Result Track Name": "Revolting Children",
+        "Result Artist Names": [
+            "Matilda the Musical Original Cast"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jb55O3h5dfOK4YMUbTb1Y",
+        "Result Album Name": "Matilda the Musical (Original London Cast Recording)"
     },
     {
         "ATC Track": "Trying to Make It",
         "ATC Artists": [
             "Magic Sam"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

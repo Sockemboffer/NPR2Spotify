@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-05-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:39:16"
+        "Scanned Date": "2022-02-07 02:39:16",
+        "Playlist URI": "5zhW7VvV1xUmwaSn58D1Wm",
+        "Playlist Link": "https://open.spotify.com/playlist/5zhW7VvV1xUmwaSn58D1Wm",
+        "Snapshot ID": "MSw2ZmIyNDcxYzU0Mjg4YzU0MGJlNjdmY2FjYjc5NDA0MTViMmFhMTk0",
+        "Playlist Name": "ATC 2013-05-11 Sat All Things Considered"
     },
     {
         "Title": "In Guantanamo, Have We Created Something We Can't Close?",
@@ -16,13 +20,29 @@
         "ATC Track": "100,000 People",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "100,000 People",
+        "Result Artist Names": [
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QT1MtC8Pl0z6TMoOV2Ynv",
+        "Result Album Name": "Music From The Fog of War"
     },
     {
         "ATC Track": "Mayonaise",
         "ATC Artists": [
             "Smashing Pumpkins"
-        ]
+        ],
+        "Result Track Name": "Mayonaise - Remastered",
+        "Result Artist Names": [
+            "The Smashing Pumpkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jmKzJmUEKNbC7eU8YfOiA",
+        "Result Album Name": "Siamese Dream (Deluxe Edition)"
     },
     {
         "Title": "Week In News: Hacking — Made In China",
@@ -52,13 +72,29 @@
         "ATC Track": "Main Title [From Monkey Business]",
         "ATC Artists": [
             "The Marx Brothers"
-        ]
+        ],
+        "Result Track Name": "Main Title - Monkey Business",
+        "Result Artist Names": [
+            "Marx Brothers"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:333eu3MANawicLhVfJKpgp",
+        "Result Album Name": "The Cocoanuts / Monkey Business"
     },
     {
         "ATC Track": "Going Back to Cali",
         "ATC Artists": [
             "LL Cool J"
-        ]
+        ],
+        "Result Track Name": "Going Back To Cali",
+        "Result Artist Names": [
+            "LL Cool J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Fkr6zTAxsXbG9kG8ISqos",
+        "Result Album Name": "Walking With A Panther"
     },
     {
         "Title": "Reminder: Three-Minute Fiction Round 11 Closing Soon",
@@ -82,18 +118,42 @@
         "ATC Track": "I Can't Live Without My Radio",
         "ATC Artists": [
             "LL Cool J"
-        ]
+        ],
+        "Result Track Name": "I Can't Live Without My Radio",
+        "Result Artist Names": [
+            "LL Cool J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qfTGzETefwtBWKDThZjnU",
+        "Result Album Name": "Radio"
     },
     {
         "ATC Track": "I Need Love",
         "ATC Artists": [
             "LL Cool J"
-        ]
+        ],
+        "Result Track Name": "I Need Love",
+        "Result Artist Names": [
+            "LL Cool J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:519xI1wfOAJvHeV9kFdXaV",
+        "Result Album Name": "Bigger And Deffer"
     },
     {
         "ATC Track": "Doin It",
         "ATC Artists": [
             "LL Cool J"
-        ]
+        ],
+        "Result Track Name": "Doin' It",
+        "Result Artist Names": [
+            "LL Cool J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WMBl2wiGUSGa5C7tfQEAo",
+        "Result Album Name": "Mr. Smith (Deluxe Edition)"
     }
 ]

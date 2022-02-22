@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-04-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:42:56"
+        "Scanned Date": "2022-02-07 02:42:56",
+        "Playlist URI": "22nPQN9ciK9UNZWFOSMhPN",
+        "Playlist Link": "https://open.spotify.com/playlist/22nPQN9ciK9UNZWFOSMhPN",
+        "Snapshot ID": "MSw5NzE0Y2Y0ODAyMzkxYjBhNDY2MzY0NDk2MWNlNjJiOTcxOTE3MzJl",
+        "Playlist Name": "ATC 2013-04-27 Sat All Things Considered"
     },
     {
         "Title": "Conservative Shift Has Some Kansans Yearning For The Past",
@@ -16,14 +20,27 @@
         "ATC Track": "Running to Stand Still",
         "ATC Artists": [
             "U2"
-        ]
+        ],
+        "Result Track Name": "Running To Stand Still",
+        "Result Artist Names": [
+            "U2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4MLPCRYNhDIKcRjzS54ceu",
+        "Result Album Name": "The Joshua Tree (Super Deluxe)"
     },
     {
         "ATC Track": "Hungerford Bridge",
         "ATC Artists": [
             "Underworld",
             "Gabriel Yared"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Week In News: Cuts Up In The Air And Stirrings In Syria",
@@ -42,7 +59,12 @@
         "ATC Artists": [
             "Underworld",
             "Gabriel Yared"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "E-Cigarettes Bring Smokers Back Inside, For Now",
@@ -61,13 +83,26 @@
         "ATC Artists": [
             "Underworld",
             "Gabriel Yared"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pearls Girl",
         "ATC Artists": [
             "Underworld"
-        ]
+        ],
+        "Result Track Name": "Pearls Girl - Live / Brussels, Belgium / 1999",
+        "Result Artist Names": [
+            "Underworld"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BWWxVSAYrGEBl3DtlvSDB",
+        "Result Album Name": "Everything, Everything (Live)"
     },
     {
         "Title": "Hard Hits, Hard Liquor In 'The Summer of Beer and Whiskey'",
@@ -85,18 +120,39 @@
         "ATC Track": "Born Slippy [Taken from \"Trainspotting\" O.S.T.]",
         "ATC Artists": [
             "Underworld"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Beautiful Burnout",
         "ATC Artists": [
             "Underworld"
-        ]
+        ],
+        "Result Track Name": "Beautiful Burnout",
+        "Result Artist Names": [
+            "Underworld"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1I61h0TNyzE86dx1tZzj3b",
+        "Result Album Name": "Oblivion With Bells"
     },
     {
         "ATC Track": "Dark & Long [Dark Train]",
         "ATC Artists": [
             "Underworld"
-        ]
+        ],
+        "Result Track Name": "Dark And Long - Dark Train",
+        "Result Artist Names": [
+            "Underworld"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5u67VJ8GAhnkFA1FolVhD0",
+        "Result Album Name": "1992 - 2012"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-03-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:44:03"
+        "Scanned Date": "2022-02-07 02:44:03",
+        "Playlist URI": "1RIGvukluUbq0Ae5GtzoNX",
+        "Playlist Link": "https://open.spotify.com/playlist/1RIGvukluUbq0Ae5GtzoNX",
+        "Snapshot ID": "MSxkYzE0YmIwNjM5YjFkM2U2ZTc0MmY1Zjg1NWZiMzQxODg1ODBkMjE1",
+        "Playlist Name": "ATC 2013-03-16 Sat All Things Considered"
     },
     {
         "Title": "The Iraq War: 10 Years Later, Where Do We Stand?",
@@ -16,7 +20,15 @@
         "ATC Track": "Black Sands",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Black Sands",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uoM7KHsyJsHZqBQHKjQbc",
+        "Result Album Name": "Black Sands"
     },
     {
         "Title": "Week In News: North Korea's Tough Posturing",
@@ -34,7 +46,15 @@
         "ATC Track": "Angeles",
         "ATC Artists": [
             "Elliott Smith"
-        ]
+        ],
+        "Result Track Name": "Angeles",
+        "Result Artist Names": [
+            "Elliott Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uwN3PDudlRkAKE3wA0OqJ",
+        "Result Album Name": "Either/Or"
     },
     {
         "Title": "From Tweeting To Meeting Lance Armstrong",
@@ -46,7 +66,15 @@
         "ATC Track": "Smoke Signals",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Smoke Signals",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0L6QEgCNAZx9SIHmflTyZx",
+        "Result Album Name": "Soon It Will Be Cold Enough"
     },
     {
         "Title": "Hat-Maker Philip Treacy's Favorite Hat, And Many More",
@@ -64,12 +92,28 @@
         "ATC Track": "Cowboy Take Me Away",
         "ATC Artists": [
             "Dixie Chicks"
-        ]
+        ],
+        "Result Track Name": "Cowboy Take Me Away",
+        "Result Artist Names": [
+            "The Chicks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3rXCZRMiMZp0feGcYXpwYX",
+        "Result Album Name": "Fly"
     },
     {
         "ATC Track": "The Wild Rumpus",
         "ATC Artists": [
             "Jerry Douglas"
-        ]
+        ],
+        "Result Track Name": "The Wild Rumpus",
+        "Result Artist Names": [
+            "Jerry Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VDDrZocUZ4wnkNPnLoLw8",
+        "Result Album Name": "Lookout For Hope"
     }
 ]

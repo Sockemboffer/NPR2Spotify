@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-09-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:31:50"
+        "Scanned Date": "2022-02-07 02:31:50",
+        "Playlist URI": "0clAe0jvgNXjm3geOvHe3a",
+        "Playlist Link": "https://open.spotify.com/playlist/0clAe0jvgNXjm3geOvHe3a",
+        "Snapshot ID": "MSw4ZWEzOWVhMjBhMTgyNDIyZjQ1NTkyMWMyODlkNDkwZWIzMTFjZGU2",
+        "Playlist Name": "ATC 2013-09-14 Sat All Things Considered"
     },
     {
         "Title": "U.S.-Russia Deal: Syria Has A Week To Detail Chemical Arsenal",
@@ -22,7 +26,15 @@
         "ATC Track": "Lock Groove [Out]",
         "ATC Artists": [
             "Liquid Liquid"
-        ]
+        ],
+        "Result Track Name": "Lock Groove (Out)",
+        "Result Artist Names": [
+            "Liquid Liquid"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:49zz235UAYXQOBc39A7PL3",
+        "Result Album Name": "Slip In And Out Of Phenomenon"
     },
     {
         "Title": "In Flooded Colorado, Rescue Amid The Rain",
@@ -47,7 +59,12 @@
         "ATC Artists": [
             "Turtle Island String Quartet",
             "Ying Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Musical Robots Take The Stage For Harmony, Not Domination",
@@ -59,13 +76,26 @@
         "ATC Track": "unidentified performance",
         "ATC Artists": [
             "Pat Metheny"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Super Bon Bon",
         "ATC Artists": [
             "Soul Coughing"
-        ]
+        ],
+        "Result Track Name": "Super Bon Bon",
+        "Result Artist Names": [
+            "Soul Coughing"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1njobA8NxcOtPIbLdrip0T",
+        "Result Album Name": "Irresistible Bliss"
     },
     {
         "Title": "'The Witness Wore Red': A Polygamist's Wife Finds A New Life",
@@ -83,19 +113,41 @@
         "ATC Track": "Ping",
         "ATC Artists": [
             "rs-232"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Run Run Run [Stereo Version]",
         "ATC Artists": [
             "The Velvet Underground",
             "Nico"
-        ]
+        ],
+        "Result Track Name": "Run Run Run",
+        "Result Artist Names": [
+            "The Velvet Underground",
+            "Nico"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2J8Mbdpem8CiSZKRoZOIeG",
+        "Result Album Name": "The Velvet Underground & Nico 45th Anniversary"
     },
     {
         "ATC Track": "Pale Blue Eyes",
         "ATC Artists": [
             "The Velvet Underground"
-        ]
+        ],
+        "Result Track Name": "Pale Blue Eyes",
+        "Result Artist Names": [
+            "The Velvet Underground"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11VwZwNF29HrqwalYUMitb",
+        "Result Album Name": "The Velvet Underground (45th Anniversary)"
     }
 ]

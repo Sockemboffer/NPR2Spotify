@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-11-30",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:28:51"
+        "Scanned Date": "2022-02-07 02:28:51",
+        "Playlist URI": "1sPpFddSUkAykMHsMtWYlg",
+        "Playlist Link": "https://open.spotify.com/playlist/1sPpFddSUkAykMHsMtWYlg",
+        "Snapshot ID": "MSwwNDU4MzU2NjQ4YjZiMGQxNWI4NWNjZjZhYWM0NjUxMTQ3ZGFjYTcz",
+        "Playlist Name": "ATC 2013-11-30 Sat All Things Considered"
     },
     {
         "Title": "White House Optimistic At Deadline To Fix Obamacare",
@@ -28,13 +32,29 @@
         "ATC Track": "A Thousand Years",
         "ATC Artists": [
             "Sting"
-        ]
+        ],
+        "Result Track Name": "A Thousand Years",
+        "Result Artist Names": [
+            "Sting"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zYdvcaguqCfG5IcRLpfd4",
+        "Result Album Name": "Brand New Day"
     },
     {
         "ATC Track": "Unforgiven",
         "ATC Artists": [
             "Apocalyptica"
-        ]
+        ],
+        "Result Track Name": "The Unforgiven",
+        "Result Artist Names": [
+            "Apocalyptica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Qav4XRh4LiPhZQH9JIAXG",
+        "Result Album Name": "Plays Metallica by Four Cellos (Remastered)"
     },
     {
         "Title": "Nairobi Seeks Answers 2 Months After 'Kenya's 9/11'",
@@ -66,13 +86,30 @@
             "Eric Weissberg",
             "Steve Mandell",
             "Marshall Brickman"
-        ]
+        ],
+        "Result Track Name": "Dueling Banjos",
+        "Result Artist Names": [
+            "Eric Weissberg",
+            "Steve Mandell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:4xxn8GDqs7RUwgZTNznXNp",
+        "Result Album Name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music"
     },
     {
         "ATC Track": "Perfect Darkness",
         "ATC Artists": [
             "Fink"
-        ]
+        ],
+        "Result Track Name": "Perfect Darkness",
+        "Result Artist Names": [
+            "Fink"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oAHuXFJ2L7V5As4jXsXAZ",
+        "Result Album Name": "Perfect Darkness"
     },
     {
         "Title": "Bickering In Bangladesh; Curling; Glow-In-The-Dark Tattoos",
@@ -96,18 +133,42 @@
         "ATC Track": "The Big One",
         "ATC Artists": [
             "Alan Tew"
-        ]
+        ],
+        "Result Track Name": "The Big One",
+        "Result Artist Names": [
+            "Alan Tew"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0iAhml6aCMcbwNUXjQ23Yx",
+        "Result Album Name": "Drama Suite Part I"
     },
     {
         "ATC Track": "Tout a L'heure",
         "ATC Artists": [
             "Bibio"
-        ]
+        ],
+        "Result Track Name": "À tout à l'heure",
+        "Result Artist Names": [
+            "Bibio"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0uy4LNxyL0QmtDveDaiGwo",
+        "Result Album Name": "Silver Wilkinson"
     },
     {
         "ATC Track": "Smoothie Song",
         "ATC Artists": [
             "Nickel Creek"
-        ]
+        ],
+        "Result Track Name": "Smoothie Song",
+        "Result Artist Names": [
+            "Nickel Creek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ETiP5S8lbp8w6O7hc70Kk",
+        "Result Album Name": "This Side"
     }
 ]

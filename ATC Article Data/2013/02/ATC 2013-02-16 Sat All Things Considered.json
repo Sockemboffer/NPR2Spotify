@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-02-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:46:01"
+        "Scanned Date": "2022-02-07 02:46:01",
+        "Playlist URI": "50xO4j1I8j4vhsjgEcyb2K",
+        "Playlist Link": "https://open.spotify.com/playlist/50xO4j1I8j4vhsjgEcyb2K",
+        "Snapshot ID": "MSxlMjAzZjc5YmFjY2ZjZGRmMjYzZDc1OTVmNmExYmMwMWUyOWZmNDQ1",
+        "Playlist Name": "ATC 2013-02-16 Sat All Things Considered"
     },
     {
         "Title": "High-Speed Rail Buzz Overpowers Daily Chug Of Freight Trains",
@@ -16,13 +20,29 @@
         "ATC Track": "Come Along and Ride This Train",
         "ATC Artists": [
             "Johnny Cash"
-        ]
+        ],
+        "Result Track Name": "Come Along And Ride This Train (Six Days On The Road/There Ain't No Easy Run/The Sailor On A Concrete Sea) - Live",
+        "Result Artist Names": [
+            "Johnny Cash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4e1n8G3INNCdeHjMTo6Lrh",
+        "Result Album Name": "The Johnny Cash Show"
     },
     {
         "ATC Track": "C'mon N' Ride It (The Train)",
         "ATC Artists": [
             "Quad City DJ's"
-        ]
+        ],
+        "Result Track Name": "C'mon N' Ride It (The Train)",
+        "Result Artist Names": [
+            "Quad City DJ's"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QLEN3RVunMas7j0PHjeAT",
+        "Result Album Name": "Get On Up And Dance"
     },
     {
         "Title": "Week In News: Reaction To The State Of The Union",
@@ -40,7 +60,15 @@
         "ATC Track": "Slug",
         "ATC Artists": [
             "Passengers"
-        ]
+        ],
+        "Result Track Name": "Slug",
+        "Result Artist Names": [
+            "Passengers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:583YjdUifJbManowTQiTB1",
+        "Result Album Name": "Original Soundtracks 1"
     },
     {
         "Title": "Pentametron Reveals Unintended Poetry of Twitter Users",
@@ -58,13 +86,26 @@
         "ATC Track": "Surgery",
         "ATC Artists": [
             "Scott Matthew"
-        ]
+        ],
+        "Result Track Name": "Surgery",
+        "Result Artist Names": [
+            "Scott Matthew"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7fMiKiSUJ4fTmGPv2vXO8v",
+        "Result Album Name": "Scott Matthew"
     },
     {
         "ATC Track": "Winter's Love",
         "ATC Artists": [
             "Animal Collective"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Noble Savages': A Journey To Break The Mold Of Anthropology",
@@ -84,20 +125,42 @@
             "Jonas Kaufmann",
             "Deutschen Opernorchester",
             "Donald Runnicles (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hip-Hop Saved My Life",
         "ATC Artists": [
             "Lupe Fiasco",
             "Nikki Jean"
-        ]
+        ],
+        "Result Track Name": "Hip-Hop Saved My Life (feat. Nikki Jean)",
+        "Result Artist Names": [
+            "Lupe Fiasco",
+            "Nikki Jean"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6N3oYlfZ2RPdjMYdHCRmFS",
+        "Result Album Name": "Lupe Fiasco's The Cool"
     },
     {
         "ATC Track": "Kick, Push",
         "ATC Artists": [
             "Lupe Fiasco",
             "Pharrell Williams"
-        ]
+        ],
+        "Result Track Name": "Kick, Push",
+        "Result Artist Names": [
+            "Lupe Fiasco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4YNp7tiPGpUFslLLZQIEYl",
+        "Result Album Name": "Lupe Fiasco's Food & Liquor (5th Anniversary Edition; Deluxe Edition)"
     }
 ]

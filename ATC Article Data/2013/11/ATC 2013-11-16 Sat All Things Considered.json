@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-11-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:27:58"
+        "Scanned Date": "2022-02-07 02:27:58",
+        "Playlist URI": "1hwGLY5ryt39M8HurumSx0",
+        "Playlist Link": "https://open.spotify.com/playlist/1hwGLY5ryt39M8HurumSx0",
+        "Snapshot ID": "MSw1MzgxZmJlNGZlMzdiOTEyNzg0ZTkzNmIxZGNmMTU5NDVkNmVkNjI1",
+        "Playlist Name": "ATC 2013-11-16 Sat All Things Considered"
     },
     {
         "Title": "UN: Nearly 2 Million Displaced By Typhoon",
@@ -28,13 +32,29 @@
         "ATC Track": "West End Blues",
         "ATC Artists": [
             "Louis Armstrong"
-        ]
+        ],
+        "Result Track Name": "West End Blues",
+        "Result Artist Names": [
+            "Louis Armstrong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2STqplYkSLD5ovON11dwcB",
+        "Result Album Name": "This Is Jazz #1"
     },
     {
         "ATC Track": "Nothing Else Matters",
         "ATC Artists": [
             "Apocalyptica"
-        ]
+        ],
+        "Result Track Name": "Nothing Else Matters",
+        "Result Artist Names": [
+            "Apocalyptica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3uErbNGaNIPJkRlMrLxR9Z",
+        "Result Album Name": "Inquisition Symphony"
     },
     {
         "Title": "Publishing Magazines For An 'Ambidextrous' Generation",
@@ -46,7 +66,12 @@
         "ATC Track": "Boy from Black Mountain",
         "ATC Artists": [
             "Beat Circus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Writers Especially Concerned About NSA Actions",
@@ -65,13 +90,29 @@
         "ATC Artists": [
             "Ted Nash",
             "Ted Nash Big Band"
-        ]
+        ],
+        "Result Track Name": "Fire",
+        "Result Artist Names": [
+            "Ted Nash Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mL8WjDVqaBUV0PKXGZSOP",
+        "Result Album Name": "Chakra"
     },
     {
         "ATC Track": "I'll Be Waiting",
         "ATC Artists": [
             "Adele"
-        ]
+        ],
+        "Result Track Name": "I'll Be Waiting",
+        "Result Artist Names": [
+            "Adele"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AKAyMEL5LqCkafztPdBSI",
+        "Result Album Name": "21"
     },
     {
         "Title": "Making Moves In Food Delivery, Chess And Health Care",
@@ -96,20 +137,44 @@
         "ATC Artists": [
             "Ted Nash",
             "Ted Nash Big Band"
-        ]
+        ],
+        "Result Track Name": "Cosmos",
+        "Result Artist Names": [
+            "Ted Nash Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76kr6ubVXEp1DDV0bWZOAo",
+        "Result Album Name": "Chakra"
     },
     {
         "ATC Track": "Earth",
         "ATC Artists": [
             "Ted Nash",
             "Ted Nash Big Band"
-        ]
+        ],
+        "Result Track Name": "Earth",
+        "Result Artist Names": [
+            "Ted Nash Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:46jXAYG1NMXJ6WlIKMel3R",
+        "Result Album Name": "Chakra"
     },
     {
         "ATC Track": "Sebago",
         "ATC Artists": [
             "Ted Nash",
             "Odeon"
-        ]
+        ],
+        "Result Track Name": "Sebago",
+        "Result Artist Names": [
+            "Ted Nash/Odeon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qjKZPrqWIDRF6Ivztvfj9",
+        "Result Album Name": "La Espada De La Noche"
     }
 ]

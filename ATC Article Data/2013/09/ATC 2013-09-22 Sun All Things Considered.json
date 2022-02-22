@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-09-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:32:18"
+        "Scanned Date": "2022-02-07 02:32:18",
+        "Playlist URI": "5mcnXEXiu5NQMAGFiYV0HF",
+        "Playlist Link": "https://open.spotify.com/playlist/5mcnXEXiu5NQMAGFiYV0HF",
+        "Snapshot ID": "MSxjMjRiNzU1OTE5NmEwZGY2NGMyM2RiZDIzN2FlMDQ5M2NiODIyN2Mx",
+        "Playlist Name": "ATC 2013-09-22 Sun All Things Considered"
     },
     {
         "Title": "Strained Foster Care System A 'Meter Of Our Social Problems'",
@@ -16,13 +20,29 @@
         "ATC Track": "Grace",
         "ATC Artists": [
             "Keith Kenniff"
-        ]
+        ],
+        "Result Track Name": "Grace",
+        "Result Artist Names": [
+            "Keith Kenniff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KjsotJYdEHfR9V1cLtdxk",
+        "Result Album Name": "Branches"
     },
     {
         "ATC Track": "Carnivores Unite",
         "ATC Artists": [
             "Blockhead"
-        ]
+        ],
+        "Result Track Name": "Carnivores Unite",
+        "Result Artist Names": [
+            "Blockhead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56oUD9ZzgSSDFgvLHxoWyZ",
+        "Result Album Name": "Music By Cavelight"
     },
     {
         "Title": "Kenyan Government Moves To End Deadly Mall Standoff",
@@ -52,14 +72,24 @@
         "ATC Track": "Wild Cat",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lonesome Dobro",
         "ATC Artists": [
             "Curtis Burch",
             "Bowling Green Chamber Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Hollywood Said No,' But 'Mr. Show' Fans Said Yes!",
@@ -78,20 +108,41 @@
         "ATC Artists": [
             "Elvis Costello",
             "The Brent Fischer Orchestra et. al."
-        ]
+        ],
+        "Result Track Name": "(She Might Be A) GRENADE",
+        "Result Artist Names": [
+            "Elvis Costello And The Roots"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:2BXvTfXKE46DEq1svLTV9j",
+        "Result Album Name": "Wise Up Ghost"
     },
     {
         "ATC Track": "Big Tears [*]",
         "ATC Artists": [
             "Elvis Costello",
             "the Attractions"
-        ]
+        ],
+        "Result Track Name": "Big Tears - 2021 Remaster",
+        "Result Artist Names": [
+            "Elvis Costello & The Attractions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xmvEwNnNbc49rPVMxG5tS",
+        "Result Album Name": "This Year's Model (2021 Remaster)"
     },
     {
         "ATC Track": "Cinco Minutos con Vos",
         "ATC Artists": [
             "Elvis Costello",
             "Marisol \"La Marisoul\" Hernandez et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

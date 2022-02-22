@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-06-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:38:37"
+        "Scanned Date": "2022-02-07 02:38:37",
+        "Playlist URI": "28V0cuwRY52g9f209NKLJM",
+        "Playlist Link": "https://open.spotify.com/playlist/28V0cuwRY52g9f209NKLJM",
+        "Snapshot ID": "MSw3MTkwNzMxMmY3Y2M2ZGFlZGJjMmQ3ZDE4ZDViZmQ1YThmODhjNzdj",
+        "Playlist Name": "ATC 2013-06-30 Sun All Things Considered"
     },
     {
         "Title": "Casting Call: Hollywood Needs More Women ",
@@ -16,7 +20,12 @@
         "ATC Track": "Singin in the Rain",
         "ATC Artists": [
             "London Symphony Orchestra - Lawrence Foster"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Egyptian Protesters Demand Morsi's Ouster",
@@ -34,7 +43,15 @@
         "ATC Track": "Too Close",
         "ATC Artists": [
             "Alex Clare"
-        ]
+        ],
+        "Result Track Name": "Too Close",
+        "Result Artist Names": [
+            "Alex Clare"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sK96UnGx3NjBaqvfTG2dm",
+        "Result Album Name": "The Lateness Of The Hour"
     },
     {
         "Title": "The First President To Travel Abroad",
@@ -52,13 +69,29 @@
         "ATC Track": "Little Red Corvette",
         "ATC Artists": [
             "Prince"
-        ]
+        ],
+        "Result Track Name": "Little Red Corvette - 7\" Edit - 2019 Remaster",
+        "Result Artist Names": [
+            "Prince"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4N1dFbXmRng8qJ3KdJrbLr",
+        "Result Album Name": "1999 (Super Deluxe Edition)"
     },
     {
         "ATC Track": "Deadweight",
         "ATC Artists": [
             "Beck"
-        ]
+        ],
+        "Result Track Name": "Deadweight",
+        "Result Artist Names": [
+            "Beck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gZcPNxufeLtRbznS1Odji",
+        "Result Album Name": "Odelay (Deluxe Edition)"
     },
     {
         "Title": "Sixty Years Of The Corvette",
@@ -76,13 +109,30 @@
         "ATC Track": "Somebody That I Used To Know",
         "ATC Artists": [
             "Gotye"
-        ]
+        ],
+        "Result Track Name": "Somebody That I Used To Know",
+        "Result Artist Names": [
+            "Gotye",
+            "Kimbra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4wCmqSrbyCgxEXROQE6vtV",
+        "Result Album Name": "Making Mirrors"
     },
     {
         "ATC Track": "Midnight City",
         "ATC Artists": [
             "M83"
-        ]
+        ],
+        "Result Track Name": "Midnight City",
+        "Result Artist Names": [
+            "M83"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
+        "Result Album Name": "Hurry Up, We're Dreaming"
     },
     {
         "Title": "Revved-up Vivaldi, Persian Bamboo And Soaring Spirituals: New Classical Albums",

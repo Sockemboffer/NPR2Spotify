@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-03-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:44:05"
+        "Scanned Date": "2022-02-07 02:44:05",
+        "Playlist URI": "3vL9Apj7kWo9F8xYnTKbck",
+        "Playlist Link": "https://open.spotify.com/playlist/3vL9Apj7kWo9F8xYnTKbck",
+        "Snapshot ID": "MSwyMzhlYThhZWZhYzdiOGNmNzMwN2EzZjQ5NTAxZTQ3ODJlODk5N2Ix",
+        "Playlist Name": "ATC 2013-03-17 Sun All Things Considered"
     },
     {
         "Title": "Craft Brews Slowly Chipping Away At Big Beer's Dominance",
@@ -16,7 +20,15 @@
         "ATC Track": "Derry Dream",
         "ATC Artists": [
             "David Algeo Smith"
-        ]
+        ],
+        "Result Track Name": "Derry Dream",
+        "Result Artist Names": [
+            "David Algeo Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59rErXAGqYMYHbgcIMsaUu",
+        "Result Album Name": "Thais To The Irish: Fiddle Tunes From The Street"
     },
     {
         "Title": "Mormons Change References To Blacks, Polygamy",
@@ -40,7 +52,12 @@
         "ATC Track": "Smell of Spring",
         "ATC Artists": [
             "Lucius"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Seniors Flirt With AARP's Online Dating Service ",
@@ -52,13 +69,29 @@
         "ATC Track": "Deception",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Deception",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Tq8Fj8jZQIO24XhXV5Dno",
+        "Result Album Name": "Birth Of The Cool"
     },
     {
         "ATC Track": "Angels",
         "ATC Artists": [
             "David Byrne"
-        ]
+        ],
+        "Result Track Name": "Angels",
+        "Result Artist Names": [
+            "David Byrne"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45IJoA5k6mQwHirSCHtxKN",
+        "Result Album Name": "David Byrne"
     },
     {
         "Title": "Famine Ship Jeanie Johnston Sailed Through Grim Odds",
@@ -76,12 +109,28 @@
         "ATC Track": "Nsu Na Kwan",
         "ATC Artists": [
             "Ebo Taylor"
-        ]
+        ],
+        "Result Track Name": "Nsu Na Kwan",
+        "Result Artist Names": [
+            "Ebo Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4anAuA8Ik8KdSduU7Hmwrb",
+        "Result Album Name": "Appia Kwa Bridge"
     },
     {
         "ATC Track": "Government Magic",
         "ATC Artists": [
             "Antibalas"
-        ]
+        ],
+        "Result Track Name": "Government Magic",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5THOhx0beHEhYeACQx5zpZ",
+        "Result Album Name": "Government Magic"
     }
 ]

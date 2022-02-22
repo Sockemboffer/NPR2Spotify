@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-02-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:46:29"
+        "Scanned Date": "2022-02-07 02:46:29",
+        "Playlist URI": "12e6C4C10QH6qjbtbbqWZS",
+        "Playlist Link": "https://open.spotify.com/playlist/12e6C4C10QH6qjbtbbqWZS",
+        "Snapshot ID": "MSwzZTAxNGNmOTFjMGY0NDE5NDZkYTBhMjM1MmZjNDNiYmZhNDRiMTA3",
+        "Playlist Name": "ATC 2013-02-24 Sun All Things Considered"
     },
     {
         "Title": "Catholic Church At Crossroads: Demographics, Social Issues Pose Challenges",
@@ -16,13 +20,29 @@
         "ATC Track": "Spitalfields",
         "ATC Artists": [
             "Red Snapper"
-        ]
+        ],
+        "Result Track Name": "Spitalfields",
+        "Result Artist Names": [
+            "Red Snapper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5TjyTBDH5CtpL2wOhNZ7F7",
+        "Result Album Name": "Making Bones"
     },
     {
         "ATC Track": "Precious Lord",
         "ATC Artists": [
             "Cyrus Chestnut"
-        ]
+        ],
+        "Result Track Name": "Precious Lord",
+        "Result Artist Names": [
+            "Cyrus Chestnut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AcMsUEb8qq16TnuiL3yQN",
+        "Result Album Name": "You Are My Sunshine"
     },
     {
         "Title": "Irish Women Emerge From Shadows Of 'National Shame'",
@@ -47,7 +67,12 @@
         "ATC Artists": [
             "Turtle Island String Quartet",
             "Ying Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Turning A Glacier Into A Tuba: Ice Music From Norway",
@@ -59,13 +84,29 @@
         "ATC Track": "Caravan",
         "ATC Artists": [
             "Bill Ware"
-        ]
+        ],
+        "Result Track Name": "Caravan",
+        "Result Artist Names": [
+            "Bill Ware"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yn2CDYLCUWlziRnavVqbO",
+        "Result Album Name": "SIR DUKE"
     },
     {
         "ATC Track": "Lost, Night",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Lost, Night",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XMS0SxhpRbfSU8Uz2cwnq",
+        "Result Album Name": "Disfarmer (Standard)"
     },
     {
         "Title": "Historical Fiction Gets Personal In 'Philida'",
@@ -89,18 +130,43 @@
         "ATC Track": "Tallahatchie",
         "ATC Artists": [
             "Corey Harris"
-        ]
+        ],
+        "Result Track Name": "Tallahatchie",
+        "Result Artist Names": [
+            "Corey Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qcAkCCRJKxzUKENA0qZSZ",
+        "Result Album Name": "Fulton Blues"
     },
     {
         "ATC Track": "Long Time",
         "ATC Artists": [
             "Lightnin' Hopkins"
-        ]
+        ],
+        "Result Track Name": "Long Time",
+        "Result Artist Names": [
+            "Lightnin' Hopkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:136Dhtrexc395Um2dgX7kx",
+        "Result Album Name": "Country Blues"
     },
     {
         "ATC Track": "Tears",
         "ATC Artists": [
             "Mark Knopfler"
-        ]
+        ],
+        "Result Track Name": "Tears",
+        "Result Artist Names": [
+            "Chet Atkins",
+            "Mark Knopfler"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0XDnHhEpC66Fo1J4nZR17k",
+        "Result Album Name": "Neck And Neck"
     }
 ]

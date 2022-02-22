@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-04-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:41:40"
+        "Scanned Date": "2022-02-07 02:41:40",
+        "Playlist URI": "3csLC5Sp0gAin869Cf6eK8",
+        "Playlist Link": "https://open.spotify.com/playlist/3csLC5Sp0gAin869Cf6eK8",
+        "Snapshot ID": "MSxhYTQxNmQ4MmQzNGViN2RjODY5YjIxOTc5MDIyNDhhYTllZGI2ZmI0",
+        "Playlist Name": "ATC 2013-04-06 Sat All Things Considered"
     },
     {
         "Title": "Loan Education Becomes Prerequisite As Student Debt Balloons",
@@ -16,14 +20,27 @@
         "ATC Track": "Lesson 6: The Lecture",
         "ATC Artists": [
             "Jurassic 5"
-        ]
+        ],
+        "Result Track Name": "Lesson 6: The Lecture",
+        "Result Artist Names": [
+            "Jurassic 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ebFWpihBvx3OWI192y6pM",
+        "Result Album Name": "J5 (Deluxe Edition)"
     },
     {
         "ATC Track": "Cfern, for drum set & ensemble",
         "ATC Artists": [
             "Alarm Will Sound",
             "Alan Pierson (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Job Growth Slows As Jobless Face Benefit Cuts",
@@ -41,7 +58,15 @@
         "ATC Track": "C-Thru Runs",
         "ATC Artists": [
             "Sean Lennon"
-        ]
+        ],
+        "Result Track Name": "C-Thru Runs",
+        "Result Artist Names": [
+            "Sean Ono Lennon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mydrQ7FnD3eGQG1N24fT1",
+        "Result Album Name": "Alter Egos (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Spring Blooms, And So Do The Creepy Crawlies",
@@ -53,13 +78,30 @@
         "ATC Track": "String Quartet, No. 4: 4. Allegretto Pizzicato",
         "ATC Artists": [
             "Emerson String Quartet"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 4, BB 95, Sz. 91: IV. Allegretto pizzicato",
+        "Result Artist Names": [
+            "Béla Bartók",
+            "Emerson String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:666Bo6KlIrQAtoMMINZN1B",
+        "Result Album Name": "Bartók: The String Quartets"
     },
     {
         "ATC Track": "Bluesin' In Alphabet City",
         "ATC Artists": [
             "Christian McBride"
-        ]
+        ],
+        "Result Track Name": "Bluesin' in Alphabet City",
+        "Result Artist Names": [
+            "Christian McBride Big Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0skac6lg1QjF8rMYrriBvK",
+        "Result Album Name": "The Good Feeling"
     },
     {
         "Title": "How Twitter Star Kelly Oxford Makes Everything 'Perfect'",
@@ -77,18 +119,42 @@
         "ATC Track": "Devil in Me",
         "ATC Artists": [
             "Gin Wigmore"
-        ]
+        ],
+        "Result Track Name": "Devil In Me",
+        "Result Artist Names": [
+            "Gin Wigmore"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5B8Yv0Bl5WgOYQpZgrE9fX",
+        "Result Album Name": "Gravel & Wine"
     },
     {
         "ATC Track": "Saucer",
         "ATC Artists": [
             "Pell Mell"
-        ]
+        ],
+        "Result Track Name": "Saucer",
+        "Result Artist Names": [
+            "Pell Mell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BQ8IC8LbS5xDFZFhAQe1y",
+        "Result Album Name": "Interstate"
     },
     {
         "ATC Track": "Orleans Stomp",
         "ATC Artists": [
             "The Cruel Sea"
-        ]
+        ],
+        "Result Track Name": "Orleans Stomp",
+        "Result Artist Names": [
+            "The Cruel Sea"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FhsxLSn3dLCZ15dF3rICJ",
+        "Result Album Name": "The Most (Best Of)"
     }
 ]

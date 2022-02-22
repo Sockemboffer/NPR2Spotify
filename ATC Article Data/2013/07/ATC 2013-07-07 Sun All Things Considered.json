@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-07-07",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:35:14"
+        "Scanned Date": "2022-02-07 02:35:14",
+        "Playlist URI": "5G2wedCCnjxNj7rUTgo4zW",
+        "Playlist Link": "https://open.spotify.com/playlist/5G2wedCCnjxNj7rUTgo4zW",
+        "Snapshot ID": "MSw2MTVjZTkxOTBkNGYwOGM2YjZiYmVhODAzMDk5MDg3MWFkZWNmZGJl",
+        "Playlist Name": "ATC 2013-07-07 Sun All Things Considered"
     },
     {
         "Title": "After President's Ouster, Egypt Braces For More Unrest",
@@ -22,14 +26,27 @@
         "ATC Track": "Artifact",
         "ATC Artists": [
             "Balmorhea"
-        ]
+        ],
+        "Result Track Name": "Artifact",
+        "Result Artist Names": [
+            "Balmorhea"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jweiWpNyVAg4c0ycUHBqF",
+        "Result Album Name": "Stranger"
     },
     {
         "ATC Track": "Mara's Garden of False Delights: Snakes and Ladders",
         "ATC Artists": [
             "Turtle Island String Quartet",
             "Ying Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "No Clear Answers On Cause Of Commercial Jet Crash",
@@ -47,7 +64,15 @@
         "ATC Track": "Ocean Bear",
         "ATC Artists": [
             "Hi-Fi Sky"
-        ]
+        ],
+        "Result Track Name": "Ocean Bear",
+        "Result Artist Names": [
+            "Hi-Fi Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SKLc4WBlqMSu9tshmcBhw",
+        "Result Album Name": "music for synchronized swimming in space"
     },
     {
         "Title": "For Kids This Summer, How Safe Is Too Safe?",
@@ -65,14 +90,30 @@
         "ATC Track": "Algol",
         "ATC Artists": [
             "Dawn of Midi"
-        ]
+        ],
+        "Result Track Name": "Algol",
+        "Result Artist Names": [
+            "Dawn of Midi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HxPIjLK95h4LF0XUitqMG",
+        "Result Album Name": "Dysnomia"
     },
     {
         "ATC Track": "The Metrics",
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": "The Metrics",
+        "Result Artist Names": [
+            "Drums & Tuba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BwK0CTHiZKf8HaC6VruXj",
+        "Result Album Name": "Mostly Ape"
     },
     {
         "Title": "Growing Oysters, And Jobs, In Rhode Island",
@@ -96,18 +137,39 @@
         "ATC Track": "Safer",
         "ATC Artists": [
             "Krysta Rodriguez"
-        ]
+        ],
+        "Result Track Name": "Safer",
+        "Result Artist Names": [
+            "Krysta Rodriguez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0L9o0qS5UMmNJ1zf55Gxzd",
+        "Result Album Name": "First Date (Original Broadway Cast Recording)"
     },
     {
         "ATC Track": "Let There Be Horns",
         "ATC Artists": [
             "Rjd2"
-        ]
+        ],
+        "Result Track Name": "Let There Be Horns",
+        "Result Artist Names": [
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gJqCBGds0VaDsAmKPzbZe",
+        "Result Album Name": "The Colossus"
     },
     {
         "ATC Track": "OCDC",
         "ATC Artists": [
             "OCDC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

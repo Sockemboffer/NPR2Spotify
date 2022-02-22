@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-05-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:39:18"
+        "Scanned Date": "2022-02-07 02:39:18",
+        "Playlist URI": "4Rh9tzPF4XVq5doY3xeZPJ",
+        "Playlist Link": "https://open.spotify.com/playlist/4Rh9tzPF4XVq5doY3xeZPJ",
+        "Snapshot ID": "MSxmNDcwNThjYWZiODFhMDM5Y2RiZTc2NDliZWE3YmU2MDI0NDI5ODEx",
+        "Playlist Name": "ATC 2013-05-12 Sun All Things Considered"
     },
     {
         "Title": "Checking More Than One Box: A Growing Multiracial Nation",
@@ -16,13 +20,29 @@
         "ATC Track": "Fly Mode",
         "ATC Artists": [
             "Odd Nosdam"
-        ]
+        ],
+        "Result Track Name": "Fly Mode",
+        "Result Artist Names": [
+            "Odd Nosdam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Rx9X8Rj6z2KqAOWOHQ2lF",
+        "Result Album Name": "T.I.M.E. Soundtrack"
     },
     {
         "ATC Track": "You! Me! Dancing!",
         "ATC Artists": [
             "Los Compesinos!"
-        ]
+        ],
+        "Result Track Name": "You! Me! Dancing!",
+        "Result Artist Names": [
+            "Los Campesinos!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1t0RvoSeybgrk55g9lwC4Z",
+        "Result Album Name": "Hold On Now, Youngster"
     },
     {
         "Title": "Revisiting The McAfee Saga",
@@ -34,7 +54,15 @@
         "ATC Track": "This Year",
         "ATC Artists": [
             "The Mountain Goats"
-        ]
+        ],
+        "Result Track Name": "This Year",
+        "Result Artist Names": [
+            "The Mountain Goats"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s9aeZriwqyBYfxFzsd20R",
+        "Result Album Name": "The Sunset Tree"
     },
     {
         "Title": "For Year-Round Buzz, Beekeepers 'Fast-Forward Darwinism' ",
@@ -58,19 +86,43 @@
         "ATC Track": "Main Theme",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": "Samurai Champloo (Main Theme)",
+        "Result Artist Names": [
+            "Original TV Soundtrack"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GrGKUzJnI9RtpYeO6zwFV",
+        "Result Album Name": "Tv Themes Forever"
     },
     {
         "ATC Track": "Majesty of the Blues [Instrumental]",
         "ATC Artists": [
             "Rudresh Mahanthappa"
-        ]
+        ],
+        "Result Track Name": "Majesty of the Blues",
+        "Result Artist Names": [
+            "Rudresh Mahanthappa"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UWFkDyXP4B8utcnnm9OM2",
+        "Result Album Name": "Gamak"
     },
     {
         "ATC Track": "Track Meet [#]",
         "ATC Artists": [
             "Vince Guaraldi Trio"
-        ]
+        ],
+        "Result Track Name": "Track Meet",
+        "Result Artist Names": [
+            "Vince Guaraldi Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Uhe0CJfbtnWvWh3IXs60N",
+        "Result Album Name": "Charlie Brown Holiday Hits"
     },
     {
         "Title": "After Long Wait, Novelist James Salter Shares 'All That Is'",
@@ -94,18 +146,42 @@
         "ATC Track": "Stay I [Instrumental]",
         "ATC Artists": [
             "Rudresh Mahanthappa"
-        ]
+        ],
+        "Result Track Name": "Stay I",
+        "Result Artist Names": [
+            "Rudresh Mahanthappa"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3t7jQIUMrxxYPaTysLAMjb",
+        "Result Album Name": "Gamak"
     },
     {
         "ATC Track": "I Wanna Be Your Dog",
         "ATC Artists": [
             "The Stooges"
-        ]
+        ],
+        "Result Track Name": "I Wanna Be Your Dog",
+        "Result Artist Names": [
+            "The Stooges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:672N8DGGTOLCOgWe0koX5g",
+        "Result Album Name": "The Stooges"
     },
     {
         "ATC Track": "Can't Stand Your Funk",
         "ATC Artists": [
             "Mahavishnu Orchestra"
-        ]
+        ],
+        "Result Track Name": "Can't Stand Your Funk",
+        "Result Artist Names": [
+            "Mahavishnu Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MDgEQqPuCZbZ8njiCsKo0",
+        "Result Album Name": "Visions of the Emerald Beyond"
     }
 ]

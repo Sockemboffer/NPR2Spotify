@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-11-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:28:01"
+        "Scanned Date": "2022-02-07 02:28:01",
+        "Playlist URI": "2FTQCDighnH0YQ05djonO7",
+        "Playlist Link": "https://open.spotify.com/playlist/2FTQCDighnH0YQ05djonO7",
+        "Snapshot ID": "MSwyOTU1YmM3Yjk0OTkwNzJjNjI4NzkxMDZjM2I2ZTQzNmM2OWJhODQ2",
+        "Playlist Name": "ATC 2013-11-17 Sun All Things Considered"
     },
     {
         "Title": "Even Volunteers In Philippines Need Help: 'Everybody Was Equally Hit'",
@@ -28,13 +32,29 @@
         "ATC Track": "Redford (For Yia-Yia & Pappou)",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "Redford (for Yia-Yia and Pappou)",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2EL9uWRulB1rcgDmjYMzTO",
+        "Result Album Name": "Michigan"
     },
     {
         "ATC Track": "Width of the World",
         "ATC Artists": [
             "Tin Hat Trio"
-        ]
+        ],
+        "Result Track Name": "Width Of The World",
+        "Result Artist Names": [
+            "Tin Hat Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6f3Fj783uKT2Bk4D8kO8Z9",
+        "Result Album Name": "Helium"
     },
     {
         "Title": "Laboring In The Shadows To Keep The Web Free Of Child Porn",
@@ -58,7 +78,12 @@
         "ATC Track": "Marisa O'Brien",
         "ATC Artists": [
             "Supergenerous"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "J.J. Abrams On His Dynasty: Too Much Power For One Man",
@@ -82,18 +107,36 @@
         "ATC Track": "Night Train",
         "ATC Artists": [
             "Oscar Peterson Trio"
-        ]
+        ],
+        "Result Track Name": "Night Train",
+        "Result Artist Names": [
+            "Oscar Peterson Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fGgxzrQRyBTMcxtXzXQZj",
+        "Result Album Name": "Night Train (Expanded Edition)"
     },
     {
         "ATC Track": "Goldberg Variations, for keyboard (Clavier-Übung IV), BWV 988 (BC L9) [Variation 26]",
         "ATC Artists": [
             "Jeremy Denk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Goldberg Variations, for keyboard (Clavier-Übung IV), BWV 988 (BC L9) [Variation 28]",
         "ATC Artists": [
             "Jeremy Denk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

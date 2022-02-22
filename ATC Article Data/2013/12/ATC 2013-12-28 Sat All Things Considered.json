@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-12-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:26:44"
+        "Scanned Date": "2022-02-07 02:26:44",
+        "Playlist URI": "2eni7SkxyROJNwTEwCBklc",
+        "Playlist Link": "https://open.spotify.com/playlist/2eni7SkxyROJNwTEwCBklc",
+        "Snapshot ID": "MSw1MzBkMGI5ZGVhYzFiODc4ZTlkOTRlM2VkOTQ0ZDU0YjIzZmYyMjQ0",
+        "Playlist Name": "ATC 2013-12-28 Sat All Things Considered"
     },
     {
         "Title": "'Smell Of Death' Lingers In South Sudanese City",
@@ -28,13 +32,30 @@
         "ATC Track": "Some Blue Song",
         "ATC Artists": [
             "Mitchell Froom"
-        ]
+        ],
+        "Result Track Name": "Some Blue Song",
+        "Result Artist Names": [
+            "Mitchell Froom"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7mihCWPcojFU8V6eYtVqhw",
+        "Result Album Name": "A Thousand Days"
     },
     {
         "ATC Track": "Energy Flow",
         "ATC Artists": [
             "Andrew Shapiro"
-        ]
+        ],
+        "Result Track Name": "Energy Flow",
+        "Result Artist Names": [
+            "Ryuichi Sakamoto",
+            "Andrew Shapiro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MuNNC9BwLvQ9sf3UHQH9b",
+        "Result Album Name": "Intimate Casual"
     },
     {
         "Title": "Property Battle Leaves LA Homeless Vets With Few Options",
@@ -52,7 +73,15 @@
         "ATC Track": "JJ Leaves LA",
         "ATC Artists": [
             "Daniel Lanois"
-        ]
+        ],
+        "Result Track Name": "JJ Leaves LA",
+        "Result Artist Names": [
+            "Daniel Lanois"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qrG9uYjBEPnhmHKesMZaM",
+        "Result Album Name": "Shine"
     },
     {
         "Title": "The Internet Hoaxes That Had Us All Clicking For More",
@@ -64,13 +93,26 @@
         "ATC Track": "Sleepers Sum",
         "ATC Artists": [
             "Patrick Ellis"
-        ]
+        ],
+        "Result Track Name": "Sleepers Sum",
+        "Result Artist Names": [
+            "Patrick Ellis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FQ1sRrF9QPOKi2xCjWNui",
+        "Result Album Name": "Selected Works 2010-2015"
     },
     {
         "ATC Track": "(Don't Be Comin' with No) Weak Sauce",
         "ATC Artists": [
             "Stanton Moore"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Teaching Democracy Through Jazz, Perfecting Party Playlists",
@@ -101,12 +143,28 @@
         "ATC Artists": [
             "Maps",
             "Atlases"
-        ]
+        ],
+        "Result Track Name": "Daily News",
+        "Result Artist Names": [
+            "Maps & Atlases"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ajFHmLGUr7nqioxRFoKsi",
+        "Result Album Name": "You And Me And The Mountain"
     },
     {
         "ATC Track": "Wonder Why",
         "ATC Artists": [
             "The Evens"
-        ]
+        ],
+        "Result Track Name": "Wonder Why",
+        "Result Artist Names": [
+            "The Evens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3o1D9C7O2gbiF62GYqgtHS",
+        "Result Album Name": "The Odds"
     }
 ]

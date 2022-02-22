@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-11-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:27:05"
+        "Scanned Date": "2022-02-07 02:27:05",
+        "Playlist URI": "2c1I0nVnVroYaIF40lQUe3",
+        "Playlist Link": "https://open.spotify.com/playlist/2c1I0nVnVroYaIF40lQUe3",
+        "Snapshot ID": "MSxjYjQ3MmU4NzY2NjQzOGQ0ZTExOTAyNmUwMmZkYzRmZGJhMDA0ZGI0",
+        "Playlist Name": "ATC 2013-11-03 Sun All Things Considered"
     },
     {
         "Title": "How An Aqueduct Turned Los Angeles Into A 'Garden Of Eden'",
@@ -16,13 +20,29 @@
         "ATC Track": "Safe in the Steep Cliffs",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Safe in the Steep Cliffs",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00NfA7WynNY0yzsF0n0r1N",
+        "Result Album Name": "Safe in the Steep Cliffs"
     },
     {
         "ATC Track": "Sonic Wind [Instrumental Mix]",
         "ATC Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Sonic Wind - Instrumental Mix",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2U4AX4rZyJnqu55AtokmD9",
+        "Result Album Name": "Even My Sure Things Fall Through"
     },
     {
         "Title": "Unusual Results Anticipated For Governors' Races",
@@ -46,7 +66,15 @@
         "ATC Track": "Morning Star",
         "ATC Artists": [
             "Cass McCombs"
-        ]
+        ],
+        "Result Track Name": "Morning Star",
+        "Result Artist Names": [
+            "Cass McCombs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:51X7mOWIB4XE4DNimvwVOe",
+        "Result Album Name": "Big Wheel and Others"
     },
     {
         "Title": "As Mirrors Beam Light To Town, Norwegians Share Patch Of Sun",
@@ -70,7 +98,15 @@
         "ATC Track": "Where Is Mr. Fabulous?",
         "ATC Artists": [
             "Pepe Deluxe"
-        ]
+        ],
+        "Result Track Name": "Where Is Mr. Fabulous?",
+        "Result Artist Names": [
+            "Pepe Deluxe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gGbdzCccTyTksfaH1V3o1",
+        "Result Album Name": "Super Sound"
     },
     {
         "Title": "Accordions, Beer And God: Zydeco In Gran Texas",
@@ -89,18 +125,37 @@
         "ATC Artists": [
             "Chapelle du Roi",
             "Alistair Dixon (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Gymnopedie for piano No.1",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": "Gymnopedie for Piano No. 1",
+        "Result Artist Names": [
+            "Butch Baldassari",
+            "John Mock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tkLydIMMaKMWE3MKn6mIJ",
+        "Result Album Name": "Cantabile: Duets for Mandolin and Guitar"
     },
     {
         "ATC Track": "Gnossienne for piano No. 5",
         "ATC Artists": [
             "Alexandre Tharaud"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

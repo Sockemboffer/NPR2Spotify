@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-01-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:47:34"
+        "Scanned Date": "2022-02-07 02:47:34",
+        "Playlist URI": "5YryyNFbsH68GMAbTRDjgY",
+        "Playlist Link": "https://open.spotify.com/playlist/5YryyNFbsH68GMAbTRDjgY",
+        "Snapshot ID": "MSxjMjczMjc1ZmVlNDhkNDk2ZTA5ZGJmODM3OTc5ZDNmMzA0ZTRmMTU4",
+        "Playlist Name": "ATC 2013-01-13 Sun All Things Considered"
     },
     {
         "Title": "Uncertainty Looms For Pentagon In Obama's Second Term",
@@ -17,7 +21,16 @@
         "ATC Artists": [
             "Shakira",
             "Alejandro Sanz"
-        ]
+        ],
+        "Result Track Name": "La Tortura (feat. Alejandro Sanz)",
+        "Result Artist Names": [
+            "Shakira",
+            "Alejandro Sanz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BSclXJTa9B0iURhUjZo50",
+        "Result Album Name": "Fijación Oral, Vol. 1"
     },
     {
         "Title": "Lessons For U.S. From Soviet Role In Afghanistan",
@@ -29,7 +42,15 @@
         "ATC Track": "Oh God, Where Are You Now? (In Pickeral Lake? Pigeon? Marquette? ...)",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "Oh God Where Are You Now? (In Pickerel Lake? Pigeon? Marquette? Mackinaw?)",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 0.8695652173913043,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ah7XNrrfcwNKu7mYIRQvX",
+        "Result Album Name": "Michigan"
     },
     {
         "Title": "The Kraken Is Real: Scientist Films First Footage Of A Giant Squid",
@@ -53,7 +74,15 @@
         "ATC Track": "Ojos Así",
         "ATC Artists": [
             "Shakira"
-        ]
+        ],
+        "Result Track Name": "Ojos Así",
+        "Result Artist Names": [
+            "Shakira"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4EDfdYJ7mqXRoWAqzF1PVO",
+        "Result Album Name": "Donde Estan Los Ladrones"
     },
     {
         "Title": "A 'Beautiful Vision' In Science Forgotten",
@@ -71,26 +100,62 @@
         "ATC Track": "Jigs & Bulls",
         "ATC Artists": [
             "Carlos Núñez"
-        ]
+        ],
+        "Result Track Name": "Jigs & Bulls",
+        "Result Artist Names": [
+            "Carlos Nuñez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:24QxOa1WxVYkRg3WxJuL6m",
+        "Result Album Name": "Os Amores Libres"
     },
     {
         "ATC Track": "Like a G6 [Redone Remix]",
         "ATC Artists": [
             "Far East Movement",
             "The Cataracs et. al."
-        ]
+        ],
+        "Result Track Name": "Like A G6 - RedOne Remix",
+        "Result Artist Names": [
+            "Far East Movement",
+            "Mohombi",
+            "The Cataracs",
+            "DEV"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1r3Cg2BxENu0pDd8Z8IXjE",
+        "Result Album Name": "Like A G6 (Remixes)"
     },
     {
         "ATC Track": "Rabiosa",
         "ATC Artists": [
             "Shakira",
             "Pitbull"
-        ]
+        ],
+        "Result Track Name": "Rabiosa (feat. Pitbull)",
+        "Result Artist Names": [
+            "Shakira",
+            "Pitbull"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Xh7dyCHCErCv3PmdVEGw4",
+        "Result Album Name": "Sale el Sol"
     },
     {
         "ATC Track": "She Wolf",
         "ATC Artists": [
             "Shakira"
-        ]
+        ],
+        "Result Track Name": "She Wolf",
+        "Result Artist Names": [
+            "Shakira"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cS2HQ6jK80vqdY9ofpztx",
+        "Result Album Name": "She Wolf (Expanded Edition)"
     }
 ]

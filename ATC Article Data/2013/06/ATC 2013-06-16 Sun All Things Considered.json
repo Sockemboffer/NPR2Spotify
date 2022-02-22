@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-06-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:37:45"
+        "Scanned Date": "2022-02-07 02:37:45",
+        "Playlist URI": "3GUSnCUnGiSlu4XJA7xj8T",
+        "Playlist Link": "https://open.spotify.com/playlist/3GUSnCUnGiSlu4XJA7xj8T",
+        "Snapshot ID": "MSw1Yjk2ZTA3MjRjMDdlNTMwMzhmMTJmYjg5YzNlYzY2OGM3NDI3MmI1",
+        "Playlist Name": "ATC 2013-06-16 Sun All Things Considered"
     },
     {
         "Title": "Privacy Past And Present: A Saga Of American Ambivalence",
@@ -16,13 +20,26 @@
         "ATC Track": "Greeting's from a Dead Man",
         "ATC Artists": [
             "Eurythmics"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Somebodys Watching Me",
         "ATC Artists": [
             "Rockwell"
-        ]
+        ],
+        "Result Track Name": "Somebody's Watching Me",
+        "Result Artist Names": [
+            "Rockwell"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jwQlYGpOml9ETGre1HqGA",
+        "Result Album Name": "Somebody's Watching Me"
     },
     {
         "Title": "The Implications Of Drones In U.S. Airspace",
@@ -40,7 +57,15 @@
         "ATC Track": "Amelia",
         "ATC Artists": [
             "Joni Mitchell"
-        ]
+        ],
+        "Result Track Name": "Amelia",
+        "Result Artist Names": [
+            "Mitchell Anderson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:75TR6HOd36vaRjehfaWbvN",
+        "Result Album Name": "Scars"
     },
     {
         "Title": "Dr. Brazelton On Guiding Parents And Learning To Listen",
@@ -58,13 +83,26 @@
         "ATC Track": "Song for Chris/Port Allan O'G/Assynt Crofters/Maggie's Reel",
         "ATC Artists": [
             "Ghillies"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Idioteque",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "Idioteque",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1W5XugQJGhnSATMI5n002M",
+        "Result Album Name": "Kid A"
     },
     {
         "Title": "A Posthumous Tribute To Guns From A Sniper Shot To Death",
@@ -76,7 +114,15 @@
         "ATC Track": "Nocturne No. 7 in C-sharp minor, Op. 27, No. 1",
         "ATC Artists": [
             "Jacques Loussier"
-        ]
+        ],
+        "Result Track Name": "Nocturne No. 20 in C-sharp minor, Op. posthume (Arr. for Jazz Solo)",
+        "Result Artist Names": [
+            "Jacques Loussier"
+        ],
+        "Result Track-Match Percent": 0.5833333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:641dlUcV9G6s5I9BtfKAsE",
+        "Result Album Name": "Beyond Bach, Other Composers I Adore"
     },
     {
         "Title": "'Glee' Guy Matthew Morrison On His First Love: Broadway",
@@ -88,6 +134,11 @@
         "ATC Track": "Medley\" Come Rain or Shine/Basin Street Blues",
         "ATC Artists": [
             "Matthew Morrison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

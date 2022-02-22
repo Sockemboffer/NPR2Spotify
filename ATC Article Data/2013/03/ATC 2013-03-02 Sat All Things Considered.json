@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-03-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:43:12"
+        "Scanned Date": "2022-02-07 02:43:12",
+        "Playlist URI": "44CqXeudMVkyL2HI8XYiyQ",
+        "Playlist Link": "https://open.spotify.com/playlist/44CqXeudMVkyL2HI8XYiyQ",
+        "Snapshot ID": "MSxmODZmZTIwYTljMTgzNDdhZGRmNDg4Y2JhNWJhODQ5ZDI2NGQ2Nzhj",
+        "Playlist Name": "ATC 2013-03-02 Sat All Things Considered"
     },
     {
         "Title": "Sequester Without The Politics",
@@ -17,13 +21,29 @@
         "ATC Artists": [
             "Billie Holiday",
             "Her Orchestra"
-        ]
+        ],
+        "Result Track Name": "Yesterdays",
+        "Result Artist Names": [
+            "Billie Holiday"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:02gr27zhuCwNsU2reb39cO",
+        "Result Album Name": "An Evening With Billie Holiday"
     },
     {
         "ATC Track": "Build a House and Burn It Down",
         "ATC Artists": [
             "The Horse Flies"
-        ]
+        ],
+        "Result Track Name": "Build a House and Burn It Down",
+        "Result Artist Names": [
+            "The Horse Flies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bnI8e1mDTHp8fXm9h3u0r",
+        "Result Album Name": "Until the Ocean"
     },
     {
         "Title": "Recovering Amidst A Gender Gap",
@@ -41,7 +61,15 @@
         "ATC Track": "Hold On",
         "ATC Artists": [
             "Alabama Shakes"
-        ]
+        ],
+        "Result Track Name": "Hold On",
+        "Result Artist Names": [
+            "Alabama Shakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EuvOdyyzhFUP2z3gfr6xz",
+        "Result Album Name": "Boys & Girls"
     },
     {
         "Title": "Three-Minute Fiction: 'Call Me?' And 'Leave Me In London'",
@@ -60,7 +88,12 @@
         "ATC Artists": [
             "Beirut",
             "Banda Jimenez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "For Ireland's First Female President, 'Everybody Matters' ",
@@ -78,18 +111,44 @@
         "ATC Track": "3 Days",
         "ATC Artists": [
             "Rhye"
-        ]
+        ],
+        "Result Track Name": "3 Days",
+        "Result Artist Names": [
+            "Rhye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5KytIKWqQJXb2T3RNOyi9G",
+        "Result Album Name": "Woman"
     },
     {
         "ATC Track": "Smoke Signals",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Smoke Signals",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0L6QEgCNAZx9SIHmflTyZx",
+        "Result Album Name": "Soon It Will Be Cold Enough"
     },
     {
         "ATC Track": "Cat Skillz",
         "ATC Artists": [
             "Beats Antique"
-        ]
+        ],
+        "Result Track Name": "Cat Skillz",
+        "Result Artist Names": [
+            "Beats Antique",
+            "Mix N Blend",
+            "Narch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fCbJay2l7PNmeIMJZo0z0",
+        "Result Album Name": "Elektrafone"
     }
 ]

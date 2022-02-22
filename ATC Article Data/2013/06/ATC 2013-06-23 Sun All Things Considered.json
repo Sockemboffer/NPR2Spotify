@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-06-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:38:13"
+        "Scanned Date": "2022-02-07 02:38:13",
+        "Playlist URI": "1hSYwAVW9xaerHwDWKhxj8",
+        "Playlist Link": "https://open.spotify.com/playlist/1hSYwAVW9xaerHwDWKhxj8",
+        "Snapshot ID": "MSxhMWZmNGIyN2UzYmFjNjEyYjg4NWZlNDRkZDAyMWNjOWY5YThjY2Zh",
+        "Playlist Name": "ATC 2013-06-23 Sun All Things Considered"
     },
     {
         "Title": "Coastal Cities Prepare For The Rising Tide",
@@ -16,7 +20,15 @@
         "ATC Track": "Stormy Weather",
         "ATC Artists": [
             "Art Tatum"
-        ]
+        ],
+        "Result Track Name": "Stormy Weather",
+        "Result Artist Names": [
+            "Art Tatum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LL0iyDTsm43729TihGFc2",
+        "Result Album Name": "Classic Early Solos (1934-1937)"
     },
     {
         "Title": "In North Carolina, 'Moral Mondays' A Day For Protest",
@@ -35,7 +47,12 @@
         "ATC Artists": [
             "John Coltrane",
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The 'Time Capsule' Of Mob Lingo At The Whitey Bulger Trial",
@@ -48,7 +65,15 @@
         "ATC Artists": [
             "Jerry Douglas",
             "Sam Bush et. al."
-        ]
+        ],
+        "Result Track Name": "Bounce",
+        "Result Artist Names": [
+            "Jerry Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2uaOTgRW60t5Uto2fY4u3w",
+        "Result Album Name": "Glide"
     },
     {
         "Title": "A Mother Rescues Her Daughter From War-Torn Syria",
@@ -66,12 +91,25 @@
         "ATC Track": "A Banda",
         "ATC Artists": [
             "Paulinho Noguiera"
-        ]
+        ],
+        "Result Track Name": "A Banda",
+        "Result Artist Names": [
+            "Paulinho Nogueira"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5HPyF2aC7XDfz7waeqjdqW",
+        "Result Album Name": "Chico Buarque - Primeiras Composições"
     },
     {
         "ATC Track": "Quase Um Intocavel",
         "ATC Artists": [
             "Alexandre Favia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

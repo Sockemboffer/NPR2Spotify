@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-12-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:26:47"
+        "Scanned Date": "2022-02-07 02:26:47",
+        "Playlist URI": "5xUdli9LIlTvz33P0qlMbP",
+        "Playlist Link": "https://open.spotify.com/playlist/5xUdli9LIlTvz33P0qlMbP",
+        "Snapshot ID": "MSw3ZDY0YmU3YThiNTJmODhkODVkMWNlNmFkMWNhODUyZWRmMTg1MjE5",
+        "Playlist Name": "ATC 2013-12-29 Sun All Things Considered"
     },
     {
         "Title": "A Look Back At A Rather Rotten Year In U.S. Politics",
@@ -28,13 +32,29 @@
         "ATC Track": "Buster Voodoo",
         "ATC Artists": [
             "Rodrigo y Gabriela"
-        ]
+        ],
+        "Result Track Name": "Buster Voodoo",
+        "Result Artist Names": [
+            "Rodrigo y Gabriela"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09ysr2pWxrEh3IJbf3CBvQ",
+        "Result Album Name": "11:11"
     },
     {
         "ATC Track": "Number 10",
         "ATC Artists": [
             "Moon Hooch"
-        ]
+        ],
+        "Result Track Name": "Number 10",
+        "Result Artist Names": [
+            "Moon Hooch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4b335oGBxqER0BhQN6EXWh",
+        "Result Album Name": "Moon Hooch"
     },
     {
         "Title": "Lost In 2013: Three Nobel Scientists Who Saw Something In Us",
@@ -76,13 +96,29 @@
         "ATC Track": "What Did I Have That I Don't Have",
         "ATC Artists": [
             "Eydie Gorme"
-        ]
+        ],
+        "Result Track Name": "What Did I Have That I Don't Have",
+        "Result Artist Names": [
+            "Eydie Gormé"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4xzWQYnAxZXrjIpZlY4hvd",
+        "Result Album Name": "The Hits of Steve Lawrence & Eydie Gorme"
     },
     {
         "ATC Track": "Deception",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Deception",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Tq8Fj8jZQIO24XhXV5Dno",
+        "Result Album Name": "Birth Of The Cool"
     },
     {
         "Title": "Booking A Flight For The 'Golden Age Of Hijacking'",
@@ -100,7 +136,15 @@
         "ATC Track": "Heart of Rhythm",
         "ATC Artists": [
             "Ryan Bingham"
-        ]
+        ],
+        "Result Track Name": "Heart of Rhythm",
+        "Result Artist Names": [
+            "Ryan Bingham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67zcCH7O3r4aSCEaq1NejT",
+        "Result Album Name": "Tomorrowland"
     },
     {
         "ATC Track": "Look Around The Corner",
@@ -108,19 +152,37 @@
             "Quantic",
             "His Combo Bárbaro",
             "Alice Russell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Window",
         "ATC Artists": [
             "Doug Martsch"
-        ]
+        ],
+        "Result Track Name": "Window",
+        "Result Artist Names": [
+            "Doug Martsch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0jFCRDJQdQmyF194kaNhml",
+        "Result Album Name": "Now You Know"
     },
     {
         "ATC Track": "Clapper",
         "ATC Artists": [
             "Action Figure Party",
             "Yuval Gabay"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

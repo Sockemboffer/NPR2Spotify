@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-02-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:45:31"
+        "Scanned Date": "2022-02-07 02:45:31",
+        "Playlist URI": "43wjYsaHdnwEdRjDlwTLI4",
+        "Playlist Link": "https://open.spotify.com/playlist/43wjYsaHdnwEdRjDlwTLI4",
+        "Snapshot ID": "MSwxNDcxOWM3ZmQ0NDQ3ZWE0NzEwYzc2NTc5YzBhMDFiMmU5NzNmMjlh",
+        "Playlist Name": "ATC 2013-02-10 Sun All Things Considered"
     },
     {
         "Title": "To Infinity And Beyond: Would-Be Astronauts Keep Faith In Uncertain Era",
@@ -16,13 +20,26 @@
         "ATC Track": "Overture: Atmospheres",
         "ATC Artists": [
             "Sudwesfunk Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Blueprint 2",
         "ATC Artists": [
             "Jay-Z"
-        ]
+        ],
+        "Result Track Name": "Blueprint 2",
+        "Result Artist Names": [
+            "JAY-Z"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zkMLiZLve4jFLGyqoKFMt",
+        "Result Album Name": "The Blueprint 2 The Gift & The Curse"
     },
     {
         "Title": "Rise Early And Shine: Teachers And Students Try Out Longer School Days",
@@ -52,13 +69,26 @@
         "ATC Track": "Sonification Iteration 1.2",
         "ATC Artists": [
             "Robert Alexander"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Heart of the City (Ain't No Love)",
         "ATC Artists": [
             "Jay-Z"
-        ]
+        ],
+        "Result Track Name": "Heart Of The City (Ain't No Love)",
+        "Result Artist Names": [
+            "JAY-Z"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gpZSI0xEMTzleBc5ykOVA",
+        "Result Album Name": "The Blueprint (Explicit Version)"
     },
     {
         "Title": "Small Objects Reveal 'The Real Jane Austen' ",
@@ -82,14 +112,31 @@
         "ATC Track": "Pide Piso",
         "ATC Artists": [
             "Bajofondo"
-        ]
+        ],
+        "Result Track Name": "Pide piso",
+        "Result Artist Names": [
+            "Bajofondo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5O4LBJJWwaso2p32Oz2q8Q",
+        "Result Album Name": "Presente"
     },
     {
         "ATC Track": "Empire State of Mind",
         "ATC Artists": [
             "Jay-Z",
             "Alicia Keys"
-        ]
+        ],
+        "Result Track Name": "Empire State Of Mind",
+        "Result Artist Names": [
+            "JAY-Z",
+            "Alicia Keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2igwFfvr1OAGX9SKDCPBwO",
+        "Result Album Name": "The Blueprint 3"
     },
     {
         "ATC Track": "Run This Town",
@@ -97,6 +144,16 @@
             "Jay-Z",
             "Rihanna",
             "Kanye West"
-        ]
+        ],
+        "Result Track Name": "Run This Town",
+        "Result Artist Names": [
+            "JAY-Z",
+            "Rihanna",
+            "Kanye West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7LR85XLWw2yXqKBSI5brbG",
+        "Result Album Name": "The Blueprint 3"
     }
 ]

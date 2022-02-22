@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-05-26",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:40:23"
+        "Scanned Date": "2022-02-07 02:40:23",
+        "Playlist URI": "2z9sf9MmH4x9sXpsCRyepl",
+        "Playlist Link": "https://open.spotify.com/playlist/2z9sf9MmH4x9sXpsCRyepl",
+        "Snapshot ID": "MSw4ZmY2MzllMDczNDkxMzVhM2JjZTMzMjE1ZDVhZjRhMTk3ZjdlM2Vl",
+        "Playlist Name": "ATC 2013-05-26 Sun All Things Considered"
     },
     {
         "Title": "America's Vets: Returning Home To A Broken System",
@@ -16,7 +20,17 @@
         "ATC Track": "Nimble feet",
         "ATC Artists": [
             "Florence Price"
-        ]
+        ],
+        "Result Track Name": "Dances in the Canebrakes (Arr. W.G. Still for Orchestra): No. 1, Nimble Feet",
+        "Result Artist Names": [
+            "Florence Beatrice Price",
+            "Chicago Sinfonietta",
+            "Mei-Ann Chen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04iUT8m1pjNkF950MjG1e6",
+        "Result Album Name": "Project W: Works by Diverse Women Composers"
     },
     {
         "Title": "Obama Tours A Battered Oklahoma",
@@ -34,7 +48,15 @@
         "ATC Track": "Impossible Soul",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "Impossible Soul",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:36KKQqcDQTk4Op0usyqrMS",
+        "Result Album Name": "The Age of Adz"
     },
     {
         "Title": "Scientists Trace Source Of Famed Irish Potato Famine",
@@ -47,7 +69,12 @@
         "ATC Artists": [
             "Beirut",
             "Banda Jimenez"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Clarification Please: Why Do We Still Have Spelling Bees?",
@@ -65,7 +92,16 @@
         "ATC Track": "Blue Guitar",
         "ATC Artists": [
             "Justin Hayward"
-        ]
+        ],
+        "Result Track Name": "Blue Guitar",
+        "Result Artist Names": [
+            "Justin Hayward",
+            "John Lodge"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1lUaMUv7a3LEdrjK1b8hEi",
+        "Result Album Name": "Blue Jays"
     },
     {
         "Title": "Three-Minute Fiction Readings: 'Compromise' And 'The F'",
@@ -89,12 +125,28 @@
         "ATC Track": "Slim Baby",
         "ATC Artists": [
             "U.S. Girls"
-        ]
+        ],
+        "Result Track Name": "Slim Baby",
+        "Result Artist Names": [
+            "U.S. Girls"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rVcirBwJgqJ2vLJJirmhT",
+        "Result Album Name": "Gem"
     },
     {
         "ATC Track": "Adult Goth",
         "ATC Artists": [
             "Gang Gang Dance"
-        ]
+        ],
+        "Result Track Name": "Adult Goth",
+        "Result Artist Names": [
+            "Gang Gang Dance"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ehD9liCVjsXKRNNRR8QbI",
+        "Result Album Name": "Eye Contact"
     }
 ]

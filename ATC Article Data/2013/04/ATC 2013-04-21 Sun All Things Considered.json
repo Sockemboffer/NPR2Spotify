@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-04-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:42:35"
+        "Scanned Date": "2022-02-07 02:42:35",
+        "Playlist URI": "6M0hcWnF46IuH83kNdzDQR",
+        "Playlist Link": "https://open.spotify.com/playlist/6M0hcWnF46IuH83kNdzDQR",
+        "Snapshot ID": "MSw1OGEwOWU0YmRmZDI4NGZkMWFlZGU3MzczODA2YjkwNWYyODZmMmFj",
+        "Playlist Name": "ATC 2013-04-21 Sun All Things Considered"
     },
     {
         "Title": "Sunday Gatherings Bring Bostonians Some Solace",
@@ -22,13 +26,29 @@
         "ATC Track": "Minor Fantasy",
         "ATC Artists": [
             "Chilly Gonzalez"
-        ]
+        ],
+        "Result Track Name": "Minor Fantasy",
+        "Result Artist Names": [
+            "Chilly Gonzales"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1HRdmbUVURnoLDuv7ytWeZ",
+        "Result Album Name": "Solo Piano II"
     },
     {
         "ATC Track": "White Keys",
         "ATC Artists": [
             "Chilly Gonzales"
-        ]
+        ],
+        "Result Track Name": "White Keys",
+        "Result Artist Names": [
+            "Chilly Gonzales"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ozeGi8f4WWAbtPUHL8X1c",
+        "Result Album Name": "Solo Piano II"
     },
     {
         "Title": "How Media Can Avoid Tripping Over Fast-Paced Developments",
@@ -58,7 +78,15 @@
         "ATC Track": "Tippi-Toes",
         "ATC Artists": [
             "The Meters"
-        ]
+        ],
+        "Result Track Name": "Tippi-Toes",
+        "Result Artist Names": [
+            "The Meters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4IC87geBnjbgduIfAz5xbd",
+        "Result Album Name": "Struttin'"
     },
     {
         "Title": "'Humanity' May Get Second Chance In Jean Thompson's New Novel",
@@ -76,19 +104,46 @@
         "ATC Track": "Hesitate",
         "ATC Artists": [
             "Amy Speace"
-        ]
+        ],
+        "Result Track Name": "Hesitate",
+        "Result Artist Names": [
+            "Amy Speace"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4AOeL28wF8Q9fP34NLZPhd",
+        "Result Album Name": "How to Sleep in a Stormy Boat"
     },
     {
         "ATC Track": "Short Trip Home",
         "ATC Artists": [
             "Joshua Bell",
             "Sam Bush et. al."
-        ]
+        ],
+        "Result Track Name": "Short Trip Home",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Mike Marshall",
+            "Sam Bush",
+            "Joshua Bell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0dHTJrBBz7PKhq2LNXaFsv",
+        "Result Album Name": "Heartland: An Appalachian Anthology"
     },
     {
         "ATC Track": "Black Rabbit",
         "ATC Artists": [
             "Peter Mulvey"
-        ]
+        ],
+        "Result Track Name": "Black Rabbit",
+        "Result Artist Names": [
+            "Peter Mulvey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5dFT1mkDpuly8UPDkhlKBv",
+        "Result Album Name": "Notes From Elsewhere"
     }
 ]

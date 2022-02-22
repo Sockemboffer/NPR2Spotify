@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-05-25",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:40:21"
+        "Scanned Date": "2022-02-07 02:40:21",
+        "Playlist URI": "2RVieJX92ahSc66i9Jrzrv",
+        "Playlist Link": "https://open.spotify.com/playlist/2RVieJX92ahSc66i9Jrzrv",
+        "Snapshot ID": "MSwyYzczMTVkOGJhZmU5OTI0Nzg0NTZhNjM2NTAxM2EyNjExOWJhOTk5",
+        "Playlist Name": "ATC 2013-05-25 Sat All Things Considered"
     },
     {
         "Title": "Job Searching While Black: What's Behind The Unemployment Gap?",
@@ -16,7 +20,15 @@
         "ATC Track": "Smoke Signals",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Smoke Signals",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0L6QEgCNAZx9SIHmflTyZx",
+        "Result Album Name": "Soon It Will Be Cold Enough"
     },
     {
         "Title": "Week In News: Obama's Foreign Policy Pitch",
@@ -34,7 +46,15 @@
         "ATC Track": "Hold On",
         "ATC Artists": [
             "Alabama Shakes"
-        ]
+        ],
+        "Result Track Name": "Hold On",
+        "Result Artist Names": [
+            "Alabama Shakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EuvOdyyzhFUP2z3gfr6xz",
+        "Result Album Name": "Boys & Girls"
     },
     {
         "Title": "A Lost And Found 'Wonder': Pearl S. Buck's Final Novel",
@@ -53,7 +73,15 @@
         "ATC Artists": [
             "Nelson Riddle",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Dick Van Dyke Theme/The Alvin Show Theme - Medley",
+        "Result Artist Names": [
+            "Nelson Riddle"
+        ],
+        "Result Track-Match Percent": 0.9411764705882353,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0fTjob2DRRIJTWtPa6ajGh",
+        "Result Album Name": "Ultra-Lounge: TV Town"
     },
     {
         "Title": "Transcending Hardships By Saving Others In 'Constellation'",
@@ -77,12 +105,25 @@
         "ATC Track": "Carrina Carrina",
         "ATC Artists": [
             "Don Helms"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "So Here We Are",
         "ATC Artists": [
             "Jerry Douglas"
-        ]
+        ],
+        "Result Track Name": "So Here We Are",
+        "Result Artist Names": [
+            "Jerry Douglas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0GxrIksYtQmZtcRj2Bcjdk",
+        "Result Album Name": "Traveler"
     }
 ]

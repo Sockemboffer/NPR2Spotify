@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2013-06-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:38:35"
+        "Scanned Date": "2022-02-07 02:38:35",
+        "Playlist URI": "20jJbJjp5gUtso9MVMKxXr",
+        "Playlist Link": "https://open.spotify.com/playlist/20jJbJjp5gUtso9MVMKxXr",
+        "Snapshot ID": "MSwyMjRlNmNjNGEwZmRhNDhmODZiZDAwZmI5NGZkOTNmNTMyNmI2ZGFl",
+        "Playlist Name": "ATC 2013-06-29 Sat All Things Considered"
     },
     {
         "Title": "Legalese Aside, How Do We Talk About Race Nowadays?",
@@ -16,13 +20,30 @@
         "ATC Track": "Remember His Name",
         "ATC Artists": [
             "Jurassic 5"
-        ]
+        ],
+        "Result Track Name": "Remember His Name",
+        "Result Artist Names": [
+            "Jurassic 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6H94rhaNJ3yyzon6SBDgER",
+        "Result Album Name": "Power In Numbers"
     },
     {
         "ATC Track": "Changes",
         "ATC Artists": [
             "2Pac"
-        ]
+        ],
+        "Result Track Name": "Changes",
+        "Result Artist Names": [
+            "2Pac",
+            "Talent"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ofhfV90EnYhEr7Un2fWiv",
+        "Result Album Name": "Greatest Hits"
     },
     {
         "Title": "Week In News: The Filibuster To Watch (Online)",
@@ -52,13 +73,26 @@
         "ATC Track": "Royal Bridesmaids March",
         "ATC Artists": [
             "Merle Evans"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Vultures",
         "ATC Artists": [
             "John Mayer"
-        ]
+        ],
+        "Result Track Name": "Vultures",
+        "Result Artist Names": [
+            "John Mayer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IdTIzkTK6CcpKKgMUGbg7",
+        "Result Album Name": "Continuum"
     },
     {
         "Title": "Back On The Ground, Nik Wallenda Dreams Up His Next Walk",
@@ -82,19 +116,44 @@
         "ATC Track": "La Vida Mejor",
         "ATC Artists": [
             "La Vida Boheme"
-        ]
+        ],
+        "Result Track Name": "La Vida Mejor",
+        "Result Artist Names": [
+            "La Vida Bohème"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4dkjZa9RAkz1RKZAAxQnUD",
+        "Result Album Name": "Será"
     },
     {
         "ATC Track": "Luz Azul",
         "ATC Artists": [
             "Aterciopelados"
-        ]
+        ],
+        "Result Track Name": "Luz Azul",
+        "Result Artist Names": [
+            "Aterciopelados"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7epNilBKxF5XknI25WuXU9",
+        "Result Album Name": "Originales - 20 Exitos"
     },
     {
         "ATC Track": "Tortura",
         "ATC Artists": [
             "Alejandro Sanz",
             "Shakira"
-        ]
+        ],
+        "Result Track Name": "La Tortura (feat. Alejandro Sanz)",
+        "Result Artist Names": [
+            "Shakira",
+            "Alejandro Sanz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BSclXJTa9B0iURhUjZo50",
+        "Result Album Name": "Fijación Oral, Vol. 1"
     }
 ]
