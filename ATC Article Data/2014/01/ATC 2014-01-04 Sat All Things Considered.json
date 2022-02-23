@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-01-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:08:35"
+        "Scanned Date": "2022-02-07 03:08:35",
+        "Playlist URI": "3nXU4VnL8zOM1S6QzTeqtY",
+        "Playlist Link": "https://open.spotify.com/playlist/3nXU4VnL8zOM1S6QzTeqtY",
+        "Snapshot ID": "MSxlMWRmZWE0MDFiY2Y1MDBjMTg0NGU4YmM1YzY1ZDA3NzQ5NDBiMGMw",
+        "Playlist Name": "ATC 2014-01-04 Sat All Things Considered"
     },
     {
         "Title": "With Benefits Cut, Unemployed Take Stock Of Dwindling Options",
@@ -16,7 +20,15 @@
         "ATC Track": "Sunwheel Dance",
         "ATC Artists": [
             "Bruce Cockburn"
-        ]
+        ],
+        "Result Track Name": "Sunwheel Dance",
+        "Result Artist Names": [
+            "Bruce Cockburn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1HlyueQ3FyAqI1kFGfCuPU",
+        "Result Album Name": "Sunwheel Dance"
     },
     {
         "Title": "Iraq's Anbar Province Under Threat From Al-Qaida",
@@ -47,7 +59,16 @@
         "ATC Artists": [
             "Massive Attack",
             "Tracey Thorn"
-        ]
+        ],
+        "Result Track Name": "Protection",
+        "Result Artist Names": [
+            "Massive Attack",
+            "Tracey Thorn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kKVqFF4pv4EXeQe428zl2",
+        "Result Album Name": "Protection"
     },
     {
         "Title": "Jimmy Santiago Baca, From Prison To Poetry",
@@ -65,7 +86,15 @@
         "ATC Track": "Birth In Reverse",
         "ATC Artists": [
             "St. Vincent"
-        ]
+        ],
+        "Result Track Name": "Birth In Reverse",
+        "Result Artist Names": [
+            "St. Vincent"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3v47tb6hvbeb3dVOgYZUfP",
+        "Result Album Name": "St. Vincent (Deluxe Edition)"
     },
     {
         "Title": "Phil Everly: Harmony To His Brother's Melody",
@@ -77,19 +106,41 @@
         "ATC Track": "All I Have to Do Is Dream",
         "ATC Artists": [
             "The Everly Brothers"
-        ]
+        ],
+        "Result Track Name": "All I Have to Do Is Dream",
+        "Result Artist Names": [
+            "The Everly Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7dblNGnRXEBrVJunazs2U5",
+        "Result Album Name": "The Very Best of The Everly Brothers"
     },
     {
         "ATC Track": "Gone Gone Gone (Done Moved On)",
         "ATC Artists": [
             "Robert Plant",
             "Alison Krauss"
-        ]
+        ],
+        "Result Track Name": "Gone Gone Gone (Done Moved On)",
+        "Result Artist Names": [
+            "Robert Plant",
+            "Alison Krauss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MRw8W5jZoG0SNNcHLgkEO",
+        "Result Album Name": "Raising Sand"
     },
     {
         "ATC Track": "Cry for a Shadow",
         "ATC Artists": [
             "John Lennon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

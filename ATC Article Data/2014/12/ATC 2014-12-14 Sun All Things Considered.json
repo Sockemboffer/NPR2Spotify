@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-12-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:49:31"
+        "Scanned Date": "2022-02-07 02:49:31",
+        "Playlist URI": "2IYQhoC4aXutP1Yr3bNOt2",
+        "Playlist Link": "https://open.spotify.com/playlist/2IYQhoC4aXutP1Yr3bNOt2",
+        "Snapshot ID": "MSw4MTNiMGYxMjYwM2VmZmMyMTdmOWIwMGQ5MzI0NTY5MGZjYTFmODVi",
+        "Playlist Name": "ATC 2014-12-14 Sun All Things Considered"
     },
     {
         "Title": "Two Years Later, Still Learning From Sandy Hook",
@@ -28,13 +32,29 @@
         "ATC Track": "Bless This Morning Year",
         "ATC Artists": [
             "Helios"
-        ]
+        ],
+        "Result Track Name": "Bless This Morning Year",
+        "Result Artist Names": [
+            "Helios"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6knzYloG0x3MroAhnLVLGe",
+        "Result Album Name": "Eingya"
     },
     {
         "ATC Track": "Over the Far and Hills Away",
         "ATC Artists": [
             "Bibio"
-        ]
+        ],
+        "Result Track Name": "Over The Far And Hills Away",
+        "Result Artist Names": [
+            "Bibio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VTdrpWmbKlltaiO3dEjYT",
+        "Result Album Name": "Vignetting The Compost"
     },
     {
         "Title": "LA's Unclaimed Dead Receive Prayers, And A Final Resting Place",
@@ -52,7 +72,15 @@
         "ATC Track": "Golden Cage",
         "ATC Artists": [
             "The Whitest Boy Alive"
-        ]
+        ],
+        "Result Track Name": "Golden Cage",
+        "Result Artist Names": [
+            "The Whitest Boy Alive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Pz7iN649aBn2TwcxBRF8Z",
+        "Result Album Name": "Dreams"
     },
     {
         "Title": "More Than Just Cute, Sea Otters Are Superheroes Of The Marsh",
@@ -64,7 +92,12 @@
         "ATC Track": "Bronko's Blues",
         "ATC Artists": [
             "Marco Benevento"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Taking On Racial Profiling With Data",
@@ -88,12 +121,25 @@
         "ATC Track": "NFL on Fox Theme",
         "ATC Artists": [
             "Fox Sports Radio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Posthumus Zone (The Theme to the NFL on CBS)",
         "ATC Artists": [
             "E.S. Posthumus"
-        ]
+        ],
+        "Result Track Name": "Posthumus Zone (The Theme To The NFL On CBS)",
+        "Result Artist Names": [
+            "E.S. Posthumus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TAsee2U5nGXjkRGHFBOpO",
+        "Result Album Name": "Posthumus Zone (The Theme to The NFL On CBS)"
     }
 ]

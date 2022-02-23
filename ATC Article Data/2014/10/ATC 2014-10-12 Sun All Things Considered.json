@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-10-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:53:17"
+        "Scanned Date": "2022-02-07 02:53:17",
+        "Playlist URI": "5i9uPW9EX7G7sVhsOpnWmz",
+        "Playlist Link": "https://open.spotify.com/playlist/5i9uPW9EX7G7sVhsOpnWmz",
+        "Snapshot ID": "MSxjMGZmODM4ZTZiNjUzY2JmYWQ0NjUxMWFmY2RiMjA5NTFlZWY4YmYw",
+        "Playlist Name": "ATC 2014-10-12 Sun All Things Considered"
     },
     {
         "Title": "'Protocol Breach' Cited In Second Case Of Ebola In Dallas",
@@ -22,7 +26,12 @@
         "ATC Track": "Godless theme",
         "ATC Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Wolverine's Death: Superheroes And The Cycle Of Eternal Return",
@@ -34,13 +43,29 @@
         "ATC Track": "So Long, Farewell",
         "ATC Artists": [
             "Original Broadway Cast"
-        ]
+        ],
+        "Result Track Name": "So Long, Farewell",
+        "Result Artist Names": [
+            "Original London Cast Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2oK688CoHcWXRxDisqMbvD",
+        "Result Album Name": "The Sound Of Music - Original London Cast (Stereo)"
     },
     {
         "ATC Track": "Decision",
         "ATC Artists": [
             "Sonny Rollins"
-        ]
+        ],
+        "Result Track Name": "Decision - Remastered 1999",
+        "Result Artist Names": [
+            "Sonny Rollins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Sd3IwEYdoyTsFl9Tfp6WX",
+        "Result Album Name": "Sonny Rollins"
     },
     {
         "Title": "To Cut Student Debt, Florida College Cuts Off Some Student Borrowing",
@@ -53,7 +78,12 @@
         "ATC Artists": [
             "Turtle Island String Quartet",
             "Ying Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "The Case Of The Stolen Stradivarius",
@@ -77,13 +107,27 @@
         "ATC Track": "Save Liberia",
         "ATC Artists": [
             "Liberian Allstars"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Boe Money",
         "ATC Artists": [
             "Galactic"
-        ]
+        ],
+        "Result Track Name": "Boe Money",
+        "Result Artist Names": [
+            "Galactic",
+            "Rebirth Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nic4gBH3c8IAJg9vSFTAB",
+        "Result Album Name": "Ya-Ka-May (Deluxe Edition)"
     },
     {
         "Title": "ISIS Advances On Kobani With Additional Fighters, Weapons",
@@ -95,7 +139,12 @@
         "ATC Track": "Godless theme",
         "ATC Artists": [
             "Unknown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'As You Wish': Take A Peek At The Making Of 'The Princess Bride'",
@@ -114,12 +163,29 @@
         "ATC Artists": [
             "Flying Lotus",
             "Kendrick Lamar"
-        ]
+        ],
+        "Result Track Name": "Never Catch Me",
+        "Result Artist Names": [
+            "Flying Lotus",
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6CTG85NJI1Wm60pxTSRNwL",
+        "Result Album Name": "You're Dead!"
     },
     {
         "ATC Track": "Oh S---- It's X",
         "ATC Artists": [
             "Thundercat"
-        ]
+        ],
+        "Result Track Name": "Oh Sheit it's X",
+        "Result Artist Names": [
+            "Thundercat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6EidGY4S6hkU6fwNdSSabg",
+        "Result Album Name": "Apocalypse"
     }
 ]

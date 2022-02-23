@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-08-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:56:10"
+        "Scanned Date": "2022-02-07 02:56:10",
+        "Playlist URI": "3LRHdcyu6sfOp0i8KFQZFN",
+        "Playlist Link": "https://open.spotify.com/playlist/3LRHdcyu6sfOp0i8KFQZFN",
+        "Snapshot ID": "MSwwZjA4NjhhYWJjMDk0MjFkM2NiYTZkMzBlMjQ5NzA5ZmI2MjVhMmEx",
+        "Playlist Name": "ATC 2014-08-02 Sat All Things Considered"
     },
     {
         "Title": "As Ebola Death Toll Tops 700, Officials Fight To Contain Disease",
@@ -29,7 +33,16 @@
         "ATC Artists": [
             "The Brand New Heavies",
             "Main Source"
-        ]
+        ],
+        "Result Track Name": "Bonafide Funk",
+        "Result Artist Names": [
+            "The Brand New Heavies",
+            "Main Source"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MiVZwmpvrO04R2wJeSaae",
+        "Result Album Name": "Heavy Rhyme Experience: Vol. 1"
     },
     {
         "Title": "Stock Markets Take A Dive After Months Of Growth",
@@ -60,14 +73,30 @@
         "ATC Artists": [
             "james brown",
             "the famous flames"
-        ]
+        ],
+        "Result Track Name": "Please, Please, Please - Live At The Apollo Theater, 1967",
+        "Result Artist Names": [
+            "James Brown & The Famous Flames"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2q5Y9D0LoO7MMqNQFd5Xye",
+        "Result Album Name": "'Live' At The Apollo (Vol. II)"
     },
     {
         "ATC Track": "I Feel You",
         "ATC Artists": [
             "Us3",
             "Oveous Maximus"
-        ]
+        ],
+        "Result Track Name": "I Feel You (feat. Oveous Maximus)",
+        "Result Artist Names": [
+            "Oveous Maximus"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6c0OfLSEqVYC48xQJrxWhd",
+        "Result Album Name": "Lie, Cheat & Steal"
     },
     {
         "Title": "3 Grads Of Historically Black Schools Enter Football Hall Of Fame",
@@ -98,12 +127,29 @@
         "ATC Artists": [
             "Naomi Shelton",
             "the Gospel Queens"
-        ]
+        ],
+        "Result Track Name": "Humble Me",
+        "Result Artist Names": [
+            "Naomi Shelton",
+            "the Gospel Queens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4VbBqfS9947b0aEmcXOLZa",
+        "Result Album Name": "Cold World"
     },
     {
         "ATC Track": "Who's Gonna Save My Soul",
         "ATC Artists": [
             "Gnarls Barkley"
-        ]
+        ],
+        "Result Track Name": "Who's Gonna Save My Soul - Original Mix",
+        "Result Artist Names": [
+            "Gnarls Barkley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qiBDlMzW2vTK8dJKw7xD3",
+        "Result Album Name": "The Odd Couple"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-10-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:52:43"
+        "Scanned Date": "2022-02-07 02:52:43",
+        "Playlist URI": "0sDaIrXjw1fYfP8NXy75Dx",
+        "Playlist Link": "https://open.spotify.com/playlist/0sDaIrXjw1fYfP8NXy75Dx",
+        "Snapshot ID": "MSw2ZmRkZTk4MDRhNDY0YWFmZGRkYjJiOWFiMDM1MmM5ZWEzZjkxODFh",
+        "Playlist Name": "ATC 2014-10-05 Sun All Things Considered"
     },
     {
         "Title": "Ebola Researchers Have A Radical Idea: Rush A Vaccine Into The Field",
@@ -22,7 +26,15 @@
         "ATC Track": "Sing To The Moon",
         "ATC Artists": [
             "Laura Mvula"
-        ]
+        ],
+        "Result Track Name": "Sing to the Moon",
+        "Result Artist Names": [
+            "Laura Mvula"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FP5y5nA6F7eIjc3cPGQiz",
+        "Result Album Name": "Sing to the Moon"
     },
     {
         "Title": "Dolphins: Adorable, Playful, Not As Smart As You Might Think",
@@ -34,7 +46,15 @@
         "ATC Track": "Flying",
         "ATC Artists": [
             "The Beatles"
-        ]
+        ],
+        "Result Track Name": "Flying - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1itLKsCWHtLnxALkgBk1Fa",
+        "Result Album Name": "Magical Mystery Tour (Remastered)"
     },
     {
         "Title": "Alaska National Guard Scandal Adds Pressure To Election",
@@ -52,7 +72,15 @@
         "ATC Track": "Flaws",
         "ATC Artists": [
             "Bastille"
-        ]
+        ],
+        "Result Track Name": "Flaws",
+        "Result Artist Names": [
+            "Bastille"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:67wABU4SjBlnDHB0KiU3HL",
+        "Result Album Name": "Bad Blood"
     },
     {
         "Title": "Fortune-Tellers, Step Aside: Big Data Looks For Future Entrepreneurs",
@@ -68,13 +96,27 @@
     },
     {
         "ATC Track": "caída de la República (The fall of the Republic)",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Collard Greens",
         "ATC Artists": [
             "ScHoolboy Q"
-        ]
+        ],
+        "Result Track Name": "Collard Greens",
+        "Result Artist Names": [
+            "ScHoolboy Q",
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zO8ctW0UiuOefR87OeJOZ",
+        "Result Album Name": "Oxymoron (Deluxe)"
     },
     {
         "Title": "'You Have The Right To Remain Silent.' Or Do You?",
@@ -96,12 +138,25 @@
     },
     {
         "ATC Track": "Angostura",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Angostura",
+        "Result Artist Names": [
+            "Demuja"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3he3GtXRftgim4KFRxV6TD",
+        "Result Album Name": "Old Fashioned EP"
     },
     {
         "ATC Track": "Poison Pushy",
         "ATC Artists": [
             "Stanton Moore"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

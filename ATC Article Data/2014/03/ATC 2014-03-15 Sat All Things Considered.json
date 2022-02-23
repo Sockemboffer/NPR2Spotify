@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-03-15",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:05:52"
+        "Scanned Date": "2022-02-07 03:05:52",
+        "Playlist URI": "43gk0rJSPxNxnRkHsPaeZK",
+        "Playlist Link": "https://open.spotify.com/playlist/43gk0rJSPxNxnRkHsPaeZK",
+        "Snapshot ID": "MSxiOWMxYmI1ZDc4OTJkNGRhMDYwMGU5MjliZTA3NDdiMzcxM2NhZjYz",
+        "Playlist Name": "ATC 2014-03-15 Sat All Things Considered"
     },
     {
         "Title": "Ukrainians Scramble For Information Ahead Of Crimean Vote",
@@ -29,13 +33,26 @@
         "ATC Artists": [
             "Pullman",
             "Ken Brown"
-        ]
+        ],
+        "Result Track Name": "Bookends",
+        "Result Artist Names": [
+            "Pullman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0nspcQryM3NETnU21xKOJp",
+        "Result Album Name": "Viewfinder"
     },
     {
         "ATC Track": "Miss Mary's Place",
         "ATC Artists": [
             "Jack Rose"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Reflecting On 3-Year Syrian War: 'There But For The Grace Of God'",
@@ -60,13 +77,30 @@
         "ATC Artists": [
             "Jake One",
             "MF Doom"
-        ]
+        ],
+        "Result Track Name": "Trap Door (feat. MF Doom)",
+        "Result Artist Names": [
+            "Jake One",
+            "MF DOOM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1nDtalylEkGczhTLJ2rOPH",
+        "Result Album Name": "White Van Music"
     },
     {
         "ATC Track": "Northern Sky",
         "ATC Artists": [
             "Christopher O'Riley"
-        ]
+        ],
+        "Result Track Name": "Northern Sky",
+        "Result Artist Names": [
+            "Christopher O'Riley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5JFkakomzrrWpO33trJWDP",
+        "Result Album Name": "Second Grace: The Music of Nick Drake"
     },
     {
         "Title": "Working Without Pay A Reality For Much Of Greece's Labor Force",
@@ -90,12 +124,28 @@
         "ATC Track": "Nomade Slang",
         "ATC Artists": [
             "Ibrahim Maalouf"
-        ]
+        ],
+        "Result Track Name": "Nomade Slang",
+        "Result Artist Names": [
+            "Ibrahim Maalouf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55LLqEQqXs2NMOqILsziA7",
+        "Result Album Name": "Illusions"
     },
     {
         "ATC Track": "Pappy Check",
         "ATC Artists": [
             "Medeski Martin and Wood"
-        ]
+        ],
+        "Result Track Name": "Pappy Check",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2CpsxVRLeKFRLdHtTQM4sR",
+        "Result Album Name": "Uninvisible"
     }
 ]

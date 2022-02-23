@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-04-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:03:37"
+        "Scanned Date": "2022-02-07 03:03:37",
+        "Playlist URI": "68Ydd2Y4bNCneVpkO2G8yO",
+        "Playlist Link": "https://open.spotify.com/playlist/68Ydd2Y4bNCneVpkO2G8yO",
+        "Snapshot ID": "MSxmYjRjMjk0NWJmZjc5NGIyNzBiZWMyY2I1NTFmOTRiZjAwY2QzN2Fh",
+        "Playlist Name": "ATC 2014-04-06 Sun All Things Considered"
     },
     {
         "Title": "How Public Health Advocates Are Trying To Reach Nonvaccinators",
@@ -16,7 +20,12 @@
         "ATC Track": "Letting Go [Video]",
         "ATC Artists": [
             "Mount Moriah"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "How Abandonment In Rwandan Genocide Changed Peacekeepers' Role",
@@ -46,7 +55,15 @@
         "ATC Track": "Eight Bar Lullaby",
         "ATC Artists": [
             "Pilote"
-        ]
+        ],
+        "Result Track Name": "Eight Bar Lullaby",
+        "Result Artist Names": [
+            "Pilote"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1JjWVUL6sk3nqvPrpF7RHB",
+        "Result Album Name": "The Slowdown"
     },
     {
         "Title": "In Book's Trial Of U.S. Justice System, Wealth Gap Is Exhibit A",
@@ -70,6 +87,14 @@
         "ATC Track": "The Sixth Street Ramble",
         "ATC Artists": [
             "Pilote"
-        ]
+        ],
+        "Result Track Name": "The Sixth Street Ramble",
+        "Result Artist Names": [
+            "Pilote"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tzVCY5M67wkhf9vHkdMHb",
+        "Result Album Name": "The Slowdown"
     }
 ]

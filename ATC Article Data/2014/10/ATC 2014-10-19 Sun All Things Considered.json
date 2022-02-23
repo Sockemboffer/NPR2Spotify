@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-10-19",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:53:41"
+        "Scanned Date": "2022-02-07 02:53:41",
+        "Playlist URI": "24Jj1nDmVRgNzSZrc0AasD",
+        "Playlist Link": "https://open.spotify.com/playlist/24Jj1nDmVRgNzSZrc0AasD",
+        "Snapshot ID": "MSwxZjEyOTAwM2Y1OTI1MGUxMTgzYzMwYjczNDQzNDcxNDYxNjRjMGJm",
+        "Playlist Name": "ATC 2014-10-19 Sun All Things Considered"
     },
     {
         "Title": "Texas Center Part Of New Effort To Detain Illegal Immigrants",
@@ -28,13 +32,29 @@
         "ATC Track": "Things Have Changed",
         "ATC Artists": [
             "Bob Dylan"
-        ]
+        ],
+        "Result Track Name": "Things Have Changed - Single Version",
+        "Result Artist Names": [
+            "Bob Dylan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3UEWtvTL3mE797dNOv8Rzw",
+        "Result Album Name": "Wonder Boys - Music From The Motion Picture"
     },
     {
         "ATC Track": "Once Upon a Time (Instrumental)",
         "ATC Artists": [
             "Chinese Man"
-        ]
+        ],
+        "Result Track Name": "Once Upon a Time - Instrumental",
+        "Result Artist Names": [
+            "Chinese Man"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2tlXC68gNF7zALe0UZkY4L",
+        "Result Album Name": "Once Upon a Time"
     },
     {
         "Title": "Tennessee Holds Parents Accountable For Children Born Addicted",
@@ -59,7 +79,15 @@
         "ATC Artists": [
             "Ryan Bingham",
             "the Dead Horses"
-        ]
+        ],
+        "Result Track Name": "All Choked Up Again",
+        "Result Artist Names": [
+            "Ryan Bingham"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:7h7oYTyNQX8KAo4bOq6GBH",
+        "Result Album Name": "Folk Hits 2022"
     },
     {
         "Title": "Waterless Worlds The New Hot Dystopia",
@@ -71,14 +99,27 @@
         "ATC Track": "Water Everywhere (Not a Drop to Drink)",
         "ATC Artists": [
             "Tom Caufield"
-        ]
+        ],
+        "Result Track Name": "Water Everywhere (Not a Drop to Drink)",
+        "Result Artist Names": [
+            "Tom Caufield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2YI6ndBctrhwcl3HiGQKkT",
+        "Result Album Name": "Tales from the Wine Dark Sea"
     },
     {
         "ATC Track": "Grand Theft Auto IV, video game music [Soviet Connection]",
         "ATC Artists": [
             "London Philharmonic Orchestra",
             "Andrew Skeet (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Many Views Of Muhammad, As A Man And As A Prophet",
@@ -102,12 +143,28 @@
         "ATC Track": "Special Order",
         "ATC Artists": [
             "Michael Giacchino"
-        ]
+        ],
+        "Result Track Name": "Special Order",
+        "Result Artist Names": [
+            "Michael Giacchino"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zfr8xbDTw3pquWSt6dswt",
+        "Result Album Name": "Ratatouille (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Just Pickin'",
         "ATC Artists": [
             "Freddy King"
-        ]
+        ],
+        "Result Track Name": "Just Pickin'",
+        "Result Artist Names": [
+            "Freddy King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2mkhAkWv4dgPlOqLx1S0w4",
+        "Result Album Name": "Come On! The Best from His Early Sessions"
     }
 ]

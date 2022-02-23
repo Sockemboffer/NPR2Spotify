@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-09-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:55:55"
+        "Scanned Date": "2022-02-07 02:55:55",
+        "Playlist URI": "1bFSp4xw2ogDxK31MAaWfD",
+        "Playlist Link": "https://open.spotify.com/playlist/1bFSp4xw2ogDxK31MAaWfD",
+        "Snapshot ID": "MSw5ZDYxN2FkMDZlNTEyNTJkMzllNWY1M2MxNTdhYmI1MDA5YWI0ODI0",
+        "Playlist Name": "ATC 2014-09-27 Sat All Things Considered"
     },
     {
         "Title": "Air Campaign Against ISIS Continues As Rebels Look To Regroup",
@@ -28,14 +32,28 @@
         "ATC Track": "Careless Whisper",
         "ATC Artists": [
             "Wham!"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Careless Whisper",
         "ATC Artists": [
             "Brian McKnight",
             "Kenny G"
-        ]
+        ],
+        "Result Track Name": "Careless Whisper (feat. Brian McKnight)",
+        "Result Artist Names": [
+            "Kenny G",
+            "Brian McKnight"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SscHHP2wlcyLI3ikIHDr9",
+        "Result Album Name": "At Last...The Duets Album"
     },
     {
         "Title": "Ohio's James Traficant Dies, Days After Accident On Farm",
@@ -65,13 +83,29 @@
         "ATC Track": "No. 6",
         "ATC Artists": [
             "Moon Hooch"
-        ]
+        ],
+        "Result Track Name": "No. 6",
+        "Result Artist Names": [
+            "Moon Hooch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0U8Yb8GDpIBVbxmE8Ubkdg",
+        "Result Album Name": "This Is Cave Music"
     },
     {
         "ATC Track": "Hummingbyrd [Instrumental]",
         "ATC Artists": [
             "Marty Stuart"
-        ]
+        ],
+        "Result Track Name": "Hummingbyrd",
+        "Result Artist Names": [
+            "Marty Stuart"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:062EZfkhxqjx778fm4DQE0",
+        "Result Album Name": "Ghost Train: The Studio B Sessions"
     },
     {
         "Title": "How Is Fujifilm Helping In The Fight Against Ebola?",
@@ -95,7 +129,15 @@
         "ATC Track": "B wie boehmisch",
         "ATC Artists": [
             "Orchester Holger Mueck"
-        ]
+        ],
+        "Result Track Name": "B wie böhmisch",
+        "Result Artist Names": [
+            "Orchester Holger Mück"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:75owTjN1gg7WTeuvJ6kQfX",
+        "Result Album Name": "Egerländer Musikantenfest"
     },
     {
         "Title": "Virtual Reality, Corporeality Collide In Cronenberg's First Novel",
@@ -109,12 +151,27 @@
             "Sax",
             "Sid",
             "The National Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Finale",
         "ATC Artists": [
             "London Philharmonic Orchestra"
-        ]
+        ],
+        "Result Track Name": "Symphony No. 1 in G Minor, Op. 13 \"Winter Daydreams\": IV. Finale (Andante lugubre - Allegro moderato - Allegro maestoso)",
+        "Result Artist Names": [
+            "Pyotr Ilyich Tchaikovsky",
+            "Mstislav Rostropovich",
+            "London Philharmonic Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q4vRAOzedI8VcUGwjDmDa",
+        "Result Album Name": "Cold Winter Classical"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-07-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:59:26"
+        "Scanned Date": "2022-02-07 02:59:26",
+        "Playlist URI": "0QtmCZHmxcqPmyGRge2wQl",
+        "Playlist Link": "https://open.spotify.com/playlist/0QtmCZHmxcqPmyGRge2wQl",
+        "Snapshot ID": "MSxiMTJmNzgwZTVhNTc4ODUxMDc2NWU3YWQwYmQ1OTg0MDE4MmExMWJi",
+        "Playlist Name": "ATC 2014-07-26 Sat All Things Considered"
     },
     {
         "Title": "Fighting Quickly Resumes As Cease-Fire Ends In Gaza",
@@ -28,7 +32,15 @@
         "ATC Track": "The Plug",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "The Plug",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ilUK78Mc8Z7MXvVy3jTmw",
+        "Result Album Name": "Animal Magic"
     },
     {
         "Title": "Exploring The Economics Of Paying What You Want",
@@ -52,13 +64,30 @@
         "ATC Track": "Lies",
         "ATC Artists": [
             "Eric Clapton"
-        ]
+        ],
+        "Result Track Name": "Lies (feat. John Mayer)",
+        "Result Artist Names": [
+            "Eric Clapton",
+            "John Mayer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6r87qBIT9SEwC4Tz4NjAIx",
+        "Result Album Name": "Eric Clapton & Friends - The Breeze (An Appreciation of JJ Cale)"
     },
     {
         "ATC Track": "UNC",
         "ATC Artists": [
             "Troy \"Trombone Shorty\" Andrews"
-        ]
+        ],
+        "Result Track Name": "Unc",
+        "Result Artist Names": [
+            "Trombone Shorty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0AOcbJgH2wBPhJ4DFDdLXv",
+        "Result Album Name": "For True"
     },
     {
         "Title": "An Idea That Stuck: How A Hymnal Bookmark Helped Inspire The Post-It Note",
@@ -82,7 +111,15 @@
         "ATC Track": "The War to End All Wars",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "The War to End All Wars",
+        "Result Artist Names": [
+            "Philip Glass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vAxvjwFI1aYIL05llDrGP",
+        "Result Album Name": "Music From The Fog of War"
     },
     {
         "ATC Track": "Steppin' Out",
@@ -90,6 +127,15 @@
             "Eric Clapton",
             "John Mayall",
             "the Bluesbreakers"
-        ]
+        ],
+        "Result Track Name": "Steppin' Out",
+        "Result Artist Names": [
+            "John Mayall & The Bluesbreakers",
+            "Eric Clapton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4XpLqmD7SxGzaKuTs07FM0",
+        "Result Album Name": "Bluesbreakers"
     }
 ]

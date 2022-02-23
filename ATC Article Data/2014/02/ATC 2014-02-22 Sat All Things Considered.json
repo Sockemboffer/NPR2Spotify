@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-02-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:07:59"
+        "Scanned Date": "2022-02-07 03:07:59",
+        "Playlist URI": "3rMeapLXay0DgGhKk1bkzT",
+        "Playlist Link": "https://open.spotify.com/playlist/3rMeapLXay0DgGhKk1bkzT",
+        "Snapshot ID": "MSw0NmZiMjE4NzMzOTI2NTk1MmRlNGU3MDkxN2RkZTQ4MDc4OGJiZjA4",
+        "Playlist Name": "ATC 2014-02-22 Sat All Things Considered"
     },
     {
         "Title": "Ukraine Parliament Votes President Out Of Power",
@@ -34,13 +38,29 @@
         "ATC Track": "Aerial",
         "ATC Artists": [
             "Keith Kenniff"
-        ]
+        ],
+        "Result Track Name": "Aerial",
+        "Result Artist Names": [
+            "Keith Kenniff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:534kzXahltXwaKYyUFvCjb",
+        "Result Album Name": "The Last Survivor"
     },
     {
         "ATC Track": "Faust",
         "ATC Artists": [
             "Pavel Dovgal"
-        ]
+        ],
+        "Result Track Name": "Faust",
+        "Result Artist Names": [
+            "Pavel Dovgal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3kwl9ycRoO7qSm6OZblqqB",
+        "Result Album Name": "Faust"
     },
     {
         "Title": "Notorious Mexican Drug Trafficker Arrested",
@@ -71,13 +91,28 @@
         "ATC Artists": [
             "J Dilla",
             "Common et. al."
-        ]
+        ],
+        "Result Track Name": "So Far to Go",
+        "Result Artist Names": [
+            "J Dilla",
+            "Common",
+            "D'Angelo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4omO3Xwm4REEK5HGT6e6yY",
+        "Result Album Name": "The Shining"
     },
     {
         "ATC Track": "Uneasy Listening, Vol. 1",
         "ATC Artists": [
             "DJ Z-Trip"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Where Are The Heroes To Save Pittsburgh's African-American Center?",
@@ -101,6 +136,14 @@
         "ATC Track": "Swiss Glide",
         "ATC Artists": [
             "Michna"
-        ]
+        ],
+        "Result Track Name": "Swiss Glide",
+        "Result Artist Names": [
+            "Michna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2t88r7q3BFb8OPUUwYkfNL",
+        "Result Album Name": "Magic Monday"
     }
 ]

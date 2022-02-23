@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-12-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:49:29"
+        "Scanned Date": "2022-02-07 02:49:29",
+        "Playlist URI": "5McUwKRodK6EZtwdOGQjdd",
+        "Playlist Link": "https://open.spotify.com/playlist/5McUwKRodK6EZtwdOGQjdd",
+        "Snapshot ID": "MSw4NjZhNWMzYTdkYWFjYWE2YWFkNjAwM2M1NTZiY2ZhZWRjNDU3ZDlk",
+        "Playlist Name": "ATC 2014-12-13 Sat All Things Considered"
     },
     {
         "Title": "Thousands March In Washington For 'Justice For All' Rally",
@@ -22,13 +26,26 @@
         "ATC Track": "For Teda",
         "ATC Artists": [
             "Ólafur Arnalds"
-        ]
+        ],
+        "Result Track Name": "For Teda",
+        "Result Artist Names": [
+            "Ólafur Arnalds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5i1aqzh0MacgXHCfD0mwrk",
+        "Result Album Name": "Two Songs for Dance"
     },
     {
         "ATC Track": "Balearic Incarnation (Todd Terje's Extra Doll Mix)",
         "ATC Artists": [
             "Dolle Jolle"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Former Guantanamo Bay Lawyer Reacts To Senate 'Torture' Report",
@@ -46,7 +63,15 @@
         "ATC Track": "Sunny's Song",
         "ATC Artists": [
             "Benevento-Russo Duo"
-        ]
+        ],
+        "Result Track Name": "Sunny's Song",
+        "Result Artist Names": [
+            "Benevento/Russo Duo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Njbke3AvuVlpqBYGU2GKK",
+        "Result Album Name": "Best Reason to Buy the Sun"
     },
     {
         "Title": "Adapting 'Inherent Vice' Made Director Feel Like A Student Again",
@@ -58,7 +83,15 @@
         "ATC Track": "Throwaway Age",
         "ATC Artists": [
             "The Pluto Walkers"
-        ]
+        ],
+        "Result Track Name": "The Throwaway Age",
+        "Result Artist Names": [
+            "Bob Irwin and the Pluto Walkers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1GBhgK1OgnT1RcIrSxlWua",
+        "Result Album Name": "The Throwaway Age"
     },
     {
         "Title": "Ruben Vives, From Undocumented Life To The Pulitzer Prize",
@@ -70,13 +103,29 @@
         "ATC Track": "Curt Flood",
         "ATC Artists": [
             "Joe Henry"
-        ]
+        ],
+        "Result Track Name": "Curt Flood",
+        "Result Artist Names": [
+            "Joe Henry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AJ6NUZcmo7FQ4sldR9WEc",
+        "Result Album Name": "Fuse"
     },
     {
         "ATC Track": "Superlove",
         "ATC Artists": [
             "Charli XCX"
-        ]
+        ],
+        "Result Track Name": "SuperLove",
+        "Result Artist Names": [
+            "Charli XCX"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VOc8XhPd85h5xQvePytPz",
+        "Result Album Name": "Superlove"
     },
     {
         "Title": "How 'Putin's Kleptocracy' Made His Friends Rich",
@@ -106,12 +155,28 @@
         "ATC Track": "Run To the Hills",
         "ATC Artists": [
             "Iron Maiden"
-        ]
+        ],
+        "Result Track Name": "Run to the Hills - 2015 Remaster",
+        "Result Artist Names": [
+            "Iron Maiden"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0sxYYT48UPkmrDx8p4Hnrl",
+        "Result Album Name": "The Number of the Beast (2015 - Remaster)"
     },
     {
         "ATC Track": "Clap",
         "ATC Artists": [
             "Yes"
-        ]
+        ],
+        "Result Track Name": "The Clap - 2003 Remaster",
+        "Result Artist Names": [
+            "Yes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4jPBOLovjf8w66PyTIhq26",
+        "Result Album Name": "The Yes Album (Deluxe Edition)"
     }
 ]

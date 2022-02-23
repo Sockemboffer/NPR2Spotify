@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-12-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:50:21"
+        "Scanned Date": "2022-02-07 02:50:21",
+        "Playlist URI": "1K9Pc3I1VlYswpUxkYuUDw",
+        "Playlist Link": "https://open.spotify.com/playlist/1K9Pc3I1VlYswpUxkYuUDw",
+        "Snapshot ID": "MSxhZTlmMmRhODIzYzYxMzJjN2NjYjQxMjgyNWMzZGFlMzU3ZTA2MDli",
+        "Playlist Name": "ATC 2014-12-28 Sun All Things Considered"
     },
     {
         "Title": "A Year And 7,000 Deaths Later, A Look At The Ebola Epidemic",
@@ -28,13 +32,29 @@
         "ATC Track": "Dictaphone's Lament",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Dictaphone's Lament",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HuAzrXrJV7gINMZ39CygH",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "ATC Track": "Evening Gospel",
         "ATC Artists": [
             "Rjd2"
-        ]
+        ],
+        "Result Track Name": "The Evening Gospel",
+        "Result Artist Names": [
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hrG1YHOhQ19FjpQdNEfi7",
+        "Result Album Name": "The Third Hand"
     },
     {
         "Title": "Remembering The Pioneering Audiologist Who Tested Hearing At Birth",
@@ -70,7 +90,15 @@
         "ATC Track": "Run Through the Jungle",
         "ATC Artists": [
             "Creedence Clearwater Revival"
-        ]
+        ],
+        "Result Track Name": "Run Through The Jungle",
+        "Result Artist Names": [
+            "Creedence Clearwater Revival"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6J0AjzrYsPZrQtw6IjErhy",
+        "Result Album Name": "Cosmo's Factory"
     },
     {
         "Title": "Lily McBeth Pioneered Classroom Opportunities For Transgender Teachers",
@@ -88,13 +116,26 @@
         "ATC Track": "Toot Sweet",
         "ATC Artists": [
             "Count Basie"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Fire Flies and Empty Skies",
         "ATC Artists": [
             "God Is an Astronaut"
-        ]
+        ],
+        "Result Track Name": "Fireflies and Empty Skies",
+        "Result Artist Names": [
+            "God Is An Astronaut"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0SGB0nFDl61RLJWwlZusla",
+        "Result Album Name": "All Is Violent, All Is Bright (2011 Remastered Edition)"
     },
     {
         "Title": "Scientists Discover That Drunk Birds Sing Like Drunks",
@@ -118,10 +159,26 @@
         "ATC Track": "Johnny B. Goode",
         "ATC Artists": [
             "Chuck Berry"
-        ]
+        ],
+        "Result Track Name": "Johnny B. Goode",
+        "Result Artist Names": [
+            "Chuck Berry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2",
+        "Result Album Name": "Berry Is On Top"
     },
     {
         "ATC Track": "With Rainy Eyes",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "With Rainy Eyes",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0lwCj5q9uzU7jlbQkrkuqU",
+        "Result Album Name": "Soon It Will Be Cold Enough"
     }
 ]

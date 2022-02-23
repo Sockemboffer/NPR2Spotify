@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-10-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:52:41"
+        "Scanned Date": "2022-02-07 02:52:41",
+        "Playlist URI": "5hfGjMJclWYEnEl6OXRtjb",
+        "Playlist Link": "https://open.spotify.com/playlist/5hfGjMJclWYEnEl6OXRtjb",
+        "Snapshot ID": "MSw2OWJkYmU5NDFhMjhmMjQ0NTc3NDAzNDE3Yzc2YTc4YjFmZTc5NTBm",
+        "Playlist Name": "ATC 2014-10-04 Sat All Things Considered"
     },
     {
         "Title": "Family Of Dallas Man With Ebola Quarantined As His Condition Worsens",
@@ -29,13 +33,27 @@
         "ATC Artists": [
             "Trent Reznor",
             "Atticus Ross"
-        ]
+        ],
+        "Result Track Name": "Still Gone",
+        "Result Artist Names": [
+            "Trent Reznor",
+            "Atticus Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0voqEzX9wWxsjwc6THiPLi",
+        "Result Album Name": "Gone Girl (Soundtrack from the Motion Picture)"
     },
     {
         "ATC Track": "Lightning Strike: What If This Storm Ends?/The Sunlight Through the Fla",
         "ATC Artists": [
             "Snow Patrol"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Pro-Democracy Unrest Continues In Hong Kong",
@@ -47,7 +65,15 @@
         "ATC Track": "Sort of Revolution",
         "ATC Artists": [
             "Fink"
-        ]
+        ],
+        "Result Track Name": "Sort Of Revolution",
+        "Result Artist Names": [
+            "Fink"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0fRLtGUlY9ZPzIjaCoGe7k",
+        "Result Album Name": "Sort of Revolution"
     },
     {
         "Title": "Horror Of Horrors: Is H.P. Lovecraft's Legacy Tainted?",
@@ -65,7 +91,15 @@
         "ATC Track": "Waves",
         "ATC Artists": [
             "Electric Guest"
-        ]
+        ],
+        "Result Track Name": "Waves",
+        "Result Artist Names": [
+            "Electric Guest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12GEv3kB19M52HvybQ6maU",
+        "Result Album Name": "Mondo"
     },
     {
         "Title": "First National Mall Memorial Honoring Disabled Vets Opens In D.C.",
@@ -83,7 +117,15 @@
         "ATC Track": "Only Hope",
         "ATC Artists": [
             "Switchfoot"
-        ]
+        ],
+        "Result Track Name": "Only Hope",
+        "Result Artist Names": [
+            "Switchfoot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pwhSBxhaF5x0WbNZRyzlD",
+        "Result Album Name": "New Way To Be Human"
     },
     {
         "Title": "Affleck: 'Gone Girl' Was Freeing, And 'Batman' Will Be No 'Daredevil'",
@@ -96,10 +138,28 @@
         "ATC Artists": [
             "Trent Reznor",
             "Atticus Ross"
-        ]
+        ],
+        "Result Track Name": "What Have We Done to Each Other?",
+        "Result Artist Names": [
+            "Trent Reznor",
+            "Atticus Ross"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4MZ5bInx0P1oZXbU8QPVeN",
+        "Result Album Name": "Gone Girl (Soundtrack from the Motion Picture)"
     },
     {
         "ATC Track": "New South Africa",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "New South Africa",
+        "Result Artist Names": [
+            "Béla Fleck",
+            "Abigail Washburn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4iLDm89exSxhdjEtzQ4Ctq",
+        "Result Album Name": "Béla Fleck & Abigail Washburn"
     }
 ]

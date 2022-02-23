@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-01-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:09:02"
+        "Scanned Date": "2022-02-07 03:09:02",
+        "Playlist URI": "0n6PfcibNgjzXNgbgsUJHq",
+        "Playlist Link": "https://open.spotify.com/playlist/0n6PfcibNgjzXNgbgsUJHq",
+        "Snapshot ID": "MSw5YmZlZTE2NmIwMmZmZjYxMDhiYmNjZDFmNzM2ZTFlMGM5NmNjZjIz",
+        "Playlist Name": "ATC 2014-01-12 Sun All Things Considered"
     },
     {
         "Title": "Internet In America: An On Again, Off Again Relationship",
@@ -22,7 +26,12 @@
         "ATC Track": "Chatanooga Choo Choo",
         "ATC Artists": [
             "George Benson"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Congress Gets A Beating In Gates Memoir, Too",
@@ -36,7 +45,16 @@
             "Dean Evenson",
             "Dean Evenson",
             "Soundings Ensemble et. al."
-        ]
+        ],
+        "Result Track Name": "River of Dreams",
+        "Result Artist Names": [
+            "Dean Evenson",
+            "Dudley Evenson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:5EJg08gXldlVUtXSDoYtlQ",
+        "Result Album Name": "Meditation Moods"
     },
     {
         "Title": "Why Live Award Shows Have High Value, Even When We Hate Them",
@@ -54,14 +72,28 @@
         "ATC Track": "Genova",
         "ATC Artists": [
             "Academy Studio Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Wildwood Flower",
         "ATC Artists": [
             "Charlie Haden",
             "Rosanne Cash"
-        ]
+        ],
+        "Result Track Name": "Wildwood Flower",
+        "Result Artist Names": [
+            "Charlie Haden",
+            "Rosanne Cash"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6RcbZMAmNlhfOXglyGvzXN",
+        "Result Album Name": "Charlie Haden Family & Friends - Rambling Boy"
     },
     {
         "Title": "Lessons On Blindness, 'For The Benefit Of Those Who See'",
@@ -80,13 +112,29 @@
         "ATC Artists": [
             "Sharon Jones",
             "the Dap-Kings"
-        ]
+        ],
+        "Result Track Name": "Long Time, Wrong Time",
+        "Result Artist Names": [
+            "Sharon Jones & The Dap-Kings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4lMgbTol0N8JM74r9zKE9a",
+        "Result Album Name": "Give the People What They Want"
     },
     {
         "ATC Track": "Reason",
         "ATC Artists": [
             "Sharon Jones",
             "the Dap-Kings"
-        ]
+        ],
+        "Result Track Name": "The Reason",
+        "Result Artist Names": [
+            "Sharon Jones & The Dap-Kings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00sG5JZyvLaOT8tnI41Wfc",
+        "Result Album Name": "I Learned the Hard Way"
     }
 ]

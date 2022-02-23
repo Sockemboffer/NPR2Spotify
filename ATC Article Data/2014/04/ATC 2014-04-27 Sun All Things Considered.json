@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-04-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:04:52"
+        "Scanned Date": "2022-02-07 03:04:52",
+        "Playlist URI": "7B8dcm0ZosXadbhJRndv9I",
+        "Playlist Link": "https://open.spotify.com/playlist/7B8dcm0ZosXadbhJRndv9I",
+        "Snapshot ID": "MSw5ZmIwMjUxM2M1NzhmM2Y0ZWEzOTczODIwY2EzMDJkM2NkYjUwYTQx",
+        "Playlist Name": "ATC 2014-04-27 Sun All Things Considered"
     },
     {
         "Title": "Aleppo Now A De Facto 'Partition City' In Syria",
@@ -28,7 +32,12 @@
         "ATC Track": "Saint Agnes and the Burning Train (St. Agnes Nokusha Kwe-Stimela)",
         "ATC Artists": [
             "Soweto String Quartet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cringe-Worthy Audio Has LA Clippers' Owner In Hot Water, Again",
@@ -52,7 +61,15 @@
         "ATC Track": "Ramble",
         "ATC Artists": [
             "Link Wray"
-        ]
+        ],
+        "Result Track Name": "Ramble",
+        "Result Artist Names": [
+            "Link Wray & The Wraymen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1jFuFGDM1IyH9ZRxOOqBem",
+        "Result Album Name": "Link Wray: Slinky! The Epic Sessions: 1958-1960"
     },
     {
         "Title": "Without Life-Saving Pact, This Doctor Would Have Been The Patient",
@@ -76,6 +93,14 @@
         "ATC Track": "All Along the Watchtower",
         "ATC Artists": [
             "Roy Mette"
-        ]
+        ],
+        "Result Track Name": "All Along the Watchtower",
+        "Result Artist Names": [
+            "Roy Andrews"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1hmfN65TGcWvIv35qIrXQx",
+        "Result Album Name": "Letters From Home"
     }
 ]

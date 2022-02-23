@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-09-07",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:54:46"
+        "Scanned Date": "2022-02-07 02:54:46",
+        "Playlist URI": "5zBivGJE7QVRRXxttWHkiy",
+        "Playlist Link": "https://open.spotify.com/playlist/5zBivGJE7QVRRXxttWHkiy",
+        "Snapshot ID": "MSxhOTNlNjNmZGRhNGZhYTE1ZDliOGIxOWZkZjUwOGEwMTMyM2M0OTVm",
+        "Playlist Name": "ATC 2014-09-07 Sun All Things Considered"
     },
     {
         "Title": "Managing Resources Key In Responding To Ebola Outbreak",
@@ -28,13 +32,29 @@
         "ATC Track": "Mora Roa",
         "ATC Artists": [
             "Leo Kottke"
-        ]
+        ],
+        "Result Track Name": "Mora Roa",
+        "Result Artist Names": [
+            "Leo Kottke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mAdvHMK4oADQQ2ZwPMeZl",
+        "Result Album Name": "Try And Stop Me"
     },
     {
         "ATC Track": "Trouble",
         "ATC Artists": [
             "Ryan Adams"
-        ]
+        ],
+        "Result Track Name": "Trouble",
+        "Result Artist Names": [
+            "Ryan Adams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7xfWkAqJiJOrtH6j8AbXlJ",
+        "Result Album Name": "Ryan Adams"
     },
     {
         "Title": "How Is ISIS Funding Its War?",
@@ -64,13 +84,26 @@
         "ATC Track": "Heart's on Fire",
         "ATC Artists": [
             "John Cafferty"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Rocky Song [Remix]",
         "ATC Artists": [
             "Ronald Jenkees"
-        ]
+        ],
+        "Result Track Name": "The Rocky Song Remixed",
+        "Result Artist Names": [
+            "Ronald Jenkees"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Urf7EVKh3eJSamutk3azF",
+        "Result Album Name": "Ronald Jenkees"
     },
     {
         "Title": "In Tournament Of Chess Titans, A New Challenger Dominates",
@@ -94,12 +127,28 @@
         "ATC Track": "Feels Like Fire",
         "ATC Artists": [
             "Ryan Adams"
-        ]
+        ],
+        "Result Track Name": "Feels Like Fire",
+        "Result Artist Names": [
+            "Ryan Adams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bYIIBiIsKjxMwjen0vh3U",
+        "Result Album Name": "Ryan Adams"
     },
     {
         "ATC Track": "Elizabeth, You Were Born to Play That Part",
         "ATC Artists": [
             "Ryan Adams"
-        ]
+        ],
+        "Result Track Name": "Elizabeth, You Were Born To Play That Part",
+        "Result Artist Names": [
+            "Ryan Adams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63SdQpVeDurGLThqVdcF12",
+        "Result Album Name": "29"
     }
 ]

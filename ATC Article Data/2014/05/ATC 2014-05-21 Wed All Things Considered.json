@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-05-21",
         "Day": "Wed",
-        "Scanned Date": "2022-02-07 03:02:43"
+        "Scanned Date": "2022-02-07 03:02:43",
+        "Playlist URI": "350HtBVZCksPi0pok9ybjn",
+        "Playlist Link": "https://open.spotify.com/playlist/350HtBVZCksPi0pok9ybjn",
+        "Snapshot ID": "MSwxNGNlMGNmNThjMTAzODI1YTMyNzEwMWYxMzNmOWFkOTAzYTgxM2Yw",
+        "Playlist Name": "ATC 2014-05-21 Wed All Things Considered"
     },
     {
         "Title": "Terrorist Group Suspected In Nigerian Attacks",
@@ -28,14 +32,27 @@
         "ATC Track": "Footsteps in My Ear",
         "ATC Artists": [
             "Poor Old Shine"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ginger Spice",
         "ATC Artists": [
             "Ginger Baker",
             "James Carter et. al."
-        ]
+        ],
+        "Result Track Name": "Ginger Spice",
+        "Result Artist Names": [
+            "Ginger Baker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:34Spqf5950XYfR6rYU2dJF",
+        "Result Album Name": "Why?"
     },
     {
         "Title": "Rift Divides U.S. And Russia About Space Station",
@@ -53,13 +70,30 @@
         "ATC Track": "Not-Imagined Nothingness",
         "ATC Artists": [
             "Royal Bangs"
-        ]
+        ],
+        "Result Track Name": "Not-Imagined Nothingness",
+        "Result Artist Names": [
+            "Royal Bangs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Aoxhq6FkjoooBro7d8htd",
+        "Result Album Name": "Brass"
     },
     {
         "ATC Track": "Great Balls of Fire",
         "ATC Artists": [
             "Sun Ra"
-        ]
+        ],
+        "Result Track Name": "Great Balls Of Fire",
+        "Result Artist Names": [
+            "Sun Ra",
+            "Sun Ra Arkestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5HNCla0RZ1j5CWQif2XFBK",
+        "Result Album Name": "Singles"
     },
     {
         "Title": "Court Fees Drive Many Poor Defendants Underground",
@@ -71,13 +105,23 @@
         "ATC Track": "Lovesick",
         "ATC Artists": [
             "Sinkane"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Giving up Food For Jah",
         "ATC Artists": [
             "The Lions"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "For Automakers, Internet-Connected Cars Are A Balancing Act",
@@ -95,13 +139,29 @@
         "ATC Track": "Wilderness",
         "ATC Artists": [
             "Royal Bangs"
-        ]
+        ],
+        "Result Track Name": "Wilderness",
+        "Result Artist Names": [
+            "Royal Bangs"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3N7ZWl9iIAMWuCe4tqU6nD",
+        "Result Album Name": "Brass"
     },
     {
         "ATC Track": "Jeeper Creeper",
         "ATC Artists": [
             "Sinkane"
-        ]
+        ],
+        "Result Track Name": "Jeeper Creeper",
+        "Result Artist Names": [
+            "Sinkane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oA0s6gVwywsdHt6CchH6U",
+        "Result Album Name": "MARS"
     },
     {
         "Title": "Wait Times Scandal At VA Moves To Front Burner",
@@ -125,13 +185,29 @@
         "ATC Track": "Heart of Gold",
         "ATC Artists": [
             "Leyla McCalla"
-        ]
+        ],
+        "Result Track Name": "Heart of Gold",
+        "Result Artist Names": [
+            "Leyla McCalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ebjrZTWAZaTcHUF72ASUF",
+        "Result Album Name": "Heart of Gold"
     },
     {
         "ATC Track": "Welcome To Frankfurt",
         "ATC Artists": [
             "Charlie Hunter"
-        ]
+        ],
+        "Result Track Name": "Welcome to Frankfurt",
+        "Result Artist Names": [
+            "Charlie Hunter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mZc1Zvxqc3Z7KFTxE9gss",
+        "Result Album Name": "Baboon Strength"
     },
     {
         "Title": "Take Photos To Remember Your Experiences? Think Again",
@@ -143,7 +219,15 @@
         "ATC Track": "Dye",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Dye",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GLKuZMs9FHwoO9su6ZB5P",
+        "Result Album Name": "Awake"
     },
     {
         "ATC Track": "Hours After",
@@ -151,7 +235,16 @@
             "Sun Ra",
             "Le Sun Ra",
             "His Arkestra"
-        ]
+        ],
+        "Result Track Name": "Hours After",
+        "Result Artist Names": [
+            "Sun Ra",
+            "Sun Ra Arkestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8333333333333334,
+        "Result Track URI": "spotify:track:5xx0EzyiCBftGz7uDIBgxJ",
+        "Result Album Name": "Singles"
     },
     {
         "Title": "JPMorgan Chase Announces Detroit Investment",
@@ -169,7 +262,15 @@
         "ATC Track": "Flux and Meter",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "Flux and Meter",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gMk2PF7qu73CKSNnZnzqp",
+        "Result Album Name": "A Little Bit of Somethin'"
     },
     {
         "Title": "Invoking 'Castle Doctrine,' Mont. Man Pleads Not Guilty In Teen's Death",
@@ -181,13 +282,29 @@
         "ATC Track": "Grand Central",
         "ATC Artists": [
             "Warren Wolf"
-        ]
+        ],
+        "Result Track Name": "Grand Central",
+        "Result Artist Names": [
+            "Warren Wolf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nWuIeHNUfAQcPvfTgVd3n",
+        "Result Album Name": "Wolfgang"
     },
     {
         "ATC Track": "Like a Ghost in Your Own Life",
         "ATC Artists": [
             "Ulrich Schnauss"
-        ]
+        ],
+        "Result Track Name": "Like a Ghost in Your Own Life",
+        "Result Artist Names": [
+            "Ulrich Schnauss"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63HiPb83AkcNWkEMa869dc",
+        "Result Album Name": "A Long Way to Fall"
     },
     {
         "Title": "The 1,000-Year-Old Schism That Pope Francis Seeks To Heal ",
@@ -205,12 +322,28 @@
         "ATC Track": "Silence Magnifies Sound",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Silence Magnifies Sound",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nOPdOudhr1lMr1ZTVFs1T",
+        "Result Album Name": "Silence Magnifies Sound"
     },
     {
         "ATC Track": "Body and Soul",
         "ATC Artists": [
             "William Onyeabor"
-        ]
+        ],
+        "Result Track Name": "Body and Soul",
+        "Result Artist Names": [
+            "William Onyeabor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:43q9SYFiYHMNgUDNzxm3WI",
+        "Result Album Name": "World Psychedelic Classics 5: Who Is William Onyeabor?"
     }
 ]

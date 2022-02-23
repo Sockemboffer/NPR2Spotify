@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-03-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:05:31"
+        "Scanned Date": "2022-02-07 03:05:31",
+        "Playlist URI": "6UdpbVsOad6AJioIVFwUv1",
+        "Playlist Link": "https://open.spotify.com/playlist/6UdpbVsOad6AJioIVFwUv1",
+        "Snapshot ID": "MSwwMDVjZjkxNjQ5MjBiZmRjYWFmZDI4MTFmZjA2YzllZjJkMjEwOGFh",
+        "Playlist Name": "ATC 2014-03-09 Sun All Things Considered"
     },
     {
         "Title": "Search Teams Work Around The Clock To Find Malaysian Airlines Flight",
@@ -28,13 +32,26 @@
         "ATC Track": "Rein",
         "ATC Artists": [
             "Original Motion Picture Soundtrack"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Concept 1",
         "ATC Artists": [
             "Kodomo"
-        ]
+        ],
+        "Result Track Name": "Concept 1",
+        "Result Artist Names": [
+            "Kodomo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55bFnrLvc4tUvHVngYhMV3",
+        "Result Album Name": "Still Life"
     },
     {
         "Title": "China's Crackdown On Corruption Opens Door To Abuse",
@@ -44,7 +61,15 @@
     },
     {
         "ATC Track": "But... Guai?",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "But...Guai?",
+        "Result Artist Names": [
+            "Gustavo Santaolalla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1h756B6nroRxy9KxCWKojc",
+        "Result Album Name": "Biutiful"
     },
     {
         "Title": "The '60s Are Gone, But Psychedelic Research Trip Continues",
@@ -56,7 +81,15 @@
         "ATC Track": "Super Like Vision",
         "ATC Artists": [
             "Supervision"
-        ]
+        ],
+        "Result Track Name": "Super Like Vision",
+        "Result Artist Names": [
+            "SuperVision"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:351eUrGUHMmEbZt7p0iIMv",
+        "Result Album Name": "Telekinetic"
     },
     {
         "Title": "Keeping The French Language Alive In Quebec",
@@ -81,12 +114,29 @@
         "ATC Artists": [
             "Dianne Reeves",
             "Raul Midón"
-        ]
+        ],
+        "Result Track Name": "Tango",
+        "Result Artist Names": [
+            "Dianne Reeves",
+            "Raul Midón"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AcIbXolPppZ4rzcGvatx8",
+        "Result Album Name": "Beautiful Life"
     },
     {
         "ATC Track": "Jazzhole",
         "ATC Artists": [
             "Free the Robots"
-        ]
+        ],
+        "Result Track Name": "Jazzhole",
+        "Result Artist Names": [
+            "Free the Robots"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3WfLsIeKFsLLnZSGaIEEt9",
+        "Result Album Name": "Free the Robots EP"
     }
 ]

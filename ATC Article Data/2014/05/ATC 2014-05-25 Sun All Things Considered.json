@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-05-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:02:55"
+        "Scanned Date": "2022-02-07 03:02:55",
+        "Playlist URI": "0vNJDP4IuLnIq8mKIl9TfH",
+        "Playlist Link": "https://open.spotify.com/playlist/0vNJDP4IuLnIq8mKIl9TfH",
+        "Snapshot ID": "MSxhZDAyOWE4Yjc2MDQzNWE5NGMwNzY1MDNmYjMwYzJiMTk2ZGRhNjIy",
+        "Playlist Name": "ATC 2014-05-25 Sun All Things Considered"
     },
     {
         "Title": "Calif. Community Struggles For Answers In Wake Of Killing Spree",
@@ -28,7 +32,15 @@
         "ATC Track": "Demons",
         "ATC Artists": [
             "Jon Kennedy"
-        ]
+        ],
+        "Result Track Name": "Demons",
+        "Result Artist Names": [
+            "Jon Kennedy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vzbh7K1A586B3cv0rLyhA",
+        "Result Album Name": "14"
     },
     {
         "Title": "Obama Addresses Troops In Afghanistan On Eve Of Memorial Day",
@@ -52,13 +64,26 @@
         "ATC Track": "Jurassic Park, film score",
         "ATC Artists": [
             "Erich Kunzel"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "I'm Gonna Love You Just a Little More Baby",
         "ATC Artists": [
             "Barry White"
-        ]
+        ],
+        "Result Track Name": "I'm Gonna Love You Just A Little More Baby",
+        "Result Artist Names": [
+            "Barry White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QR3Wcba5NBidmxEE8DW3w",
+        "Result Album Name": "I've Got So Much To Give"
     },
     {
         "Title": "World War II In A New 'Light': Empathy Found In Surprising Places",
@@ -76,6 +101,14 @@
         "ATC Track": "Instrumental",
         "ATC Artists": [
             "Chuck Berry"
-        ]
+        ],
+        "Result Track Name": "Night Beat - Take 3 / Instrumental",
+        "Result Artist Names": [
+            "Chuck Berry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qzppq4HuzgWbNOV9JN26K",
+        "Result Album Name": "Johnny B. Goode: His Complete '50s Chess Recordings"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-06-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:59:44"
+        "Scanned Date": "2022-02-07 02:59:44",
+        "Playlist URI": "6r8pu9MxC0TWx2ydsJQwDF",
+        "Playlist Link": "https://open.spotify.com/playlist/6r8pu9MxC0TWx2ydsJQwDF",
+        "Snapshot ID": "MSw2OGUyOTgyNjBjZWU5Y2VlNWRhZDEzOTBmZGE5NzhmZWY1YjhkZTYx",
+        "Playlist Name": "ATC 2014-06-01 Sun All Things Considered"
     },
     {
         "Title": "'Freedom Is Yours': American POW Is On His Way Home",
@@ -28,13 +32,29 @@
         "ATC Track": "Ballad of Sparrow Young",
         "ATC Artists": [
             "The Gentleman Losers"
-        ]
+        ],
+        "Result Track Name": "Ballad of Sparrow Young",
+        "Result Artist Names": [
+            "The Gentleman Losers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2H9uEH1L9PJ44f0TCdLnoc",
+        "Result Album Name": "Dustland"
     },
     {
         "ATC Track": "Tulpa Ovi",
         "ATC Artists": [
             "Robag Wruhme"
-        ]
+        ],
+        "Result Track Name": "Tulpa Ovi",
+        "Result Artist Names": [
+            "Robag Wruhme"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Kv08WTW66nvnt9PrUf70H",
+        "Result Album Name": "Thora Vukk"
     },
     {
         "Title": "When A Bullet Misses Its Target, It Can Still Kill",
@@ -52,7 +72,15 @@
         "ATC Track": "She Caught the Katy and Left Me a Mule to Ride",
         "ATC Artists": [
             "Albert King"
-        ]
+        ],
+        "Result Track Name": "She Caught The Katy And Left Me A Mule To Ride",
+        "Result Artist Names": [
+            "Albert King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gja46dKSWfNvM0xnvEzjy",
+        "Result Album Name": "Stax Profiles: Albert King"
     },
     {
         "Title": "'Remember Me Like This': A Family Rebuilds In Tragedy's Aftermath",
@@ -76,12 +104,29 @@
         "ATC Track": "I'm Diggin' You (Like an Old Soul Record)",
         "ATC Artists": [
             "Meshell Ndegeocello"
-        ]
+        ],
+        "Result Track Name": "I'm Diggin' You - Like an Old Soul Record",
+        "Result Artist Names": [
+            "Meshell Ndegeocello"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zqGtpZZ0WQrxvFVCGOb91",
+        "Result Album Name": "Plantation Lullabies"
     },
     {
         "ATC Track": "Dead End",
         "ATC Artists": [
             "Meshell Ndegeocello"
-        ]
+        ],
+        "Result Track Name": "Dead End",
+        "Result Artist Names": [
+            "Nicki Casper",
+            "Meshell Ndegeocello"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6z0oZNXOkI509th6QO8MoR",
+        "Result Album Name": "Weather"
     }
 ]

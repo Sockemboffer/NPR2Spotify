@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-02-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:07:11"
+        "Scanned Date": "2022-02-07 03:07:11",
+        "Playlist URI": "6RrH7lKr6MgBRZlkD2vsWn",
+        "Playlist Link": "https://open.spotify.com/playlist/6RrH7lKr6MgBRZlkD2vsWn",
+        "Snapshot ID": "MSwyNTg3OWUzY2IwNzdlN2UyMjViMDNiODllYzg2OTY0MmFjNmQ0YTRl",
+        "Playlist Name": "ATC 2014-02-08 Sat All Things Considered"
     },
     {
         "Title": "When It Comes To Human Rights, Is Russia Moving Backward?",
@@ -16,7 +20,12 @@
         "ATC Track": "Olympic Fanfare and Theme, for orchestra",
         "ATC Artists": [
             "Various"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "After Decade-Long Fight, Ski Jumper Lindsey Van Is 'Ready To Fly'",
@@ -28,13 +37,29 @@
         "ATC Track": "Fake Fur",
         "ATC Artists": [
             "Calexico"
-        ]
+        ],
+        "Result Track Name": "Fake Fur",
+        "Result Artist Names": [
+            "Calexico"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ysd6D627ntBKWWybud8uK",
+        "Result Album Name": "The Black Light"
     },
     {
         "ATC Track": "Reset",
         "ATC Artists": [
             "MUTEMATH"
-        ]
+        ],
+        "Result Track Name": "Reset",
+        "Result Artist Names": [
+            "Mutemath"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mqVZUM5rkUAgwLHc44Yve",
+        "Result Album Name": "Mutemath"
     },
     {
         "Title": "Justice Department Extends New Privileges To Gay Marriages",
@@ -64,13 +89,29 @@
         "ATC Track": "Blue Caravan",
         "ATC Artists": [
             "Vienna Teng"
-        ]
+        ],
+        "Result Track Name": "Blue Caravan",
+        "Result Artist Names": [
+            "Vienna Teng"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3NaEdeSHPSQSrLhMLoepQQ",
+        "Result Album Name": "Dreaming Through The Noise"
     },
     {
         "ATC Track": "Wicked Flee",
         "ATC Artists": [
             "Carter Burwell"
-        ]
+        ],
+        "Result Track Name": "The Wicked Flee",
+        "Result Artist Names": [
+            "Carter Burwell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0N3GwdrDtIjmzebv0JKBYY",
+        "Result Album Name": "True Grit"
     },
     {
         "Title": "Lessons On Addiction And Escaping The 'Death Grip From Satan'",
@@ -100,12 +141,25 @@
         "ATC Track": "Coming Up",
         "ATC Artists": [
             "Cornershop"
-        ]
+        ],
+        "Result Track Name": "Coming Up",
+        "Result Artist Names": [
+            "Cornershop"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05XJHrGu6M96iy0Jxm9BjR",
+        "Result Album Name": "When I Was Born For The 7th Time (Expanded)"
     },
     {
         "ATC Track": "Bridge Through Time",
         "ATC Artists": [
             "Apollo Brown"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

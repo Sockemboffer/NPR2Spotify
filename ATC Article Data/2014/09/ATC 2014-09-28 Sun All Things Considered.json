@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-09-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:55:57"
+        "Scanned Date": "2022-02-07 02:55:57",
+        "Playlist URI": "5drvQ955DDBxkoYuvVEdSp",
+        "Playlist Link": "https://open.spotify.com/playlist/5drvQ955DDBxkoYuvVEdSp",
+        "Snapshot ID": "MSwxOTJhNmY3NGU2MmIzNzNhNjk3MjZiYTUxNzhhOWNiZDAzMWM5YTUx",
+        "Playlist Name": "ATC 2014-09-28 Sun All Things Considered"
     },
     {
         "Title": "Hong Kong Police Answer Large Pro-Democracy Protest With Tear Gas",
@@ -28,13 +32,29 @@
         "ATC Track": "Intro",
         "ATC Artists": [
             "The xx"
-        ]
+        ],
+        "Result Track Name": "Intro",
+        "Result Artist Names": [
+            "The xx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VfEuwErhx6X4eaPbyBfyu",
+        "Result Album Name": "xx"
     },
     {
         "ATC Track": "Companions",
         "ATC Artists": [
             "The Dodos"
-        ]
+        ],
+        "Result Track Name": "Companions",
+        "Result Artist Names": [
+            "The Dodos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:509TJxD5frxrLykGARhOTg",
+        "Result Album Name": "No Color"
     },
     {
         "Title": "To Counter Gun Violence, Researchers Seek Deeper Data",
@@ -52,7 +72,15 @@
         "ATC Track": "Houston in Two Seconds",
         "ATC Artists": [
             "Ry Cooder"
-        ]
+        ],
+        "Result Track Name": "Houston in Two Seconds",
+        "Result Artist Names": [
+            "Ry Cooder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5gBX4Uep0ydT8AZsPUOKWd",
+        "Result Album Name": "Music by Ry Cooder"
     },
     {
         "Title": "An Inviting Apocalypse",
@@ -64,7 +92,17 @@
         "ATC Track": "Become Ocean",
         "ATC Artists": [
             "John Luther Adams"
-        ]
+        ],
+        "Result Track Name": "Become Ocean",
+        "Result Artist Names": [
+            "John Luther Adams",
+            "Seattle Symphony Orchestra",
+            "Ludovic Morlot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ne5itrohiBOTy425hrBGJ",
+        "Result Album Name": "John Luther Adams: Become Ocean"
     },
     {
         "Title": "Finding Depression In The Blood Stream",
@@ -95,12 +133,25 @@
         "ATC Artists": [
             "Enrique Iglesias",
             "Descember Bueno et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Livin' La Vida Loca",
         "ATC Artists": [
             "Ricky Martin"
-        ]
+        ],
+        "Result Track Name": "Livin' la Vida Loca",
+        "Result Artist Names": [
+            "Ricky Martin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ph6L4l8dYUuXFmb71Ajnd",
+        "Result Album Name": "Ricky Martin"
     }
 ]

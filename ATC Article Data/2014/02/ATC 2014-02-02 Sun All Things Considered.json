@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-02-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:06:48"
+        "Scanned Date": "2022-02-07 03:06:48",
+        "Playlist URI": "5xtCSyHyvdXeHIEeCGZR28",
+        "Playlist Link": "https://open.spotify.com/playlist/5xtCSyHyvdXeHIEeCGZR28",
+        "Snapshot ID": "MSwwYjE2ZDMwY2Q2ZWE5M2I0YWMyYmExNzg5MmUwMWFiOWNkOTU2YmNi",
+        "Playlist Name": "ATC 2014-02-02 Sun All Things Considered"
     },
     {
         "Title": "Obama's State Of The Union And Your Economic Reality",
@@ -16,13 +20,30 @@
         "ATC Track": "Acid Raindrops",
         "ATC Artists": [
             "People Under the Stairs feat. Camel MC"
-        ]
+        ],
+        "Result Track Name": "Acid Raindrops",
+        "Result Artist Names": [
+            "People Under The Stairs",
+            "Camel MC"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9230769230769231,
+        "Result Track URI": "spotify:track:5vh9GfhmvKwEGN7uCwtGwp",
+        "Result Album Name": "O.S.T."
     },
     {
         "ATC Track": "Things Ain't What They Used to Be",
         "ATC Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Things Ain’t What They Used To Be",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52n7hZ1oXYeeNSZpxFixSg",
+        "Result Album Name": "Berlin 1959"
     },
     {
         "Title": "Philip Seymour Hoffman: An 'Uncanny' Actor Of Stage And Screen",
@@ -46,7 +67,15 @@
         "ATC Track": "Angeles",
         "ATC Artists": [
             "Elliott Smith"
-        ]
+        ],
+        "Result Track Name": "Angeles",
+        "Result Artist Names": [
+            "Elliott Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uwN3PDudlRkAKE3wA0OqJ",
+        "Result Album Name": "Either/Or"
     },
     {
         "Title": "A Century Ago Today, Chaplin Made His Film Debut — In A Dud",
@@ -58,7 +87,15 @@
         "ATC Track": "Hold On",
         "ATC Artists": [
             "Alabama Shakes"
-        ]
+        ],
+        "Result Track Name": "Hold On",
+        "Result Artist Names": [
+            "Alabama Shakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EuvOdyyzhFUP2z3gfr6xz",
+        "Result Album Name": "Boys & Girls"
     },
     {
         "Title": "Following Oil Boom In N. Dakota: A Cultural Blooming?",
@@ -76,7 +113,15 @@
         "ATC Track": "The Porch",
         "ATC Artists": [
             "Beats Antique"
-        ]
+        ],
+        "Result Track Name": "The Porch",
+        "Result Artist Names": [
+            "Beats Antique"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2FIgCyfDeIPxGgi4AlrAal",
+        "Result Album Name": "Elektrafone"
     },
     {
         "Title": "Duke Ellington's Lost Opera, Forever A Work In Progress",
@@ -86,18 +131,44 @@
     },
     {
         "ATC Track": "New York, New York",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Theme From New York, New York",
+        "Result Artist Names": [
+            "Frank Sinatra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3QksrtI9VFCBHWA4rgvcV8",
+        "Result Album Name": "Trilogy: Past, Present & Future"
     },
     {
         "ATC Track": "IN A SENTIMENTAL MOOD",
         "ATC Artists": [
             "DUKE ELLINGTON"
-        ]
+        ],
+        "Result Track Name": "In A Sentimental Mood",
+        "Result Artist Names": [
+            "Duke Ellington",
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0E8q2Fx2XuzXCO2NSAppkR",
+        "Result Album Name": "Duke Ellington & John Coltrane"
     },
     {
         "ATC Track": "Angelica",
         "ATC Artists": [
             "Duke Ellington"
-        ]
+        ],
+        "Result Track Name": "Angelica",
+        "Result Artist Names": [
+            "Duke Ellington",
+            "John Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2v23xmRCUxLWHRsrLkQWD2",
+        "Result Album Name": "Duke Ellington & John Coltrane"
     }
 ]

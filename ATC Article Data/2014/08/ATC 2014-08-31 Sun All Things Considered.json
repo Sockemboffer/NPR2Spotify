@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-08-31",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:57:54"
+        "Scanned Date": "2022-02-07 02:57:54",
+        "Playlist URI": "6HT5hZS3wGTUzq8is1tIWm",
+        "Playlist Link": "https://open.spotify.com/playlist/6HT5hZS3wGTUzq8is1tIWm",
+        "Snapshot ID": "MSxmNDM1MGZhOTNkZDZlMmIyZDNkMmM1M2E3NDAzYzZjYmQzZjJmMWY4",
+        "Playlist Name": "ATC 2014-08-31 Sun All Things Considered"
     },
     {
         "Title": "Islamic State Suffers Rare Defeat In Amerli",
@@ -28,13 +32,29 @@
         "ATC Track": "Something Good",
         "ATC Artists": [
             "Alt-J"
-        ]
+        ],
+        "Result Track Name": "Something Good",
+        "Result Artist Names": [
+            "alt-J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xqxETvPg43KWP0HOGiOmu",
+        "Result Album Name": "An Awesome Wave"
     },
     {
         "ATC Track": "Los Angeles",
         "ATC Artists": [
             "Phosphorescent"
-        ]
+        ],
+        "Result Track Name": "Los Angeles",
+        "Result Artist Names": [
+            "Phosphorescent"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72vhxJKILTEef8rb5JTK3P",
+        "Result Album Name": "Here's To Taking It Easy"
     },
     {
         "Title": "Guantanamo Defense Lawyer Resigns, Says U.S. Case Is 'Stacked'",
@@ -46,7 +66,15 @@
         "ATC Track": "Colours To Life",
         "ATC Artists": [
             "Temples"
-        ]
+        ],
+        "Result Track Name": "Colours to Life",
+        "Result Artist Names": [
+            "Temples"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gpSlRugtRUT1hD2jE5NKu",
+        "Result Album Name": "Sun Structures (Deluxe Version)"
     },
     {
         "Title": "X Prize Competition Could Make 'Tricorder' A Reality",
@@ -64,13 +92,29 @@
         "ATC Track": "Auctioneer",
         "ATC Artists": [
             "Leroy Van Dyke"
-        ]
+        ],
+        "Result Track Name": "The Auctioneer",
+        "Result Artist Names": [
+            "Leroy Van Dyke"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1SsgvhtFDZIQyYck9Kh2Hg",
+        "Result Album Name": "Golden Hits - The World's Most Famous Auctioneer"
     },
     {
         "ATC Track": "About To Die",
         "ATC Artists": [
             "Dirty Projectors"
-        ]
+        ],
+        "Result Track Name": "About to Die",
+        "Result Artist Names": [
+            "Dirty Projectors"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2L5BtrLKHmv6GN0KQ8j7p3",
+        "Result Album Name": "Swing Lo Magellan"
     },
     {
         "Title": "'A Thousand Mirrors' Shows Two Views Of One Long, Brutal War",
@@ -82,7 +126,15 @@
         "ATC Track": "Hard to Tell",
         "ATC Artists": [
             "Young Galaxy"
-        ]
+        ],
+        "Result Track Name": "Hard to Tell",
+        "Result Artist Names": [
+            "Young Galaxy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66r1EL9kQuzFs97TwD87MT",
+        "Result Album Name": "Ultramarine"
     },
     {
         "Title": "Bostonians: Success Of Whitey Bulger Movie Hangs On The Accent",
@@ -100,12 +152,25 @@
         "ATC Track": "The Feels",
         "ATC Artists": [
             "Ty Segall"
-        ]
+        ],
+        "Result Track Name": "The Feels",
+        "Result Artist Names": [
+            "Ty Segall"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:53zk0mwU9fmUO9aimtTbV9",
+        "Result Album Name": "Manipulator"
     },
     {
         "ATC Track": "Music for a Film, Pt. 1",
         "ATC Artists": [
             "Ty Segall"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

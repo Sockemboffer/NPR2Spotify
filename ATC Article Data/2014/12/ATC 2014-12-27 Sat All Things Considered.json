@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-12-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:50:19"
+        "Scanned Date": "2022-02-07 02:50:19",
+        "Playlist URI": "2eg38ob4x6vKjbYopTaeiX",
+        "Playlist Link": "https://open.spotify.com/playlist/2eg38ob4x6vKjbYopTaeiX",
+        "Snapshot ID": "MSxkY2EzY2FjN2IzMDAzYjhhODkzYWMxMGY3ZDUzYWYxNzk5NWUzYmQw",
+        "Playlist Name": "ATC 2014-12-27 Sat All Things Considered"
     },
     {
         "Title": "Slain NYPD Officer's Funeral Draws Mourners From Around The Country",
@@ -34,13 +38,29 @@
         "ATC Track": "Bella Marie [Instrumental]",
         "ATC Artists": [
             "Megafaun"
-        ]
+        ],
+        "Result Track Name": "Bella Marie",
+        "Result Artist Names": [
+            "Megafaun"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6A0p1XuHe4wd8FQEFiod7T",
+        "Result Album Name": "Gather, Form & Fly"
     },
     {
         "ATC Track": "You Send Me",
         "ATC Artists": [
             "George Winston"
-        ]
+        ],
+        "Result Track Name": "You Send Me",
+        "Result Artist Names": [
+            "George Winston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5U6GL0gPBrY44wJbkRKE2A",
+        "Result Album Name": "Montana: A Love Story"
     },
     {
         "Title": "In Southwestern Pennsylvania, Some Heroin Problems Persist",
@@ -71,13 +91,30 @@
         "ATC Artists": [
             "Curtis Burch",
             "Tut Taylor"
-        ]
+        ],
+        "Result Track Name": "Lonesome Dobro",
+        "Result Artist Names": [
+            "Curtis Burch",
+            "Tut Taylor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1EZm7WHzwKSGLEHLDRcyWV",
+        "Result Album Name": "Great Country & Bluegrass Dobro"
     },
     {
         "ATC Track": "Peaches and Diesel",
         "ATC Artists": [
             "Eric Clapton"
-        ]
+        ],
+        "Result Track Name": "Peaches And Diesel",
+        "Result Artist Names": [
+            "Eric Clapton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Ahz461HRMTb87MMGT8AUY",
+        "Result Album Name": "Slowhand 35th Anniversary"
     },
     {
         "Title": "For Hollywood, 'Selma' Is A New Kind Of Civil Rights Story",
@@ -107,6 +144,11 @@
         "ATC Track": "Blues Hangover",
         "ATC Artists": [
             "Ray Charles"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

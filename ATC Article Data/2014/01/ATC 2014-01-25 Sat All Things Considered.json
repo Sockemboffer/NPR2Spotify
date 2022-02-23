@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-01-25",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:09:48"
+        "Scanned Date": "2022-02-07 03:09:48",
+        "Playlist URI": "3FyMNiulR7pWIgcloKMWI6",
+        "Playlist Link": "https://open.spotify.com/playlist/3FyMNiulR7pWIgcloKMWI6",
+        "Snapshot ID": "MSw0NjVmN2VhMTJiNDg5NjdmM2U4NTFlMjcxMDc1MTkxOTkzYWQyZGEw",
+        "Playlist Name": "ATC 2014-01-25 Sat All Things Considered"
     },
     {
         "Title": "Three Years After Uprising, Egypt Remains Deeply Divided",
@@ -34,7 +38,15 @@
         "ATC Track": "Nocturne in a Minor",
         "ATC Artists": [
             "Chad Lawson"
-        ]
+        ],
+        "Result Track Name": "Nocturne in a Minor",
+        "Result Artist Names": [
+            "Chad Lawson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5edzZx7AiRFOUNZtyQJAGW",
+        "Result Album Name": "The Piano"
     },
     {
         "Title": "West Virginians Confused About Water Safety, Despite State's All Clear",
@@ -47,7 +59,16 @@
         "ATC Artists": [
             "Hilary Hahn",
             "Hauschka"
-        ]
+        ],
+        "Result Track Name": "Ashes",
+        "Result Artist Names": [
+            "Hilary Hahn",
+            "Hauschka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5xRA3nYyQmcWzKFSPkfXkr",
+        "Result Album Name": "Silfra"
     },
     {
         "Title": "Computers Are The Future, But Does Everyone Need To Code?",
@@ -72,13 +93,31 @@
         "ATC Artists": [
             "Angélique Kidjo",
             "Kronos Quartet"
-        ]
+        ],
+        "Result Track Name": "Ebile",
+        "Result Artist Names": [
+            "Angelique Kidjo",
+            "Kronos Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:2n122zZHrFJm8tUG4SHOZL",
+        "Result Album Name": "EVE"
     },
     {
         "ATC Track": "Come Together",
         "ATC Artists": [
             "Avishai Cohen"
-        ]
+        ],
+        "Result Track Name": "Come Together",
+        "Result Artist Names": [
+            "Avishai Cohen",
+            "Mark Guiliana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:72XQwgajsGkdOwK1CE4Mqs",
+        "Result Album Name": "Lyla"
     },
     {
         "Title": "The Mystery Of Isabel Allende: Author Explores New Genre",
@@ -96,20 +135,47 @@
         "ATC Track": "Orisha",
         "ATC Artists": [
             "Angélique Kidjo"
-        ]
+        ],
+        "Result Track Name": "Orisha",
+        "Result Artist Names": [
+            "Angelique Kidjo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6ltX2MhYQWhuwwijQEkzCO",
+        "Result Album Name": "EVE"
     },
     {
         "ATC Track": "Kulumbu",
         "ATC Artists": [
             "Angélique Kidjo",
             "Dr. John"
-        ]
+        ],
+        "Result Track Name": "Kulumbu",
+        "Result Artist Names": [
+            "Angelique Kidjo",
+            "Dr. John"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:50rzPmzDX7XfU3nfbvn6Pd",
+        "Result Album Name": "Eve"
     },
     {
         "ATC Track": "Pearls",
         "ATC Artists": [
             "Angélique Kidjo",
             "Josh Groban et. al."
-        ]
+        ],
+        "Result Track Name": "Pearls",
+        "Result Artist Names": [
+            "Angelique Kidjo",
+            "Santana",
+            "Josh Groban"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:77VFKey7PS6B4YKPTsnBvO",
+        "Result Album Name": "Djin Djin"
     }
 ]

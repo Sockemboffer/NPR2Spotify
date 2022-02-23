@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-11-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 02:51:07"
+        "Scanned Date": "2022-02-07 02:51:07",
+        "Playlist URI": "5e0b87cn5DrKNIzAwwZk4x",
+        "Playlist Link": "https://open.spotify.com/playlist/5e0b87cn5DrKNIzAwwZk4x",
+        "Snapshot ID": "MSw1NGI1ZmQ1ODdjZDE4ODIzNzY5OWRjNWE1ZmE5ODE0NTk1MDhiYzNk",
+        "Playlist Name": "ATC 2014-11-09 Sun All Things Considered"
     },
     {
         "Title": "Los Angeles Cemetery Honors Veterans With 170K Flags",
@@ -28,13 +32,31 @@
         "ATC Track": "Opening",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Opening",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Bruce Brubaker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QmhkjuUlosROqKk59sBSK",
+        "Result Album Name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran"
     },
     {
         "ATC Track": "Closing",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "String Quartet No. 3, \"Mishima\": VI. Mishima / Closing",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Carducci String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qZh3yJ7tILlDD0Wmv7Ftj",
+        "Result Album Name": "Glass: String Quartets Nos. 1-4"
     },
     {
         "Title": "Low Gas Prices Haven't Slowed Domestic Drilling — Yet",
@@ -52,7 +74,15 @@
         "ATC Track": "First Plane Home",
         "ATC Artists": [
             "Flamin' Groovies"
-        ]
+        ],
+        "Result Track Name": "First Plane Home",
+        "Result Artist Names": [
+            "Flamin' Groovies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Nls6BhD3g0KCveNF5uVOe",
+        "Result Album Name": "Groovies Greatest Grooves"
     },
     {
         "Title": "Friend's Visit To Veteran's Normandy Grave Gives Family Closure ",
@@ -70,7 +100,12 @@
         "ATC Track": "Sonata for violin & piano No. 26 in B flat major, K. 378 (K. 317d) [1. Allegro moderato]",
         "ATC Artists": [
             "Ani Kavafian"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Berlin, A Beat That Bloomed From Rubble",
@@ -89,7 +124,12 @@
         "ATC Artists": [
             "Budapest Festival Orchestra",
             "Ivan Fischer (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "James Earl Jones: From Stutterer To Janitor To Broadway Star",
@@ -101,12 +141,28 @@
         "ATC Track": "United Will Rise Again",
         "ATC Artists": [
             "Clint Mansell"
-        ]
+        ],
+        "Result Track Name": "United Will Rise Again",
+        "Result Artist Names": [
+            "Clint Mansell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BZuRCpbnvHwerkFW17QP9",
+        "Result Album Name": "United (Original Score)"
     },
     {
         "ATC Track": "Lullabye",
         "ATC Artists": [
             "Ben Folds Five"
-        ]
+        ],
+        "Result Track Name": "Lullabye",
+        "Result Artist Names": [
+            "Ben Folds Five"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1qOljAaKJiPL5GPK6UaAYx",
+        "Result Album Name": "The Unauthorized Biography Of Reinhold Messner"
     }
 ]

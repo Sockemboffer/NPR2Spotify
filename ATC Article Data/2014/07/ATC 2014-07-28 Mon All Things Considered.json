@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-07-28",
         "Day": "Mon",
-        "Scanned Date": "2022-02-07 02:59:31"
+        "Scanned Date": "2022-02-07 02:59:31",
+        "Playlist URI": "2D0nC7GPXW0djJDmQGcdlN",
+        "Playlist Link": "https://open.spotify.com/playlist/2D0nC7GPXW0djJDmQGcdlN",
+        "Snapshot ID": "MSw0ZjU0MjVhYzZmZTlhODFlMzk2MWQ0Nzk0ODhiNTNhNjViYWRiMjJl",
+        "Playlist Name": "ATC 2014-07-28 Mon All Things Considered"
     },
     {
         "Title": "Teacher Tenure Fight Spills Into N.Y., Where A New Lawsuit Brews",
@@ -28,13 +32,30 @@
         "ATC Track": "Thank You for Sharing",
         "ATC Artists": [
             "Eric Serra"
-        ]
+        ],
+        "Result Track Name": "Thank You For Sharing",
+        "Result Artist Names": [
+            "Éric Serra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0CZwg7gztKWRN4b5xcJzbY",
+        "Result Album Name": "Lucy (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Flaximus",
         "ATC Artists": [
             "Brownout"
-        ]
+        ],
+        "Result Track Name": "Flaximus - Renegeades of Jazz Bboy Edit",
+        "Result Artist Names": [
+            "Brownout",
+            "Renegades Of Jazz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:32oaDEeHpVcnlCiVrMqiKv",
+        "Result Album Name": "Renegades of Jazz Remixes"
     },
     {
         "Title": "NPR Host Michel Martin's Own 'Letter From A Birmingham Jail'",
@@ -46,14 +67,27 @@
         "ATC Track": "Instrumental",
         "ATC Artists": [
             "London Grammar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hot Love",
         "ATC Artists": [
             "Brian Setzer",
             "The Brian Setzer Orchestra"
-        ]
+        ],
+        "Result Track Name": "Hot Love",
+        "Result Artist Names": [
+            "Brian Setzer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:61jDNm5rz2fD5aljdBapuo",
+        "Result Album Name": "Setzer Goes Instru-Mental!"
     },
     {
         "Title": "With Men's Y Chromosome, Size Really May Not Matter",

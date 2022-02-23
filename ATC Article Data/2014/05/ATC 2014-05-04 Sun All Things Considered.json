@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-05-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:01:45"
+        "Scanned Date": "2022-02-07 03:01:45",
+        "Playlist URI": "5arRt2nraNsxOuqn8hg27A",
+        "Playlist Link": "https://open.spotify.com/playlist/5arRt2nraNsxOuqn8hg27A",
+        "Snapshot ID": "MSxmNzc5NjlhMGFjZjQ4ZWE4OTA4YjY5MDczOWIzNzY2ZjJkOGQyZDM3",
+        "Playlist Name": "ATC 2014-05-04 Sun All Things Considered"
     },
     {
         "Title": "Obama Needs To Pick Up Approval Rating, For Senate Democrats' Sake",
@@ -22,13 +26,29 @@
         "ATC Track": "Impossible Soul",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "Impossible Soul",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:36KKQqcDQTk4Op0usyqrMS",
+        "Result Album Name": "The Age of Adz"
     },
     {
         "ATC Track": "Worried Mind",
         "ATC Artists": [
             "Megafaun"
-        ]
+        ],
+        "Result Track Name": "Worried Mind",
+        "Result Artist Names": [
+            "Megafaun"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4zDHs88EIaRxXvaliqbWYN",
+        "Result Album Name": "Gather, Form & Fly"
     },
     {
         "Title": "What Do Yale Grad Students Want? A Union",
@@ -59,7 +79,12 @@
         "ATC Artists": [
             "Béla Fleck",
             "Zakir Hussain et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ranch-To-Table Trend Has Some Diners Asking: Where's The Steak?",
@@ -83,6 +108,14 @@
         "ATC Track": "Impressions of the Past",
         "ATC Artists": [
             "Megafaun"
-        ]
+        ],
+        "Result Track Name": "Impressions of the Past",
+        "Result Artist Names": [
+            "Megafaun"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33DswENGKIZr0j0fZAOkNB",
+        "Result Album Name": "Gather, Form & Fly"
     }
 ]

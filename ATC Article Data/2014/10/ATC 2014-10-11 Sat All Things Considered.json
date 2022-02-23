@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-10-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 02:53:15"
+        "Scanned Date": "2022-02-07 02:53:15",
+        "Playlist URI": "7LnAKNgocEIKKfKlGtKcTn",
+        "Playlist Link": "https://open.spotify.com/playlist/7LnAKNgocEIKKfKlGtKcTn",
+        "Snapshot ID": "MSwzZTMyNzQ1OTkyZTJkZWM0YzUwN2IxNjNiYWU2OGRhN2NhMzU4MzI5",
+        "Playlist Name": "ATC 2014-10-11 Sat All Things Considered"
     },
     {
         "Title": "Ferguson Community Continues Calls For Answers In Shooting",
@@ -22,7 +26,15 @@
         "ATC Track": "Bloodflood",
         "ATC Artists": [
             "Alt-J"
-        ]
+        ],
+        "Result Track Name": "Bloodflood",
+        "Result Artist Names": [
+            "alt-J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:306zYyz3PFvBgLFGOCy9Xb",
+        "Result Album Name": "An Awesome Wave"
     },
     {
         "Title": "Tech Roundup: Social Media, User Data And Law Enforcement",
@@ -34,13 +46,29 @@
         "ATC Track": "Golden Arrow",
         "ATC Artists": [
             "Darkside"
-        ]
+        ],
+        "Result Track Name": "Golden Arrow",
+        "Result Artist Names": [
+            "DARKSIDE"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uo4ZOD82ldcydWj5cPqAa",
+        "Result Album Name": "Psychic"
     },
     {
         "ATC Track": "Yo-Yo",
         "ATC Artists": [
             "Faraquet"
-        ]
+        ],
+        "Result Track Name": "Yo-Yo",
+        "Result Artist Names": [
+            "Faraquet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vfgQQqC9jBSzuookl6NyA",
+        "Result Album Name": "Anthology 1997-98"
     },
     {
         "Title": "Grandpa Jimmy Carter Casts A Shadow Over Ga. Governor's Race",
@@ -58,7 +86,12 @@
         "ATC Track": "Bach Sonata 1: Adagio",
         "ATC Artists": [
             "Chris Thile"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mary Lambert: 'You Change People's Opinions By Opening Your Heart'",
@@ -70,13 +103,26 @@
         "ATC Track": "Sum of Our Parts",
         "ATC Artists": [
             "Mary Lambert"
-        ]
+        ],
+        "Result Track Name": "Sum Of Our Parts",
+        "Result Artist Names": [
+            "Mary Lambert"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4EH3qrB74HguwvUIb8zyAK",
+        "Result Album Name": "Heart On My Sleeve (Deluxe)"
     },
     {
         "ATC Track": "Crime in the City (Sixty to Zero, Pt. 1)",
         "ATC Artists": [
             "Neil Young"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Behind The Motorcycles In 'Easy Rider,' A Long-Obscured Story",
@@ -88,7 +134,15 @@
         "ATC Track": "If 6 Was 9",
         "ATC Artists": [
             "The Jimi Hendrix Experience"
-        ]
+        ],
+        "Result Track Name": "If 6 Was 9",
+        "Result Artist Names": [
+            "Jimi Hendrix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3pKT3rCnFIP2ioyUS2WO5s",
+        "Result Album Name": "Experience Hendrix: The Best Of Jimi Hendrix"
     },
     {
         "Title": "Hugs For Hecklers: Cameron Esposito On Life As A Lesbian Comedian",
@@ -106,13 +160,31 @@
         "ATC Track": "Kenaston",
         "ATC Artists": [
             "Chilly Gonzales"
-        ]
+        ],
+        "Result Track Name": "Kenaston",
+        "Result Artist Names": [
+            "Chilly Gonzales"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iyRrt5VDFuyqedw2O60HI",
+        "Result Album Name": "Solo Piano II"
     },
     {
         "ATC Track": "Good Enough to Keep (Air Mail Special) [Master Take] [Take]",
         "ATC Artists": [
             "Charlie Christian",
             "Benny Goodman Sextet"
-        ]
+        ],
+        "Result Track Name": "Good Enough to Keep (Air Mail Special) - Alternate Take",
+        "Result Artist Names": [
+            "Benny Goodman Sextet",
+            "Benny Goodman",
+            "Charlie Christian"
+        ],
+        "Result Track-Match Percent": 0.8421052631578947,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0EjZFp647jDYC8kmX7FkFa",
+        "Result Album Name": "The Original Guitar Hero"
     }
 ]

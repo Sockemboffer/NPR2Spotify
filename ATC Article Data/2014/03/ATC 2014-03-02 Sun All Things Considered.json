@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2014-03-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:05:07"
+        "Scanned Date": "2022-02-07 03:05:07",
+        "Playlist URI": "39MVzCtFFVluId0PwhXEdr",
+        "Playlist Link": "https://open.spotify.com/playlist/39MVzCtFFVluId0PwhXEdr",
+        "Snapshot ID": "MSw5YWE4YjhiOTNjN2JjNGQwMWRhYmNlY2ZlNWMxYjgwZjRhNTVjYmI4",
+        "Playlist Name": "ATC 2014-03-02 Sun All Things Considered"
     },
     {
         "Title": "With Russian Military In Crimea, What's Next For Ukraine?",
@@ -28,7 +32,15 @@
         "ATC Track": "Awake",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Awake",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MhMXTuVODDF234VDvSxQx",
+        "Result Album Name": "Awake"
     },
     {
         "Title": "Corruption Blurs The Lines Of China's Mistress Culture",
@@ -58,7 +70,15 @@
         "ATC Track": "Heroic Weather-Conditions of the Universe, Part 3: the Salt Air",
         "ATC Artists": [
             "Alexandre Desplat"
-        ]
+        ],
+        "Result Track Name": "The Heroic Weather-Conditions of the Universe, Part 3: The Salt Air",
+        "Result Artist Names": [
+            "Alexandre Desplat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6FqNRGxwUXn6n3YKZJ06hX",
+        "Result Album Name": "Moonrise Kingdom (Original Score)"
     },
     {
         "Title": "Roving Literary Death Match Aims To Breathe Life Into Literature",
@@ -84,12 +104,25 @@
             "Philippe Jaroussky",
             "Venice Baroque Orchestra",
             "Andrea Marcon (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Longest Day",
         "ATC Artists": [
             "Megafaun"
-        ]
+        ],
+        "Result Track Name": "The Longest Day",
+        "Result Artist Names": [
+            "Megafaun"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63hBDreTYM0kZObnW4qTp9",
+        "Result Album Name": "Gather, Form & Fly"
     }
 ]
