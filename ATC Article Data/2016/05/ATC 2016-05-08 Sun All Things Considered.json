@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-05-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:43:59"
+        "Scanned Date": "2022-02-07 03:43:59",
+        "Playlist URI": "7fdF0Gr3505T3xZLGXvp1b",
+        "Playlist Link": "https://open.spotify.com/playlist/7fdF0Gr3505T3xZLGXvp1b",
+        "Snapshot ID": "MSwzOTM3NTFlNjFhNzEwZWRjMDZkMTgzNmZkNDcwMTQyY2JlNDY1M2Iy",
+        "Playlist Name": "ATC 2016-05-08 Sun All Things Considered"
     },
     {
         "Title": "In The Midst Of A Downturn, Some In Oil Industry Are Prepping For A Bounce",
@@ -22,13 +26,29 @@
         "ATC Track": "La Grange",
         "ATC Artists": [
             "Zz Top Tribute Band"
-        ]
+        ],
+        "Result Track Name": "La Grange",
+        "Result Artist Names": [
+            "ZZ Top"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:060SIy6PC30dMWw6wI6292",
+        "Result Album Name": "Hi Five: ZZ Top"
     },
     {
         "ATC Track": "Tuesday's Gone",
         "ATC Artists": [
             "Lynyrd Skynyrd"
-        ]
+        ],
+        "Result Track Name": "Tuesday's Gone",
+        "Result Artist Names": [
+            "Lynyrd Skynyrd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64sn7wgJfeQKY3Jisnl59w",
+        "Result Album Name": "Pronounced' Leh-'Nerd 'Skin-'Nerd"
     },
     {
         "Title": "A Man Scribbles In A Notepad — Terrorist Plot, Or Simple Math Problem?",
@@ -58,7 +78,15 @@
         "ATC Track": "Domingo No Parque",
         "ATC Artists": [
             "Gilberto Gil"
-        ]
+        ],
+        "Result Track Name": "Domingo no Parque",
+        "Result Artist Names": [
+            "Gilberto Gil"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HMa3XCtloTdy3cL00lWNz",
+        "Result Album Name": "Gilberto Gil (1968)"
     },
     {
         "Title": "Radio Drama's Leading Man, Still Adventuring",
@@ -71,7 +99,12 @@
         "ATC Artists": [
             "Bumpy Knuckles",
             "DJ Premier"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Why You Might Be Hearing About A Thing Called Turinabol",
@@ -101,12 +134,28 @@
         "ATC Track": "Sorry About Your Irony",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Sorry About Your Irony",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MuueWTcSIz2omKPsGQhGW",
+        "Result Album Name": "El Ten Eleven"
     },
     {
         "ATC Track": "My Only Swerving",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "My Only Swerving",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4q26ViixkilRLjl1MdLABS",
+        "Result Album Name": "El Ten Eleven"
     }
 ]

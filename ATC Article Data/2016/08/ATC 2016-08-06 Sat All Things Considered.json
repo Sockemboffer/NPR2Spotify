@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-08-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:38:37"
+        "Scanned Date": "2022-02-07 03:38:37",
+        "Playlist URI": "5i3ccCjW0Q7qpPoQhhL1NS",
+        "Playlist Link": "https://open.spotify.com/playlist/5i3ccCjW0Q7qpPoQhhL1NS",
+        "Snapshot ID": "MSwwMzFlMzJhYWUwZWUxZmU4OGVlNWQwZjc0NjQyYzU1YTVhZGQwY2Uw",
+        "Playlist Name": "ATC 2016-08-06 Sat All Things Considered"
     },
     {
         "Title": "'No Magic Bullet' Against Zika-Carrying Mosquito, CDC Director Says",
@@ -28,13 +32,23 @@
         "ATC Track": "Night in Rio De Janiero",
         "ATC Artists": [
             "Blue Claw Jazz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Lua Cheia/Samba de Orly/Samba Pra Vinicius",
         "ATC Artists": [
             "Chico Buarque"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Jill Stein Officially Takes Green Party Nomination",
@@ -59,7 +73,16 @@
         "ATC Artists": [
             "Kero One",
             "Suhn"
-        ]
+        ],
+        "Result Track Name": "What Am I Supposed to Do? (feat. Suhn)",
+        "Result Artist Names": [
+            "Kero One",
+            "Suhn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6o4oixpfaPYyH1StB6Ke7w",
+        "Result Album Name": "Color Theory"
     },
     {
         "Title": "How The VCR Began America's Love Of On-Demand Content",
@@ -71,13 +94,29 @@
         "ATC Track": "Video Killed the Radio Star",
         "ATC Artists": [
             "Buggles"
-        ]
+        ],
+        "Result Track Name": "Video Killed The Radio Star",
+        "Result Artist Names": [
+            "The Buggles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6t1FIJlZWTQfIZhsGjaulM",
+        "Result Album Name": "The Age Of Plastic"
     },
     {
         "ATC Track": "Song of the Caged Bird",
         "ATC Artists": [
             "Lindsey Stirling"
-        ]
+        ],
+        "Result Track Name": "Song of the Caged Bird",
+        "Result Artist Names": [
+            "Lindsey Stirling"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rmCtRmkQXWKRhBi91NX3z",
+        "Result Album Name": "Lindsey Stirling"
     },
     {
         "Title": "'Utopia Drive' Chronicles 'Quiet Revolutionaries' Who Tried To Live Outside Society",
@@ -101,13 +140,26 @@
         "ATC Track": "Mundo Sem Memoria",
         "ATC Artists": [
             "Abayomi Afrobeat Orquestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tema do Canibal",
         "ATC Artists": [
             "BK-One",
             "Benzilla"
-        ]
+        ],
+        "Result Track Name": "Tema do Canibal",
+        "Result Artist Names": [
+            "BK-One"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:66O0iesibemJkpVjjra9Cz",
+        "Result Album Name": "Radio do Canibal [with Benzilla]"
     }
 ]

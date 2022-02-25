@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-03-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:48:51"
+        "Scanned Date": "2022-02-07 03:48:51",
+        "Playlist URI": "3d3gG7rcI7GLJfPlSdsSUZ",
+        "Playlist Link": "https://open.spotify.com/playlist/3d3gG7rcI7GLJfPlSdsSUZ",
+        "Snapshot ID": "MSxmYjMzNTZkOTY5NmNmOWFhNTFjYzI2ZTE2MGJkYzVkNDQ5N2RkY2I4",
+        "Playlist Name": "ATC 2016-03-26 Sat All Things Considered"
     },
     {
         "Title": "Brussels Update: Two Men Charged In Connection With Attacks",
@@ -28,13 +32,29 @@
         "ATC Track": "Sanación",
         "ATC Artists": [
             "Nicola Cruz"
-        ]
+        ],
+        "Result Track Name": "Sanación",
+        "Result Artist Names": [
+            "Nicola Cruz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BrMg0AcynqRSvXjEDf0t2",
+        "Result Album Name": "Prender el Alma"
     },
     {
         "ATC Track": "Night Behind the Stars",
         "ATC Artists": [
             "The Six Parts Seven"
-        ]
+        ],
+        "Result Track Name": "Night Behind The Stars",
+        "Result Artist Names": [
+            "The Six Parts Seven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Z3X92XXoapVgMYxhU7Dtw",
+        "Result Album Name": "Casually Smashed To Pieces"
     },
     {
         "Title": "Barbershop: Protests And Donald Trump",
@@ -50,7 +70,12 @@
     },
     {
         "ATC Track": "Working and Praying and Living and Dying",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Music Streaming Takes Dominant Role In Industry",
@@ -62,11 +87,27 @@
         "ATC Track": "Peter and Jack",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Peter and Jack",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4QqKbOODsTQS3qkc8u7Uf1",
+        "Result Album Name": "Fast Forward"
     },
     {
         "ATC Track": "Cedar Shed",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Cedar Shed",
+        "Result Artist Names": [
+            "Koloto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Zo9qZVD1Ha1nlr6UV2RHh",
+        "Result Album Name": "Mechanica"
     },
     {
         "Title": "Don Cheadle On Miles Davis And Race In Hollywood",
@@ -84,12 +125,28 @@
         "ATC Track": "Perfect Way",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Perfect Way",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eQqek1uzLNjKTMPK4qRkL",
+        "Result Album Name": "Tutu"
     },
     {
         "ATC Track": "Whispering",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Whispering",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Bb7eBhfbcDMYMn8bGCyNh",
+        "Result Album Name": "Miles Davis And Horns"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-02-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:50:33"
+        "Scanned Date": "2022-02-07 03:50:33",
+        "Playlist URI": "0ardcr6Skhme8L22wlO0bQ",
+        "Playlist Link": "https://open.spotify.com/playlist/0ardcr6Skhme8L22wlO0bQ",
+        "Snapshot ID": "MSw2ODEzNmJmZTY5M2M5MDgzYjdlZDkzNjM2NjI2OTM4NWQzMDhlMGRl",
+        "Playlist Name": "ATC 2016-02-21 Sun All Things Considered"
     },
     {
         "Title": "Are Trump And Clinton Victories A Sign Of Things To Come?",
@@ -28,13 +32,29 @@
         "ATC Track": "Thought 8",
         "ATC Artists": [
             "Thrupence"
-        ]
+        ],
+        "Result Track Name": "Thought 8",
+        "Result Artist Names": [
+            "Thrupence"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uarXUhPpUbGUtpqCGePKS",
+        "Result Album Name": "Thoughts"
     },
     {
         "ATC Track": "Fine Corinthian Leather",
         "ATC Artists": [
             "Charlie Hunter"
-        ]
+        ],
+        "Result Track Name": "Fine Corinthian Leather",
+        "Result Artist Names": [
+            "Charlie Hunter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GaflNzPucLzU07hW3j8d4",
+        "Result Album Name": "Baboon Strength"
     },
     {
         "Title": "Gross National Happiness: Bhutan's Unique Measurement",
@@ -58,7 +78,15 @@
         "ATC Track": "Crystal Waves",
         "ATC Artists": [
             "All India Radio"
-        ]
+        ],
+        "Result Track Name": "Crystal Waves",
+        "Result Artist Names": [
+            "All India Radio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5hG4368nTAlUoGx7coUmT8",
+        "Result Album Name": "The Silent Surf"
     },
     {
         "Title": "Oscars Producers Say No More Name Dropping",
@@ -70,13 +98,27 @@
         "ATC Track": "Oscars Music",
         "ATC Artists": [
             "Oscars Music"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tagada",
         "ATC Artists": [
             "Camel Power Club"
-        ]
+        ],
+        "Result Track Name": "Tagada",
+        "Result Artist Names": [
+            "Camel Power Club",
+            "Akin Yai"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73LUbEDV52eiiMXkFM2Ibg",
+        "Result Album Name": "Sputnik II"
     },
     {
         "Title": "African-Americans With Autism Face Additional Challenges",
@@ -94,12 +136,28 @@
         "ATC Track": "Born This Way",
         "ATC Artists": [
             "Lady Gaga"
-        ]
+        ],
+        "Result Track Name": "Born This Way",
+        "Result Artist Names": [
+            "Lady Gaga"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6r2BECwMgEoRb5yLfp0Hca",
+        "Result Album Name": "Born This Way (Special Edition)"
     },
     {
         "ATC Track": "So There [Instrumental] [Instrumental]",
         "ATC Artists": [
             "Ben Folds"
-        ]
+        ],
+        "Result Track Name": "So There",
+        "Result Artist Names": [
+            "Ben Folds"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2knYRmkdB8E4STm5vNPYAj",
+        "Result Album Name": "So There"
     }
 ]

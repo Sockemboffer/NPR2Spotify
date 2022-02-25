@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-09-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:37:56"
+        "Scanned Date": "2022-02-07 03:37:56",
+        "Playlist URI": "3obSDHrrJz9ICCMhqCC9Et",
+        "Playlist Link": "https://open.spotify.com/playlist/3obSDHrrJz9ICCMhqCC9Et",
+        "Snapshot ID": "MSxlMGJjNmVjMzk4OWU0MjY1ZjBlOTVjNjg5MGI2YjhiOTEyMDJlODg1",
+        "Playlist Name": "ATC 2016-09-25 Sun All Things Considered"
     },
     {
         "Title": "Clinton, Trump To Face Off At New York's Hofstra In First Presidential Debate",
@@ -29,13 +33,31 @@
         "ATC Artists": [
             "KAYTRANADA feat. Karriem Riggins",
             "River Tiber"
-        ]
+        ],
+        "Result Track Name": "BUS RIDE",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "Karriem Riggins",
+            "River Tiber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9090909090909091,
+        "Result Track URI": "spotify:track:0p07eXzptON22i7dk4lmP7",
+        "Result Album Name": "99.9%"
     },
     {
         "ATC Track": "Say My Name (Instrumental)",
         "ATC Artists": [
             "ODESZA"
-        ]
+        ],
+        "Result Track Name": "Say My Name - Instrumental",
+        "Result Artist Names": [
+            "ODESZA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52TgpI0bmo7CdjLks9gshA",
+        "Result Album Name": "In Return (Deluxe Edition)"
     },
     {
         "Title": "How 'Open Carry' Laws In North Carolina Apply To Keith Lamont Scott's Case",
@@ -60,7 +82,16 @@
         "ATC Artists": [
             "Kygo",
             "Maty Noyes"
-        ]
+        ],
+        "Result Track Name": "Stay (feat. Maty Noyes)",
+        "Result Artist Names": [
+            "Kygo",
+            "Maty Noyes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gBj0VgcuAgkXkiRRYvSmK",
+        "Result Album Name": "Stay (feat. Maty Noyes)"
     },
     {
         "Title": "Before 'Humans Of New York,' Terkel Showed Dignity In Everyday People In 'Working'",
@@ -73,13 +104,27 @@
         "ATC Artists": [
             "Jimmy McGriff",
             "Hank Crawford"
-        ]
+        ],
+        "Result Track Name": "You're The One",
+        "Result Artist Names": [
+            "Hank Crawford",
+            "Jimmy McGriff"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zCPqOGgt4DT0KiGncuAUw",
+        "Result Album Name": "On The Blue Side"
     },
     {
         "ATC Track": "Wave",
         "ATC Artists": [
             "Tulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Hidden Figures': How Black Women Did The Math That Put Men On The Moon",
@@ -103,12 +148,28 @@
         "ATC Track": "Born to Run",
         "ATC Artists": [
             "Bruce Springsteen"
-        ]
+        ],
+        "Result Track Name": "Born to Run",
+        "Result Artist Names": [
+            "Bruce Springsteen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hTcuIQa0sxrrByu9wTD7s",
+        "Result Album Name": "Born To Run"
     },
     {
         "ATC Track": "C.R.E.A.M.",
         "ATC Artists": [
             "El Michels Affair"
-        ]
+        ],
+        "Result Track Name": "C.R.E.A.M.",
+        "Result Artist Names": [
+            "El Michels Affair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B",
+        "Result Album Name": "Enter The 37th Chamber"
     }
 ]

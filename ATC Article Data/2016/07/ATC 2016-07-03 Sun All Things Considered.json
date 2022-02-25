@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-07-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:40:07"
+        "Scanned Date": "2022-02-07 03:40:07",
+        "Playlist URI": "4M8KwaXqQKbD5mpHrLX5OO",
+        "Playlist Link": "https://open.spotify.com/playlist/4M8KwaXqQKbD5mpHrLX5OO",
+        "Snapshot ID": "MSxkMmE0OTgzMTZiYjRiZDY1NjI2ZjliNDg5MTVlYmYyMjU0OGU3NTQy",
+        "Playlist Name": "ATC 2016-07-03 Sun All Things Considered"
     },
     {
         "Title": "Massive Bombing In Baghdad Leaves At Least 121 Dead",
@@ -22,13 +26,29 @@
         "ATC Track": "How We Be",
         "ATC Artists": [
             "Sinkane"
-        ]
+        ],
+        "Result Track Name": "How We Be",
+        "Result Artist Names": [
+            "Sinkane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VhvqX3gn8weai3SiFK4qr",
+        "Result Album Name": "Mean Love"
     },
     {
         "ATC Track": "El Frio",
         "ATC Artists": [
             "Chicano Batman"
-        ]
+        ],
+        "Result Track Name": "El Frío",
+        "Result Artist Names": [
+            "Chicano Batman"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RU3BzX7PFSgV9iDv9Qroi",
+        "Result Album Name": "Cycles of Existential Rhyme"
     },
     {
         "Title": "Irked By Broadcast Coverage, Gymnastics Sites Aim To Raise The Bar",
@@ -50,7 +70,15 @@
     },
     {
         "ATC Track": "First Steps",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Leonel's First Steps",
+        "Result Artist Names": [
+            "Regina Scott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mKfrBb5iCkXF7EkRO6lrA",
+        "Result Album Name": "Leonel's First Steps"
     },
     {
         "Title": "Number Of Hate Crimes Rising In The U.K. ",
@@ -62,13 +90,26 @@
         "ATC Track": "Melancholia [*]",
         "ATC Artists": [
             "40Winks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Intro",
         "ATC Artists": [
             "Kygo"
-        ]
+        ],
+        "Result Track Name": "Intro",
+        "Result Artist Names": [
+            "Kygo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6bqHegYlJ2ihL0rw3uW65e",
+        "Result Album Name": "Cloud Nine"
     },
     {
         "Title": "'The Next Pandemic': New Threats, But New Defenses, Too",
@@ -87,7 +128,18 @@
         "ATC Artists": [
             "Dr. Dre",
             "Marsha Ambrosius et. al."
-        ]
+        ],
+        "Result Track Name": "Genocide",
+        "Result Artist Names": [
+            "Dr. Dre",
+            "Kendrick Lamar",
+            "Marsha Ambrosius",
+            "Candice Pillay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GW98M7bhqIqLGpxxStZWP",
+        "Result Album Name": "Compton"
     },
     {
         "Title": "What's Worth Watching In Movie Theaters This Summer?",
@@ -99,12 +151,25 @@
         "ATC Track": "Angels (Instrumental)",
         "ATC Artists": [
             "Chance The Rapper"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sing About Me, I'm Dying Of Thirst",
         "ATC Artists": [
             "Kendrick Lamar"
-        ]
+        ],
+        "Result Track Name": "Sing About Me, I'm Dying Of Thirst",
+        "Result Artist Names": [
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q2v8QaTnHLveAQzR6gvYm",
+        "Result Album Name": "good kid, m.A.A.d city (Deluxe)"
     }
 ]

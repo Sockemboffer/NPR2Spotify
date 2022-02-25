@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-06-18",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:42:49"
+        "Scanned Date": "2022-02-07 03:42:49",
+        "Playlist URI": "5m9edYBdqpX7wpNAUG5lAL",
+        "Playlist Link": "https://open.spotify.com/playlist/5m9edYBdqpX7wpNAUG5lAL",
+        "Snapshot ID": "MSwxMjhlOGQ4OGE0MjJlMTgzNzVhODY3NTRhZGViNmRmMmI5NTMwMzk0",
+        "Playlist Name": "ATC 2016-06-18 Sat All Things Considered"
     },
     {
         "Title": "Love And Mourning Hang Over Orlando",
@@ -28,14 +32,27 @@
         "ATC Track": "Only One",
         "ATC Artists": [
             "Soul"
-        ]
+        ],
+        "Result Track Name": "Final Medley, Pt. 1 (Family Affair / Hold On / Shackles / I Wanna Be the Only One / Somebody Elses Guy / Problem / Don't Walk Away / Oops Upside Your Head / Don't Mess With My Man / Back in Love Again / I've Got the Power)",
+        "Result Artist Names": [
+            "Ladies of Soul"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rKxIbueY3OBAw1gcO91hJ",
+        "Result Album Name": "Live at the Ziggodome 2015"
     },
     {
         "ATC Track": "The Doo Bop Song",
         "ATC Artists": [
             "Easy Mo Bee",
             "J.R. et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Barbershop: Taking Stock Of Orlando With Members Of The LGBTQ Community",
@@ -53,7 +70,15 @@
         "ATC Track": "I See Fire",
         "ATC Artists": [
             "Ed Sheeran"
-        ]
+        ],
+        "Result Track Name": "I See Fire",
+        "Result Artist Names": [
+            "Ed Sheeran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fu5IQSRgPxJL2OTP7FVLW",
+        "Result Album Name": "The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "When King Came To Chicago: See The Rare Images Of His Campaign — In Color",
@@ -65,13 +90,29 @@
         "ATC Track": "We Shall Overcome",
         "ATC Artists": [
             "Larry Goldings"
-        ]
+        ],
+        "Result Track Name": "We Shall Overcome",
+        "Result Artist Names": [
+            "Larry Goldings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2y7xZrx0l4Rp9Jex2XZBhe",
+        "Result Album Name": "Quartet"
     },
     {
         "ATC Track": "I Will Possess Your Heart",
         "ATC Artists": [
             "Death Cab for Cutie"
-        ]
+        ],
+        "Result Track Name": "I Will Possess Your Heart",
+        "Result Artist Names": [
+            "Death Cab for Cutie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77vYwoC7e3pVoPq8BA9CuL",
+        "Result Album Name": "Narrow Stairs"
     },
     {
         "Title": "Going There: 50 Years After The Chicago Freedom Movement",
@@ -90,12 +131,28 @@
         "ATC Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Green Onions",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:6DQFKg3oXJVsaKklR7wGlJ",
+        "Result Album Name": "Absolute Soul"
     },
     {
         "ATC Track": "Despite the Weather",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": "DESPITE THE WEATHER",
+        "Result Artist Names": [
+            "KAYTRANADA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25d83nKYjGVsQjPcBoVRQI",
+        "Result Album Name": "99.9%"
     }
 ]

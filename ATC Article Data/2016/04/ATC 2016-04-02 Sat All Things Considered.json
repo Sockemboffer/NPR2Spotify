@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-04-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:45:20"
+        "Scanned Date": "2022-02-07 03:45:20",
+        "Playlist URI": "3C2e800qAkYi7ImqGap9ib",
+        "Playlist Link": "https://open.spotify.com/playlist/3C2e800qAkYi7ImqGap9ib",
+        "Snapshot ID": "MSw3ZjgxNmYwZDdmYjJmMzNjY2VjY2NiNTY5NjQxMjE2MTRiZDBlMmJm",
+        "Playlist Name": "ATC 2016-04-02 Sat All Things Considered"
     },
     {
         "Title": "Brussels Flies Again, As Airport Renews Operations After Terror Attacks",
@@ -29,13 +33,29 @@
         "ATC Artists": [
             "Booker T.",
             "the MG's"
-        ]
+        ],
+        "Result Track Name": "Mo' Onions",
+        "Result Artist Names": [
+            "Booker T. & the M.G.'s"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1o3UPhv0iiv5HcaKXDvri8",
+        "Result Album Name": "The Very Best Of Booker T. & The MG's"
     },
     {
         "ATC Track": "Overtime",
         "ATC Artists": [
             "Damu the Fudgemunk"
-        ]
+        ],
+        "Result Track Name": "Overtime Intro - Instro Version",
+        "Result Artist Names": [
+            "Damu The Fudgemunk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Xyc5SjEaGIPi0yzU6lvIe",
+        "Result Album Name": "Full Time"
     },
     {
         "Title": "As Leaders Gather For Nuclear Summit, A Look Back At Progress And Pitfalls",
@@ -65,7 +85,12 @@
         "ATC Track": "Odysseey",
         "ATC Artists": [
             "SunSquabi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Ukrainians Who Fled To Russia Find The Welcome Is No Longer Warm",
@@ -77,13 +102,27 @@
         "ATC Track": "Skylark Interabang?!",
         "ATC Artists": [
             "Sabzi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Folds",
         "ATC Artists": [
             "Feverkin"
-        ]
+        ],
+        "Result Track Name": "Folds",
+        "Result Artist Names": [
+            "Feverkin",
+            "Koresma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MncfieaW8MKTA6Gjtv7mp",
+        "Result Album Name": "Folds"
     },
     {
         "Title": "Cheerleader, Honor Student, Terrorist? Inside A Strange Case In Mississippi",
@@ -107,12 +146,28 @@
         "ATC Track": "The Pop Kids",
         "ATC Artists": [
             "Pet Shop Boys"
-        ]
+        ],
+        "Result Track Name": "The Pop Kids",
+        "Result Artist Names": [
+            "Pet Shop Boys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gQOclxG0m17obCWjVEom9",
+        "Result Album Name": "Super"
     },
     {
         "ATC Track": "Kool and the Gang [*]",
         "ATC Artists": [
             "Speedometer"
-        ]
+        ],
+        "Result Track Name": "Kool And The Gang",
+        "Result Artist Names": [
+            "Speedometer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4OCIut15DsVwJrK8s02LJp",
+        "Result Album Name": "Diggin Deeper"
     }
 ]

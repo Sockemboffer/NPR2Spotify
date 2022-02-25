@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-11-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:33:56"
+        "Scanned Date": "2022-02-07 03:33:56",
+        "Playlist URI": "38lSJh5WlHRH5Bh4nlBSeE",
+        "Playlist Link": "https://open.spotify.com/playlist/38lSJh5WlHRH5Bh4nlBSeE",
+        "Snapshot ID": "MSxjYWJmZWQ0OTJjYTUwZTAxNzdlMmQ5M2EzNzg5ZjIzODhjOTAyMTBl",
+        "Playlist Name": "ATC 2016-11-12 Sat All Things Considered"
     },
     {
         "Title": "Trump Supporter Says 'My Heart Swelled With Satisfaction' On Election Night",
@@ -22,13 +26,26 @@
         "ATC Track": "Kong",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Kong",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Cg3F9ZsZ2TYUnlza49NYh",
+        "Result Album Name": "Black Sands"
     },
     {
         "ATC Track": "Think Differently",
         "ATC Artists": [
             "Think Differently"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Latinas For Trump Co-Founder 'In Shock'",
@@ -52,7 +69,15 @@
         "ATC Track": "All In",
         "ATC Artists": [
             "Flying Lotus"
-        ]
+        ],
+        "Result Track Name": "All In",
+        "Result Artist Names": [
+            "Flying Lotus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eWIBNEmDlIpnrrhcubpK0",
+        "Result Album Name": "Until The Quiet Comes"
     },
     {
         "Title": "The Social Media Fallout Of Trump's Victory",
@@ -64,13 +89,29 @@
         "ATC Track": "Sing About Me, I'm Dying Of Thirst",
         "ATC Artists": [
             "Kendrick Lamar"
-        ]
+        ],
+        "Result Track Name": "Sing About Me, I'm Dying Of Thirst",
+        "Result Artist Names": [
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q2v8QaTnHLveAQzR6gvYm",
+        "Result Album Name": "good kid, m.A.A.d city (Deluxe)"
     },
     {
         "ATC Track": "Rillo Talk",
         "ATC Artists": [
             "Wild Child"
-        ]
+        ],
+        "Result Track Name": "Rillo Talk",
+        "Result Artist Names": [
+            "Wild Child"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23vXZL9tbcTL3B6gEzpUbW",
+        "Result Album Name": "The Runaround"
     },
     {
         "Title": "How Were The Polls So Wrong?",
@@ -101,12 +142,30 @@
         "ATC Artists": [
             "Ryan Helsing",
             "Matthew Setz"
-        ]
+        ],
+        "Result Track Name": "Layers",
+        "Result Artist Names": [
+            "Ryan Helsing",
+            "Matthew Saltz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:7e6ktsaGZ2tGfw6XQrpwat",
+        "Result Album Name": "Visions"
     },
     {
         "ATC Track": "Her, Herself & She",
         "ATC Artists": [
             "Twenty9"
-        ]
+        ],
+        "Result Track Name": "Her, Herself & She",
+        "Result Artist Names": [
+            "Twenty9",
+            "August Heldt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:74t4l0b0ciV1u2wVoJuVds",
+        "Result Album Name": "June Notes"
     }
 ]

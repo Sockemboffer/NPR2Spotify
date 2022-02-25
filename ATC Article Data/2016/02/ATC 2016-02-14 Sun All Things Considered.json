@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-02-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:50:08"
+        "Scanned Date": "2022-02-07 03:50:08",
+        "Playlist URI": "1GF1Z0qeXhcVksb1NDBjmu",
+        "Playlist Link": "https://open.spotify.com/playlist/1GF1Z0qeXhcVksb1NDBjmu",
+        "Snapshot ID": "MSxmZDk5NDQxYjRmYTk5YzNjYTBkZDk3MjAwMDAyMjg5MjM3ZTI3NzQ2",
+        "Playlist Name": "ATC 2016-02-14 Sun All Things Considered"
     },
     {
         "Title": "Battle On To Fill Supreme Court Vacancy After Death Of Justice Antonin Scalia",
@@ -22,13 +26,26 @@
         "ATC Track": "Transcendance",
         "ATC Artists": [
             "Lindsay Sterling"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Opus",
         "ATC Artists": [
             "Black Violin"
-        ]
+        ],
+        "Result Track Name": "Opus",
+        "Result Artist Names": [
+            "Black Violin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5x0NjoFEIVkmCzCpjjPqoU",
+        "Result Album Name": "Classically Trained"
     },
     {
         "Title": "Originalism: A Primer On Scalia's Constitutional Philosophy",
@@ -52,7 +69,15 @@
         "ATC Track": "I Want You Back",
         "ATC Artists": [
             "Jackson 5"
-        ]
+        ],
+        "Result Track Name": "I Want You Back",
+        "Result Artist Names": [
+            "The Jackson 5"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LxvwujISqiB8vpRYv887S",
+        "Result Album Name": "Diana Ross Presents The Jackson 5"
     },
     {
         "Title": "Trial Date Still Pending For 5 Accused Of Plotting Sept. 11 Attacks",
@@ -64,13 +89,29 @@
         "ATC Track": "Transient",
         "ATC Artists": [
             "Glen Porter"
-        ]
+        ],
+        "Result Track Name": "Transient",
+        "Result Artist Names": [
+            "Glen Porter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05j2SIb2Fadj3RnITFB0Uw",
+        "Result Album Name": "Blessed By a Young Death"
     },
     {
         "ATC Track": "Dirty Money",
         "ATC Artists": [
             "Antibalas"
-        ]
+        ],
+        "Result Track Name": "Dirty Money",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:634Boo3ThjlnOkURPKQLBP",
+        "Result Album Name": "Antibalas"
     },
     {
         "Title": "Farmer John Boyd Jr. Wants African-Americans To Reconnect With Farming",
@@ -94,12 +135,28 @@
         "ATC Track": "Nanjing Road East",
         "ATC Artists": [
             "Shanghai Restoration Project"
-        ]
+        ],
+        "Result Track Name": "Nanjing Road East - Instrumental",
+        "Result Artist Names": [
+            "The Shanghai Restoration Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fIZjUTjTIolsDSFYJ5t0q",
+        "Result Album Name": "Instrumentals"
     },
     {
         "ATC Track": "Externalnet",
         "ATC Artists": [
             "Kento Masuda"
-        ]
+        ],
+        "Result Track Name": "Externalnet",
+        "Result Artist Names": [
+            "Kento Masuda"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0J5pckh6HhiV8BW6n1DSNE",
+        "Result Album Name": "Globesounds"
     }
 ]

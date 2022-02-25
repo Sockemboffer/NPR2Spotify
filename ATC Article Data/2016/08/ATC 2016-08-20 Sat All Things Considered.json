@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-08-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:39:23"
+        "Scanned Date": "2022-02-07 03:39:23",
+        "Playlist URI": "2ov5g9sCR9vQGdjydZqrHE",
+        "Playlist Link": "https://open.spotify.com/playlist/2ov5g9sCR9vQGdjydZqrHE",
+        "Snapshot ID": "MSw3ZTVmZjNkMWZjODViNmZjMzdhYTJjMGMzYThjZGE0NzE2NWIxZGY5",
+        "Playlist Name": "ATC 2016-08-20 Sat All Things Considered"
     },
     {
         "Title": "The Week That Was: Does Manafort's Resignation Mean A Trump Campaign Reboot?",
@@ -28,13 +32,29 @@
         "ATC Track": "Star Spangled Banner",
         "ATC Artists": [
             "National Anthem of the United States"
-        ]
+        ],
+        "Result Track Name": "Star Spangled Banner - Instrumental",
+        "Result Artist Names": [
+            "The United States Army Band"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5454545454545454,
+        "Result Track URI": "spotify:track:4eZw1MSVRnibh5E3roM6Bz",
+        "Result Album Name": "Star Spangled Banner - Instrumental"
     },
     {
         "ATC Track": "National Anthem",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "The National Anthem",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Wgj6jzoI2gYlumXdYAB8U",
+        "Result Album Name": "Kid A"
     },
     {
         "Title": "Amid The Floods, A Dispatch From Baton Rouge",
@@ -58,7 +78,15 @@
         "ATC Track": "Anything You Synthesize (Ambient)",
         "ATC Artists": [
             "The American Dollar"
-        ]
+        ],
+        "Result Track Name": "Anything You Synthesize - Ambient",
+        "Result Artist Names": [
+            "The American Dollar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0OF6WSdeVmYEGBZlxvwvLq",
+        "Result Album Name": "Ambient One"
     },
     {
         "Title": "For Students Studying Abroad, International Unrest Presents Hard Decisions",
@@ -70,7 +98,16 @@
         "ATC Track": "Firefly",
         "ATC Artists": [
             "Mura Masa"
-        ]
+        ],
+        "Result Track Name": "Firefly",
+        "Result Artist Names": [
+            "Mura Masa",
+            "Nao"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2s9C5THb9llwyVXtjveV4E",
+        "Result Album Name": "Someday Somewhere"
     },
     {
         "Title": "Barbershop: Discussing Controversies Around Nathan Parker And Ryan Lochte",
@@ -88,6 +125,14 @@
         "ATC Track": "Space Cadet",
         "ATC Artists": [
             "Flume"
-        ]
+        ],
+        "Result Track Name": "Space Cadet",
+        "Result Artist Names": [
+            "Flume"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3M0aO0Tj9NomSOn8LuA3YN",
+        "Result Album Name": "Flume: Deluxe Edition"
     }
 ]

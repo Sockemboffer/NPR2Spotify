@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-12-31",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:33:14"
+        "Scanned Date": "2022-02-07 03:33:14",
+        "Playlist URI": "5uZ5aK6K1prHFIJDSrCqjI",
+        "Playlist Link": "https://open.spotify.com/playlist/5uZ5aK6K1prHFIJDSrCqjI",
+        "Snapshot ID": "MSxjNjRjY2VkMTI2ZDlmNDQzMmMwMWNlMGExZGY1YmU0NGY1NmRlNTNj",
+        "Playlist Name": "ATC 2016-12-31 Sat All Things Considered"
     },
     {
         "Title": "South Carolina Sen. Tim Scott Reflects On A Tumultuous Year",
@@ -22,13 +26,29 @@
         "ATC Track": "Since Then",
         "ATC Artists": [
             "Pablie"
-        ]
+        ],
+        "Result Track Name": "Since Then",
+        "Result Artist Names": [
+            "Pablie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7hQdVwGmAev6ASlsKlwbqA",
+        "Result Album Name": "Silent In Truth"
     },
     {
         "ATC Track": "Thought Pool",
         "ATC Artists": [
             "Vasudeva"
-        ]
+        ],
+        "Result Track Name": "Thought Pool - Remaster 2019",
+        "Result Artist Names": [
+            "Vasudeva"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64nlFIBaw6FoDY7Whtp9Wt",
+        "Result Album Name": "Life in Cycles (Remaster 2019)"
     },
     {
         "Title": "Barbershop: 2016 Is Almost Over, But Was It Really The Worst?",
@@ -46,7 +66,15 @@
         "ATC Track": "Persian Rug",
         "ATC Artists": [
             "Julian Lage"
-        ]
+        ],
+        "Result Track Name": "Persian Rug",
+        "Result Artist Names": [
+            "Julian Lage"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ZTLzhcQxcqbY53ZJXYjlB",
+        "Result Album Name": "Arclight"
     },
     {
         "Title": "Underwear, Dolls And More: Latin American New Year's Traditions",
@@ -58,14 +86,27 @@
         "ATC Track": "Yo No Olvido El Ano Viejo",
         "ATC Artists": [
             "Tony Camargo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Dawn and the Embrace",
         "ATC Artists": [
             "When the Clouds",
             "Francesco Galano"
-        ]
+        ],
+        "Result Track Name": "The Dawn and the Embrace",
+        "Result Artist Names": [
+            "When the Clouds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:5qJB46WDUKdXi0eqjq6tDS",
+        "Result Album Name": "The Longed-For Season"
     },
     {
         "Title": "Actor And Activist Jesse Williams: 'I'm Certain I'm Making A Difference'",
@@ -77,12 +118,25 @@
         "ATC Track": "Fairy Tale",
         "ATC Artists": [
             "Taku"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Keepin' It Funky",
         "ATC Artists": [
             "Hot 8 Brass Band"
-        ]
+        ],
+        "Result Track Name": "Keepin' It Funky",
+        "Result Artist Names": [
+            "Hot 8 Brass Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:14hdi3R1TVvH5qGEIZfMD0",
+        "Result Album Name": "On the Spot"
     }
 ]

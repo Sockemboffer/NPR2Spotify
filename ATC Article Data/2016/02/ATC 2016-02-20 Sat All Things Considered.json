@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-02-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:50:31"
+        "Scanned Date": "2022-02-07 03:50:31",
+        "Playlist URI": "2G3ZpCS7WoJ0yGXrW5EDXF",
+        "Playlist Link": "https://open.spotify.com/playlist/2G3ZpCS7WoJ0yGXrW5EDXF",
+        "Snapshot ID": "MSw2MzAxMDEyMWVhYTJiMDdlYzVmNjc0MDJjNzBkM2UxMTg4ZjNjMzg3",
+        "Playlist Name": "ATC 2016-02-20 Sat All Things Considered"
     },
     {
         "Title": "Saturday Is SC Primary For Republicans And Nevada Caucus For Democrats",
@@ -22,11 +26,21 @@
         "ATC Track": "Scalia Funeral Music",
         "ATC Artists": [
             "Church Music"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Heave and Roll",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Obama Skips Justice Antonin Scalia's Funeral And Republican Primary In SC",
@@ -38,7 +52,15 @@
         "ATC Track": "French Letter",
         "ATC Artists": [
             "J Walk"
-        ]
+        ],
+        "Result Track Name": "French Letter",
+        "Result Artist Names": [
+            "J-Walk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7AIiiE5eSZOEaYXMi52pIC",
+        "Result Album Name": "A Night On The Rocks"
     },
     {
         "Title": "Invasive Lizards Threaten Florida's Natural Species In The Everglades",
@@ -50,11 +72,27 @@
         "ATC Track": "Movement and Location",
         "ATC Artists": [
             "Punch Brothers"
-        ]
+        ],
+        "Result Track Name": "Movement and Location",
+        "Result Artist Names": [
+            "Punch Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64Dlgk4d6JbiT8UoaHB4g0",
+        "Result Album Name": "Who's Feeling Young Now?"
     },
     {
         "ATC Track": "Fret Trance",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Fret Trance",
+        "Result Artist Names": [
+            "Ryan Ayers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TXhbISTkHuLmtzGYWcvyT",
+        "Result Album Name": "Alight"
     },
     {
         "Title": "Nevada Caucus Update",
@@ -85,13 +123,30 @@
         "ATC Artists": [
             "RJD2",
             "STS"
-        ]
+        ],
+        "Result Track Name": "Hold on, Here It Go",
+        "Result Artist Names": [
+            "STS",
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:495wzzSEQJ8d5Sg2vtgX8p",
+        "Result Album Name": "STS x RJD2"
     },
     {
         "ATC Track": "211",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "211",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NpdzApBBCGEoyu6AZaWxA",
+        "Result Album Name": "Perpetual"
     },
     {
         "Title": "The Latest On The Nevada Caucuses",

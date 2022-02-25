@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-09-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:37:54"
+        "Scanned Date": "2022-02-07 03:37:54",
+        "Playlist URI": "2PXyX8ZRA2UJRL928cnQra",
+        "Playlist Link": "https://open.spotify.com/playlist/2PXyX8ZRA2UJRL928cnQra",
+        "Snapshot ID": "MSw0ZTNlZGZlNzllZjY4M2JjZmYwODg4YjczMmE0MDdiY2NiNzBhMzIx",
+        "Playlist Name": "ATC 2016-09-24 Sat All Things Considered"
     },
     {
         "Title": "Charlotte Police Announce Plans To Release Footage Of Shooting",
@@ -28,13 +32,29 @@
         "ATC Track": "Natural Cause",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Natural Cause",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30u5328ERA8OFk3qrla5m2",
+        "Result Album Name": "Dusk to Dawn"
     },
     {
         "ATC Track": "I Will Possess Your Heart",
         "ATC Artists": [
             "Death Cab for Cutie"
-        ]
+        ],
+        "Result Track Name": "I Will Possess Your Heart",
+        "Result Artist Names": [
+            "Death Cab for Cutie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77vYwoC7e3pVoPq8BA9CuL",
+        "Result Album Name": "Narrow Stairs"
     },
     {
         "Title": "A Glimpse Of History, As Museum Of African American History Opens",
@@ -52,7 +72,16 @@
         "ATC Track": "Never Catch Me (feat. Kendrick Lamar) (Instrumental)",
         "ATC Artists": [
             "Flying Lotus"
-        ]
+        ],
+        "Result Track Name": "Never Catch Me",
+        "Result Artist Names": [
+            "Flying Lotus",
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 0.6,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:6CTG85NJI1Wm60pxTSRNwL",
+        "Result Album Name": "You're Dead!"
     },
     {
         "Title": "After Aiding Injured Israelis, A Palestinian Is Targeted For Abuse",
@@ -64,13 +93,29 @@
         "ATC Track": "Intro",
         "ATC Artists": [
             "The xx"
-        ]
+        ],
+        "Result Track Name": "Intro",
+        "Result Artist Names": [
+            "The xx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VfEuwErhx6X4eaPbyBfyu",
+        "Result Album Name": "xx"
     },
     {
         "ATC Track": "Cycles of Existential Rhyme",
         "ATC Artists": [
             "Chicano Batman"
-        ]
+        ],
+        "Result Track Name": "Cycles of Existential Rhyme",
+        "Result Artist Names": [
+            "Chicano Batman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rpi77GqamZNoltbZ5ksdi",
+        "Result Album Name": "Cycles of Existential Rhyme"
     },
     {
         "Title": "Legalizing Marijuana: It Changes Policing, But May Leave Racial Disparities ",
@@ -94,12 +139,25 @@
         "ATC Track": "Summer Song",
         "ATC Artists": [
             "Tulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Way of the Samurai",
         "ATC Artists": [
             "Deceptikon"
-        ]
+        ],
+        "Result Track Name": "Way Of The Samurai",
+        "Result Artist Names": [
+            "Deceptikon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hJxsJy8oCIGgFwbF0BFjS",
+        "Result Album Name": "Lost Subject"
     }
 ]

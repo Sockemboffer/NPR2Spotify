@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-11-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:34:21"
+        "Scanned Date": "2022-02-07 03:34:21",
+        "Playlist URI": "6UIZaBjXefq6frn6sjY96E",
+        "Playlist Link": "https://open.spotify.com/playlist/6UIZaBjXefq6frn6sjY96E",
+        "Snapshot ID": "MSw1ZTdiM2MzNDc4MDM4MjRmOTYyYjk0ZDUxZDE4MzFiOWNjZjJjZjVj",
+        "Playlist Name": "ATC 2016-11-20 Sun All Things Considered"
     },
     {
         "Title": "Obama Tries To Reassure World Leaders On Trade Ahead Of Trump Presidency",
@@ -28,14 +32,27 @@
         "ATC Track": "Slack",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Slack",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0dv6hceVHyoys0G2Dn1JUa",
+        "Result Album Name": "Epoch"
     },
     {
         "ATC Track": "The Doo Bop Song",
         "ATC Artists": [
             "Easy Mo Bee",
             "J.R. et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "What Influence Could An Attorney General Jeff Sessions Have?",
@@ -59,7 +76,12 @@
         "ATC Track": "We Are The Halluci Nation",
         "ATC Artists": [
             "A Tribe Called Red"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "At This Vegan Thanksgiving Feast, They're Happy To Save Some Turkey",
@@ -71,13 +93,27 @@
         "ATC Track": "Movin' and Groovin'",
         "ATC Artists": [
             "Charlie Musselwhite"
-        ]
+        ],
+        "Result Track Name": "Movin' and Groovin'",
+        "Result Artist Names": [
+            "Charlie Musselwhite",
+            "Musselwhite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39n3IzSoByxKvh5JQ9bAin",
+        "Result Album Name": "Blues - Dancing With the Greats"
     },
     {
         "ATC Track": "Wave",
         "ATC Artists": [
             "Tulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kenyan 'Wonk' Breaks Barriers As Student Body Prez At UNC",
@@ -101,7 +137,15 @@
         "ATC Track": "You're So Very Far Away",
         "ATC Artists": [
             "Clem Leek"
-        ]
+        ],
+        "Result Track Name": "You’re So Very Far Away",
+        "Result Artist Names": [
+            "Clem Leek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6IhFOgNP7YeQ3PoI8kcRLn",
+        "Result Album Name": "Lifenotes"
     },
     {
         "Title": "Questions About Trump Dominate Obama's Final Foreign Trip",

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-03-05",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:47:32"
+        "Scanned Date": "2022-02-07 03:47:32",
+        "Playlist URI": "25ZNhTp07PPsQ1K0930KqQ",
+        "Playlist Link": "https://open.spotify.com/playlist/25ZNhTp07PPsQ1K0930KqQ",
+        "Snapshot ID": "MSw0Yjg5MDYyNWIyZjRkNjFhYmY2NTBiMTdjZjU4NjA2OTRlZWY0ODcx",
+        "Playlist Name": "ATC 2016-03-05 Sat All Things Considered"
     },
     {
         "Title": "5 States Have Their Say In the Presidential Race; Here's What To Look For",
@@ -28,13 +32,27 @@
         "ATC Track": "Best Shot (Theme from Hoosiers)",
         "ATC Artists": [
             "Jerry Goldsmith"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Orisha (Bata)",
         "ATC Artists": [
             "Speedometer"
-        ]
+        ],
+        "Result Track Name": "Orisha (Bata Interlude) featuring Snowboy",
+        "Result Artist Names": [
+            "Speedometer",
+            "Snowboy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pZ6DBhUPLxmrwNoMebm5T",
+        "Result Album Name": "The Shakedown"
     },
     {
         "Title": "Barbershop: Chris Rock, Nina And Kendrick",
@@ -50,7 +68,15 @@
     },
     {
         "ATC Track": "untitled 04",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "untitled 04 | 08.14.2014.",
+        "Result Artist Names": [
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1U13SSgDOxK98L1FTWYrjQ",
+        "Result Album Name": "untitled unmastered."
     },
     {
         "Title": "Amid Uncertainty, Iranians Hope For Economic Reforms",
@@ -62,13 +88,29 @@
         "ATC Track": "Postcard from 1952",
         "ATC Artists": [
             "Explosions in the Sky"
-        ]
+        ],
+        "Result Track Name": "Postcard From 1952",
+        "Result Artist Names": [
+            "Explosions In The Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hIXmLxNIEwotaHu0R4shA",
+        "Result Album Name": "Take Care, Take Care, Take Care"
     },
     {
         "ATC Track": "When Sunny Gets Blue",
         "ATC Artists": [
             "McCoy Tyner"
-        ]
+        ],
+        "Result Track Name": "When Sunny Gets Blue",
+        "Result Artist Names": [
+            "McCoy Tyner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1J9iVCaEriyoMXpj2XszhU",
+        "Result Album Name": "Today And Tomorrow"
     },
     {
         "Title": "Harvard Law School's Crest Could Fall Beneath A Wave Of Student Protest",
@@ -92,10 +134,26 @@
         "ATC Track": "Earth to Heaven",
         "ATC Artists": [
             "Esperanza Spalding"
-        ]
+        ],
+        "Result Track Name": "Earth To Heaven",
+        "Result Artist Names": [
+            "Esperanza Spalding"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gyvqdQoD0bwsnkzQiuZim",
+        "Result Album Name": "Emily’s D+Evolution"
     },
     {
         "ATC Track": "Feeling Good",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Feeling Good",
+        "Result Artist Names": [
+            "Michael Bublé"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3I09LQbHS3NSU46Ly3tPpR",
+        "Result Album Name": "It's Time"
     }
 ]

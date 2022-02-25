@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-12-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:32:07"
+        "Scanned Date": "2022-02-07 03:32:07",
+        "Playlist URI": "7DRcKBGVUPAD3QOs04fnJ3",
+        "Playlist Link": "https://open.spotify.com/playlist/7DRcKBGVUPAD3QOs04fnJ3",
+        "Snapshot ID": "MSw2MzFlYTdiZGYzNDk1MzgwZDY3YTYzYWY0NWE2OTcyMzFlMGJhYzUz",
+        "Playlist Name": "ATC 2016-12-11 Sun All Things Considered"
     },
     {
         "Title": "Sen. Jack Reed Wants To Examine Claims Of Russian Cyberattacks",
@@ -22,13 +26,26 @@
         "ATC Track": "Easy Muffin",
         "ATC Artists": [
             "Amon Tobin"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Remembrance",
         "ATC Artists": [
             "Yussef Kamaal"
-        ]
+        ],
+        "Result Track Name": "Remembrance",
+        "Result Artist Names": [
+            "Yussef Kamaal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0t6pM6f3bwiNetWnXekj56",
+        "Result Album Name": "Black Focus"
     },
     {
         "Title": "Why People Believe Conspiracy Theories",
@@ -52,7 +69,15 @@
         "ATC Track": "Way Of The Samurai",
         "ATC Artists": [
             "Deceptikon"
-        ]
+        ],
+        "Result Track Name": "Way Of The Samurai",
+        "Result Artist Names": [
+            "Deceptikon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4hJxsJy8oCIGgFwbF0BFjS",
+        "Result Album Name": "Lost Subject"
     },
     {
         "Title": "What The Pause In The Dakota Pipeline Project Means For North Dakotans",
@@ -64,7 +89,16 @@
         "ATC Track": "Collard Greens",
         "ATC Artists": [
             "ScHoolboy Q"
-        ]
+        ],
+        "Result Track Name": "Collard Greens",
+        "Result Artist Names": [
+            "ScHoolboy Q",
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zO8ctW0UiuOefR87OeJOZ",
+        "Result Album Name": "Oxymoron (Deluxe)"
     },
     {
         "Title": "Outlining Trump's Potential Conflicts Of Interest",
@@ -86,12 +120,28 @@
     },
     {
         "ATC Track": "With Rainy Eyes",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "With Rainy Eyes",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0lwCj5q9uzU7jlbQkrkuqU",
+        "Result Album Name": "Soon It Will Be Cold Enough"
     },
     {
         "ATC Track": "Cosmic",
         "ATC Artists": [
             "Florian Weber"
-        ]
+        ],
+        "Result Track Name": "Cosmic Girl",
+        "Result Artist Names": [
+            "Florian Weber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4M0sYBY8kkTAbMtvciExNz",
+        "Result Album Name": "Biosphere"
     }
 ]

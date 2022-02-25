@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-05-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:45:05"
+        "Scanned Date": "2022-02-07 03:45:05",
+        "Playlist URI": "1b56ekeaAESROLmhCoX8bH",
+        "Playlist Link": "https://open.spotify.com/playlist/1b56ekeaAESROLmhCoX8bH",
+        "Snapshot ID": "MSwwYWNiODA1MTU0YmZkZTMyMjM2NmQwMTBjNmNiZjE4OWMwNjFjMDZj",
+        "Playlist Name": "ATC 2016-05-28 Sat All Things Considered"
     },
     {
         "Title": "Verizon And Strikers Reach Tentative Agreement",
@@ -28,13 +32,30 @@
         "ATC Track": "Stole The Show",
         "ATC Artists": [
             "Kygo"
-        ]
+        ],
+        "Result Track Name": "Stole the Show",
+        "Result Artist Names": [
+            "Kygo",
+            "Parson James"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5masKPHeAOVNgxdLebIcK7",
+        "Result Album Name": "Cloud Nine"
     },
     {
         "ATC Track": "Roller",
         "ATC Artists": [
             "Quilt"
-        ]
+        ],
+        "Result Track Name": "Roller",
+        "Result Artist Names": [
+            "Quilt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5di8kYa0GOK3wEI0ZECcXL",
+        "Result Album Name": "Plaza"
     },
     {
         "Title": "Millennials Are Moving Back With Mom And Dad",
@@ -52,7 +73,15 @@
         "ATC Track": "Real Feast",
         "ATC Artists": [
             "Singularis"
-        ]
+        ],
+        "Result Track Name": "Real Feast",
+        "Result Artist Names": [
+            "Singularis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iB6JSX3Rk9a9Ltw3AC6gS",
+        "Result Album Name": "The Mood Section"
     },
     {
         "Title": "Gang Rape Shocks Brazilians",
@@ -64,13 +93,29 @@
         "ATC Track": "Stay Bright",
         "ATC Artists": [
             "Linda Thompson"
-        ]
+        ],
+        "Result Track Name": "Stay Bright",
+        "Result Artist Names": [
+            "Linda Thompson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hM5HA20CUuaEy1aLjYBdG",
+        "Result Album Name": "Versatile Heart"
     },
     {
         "ATC Track": "Empire",
         "ATC Artists": [
             "Of Monsters and Men"
-        ]
+        ],
+        "Result Track Name": "Empire",
+        "Result Artist Names": [
+            "Of Monsters and Men"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4M9lfUgDeLHu1fL2ZxZSlu",
+        "Result Album Name": "Beneath The Skin"
     },
     {
         "Title": "Out Of Juvenile Corrections, Poems Of Fury, Loss — And Lingering Beauty",
@@ -94,12 +139,25 @@
         "ATC Track": "The Best Day",
         "ATC Artists": [
             "Atmosphere"
-        ]
+        ],
+        "Result Track Name": "The Best Day",
+        "Result Artist Names": [
+            "Atmosphere"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3QOmgrh6ElgcPKwOAnbwgu",
+        "Result Album Name": "To All My Friends, Blood Makes The Blade Holy: The Atmosphere EP's"
     },
     {
         "ATC Track": "The Inner Banks",
         "ATC Artists": [
             "The Inner Banks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

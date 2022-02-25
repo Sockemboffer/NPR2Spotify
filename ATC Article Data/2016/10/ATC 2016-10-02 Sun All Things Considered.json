@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-10-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:34:58"
+        "Scanned Date": "2022-02-07 03:34:58",
+        "Playlist URI": "6FuIrVAPtKnAxzWXxAbyHt",
+        "Playlist Link": "https://open.spotify.com/playlist/6FuIrVAPtKnAxzWXxAbyHt",
+        "Snapshot ID": "MSxhNmM2Nzk1YzY1MjA0NzY1ZGNjZDE1N2ZjZjBkODg5ZjMxMzEyNWM1",
+        "Playlist Name": "ATC 2016-10-02 Sun All Things Considered"
     },
     {
         "Title": "'NYT' Reporter On Reporting On Leaked Trump Taxes",
@@ -22,13 +26,26 @@
         "ATC Track": "The Birds & Bees",
         "ATC Artists": [
             "Tülpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Daisuke",
         "ATC Artists": [
             "El Huervo"
-        ]
+        ],
+        "Result Track Name": "Daisuke",
+        "Result Artist Names": [
+            "El Huervo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hGRe4d3LJCg1VszAU8Cy1",
+        "Result Album Name": "Do Not Lay Waste To Homes..."
     },
     {
         "Title": "The History Of The Nobel Prizes",
@@ -52,7 +69,12 @@
         "ATC Track": "Serenade for Winds, K. 361: 3rd Movement (As Used in the Film, Amadeus)",
         "ATC Artists": [
             "Wolfgang Amadeus Mozart"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Hungarians Vote Against EU Refugee Plan",
@@ -64,13 +86,29 @@
         "ATC Track": "Don't Let Go",
         "ATC Artists": [
             "Warpaint"
-        ]
+        ],
+        "Result Track Name": "Don't Let Go",
+        "Result Artist Names": [
+            "Warpaint"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2sDwJ6g6hFR9NdkFKIzKIO",
+        "Result Album Name": "Heads Up"
     },
     {
         "ATC Track": "Lorge",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Lorge",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4IzhOhyvPzyikJVXYniF7f",
+        "Result Album Name": "El Ten Eleven"
     },
     {
         "Title": "Clinton Campaigns In North Carolina In Wake Of Police Shooting",
@@ -100,12 +138,28 @@
         "ATC Track": "Source",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Source",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3EJIAquCOpBtGYADcUcKgc",
+        "Result Album Name": "Epoch"
     },
     {
         "ATC Track": "Four Hills",
         "ATC Artists": [
             "DJ Day"
-        ]
+        ],
+        "Result Track Name": "Four Hills",
+        "Result Artist Names": [
+            "DJ Day"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SiKNNc24oEddCMH9KUVxN",
+        "Result Album Name": "The Day Before (Deluxe Edition)"
     }
 ]

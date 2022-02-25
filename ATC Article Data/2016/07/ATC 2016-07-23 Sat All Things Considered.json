@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-07-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:41:24"
+        "Scanned Date": "2022-02-07 03:41:24",
+        "Playlist URI": "0ZrVYJGX9qfTFz6zXE89Az",
+        "Playlist Link": "https://open.spotify.com/playlist/0ZrVYJGX9qfTFz6zXE89Az",
+        "Snapshot ID": "MSw1MzQ5OGNhMjQzZGEyZWE4ZGFjNjIzY2RlNmVhZTMwM2RmZGNjY2E3",
+        "Playlist Name": "ATC 2016-07-23 Sat All Things Considered"
     },
     {
         "Title": "Clinton-Kaine Ticket Makes Debut In Miami",
@@ -22,13 +26,29 @@
         "ATC Track": "Quatic",
         "ATC Artists": [
             "Botany"
-        ]
+        ],
+        "Result Track Name": "Quatic",
+        "Result Artist Names": [
+            "Botany"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55FIhKMfZMj7tQyHcpSGOR",
+        "Result Album Name": "Lava Diviner (Truestory)"
     },
     {
         "ATC Track": "I See Fire",
         "ATC Artists": [
             "Ed Sheeran"
-        ]
+        ],
+        "Result Track Name": "I See Fire",
+        "Result Artist Names": [
+            "Ed Sheeran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fu5IQSRgPxJL2OTP7FVLW",
+        "Result Album Name": "The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "Kabul Bombing Leaves At Least 80 Dead",
@@ -58,7 +78,15 @@
         "ATC Track": "La grande cascade",
         "ATC Artists": [
             "Rene Aubry"
-        ]
+        ],
+        "Result Track Name": "La grande cascade",
+        "Result Artist Names": [
+            "René Aubry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0YVRLEj2Y5Yf4LMNT2rznM",
+        "Result Album Name": "Plaisirs d'amour"
     },
     {
         "Title": "Comic-Con Fans Continue The Epic Battle Between Science And Fiction",
@@ -70,13 +98,30 @@
         "ATC Track": "Barrio Feeling",
         "ATC Artists": [
             "Troker"
-        ]
+        ],
+        "Result Track Name": "Barrio Feeling - Remastered 2018",
+        "Result Artist Names": [
+            "Troker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2pSG8nIhbaqt2tyrheHYTb",
+        "Result Album Name": "Jazz Vinil (Remastered 2018)"
     },
     {
         "ATC Track": "P*** On Your Grave",
         "ATC Artists": [
             "Travis Scott"
-        ]
+        ],
+        "Result Track Name": "Piss On Your Grave (feat. Kanye West)",
+        "Result Artist Names": [
+            "Travis Scott",
+            "Kanye West"
+        ],
+        "Result Track-Match Percent": 0.5454545454545454,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5H25xsIuRWUI8GwcoAoeSG",
+        "Result Album Name": "Rodeo (Expanded Edition)"
     },
     {
         "Title": "Pennsylvania Gov. Tom Wolf Hopes Democrats Rally Behind Clinton At DNC",
@@ -94,13 +139,31 @@
         "ATC Track": "Controlla",
         "ATC Artists": [
             "Drake"
-        ]
+        ],
+        "Result Track Name": "Controlla",
+        "Result Artist Names": [
+            "Drake"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3O8NlPh2LByMU9lSRSHedm",
+        "Result Album Name": "Views"
     },
     {
         "ATC Track": "BUS RIDE",
         "ATC Artists": [
             "Kaytranada feat. feat. Karriem Riggins",
             "River Tiber"
-        ]
+        ],
+        "Result Track Name": "BUS RIDE",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "Karriem Riggins",
+            "River Tiber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8333333333333334,
+        "Result Track URI": "spotify:track:0p07eXzptON22i7dk4lmP7",
+        "Result Album Name": "99.9%"
     }
 ]

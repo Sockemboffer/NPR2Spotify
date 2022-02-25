@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-07-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:40:29"
+        "Scanned Date": "2022-02-07 03:40:29",
+        "Playlist URI": "3ghXFTsj5oTZAMnFOl9njB",
+        "Playlist Link": "https://open.spotify.com/playlist/3ghXFTsj5oTZAMnFOl9njB",
+        "Snapshot ID": "MSxkZTkyY2VlZjQ4OWRiYTVhMDA4ZmYzMzg0OTNmN2M4ZjBjOTNlMWJi",
+        "Playlist Name": "ATC 2016-07-10 Sun All Things Considered"
     },
     {
         "Title": "Dallas Police Reveal New Details On Shooter",
@@ -28,13 +32,27 @@
         "ATC Track": "The Birds & Bees",
         "ATC Artists": [
             "Tülpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Weight Off",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": "WEIGHT OFF",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "BADBADNOTGOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12s6FjStmOwWJrh0yalbKC",
+        "Result Album Name": "99.9%"
     },
     {
         "Title": "Candidates Counting Down The Days Until 'Veep' Selection",
@@ -58,7 +76,16 @@
         "ATC Track": "I Took a Pill in Ibiza",
         "ATC Artists": [
             "Mike Posner"
-        ]
+        ],
+        "Result Track Name": "I Took A Pill In Ibiza - Seeb Remix",
+        "Result Artist Names": [
+            "Mike Posner",
+            "Seeb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1MtUq6Wp1eQ8PC6BbPCj8P",
+        "Result Album Name": "At Night, Alone."
     },
     {
         "Title": "A Swiss Way For The U.K.?",
@@ -70,13 +97,29 @@
         "ATC Track": "All In",
         "ATC Artists": [
             "Flying Lotus"
-        ]
+        ],
+        "Result Track Name": "All In",
+        "Result Artist Names": [
+            "Flying Lotus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7eWIBNEmDlIpnrrhcubpK0",
+        "Result Album Name": "Until The Quiet Comes"
     },
     {
         "ATC Track": "Hyperion",
         "ATC Artists": [
             "Tomas Barfod"
-        ]
+        ],
+        "Result Track Name": "Hyperion",
+        "Result Artist Names": [
+            "Tomas Barfod"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6XfrOUM5oencXqMvff9Ijs",
+        "Result Album Name": "Came to Party - EP"
     },
     {
         "Title": "Black Lives Matter Activists Take It Off The Street And Into The Museum",
@@ -100,12 +143,30 @@
         "ATC Track": "History Has Its Eyes on You",
         "ATC Artists": [
             "Lin-Manuel Miranda"
-        ]
+        ],
+        "Result Track Name": "History Has Its Eyes on You",
+        "Result Artist Names": [
+            "Christopher Jackson",
+            "Lin-Manuel Miranda",
+            "Original Broadway Cast of Hamilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1mGO8rwCE9zk7H06OxcU5m",
+        "Result Album Name": "Hamilton (Original Broadway Cast Recording)"
     },
     {
         "ATC Track": "Sing About Me, I'm Dying Of Thirst",
         "ATC Artists": [
             "Kendrick Lamar"
-        ]
+        ],
+        "Result Track Name": "Sing About Me, I'm Dying Of Thirst",
+        "Result Artist Names": [
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q2v8QaTnHLveAQzR6gvYm",
+        "Result Album Name": "good kid, m.A.A.d city (Deluxe)"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-08-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:39:02"
+        "Scanned Date": "2022-02-07 03:39:02",
+        "Playlist URI": "6XAlcX329rc23kcR2DsIYz",
+        "Playlist Link": "https://open.spotify.com/playlist/6XAlcX329rc23kcR2DsIYz",
+        "Snapshot ID": "MSwzYzU1MDc3NTc2YmVmODZiNDQ4MDU5ZTBhMmRhZDJmMDk4M2FiMzM3",
+        "Playlist Name": "ATC 2016-08-14 Sun All Things Considered"
     },
     {
         "Title": "Heavy Flooding Inundates Southeast Louisiana",
@@ -28,13 +32,29 @@
         "ATC Track": "Division",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Division",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6GByoPUgNGC8g47HTkanFo",
+        "Result Album Name": "Epoch"
     },
     {
         "ATC Track": "Cream on Chrome",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Cream On Chrome - Single Edit",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WxVxmxKgXTgvQaRmAG4ub",
+        "Result Album Name": "Cream On Chrome"
     },
     {
         "Title": "Thousands Of Injuries In Israeli-Palestinian Conflict Have Lasting Impact",
@@ -58,7 +78,15 @@
         "ATC Track": "Cycles of Existential Rhyme",
         "ATC Artists": [
             "Chicano Batman"
-        ]
+        ],
+        "Result Track Name": "Cycles of Existential Rhyme",
+        "Result Artist Names": [
+            "Chicano Batman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6rpi77GqamZNoltbZ5ksdi",
+        "Result Album Name": "Cycles of Existential Rhyme"
     },
     {
         "Title": "Master Chef Turns Leftovers Into Fine Dining For Brazil's Hungry",
@@ -70,7 +98,15 @@
         "ATC Track": "I Will Possess Your Heart",
         "ATC Artists": [
             "Death Cab for Cutie"
-        ]
+        ],
+        "Result Track Name": "I Will Possess Your Heart",
+        "Result Artist Names": [
+            "Death Cab for Cutie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77vYwoC7e3pVoPq8BA9CuL",
+        "Result Album Name": "Narrow Stairs"
     },
     {
         "Title": "Amid Economic Crisis, Venezuelans Try To Find Food In Colombia",
@@ -94,12 +130,25 @@
         "ATC Track": "First Day",
         "ATC Artists": [
             "Thomas Newman"
-        ]
+        ],
+        "Result Track Name": "First Day",
+        "Result Artist Names": [
+            "Thomas Newman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6C7NLheYmP4zintC6OOXzf",
+        "Result Album Name": "Finding Nemo (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Angels (Instrumental)",
         "ATC Artists": [
             "Chance The Rapper"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

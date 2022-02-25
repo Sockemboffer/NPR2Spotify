@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-10-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:35:42"
+        "Scanned Date": "2022-02-07 03:35:42",
+        "Playlist URI": "4CPMZtVNCNDcg7ejRN30JL",
+        "Playlist Link": "https://open.spotify.com/playlist/4CPMZtVNCNDcg7ejRN30JL",
+        "Snapshot ID": "MSwwNjI5NTY1Zjc3MGIzYWQxZmM2MGEwOTY3ZjJkMzZmNjUwNTAzMzUy",
+        "Playlist Name": "ATC 2016-10-16 Sun All Things Considered"
     },
     {
         "Title": "Pastor Max Lucado Worries About Lasting Consequences Of 2016 Campaign",
@@ -23,13 +27,27 @@
         "ATC Artists": [
             "Tom Middleton",
             "Blu Mar Ten"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Weight Off",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": "WEIGHT OFF",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "BADBADNOTGOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12s6FjStmOwWJrh0yalbKC",
+        "Result Album Name": "99.9%"
     },
     {
         "Title": "After Voters Reject Colombia Peace Deal, Guerrillas Are Left In Limbo",
@@ -53,7 +71,12 @@
         "ATC Track": "Palm Pastel",
         "ATC Artists": [
             "Tulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Author Jeff Chang Says People 'Really Want To Have' Conversations On Race",
@@ -65,7 +88,15 @@
         "ATC Track": "Sing About Me, I'm Dying Of Thirst",
         "ATC Artists": [
             "Kendrick Lamar"
-        ]
+        ],
+        "Result Track Name": "Sing About Me, I'm Dying Of Thirst",
+        "Result Artist Names": [
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q2v8QaTnHLveAQzR6gvYm",
+        "Result Album Name": "good kid, m.A.A.d city (Deluxe)"
     },
     {
         "Title": "Evan McMullin Calls Himself 'The Only Conservative' In Presidential Race",
@@ -89,12 +120,28 @@
         "ATC Track": "Introduction",
         "ATC Artists": [
             "Mala"
-        ]
+        ],
+        "Result Track Name": "Introduction",
+        "Result Artist Names": [
+            "Mala"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2UslhfyG7d0U8kJ4DvGMOb",
+        "Result Album Name": "Mala in Cuba"
     },
     {
         "ATC Track": "Slack",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Slack",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0dv6hceVHyoys0G2Dn1JUa",
+        "Result Album Name": "Epoch"
     }
 ]

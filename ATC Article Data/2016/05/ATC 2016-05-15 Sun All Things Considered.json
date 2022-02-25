@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2016-05-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:44:22"
+        "Scanned Date": "2022-02-07 03:44:22",
+        "Playlist URI": "2SfYwfVCLZdQGIILeLQFfj",
+        "Playlist Link": "https://open.spotify.com/playlist/2SfYwfVCLZdQGIILeLQFfj",
+        "Snapshot ID": "MSxiZTUzNjU0Yzc1MDY1ZDIzMmZhOTFkNDVjN2NkOTljNWNhZjlkM2E1",
+        "Playlist Name": "ATC 2016-05-15 Sun All Things Considered"
     },
     {
         "Title": "California Agencies Send Mixed Signals On Drought Conditions",
@@ -28,13 +32,30 @@
         "ATC Track": "Natural High",
         "ATC Artists": [
             "Tosca"
-        ]
+        ],
+        "Result Track Name": "Natural High",
+        "Result Artist Names": [
+            "Tosca"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:71AKXWeIrCF5DwSb26VlgR",
+        "Result Album Name": "Natural High"
     },
     {
         "ATC Track": "Weight Off",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": "WEIGHT OFF",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "BADBADNOTGOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12s6FjStmOwWJrh0yalbKC",
+        "Result Album Name": "99.9%"
     },
     {
         "Title": "Russian Officials Deny Allegations Of State-Sponsored Athlete Doping",
@@ -64,7 +85,15 @@
         "ATC Track": "Pretty Things",
         "ATC Artists": [
             "Tülpa"
-        ]
+        ],
+        "Result Track Name": "Pretty Things",
+        "Result Artist Names": [
+            "Tülpa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ikg8gHwvt68cGy6gw27zK",
+        "Result Album Name": "Pretty Things"
     },
     {
         "Title": "North Carolinians Who Support 'Bathroom Law' Say They're Being Drowned Out",
@@ -76,13 +105,26 @@
         "ATC Track": "The Inner Banks",
         "ATC Artists": [
             "The Inner Banks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Thinking Loudly",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Thinking Loudly",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6F5OSQSyBnQR7DJHjFLcqO",
+        "Result Album Name": "El Ten Eleven"
     },
     {
         "Title": "Assessing Social Media's Growing Clout In The News Landscape",
@@ -106,12 +148,29 @@
         "ATC Track": "Blessings",
         "ATC Artists": [
             "Chance The Rapper"
-        ]
+        ],
+        "Result Track Name": "Blessings (feat. Jamila Woods)",
+        "Result Artist Names": [
+            "Chance the Rapper",
+            "Jamila Woods"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2VQc9orzwE6a5qFfy54P6e",
+        "Result Album Name": "Coloring Book"
     },
     {
         "ATC Track": "Sing About Me, I'm Dying Of Thirst",
         "ATC Artists": [
             "Kendrick Lamar"
-        ]
+        ],
+        "Result Track Name": "Sing About Me, I'm Dying Of Thirst",
+        "Result Artist Names": [
+            "Kendrick Lamar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q2v8QaTnHLveAQzR6gvYm",
+        "Result Album Name": "good kid, m.A.A.d city (Deluxe)"
     }
 ]
