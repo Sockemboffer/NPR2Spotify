@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-11-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:13:35"
+        "Scanned Date": "2022-02-07 03:13:35",
+        "Playlist URI": "7utNYfFx4BnPKZ8x1P6xKj",
+        "Playlist Link": "https://open.spotify.com/playlist/7utNYfFx4BnPKZ8x1P6xKj",
+        "Snapshot ID": "MSxiMWQwZTZkYTRhN2NlNjY1ZWY0ZGIyZjNiNzBjMjMzN2MyNThiYzcx",
+        "Playlist Name": "ATC 2015-11-22 Sun All Things Considered"
     },
     {
         "Title": "Amid Fears Of An Attack, Belgium Re-Ups Its State Of Emergency",
@@ -28,11 +32,28 @@
         "ATC Track": "Yerba Buena Bump",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "Yerba Buena Bump",
+        "Result Artist Names": [
+            "Tommy Guerrero",
+            "Marc Capelle"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6xPDj42lEk8lNYWZBhIKfU",
+        "Result Album Name": "Lifeboats and Follies"
     },
     {
         "ATC Track": "Distant Graphite",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Distant Graphite",
+        "Result Artist Names": [
+            "Blazo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mP794DC011KhYyhqwy8rQ",
+        "Result Album Name": "Colors of Jazz"
     },
     {
         "Title": "Seasonal Temps Prep For The Holiday Rush",
@@ -62,7 +83,15 @@
         "ATC Track": "Don't Steal Stuff",
         "ATC Artists": [
             "Dusty Brown"
-        ]
+        ],
+        "Result Track Name": "Don't Steal Stuff",
+        "Result Artist Names": [
+            "Dusty Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uLOG9LtZvRjUtorJ2sDqC",
+        "Result Album Name": "Hope You're Happy"
     },
     {
         "Title": "In A City With Strong Ties To Syria, Refugee Crisis Stirs Debate",
@@ -74,13 +103,26 @@
         "ATC Track": "For Your Own Good",
         "ATC Artists": [
             "Shipwrek"
-        ]
+        ],
+        "Result Track Name": "For Your Own Good",
+        "Result Artist Names": [
+            "Shipwrek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Q3GOjuJm64Zew5YDfIhGz",
+        "Result Album Name": "Journal"
     },
     {
         "ATC Track": "Transcendance",
         "ATC Artists": [
             "Lindsay Sterling"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Son Lost In '3 1/2 Minutes' — And A Tragic Anniversary For His Parents",
@@ -98,12 +140,28 @@
         "ATC Track": "Down Frenchman St",
         "ATC Artists": [
             "The Filthy Six"
-        ]
+        ],
+        "Result Track Name": "Down Frenchmen St",
+        "Result Artist Names": [
+            "The Filthy Six"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ofSPPgO1q41e6qTdL29U8",
+        "Result Album Name": "The Fox"
     },
     {
         "ATC Track": "Pacific Theme",
         "ATC Artists": [
             "Broken Social Scene"
-        ]
+        ],
+        "Result Track Name": "Pacific Theme",
+        "Result Artist Names": [
+            "Broken Social Scene"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:03gKdAQAswBo7v4p8F1An4",
+        "Result Album Name": "You Forgot It In People"
     }
 ]

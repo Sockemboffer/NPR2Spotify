@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-11-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:13:56"
+        "Scanned Date": "2022-02-07 03:13:56",
+        "Playlist URI": "5uH7n2B27838yr4MD9iAyk",
+        "Playlist Link": "https://open.spotify.com/playlist/5uH7n2B27838yr4MD9iAyk",
+        "Snapshot ID": "MSw3YjgzNzZhZGE2NDE2M2JiN2FkZjdjNmJlYTIxY2M2MzEyMTYwMjQ3",
+        "Playlist Name": "ATC 2015-11-28 Sat All Things Considered"
     },
     {
         "Title": "A Day Later, Details Emerge On Planned Parenthood Shooting",
@@ -26,13 +30,26 @@
     },
     {
         "ATC Track": "The Force",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "The Force",
+        "Result Artist Names": [
+            "Lettuce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5FKYuJaxm0VCJapvg9GuMd",
+        "Result Album Name": "Crush"
     },
     {
         "ATC Track": "VCR [Four Tet Remix]",
         "ATC Artists": [
             "The xx"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Barbershop: Black Friday, Black Lives Matter And Social 'Cuffing'",
@@ -51,7 +68,15 @@
         "ATC Artists": [
             "Prince",
             "the Revolution"
-        ]
+        ],
+        "Result Track Name": "Purple Rain",
+        "Result Artist Names": [
+            "Prince"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:54X78diSLoUDI3joC2bjMz",
+        "Result Album Name": "Purple Rain"
     },
     {
         "Title": "From Trembling Teacher To Seasoned Mentor: How Tim Gunn Made It Work",
@@ -63,13 +88,29 @@
         "ATC Track": "Wait and See",
         "ATC Artists": [
             "Holy Ghost!"
-        ]
+        ],
+        "Result Track Name": "Wait & See",
+        "Result Artist Names": [
+            "Holy Ghost!"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:29aMkn3Pk8OkHnSm6J8ud6",
+        "Result Album Name": "Holy Ghost! (Deluxe Edition)"
     },
     {
         "ATC Track": "Stay",
         "ATC Artists": [
             "Gavin Mikhail"
-        ]
+        ],
+        "Result Track Name": "Stay (Instrumental)",
+        "Result Artist Names": [
+            "Gavin Mikhail"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WbkiKZxUoXd3ByUrUaRZo",
+        "Result Album Name": "Wake Me Up (AVICII, Rihanna Covers, Etc)"
     },
     {
         "Title": "Osceola At The 50-Yard Line",
@@ -87,12 +128,28 @@
         "ATC Track": "Continuum",
         "ATC Artists": [
             "Jaco Pastorius"
-        ]
+        ],
+        "Result Track Name": "Continuum",
+        "Result Artist Names": [
+            "Jaco Pastorius"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6DIUr11cwnnSAQG7sSswRo",
+        "Result Album Name": "Best Bass Jazz"
     },
     {
         "ATC Track": "Redwood",
         "ATC Artists": [
             "Nym"
-        ]
+        ],
+        "Result Track Name": "Redwood",
+        "Result Artist Names": [
+            "Nym"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VSPiEIqM8zkRlUUaWx2ZQ",
+        "Result Album Name": "Warm Blooded Lizard"
     }
 ]

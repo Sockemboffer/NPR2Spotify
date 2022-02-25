@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-06-14",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:21:55"
+        "Scanned Date": "2022-02-07 03:21:55",
+        "Playlist URI": "4vYpnT0jPb6bGZNysWPZbN",
+        "Playlist Link": "https://open.spotify.com/playlist/4vYpnT0jPb6bGZNysWPZbN",
+        "Snapshot ID": "NCxmYzMyYzJhMjQ3NGI0MzE4NDg2Y2NjYWM0MTYyY2YyNTNhMTZkZWI4",
+        "Playlist Name": "ATC 2015-06-14 Sun All Things Considered"
     },
     {
         "Title": "Yemen Peace Talks To Begin Monday",
@@ -28,11 +32,27 @@
         "ATC Track": "They Broke His Pelvis",
         "ATC Artists": [
             "Cliff Martinez"
-        ]
+        ],
+        "Result Track Name": "They Broke His Pelvis",
+        "Result Artist Names": [
+            "Cliff Martinez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5WsCEOqipR0Cs3HSjPcRBZ",
+        "Result Album Name": "Drive (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "To the Moon",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Talking to the Moon",
+        "Result Artist Names": [
+            "Bruno Mars"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:161DnLWsx1i3u1JT05lzqU",
+        "Result Album Name": "Doo-Wops & Hooligans"
     },
     {
         "Title": "Why MERS Is Likely To Crop Up Outside The Middle East Again ",
@@ -62,13 +82,29 @@
         "ATC Track": "The Jump",
         "ATC Artists": [
             "Daniel Pemberton"
-        ]
+        ],
+        "Result Track Name": "The Jump",
+        "Result Artist Names": [
+            "Daniel Pemberton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Lqk3vS4WrRlEnS6aBtW4E",
+        "Result Album Name": "Space Dive (Original Soundtrack from the BBC / National Geographic Film)"
     },
     {
         "ATC Track": "Miami",
         "ATC Artists": [
             "Will Smith"
-        ]
+        ],
+        "Result Track Name": "Miami",
+        "Result Artist Names": [
+            "Will Smith"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6e8Ou0wiqAzIpWb2eSxll8",
+        "Result Album Name": "Big Willie Style"
     },
     {
         "Title": "'Hello Earth! Can You Hear Me?'",
@@ -86,7 +122,15 @@
         "ATC Track": "Affected Cities",
         "ATC Artists": [
             "Cliff Martinez"
-        ]
+        ],
+        "Result Track Name": "Affected Cities",
+        "Result Artist Names": [
+            "Cliff Martinez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3XfkLpBxj9Y57C3BNzT26d",
+        "Result Album Name": "Contagion (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "'You Couldn't Make This Stuff Up': Inside The Lives Of The 'China Rich'",
@@ -104,12 +148,22 @@
         "ATC Track": "Arbiters of Evolution",
         "ATC Artists": [
             "Maria Schneider"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Streets of Siam",
         "ATC Artists": [
             "Stan Bush"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

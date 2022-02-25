@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-01-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:30:18"
+        "Scanned Date": "2022-02-07 03:30:18",
+        "Playlist URI": "58aGXOjVWgoRRhXtworWUK",
+        "Playlist Link": "https://open.spotify.com/playlist/58aGXOjVWgoRRhXtworWUK",
+        "Snapshot ID": "NCwyZWE3OGViZjYxYTQyNzUzNzBjOGVjZjBmMWJkZTZjZGYyNTc4NjZj",
+        "Playlist Name": "ATC 2015-01-11 Sun All Things Considered"
     },
     {
         "Title": "Will Obama Be Able To Keep His Promise Of Closing Guantanamo Bay?",
@@ -28,13 +32,29 @@
         "ATC Track": "Down the River",
         "ATC Artists": [
             "Chris Knight"
-        ]
+        ],
+        "Result Track Name": "down the river",
+        "Result Artist Names": [
+            "Chris Knight"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3YjmgB8xMuSgXYIdCrOdHl",
+        "Result Album Name": "A Pretty Good Guy"
     },
     {
         "ATC Track": "Barren Lakes",
         "ATC Artists": [
             "Brown Bird"
-        ]
+        ],
+        "Result Track Name": "Barren Lakes",
+        "Result Artist Names": [
+            "Brown Bird"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2U5kKnrp1bxa8c3E4f2Gi7",
+        "Result Album Name": "Fits of Reason"
     },
     {
         "Title": "Gearing Up For Another Season Of Campaign Reporting",
@@ -58,13 +78,26 @@
         "ATC Track": "Things You Don't Think About",
         "ATC Artists": [
             "Little Big Town"
-        ]
+        ],
+        "Result Track Name": "Things You Don't Think About",
+        "Result Artist Names": [
+            "Little Big Town"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hFtyn9McNfliHUYm2AmQT",
+        "Result Album Name": "Pain Killer"
     },
     {
         "ATC Track": "Primavera (Spring)",
         "ATC Artists": [
             "Ludovico Einaudi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Protecting Yourself From Cyberattacks In the New Year",
@@ -94,12 +127,28 @@
         "ATC Track": "History",
         "ATC Artists": [
             "Daniel Pemberton"
-        ]
+        ],
+        "Result Track Name": "History",
+        "Result Artist Names": [
+            "Daniel Pemberton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Mdt8D2D5mR0mHITrnyD7B",
+        "Result Album Name": "Space Dive (Original Soundtrack from the BBC / National Geographic Film)"
     },
     {
         "ATC Track": "Black Dog Wind (Rose of Roses)",
         "ATC Artists": [
             "Hiss Golden Messenger"
-        ]
+        ],
+        "Result Track Name": "Black Dog Wind (Rose of Roses)",
+        "Result Artist Names": [
+            "Hiss Golden Messenger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hQsjBtMIK7Dfr5Q71bKUQ",
+        "Result Album Name": "Lateness of Dancers"
     }
 ]

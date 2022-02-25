@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-12-13",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:11:01"
+        "Scanned Date": "2022-02-07 03:11:01",
+        "Playlist URI": "3JJwxPXZEFNmmKo8WfIHXt",
+        "Playlist Link": "https://open.spotify.com/playlist/3JJwxPXZEFNmmKo8WfIHXt",
+        "Snapshot ID": "MSxhMzFmNDBkYWM4MjYxNTViMjhjNWJkNGZiZGI4MmE2NTU5ZjY3OGFm",
+        "Playlist Name": "ATC 2015-12-13 Sun All Things Considered"
     },
     {
         "Title": "Next Week In Politics: Previewing The Republican Debate",
@@ -22,13 +26,26 @@
         "ATC Track": "Kramer vs. Kramer vs. Godzilla",
         "ATC Artists": [
             "Ben Allison"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Who They Wish I Was",
         "ATC Artists": [
             "Christian Scott"
-        ]
+        ],
+        "Result Track Name": "Who They Wish I Was",
+        "Result Artist Names": [
+            "Christian Scott aTunde Adjuah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7i580BgzgBtZvMCncpkqay",
+        "Result Album Name": "Christian aTunde Adjuah"
     },
     {
         "Title": "The Freddie Gray Trial Asks: What Happened Inside That Van?",
@@ -58,7 +75,15 @@
         "ATC Track": "Baltimore",
         "ATC Artists": [
             "Prince"
-        ]
+        ],
+        "Result Track Name": "Baltimore",
+        "Result Artist Names": [
+            "Prince"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2dp2JM92DMNoEwzdIpe7KO",
+        "Result Album Name": "HITNRUN Phase Two"
     },
     {
         "Title": "After Historic Gains, French National Party Falls Short In Second-Round Elections",
@@ -70,13 +95,29 @@
         "ATC Track": "Illumination",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Illumination",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2S3GEr4xzn9o3qMgOtVO4r",
+        "Result Album Name": "The Mirror Conspiracy"
     },
     {
         "ATC Track": "Yo-Yo",
         "ATC Artists": [
             "Faraquet"
-        ]
+        ],
+        "Result Track Name": "Yo-Yo",
+        "Result Artist Names": [
+            "Faraquet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vfgQQqC9jBSzuookl6NyA",
+        "Result Album Name": "Anthology 1997-98"
     },
     {
         "Title": "In Omaha, Neb., A Dream Of A Shared Religious Space",
@@ -100,12 +141,26 @@
         "ATC Track": "The Imperial March [From The Empire Strikes Back]",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "The Imperial March - From \"Star Wars: The Empire Strikes Back\"",
+        "Result Artist Names": [
+            "John Williams",
+            "Berliner Philharmoniker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3tfc7e6prJsIjzHVJdFuqO",
+        "Result Album Name": "John Williams: The Berlin Concert"
     },
     {
         "ATC Track": "New Hope and End Credits; A New HopeEnd Credits [Episode III ]",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

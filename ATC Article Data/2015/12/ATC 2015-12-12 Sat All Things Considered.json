@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-12-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:10:56"
+        "Scanned Date": "2022-02-07 03:10:56",
+        "Playlist URI": "2nFhOBIHkcnZXbQtszSAIg",
+        "Playlist Link": "https://open.spotify.com/playlist/2nFhOBIHkcnZXbQtszSAIg",
+        "Snapshot ID": "MSw4OTg5ODFhMTU4ZjZkYWJjNzk0YTUwMTk4NDI5MWQ2NGMwM2ZlY2Y4",
+        "Playlist Name": "ATC 2015-12-12 Sat All Things Considered"
     },
     {
         "Title": "Paris Climate Talks Conclude With Landmark International Agreement",
@@ -28,13 +32,29 @@
         "ATC Track": "Principe Charro",
         "ATC Artists": [
             "Troker"
-        ]
+        ],
+        "Result Track Name": "Principe Charro",
+        "Result Artist Names": [
+            "Troker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3d4y3xoF0OHwgK6Ow3CNEx",
+        "Result Album Name": "Crimen Sonoro"
     },
     {
         "ATC Track": "Organism",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "Organism",
+        "Result Artist Names": [
+            "Tommy Guerrero"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6galGfTFHHzsPieYkReYyN",
+        "Result Album Name": "Soul Food Taqueria"
     },
     {
         "Title": "How Trump's Controversial Comments Have Been Received By His Supporters",
@@ -52,7 +72,15 @@
         "ATC Track": "Jessica Jones (Opening Credits)",
         "ATC Artists": [
             "Sean Callery"
-        ]
+        ],
+        "Result Track Name": "Jessica Jones Main Title",
+        "Result Artist Names": [
+            "Sean Callery"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3CyFYCjPynnKTstb7EY0fT",
+        "Result Album Name": "Jessica Jones (Original Soundtrack)"
     },
     {
         "Title": "Post-Bankruptcy, A Booming Detroit Is Still Fragile",
@@ -64,13 +92,29 @@
         "ATC Track": "Mystery (Reprise)",
         "ATC Artists": [
             "Miles Davis"
-        ]
+        ],
+        "Result Track Name": "Mystery - Reprise",
+        "Result Artist Names": [
+            "Miles Davis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jCyZXeq7K2RhGAWCKIt1h",
+        "Result Album Name": "Doo-Bop"
     },
     {
         "ATC Track": "Strollin' with Bone",
         "ATC Artists": [
             "T-Bone Walker"
-        ]
+        ],
+        "Result Track Name": "Strollin' With Bone",
+        "Result Artist Names": [
+            "T-Bone Walker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1BbvCQsbwi65aASFbShW0k",
+        "Result Album Name": "The Essential Collection"
     },
     {
         "Title": "Beyond His Tenure, Holder Hasn't Left The Civil Rights Fight",
@@ -80,7 +124,16 @@
     },
     {
         "ATC Track": "Sonata for solo violin No. 1 in G minor, BWV 1001 [1. Adagio]",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Sonata for Violin Solo No. 1 in G Minor, BWV 1001: 1. Adagio",
+        "Result Artist Names": [
+            "Johann Sebastian Bach",
+            "Hilary Hahn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lh5pqyvcUnXpsGRzhm737",
+        "Result Album Name": "Hilary Hahn plays Bach: Violin Sonatas Nos. 1 & 2; Partita No. 1"
     },
     {
         "Title": "Oh Holy Fright: Christmas Horror Movies That Slay",
@@ -98,12 +151,25 @@
         "ATC Track": "Hedwig's Theme",
         "ATC Artists": [
             "John Williams"
-        ]
+        ],
+        "Result Track Name": "Hedwig's Theme",
+        "Result Artist Names": [
+            "John Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1n8NKQRg8LVHy7oUhUgbFF",
+        "Result Album Name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack"
     },
     {
         "ATC Track": "Have Yourself a Merry Little Christmas (for the film Meet Me in St. Louis)",
         "ATC Artists": [
             "Imani Winds"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-05-24",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:24:12"
+        "Scanned Date": "2022-02-07 03:24:12",
+        "Playlist URI": "7gKsru4QabIRUrbG3ou99e",
+        "Playlist Link": "https://open.spotify.com/playlist/7gKsru4QabIRUrbG3ou99e",
+        "Snapshot ID": "NCxhMjNhMGM4ZTMyOGFjMzllNzBhMWIwOGI3NjVlMGMyYThkZTU2YjEw",
+        "Playlist Name": "ATC 2015-05-24 Sun All Things Considered"
     },
     {
         "Title": "'It's For You To Know That You Forgive,' Says Holocaust Survivor",
@@ -28,11 +32,25 @@
         "ATC Track": "A Beautiful Mind, film score [All Love Can Be]",
         "ATC Artists": [
             "James Horner (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Alan Turing's Legacy",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Alan Turing's Legacy",
+        "Result Artist Names": [
+            "Alexandre Desplat",
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GiE1hcocpQIEf1gC7fv2o",
+        "Result Album Name": "The Imitation Game (Original Motion Picture Soundtrack)"
     },
     {
         "Title": "In New England, Recognizing A Little-Known History Of Slavery",
@@ -50,7 +68,15 @@
         "ATC Track": "Most Like Lee",
         "ATC Artists": [
             "Lee Morgan"
-        ]
+        ],
+        "Result Track Name": "Most Like Lee",
+        "Result Artist Names": [
+            "Lee Morgan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3JfUaUogPIFkw0u0hdMnLd",
+        "Result Album Name": "Cornbread"
     },
     {
         "Title": "How Running Away From Home Opened Doors In Hollywood",
@@ -62,7 +88,15 @@
         "ATC Track": "Call",
         "ATC Artists": [
             "Julianna Barwick"
-        ]
+        ],
+        "Result Track Name": "Call",
+        "Result Artist Names": [
+            "Julianna Barwick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zDWBaPHoM9n39TVKNShWx",
+        "Result Album Name": "Pacing"
     },
     {
         "Title": "How Dangerous Is Powdered Alcohol?",
@@ -75,7 +109,16 @@
         "ATC Artists": [
             "Jamie Foxx",
             "T-Pain"
-        ]
+        ],
+        "Result Track Name": "Blame It",
+        "Result Artist Names": [
+            "Jamie Foxx",
+            "T-Pain"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:08uGhvS5MfBk7crUCpnjva",
+        "Result Album Name": "Intuition"
     },
     {
         "Title": "A Home Air Quality Monitor That Can Be Checked Out From The Library",
@@ -87,7 +130,15 @@
         "ATC Track": "Neighbour Riffs",
         "ATC Artists": [
             "Surfer Blood"
-        ]
+        ],
+        "Result Track Name": "Neighbour Riffs",
+        "Result Artist Names": [
+            "Surfer Blood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gEt11xgNfN2G21bYf724g",
+        "Result Album Name": "Astro Coast"
     },
     {
         "Title": "Post-Ron Swanson, Nick Offerman Has The 'Gumption' To Be Himself",
@@ -105,12 +156,28 @@
         "ATC Track": "Daisy Jane",
         "ATC Artists": [
             "Madisen Ward and the Mama Bear"
-        ]
+        ],
+        "Result Track Name": "Daisy Jane",
+        "Result Artist Names": [
+            "Madisen Ward and the Mama Bear"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j7myvVr7DYSfCimZVLkjl",
+        "Result Album Name": "Skeleton Crew"
     },
     {
         "ATC Track": "Your Silent Face",
         "ATC Artists": [
             "New Order"
-        ]
+        ],
+        "Result Track Name": "Your Silent Face - 2015 Remaster",
+        "Result Artist Names": [
+            "New Order"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eKRwDBVWxCXWpLYFYrbd1",
+        "Result Album Name": "Power Corruption and Lies"
     }
 ]

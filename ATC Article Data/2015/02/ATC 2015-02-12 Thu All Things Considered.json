@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-02-12",
         "Day": "Thu",
-        "Scanned Date": "2022-02-07 03:28:53"
+        "Scanned Date": "2022-02-07 03:28:53",
+        "Playlist URI": "3TKzs2N3KEOfhuOsSNx37d",
+        "Playlist Link": "https://open.spotify.com/playlist/3TKzs2N3KEOfhuOsSNx37d",
+        "Snapshot ID": "NCw0ZTBhMWY3NGVhZmQ2OGMzMjI3MzEzNmE3YjBiOGZmMmZhMmNiMTlh",
+        "Playlist Name": "ATC 2015-02-12 Thu All Things Considered"
     },
     {
         "Title": "Ukraine Dominates Meeting Of E.U. Leaders In Brussels",
@@ -28,14 +32,27 @@
         "ATC Track": "Misirlou",
         "ATC Artists": [
             "Anita Darian"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Strange Meeting",
         "ATC Artists": [
             "Bill Frisell",
             "Jerome Harris et. al."
-        ]
+        ],
+        "Result Track Name": "Strange Meeting",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:2XKP32JC2UJ1xYftJKZENI",
+        "Result Album Name": "Bill Frisell (with Dave Holland and Elvin Jones)"
     },
     {
         "Title": "With Porches And Parks, A Texas Community Aims For Urban Utopia",
@@ -53,7 +70,16 @@
         "ATC Track": "Reboliço",
         "ATC Artists": [
             "David Russell"
-        ]
+        ],
+        "Result Track Name": "Reboliço",
+        "Result Artist Names": [
+            "João Pernambuco",
+            "David Russell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:403tYM1MEBjB5U6MmKgSIK",
+        "Result Album Name": "Aire Latino: Latin Music for Guitar"
     },
     {
         "Title": "Low Oil Prices Great For Consumers, Less So For Investors",
@@ -77,7 +103,15 @@
         "ATC Track": "God Bless the Child",
         "ATC Artists": [
             "Joe Augustine"
-        ]
+        ],
+        "Result Track Name": "God Bless the Child",
+        "Result Artist Names": [
+            "Joe Matzzie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0AevVnStKjV4Yxkxmwlbfl",
+        "Result Album Name": "Classical Guitar"
     },
     {
         "Title": "CBS Journalist Bob Simon Remembered For 'Unbelievable' Career",
@@ -90,13 +124,29 @@
         "ATC Artists": [
             "Al Petteway",
             "Amy White"
-        ]
+        ],
+        "Result Track Name": "Loss",
+        "Result Artist Names": [
+            "Amy White"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6GRSHmBFL9fh5fu3Kjqxm4",
+        "Result Album Name": "Bittersweet ~ An American Romance"
     },
     {
         "ATC Track": "Revelation",
         "ATC Artists": [
             "Joe Satriani"
-        ]
+        ],
+        "Result Track Name": "Revelation",
+        "Result Artist Names": [
+            "Joe Satriani"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HHPem1ipezLtKFpGR2tGr",
+        "Result Album Name": "Professor Satchafunkilus and the Musterion of Rock"
     },
     {
         "Title": "Facebook Offers New Options For Digital Life After Death",
@@ -114,14 +164,24 @@
         "ATC Track": "Afro-Cuban Lullaby",
         "ATC Artists": [
             "Viviana Guzman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Down South Camp Meeting",
         "ATC Artists": [
             "Svend Asmussen",
             "Jacob Fischer et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In A Somber Homecoming, Yazidis Grieve And Watch Over Their Dead",
@@ -145,13 +205,29 @@
         "ATC Track": "Free and Easy",
         "ATC Artists": [
             "Matt Savage"
-        ]
+        ],
+        "Result Track Name": "Free and Easy",
+        "Result Artist Names": [
+            "The Matt Savage Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ATxsKRQxXEJRCodlN5eor",
+        "Result Album Name": "Quantum Leap"
     },
     {
         "ATC Track": "Elmer's Revenge",
         "ATC Artists": [
             "Steve Kimock"
-        ]
+        ],
+        "Result Track Name": "Elmer's Revenge",
+        "Result Artist Names": [
+            "Steve Kimock Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3r48kiaVtZgbr4c7Q9V1ug",
+        "Result Album Name": "Eudemonic"
     },
     {
         "Title": "Obama's Plan To Tax Overseas Earnings Draws Scrutiny",
@@ -169,7 +245,15 @@
         "ATC Track": "Memory Hole",
         "ATC Artists": [
             "Bobby Previte"
-        ]
+        ],
+        "Result Track Name": "Memory Hole",
+        "Result Artist Names": [
+            "Bobby Previte"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5dNJf5tAKqgSQtdCNOq5nb",
+        "Result Album Name": "The Coalition of the Willing"
     },
     {
         "Title": "FBI Director Wades Into Contentious Debate Over Policing And Race",
@@ -187,7 +271,16 @@
         "ATC Track": "Modern World",
         "ATC Artists": [
             "Ray Obiedo"
-        ]
+        ],
+        "Result Track Name": "Modern World",
+        "Result Artist Names": [
+            "Ray Obiedo",
+            "Bob Mintzer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6V9i81uqOAWElnrChd5Pch",
+        "Result Album Name": "Carousel"
     },
     {
         "Title": "Ruling May Force Ala. Probate Judges To Issue Same-Sex Marriage Licenses",
@@ -199,13 +292,29 @@
         "ATC Track": "Ahuvati",
         "ATC Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Ahuvati",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6wfzKJALgmCZsCI2WNELPE",
+        "Result Album Name": "Until We Felt Red"
     },
     {
         "ATC Track": "Reverb",
         "ATC Artists": [
             "Soulive"
-        ]
+        ],
+        "Result Track Name": "Reverb",
+        "Result Artist Names": [
+            "Soulive"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dOsD4ptpAZQerC03gT0xP",
+        "Result Album Name": "Break Out"
     },
     {
         "Title": "8 Million Tons Of Plastic Clutter Our Seas",
@@ -223,6 +332,11 @@
         "ATC Track": "Rêve Pour Louis",
         "ATC Artists": [
             "Brad Shepik"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

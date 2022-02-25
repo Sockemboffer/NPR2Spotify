@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-05-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:23:47"
+        "Scanned Date": "2022-02-07 03:23:47",
+        "Playlist URI": "4RiHUuYB3gsYbU1fB4DU8k",
+        "Playlist Link": "https://open.spotify.com/playlist/4RiHUuYB3gsYbU1fB4DU8k",
+        "Snapshot ID": "NCxjMzZlYzQ5OTNjNTk3NGU4ZDAwMzcwNDE5Yzk0Y2M1NzE3MDkyMmQz",
+        "Playlist Name": "ATC 2015-05-17 Sun All Things Considered"
     },
     {
         "Title": "Islamic State Claims To Have Seized Iraqi City of Ramadi",
@@ -28,13 +32,29 @@
         "ATC Track": "Detroit Madness",
         "ATC Artists": [
             "J Dilla"
-        ]
+        ],
+        "Result Track Name": "Detroit Madness - Instrumental",
+        "Result Artist Names": [
+            "J Dilla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5O9uS3g4ol0JqraYeDMg5z",
+        "Result Album Name": "Rebirth of Detroit Instrumentals"
     },
     {
         "ATC Track": "Breeze",
         "ATC Artists": [
             "Mitch Murder"
-        ]
+        ],
+        "Result Track Name": "Breeze",
+        "Result Artist Names": [
+            "Mitch Murder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4QfMUPyVRurqeIH1k4a9Ky",
+        "Result Album Name": "Breeze"
     },
     {
         "Title": "Wiretapping Scandal In Macedonia Unleashes A Political Backlash",
@@ -58,7 +78,12 @@
         "ATC Track": "Race To Resting Rock",
         "ATC Artists": [
             "Original Score"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rental Rules In California Raise Questions About Who's Using Airbnb",
@@ -82,7 +107,15 @@
         "ATC Track": "Wicked Flee",
         "ATC Artists": [
             "Carter Burwell"
-        ]
+        ],
+        "Result Track Name": "The Wicked Flee",
+        "Result Artist Names": [
+            "Carter Burwell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0N3GwdrDtIjmzebv0JKBYY",
+        "Result Album Name": "True Grit"
     },
     {
         "Title": "From Four Different Corners Of Africa, Four Bold New Albums",
@@ -95,6 +128,11 @@
         "ATC Artists": [
             "Roberto Fonseca",
             "Fatoumata Diawara"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

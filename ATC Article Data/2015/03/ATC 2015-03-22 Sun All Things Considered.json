@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-03-22",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:27:38"
+        "Scanned Date": "2022-02-07 03:27:38",
+        "Playlist URI": "3sHjX5iEp41Yl63QvNX9yO",
+        "Playlist Link": "https://open.spotify.com/playlist/3sHjX5iEp41Yl63QvNX9yO",
+        "Snapshot ID": "NCw1ZGYwYjM0YWUxOGMzMDVjYTY1ZTdjZDkwMjI1N2MxZWExOGQ1MjYz",
+        "Playlist Name": "ATC 2015-03-22 Sun All Things Considered"
     },
     {
         "Title": "A Visit To A Marine Base As Marines Test Whether Women Can Serve In Ground Combat",
@@ -20,7 +24,15 @@
     },
     {
         "ATC Track": "The History of a Cheating Heart",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "The History of a Cheating Heart",
+        "Result Artist Names": [
+            "Damon Albarn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VGcm8ZgGOWxdzu4fwCoKA",
+        "Result Album Name": "Everyday Robots"
     },
     {
         "Title": "LA's Ragtag Army Of Graffiti Busters Fight A Perpetual Battle",
@@ -32,14 +44,31 @@
         "ATC Track": "I Walk the Line",
         "ATC Artists": [
             "Waylon Jennings"
-        ]
+        ],
+        "Result Track Name": "I Walk the Line",
+        "Result Artist Names": [
+            "Waylon Jennings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zXVLEQRClRYfedqHSw8Lg",
+        "Result Album Name": "I've Always Been Crazy"
     },
     {
         "ATC Track": "The Blue River Waltz",
         "ATC Artists": [
             "Jay Ungar",
             "Molly Mason et. al."
-        ]
+        ],
+        "Result Track Name": "The Blue River Waltz",
+        "Result Artist Names": [
+            "Jay Ungar",
+            "Molly Mason"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wGkWdwQY3XVvzfCiwuKCx",
+        "Result Album Name": "Relax Your Mind"
     },
     {
         "Title": "Understanding Skid Row's Tensions After A Fatal Police Shooting ",
@@ -57,13 +86,29 @@
         "ATC Track": "Disfarmer Theme",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Disfarmer Theme",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3ftlZtljMnriXruXg8RnoM",
+        "Result Album Name": "Disfarmer (Standard)"
     },
     {
         "ATC Track": "As Only Yesterday",
         "ATC Artists": [
             "Chad Lawson"
-        ]
+        ],
+        "Result Track Name": "As Only Yesterday",
+        "Result Artist Names": [
+            "Chad Lawson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0D10gwzSZBwZj3Uryfr8p3",
+        "Result Album Name": "The Piano"
     },
     {
         "Title": "'13 Men,' No Clear Answers: Digging Into An Indian Gang Rape Case",
@@ -81,12 +126,28 @@
         "ATC Track": "Pedestrian At Best",
         "ATC Artists": [
             "Courtney Barnett"
-        ]
+        ],
+        "Result Track Name": "Pedestrian at Best",
+        "Result Artist Names": [
+            "Courtney Barnett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7gsn3NxWLA0s0g9TmQlMri",
+        "Result Album Name": "Sometimes I Sit and Think, and Sometimes I Just Sit"
     },
     {
         "ATC Track": "Go Bang",
         "ATC Artists": [
             "SBTRKT"
-        ]
+        ],
+        "Result Track Name": "Go Bang",
+        "Result Artist Names": [
+            "SBTRKT"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qb7e1qTOrnywWpyEgDfho",
+        "Result Album Name": "SBTRKT (Deluxe Version)"
     }
 ]

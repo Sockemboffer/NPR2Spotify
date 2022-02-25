@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-07-25",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:20:44"
+        "Scanned Date": "2022-02-07 03:20:44",
+        "Playlist URI": "2sPIutqQsjWoWdqK1n0bLa",
+        "Playlist Link": "https://open.spotify.com/playlist/2sPIutqQsjWoWdqK1n0bLa",
+        "Snapshot ID": "MSwyNTAzOTRhN2NmY2E1Mzk2NjU0YWNiMTRmOWE1MWY4NTBlMzI3M2Y4",
+        "Playlist Name": "ATC 2015-07-25 Sat All Things Considered"
     },
     {
         "Title": "On A Visit To Kenya, Obama Addresses Fight Against Extremists",
@@ -28,7 +32,12 @@
         "ATC Track": "Tip Tap Toes",
         "ATC Artists": [
             "88-Keys"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Despite Spotlight On Police Shootings, Incidents With Latinos Often Forgotten",
@@ -58,7 +67,15 @@
         "ATC Track": "Camphor",
         "ATC Artists": [
             "Caural"
-        ]
+        ],
+        "Result Track Name": "Camphor",
+        "Result Artist Names": [
+            "Caural"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YiPHuJuefNObHiwGgfLTw",
+        "Result Album Name": "Stars on My Ceiling"
     },
     {
         "Title": "Back To Walley World: The Griswolds Go On 'Vacation' Again",
@@ -76,13 +93,30 @@
         "ATC Track": "Maggie's Farm",
         "ATC Artists": [
             "Bob Dylan"
-        ]
+        ],
+        "Result Track Name": "Maggie's Farm",
+        "Result Artist Names": [
+            "Bob Dylan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rGD8FFgHw74cp3RPhucyg",
+        "Result Album Name": "Bringing It All Back Home"
     },
     {
         "ATC Track": "Drume Negrita",
         "ATC Artists": [
             "Ry Cooder",
             "Manuel Galbán"
-        ]
+        ],
+        "Result Track Name": "Drume negrita",
+        "Result Artist Names": [
+            "Ry Cooder",
+            "Manuel Galbán"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SDJ1j1yDow7XtZkd3KG1f",
+        "Result Album Name": "Mambo Sinuendo"
     }
 ]

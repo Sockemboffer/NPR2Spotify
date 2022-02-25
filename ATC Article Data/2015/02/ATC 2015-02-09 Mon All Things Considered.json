@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-02-09",
         "Day": "Mon",
-        "Scanned Date": "2022-02-07 03:28:41"
+        "Scanned Date": "2022-02-07 03:28:41",
+        "Playlist URI": "6XvZ9HsAyncdK4qKh8uKnG",
+        "Playlist Link": "https://open.spotify.com/playlist/6XvZ9HsAyncdK4qKh8uKnG",
+        "Snapshot ID": "NCwzYmVkOTY4OTk3MmVjM2ZkOTE4MTg2NWI4ZjVkNDJiYWE5NDQ3MTg0",
+        "Playlist Name": "ATC 2015-02-09 Mon All Things Considered"
     },
     {
         "Title": "Son's Rare Cancer Leads Family On Quest For Cure",
@@ -16,7 +20,12 @@
         "ATC Track": "Something Said",
         "ATC Artists": [
             "Gerry Grosz"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Supreme Court Refuses To Let Alabama Bar Same-Sex Marriages",
@@ -34,7 +43,12 @@
         "ATC Track": "Suncycle",
         "ATC Artists": [
             "Sarah Jane Cion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Q&A: Sen. Ed Markey On Protecting Data Our Cars Are Sharing",
@@ -52,7 +66,15 @@
         "ATC Track": "Hidden Path",
         "ATC Artists": [
             "New York Electric Piano"
-        ]
+        ],
+        "Result Track Name": "Hidden Path",
+        "Result Artist Names": [
+            "New York Electric Piano"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7b8YoLX71j9ZNE9rm9FNUD",
+        "Result Album Name": "New York Electric Piano"
     },
     {
         "Title": "Gitmo Trial For Sept. 11 Suspects Resumes — Then Abruptly Halted",
@@ -64,13 +86,29 @@
         "ATC Track": "Struggle",
         "ATC Artists": [
             "Bill Frisell"
-        ]
+        ],
+        "Result Track Name": "Struggle",
+        "Result Artist Names": [
+            "Bill Frisell"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06seP1IcUsWGPRNouB51R6",
+        "Result Album Name": "History, Mystery"
     },
     {
         "ATC Track": "Tulong",
         "ATC Artists": [
             "The Beyman Bros"
-        ]
+        ],
+        "Result Track Name": "Tulong",
+        "Result Artist Names": [
+            "The Beyman Bros"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0V3XYs1enEINkW9v5ezCN8",
+        "Result Album Name": "Memories of Summer as a Child"
     },
     {
         "Title": "Before He Was A Grammy Winner — A Conversation With Sam Smith",
@@ -82,7 +120,15 @@
         "ATC Track": "East Is West",
         "ATC Artists": [
             "String Planet"
-        ]
+        ],
+        "Result Track Name": "East Is West",
+        "Result Artist Names": [
+            "String Planet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59sBOpe7wPUwbQnNVUzKGV",
+        "Result Album Name": "Songs From The Home Planet"
     },
     {
         "Title": "Alabama Joins 36 States In Allowing Same-Sex Marriage",
@@ -106,13 +152,26 @@
         "ATC Track": "Interior Design",
         "ATC Artists": [
             "Moodswings"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Cleaner",
         "ATC Artists": [
             "Orgone"
-        ]
+        ],
+        "Result Track Name": "The Cleaner",
+        "Result Artist Names": [
+            "Orgone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1R5zTnWngQhIgwYn711Y6y",
+        "Result Album Name": "Cali Fever"
     },
     {
         "Title": "Pick Up Your Smartphone Less Often. You Might Think Better.",
@@ -130,7 +189,15 @@
         "ATC Track": "Circus",
         "ATC Artists": [
             "Andy Summers"
-        ]
+        ],
+        "Result Track Name": "Circus",
+        "Result Artist Names": [
+            "Andy Summers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Vjt4db9kSuGxG07qv4tpx",
+        "Result Album Name": "The X Tracks"
     },
     {
         "Title": "Obama, Merkel Downplay Disagreement Over Ukraine Aid",
@@ -154,11 +221,27 @@
         "ATC Track": "Drowning Room",
         "ATC Artists": [
             "George Sarah"
-        ]
+        ],
+        "Result Track Name": "Drowning Room",
+        "Result Artist Names": [
+            "George Sarah"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7g5OTxLeUixVbhDkNmUSr8",
+        "Result Album Name": "Ossia"
     },
     {
         "ATC Track": "Wintertime",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Wintertime",
+        "Result Artist Names": [
+            "Cordae"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4WYPYB8KMzxyW85TQxR44X",
+        "Result Album Name": "The Lost Boy"
     },
     {
         "Title": "One Of Sam Smith's Grammys A Win For Tom Petty, Too",
@@ -176,6 +259,14 @@
         "ATC Track": "Train In The Rain",
         "ATC Artists": [
             "Bruce Cockburn"
-        ]
+        ],
+        "Result Track Name": "Train In The Rain",
+        "Result Artist Names": [
+            "Bruce Cockburn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4M2EK2o9Zgy2jeqLVifARM",
+        "Result Album Name": "Dart To The Heart"
     }
 ]

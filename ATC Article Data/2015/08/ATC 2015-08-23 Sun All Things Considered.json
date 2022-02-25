@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-08-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:18:47"
+        "Scanned Date": "2022-02-07 03:18:47",
+        "Playlist URI": "2AeqfzjlRCkcawXtWLem8O",
+        "Playlist Link": "https://open.spotify.com/playlist/2AeqfzjlRCkcawXtWLem8O",
+        "Snapshot ID": "MSxiNGU0ODAxZTZkYmY2NmNhZjkwM2E3NDY1NjBkZTk4YzU5ZDY1MDgw",
+        "Playlist Name": "ATC 2015-08-23 Sun All Things Considered"
     },
     {
         "Title": "On Babies And Birthright, Rhetoric Outpaces Reality",
@@ -28,13 +32,29 @@
         "ATC Track": "Lost in You",
         "ATC Artists": [
             "Garth Brooks"
-        ]
+        ],
+        "Result Track Name": "Lost In You",
+        "Result Artist Names": [
+            "#1 Garth Brooks Tribute Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2iWc70AEN2Vf0JyGI3H4ia",
+        "Result Album Name": "The Ultimate Tribute To Garth Brooks"
     },
     {
         "ATC Track": "Deer Creek Canyon",
         "ATC Artists": [
             "Sera Cahoone"
-        ]
+        ],
+        "Result Track Name": "Deer Creek Canyon",
+        "Result Artist Names": [
+            "Sera Cahoone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bjK4okiLjAPmGjvxEjEBY",
+        "Result Album Name": "Deer Creek Canyon"
     },
     {
         "Title": "Under Threat From Multiple Sides, Archaeologists Race To Uncover Shrines",
@@ -58,7 +78,15 @@
         "ATC Track": "Intro",
         "ATC Artists": [
             "Aer"
-        ]
+        ],
+        "Result Track Name": "Room to Breathe (Intro)",
+        "Result Artist Names": [
+            "Aer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1RFTIzIxil5h6S9txord4J",
+        "Result Album Name": "The Reach"
     },
     {
         "Title": "To Keep Food From The Trash Bin, Spanish City Sets Up A Communal Fridge",
@@ -70,13 +98,29 @@
         "ATC Track": "Mario Takes a Walk",
         "ATC Artists": [
             "Jesse Cook"
-        ]
+        ],
+        "Result Track Name": "Mario Takes A Walk",
+        "Result Artist Names": [
+            "Jesse Cook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:196skioy5snNKHiJrcD7D8",
+        "Result Album Name": "Gravity"
     },
     {
         "ATC Track": "Minutes",
         "ATC Artists": [
             "Freddie Joachim"
-        ]
+        ],
+        "Result Track Name": "Minutes",
+        "Result Artist Names": [
+            "Freddie Joachim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uZ6QSZJPzCD4d7Jtscwes",
+        "Result Album Name": "Patiently"
     },
     {
         "Title": "Aging Tunnels Under Hudson River Threaten To Disrupt Transport, Commerce",
@@ -100,12 +144,25 @@
         "ATC Track": "The Mash and the Fury",
         "ATC Artists": [
             "Trentemoller"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Axons and Dendrites",
         "ATC Artists": [
             "Shipping News"
-        ]
+        ],
+        "Result Track Name": "Axons and Dendrites",
+        "Result Artist Names": [
+            "Shipping News"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2h6jNrLsGagxnWnvBXWtyn",
+        "Result Album Name": "Flies the Fields"
     }
 ]

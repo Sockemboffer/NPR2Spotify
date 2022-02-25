@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-02-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:28:35"
+        "Scanned Date": "2022-02-07 03:28:35",
+        "Playlist URI": "0vWaSbWq7ZmOmUUl9Tm2di",
+        "Playlist Link": "https://open.spotify.com/playlist/0vWaSbWq7ZmOmUUl9Tm2di",
+        "Snapshot ID": "NCwzZjdhM2Y1ZjNjNjI2OWE5MWM2MTY0YzU5OGFmMjA4M2NhMWZlZGU4",
+        "Playlist Name": "ATC 2015-02-07 Sat All Things Considered"
     },
     {
         "Title": "How Should U.S., Europe Respond To Russian Aggression?",
@@ -22,7 +26,15 @@
         "ATC Track": "Father, Father",
         "ATC Artists": [
             "Laura Mvula"
-        ]
+        ],
+        "Result Track Name": "Father Father",
+        "Result Artist Names": [
+            "Laura Mvula"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0mDb3QXMdTdUOVFMj9SAPH",
+        "Result Album Name": "Sing to the Moon"
     },
     {
         "Title": "Pope Declares Salvadoran Archbishop Óscar Romero A Martyr",
@@ -34,13 +46,29 @@
         "ATC Track": "Atlas",
         "ATC Artists": [
             "Dawn of Midi"
-        ]
+        ],
+        "Result Track Name": "Atlas",
+        "Result Artist Names": [
+            "Dawn of Midi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ISTGCtr33jiPJsMiyTjm8",
+        "Result Album Name": "Dysnomia"
     },
     {
         "ATC Track": "Sea Song",
         "ATC Artists": [
             "Faraquet"
-        ]
+        ],
+        "Result Track Name": "Sea Song",
+        "Result Artist Names": [
+            "Faraquet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6JkcZN9wUGOz1rGNYgEQxb",
+        "Result Album Name": "The View from This Tower"
     },
     {
         "Title": "Meet Mafiaboy, The 'Bratty Kid' Who Took Down The Internet",
@@ -70,7 +98,15 @@
         "ATC Track": "Killing Strangers",
         "ATC Artists": [
             "Marilyn Manson"
-        ]
+        ],
+        "Result Track Name": "Killing Strangers",
+        "Result Artist Names": [
+            "Marilyn Manson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gacG0EFSqvgVXEbPX8gCY",
+        "Result Album Name": "THE PALE EMPEROR"
     },
     {
         "Title": "We Went From Hunter-Gatherers To Space Explorers, But Are We Happier?",
@@ -94,12 +130,25 @@
         "ATC Track": "Carry Me Anew",
         "ATC Artists": [
             "Ólafur Arnalds"
-        ]
+        ],
+        "Result Track Name": "Carry Me Anew",
+        "Result Artist Names": [
+            "Ólafur Arnalds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59jLRSEaVR0hZ9tXYVVxZr",
+        "Result Album Name": "For Now I Am Winter"
     },
     {
         "ATC Track": "Jamón y Queso",
         "ATC Artists": [
             "Marcus ?"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

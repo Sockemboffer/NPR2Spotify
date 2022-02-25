@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-05-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:22:56"
+        "Scanned Date": "2022-02-07 03:22:56",
+        "Playlist URI": "5zZmI90ozcmr0luD5T4zBs",
+        "Playlist Link": "https://open.spotify.com/playlist/5zZmI90ozcmr0luD5T4zBs",
+        "Snapshot ID": "NCw4ZWU3MGJjZThiMTQ4OGYxMjMwYjFlZWQ2ZjI2M2E3YzhjNWZmMDM5",
+        "Playlist Name": "ATC 2015-05-02 Sat All Things Considered"
     },
     {
         "Title": "For The Record: The Voices Of Baltimore",
@@ -28,13 +32,29 @@
         "ATC Track": "Hands, Be Still",
         "ATC Artists": [
             "Ólafur Arnalds"
-        ]
+        ],
+        "Result Track Name": "Hands, Be Still",
+        "Result Artist Names": [
+            "Ólafur Arnalds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:47HHlUt0aUEZA5ZUTf6Jes",
+        "Result Album Name": "For Now I Am Winter"
     },
     {
         "ATC Track": "Alcoholic",
         "ATC Artists": [
             "Röyksopp"
-        ]
+        ],
+        "Result Track Name": "The Alcoholic",
+        "Result Artist Names": [
+            "Röyksopp"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:386sEFix79Ofa840xEXEM3",
+        "Result Album Name": "Senior"
     },
     {
         "Title": "Psychological Association Accused Of 'Complicity' In Bush-Era Torture",
@@ -88,12 +108,28 @@
         "ATC Track": "God Save the Queen",
         "ATC Artists": [
             "The Sex Pistols"
-        ]
+        ],
+        "Result Track Name": "God Save the Queen",
+        "Result Artist Names": [
+            "Sex Pistols"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6ui6l3ZNvlrGQZArwo8195",
+        "Result Album Name": "Never Mind The Bollocks, Here's The Sex Pistols"
     },
     {
         "ATC Track": "Wider Sun",
         "ATC Artists": [
             "Jon Hopkins"
-        ]
+        ],
+        "Result Track Name": "The Wider Sun",
+        "Result Artist Names": [
+            "Jon Hopkins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6lKHwU8AAsvuATOCwq2aH8",
+        "Result Album Name": "Insides"
     }
 ]

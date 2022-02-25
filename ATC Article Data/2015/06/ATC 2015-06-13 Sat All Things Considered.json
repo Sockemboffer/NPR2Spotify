@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-06-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:21:53"
+        "Scanned Date": "2022-02-07 03:21:53",
+        "Playlist URI": "6cJnERw9yx0newRjc6kZl7",
+        "Playlist Link": "https://open.spotify.com/playlist/6cJnERw9yx0newRjc6kZl7",
+        "Snapshot ID": "NCxmZTk3NDA2ZmU4NDc2ZTU1NzQyMzA3ZWFmZjRhYTM0ZWVhOTk0ODBi",
+        "Playlist Name": "ATC 2015-06-13 Sat All Things Considered"
     },
     {
         "Title": "Hillary Clinton Outlines Her Populist Presidential Vision",
@@ -28,13 +32,29 @@
         "ATC Track": "In the Navy",
         "ATC Artists": [
             "The Village People"
-        ]
+        ],
+        "Result Track Name": "In The Navy",
+        "Result Artist Names": [
+            "Village People"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:6jV3XfTAP1S3SMChxJ2kJh",
+        "Result Album Name": "The Best Of Village People"
     },
     {
         "ATC Track": "Finding Home (Farewell Version) (Instrumental)",
         "ATC Artists": [
             "Zack Hemsey"
-        ]
+        ],
+        "Result Track Name": "Finding Home (Farewell Version) (Instrumental)",
+        "Result Artist Names": [
+            "Zack Hemsey"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2E14Ni9yFNJdMoOGtIJOu5",
+        "Result Album Name": "Finding Home"
     },
     {
         "Title": "A Glimpse Of Life In Mosul",
@@ -56,7 +76,16 @@
     },
     {
         "ATC Track": "Funeral March of a Marionette [Theme from Alfred Hitchcock Presents]",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Funeral March of a Marionette (Theme From \"Alfred Hitchcock Presents\")",
+        "Result Artist Names": [
+            "Eric Hammerstein",
+            "London Promenade Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vD0x7BSiMN10G7ERhRmh8",
+        "Result Album Name": "Reader's Digest Music: Romancing the Screen, Vol. 5: Action, Suspense & Horror Classics"
     },
     {
         "Title": "Esperanto Is Not Dead: Can The Universal Language Make A Comeback?",
@@ -81,12 +110,28 @@
         "ATC Artists": [
             "Bridges",
             "Leon"
-        ]
+        ],
+        "Result Track Name": "Smooth Sailin'",
+        "Result Artist Names": [
+            "Leon Bridges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jpeI1goQHPIwwCMxrLrwx",
+        "Result Album Name": "Coming Home (Deluxe)"
     },
     {
         "ATC Track": "Golden",
         "ATC Artists": [
             "Dead Man Winter"
-        ]
+        ],
+        "Result Track Name": "Golden",
+        "Result Artist Names": [
+            "Dead Man Winter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7veiXqjnPmh56zSLZsMIP5",
+        "Result Album Name": "Bright Lights"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-05-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:23:45"
+        "Scanned Date": "2022-02-07 03:23:45",
+        "Playlist URI": "7zGEDOrVc7T9o61LocfaD6",
+        "Playlist Link": "https://open.spotify.com/playlist/7zGEDOrVc7T9o61LocfaD6",
+        "Snapshot ID": "NCxlYjk2MDQ1MGUwMTQzZjM4NGNhMGNjMTM4ZWEwY2MxMzgzNjc3YTky",
+        "Playlist Name": "ATC 2015-05-16 Sat All Things Considered"
     },
     {
         "Title": "Amtrak Ordered To Improve Safety Along Northeast Corridor",
@@ -28,13 +32,29 @@
         "ATC Track": "Lost",
         "ATC Artists": [
             "Giles Lamp"
-        ]
+        ],
+        "Result Track Name": "Lost",
+        "Result Artist Names": [
+            "Giles Lamb"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4XReovMqdbHiKsFbNnRCsY",
+        "Result Album Name": "Before the Birds"
     },
     {
         "ATC Track": "Luxe Deluxe",
         "ATC Artists": [
             "Cinnamon Chasers"
-        ]
+        ],
+        "Result Track Name": "Luv Deluxe",
+        "Result Artist Names": [
+            "Cinnamon Chasers"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NFVMrNI3mHeFSAwdbAYfU",
+        "Result Album Name": "A Million Miles from Home"
     },
     {
         "Title": "New Fears Among Afghanistan's Minority Hazara Community",
@@ -58,7 +78,15 @@
         "ATC Track": "Long White Line",
         "ATC Artists": [
             "Sturgill Simpson"
-        ]
+        ],
+        "Result Track Name": "Long White Line",
+        "Result Artist Names": [
+            "Sturgill Simpson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40Xg69oisdpuP4C7xl3RkK",
+        "Result Album Name": "Metamodern Sounds in Country Music"
     },
     {
         "Title": "An Underground Community Of Hash Oil 'Craftsmen'",
@@ -82,6 +110,14 @@
         "ATC Track": "Help The Poor",
         "ATC Artists": [
             "B.B. King"
-        ]
+        ],
+        "Result Track Name": "Help The Poor",
+        "Result Artist Names": [
+            "B.B. King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5qcrexsUJ4AYyxw7zn3YKi",
+        "Result Album Name": "Live At The Regal"
     }
 ]

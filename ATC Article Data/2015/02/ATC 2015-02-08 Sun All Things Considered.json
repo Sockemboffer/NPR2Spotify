@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-02-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:28:37"
+        "Scanned Date": "2022-02-07 03:28:37",
+        "Playlist URI": "4I0yAnRc7w2URjuiW6tSWa",
+        "Playlist Link": "https://open.spotify.com/playlist/4I0yAnRc7w2URjuiW6tSWa",
+        "Snapshot ID": "NCw4NTZhM2NlYjVmNmQ0YzAyZDliNDUxOTg2NDYzMjkyZWIxZTRhZTU1",
+        "Playlist Name": "ATC 2015-02-08 Sun All Things Considered"
     },
     {
         "Title": "To End Solitary Confinement, Rikers Steps Out Of The Box",
@@ -22,13 +26,29 @@
         "ATC Track": "Colomb",
         "ATC Artists": [
             "Nicolas Jaar"
-        ]
+        ],
+        "Result Track Name": "Colomb",
+        "Result Artist Names": [
+            "Nicolas Jaar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5PV6r93MQICDlBiCEbURLZ",
+        "Result Album Name": "Space Is Only Noise"
     },
     {
         "ATC Track": "Sort Of Revolution",
         "ATC Artists": [
             "Fink"
-        ]
+        ],
+        "Result Track Name": "Sort Of Revolution",
+        "Result Artist Names": [
+            "Fink"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0fRLtGUlY9ZPzIjaCoGe7k",
+        "Result Album Name": "Sort of Revolution"
     },
     {
         "Title": "One Week, Two Hacks And A Whole Bunch Of Cyber Worries",
@@ -52,7 +72,12 @@
         "ATC Track": "Firework (Piano Instrumental) - Single",
         "ATC Artists": [
             "At the Piano"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Cities Argue For a Bigger Share Of Pot Tax Revenue",
@@ -64,7 +89,15 @@
         "ATC Track": "Lonely Boy [CD]",
         "ATC Artists": [
             "The Black Keys"
-        ]
+        ],
+        "Result Track Name": "Lonely Boy",
+        "Result Artist Names": [
+            "The Black Keys"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5G1sTBGbZT5o4PNRc75RKI",
+        "Result Album Name": "El Camino"
     },
     {
         "Title": "100 Years Later, What's The Legacy Of 'Birth Of A Nation'?",
@@ -82,12 +115,32 @@
         "ATC Track": "Talin Is Thinking",
         "ATC Artists": [
             "Rudresh Mahanthappa"
-        ]
+        ],
+        "Result Track Name": "Talin Is Thinking",
+        "Result Artist Names": [
+            "Rudresh Mahanthappa",
+            "Adam O'Farrill",
+            "Matt Mitchell",
+            "Francois Moutin",
+            "Rudy Royston"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YYRaFT8R0ECnWnYrLrjHX",
+        "Result Album Name": "Bird Calls (with Adam O'Farrill, Matt Mitchell, François Moutin & Rudy Royston)"
     },
     {
         "ATC Track": "Relaxin' at Camarillo",
         "ATC Artists": [
             "Charlie Haden Quartet West"
-        ]
+        ],
+        "Result Track Name": "Relaxin' At Camarillo",
+        "Result Artist Names": [
+            "Charlie Haden Quartet West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4eWnSRSkw3T8u6dWWHr6Uu",
+        "Result Album Name": "Always Say Goodbye"
     }
 ]

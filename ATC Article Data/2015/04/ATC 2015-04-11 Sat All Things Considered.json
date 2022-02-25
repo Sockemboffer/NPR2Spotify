@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-04-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:25:14"
+        "Scanned Date": "2022-02-07 03:25:14",
+        "Playlist URI": "5SX6kFkKOrOdM0xpnocHSG",
+        "Playlist Link": "https://open.spotify.com/playlist/5SX6kFkKOrOdM0xpnocHSG",
+        "Snapshot ID": "NCwwMzBjYjg4NTFkN2U3YWRjMTg2YTVmMWNmOWIwNjMwMmVlOTdlMTNl",
+        "Playlist Name": "ATC 2015-04-11 Sat All Things Considered"
     },
     {
         "Title": "As Scott Family Reels From Police Shooting, Hundreds Turn Out For Funeral",
@@ -17,7 +21,12 @@
         "ATC Artists": [
             "David Guetta",
             "Sia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "At Summit, All Eyes On Meeting Between Obama And Castro",
@@ -35,14 +44,30 @@
         "ATC Track": "Largo de Guajira",
         "ATC Artists": [
             "Ad Libitum"
-        ]
+        ],
+        "Result Track Name": "Largo De Guajira",
+        "Result Artist Names": [
+            "Ad Libitum"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5VVXjm6mYbnb96fi7OBuRe",
+        "Result Album Name": "Ocaso Otoño"
     },
     {
         "ATC Track": "The Metrics",
         "ATC Artists": [
             "Drums",
             "Tuba"
-        ]
+        ],
+        "Result Track Name": "The Metrics",
+        "Result Artist Names": [
+            "Drums & Tuba"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BwK0CTHiZKf8HaC6VruXj",
+        "Result Album Name": "Mostly Ape"
     },
     {
         "Title": "Trapped In Yemen's 'Armageddon,' An American Made A Dangerous Escape",
@@ -60,7 +85,15 @@
         "ATC Track": "Buffalo",
         "ATC Artists": [
             "Toro Y Moi"
-        ]
+        ],
+        "Result Track Name": "Buffalo",
+        "Result Artist Names": [
+            "Toro y Moi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dEEpACxfeLnxxGQxjfAAq",
+        "Result Album Name": "What For?"
     },
     {
         "Title": "'American Odyssey': Three Ordinary People, One Thrill-Filled Plot",
@@ -72,7 +105,15 @@
         "ATC Track": "Golden Arrow",
         "ATC Artists": [
             "Darkside"
-        ]
+        ],
+        "Result Track Name": "Golden Arrow",
+        "Result Artist Names": [
+            "DARKSIDE"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uo4ZOD82ldcydWj5cPqAa",
+        "Result Album Name": "Psychic"
     },
     {
         "Title": "Federal Government Protects Bat, Angers Industry",
@@ -84,13 +125,29 @@
         "ATC Track": "Ingots",
         "ATC Artists": [
             "Kaki King"
-        ]
+        ],
+        "Result Track Name": "Ingots",
+        "Result Artist Names": [
+            "Kaki King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UJ0F3xOwkY4xqnO3WSmBq",
+        "Result Album Name": "Legs to Make us Longer"
     },
     {
         "ATC Track": "Island",
         "ATC Artists": [
             "Manatee Commune"
-        ]
+        ],
+        "Result Track Name": "Island",
+        "Result Artist Names": [
+            "Manatee Commune"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0zbPLAMoNFXqkyAWo9z7VT",
+        "Result Album Name": "Brush"
     },
     {
         "Title": "Know That THX 'Sound' Before Movies? That's Actually 20,000 Lines Of Code",
@@ -114,12 +171,28 @@
         "ATC Track": "The Kitchen",
         "ATC Artists": [
             "Myra Melford"
-        ]
+        ],
+        "Result Track Name": "The Kitchen",
+        "Result Artist Names": [
+            "Myra Melford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sXXm3RB3LXPXQDi74Zfvm",
+        "Result Album Name": "Snowy Egret"
     },
     {
         "ATC Track": "Language",
         "ATC Artists": [
             "Myra Melford"
-        ]
+        ],
+        "Result Track Name": "Language",
+        "Result Artist Names": [
+            "Myra Melford"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2e8LQXGTwYuaEXbcPTzMdc",
+        "Result Album Name": "Snowy Egret"
     }
 ]

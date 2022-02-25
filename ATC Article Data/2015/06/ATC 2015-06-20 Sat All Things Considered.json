@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-06-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:22:17"
+        "Scanned Date": "2022-02-07 03:22:17",
+        "Playlist URI": "1K4ZK0yRHNyT4jB3x7HYmr",
+        "Playlist Link": "https://open.spotify.com/playlist/1K4ZK0yRHNyT4jB3x7HYmr",
+        "Snapshot ID": "MSxhM2Y2YTRiZmM4ODMwY2Y0ZTEwYmNiOWVjZWNjYTFiNDZlYTViMzZm",
+        "Playlist Name": "ATC 2015-06-20 Sat All Things Considered"
     },
     {
         "Title": "Charleston Church To Hold Sunday Service And Deliver 'Message Of Hope'",
@@ -17,7 +21,12 @@
         "ATC Artists": [
             "David Guetta",
             "Sia"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "After Thousands Of Missions, Air Force To Cut Drone Flights",
@@ -29,7 +38,15 @@
         "ATC Track": "Lonely Press Play",
         "ATC Artists": [
             "Damon Albarn"
-        ]
+        ],
+        "Result Track Name": "Lonely Press Play",
+        "Result Artist Names": [
+            "Damon Albarn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5lEIBqvpZEGhjMg8rdVKeg",
+        "Result Album Name": "Everyday Robots"
     },
     {
         "Title": "An Award To New England's Elderly Is Not Always Cause For Celebration",
@@ -41,13 +58,29 @@
         "ATC Track": "Team",
         "ATC Artists": [
             "Bon Iver"
-        ]
+        ],
+        "Result Track Name": "Team",
+        "Result Artist Names": [
+            "Bon Iver"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Wpwfxa2s7oQ1ll7IUKnds",
+        "Result Album Name": "For Emma, Forever Ago"
     },
     {
         "ATC Track": "Sound & Color",
         "ATC Artists": [
             "Alabama Shakes"
-        ]
+        ],
+        "Result Track Name": "Sound & Color",
+        "Result Artist Names": [
+            "Alabama Shakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:26HaY4D7AV0gVxmkz11bIz",
+        "Result Album Name": "Sound & Color (Deluxe)"
     },
     {
         "Title": "Europe's Migrant Crisis Spreads Ashore As Refugees Enter Bulgaria On Foot",
@@ -65,7 +98,15 @@
         "ATC Track": "Double Agent",
         "ATC Artists": [
             "The Jazz Mandolin Project"
-        ]
+        ],
+        "Result Track Name": "Double Agent - Live",
+        "Result Artist Names": [
+            "The Jazz Mandolin Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LctPaELafNAMUFFn4ZveY",
+        "Result Album Name": "Xenoblast"
     },
     {
         "Title": "By Their Fingertips: Teen Pianists In New Cliburn Competition",
@@ -83,7 +124,15 @@
         "ATC Track": "Frozen Pines",
         "ATC Artists": [
             "Lord Huron"
-        ]
+        ],
+        "Result Track Name": "Frozen Pines",
+        "Result Artist Names": [
+            "Lord Huron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Ncj6X3KgUvmIH6iLPJgHP",
+        "Result Album Name": "Strange Trails"
     },
     {
         "Title": "Residents Fight To Block Fracked Gas In New York's Finger Lakes",
@@ -101,7 +150,15 @@
         "ATC Track": "Astral Weeks",
         "ATC Artists": [
             "Van Morrison"
-        ]
+        ],
+        "Result Track Name": "Astral Weeks - 1999 Remaster",
+        "Result Artist Names": [
+            "Van Morrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vz4iTEfsp2lunsRJeMzjj",
+        "Result Album Name": "Astral Weeks"
     },
     {
         "Title": "The Man Behind 'The Most Interesting Man' Is Interesting, Too",
@@ -113,6 +170,14 @@
         "ATC Track": "Crazy Love",
         "ATC Artists": [
             "Jeff Golub"
-        ]
+        ],
+        "Result Track Name": "Crazy Love",
+        "Result Artist Names": [
+            "Jeff Golub"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Qc7ggTuFh74YUyCuhmmhp",
+        "Result Album Name": "Do It Again"
     }
 ]

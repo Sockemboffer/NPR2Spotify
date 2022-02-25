@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-09-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:17:21"
+        "Scanned Date": "2022-02-07 03:17:21",
+        "Playlist URI": "0fEiqhnM6RNeNyyHBy5AFr",
+        "Playlist Link": "https://open.spotify.com/playlist/0fEiqhnM6RNeNyyHBy5AFr",
+        "Snapshot ID": "MSw2Mjk5ZTI3NmMxODgyZTJiMGNlNzUwNzQ3YzY0N2JlZjA1NzQwNGI3",
+        "Playlist Name": "ATC 2015-09-26 Sat All Things Considered"
     },
     {
         "Title": "Boehner's Constituents In Ohio Reflect His Struggle With The GOP",
@@ -28,13 +32,29 @@
         "ATC Track": "Kingdom Hearts",
         "ATC Artists": [
             "Vitamin String Quartet"
-        ]
+        ],
+        "Result Track Name": "Kingdom Hearts - Dearly Beloved",
+        "Result Artist Names": [
+            "Vitamin String Quartet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0TulhKiOq7BwamXlz2UoIN",
+        "Result Album Name": "Geek Wedding Collection"
     },
     {
         "ATC Track": "The Place I Left Behind",
         "ATC Artists": [
             "The Deep Dark Woods"
-        ]
+        ],
+        "Result Track Name": "The Place I Left Behind",
+        "Result Artist Names": [
+            "The Deep Dark Woods"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7BbAqle8lyB3S56Q9MPTZB",
+        "Result Album Name": "The Place I Left Behind"
     },
     {
         "Title": "Over 1,500 Miles In 9 Days, Reporter Treks With Migrants",
@@ -64,13 +84,26 @@
         "ATC Track": "Mastema",
         "ATC Artists": [
             "Pat Metheny"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Precious",
         "ATC Artists": [
             "JD McPherson"
-        ]
+        ],
+        "Result Track Name": "Precious",
+        "Result Artist Names": [
+            "JD McPherson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1B8n0BlYKJCubsCOfSoj2W",
+        "Result Album Name": "Let The Good Times Roll"
     },
     {
         "Title": "A Dark But Redeeming Tour Of Coal Country, With Composer Julia Wolfe",
@@ -88,6 +121,14 @@
         "ATC Track": "Solar Sailer",
         "ATC Artists": [
             "Daft Punk"
-        ]
+        ],
+        "Result Track Name": "Solar Sailer - From \"TRON: Legacy\"/Score",
+        "Result Artist Names": [
+            "Daft Punk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Jc2SfIHv63JNsUZpunh54",
+        "Result Album Name": "TRON: Legacy"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-07-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:19:55"
+        "Scanned Date": "2022-02-07 03:19:55",
+        "Playlist URI": "6lcF32B8IpMk58utEVZLv1",
+        "Playlist Link": "https://open.spotify.com/playlist/6lcF32B8IpMk58utEVZLv1",
+        "Snapshot ID": "MSwzZjE3MmQzNTU0NDEyMDdmODgyMWRlMmJlZmI5MTZlMWRiYTA5Zjk2",
+        "Playlist Name": "ATC 2015-07-12 Sun All Things Considered"
     },
     {
         "Title": "Manhunt Underway For 'El Chapo,' Who Escaped Maximum Security Prison In Mexico",
@@ -28,13 +32,29 @@
         "ATC Track": "Curt Flood",
         "ATC Artists": [
             "Joe Henry"
-        ]
+        ],
+        "Result Track Name": "Curt Flood",
+        "Result Artist Names": [
+            "Joe Henry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AJ6NUZcmo7FQ4sldR9WEc",
+        "Result Album Name": "Fuse"
     },
     {
         "ATC Track": "Reckoner",
         "ATC Artists": [
             "Robert Glasper"
-        ]
+        ],
+        "Result Track Name": "Reckoner - Live At Capitol Studios / 2014",
+        "Result Artist Names": [
+            "Robert Glasper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PUCiHl4uncCHHESAV8fwM",
+        "Result Album Name": "Covered (The Robert Glasper Trio Recorded Live At Capitol Studios)"
     },
     {
         "Title": "After Fight For Life And Media Firestorm, 'Distressed Baby' Is Happy Toddler",
@@ -56,7 +76,15 @@
     },
     {
         "ATC Track": "Long Walk Home",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Long Walk Home",
+        "Result Artist Names": [
+            "Bruce Springsteen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:41RlTAAmlNhuhPx8rPZlDS",
+        "Result Album Name": "Magic"
     },
     {
         "Title": "The Furries Have Landed — And Pittsburgh Is Giving Them A Bear Hug",
@@ -69,13 +97,29 @@
         "ATC Artists": [
             "Arling",
             "Cameron"
-        ]
+        ],
+        "Result Track Name": "Groovy",
+        "Result Artist Names": [
+            "Arling & Cameron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2nsTLLxxGSRedbaththG7a",
+        "Result Album Name": "All-In"
     },
     {
         "ATC Track": "Suite Iii Overture",
         "ATC Artists": [
             "Janelle Monáe"
-        ]
+        ],
+        "Result Track Name": "Suite III Overture",
+        "Result Artist Names": [
+            "Janelle Monáe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4M1sI8PeQsSDQJWQXtDzWV",
+        "Result Album Name": "The ArchAndroid"
     },
     {
         "Title": "Next Stop, Pluto",
@@ -87,7 +131,16 @@
         "ATC Track": "Spectrum",
         "ATC Artists": [
             "Florence + the Machine"
-        ]
+        ],
+        "Result Track Name": "Spectrum (Say My Name) - Calvin Harris Remix",
+        "Result Artist Names": [
+            "Florence + The Machine",
+            "Calvin Harris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1c478uMN61yF2JOXXEtsdw",
+        "Result Album Name": "Spectrum (Say My Name) EP"
     },
     {
         "Title": "The Pitch Of A Lifetime: One Enterprising 'Star Trek' Fan's Big Chance",
@@ -99,7 +152,12 @@
         "ATC Track": "Suite From\"Star Trek II: The Wrath of Khan\" (Epilogue)",
         "ATC Artists": [
             "Cincinnati Pops Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Opening Indonesia's Eyes In 'The Look Of Silence'",
@@ -119,13 +177,29 @@
             "Jon Vickers",
             "Rome Opera House Orchestra",
             "Tullio Serafin (conductor)"
-        ]
+        ],
+        "Result Track Name": "Tosca: Recondita armonia",
+        "Result Artist Names": [
+            "Giacomo Puccini",
+            "Jon Vickers",
+            "Orchestra Dell Opera Di Roma",
+            "Tullio Serafin"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3vBMkEO3wkgUw9IozVPhwA",
+        "Result Album Name": "Jon Vickers The early years"
     },
     {
         "ATC Track": "Night Travel",
         "ATC Artists": [
             "Meredith Monk",
             "Wayne Hankin (conductor)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

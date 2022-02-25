@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-06-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:22:19"
+        "Scanned Date": "2022-02-07 03:22:19",
+        "Playlist URI": "6ARe5sw5D97RlnhkTlmC0r",
+        "Playlist Link": "https://open.spotify.com/playlist/6ARe5sw5D97RlnhkTlmC0r",
+        "Snapshot ID": "MSxkYzVkZDIxZmRlNmY0N2Q0NWQyZjY0YzczNjJiYWNiZjgzYjcwNWJh",
+        "Playlist Name": "ATC 2015-06-21 Sun All Things Considered"
     },
     {
         "Title": "In Charleston, A Day Of Faith And Recovery",
@@ -16,7 +20,12 @@
         "ATC Track": "Father, Father",
         "ATC Artists": [
             "Metropole Orkest"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Will Monday's Greek Debt Talks Result In A Deal?",
@@ -34,13 +43,29 @@
         "ATC Track": "Nostrand",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Nostrand",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YlFQ9M6N3UoOfRlAifqcw",
+        "Result Album Name": "Classics"
     },
     {
         "ATC Track": "Good Morning",
         "ATC Artists": [
             "Robert Glasper"
-        ]
+        ],
+        "Result Track Name": "Good Morning - Live At Capitol Studios / 2014",
+        "Result Artist Names": [
+            "Robert Glasper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6zrpQxVHprLJudTSJ5cmri",
+        "Result Album Name": "Covered (The Robert Glasper Trio Recorded Live At Capitol Studios)"
     },
     {
         "Title": "For Registered Sex Offenders, An Uphill Civil Rights Battle ",
@@ -64,7 +89,15 @@
         "ATC Track": "Artifact",
         "ATC Artists": [
             "Balmorhea"
-        ]
+        ],
+        "Result Track Name": "Artifact",
+        "Result Artist Names": [
+            "Balmorhea"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jweiWpNyVAg4c0ycUHBqF",
+        "Result Album Name": "Stranger"
     },
     {
         "Title": "Auditory Hallucinations May Vary Across Cultures",
@@ -76,13 +109,29 @@
         "ATC Track": "Alberto Balsalm",
         "ATC Artists": [
             "Aphex Twin"
-        ]
+        ],
+        "Result Track Name": "Alberto Balsalm",
+        "Result Artist Names": [
+            "Aphex Twin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:21Phj46KeUHOWyZW9A9b7P",
+        "Result Album Name": "...I Care Because You Do"
     },
     {
         "ATC Track": "Brandenburg",
         "ATC Artists": [
             "Beirut"
-        ]
+        ],
+        "Result Track Name": "Brandenburg",
+        "Result Artist Names": [
+            "Beirut"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0MdNuVwk6cnPHvGvKPmOpx",
+        "Result Album Name": "Gulag Orkestar"
     },
     {
         "Title": "The Human Drama Of Hacking Fuels TV Thriller 'Mr. Robot'",
@@ -98,7 +147,15 @@
     },
     {
         "ATC Track": "Looking Too Closely",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Looking Too Closely",
+        "Result Artist Names": [
+            "Fink"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7bhI6rnvaVw8qgZPn32qE0",
+        "Result Album Name": "Hard Believer"
     },
     {
         "Title": "Robert Glasper Puts His Trio On Shuffle",
@@ -110,12 +167,28 @@
         "ATC Track": "Reckoner",
         "ATC Artists": [
             "Robert Glasper"
-        ]
+        ],
+        "Result Track Name": "Reckoner - Live At Capitol Studios / 2014",
+        "Result Artist Names": [
+            "Robert Glasper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PUCiHl4uncCHHESAV8fwM",
+        "Result Album Name": "Covered (The Robert Glasper Trio Recorded Live At Capitol Studios)"
     },
     {
         "ATC Track": "Worst",
         "ATC Artists": [
             "Robert Glasper"
-        ]
+        ],
+        "Result Track Name": "The Worst - Live At Capitol Studios / 2014",
+        "Result Artist Names": [
+            "Robert Glasper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4YsXD1prW3ssgjLBWzG8ir",
+        "Result Album Name": "Covered (The Robert Glasper Trio Recorded Live At Capitol Studios)"
     }
 ]

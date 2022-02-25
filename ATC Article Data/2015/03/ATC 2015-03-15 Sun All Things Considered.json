@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-03-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:27:13"
+        "Scanned Date": "2022-02-07 03:27:13",
+        "Playlist URI": "4TOGpXHvRk5Qs52DIac2Ng",
+        "Playlist Link": "https://open.spotify.com/playlist/4TOGpXHvRk5Qs52DIac2Ng",
+        "Snapshot ID": "NCxhNmMwMDU0YTAyMDBkMDBkNDU0YzZlNTgzYTljMjIwYmY3Zjk0MGQ5",
+        "Playlist Name": "ATC 2015-03-15 Sun All Things Considered"
     },
     {
         "Title": "Arrest Made In Ferguson Police Shooting",
@@ -22,13 +26,31 @@
         "ATC Track": "Beautiful",
         "ATC Artists": [
             "Apocalyptica"
-        ]
+        ],
+        "Result Track Name": "Beautiful",
+        "Result Artist Names": [
+            "Apocalyptica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7HpLo56OAB8DfIUSstBVgb",
+        "Result Album Name": "7th Symphony"
     },
     {
         "ATC Track": "Allegro con brio",
         "ATC Artists": [
             "Albrecht Mayer"
-        ]
+        ],
+        "Result Track Name": "Concerto for Oboe and Orchestra in C Major: I. Allegro con brio",
+        "Result Artist Names": [
+            "Franz Anton Hoffmeister",
+            "Albrecht Mayer",
+            "Kammerakademie Potsdam"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ev1PriWxuJTp5j5F715QU",
+        "Result Album Name": "Lost And Found - Oboenkonzerte des 18. Jahrhunderts von Hoffmeister, Lebrun, Fiala und Koželuh"
     },
     {
         "Title": "Why Is The Risk Of Youth Suicide Higher In Rural Areas?",
@@ -47,7 +69,16 @@
         "ATC Artists": [
             "Sara Bareilles",
             "Ingrid Michaelson"
-        ]
+        ],
+        "Result Track Name": "Winter Song",
+        "Result Artist Names": [
+            "Sara Bareilles",
+            "Ingrid Michaelson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1KDkSCXJIR4CJaVUK9qP7O",
+        "Result Album Name": "The Hotel Café presents... Winter Songs"
     },
     {
         "Title": "Amid Rising Concern About Addiction, Universities Focus On Recovery",
@@ -59,7 +90,15 @@
         "ATC Track": "Hands Be Still",
         "ATC Artists": [
             "Ólafur Arnalds"
-        ]
+        ],
+        "Result Track Name": "Hands, Be Still",
+        "Result Artist Names": [
+            "Ólafur Arnalds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:47HHlUt0aUEZA5ZUTf6Jes",
+        "Result Album Name": "For Now I Am Winter"
     },
     {
         "Title": "An 'Upstream' Battle As Wikimedia Challenges NSA Surveillance",
@@ -71,7 +110,15 @@
         "ATC Track": "Dissolve",
         "ATC Artists": [
             "Absofacto"
-        ]
+        ],
+        "Result Track Name": "Dissolve",
+        "Result Artist Names": [
+            "Absofacto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pBrj5rt4SSxXwFKOyZfHR",
+        "Result Album Name": "Thousand Peaces"
     },
     {
         "Title": "Police Dog On Payroll: 'Indiana Bones' Is Woman's Best Friend",
@@ -83,7 +130,16 @@
         "ATC Track": "My Heart My Life Nusrat Fateh Ali Khan; Michael Brook",
         "ATC Artists": [
             "Nusrat Fateh Ali Khan"
-        ]
+        ],
+        "Result Track Name": "My Heart, My Life",
+        "Result Artist Names": [
+            "Michael Brook",
+            "Nusrat Fateh Ali Khan"
+        ],
+        "Result Track-Match Percent": 0.5714285714285714,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:0Nq8jxV0GkB2IxrO19hbzU",
+        "Result Album Name": "Night Song"
     },
     {
         "Title": "From Waitress To TV Writer: A 'Surreal, Fantastic Cinderella Story'",
@@ -101,6 +157,11 @@
         "ATC Track": "Konzert fur Oboe und Orchester in F-dur: Rondo, Allegretto",
         "ATC Artists": [
             "Albrecht Mayer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-11-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:12:40"
+        "Scanned Date": "2022-02-07 03:12:40",
+        "Playlist URI": "3VINqQ23hFuZgdcuaktSZN",
+        "Playlist Link": "https://open.spotify.com/playlist/3VINqQ23hFuZgdcuaktSZN",
+        "Snapshot ID": "MSxiYmJkMTJlNGU5MzNhZGI3MmU2MmM5Y2U1YjAyNzkzMDZlZTZhYTNh",
+        "Playlist Name": "ATC 2015-11-07 Sat All Things Considered"
     },
     {
         "Title": "What The Keystone XL Pipeline Decision Actually Means",
@@ -28,13 +32,26 @@
         "ATC Track": "OCDC",
         "ATC Artists": [
             "OCDC"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Megatouch",
         "ATC Artists": [
             "Battles"
-        ]
+        ],
+        "Result Track Name": "Megatouch",
+        "Result Artist Names": [
+            "Battles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7qHGFrWPqf9Y1pMdnz2Eib",
+        "Result Album Name": "La Di Da Di"
     },
     {
         "Title": "Meet The Man Behind The Ben Carson Rap",
@@ -52,7 +69,15 @@
         "ATC Track": "Let There Be Horns",
         "ATC Artists": [
             "Rjd2"
-        ]
+        ],
+        "Result Track Name": "Let There Be Horns",
+        "Result Artist Names": [
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gJqCBGds0VaDsAmKPzbZe",
+        "Result Album Name": "The Colossus"
     },
     {
         "Title": "Lea Salonga's Big Break(out): An Allergy Attack At The Audition",
@@ -66,13 +91,29 @@
             "King Sunny Ade",
             "His African Beats",
             "King Sunny Ade"
-        ]
+        ],
+        "Result Track Name": "Ja Fun Mi - Instrumental",
+        "Result Artist Names": [
+            "King Sunny Ade"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7yIlnsnvzTlOAK14ue9IkF",
+        "Result Album Name": "Nigeria 70 - Funky Lagos"
     },
     {
         "ATC Track": "Cavallo",
         "ATC Artists": [
             "Tosca"
-        ]
+        ],
+        "Result Track Name": "Cavallo",
+        "Result Artist Names": [
+            "Tosca"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Y3YyNZETpdZCRZ70kKc8M",
+        "Result Album Name": "Odeon"
     },
     {
         "Title": "'Tribal' Book Looks At College Football's Rabid Fans",
@@ -90,12 +131,28 @@
         "ATC Track": "Somos Novios",
         "ATC Artists": [
             "Paquito D'Rivera"
-        ]
+        ],
+        "Result Track Name": "Somos novios",
+        "Result Artist Names": [
+            "Paquito D'Rivera"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6QnUVjFRbek8ldRxzXvCLe",
+        "Result Album Name": "Paquito D'Rivera Plays the Music of Armando Manzanero"
     },
     {
         "ATC Track": "Carnaval",
         "ATC Artists": [
             "Mexican Institute of Sound"
-        ]
+        ],
+        "Result Track Name": "Carnaval Final",
+        "Result Artist Names": [
+            "Mexican Institute Of Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28TOp6dPfy0s26hbADACOy",
+        "Result Album Name": "Suave Patria"
     }
 ]

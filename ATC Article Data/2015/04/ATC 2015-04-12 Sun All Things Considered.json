@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-04-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:25:16"
+        "Scanned Date": "2022-02-07 03:25:16",
+        "Playlist URI": "6OOPO1tqYJWylrDrQRPodo",
+        "Playlist Link": "https://open.spotify.com/playlist/6OOPO1tqYJWylrDrQRPodo",
+        "Snapshot ID": "NCxkYjM0YzQxMTkxOGMyYjkyYzcyNzNiMTBiNzQ1YjU3N2JmNTYxMWY1",
+        "Playlist Name": "ATC 2015-04-12 Sun All Things Considered"
     },
     {
         "Title": "Presidential Announcements Offer Insight Into How Candidates Run",
@@ -28,14 +32,32 @@
         "ATC Track": "Amazing Grace",
         "ATC Artists": [
             "Goldmund"
-        ]
+        ],
+        "Result Track Name": "Amazing Grace",
+        "Result Artist Names": [
+            "Goldmund"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rBczBcr5X720NxYzgwLCD",
+        "Result Album Name": "All Will Prosper"
     },
     {
         "ATC Track": "Second Time Around",
         "ATC Artists": [
             "Yo-Yo Ma",
             "Edgar Meyer et. al."
-        ]
+        ],
+        "Result Track Name": "Second Time Around",
+        "Result Artist Names": [
+            "Edgar Meyer",
+            "Yo-Yo Ma",
+            "Mark O'Connor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ZTnT6eguv6WEEfs3ZpG9D",
+        "Result Album Name": "Appalachian Journey"
     },
     {
         "Title": "Before The NSA, The DEA Used Phone Records To Track Drug Cartels",
@@ -60,7 +82,15 @@
         "ATC Artists": [
             "Bill Elm",
             "Woody Jackson"
-        ]
+        ],
+        "Result Track Name": "Estancia",
+        "Result Artist Names": [
+            "Bill Elm & Woody Jackson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56wSQCknk5Fp0gOt9EaT2e",
+        "Result Album Name": "Red Dead Redemption Original Soundtrack"
     },
     {
         "Title": "No, Yes, Definitely: On The Rise Of 'No, Totally' As Linguistic Quirk",
@@ -72,13 +102,29 @@
         "ATC Track": "Yes/No",
         "ATC Artists": [
             "Banky W"
-        ]
+        ],
+        "Result Track Name": "Yes/No",
+        "Result Artist Names": [
+            "Banky W."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:47wpq9ChR1Oh4SgXuM0SwD",
+        "Result Album Name": "R & BW"
     },
     {
         "ATC Track": "Science & Faith",
         "ATC Artists": [
             "The Script"
-        ]
+        ],
+        "Result Track Name": "Science & Faith",
+        "Result Artist Names": [
+            "The Script"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NvEVTdjIlh4zx5ZseaZCI",
+        "Result Album Name": "Science & Faith"
     },
     {
         "Title": "I Saw The All-Stars Of Our Generation Honor Allen Ginsberg's 'Howl'",
@@ -96,7 +142,12 @@
         "ATC Track": "Renaissance Lute Pieces (2)",
         "ATC Artists": [
             "Sherri Rottersman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Karen Haglof, No-Wave Guitarist Turned Doctor, Relaunches Music Career",
@@ -108,6 +159,14 @@
         "ATC Track": "Cross",
         "ATC Artists": [
             "James Blackshaw"
-        ]
+        ],
+        "Result Track Name": "Cross",
+        "Result Artist Names": [
+            "James Blackshaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2AvHk3QdMABWRKvcwfo85b",
+        "Result Album Name": "The Glass Bead Game"
     }
 ]

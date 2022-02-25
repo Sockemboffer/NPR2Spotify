@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-11-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:12:19"
+        "Scanned Date": "2022-02-07 03:12:19",
+        "Playlist URI": "6V0I64SfRvgezDJdPq8y2M",
+        "Playlist Link": "https://open.spotify.com/playlist/6V0I64SfRvgezDJdPq8y2M",
+        "Snapshot ID": "MSwyMWE0YTk4ZjZiMDNmYzA3OWEyZTc2YTFhY2QyZjJiM2EyYTAxZGVk",
+        "Playlist Name": "ATC 2015-11-01 Sun All Things Considered"
     },
     {
         "Title": "World Series Game 5: Will The Royals Claim Their Second Championship?",
@@ -22,13 +26,26 @@
         "ATC Track": "Hammocks",
         "ATC Artists": [
             "MillionYoung"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Evergreen",
         "ATC Artists": [
             "Booker T. Jones"
-        ]
+        ],
+        "Result Track Name": "Evergreen - Instrumental",
+        "Result Artist Names": [
+            "Booker T."
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:2WiUfKYrLk5jGWNXZzgIdz",
+        "Result Album Name": "Evergreen (Expanded Edition)"
     },
     {
         "Title": "Philadelphia's Retiring Top Cop: 'I've Never Pretended To Be Perfect'",
@@ -52,7 +69,15 @@
         "ATC Track": "Psiu! Puxa!",
         "ATC Artists": [
             "Lights Out Asia"
-        ]
+        ],
+        "Result Track Name": "Psiu! Puxa!",
+        "Result Artist Names": [
+            "LIGHTS OUT ASIA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7r1quk8b8J704PVrnQ5foO",
+        "Result Album Name": "Eyes Like Brontide"
     },
     {
         "Title": "Words You'll Hear: 'Marijuana Monopoly'",
@@ -64,13 +89,29 @@
         "ATC Track": "Son of a Preacher Man",
         "ATC Artists": [
             "Aretha Franklin"
-        ]
+        ],
+        "Result Track Name": "Son of a Preacher Man",
+        "Result Artist Names": [
+            "Aretha Franklin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uCbetXW9LStYPUjCpBVp9",
+        "Result Album Name": "This Girl's in Love with You"
     },
     {
         "ATC Track": "Ann Arbor Part 3 & 4",
         "ATC Artists": [
             "Shigeto"
-        ]
+        ],
+        "Result Track Name": "Ann Arbor Part 3 & 4",
+        "Result Artist Names": [
+            "Shigeto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qb0JwB7kn5Rtbf1AgMt1U",
+        "Result Album Name": "Lineage"
     },
     {
         "Title": "Kareem Abdul-Jabbar: 'If It's Time To Speak Up, You Have To Speak Up'",
@@ -94,12 +135,28 @@
         "ATC Track": "Chinese Tale",
         "ATC Artists": [
             "PDP"
-        ]
+        ],
+        "Result Track Name": "Chinese Tale",
+        "Result Artist Names": [
+            "PDP"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3sUmpPcVyzvNENw0ej1ZMH",
+        "Result Album Name": "Floating Dream"
     },
     {
         "ATC Track": "Big Chief",
         "ATC Artists": [
             "Professor Longhair"
-        ]
+        ],
+        "Result Track Name": "Big Chief - Remastered",
+        "Result Artist Names": [
+            "Professor Longhair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2r6Ve8kNEzqg3u45UL0muX",
+        "Result Album Name": "Crawfish Fiesta (Remastered with Bonus Track)"
     }
 ]

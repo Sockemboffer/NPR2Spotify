@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-10-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:15:27"
+        "Scanned Date": "2022-02-07 03:15:27",
+        "Playlist URI": "7CdOLTA3hj7Lrz2Iq5HTBH",
+        "Playlist Link": "https://open.spotify.com/playlist/7CdOLTA3hj7Lrz2Iq5HTBH",
+        "Snapshot ID": "MSwyOWMwNjJjZGMzNjE3MzU1NjY0OTE2YTY5ZmY5N2FiMDM0YTZhODAw",
+        "Playlist Name": "ATC 2015-10-25 Sun All Things Considered"
     },
     {
         "Title": "Stranded In Slovenia, Migrants Wait For Buses That Don't Come",
@@ -28,13 +32,29 @@
         "ATC Track": "Tomorrow is an Excuse For Today",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Tomorrow Is an Excuse for Today",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12qWr8BBWX5K4A0iksfUYE",
+        "Result Album Name": "It's Still Like a Secret"
     },
     {
         "ATC Track": "Always This Late",
         "ATC Artists": [
             "ODESZA"
-        ]
+        ],
+        "Result Track Name": "Always This Late",
+        "Result Artist Names": [
+            "ODESZA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06JRkix5RRMRIWffxZqlGt",
+        "Result Album Name": "In Return"
     },
     {
         "Title": "A Glimpse Inside The Bid To Reduce The U.S. Incarceration Rate",
@@ -58,7 +78,15 @@
         "ATC Track": "Bend",
         "ATC Artists": [
             "Chet Faker"
-        ]
+        ],
+        "Result Track Name": "Bend",
+        "Result Artist Names": [
+            "Chet Faker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2NIuHPITzF2c1ajxa5SLku",
+        "Result Album Name": "Bend"
     },
     {
         "Title": "When You Hear The 'Heat,' The Pitcher's Put A Little Extra Mustard On It",
@@ -70,13 +98,31 @@
         "ATC Track": "Movin' and Groovin'",
         "ATC Artists": [
             "Charlie Musselwhite"
-        ]
+        ],
+        "Result Track Name": "Movin' and Groovin'",
+        "Result Artist Names": [
+            "Charlie Musselwhite",
+            "Musselwhite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39n3IzSoByxKvh5JQ9bAin",
+        "Result Album Name": "Blues - Dancing With the Greats"
     },
     {
         "ATC Track": "We Insist",
         "ATC Artists": [
             "Zoe Keating"
-        ]
+        ],
+        "Result Track Name": "We Insist",
+        "Result Artist Names": [
+            "Zoë Keating",
+            "Zoe Clare Keating"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:76UiQ7IDISktSfvIQ1DIVD",
+        "Result Album Name": "One Cello X 16: Natoma"
     },
     {
         "Title": "'Birth Of A Race': The Obscure Demise Of A Would-Be Rebuttal To Racism",
@@ -98,12 +144,25 @@
     },
     {
         "ATC Track": "Lonesome Journey",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Lonesome Journey",
+        "Result Artist Names": [
+            "Eek-A-Mouse"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1R4asf4qgKyoayXQ8clYzP",
+        "Result Album Name": "Wa-Do-Dem"
     },
     {
         "ATC Track": "The Inner Banks",
         "ATC Artists": [
             "The Inner Banks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

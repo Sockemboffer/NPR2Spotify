@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2015-12-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:11:25"
+        "Scanned Date": "2022-02-07 03:11:25",
+        "Playlist URI": "0TTA9jM8aQ2jlZEnMeBZ0H",
+        "Playlist Link": "https://open.spotify.com/playlist/0TTA9jM8aQ2jlZEnMeBZ0H",
+        "Snapshot ID": "MSw1MTg0YTUyM2FkZWUxNmRiYThlMzRmYTllZjBkZjE5OTg0NmY3ZDcy",
+        "Playlist Name": "ATC 2015-12-20 Sun All Things Considered"
     },
     {
         "Title": "Do Christians And Muslims Worship The Same God?",
@@ -22,13 +26,29 @@
         "ATC Track": "Liturgy",
         "ATC Artists": [
             "My Epic"
-        ]
+        ],
+        "Result Track Name": "Liturgy (Instrumental)",
+        "Result Artist Names": [
+            "My Epic"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eMxcSFKyKkn5atv9v1LkM",
+        "Result Album Name": "Behold (Instrumental)"
     },
     {
         "ATC Track": "FourFiveSeconds",
         "ATC Artists": [
             "Blues United"
-        ]
+        ],
+        "Result Track Name": "FourFiveSeconds - Rock Version",
+        "Result Artist Names": [
+            "Blues United"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4e0wbCpEyrNLzBLegKmEcr",
+        "Result Album Name": "FourFiveSeconds (Rock Version)"
     },
     {
         "Title": "Fact-Check: The Democratic Debate",
@@ -52,7 +72,15 @@
         "ATC Track": "We Wish You A Merry Christmas",
         "ATC Artists": [
             "Atlantic Five Jazz Band"
-        ]
+        ],
+        "Result Track Name": "We Wish You A Merry Christmas",
+        "Result Artist Names": [
+            "Atlantic Five Jazz Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2mbvbxwqp20YikIfF8QYsj",
+        "Result Album Name": "Bar Music Moods (Christmas Edition Vol. 2)"
     },
     {
         "Title": "You Should Watch The Way You Punctuate Your Text Messages — Period",
@@ -64,14 +92,27 @@
         "ATC Track": "UGH!",
         "ATC Artists": [
             "The 1975"
-        ]
+        ],
+        "Result Track Name": "UGH!",
+        "Result Artist Names": [
+            "The 1975"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5vgdeMt4uKUN2BeltZjoDh",
+        "Result Album Name": "I like it when you sleep, for you are so beautiful yet so unaware of it"
     },
     {
         "ATC Track": "Mami Gato",
         "ATC Artists": [
             "Martin",
             "Madeski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "From Family Fare To Oscar Bait, The Big Pictures To See At Year's End",
@@ -95,12 +136,28 @@
         "ATC Track": "Just Like Blood",
         "ATC Artists": [
             "Sharon Van Etten"
-        ]
+        ],
+        "Result Track Name": "Just Like Blood",
+        "Result Artist Names": [
+            "Sharon Van Etten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Z7r6qSA9Wqtq5CAZTJZ4v",
+        "Result Album Name": "I Don't Want to Let You Down"
     },
     {
         "ATC Track": "La Jungle de Belleville",
         "ATC Artists": [
             "Benoit Charest"
-        ]
+        ],
+        "Result Track Name": "La Jungle de Belleville",
+        "Result Artist Names": [
+            "Benoît Charest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2AKJWVkYPC4LtMvFDxj0VT",
+        "Result Album Name": "The Triplets Of Belleville"
     }
 ]
