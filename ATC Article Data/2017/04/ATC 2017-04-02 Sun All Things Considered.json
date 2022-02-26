@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-04-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:07:45"
+        "Scanned Date": "2022-02-07 04:07:45",
+        "Playlist URI": "0JuiLm78cpkUypF3ffD7wy",
+        "Playlist Link": "https://open.spotify.com/playlist/0JuiLm78cpkUypF3ffD7wy",
+        "Snapshot ID": "MSw1OTRjNDYyNDY4ZTA3NjRlNDhmYzE0MjI2ZjRmODQ2MDkwYjY1NGQ5",
+        "Playlist Name": "ATC 2017-04-02 Sun All Things Considered"
     },
     {
         "Title": "Trump, Xi Jinping Probably Won't Be Golfing While Talking Trade At Mar-A-Lago Meeting",
@@ -28,13 +32,26 @@
         "ATC Track": "MRI",
         "ATC Artists": [
             "Blended Babies"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Eagle Moon",
         "ATC Artists": [
             "Blended Babies"
-        ]
+        ],
+        "Result Track Name": "Eagle Moon",
+        "Result Artist Names": [
+            "Blended Babies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0A7F2NCOI7g0uDaDiB8K1X",
+        "Result Album Name": "6"
     },
     {
         "Title": "'Brave New Workers': A Burning Desire To Get A Medicinal Marijuana License ",
@@ -56,7 +73,15 @@
     },
     {
         "ATC Track": "Yu Garden",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Yu Garden",
+        "Result Artist Names": [
+            "Saib"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cdYg4l2l34xNKY5IUDBp4",
+        "Result Album Name": "Around the World"
     },
     {
         "Title": "With This Publisher, Native American Superheroes Fly High",
@@ -68,7 +93,15 @@
         "ATC Track": "Blue and Sentimental [Instrumental]",
         "ATC Artists": [
             "Oscar Peterson"
-        ]
+        ],
+        "Result Track Name": "Blue And Sentimental",
+        "Result Artist Names": [
+            "Oscar Peterson"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2K0o5myp4ooWIYML2ixUYy",
+        "Result Album Name": "Work From Home with Oscar Peterson"
     },
     {
         "Title": "Vince Staples: 'We Live In A Space Where Your Name Isn't Enough'",
@@ -86,12 +119,28 @@
         "ATC Track": "Attesa",
         "ATC Artists": [
             "Jackie Evancho"
-        ]
+        ],
+        "Result Track Name": "Attesa",
+        "Result Artist Names": [
+            "Jackie Evancho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Eb4OwN50GsBB2NLdTKm8O",
+        "Result Album Name": "Two Hearts"
     },
     {
         "ATC Track": "Sailing the Solar Flares",
         "ATC Artists": [
             "Dirtwire"
-        ]
+        ],
+        "Result Track Name": "Sailing the Solar Flares",
+        "Result Artist Names": [
+            "Dirtwire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56ahkH80GMeXhe5dZWZLD1",
+        "Result Album Name": "DIRTWIRE"
     }
 ]

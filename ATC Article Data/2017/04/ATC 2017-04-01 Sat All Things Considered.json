@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-04-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:07:34"
+        "Scanned Date": "2022-02-07 04:07:34",
+        "Playlist URI": "33UkrEjgQ7lhU0j7hnASLL",
+        "Playlist Link": "https://open.spotify.com/playlist/33UkrEjgQ7lhU0j7hnASLL",
+        "Snapshot ID": "MSw4ODg2YWQwZmQxNGIwZGQ2ODMxYjMwYzdjMGJmMGY0ODNjNTBjMmRm",
+        "Playlist Name": "ATC 2017-04-01 Sat All Things Considered"
     },
     {
         "Title": "It May Be Too Soon For Congress To Grant Flynn Immunity In Inquiry Over Russia Ties",
@@ -22,13 +26,29 @@
         "ATC Track": "B Minor",
         "ATC Artists": [
             "Lanterna"
-        ]
+        ],
+        "Result Track Name": "B Minor",
+        "Result Artist Names": [
+            "Lanterna"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1eSs8zOBL5KqOtIMk4FT0J",
+        "Result Album Name": "elm street"
     },
     {
         "ATC Track": "Thanks Bill",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Thanks Bill",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1OfFbfUJQT1ZZ6dzoiZxul",
+        "Result Album Name": "Transitions"
     },
     {
         "Title": "Barbershop: 'Bathroom Bill,' VP Pence's Marriage Beliefs",
@@ -44,7 +64,15 @@
     },
     {
         "ATC Track": "116th St",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "116th St.",
+        "Result Artist Names": [
+            "Lettuce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dyjYQhI5KTC82l0VUa6Qs",
+        "Result Album Name": "Mt. Crushmore"
     },
     {
         "Title": "Mississippi State Ends UConn's 111-Game Winning Streak",
@@ -56,7 +84,15 @@
         "ATC Track": "Go State!",
         "ATC Artists": [
             "Mississippi State Famous Maroon Band"
-        ]
+        ],
+        "Result Track Name": "Go State",
+        "Result Artist Names": [
+            "Mississippi State University Famous Maroon Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jH6GWb0ko4zyvDQxSYK4p",
+        "Result Album Name": "Basketball Madness: March Toward Victory with College Fight Songs and Marching Band Hits"
     },
     {
         "Title": "DJ Betto Arcos Shares Essential Songs From His Travels In Cuba",
@@ -74,12 +110,29 @@
         "ATC Track": "Composure",
         "ATC Artists": [
             "B. Fleischmann"
-        ]
+        ],
+        "Result Track Name": "Composure",
+        "Result Artist Names": [
+            "B. Fleischmann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5t3x4ZyaDgxwC6AfYrNokO",
+        "Result Album Name": "The Humbucking Coil"
     },
     {
         "ATC Track": "Broadway Bossa Nova",
         "ATC Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "Broadway Bossa Nova - Remastered",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet",
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DnIXmcIpJbqj1gWv3bN4C",
+        "Result Album Name": "Jazz Impressions Of New York"
     }
 ]

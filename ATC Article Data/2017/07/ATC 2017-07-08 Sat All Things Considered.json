@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-07-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:02:29"
+        "Scanned Date": "2022-02-07 04:02:29",
+        "Playlist URI": "3V6uRwc3hW5A4ipglfrh9W",
+        "Playlist Link": "https://open.spotify.com/playlist/3V6uRwc3hW5A4ipglfrh9W",
+        "Snapshot ID": "MSw4ODZkNmVmNTllNzVjNzFjNzIyMmFkNTI5MGY4OTNhZWM3ZjYxY2E5",
+        "Playlist Name": "ATC 2017-07-08 Sat All Things Considered"
     },
     {
         "Title": "G-20 Hamburg: U.S. Stands Alone On Summit's Key Issues",
@@ -28,11 +32,27 @@
         "ATC Track": "Redwood",
         "ATC Artists": [
             "Nym"
-        ]
+        ],
+        "Result Track Name": "Redwood",
+        "Result Artist Names": [
+            "Nym"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6VSPiEIqM8zkRlUUaWx2ZQ",
+        "Result Album Name": "Warm Blooded Lizard"
     },
     {
         "ATC Track": "X Ray Bear",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "X-Ray Bear",
+        "Result Artist Names": [
+            "The Cactus Channel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vAd8OjWz8o5vqOVcR3WPC",
+        "Result Album Name": "Wooden Boy"
     },
     {
         "Title": "Barbershop: Internet Trolling",
@@ -50,7 +70,15 @@
         "ATC Track": "Sailing the Solar Flares",
         "ATC Artists": [
             "Dirtwire"
-        ]
+        ],
+        "Result Track Name": "Sailing the Solar Flares",
+        "Result Artist Names": [
+            "Dirtwire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56ahkH80GMeXhe5dZWZLD1",
+        "Result Album Name": "DIRTWIRE"
     },
     {
         "Title": "19 Attorneys General Sue DeVos Over Delay Of Borrower Defense Rule",
@@ -74,12 +102,28 @@
         "ATC Track": "Hawaii Five-O",
         "ATC Artists": [
             "Royal Philharmonic Concert Orchestra"
-        ]
+        ],
+        "Result Track Name": "Hawaii Five O TV Series",
+        "Result Artist Names": [
+            "Mount Royal Orchestra"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:1zOYOieg5Wt7LF2rk85ioD",
+        "Result Album Name": "Best Instrumental TV Hits v2"
     },
     {
         "ATC Track": "Villains Ride Again!",
         "ATC Artists": [
             "Surf Guitar Villains"
-        ]
+        ],
+        "Result Track Name": "The Villains Ride Again!",
+        "Result Artist Names": [
+            "Surf Guitar Villains"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Nor77PUqvTjknM62IbrMP",
+        "Result Album Name": "Arizona Indigenous Surf Shop"
     }
 ]

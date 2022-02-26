@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-10-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:56:55"
+        "Scanned Date": "2022-02-07 03:56:55",
+        "Playlist URI": "5oFUcn3xL6LZXUfUFK46xz",
+        "Playlist Link": "https://open.spotify.com/playlist/5oFUcn3xL6LZXUfUFK46xz",
+        "Snapshot ID": "MSw4ZDcyZDc1OWU1Y2U4ZTA4MGJkZjc4NWU1MjM1OTY4Mzc3MTE5NTY5",
+        "Playlist Name": "ATC 2017-10-08 Sun All Things Considered"
     },
     {
         "Title": "Hurricane Nate Spares Southern States, Weakening To Tropical Depression",
@@ -28,13 +32,26 @@
         "ATC Track": "Vulfpeck",
         "ATC Artists": [
             "Vulfpeck"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "A Day By Atmosphere Supreme",
         "ATC Artists": [
             "Nujabes"
-        ]
+        ],
+        "Result Track Name": "A day by atmosphere supreme",
+        "Result Artist Names": [
+            "Nujabes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:07JIJUJdAP9LiyYS5rS8cR",
+        "Result Album Name": "Metaphorical Music"
     },
     {
         "Title": "Businesses To Benefit From Addressing 'Loneliness Epidemic,' Doctor Says",
@@ -64,7 +81,15 @@
         "ATC Track": "Mirror Maru",
         "ATC Artists": [
             "Cashmere Cat"
-        ]
+        ],
+        "Result Track Name": "Mirror Maru",
+        "Result Artist Names": [
+            "Cashmere Cat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52Pp8J18LYkyWL9OXhRUZh",
+        "Result Album Name": "Mirror Maru - EP"
     },
     {
         "Title": "In 'Florida Project,' A First-Time Actress Plays A Single Mom Doing Her Best",
@@ -82,12 +107,28 @@
         "ATC Track": "Can I Kick It?",
         "ATC Artists": [
             "A Tribe Called Quest"
-        ]
+        ],
+        "Result Track Name": "Can I Kick It?",
+        "Result Artist Names": [
+            "A Tribe Called Quest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Ti0GdlrotgwsAVBBugv0I",
+        "Result Album Name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)"
     },
     {
         "ATC Track": "Blue Avenue",
         "ATC Artists": [
             "Jazz Liberatorz"
-        ]
+        ],
+        "Result Track Name": "Blue Avenue",
+        "Result Artist Names": [
+            "Jazz Liberatorz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50e8KL7TnyNKLaWfCSr0xf",
+        "Result Album Name": "Fruit Of The Past"
     }
 ]

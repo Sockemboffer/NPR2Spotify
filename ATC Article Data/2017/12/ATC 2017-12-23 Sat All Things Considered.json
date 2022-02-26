@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-12-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:54:22"
+        "Scanned Date": "2022-02-07 03:54:22",
+        "Playlist URI": "0sUxJUeWEJZP1rGisUzL40",
+        "Playlist Link": "https://open.spotify.com/playlist/0sUxJUeWEJZP1rGisUzL40",
+        "Snapshot ID": "MSxiZTIyZTY4MjdmZTAyMWE0ZTg4ZWU4MTIzOThkMDNiZDUzYzJlMDhi",
+        "Playlist Name": "ATC 2017-12-23 Sat All Things Considered"
     },
     {
         "Title": "Short-Term Spending Resolution: Are The Days Of Annual Budget Proposals Behind Us?",
@@ -22,11 +26,27 @@
         "ATC Track": "Electric Heart",
         "ATC Artists": [
             "Topher Dolan"
-        ]
+        ],
+        "Result Track Name": "Electric Heart",
+        "Result Artist Names": [
+            "Tofer Dolan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:53Eiy5WvBcQ832bcMp50Di",
+        "Result Album Name": "Electric Heart"
     },
     {
         "ATC Track": "Home Again!",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Never Go Home Again",
+        "Result Artist Names": [
+            "Cody Johnson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0CWFczodn19J8r9dftuMMH",
+        "Result Album Name": "Cowboy Like Me"
     },
     {
         "Title": "High School Football Team Helps Texas Town Rebound After Hurricane Harvey",
@@ -50,7 +70,15 @@
         "ATC Track": "La Planta Nueva",
         "ATC Artists": [
             "Joseph Fonseca"
-        ]
+        ],
+        "Result Track Name": "La Planta Nueva",
+        "Result Artist Names": [
+            "Joseph Fonseca"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05GGyfFufjnN8ISbd4wP8d",
+        "Result Album Name": "La Planta Nueva"
     },
     {
         "Title": "It's Competition Season For Coquito, Puerto Rico's Boozy Holiday Treat",
@@ -62,7 +90,15 @@
         "ATC Track": "I Know",
         "ATC Artists": [
             "Kings Kaleidoscope"
-        ]
+        ],
+        "Result Track Name": "I Know",
+        "Result Artist Names": [
+            "Kings Kaleidoscope"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vPiqDErVIJJ2NeJrYPWHz",
+        "Result Album Name": "Becoming Who We Are"
     },
     {
         "Title": "Scary Christmas Stories: What Happens To Kids Who Try To Catch Santa",
@@ -87,12 +123,25 @@
         "ATC Artists": [
             "The Trio Project",
             "Hiromi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Snowing on 5th Avenue",
         "ATC Artists": [
             "Westway Sound"
-        ]
+        ],
+        "Result Track Name": "Snowing On 5th Avenue",
+        "Result Artist Names": [
+            "Westway Sound"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LiRJvzOI1dHdgrTyHjFos",
+        "Result Album Name": "Jazz Piano Trio Christmas"
     }
 ]

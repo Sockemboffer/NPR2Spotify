@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-05-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:06:56"
+        "Scanned Date": "2022-02-07 04:06:56",
+        "Playlist URI": "64s0PmqCRgfPnwkcWgDyST",
+        "Playlist Link": "https://open.spotify.com/playlist/64s0PmqCRgfPnwkcWgDyST",
+        "Snapshot ID": "MSw2NjNiNTE2NzJhZDdlOWY4OTNkNTdlNWY5YzY3ZGM0Y2U4NzUzNjI4",
+        "Playlist Name": "ATC 2017-05-21 Sun All Things Considered"
     },
     {
         "Title": "Trump Focuses On Impact Of Terrorism During Speech In Saudi Arabia",
@@ -32,13 +36,29 @@
     },
     {
         "ATC Track": "Setbacks",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Heartbreaks + Setbacks",
+        "Result Artist Names": [
+            "Thundercat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1cnKr9nO2TjXWyAfcb72We",
+        "Result Album Name": "Apocalypse"
     },
     {
         "ATC Track": "Bread and Butter",
         "ATC Artists": [
             "Bhi Bhiman"
-        ]
+        ],
+        "Result Track Name": "Bread and Butter",
+        "Result Artist Names": [
+            "Bhi Bhiman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:16heKvIO5DHYCgLOldGJcS",
+        "Result Album Name": "Rhythm & Reason"
     },
     {
         "Title": "Food Shortages At The Heart Of Venezuelan Economic And Political Crisis",
@@ -62,7 +82,15 @@
         "ATC Track": "The Hymn",
         "ATC Artists": [
             "Alice Coltrane"
-        ]
+        ],
+        "Result Track Name": "The Hymn",
+        "Result Artist Names": [
+            "Alice Coltrane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5bkm95g4FCjmPQTd6pH9Em",
+        "Result Album Name": "Translinear Light"
     },
     {
         "Title": "Ringling Bros. Curtain Call Is Latest Victory For Animal Welfare Activists",
@@ -74,7 +102,15 @@
         "ATC Track": "Battle of the Species",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "Battle of the Species",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2tnLw4qQuxhtJWnmlPQudK",
+        "Result Album Name": "Liberation Afro Beat Vol.1"
     },
     {
         "Title": "Trump Heads To Israel And Will Be First Sitting President To Visit Western Wall ",
@@ -98,12 +134,25 @@
         "ATC Track": "Exodus (Instrumental)",
         "ATC Artists": [
             "De La Soul"
-        ]
+        ],
+        "Result Track Name": "Exodus - Instrumental",
+        "Result Artist Names": [
+            "De La Soul"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:117M37r70nqoIS5GBhX6iu",
+        "Result Album Name": "and the Anonymous Nobody... (Instrumental)"
     },
     {
         "ATC Track": "Odyssee",
         "ATC Artists": [
             "L'Imperatrice"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

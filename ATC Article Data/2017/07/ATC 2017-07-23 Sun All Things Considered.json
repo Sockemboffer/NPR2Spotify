@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-07-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:03:27"
+        "Scanned Date": "2022-02-07 04:03:27",
+        "Playlist URI": "1IDLY0b95HsbErmZkpoXmy",
+        "Playlist Link": "https://open.spotify.com/playlist/1IDLY0b95HsbErmZkpoXmy",
+        "Snapshot ID": "MSwwOTRkZmY3YTQ4OTQzOTJjYmQ1MWFmZWE5ZWMxM2RiZmY4OWQxYzQ1",
+        "Playlist Name": "ATC 2017-07-23 Sun All Things Considered"
     },
     {
         "Title": "With New Security Measures, Tensions Remain High In Jerusalem's Old City",
@@ -28,13 +32,29 @@
         "ATC Track": "Papa Was a Rolling Stone [Instrumental]",
         "ATC Artists": [
             "The Temptations"
-        ]
+        ],
+        "Result Track Name": "Papa Was A Rolling Stone",
+        "Result Artist Names": [
+            "The Temptations"
+        ],
+        "Result Track-Match Percent": 0.9090909090909091,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Lno0hPhvo7BzXVLQzDIS3",
+        "Result Album Name": "Live As It Gets"
     },
     {
         "ATC Track": "I Wish",
         "ATC Artists": [
             "Stevie Wonder"
-        ]
+        ],
+        "Result Track Name": "I Wish",
+        "Result Artist Names": [
+            "Stevie Wonder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:687YZan9Gol1UVvbpUSO6Y",
+        "Result Album Name": "Songs In The Key Of Life"
     },
     {
         "Title": "'Going There': 3 Prominent Detroit Natives Reflect On The 1967 Riot ",
@@ -46,7 +66,15 @@
         "ATC Track": "Without Me",
         "ATC Artists": [
             "Eminem"
-        ]
+        ],
+        "Result Track Name": "Without Me",
+        "Result Artist Names": [
+            "Eminem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
+        "Result Album Name": "The Eminem Show"
     },
     {
         "Title": "Defense Attorney For Police In 'Algiers Motel Shooting': 'Am I A Soulless Person?'",
@@ -64,6 +92,14 @@
         "ATC Track": "Sir Duke",
         "ATC Artists": [
             "Stevie Wonder"
-        ]
+        ],
+        "Result Track Name": "Sir Duke",
+        "Result Artist Names": [
+            "Stevie Wonder"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4pNiE4LCVV74vfIBaUHm1b",
+        "Result Album Name": "Songs In The Key Of Life"
     }
 ]

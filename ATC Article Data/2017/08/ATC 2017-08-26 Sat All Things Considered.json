@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-08-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:01:41"
+        "Scanned Date": "2022-02-07 04:01:41",
+        "Playlist URI": "3Z7uUCvx4bbrViXeN67Sfr",
+        "Playlist Link": "https://open.spotify.com/playlist/3Z7uUCvx4bbrViXeN67Sfr",
+        "Snapshot ID": "MSxlMTYxOGI0OGMxYWUzYjY2MWY5Y2UxZTMxMzUxZTYyMjI2ZDY0Njc0",
+        "Playlist Name": "ATC 2017-08-26 Sat All Things Considered"
     },
     {
         "Title": "Hurricane Harvey Gets Downgraded To Tropical Storm",
@@ -28,13 +32,31 @@
         "ATC Track": "The Barrier",
         "ATC Artists": [
             "Jamie Saft"
-        ]
+        ],
+        "Result Track Name": "The Barrier",
+        "Result Artist Names": [
+            "Jamie Saft",
+            "Steve Swallow",
+            "Bobby Previte"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Yk6AurDjFpEU0fgBIGGUE",
+        "Result Album Name": "Loneliness Road"
     },
     {
         "ATC Track": "Fine Corinthian Leather",
         "ATC Artists": [
             "Charlie Hunter"
-        ]
+        ],
+        "Result Track Name": "Fine Corinthian Leather",
+        "Result Artist Names": [
+            "Charlie Hunter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GaflNzPucLzU07hW3j8d4",
+        "Result Album Name": "Baboon Strength"
     },
     {
         "Title": "Faith Council Members Take A Step Back From Advising Trump",
@@ -52,7 +74,12 @@
         "ATC Track": "Film",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Mayweather And McGregor Set To Meet For Blockbuster Boxing Fight",
@@ -64,7 +91,15 @@
         "ATC Track": "Something Blue",
         "ATC Artists": [
             "AlexNacila"
-        ]
+        ],
+        "Result Track Name": "Something Blue - Original Mix",
+        "Result Artist Names": [
+            "AlexNacila"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ZlV99IdGtgNKdWDonb2Si",
+        "Result Album Name": "Chill Out 2016"
     },
     {
         "Title": "Arpaio's Successor, Sheriff Paul Penzone Aims To Create  A New Legacy",
@@ -82,12 +117,28 @@
         "ATC Track": "This Year",
         "ATC Artists": [
             "Beach Fossils"
-        ]
+        ],
+        "Result Track Name": "This Year",
+        "Result Artist Names": [
+            "Beach Fossils"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23nrdVAFpoGPybQaiM1xg4",
+        "Result Album Name": "Somersault"
     },
     {
         "ATC Track": "Difford-Tilbrook",
         "ATC Artists": [
             "Charlie Hunter"
-        ]
+        ],
+        "Result Track Name": "Difford Tilbrook",
+        "Result Artist Names": [
+            "Charlie Hunter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5yMX8uYqrQBhT0sCy3lJ24",
+        "Result Album Name": "Baboon Strength"
     }
 ]

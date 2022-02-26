@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-10-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:57:17"
+        "Scanned Date": "2022-02-07 03:57:17",
+        "Playlist URI": "3d4toTKnC61crQgcSJjAQ8",
+        "Playlist Link": "https://open.spotify.com/playlist/3d4toTKnC61crQgcSJjAQ8",
+        "Snapshot ID": "MSxkMjkyYmIzODU2N2Y1MmY2MGE5ZjdiNDU4MTY5MTJmMDgzODdkZmUy",
+        "Playlist Name": "ATC 2017-10-15 Sun All Things Considered"
     },
     {
         "Title": "Far-Right Expected To Win Austrian Elections",
@@ -28,13 +32,26 @@
         "ATC Track": "birds",
         "ATC Artists": [
             "wunsche"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "You, Me, and Our Tommy Guns - Instrumental",
         "ATC Artists": [
             "Crwn"
-        ]
+        ],
+        "Result Track Name": "You, Me, and Our Tommy Guns - Instrumental",
+        "Result Artist Names": [
+            "crwn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ACa0d8EzS7qqwC7lzBBlB",
+        "Result Album Name": "Tommy Gun"
     },
     {
         "Title": "As Weinstein Allegations Grow, Male Victims Of Sexual Abuse Speak Out",
@@ -52,7 +69,15 @@
         "ATC Track": "A Million And One Things To Do",
         "ATC Artists": [
             "Time Machine"
-        ]
+        ],
+        "Result Track Name": "A Million and One Things To Do - Instrumental",
+        "Result Artist Names": [
+            "Time Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59vqOeRwV5wYevUCgyGxgX",
+        "Result Album Name": "Slow Your Roll Instrumentals"
     },
     {
         "Title": "In Puerto Rico, Generators Divide Those With And Those Without",
@@ -65,13 +90,29 @@
         "ATC Artists": [
             "Renaud Garcia-Fons",
             "Renaud Garcia-Fons Trio et. al."
-        ]
+        ],
+        "Result Track Name": "Berimbass",
+        "Result Artist Names": [
+            "Renaud Garcia-Fons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6,
+        "Result Track URI": "spotify:track:44p5OvEJrEVq0JOrc8wjaV",
+        "Result Album Name": "Beyond The Double Bass"
     },
     {
         "ATC Track": "Hustle and Cuss",
         "ATC Artists": [
             "The Dead Weather"
-        ]
+        ],
+        "Result Track Name": "Hustle and Cuss",
+        "Result Artist Names": [
+            "The Dead Weather"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HxIzJEPbaKFNCeZmTKqMS",
+        "Result Album Name": "Sea of Cowards"
     },
     {
         "Title": "'The Day We've Dreamed Of Has Arrived': Napa County To Begin Wildfires Recovery",
@@ -95,6 +136,14 @@
         "ATC Track": "Memory",
         "ATC Artists": [
             "Tom Misch"
-        ]
+        ],
+        "Result Track Name": "Memory",
+        "Result Artist Names": [
+            "Tom Misch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PVuMhSlLOt7QHhIkNyvii",
+        "Result Album Name": "Memory"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-04-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:08:58"
+        "Scanned Date": "2022-02-07 04:08:58",
+        "Playlist URI": "0lXM3vwwxTyMnzZQ3Nu3oq",
+        "Playlist Link": "https://open.spotify.com/playlist/0lXM3vwwxTyMnzZQ3Nu3oq",
+        "Snapshot ID": "MSxjYmYwMGNjNDEyZDNkOTE0MTkwYzE0M2FlMjRkYjI4MzNhZjA1N2Qw",
+        "Playlist Name": "ATC 2017-04-22 Sat All Things Considered"
     },
     {
         "Title": "Out Of The Lab And Into The Streets, Science Community Marches For Science",
@@ -28,13 +32,29 @@
         "ATC Track": "Can't Have",
         "ATC Artists": [
             "Steven A. Clark"
-        ]
+        ],
+        "Result Track Name": "Can't Have",
+        "Result Artist Names": [
+            "Steven A. Clark"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17rzaCF9U1KM4IEy0U7H7f",
+        "Result Album Name": "The Lonely Roller"
     },
     {
         "ATC Track": "Opus",
         "ATC Artists": [
             "Black Violin"
-        ]
+        ],
+        "Result Track Name": "Opus",
+        "Result Artist Names": [
+            "Black Violin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5x0NjoFEIVkmCzCpjjPqoU",
+        "Result Album Name": "Classically Trained"
     },
     {
         "Title": "Taliban Was Able To Penetrate Afghanistan Military Base Before Attack",
@@ -64,7 +84,15 @@
         "ATC Track": "Quiet Fire",
         "ATC Artists": [
             "Mammal Hands"
-        ]
+        ],
+        "Result Track Name": "Quiet Fire",
+        "Result Artist Names": [
+            "Mammal Hands"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Thu4R6H7FbA3vQWgNi1yV",
+        "Result Album Name": "Floa"
     },
     {
         "Title": "For Carrie Brownstein, Music Fandom Started At The Record Store",
@@ -74,7 +102,15 @@
     },
     {
         "ATC Track": "Who Lives Who Dies Who Tells Your Story",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Who Lives, Who Dies, Who Tells Your Story",
+        "Result Artist Names": [
+            "Original Broadway Cast of Hamilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EsSVPxaYoAZjQwhspJBs2",
+        "Result Album Name": "Hamilton (Original Broadway Cast Recording)"
     },
     {
         "Title": "Renée Elise Goldsberry Hopes 'Henrietta Lacks' Movie Will Start Conversations",
@@ -90,13 +126,30 @@
     },
     {
         "ATC Track": "She Blinded Me With Science",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "She Blinded Me With Science - 2009 Remastered Version",
+        "Result Artist Names": [
+            "Thomas Dolby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6y9VZNRczyKeQihebHSMJ8",
+        "Result Album Name": "The Golden Age Of Wireless"
     },
     {
         "ATC Track": "Trunk of My Computer",
         "ATC Artists": [
             "RJD2",
             "STS"
-        ]
+        ],
+        "Result Track Name": "Trunk of My Computer",
+        "Result Artist Names": [
+            "STS",
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5RuNCYVlTeyMI9rrNo1sJV",
+        "Result Album Name": "STS x RJD2"
     }
 ]

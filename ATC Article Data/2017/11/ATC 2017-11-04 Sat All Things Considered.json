@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-11-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:55:02"
+        "Scanned Date": "2022-02-07 03:55:02",
+        "Playlist URI": "7u8nQj9IuP4oHydF2R59D2",
+        "Playlist Link": "https://open.spotify.com/playlist/7u8nQj9IuP4oHydF2R59D2",
+        "Snapshot ID": "MSxjMWU4ZDIxNDM4YTc4MjFkM2IyNjQ0MWYyNDA5YjVjZTRkMjQ2MGI3",
+        "Playlist Name": "ATC 2017-11-04 Sat All Things Considered"
     },
     {
         "Title": "Turmoil In The Democratic Party",
@@ -22,13 +26,26 @@
         "ATC Track": "Golden Light",
         "ATC Artists": [
             "STRFKR"
-        ]
+        ],
+        "Result Track Name": "Golden Light",
+        "Result Artist Names": [
+            "STRFKR"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4O2aCfXPP9FfPoIPixwVBz",
+        "Result Album Name": "Miracle Mile"
     },
     {
         "ATC Track": "Aruarian Dance",
         "ATC Artists": [
             "Nujabes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Social Media Companies Can Block Foreign Interference With Technology It Already Has",
@@ -46,7 +63,15 @@
         "ATC Track": "Doubts",
         "ATC Artists": [
             "Ibrahim Maalouf"
-        ]
+        ],
+        "Result Track Name": "Doubts 2",
+        "Result Artist Names": [
+            "Ibrahim Maalouf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1ohoaGnztWcfczuRDceRdn",
+        "Result Album Name": "Wind"
     },
     {
         "Title": "How The Republican Tax Plan Would Impact Middle-Class Households",
@@ -58,7 +83,16 @@
         "ATC Track": "Welcome To Heartbreak",
         "ATC Artists": [
             "Kanye West"
-        ]
+        ],
+        "Result Track Name": "Welcome To Heartbreak",
+        "Result Artist Names": [
+            "Kanye West",
+            "Kid Cudi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3F18I7LhWKxlf1PytSoTBH",
+        "Result Album Name": "808s & Heartbreak"
     },
     {
         "Title": "After A Sexual Attack On An Actress, The Women Of 'Mollywood' Fight Back",
@@ -76,12 +110,28 @@
         "ATC Track": "No Rules For Kings",
         "ATC Artists": [
             "Oddisee"
-        ]
+        ],
+        "Result Track Name": "No Rules for Kings",
+        "Result Artist Names": [
+            "Oddisee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AxsbSih9nY4FqEyOfA9im",
+        "Result Album Name": "The Beauty in All"
     },
     {
         "ATC Track": "Epoch",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Epoch",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:18xvedQqps2lWmU3PKsBoY",
+        "Result Album Name": "Epoch"
     }
 ]

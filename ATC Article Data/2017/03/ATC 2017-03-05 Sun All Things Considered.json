@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-03-05",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:09:37"
+        "Scanned Date": "2022-02-07 04:09:37",
+        "Playlist URI": "2TxTqtxGalYHLJluJsSMQw",
+        "Playlist Link": "https://open.spotify.com/playlist/2TxTqtxGalYHLJluJsSMQw",
+        "Snapshot ID": "MSxiMWY4NmE4MjgwMDNkYzQyOTNhMWUyOTBkNWNiZTdlZTZhOWIwNGI1",
+        "Playlist Name": "ATC 2017-03-05 Sun All Things Considered"
     },
     {
         "Title": "Trump Calls For Congressional Inquiry Into Unproved Obama Wire-Tap Allegations",
@@ -20,13 +24,29 @@
     },
     {
         "ATC Track": "Setbacks",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Heartbreaks + Setbacks",
+        "Result Artist Names": [
+            "Thundercat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1cnKr9nO2TjXWyAfcb72We",
+        "Result Album Name": "Apocalypse"
     },
     {
         "ATC Track": "Ailleurs",
         "ATC Artists": [
             "Nemir"
-        ]
+        ],
+        "Result Track Name": "Ailleurs - Instrumental",
+        "Result Artist Names": [
+            "Nemir"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6BJH71VNWuvM3qdJ4gUnpy",
+        "Result Album Name": "Ailleurs (feat. Deen Burbigo)"
     },
     {
         "Title": "ProPublica Launches New Collaboration Project To Track And Document Hate Crimes",
@@ -50,7 +70,15 @@
         "ATC Track": "Namesake",
         "ATC Artists": [
             "Tunde Olaniran"
-        ]
+        ],
+        "Result Track Name": "Namesake",
+        "Result Artist Names": [
+            "Tunde Olaniran"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eMPNkpiw3gtUBgALHHzfZ",
+        "Result Album Name": "Transgressor"
     },
     {
         "Title": "Does Nintendo's New Console Signal A 'Switch' For The Video Game Market?",
@@ -60,13 +88,26 @@
     },
     {
         "ATC Track": "Zelda Wind Walker",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "La Jungle de Belleville",
         "ATC Artists": [
             "Benoit Charest"
-        ]
+        ],
+        "Result Track Name": "La Jungle de Belleville",
+        "Result Artist Names": [
+            "Benoît Charest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2AKJWVkYPC4LtMvFDxj0VT",
+        "Result Album Name": "The Triplets Of Belleville"
     },
     {
         "Title": "Working Class Students Answer: Is College Worth It? ",
@@ -90,10 +131,27 @@
         "ATC Track": "Meyer",
         "ATC Artists": [
             "Neil Cowley Trio"
-        ]
+        ],
+        "Result Track Name": "Meyer",
+        "Result Artist Names": [
+            "Neil Cowley Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3p0z2OZR0K2DTBXL97vdLl",
+        "Result Album Name": "The Face of Mount Molehill"
     },
     {
         "ATC Track": "Cafe",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "STAR CITY CAFE",
+        "Result Artist Names": [
+            "hevel",
+            "Evito"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4i9zZb6mPKfQRXRb5HKjSw",
+        "Result Album Name": "STAR CITY CAFE"
     }
 ]

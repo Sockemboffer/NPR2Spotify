@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-07-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:02:05"
+        "Scanned Date": "2022-02-07 04:02:05",
+        "Playlist URI": "5qaRIwRMWlUEZ8c3fIkcCU",
+        "Playlist Link": "https://open.spotify.com/playlist/5qaRIwRMWlUEZ8c3fIkcCU",
+        "Snapshot ID": "MSw4OTE1YzExYjU4NzNjNjcxZTFlNzc3YjY1YmQ1MWU1MDI4ZjFhZGNh",
+        "Playlist Name": "ATC 2017-07-02 Sun All Things Considered"
     },
     {
         "Title": "Qatar Faces Saudi Sanctions Deadline",
@@ -28,13 +32,29 @@
         "ATC Track": "Setbacks",
         "ATC Artists": [
             "IV the Polymath"
-        ]
+        ],
+        "Result Track Name": "Setbacks",
+        "Result Artist Names": [
+            "IV The Polymath"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yTyFHaDOyS1a6QeVe9za1",
+        "Result Album Name": "Drum Machines Have No Soul"
     },
     {
         "ATC Track": "They Are Night Zombies!! They Are Neighbors!! They have come back from the Dead!! Ahhhh!!",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pvwYMVs13EJ8jj4LMX0aV",
+        "Result Album Name": "Illinois"
     },
     {
         "Title": "A Look At The Ongoing Upheaval In Venezuela",
@@ -56,7 +76,15 @@
     },
     {
         "ATC Track": "Dots",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Polka Dots And Moonbeams",
+        "Result Artist Names": [
+            "Wes Montgomery"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2M3laSC4qeLl9tWxDEzF4T",
+        "Result Album Name": "Incredible Jazz Guitar"
     },
     {
         "Title": "NBA: Free Agency, Steph Curry And More",
@@ -68,13 +96,26 @@
         "ATC Track": "Roundball Rock",
         "ATC Artists": [
             "NBA Theme Song"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Ann Arbor Part 3 & 4",
         "ATC Artists": [
             "Shigeto"
-        ]
+        ],
+        "Result Track Name": "Ann Arbor Part 3 & 4",
+        "Result Artist Names": [
+            "Shigeto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qb0JwB7kn5Rtbf1AgMt1U",
+        "Result Album Name": "Lineage"
     },
     {
         "Title": "Where Did Americans' Love For Ice Cream Come From?",
@@ -104,12 +145,28 @@
         "ATC Track": "Point of No Return",
         "ATC Artists": [
             "Surfer Blood"
-        ]
+        ],
+        "Result Track Name": "Point of No Return",
+        "Result Artist Names": [
+            "Surfer Blood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:074edk9VnsCTIIB0SAStoL",
+        "Result Album Name": "1000 Palms"
     },
     {
         "ATC Track": "Neon Experience",
         "ATC Artists": [
             "Június Meyvant"
-        ]
+        ],
+        "Result Track Name": "Neon Experience",
+        "Result Artist Names": [
+            "Júníus Meyvant"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4EzXQ0ZJuYNtyslnfVOGqa",
+        "Result Album Name": "Floating Harmonies"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-10-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:58:00"
+        "Scanned Date": "2022-02-07 03:58:00",
+        "Playlist URI": "3YThjGqduv9VWtZQpdBNLv",
+        "Playlist Link": "https://open.spotify.com/playlist/3YThjGqduv9VWtZQpdBNLv",
+        "Snapshot ID": "MSwzYzBiNDRhMTlmOGIxYzNlNWFlNjVmM2ZlN2ZiYTA2MjExMDMxZWQx",
+        "Playlist Name": "ATC 2017-10-29 Sun All Things Considered"
     },
     {
         "Title": "Puerto Rico Power Authority Calls To Cancel Dubious $300M Grid Contract",
@@ -28,14 +32,30 @@
         "ATC Track": "Yesterday",
         "ATC Artists": [
             "Atmosphere"
-        ]
+        ],
+        "Result Track Name": "Yesterday",
+        "Result Artist Names": [
+            "Atmosphere"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4txpC7uzAR3JeNfs4Yd0DZ",
+        "Result Album Name": "When Life Gives You Lemons, You Paint That Shit Gold"
     },
     {
         "ATC Track": "Tyrone",
         "ATC Artists": [
             "My Morning Jacket",
             "Jim James"
-        ]
+        ],
+        "Result Track Name": "Tyrone",
+        "Result Artist Names": [
+            "My Morning Jacket"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:0axsMumJxKRTuYCMb9oeWl",
+        "Result Album Name": "Chapter 2: Learning: Early Recordings, B-Sides, Covers, Y Mas"
     },
     {
         "Title": "5 Years After Hurricane Sandy, A Neighborhood Is Largely Deserted",
@@ -60,7 +80,12 @@
         "ATC Artists": [
             "Lyn Taitt",
             "Roland Alphonso"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Kurdish President Announces Resignation After Independence Vote",
@@ -72,13 +97,26 @@
         "ATC Track": "Quatic",
         "ATC Artists": [
             "Botany"
-        ]
+        ],
+        "Result Track Name": "Quatic",
+        "Result Artist Names": [
+            "Botany"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55FIhKMfZMj7tQyHcpSGOR",
+        "Result Album Name": "Lava Diviner (Truestory)"
     },
     {
         "ATC Track": "Lovesick Fuck",
         "ATC Artists": [
             "Mura Masa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Johnny Clegg, A South African Superstar, Says Farewell",
@@ -96,6 +134,14 @@
         "ATC Track": "Hilarity Duff",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": "Hilarity Duff",
+        "Result Artist Names": [
+            "KAYTRANADA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50q8m7zsvnLubl86RQOL1f",
+        "Result Album Name": "At All / Hilarity Duff EP"
     }
 ]

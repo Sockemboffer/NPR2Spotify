@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-10-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:57:15"
+        "Scanned Date": "2022-02-07 03:57:15",
+        "Playlist URI": "34zJBW4baPh2mHEvgCUyM4",
+        "Playlist Link": "https://open.spotify.com/playlist/34zJBW4baPh2mHEvgCUyM4",
+        "Snapshot ID": "MSxiNzg2NGQ5MzA1NDFmNjU0NjJhNjA0ODMzMWViNDRiZjlmZTI5MTIy",
+        "Playlist Name": "ATC 2017-10-14 Sat All Things Considered"
     },
     {
         "Title": "Trump Rolls Back Obama Era Policies",
@@ -28,13 +32,29 @@
         "ATC Track": "Mysterious Vibes",
         "ATC Artists": [
             "The Blackbyrds"
-        ]
+        ],
+        "Result Track Name": "Mysterious Vibes",
+        "Result Artist Names": [
+            "The Blackbyrds"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6lqYjlQyDzNWE0MGc78b4c",
+        "Result Album Name": "Action"
     },
     {
         "ATC Track": "Battlestar Scralatchtica",
         "ATC Artists": [
             "Incubus"
-        ]
+        ],
+        "Result Track Name": "Battlestar Scralatchtica",
+        "Result Artist Names": [
+            "Incubus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1wSLtkWKVDufABBcOVApB7",
+        "Result Album Name": "Make Yourself"
     },
     {
         "Title": "Barbershop: U.S. Men's Soccer Loss, Boy Scouts And Eminem",
@@ -46,7 +66,15 @@
         "ATC Track": "The Real Slim Shady [*][Instrumental]",
         "ATC Artists": [
             "Eminem"
-        ]
+        ],
+        "Result Track Name": "The Real Slim Shady",
+        "Result Artist Names": [
+            "Eminem"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3PdiRnD8aIC3ljfqMhq93B",
+        "Result Album Name": "The Marshall Mathers LP"
     },
     {
         "Title": "New Use-Of-Force Guidelines For Chicago Police",
@@ -59,13 +87,26 @@
         "ATC Artists": [
             "Jay-Z",
             "Kendrick Lamar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Take Wing",
         "ATC Artists": [
             "The Polish Ambassador"
-        ]
+        ],
+        "Result Track Name": "Take Wing",
+        "Result Artist Names": [
+            "The Polish Ambassador"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GM2cjY0taFBM6dzRqvv4g",
+        "Result Album Name": "Color of Flight"
     },
     {
         "Title": "Sword Swallower Makes Triumphant Return As He Battles Severe Health Issues",
@@ -89,12 +130,29 @@
         "ATC Track": "Everyone Loves The Sunshine",
         "ATC Artists": [
             "Takuya Kuroda"
-        ]
+        ],
+        "Result Track Name": "Everybody Loves The Sunshine",
+        "Result Artist Names": [
+            "Takuya Kuroda",
+            "José James"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:4F17fOFNxTHhNk6fXq46w6",
+        "Result Album Name": "Rising Son"
     },
     {
         "ATC Track": "C.R.E.A.M.",
         "ATC Artists": [
             "El Michels Affair"
-        ]
+        ],
+        "Result Track Name": "C.R.E.A.M.",
+        "Result Artist Names": [
+            "El Michels Affair"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bJ7tMJqfYmkKgCYzaaG4B",
+        "Result Album Name": "Enter The 37th Chamber"
     }
 ]

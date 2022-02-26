@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-09-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:59:14"
+        "Scanned Date": "2022-02-07 03:59:14",
+        "Playlist URI": "3RCbQrbg2PsFU3d1i7YL5S",
+        "Playlist Link": "https://open.spotify.com/playlist/3RCbQrbg2PsFU3d1i7YL5S",
+        "Snapshot ID": "MSxlM2I3MWM0NTI4NGQ3MmJlZjQ3NTM5M2RkYTcwOTNjYjQ0ZDk4YWRh",
+        "Playlist Name": "ATC 2017-09-17 Sun All Things Considered"
     },
     {
         "Title": "California State Senator Speaks On Recently-Approved Sanctuary State Bill",
@@ -28,11 +32,28 @@
         "ATC Track": "Feel the Real",
         "ATC Artists": [
             "Musiq Soulchild"
-        ]
+        ],
+        "Result Track Name": "Feel The Real (feat. Marsha Ambrosius)",
+        "Result Artist Names": [
+            "Musiq Soulchild",
+            "Marsha Ambrosius"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VixJX0tR3RoWcsvTAFzZH",
+        "Result Album Name": "Feel The Real"
     },
     {
         "ATC Track": "The Busker",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "The Busker On The Bridge",
+        "Result Artist Names": [
+            "Nightnoise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3RRomZcBCddWvXNiVOHrc6",
+        "Result Album Name": "A Different Shore"
     },
     {
         "Title": "City Of Ferguson's Dropped Charges 'Just Another Step' Amid 'Systemic Failure'",
@@ -74,10 +95,26 @@
         "ATC Track": "We're On the Road Again",
         "ATC Artists": [
             "Ringo Starr"
-        ]
+        ],
+        "Result Track Name": "We’re On The Road Again",
+        "Result Artist Names": [
+            "Ringo Starr"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vxIOJj5xQlxNQASORAKRL",
+        "Result Album Name": "Give More Love"
     },
     {
         "ATC Track": "Octopus's Garden",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Octopus's Garden - Remastered 2009",
+        "Result Artist Names": [
+            "The Beatles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0suLngfo7rJoetk7Ub6N8l",
+        "Result Album Name": "Abbey Road (Remastered)"
     }
 ]

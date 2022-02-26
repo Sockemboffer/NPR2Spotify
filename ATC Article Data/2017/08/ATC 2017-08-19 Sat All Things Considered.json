@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-08-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:01:15"
+        "Scanned Date": "2022-02-07 04:01:15",
+        "Playlist URI": "50J9PycO4st40c2MY0AeGW",
+        "Playlist Link": "https://open.spotify.com/playlist/50J9PycO4st40c2MY0AeGW",
+        "Snapshot ID": "MSw0ZWY0ZTAyMTRhYTFmYWY4NTM4ZTZiMzQ2ODA2M2E1YThiM2UyNWNk",
+        "Playlist Name": "ATC 2017-08-19 Sat All Things Considered"
     },
     {
         "Title": "What's Next For The White House After Bannon's Departure?",
@@ -28,13 +32,26 @@
         "ATC Track": "Frostbit",
         "ATC Artists": [
             "Oddosee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Balagusto",
         "ATC Artists": [
             "Adam Ben Ezra"
-        ]
+        ],
+        "Result Track Name": "Balagusto",
+        "Result Artist Names": [
+            "Adam Ben Ezra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4BXsvonFUTpNCSvxKCkL0Y",
+        "Result Album Name": "Pin Drop"
     },
     {
         "Title": "Is The Trump Presidency Having a Crisis Moment?",
@@ -52,7 +69,15 @@
         "ATC Track": "Dancing in the Dark",
         "ATC Artists": [
             "Bruce Springsteen"
-        ]
+        ],
+        "Result Track Name": "Dancing In the Dark",
+        "Result Artist Names": [
+            "Bruce Springsteen"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FwBtcecmlpc1sLySPXeGE",
+        "Result Album Name": "Born In The U.S.A."
     },
     {
         "Title": "How Late Night TV Addressed Charlottesville And This Week In Politics",
@@ -64,14 +89,27 @@
         "ATC Track": "Lady Don't Tek No",
         "ATC Artists": [
             "Latyrx"
-        ]
+        ],
+        "Result Track Name": "Lady Don't Tek No",
+        "Result Artist Names": [
+            "Latyrx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4viJ2v79wqS4R4YVBCF2wv",
+        "Result Album Name": "The Muzappers Mixes"
     },
     {
         "ATC Track": "Babar, for tabla with banjo & double bass",
         "ATC Artists": [
             "Béla Fleck",
             "Zakir Hussain et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "How Time Off — And Surfing — Influenced Fleet Foxes' 'Crack-Up'",
@@ -96,12 +134,28 @@
         "ATC Artists": [
             "Georgia",
             "Georgia Barnes"
-        ]
+        ],
+        "Result Track Name": "Nothing Solutions",
+        "Result Artist Names": [
+            "Georgia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5LPeHsqL5jz8XpeQVINo7C",
+        "Result Album Name": "Georgia"
     },
     {
         "ATC Track": "Entrance theme",
         "ATC Artists": [
             "IGBO"
-        ]
+        ],
+        "Result Track Name": "Entrance Theme",
+        "Result Artist Names": [
+            "IGBO"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6G6FqaaqUAszZAJkeUJVRF",
+        "Result Album Name": "Indigo Green Brown Orange - EP"
     }
 ]

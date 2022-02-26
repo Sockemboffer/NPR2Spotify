@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-01-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:14:24"
+        "Scanned Date": "2022-02-07 04:14:24",
+        "Playlist URI": "5Z0flRaKZJdCZlO3a1J4QU",
+        "Playlist Link": "https://open.spotify.com/playlist/5Z0flRaKZJdCZlO3a1J4QU",
+        "Snapshot ID": "MSw5MjNjN2E3YzJjYmQyZTNmMDhlNmIxOGU3ZGZhMzE3MDFlMTVhZjMy",
+        "Playlist Name": "ATC 2017-01-28 Sat All Things Considered"
     },
     {
         "Title": "A Look Back On Trump's Executive Orders This Week",
@@ -22,13 +26,29 @@
         "ATC Track": "Natural Cause",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Natural Cause",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30u5328ERA8OFk3qrla5m2",
+        "Result Album Name": "Dusk to Dawn"
     },
     {
         "ATC Track": "You, Me, and Our Tommy Guns - Instrumental",
         "ATC Artists": [
             "Crwn"
-        ]
+        ],
+        "Result Track Name": "You, Me, and Our Tommy Guns - Instrumental",
+        "Result Artist Names": [
+            "crwn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ACa0d8EzS7qqwC7lzBBlB",
+        "Result Album Name": "Tommy Gun"
     },
     {
         "Title": "Countries Listed On Trump's Refugee Ban Don't Include Those He Has Business With",
@@ -52,7 +72,12 @@
         "ATC Track": "Bad and Boujee Instrumental",
         "ATC Artists": [
             "Migos"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Executive Order Ban Leaves Travelers In Disarray At Chicago Airport",
@@ -65,13 +90,30 @@
         "ATC Artists": [
             "Ryan Helsing",
             "Matthew Setz"
-        ]
+        ],
+        "Result Track Name": "Layers",
+        "Result Artist Names": [
+            "Ryan Helsing",
+            "Matthew Saltz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:7e6ktsaGZ2tGfw6XQrpwat",
+        "Result Album Name": "Visions"
     },
     {
         "ATC Track": "Dye",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Dye",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GLKuZMs9FHwoO9su6ZB5P",
+        "Result Album Name": "Awake"
     },
     {
         "Title": "Doomsday Clock Closest To Midnight Since 1954",
@@ -95,13 +137,31 @@
         "ATC Track": "Surprises",
         "ATC Artists": [
             "Ibrahim Maalouf"
-        ]
+        ],
+        "Result Track Name": "Surprises",
+        "Result Artist Names": [
+            "Ibrahim Maalouf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6dlrKYdYDu3UTm3cSo6rFb",
+        "Result Album Name": "Wind"
     },
     {
         "ATC Track": "BUS RIDE",
         "ATC Artists": [
             "KAYTRANADA feat. Karriem Riggins",
             "River Tiber"
-        ]
+        ],
+        "Result Track Name": "BUS RIDE",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "Karriem Riggins",
+            "River Tiber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9090909090909091,
+        "Result Track URI": "spotify:track:0p07eXzptON22i7dk4lmP7",
+        "Result Album Name": "99.9%"
     }
 ]

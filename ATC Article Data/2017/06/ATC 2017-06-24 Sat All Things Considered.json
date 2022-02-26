@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-06-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:05:25"
+        "Scanned Date": "2022-02-07 04:05:25",
+        "Playlist URI": "5GVEol43WpeW7zkpggLa3p",
+        "Playlist Link": "https://open.spotify.com/playlist/5GVEol43WpeW7zkpggLa3p",
+        "Snapshot ID": "MSwxMTM4YjMwZDE5ZmMyMTA0NDRmMzgxYWI0NWVmM2ZiNTI1ZGU4NGM1",
+        "Playlist Name": "ATC 2017-06-24 Sat All Things Considered"
     },
     {
         "Title": "Federal Medicaid Funding Cuts Under Senate Health Care Bill Puts Pressure On States",
@@ -22,13 +26,29 @@
         "ATC Track": "Just Like Blood",
         "ATC Artists": [
             "Sharon Van Etten"
-        ]
+        ],
+        "Result Track Name": "Just Like Blood",
+        "Result Artist Names": [
+            "Sharon Van Etten"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Z7r6qSA9Wqtq5CAZTJZ4v",
+        "Result Album Name": "I Don't Want to Let You Down"
     },
     {
         "ATC Track": "Three Pillars",
         "ATC Artists": [
             "Chad McCullough"
-        ]
+        ],
+        "Result Track Name": "Three Pillars",
+        "Result Artist Names": [
+            "Chad McCullough"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZiRbhHUUIpUxHpzXpbOEv",
+        "Result Album Name": "Dark Wood, Dark Water"
     },
     {
         "Title": "Barbershop: Reflections On A Particularly Difficult Ramadan",
@@ -46,7 +66,12 @@
         "ATC Track": "Cinder",
         "ATC Artists": [
             "El Buho"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "More Than Memory: Coping With The Other Ills Of Alzheimer's ",
@@ -58,7 +83,15 @@
         "ATC Track": "Cream on Chrome",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Cream On Chrome - Single Edit",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WxVxmxKgXTgvQaRmAG4ub",
+        "Result Album Name": "Cream On Chrome"
     },
     {
         "Title": "'Interlaced Fingers' Traces Roots Of Racial Disparity In Kidney Transplants",
@@ -76,12 +109,28 @@
         "ATC Track": "Walking the Wire",
         "ATC Artists": [
             "Imagine Dragons"
-        ]
+        ],
+        "Result Track Name": "Walking The Wire",
+        "Result Artist Names": [
+            "Imagine Dragons"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6HfEyUByqBtf37rWSJDpeb",
+        "Result Album Name": "Foliage Sad Songs"
     },
     {
         "ATC Track": "Cruise",
         "ATC Artists": [
             "Your Song is Good"
-        ]
+        ],
+        "Result Track Name": "Cruise",
+        "Result Artist Names": [
+            "YOUR SONG IS GOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HSthMRppfUwaYdlzpmTKY",
+        "Result Album Name": "Extended"
     }
 ]

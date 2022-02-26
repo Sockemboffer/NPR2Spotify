@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-06-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:05:02"
+        "Scanned Date": "2022-02-07 04:05:02",
+        "Playlist URI": "6GjrRq6OPEEn69QGIw4wsg",
+        "Playlist Link": "https://open.spotify.com/playlist/6GjrRq6OPEEn69QGIw4wsg",
+        "Snapshot ID": "MSw1ZWUxOWVhMjk3ODMyMzYyZDA2YTI1YjYyOTQxY2Q0MWQ5MmI2YTRk",
+        "Playlist Name": "ATC 2017-06-17 Sat All Things Considered"
     },
     {
         "Title": "What Happens After Mistrial Declared In Bill Cosby's Criminal Case?",
@@ -28,13 +32,30 @@
         "ATC Track": "Song 2",
         "ATC Artists": [
             "DJ Krush"
-        ]
+        ],
+        "Result Track Name": "Song 2",
+        "Result Artist Names": [
+            "DJ Krush"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gJn2GouSKBuU1z1ydwDS8",
+        "Result Album Name": "Jaku"
     },
     {
         "ATC Track": "Shutter",
         "ATC Artists": [
             "Nocturnes"
-        ]
+        ],
+        "Result Track Name": "Shutter - Remix",
+        "Result Artist Names": [
+            "Nocturnes",
+            "LOFIMAKER"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0qiIKMb0A3f2BJHXk3rOMk",
+        "Result Album Name": "Shutter (Remix)"
     },
     {
         "Title": "Barbershop: The Cosby Case, Men Interrupting Women And The Alex Jones Interview",
@@ -53,7 +74,15 @@
         "ATC Artists": [
             "John Lennon",
             "Flux Fiddlers et. al."
-        ]
+        ],
+        "Result Track Name": "Oh Yoko",
+        "Result Artist Names": [
+            "John Lennon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5mAuSPm8ZygJViGqQxKd48",
+        "Result Album Name": "Rushmore"
     },
     {
         "Title": "After Pulse Nightclub Shooting, One Survivor Is 'Always In Pain'",
@@ -66,13 +95,30 @@
         "ATC Artists": [
             "Joshua Redman",
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": "As This Moment Slips Away",
+        "Result Artist Names": [
+            "Joshua Redman",
+            "The Bad Plus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5CcAkJMkqpx7vwyYq1CQQd",
+        "Result Album Name": "The Bad Plus Joshua Redman"
     },
     {
         "ATC Track": "Love Illumination",
         "ATC Artists": [
             "Franz Ferdinand"
-        ]
+        ],
+        "Result Track Name": "Love Illumination",
+        "Result Artist Names": [
+            "Franz Ferdinand"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:06Qha323s06okpZ4LmMX7P",
+        "Result Album Name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)"
     },
     {
         "Title": "Alzheimer's Starts To Steal The Joy Of Being A Grandfather",
@@ -94,12 +140,28 @@
     },
     {
         "ATC Track": "Writer in the Dark",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Writer In The Dark",
+        "Result Artist Names": [
+            "Lorde"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:193Dm5SqYy3hTSbuzxbwKc",
+        "Result Album Name": "Melodrama"
     },
     {
         "ATC Track": "Two Fish and an Elephant",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Two Fish and an Elephant",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kGMBOPXMtb9gxzVYdplg9",
+        "Result Album Name": "The Universe Smiles Upon You"
     }
 ]

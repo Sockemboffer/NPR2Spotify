@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-09-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 03:58:39"
+        "Scanned Date": "2022-02-07 03:58:39",
+        "Playlist URI": "5S7olmExarLdlmnrnpw6GI",
+        "Playlist Link": "https://open.spotify.com/playlist/5S7olmExarLdlmnrnpw6GI",
+        "Snapshot ID": "MSxhZWI3NjJkMGQ1NjkxZWM4ZTMxNzQzMGRhZTFiZGVkYzM4MjkxMjg2",
+        "Playlist Name": "ATC 2017-09-09 Sat All Things Considered"
     },
     {
         "Title": "One-Third Of Florida Residents Told To Evacuate Before Hurricane Irma Makes Landfall",
@@ -28,13 +32,30 @@
         "ATC Track": "Merlion",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Merlion",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0PPNGFzff6LjWX8uVRy9Iq",
+        "Result Album Name": "Dusk to Dawn"
     },
     {
         "ATC Track": "Weight Off",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": "WEIGHT OFF",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "BADBADNOTGOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12s6FjStmOwWJrh0yalbKC",
+        "Result Album Name": "99.9%"
     },
     {
         "Title": "DACA Recipients Worry What The Government Will Do With Their Private Information",
@@ -53,7 +74,16 @@
         "ATC Artists": [
             "Lil Wayne",
             "Drake"
-        ]
+        ],
+        "Result Track Name": "Right Above It",
+        "Result Artist Names": [
+            "Lil Wayne",
+            "Drake"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1kMuU3TNQvHbqvXCWBodmP",
+        "Result Album Name": "I Am Not A Human Being"
     },
     {
         "Title": "Trump Administration's Stance In Cake Refusal Case Is The Latest Letdown For LGBT Advocates",
@@ -71,7 +101,15 @@
         "ATC Track": "I Will Possess Your Heart",
         "ATC Artists": [
             "Death Cab for Cutie"
-        ]
+        ],
+        "Result Track Name": "I Will Possess Your Heart",
+        "Result Artist Names": [
+            "Death Cab for Cutie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:77vYwoC7e3pVoPq8BA9CuL",
+        "Result Album Name": "Narrow Stairs"
     },
     {
         "Title": "Western Wildfires Continue As Eagle Creek Fire Prompts Finger-Pointing",
@@ -96,12 +134,29 @@
         "ATC Artists": [
             "Usher",
             "will.i.am"
-        ]
+        ],
+        "Result Track Name": "OMG (feat. will.i.am)",
+        "Result Artist Names": [
+            "Usher",
+            "will.i.am"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bM50INir8voAkVoKuvEUI",
+        "Result Album Name": "Raymond v Raymond (Expanded Edition)"
     },
     {
         "ATC Track": "Despite the Weather",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": "DESPITE THE WEATHER",
+        "Result Artist Names": [
+            "KAYTRANADA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25d83nKYjGVsQjPcBoVRQI",
+        "Result Album Name": "99.9%"
     }
 ]

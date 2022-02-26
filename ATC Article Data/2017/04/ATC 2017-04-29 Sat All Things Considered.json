@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-04-29",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:09:20"
+        "Scanned Date": "2022-02-07 04:09:20",
+        "Playlist URI": "2jEUprgXxwPXBpWM8S2iuP",
+        "Playlist Link": "https://open.spotify.com/playlist/2jEUprgXxwPXBpWM8S2iuP",
+        "Snapshot ID": "MSxhODUzZjE5MDY5NmI5OTEyMjk4OWI4MGY1MDAyZmIzMWU4NzAyZWU3",
+        "Playlist Name": "ATC 2017-04-29 Sat All Things Considered"
     },
     {
         "Title": "Why Trump's First 100 Days Matter And Why They Don't",
@@ -26,11 +30,29 @@
     },
     {
         "ATC Track": "Big Tweed",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Big Tweed",
+        "Result Artist Names": [
+            "The Electric Peanut Butter Company",
+            "Shawn Lee",
+            "Adrian Quesada"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:04By48kExy6OGSvkjQhW6p",
+        "Result Album Name": "Trans-Atlantic Psych Classics, Vol.2"
     },
     {
         "ATC Track": "Lights Out",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "The Night The Lights Went Out In Georgia",
+        "Result Artist Names": [
+            "Reba McEntire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MiXC2LfpsoeUP5RvMGEQ3",
+        "Result Album Name": "For My Broken Heart"
     },
     {
         "Title": "Barbershop: 'Indivisible' Hosts Discuss Trump's First 100 Days",
@@ -42,7 +64,15 @@
         "ATC Track": "People Everywhere (Still Alive)",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "People Everywhere (Still Alive)",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OQ1V0e2O56AeIo4ywuYKF",
+        "Result Album Name": "The Universe Smiles Upon You"
     },
     {
         "Title": "The Democrats First 100 Days During The Trump Administration",
@@ -54,13 +84,29 @@
         "ATC Track": "Dream",
         "ATC Artists": [
             "Autograf"
-        ]
+        ],
+        "Result Track Name": "Dream",
+        "Result Artist Names": [
+            "Autograf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:45dkXL85qYZLEU8rM22QOQ",
+        "Result Album Name": "Dream"
     },
     {
         "ATC Track": "Cream On Chrome",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Cream On Chrome - Single Edit",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2WxVxmxKgXTgvQaRmAG4ub",
+        "Result Album Name": "Cream On Chrome"
     },
     {
         "Title": "Ambassador Says, So Far, Trump Administration Is A 'Reassertion Of America Power'",
@@ -84,12 +130,25 @@
         "ATC Track": "Exodus (Instrumental)",
         "ATC Artists": [
             "De La Soul"
-        ]
+        ],
+        "Result Track Name": "Exodus - Instrumental",
+        "Result Artist Names": [
+            "De La Soul"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:117M37r70nqoIS5GBhX6iu",
+        "Result Album Name": "and the Anonymous Nobody... (Instrumental)"
     },
     {
         "ATC Track": "The Inner Banks",
         "ATC Artists": [
             "The Inner Banks"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

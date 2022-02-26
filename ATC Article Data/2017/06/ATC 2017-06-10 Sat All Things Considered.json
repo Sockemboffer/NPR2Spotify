@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-06-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:04:27"
+        "Scanned Date": "2022-02-07 04:04:27",
+        "Playlist URI": "788O4GrkF3KJsp1gWCootx",
+        "Playlist Link": "https://open.spotify.com/playlist/788O4GrkF3KJsp1gWCootx",
+        "Snapshot ID": "MSxlMDU0YTMyNjAwYTU0YzYzZmE0Yzk4OTM4OWRlZDAxMDMzMzUwMjYz",
+        "Playlist Name": "ATC 2017-06-10 Sat All Things Considered"
     },
     {
         "Title": "Comey's Testimony And The Rest Of The Week In Politics ",
@@ -26,11 +30,27 @@
     },
     {
         "ATC Track": "Batman Theme",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "The Batman Theme",
+        "Result Artist Names": [
+            "Danny Elfman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50csT5Qb2qOF7lHdDQ1Sbx",
+        "Result Album Name": "Batman (Original Motion Picture Score)"
     },
     {
         "ATC Track": "Batman Theme",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "The Batman Theme",
+        "Result Artist Names": [
+            "Danny Elfman"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50csT5Qb2qOF7lHdDQ1Sbx",
+        "Result Album Name": "Batman (Original Motion Picture Score)"
     },
     {
         "Title": "'March Against Sharia' Meets Opposition in Syracuse, New York",
@@ -48,7 +68,15 @@
         "ATC Track": "Hung Up on My Baby",
         "ATC Artists": [
             "Isaac Hayes"
-        ]
+        ],
+        "Result Track Name": "Hung Up On My Baby",
+        "Result Artist Names": [
+            "Isaac Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7wEGeUzpPNnHKfOtSgYjG4",
+        "Result Album Name": "Tough Guys"
     },
     {
         "Title": "Al Jazeera At Center Of Dispute Between Qatar And Its Gulf Neighbors",
@@ -60,7 +88,15 @@
         "ATC Track": "3WW",
         "ATC Artists": [
             "Alt-J"
-        ]
+        ],
+        "Result Track Name": "3WW",
+        "Result Artist Names": [
+            "alt-J"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5wYLW17fs9JOolzR2W3AmM",
+        "Result Album Name": "RELAXER"
     },
     {
         "Title": "'The Great Comet': 'Hits All Of The Checkmarks' Of A Broadway Experience",
@@ -78,6 +114,11 @@
         "ATC Track": "Adios",
         "ATC Artists": [
             "Glen Campbell"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

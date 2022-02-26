@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2017-12-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 03:54:01"
+        "Scanned Date": "2022-02-07 03:54:01",
+        "Playlist URI": "0lvUYcKMHZVXt3ZOUl6Xz8",
+        "Playlist Link": "https://open.spotify.com/playlist/0lvUYcKMHZVXt3ZOUl6Xz8",
+        "Snapshot ID": "MSwwYWYzNDkxNjkxNzJlMTUyY2I4YTk5OGUxMmU4NzhiZmQyMDA0ZDEx",
+        "Playlist Name": "ATC 2017-12-17 Sun All Things Considered"
     },
     {
         "Title": "A Likely Win On Taxes Solves Some Of The GOP's Political Problems",
@@ -28,13 +32,30 @@
         "ATC Track": "World on Fire",
         "ATC Artists": [
             "Luis the Child"
-        ]
+        ],
+        "Result Track Name": "World On Fire",
+        "Result Artist Names": [
+            "Louis The Child",
+            "Ashe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2hNyGmGKNoQRYRWqVaiTir",
+        "Result Album Name": "Love Is Alive"
     },
     {
         "ATC Track": "Stars",
         "ATC Artists": [
             "Yosi Horikawa"
-        ]
+        ],
+        "Result Track Name": "Stars",
+        "Result Artist Names": [
+            "Yosi Horikawa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0k7UbZFOcNSebBda0H52rT",
+        "Result Album Name": "Vapor"
     },
     {
         "Title": "Tax Bill Would Open Alaska Wildlife Refuge To Drilling",
@@ -58,7 +79,15 @@
         "ATC Track": "De Parranda En Puerto Rico",
         "ATC Artists": [
             "Odilio Gonzales"
-        ]
+        ],
+        "Result Track Name": "De Parranda en Puerto Rico",
+        "Result Artist Names": [
+            "Odilio Gonzalez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:183QlrlL9qt5tGZVefJE9j",
+        "Result Album Name": "Tarjeta de Navidad"
     },
     {
         "Title": "What Do You Need To Know To Be A Federal Judge?",
@@ -70,7 +99,15 @@
         "ATC Track": "Weight Of Love",
         "ATC Artists": [
             "The Black Keys"
-        ]
+        ],
+        "Result Track Name": "Weight of Love",
+        "Result Artist Names": [
+            "The Black Keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xMQOd1C3TXsjQ3pmzOmkC",
+        "Result Album Name": "Turn Blue"
     },
     {
         "Title": "From 'This Is Us' To 'Master Of None,' The Year's Groundbreaking TV Shows",
@@ -101,13 +138,23 @@
         "ATC Artists": [
             "Bethany",
             "Willie Pickens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "O Come, O Come Emannuel",
         "ATC Artists": [
             "Bethany",
             "Willie Pickens"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
