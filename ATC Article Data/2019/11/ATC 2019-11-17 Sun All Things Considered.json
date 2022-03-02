@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-11-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:37:47"
+        "Scanned Date": "2022-02-07 04:37:47",
+        "Playlist URI": "4aMrJl8uRKN0lcbsjZGGiW",
+        "Playlist Link": "https://open.spotify.com/playlist/4aMrJl8uRKN0lcbsjZGGiW",
+        "Snapshot ID": "MSw5ZmIxMDVkYThhZjc5Y2JhMzExYjY5ZjJkYjRlYWEwM2Y5MzhlYjJk",
+        "Playlist Name": "ATC 2019-11-17 Sun All Things Considered"
     },
     {
         "Title": "Historian Jeffrey Engel Takes Listener Questions On Impeachment Inquiry",
@@ -23,13 +27,31 @@
         "ATC Artists": [
             "Ghostface Killah",
             "Raekwon"
-        ]
+        ],
+        "Result Track Name": "Blackout",
+        "Result Artist Names": [
+            "Ghostface Killah",
+            "Adrian Younge",
+            "Raekwon"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:1OqzXJrCUWQOmouC9C0bMn",
+        "Result Album Name": "Adrian Younge Presents: 12 Reasons To Die II"
     },
     {
         "ATC Track": "Evergreen",
         "ATC Artists": [
             "Booker T. Jones"
-        ]
+        ],
+        "Result Track Name": "Evergreen - Instrumental",
+        "Result Artist Names": [
+            "Booker T."
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:2WiUfKYrLk5jGWNXZzgIdz",
+        "Result Album Name": "Evergreen (Expanded Edition)"
     },
     {
         "Title": "1 Year Of 'Yellow Vest' Protests In France",
@@ -47,7 +69,15 @@
         "ATC Track": "Dumaine St.",
         "ATC Artists": [
             "Trombone Shorty"
-        ]
+        ],
+        "Result Track Name": "Dumaine St.",
+        "Result Artist Names": [
+            "Trombone Shorty"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5SvRxekGOCvGZQiDMU3sNl",
+        "Result Album Name": "For True"
     },
     {
         "Title": "The State Of Spanish-Language Media In U.S.",
@@ -59,7 +89,15 @@
         "ATC Track": "Samba de Orly",
         "ATC Artists": [
             "Chico Buarque"
-        ]
+        ],
+        "Result Track Name": "Samba De Orly",
+        "Result Artist Names": [
+            "Chico Buarque"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39HKNEpQz75dCJqDxH0xuD",
+        "Result Album Name": "Construção"
     },
     {
         "Title": "Pro Runner Mary Cain Discusses Abuse Allegations Against Nike",
@@ -77,13 +115,30 @@
         "ATC Track": "Money Can't Buy You Class",
         "ATC Artists": [
             "Countess Luann"
-        ]
+        ],
+        "Result Track Name": "Money Can't Buy You Class - Radio Edit",
+        "Result Artist Names": [
+            "Countess Luann"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7N3mPmT65DB8gWhfsXIr9j",
+        "Result Album Name": "Money Can't Buy You Class"
     },
     {
         "ATC Track": "Trunk of My Computer",
         "ATC Artists": [
             "RJD2",
             "STS"
-        ]
+        ],
+        "Result Track Name": "Trunk of My Computer",
+        "Result Artist Names": [
+            "STS",
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5RuNCYVlTeyMI9rrNo1sJV",
+        "Result Album Name": "STS x RJD2"
     }
 ]

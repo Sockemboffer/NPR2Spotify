@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-01-19",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:56:17"
+        "Scanned Date": "2022-02-07 04:56:17",
+        "Playlist URI": "1ZcS2yJ0aZaT1MV1ZUxJjl",
+        "Playlist Link": "https://open.spotify.com/playlist/1ZcS2yJ0aZaT1MV1ZUxJjl",
+        "Snapshot ID": "MSw2MzM5ZjYxOTAzODIwZjEwZDU5NTY0NDJmNzY1OTU3YTcwNTViYzQy",
+        "Playlist Name": "ATC 2019-01-19 Sat All Things Considered"
     },
     {
         "Title": "In Exchange For Border Wall Funding, Trump Proposes Temporary Immigrant Protections",
@@ -22,13 +26,29 @@
         "ATC Track": "Rainy Streets",
         "ATC Artists": [
             "Blue In Green"
-        ]
+        ],
+        "Result Track Name": "Rainy Streets",
+        "Result Artist Names": [
+            "Blue In Green"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27R3h4sOHv03aWMwNtu98L",
+        "Result Album Name": "The Break Of Dawn"
     },
     {
         "ATC Track": "Moondance",
         "ATC Artists": [
             "Drips Zacheer"
-        ]
+        ],
+        "Result Track Name": "Moondance",
+        "Result Artist Names": [
+            "Drips Zacheer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iK6bNSunNXbpF8mpC5M76",
+        "Result Album Name": "Things To Do In Zero Gravity"
     },
     {
         "Title": "Trump Pitches 3-Year Extension Of DACA Protections For Border Wall Funding",
@@ -52,7 +72,12 @@
         "ATC Track": "Kubla",
         "ATC Artists": [
             "Wyl"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Palestinian School And Sewage Projects Unfinished As U.S. Cuts Final Bit Of Aid",
@@ -64,13 +89,26 @@
         "ATC Track": "Alpha.",
         "ATC Artists": [
             "Keem The Cipher"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "American Guilt",
         "ATC Artists": [
             "Unknown Mortal Orchestra"
-        ]
+        ],
+        "Result Track Name": "American Guilt",
+        "Result Artist Names": [
+            "Unknown Mortal Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZCyJU8DwNs3JmvzlLN76z",
+        "Result Album Name": "Sex & Food"
     },
     {
         "Title": "In Mexico, Dozens Killed In Gasoline Pipeline Explosion",
@@ -95,6 +133,16 @@
         "ATC Artists": [
             "KAYTRANADA feat. Karriem Riggins",
             "River Tiber"
-        ]
+        ],
+        "Result Track Name": "BUS RIDE",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "Karriem Riggins",
+            "River Tiber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9090909090909091,
+        "Result Track URI": "spotify:track:0p07eXzptON22i7dk4lmP7",
+        "Result Album Name": "99.9%"
     }
 ]

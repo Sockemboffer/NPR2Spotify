@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-12-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:36:51"
+        "Scanned Date": "2022-02-07 04:36:51",
+        "Playlist URI": "23Rb7d4wZyblGq9jIXQsRC",
+        "Playlist Link": "https://open.spotify.com/playlist/23Rb7d4wZyblGq9jIXQsRC",
+        "Snapshot ID": "MSwzNDIzZWNkZjE0ZjBmMzY1NDA0ZjM2MjVkYzJlYTJiMzVhNWY4MTA5",
+        "Playlist Name": "ATC 2019-12-29 Sun All Things Considered"
     },
     {
         "Title": "New York Gov. Cuomo On Hanukkah Celebrations Stabbing",
@@ -22,14 +26,27 @@
         "ATC Track": "Cast In the Brine",
         "ATC Artists": [
             "Musée Mécanique"
-        ]
+        ],
+        "Result Track Name": "Cast in the Brine - Instrumental",
+        "Result Artist Names": [
+            "Musée Mécanique"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3AHVnXQltpvtdDq9Jm5iaz",
+        "Result Album Name": "From Shores of Sleep (Instrumental)"
     },
     {
         "ATC Track": "The Doo Bop Song",
         "ATC Artists": [
             "Easy Mo Bee",
             "J.R. et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Correspondent Reflects On Battle For Mosul",
@@ -47,7 +64,15 @@
         "ATC Track": "Romare",
         "ATC Artists": [
             "Dirtwire"
-        ]
+        ],
+        "Result Track Name": "Romare",
+        "Result Artist Names": [
+            "Dirtwire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0aiP50VEAGin501PhoEezc",
+        "Result Album Name": "Blaze"
     },
     {
         "Title": "Suspect Charged In Stabbing Attack At Rabbi's New York Home",
@@ -60,13 +85,29 @@
         "ATC Artists": [
             "Young",
             "SIck"
-        ]
+        ],
+        "Result Track Name": "Dreams - Ocean Spray Edit",
+        "Result Artist Names": [
+            "Young & Sick"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6E4U4u9zG7mnyAZB8IHbMv",
+        "Result Album Name": "Dreams (Ocean Spray Edit)"
     },
     {
         "ATC Track": "Mr White",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Mr. White",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EqGquh3ajBQjudpLLhJKy",
+        "Result Album Name": "The Universe Smiles Upon You"
     },
     {
         "Title": "A Dying Language Of Enslaved Africans Lives On At Harvard",
@@ -84,13 +125,32 @@
         "ATC Track": "I Am What I Am",
         "ATC Artists": [
             "Gloria Gaynor"
-        ]
+        ],
+        "Result Track Name": "I Am What I Am",
+        "Result Artist Names": [
+            "Gloria Gaynor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4L9sdN5l6PvW3EZyP6sY7j",
+        "Result Album Name": "Gloria Gaynor '90 (All New Versions)"
     },
     {
         "ATC Track": "You Think I Don't Know (But I Know)",
         "ATC Artists": [
             "Charles Bradley",
             "The Gospel Queens"
-        ]
+        ],
+        "Result Track Name": "You Think I Don't Know (But I Know)",
+        "Result Artist Names": [
+            "Charles Bradley",
+            "Menahan Street Band",
+            "the Gospel Queens",
+            "The Sha La Das"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7xkFIYWrKuwszhiPApIisj",
+        "Result Album Name": "Changes"
     }
 ]

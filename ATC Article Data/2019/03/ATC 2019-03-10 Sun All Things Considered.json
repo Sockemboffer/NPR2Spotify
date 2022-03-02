@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-03-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:52:10"
+        "Scanned Date": "2022-02-07 04:52:10",
+        "Playlist URI": "3z4TKfkE2Ha3Spzbzdg96k",
+        "Playlist Link": "https://open.spotify.com/playlist/3z4TKfkE2Ha3Spzbzdg96k",
+        "Snapshot ID": "MSxjZjQzNGM4MGVjODBiOWZjMzg0ODA2NmZhODRhNThkNzI4ZmE2YTlk",
+        "Playlist Name": "ATC 2019-03-10 Sun All Things Considered"
     },
     {
         "Title": "Deal, No Deal Or Delay? Crucial Brexit Votes Ahead Of March Deadline",
@@ -28,11 +32,24 @@
         "ATC Track": "Deep In a Dream of You",
         "ATC Artists": [
             "Joey Pecoraro"
-        ]
+        ],
+        "Result Track Name": "Deep in a Dream of You",
+        "Result Artist Names": [
+            "Joey Pecoraro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:68vmQzJ9GZtADcimMpcUp6",
+        "Result Album Name": "Deep in a Dream of You"
     },
     {
         "ATC Track": "Beautific",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Miami Herald' Reporters Investigate Ties Between Massage Parlor Owner, Trump",
@@ -54,7 +71,15 @@
     },
     {
         "ATC Track": "Hahahahaha?",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Hahahahaha",
+        "Result Artist Names": [
+            "Sophism"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cz5YEgeERkRFrI3AP1d1K",
+        "Result Album Name": "Purple Hyacinth: II (Original Score)"
     },
     {
         "Title": "Safeguarding Mobile Homes Against Tornadoes",
@@ -66,13 +91,30 @@
         "ATC Track": "Synchronicity",
         "ATC Artists": [
             "Castanea"
-        ]
+        ],
+        "Result Track Name": "Synchronicity",
+        "Result Artist Names": [
+            "Castanea",
+            "Rising Appalachia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6w3ebsBeM2Zw80Ed6xMeYR",
+        "Result Album Name": "Remast"
     },
     {
         "ATC Track": "Emblica Officinalis",
         "ATC Artists": [
             "MF Doom"
-        ]
+        ],
+        "Result Track Name": "Emblica Officinalis",
+        "Result Artist Names": [
+            "MF DOOM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Jph7VTcvnlEYYtM1QpMyL",
+        "Result Album Name": "Metal Fingers Presents: Special Herbs, The Box Set Vol. 0 - 9"
     },
     {
         "Title": "U.S. Women's Soccer Gender Discrimination Lawsuit",
@@ -96,12 +138,28 @@
         "ATC Track": "Gods Among Men",
         "ATC Artists": [
             "Jojo Abot"
-        ]
+        ],
+        "Result Track Name": "Gods Among Men",
+        "Result Artist Names": [
+            "Jojo Abot"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6viN8JPOMqL9py5Auj39hn",
+        "Result Album Name": "Ngiwunkulunkulu"
     },
     {
         "ATC Track": "Mettavolution",
         "ATC Artists": [
             "Rodrigo y Gabriela"
-        ]
+        ],
+        "Result Track Name": "Mettavolution",
+        "Result Artist Names": [
+            "Rodrigo y Gabriela"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:152kW4skSileqmHbL5xYhC",
+        "Result Album Name": "Mettavolution"
     }
 ]

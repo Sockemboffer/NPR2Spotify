@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-03-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:52:35"
+        "Scanned Date": "2022-02-07 04:52:35",
+        "Playlist URI": "7qMRZeuZNgXqwVorfwGt2Z",
+        "Playlist Link": "https://open.spotify.com/playlist/7qMRZeuZNgXqwVorfwGt2Z",
+        "Snapshot ID": "MSxjMGNkMDQ0NDk3ZGRhMDMzMWYyOTJiNTA3ZGFiYWU2ODZlNzg2OGU1",
+        "Playlist Name": "ATC 2019-03-17 Sun All Things Considered"
     },
     {
         "Title": "Americans Hold Vigils Following New Zealand Mosque Shootings",
@@ -28,14 +32,27 @@
         "ATC Track": "Take My Time",
         "ATC Artists": [
             "Skinshape"
-        ]
+        ],
+        "Result Track Name": "Take My Time",
+        "Result Artist Names": [
+            "Skinshape"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ooWGAzXs3fU7eKHCrwZyd",
+        "Result Album Name": "Life & Love"
     },
     {
         "ATC Track": "Fjarlaegur",
         "ATC Artists": [
             "The Books",
             "José González"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Georgetown Students React To Admissions Fraud Scandal",
@@ -53,7 +70,15 @@
         "ATC Track": "Maggie's Pancakes",
         "ATC Artists": [
             "Altan"
-        ]
+        ],
+        "Result Track Name": "Maggie’s Pancakes/Píobaire an Chéide/The Friel Deal (Reels)",
+        "Result Artist Names": [
+            "Altan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2aXOZ6esGJHoN6lOCQdpfg",
+        "Result Album Name": "The Widening Gyre"
     },
     {
         "Title": "Ethiopian Flight Data Shows Similarities To Indonesian Crash Of Same Boeing Model",
@@ -66,7 +91,16 @@
         "ATC Artists": [
             "Bajka",
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Walk In The Sky",
+        "Result Artist Names": [
+            "Bonobo",
+            "Bajka"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3fsQsL36PH1G8mn68lsFRK",
+        "Result Album Name": "Days To Come"
     },
     {
         "Title": "In Theranos Documentary 'The Inventor,' Filmmakers Capture A Stubborn Elizabeth Holmes",
@@ -84,12 +118,25 @@
         "ATC Track": "Brother Whole",
         "ATC Artists": [
             "SOL Development"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "For You",
         "ATC Artists": [
             "Lack of Afro"
-        ]
+        ],
+        "Result Track Name": "For You",
+        "Result Artist Names": [
+            "Lack Of Afro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5huPwfMtju10p3ZHejP9ui",
+        "Result Album Name": "Press On"
     }
 ]

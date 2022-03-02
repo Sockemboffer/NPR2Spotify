@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-04-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:51:29"
+        "Scanned Date": "2022-02-07 04:51:29",
+        "Playlist URI": "2ewI94D40HEnA20VQSGstr",
+        "Playlist Link": "https://open.spotify.com/playlist/2ewI94D40HEnA20VQSGstr",
+        "Snapshot ID": "MSxiZjU1MDg2NzE4YzA0NGQwZmU0NDM0MWYyNzgwMmQ5ODZkMmJkYTA0",
+        "Playlist Name": "ATC 2019-04-27 Sat All Things Considered"
     },
     {
         "Title": "1 Dead In San Diego Synagogue Shooting",
@@ -26,13 +30,29 @@
     },
     {
         "ATC Track": "Anitya",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Anitya",
+        "Result Artist Names": [
+            "Jean du Voyage"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DRY12qw3f7eBHCvCAf3z5",
+        "Result Album Name": "Mantra"
     },
     {
         "ATC Track": "Solar Therapy",
         "ATC Artists": [
             "Moontricks"
-        ]
+        ],
+        "Result Track Name": "Solar Therapy",
+        "Result Artist Names": [
+            "Moontricks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3snmLEQT797ilvLOnPa2M2",
+        "Result Album Name": "Solar Therapy"
     },
     {
         "Title": "Barbershop: 2020 Electability",
@@ -50,7 +70,15 @@
         "ATC Track": "Takedown",
         "ATC Artists": [
             "The Herbalizer"
-        ]
+        ],
+        "Result Track Name": "Takedown",
+        "Result Artist Names": [
+            "The Herbaliser"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0T7RKKEU6vrKQ77sXQZbj2",
+        "Result Album Name": "Bring out the Sound"
     },
     {
         "Title": "With Final 'Avengers' Movie Out, The Wait Ends For Marvel Superfan",
@@ -62,13 +90,26 @@
         "ATC Track": "Avengers",
         "ATC Artists": [
             "Alan Silvestri"
-        ]
+        ],
+        "Result Track Name": "The Avengers",
+        "Result Artist Names": [
+            "Alan Silvestri"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5SXsXjVJCWeJuf7FHvgBYR",
+        "Result Album Name": "The Avengers (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Everybody",
         "ATC Artists": [
             "Kiah Victoria"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Virgin Islands Governor: 'Emergency Fast-Track Process' Needed For Federal Aid",
@@ -93,12 +134,29 @@
         "ATC Artists": [
             "Nicola Cruz",
             "Huaira"
-        ]
+        ],
+        "Result Track Name": "Equinoccio (feat. Huaira)",
+        "Result Artist Names": [
+            "Nicola Cruz",
+            "Huaira"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mbeMzcKPdJi2zVhV0yRYH",
+        "Result Album Name": "Prender el Alma"
     },
     {
         "ATC Track": "Cold Iron",
         "ATC Artists": [
             "Mike Vass"
-        ]
+        ],
+        "Result Track Name": "Cold Iron",
+        "Result Artist Names": [
+            "Mike Vass"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2Yi0x4XCPbmErwbbz8HZwQ",
+        "Result Album Name": "In the Wake of Neil Gunn"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-08-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:43:11"
+        "Scanned Date": "2022-02-07 04:43:11",
+        "Playlist URI": "1Asc03LdecFwG1qP1kJLHm",
+        "Playlist Link": "https://open.spotify.com/playlist/1Asc03LdecFwG1qP1kJLHm",
+        "Snapshot ID": "MSxlNGUxNjJiNzI0NmJkNTk2YzA3OGZjMmFmMDZiYWI4YzVlNzcxY2Qy",
+        "Playlist Name": "ATC 2019-08-24 Sat All Things Considered"
     },
     {
         "Title": "At G-7 Meeting, Western Divisions On Display",
@@ -28,13 +32,29 @@
         "ATC Track": "Licorice",
         "ATC Artists": [
             "MF Doom"
-        ]
+        ],
+        "Result Track Name": "Licorice",
+        "Result Artist Names": [
+            "MF DOOM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:57kl4PC628tzFjAwdkc8dL",
+        "Result Album Name": "Metal Fingers Presents: Special Herbs, Vol. 7 and 8"
     },
     {
         "ATC Track": "Way Back When",
         "ATC Artists": [
             "RudeManners"
-        ]
+        ],
+        "Result Track Name": "Way Back When",
+        "Result Artist Names": [
+            "RudeManners"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eHVMo2IBSSaA4TGdhquPt",
+        "Result Album Name": "Do Not Disturb, Vol. 2"
     },
     {
         "Title": "Law Professor On California's New Police Use-Of-Force Law",
@@ -52,7 +72,15 @@
         "ATC Track": "Moondance",
         "ATC Artists": [
             "Drips Zacheer"
-        ]
+        ],
+        "Result Track Name": "Moondance",
+        "Result Artist Names": [
+            "Drips Zacheer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iK6bNSunNXbpF8mpC5M76",
+        "Result Album Name": "Things To Do In Zero Gravity"
     },
     {
         "Title": "Amid Mixed Messaging, Brazil's Bolsonaro Sends Troops To Fight Amazon Fires",
@@ -64,7 +92,15 @@
         "ATC Track": "Dance Around the Fire",
         "ATC Artists": [
             "Why These Coyotes"
-        ]
+        ],
+        "Result Track Name": "Dance Around the Fire",
+        "Result Artist Names": [
+            "Why These Coyotes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oDXwSPWcp7KT2B3funF8y",
+        "Result Album Name": "Dance Around the Fire"
     },
     {
         "Title": "Movie: 'Jawline'",
@@ -83,6 +119,11 @@
         "ATC Artists": [
             "Lyn Taitt",
             "Roland Alphonso"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

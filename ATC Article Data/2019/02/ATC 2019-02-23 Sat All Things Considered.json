@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-02-23",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:54:46"
+        "Scanned Date": "2022-02-07 04:54:46",
+        "Playlist URI": "2EkbBUQdnYlX65SYzXJc3K",
+        "Playlist Link": "https://open.spotify.com/playlist/2EkbBUQdnYlX65SYzXJc3K",
+        "Snapshot ID": "MSxkODdlNTQ4MDdhYzg5YmExNTE0ZGUzMmM4NDY0YjI4N2MyYTU2ZDVh",
+        "Playlist Name": "ATC 2019-02-23 Sat All Things Considered"
     },
     {
         "Title": "Deadly Clashes Erupt As Venezuela Military Attempts To Block Aid",
@@ -22,13 +26,31 @@
         "ATC Track": "Setbacks",
         "ATC Artists": [
             "IV the Polymath"
-        ]
+        ],
+        "Result Track Name": "Setbacks",
+        "Result Artist Names": [
+            "IV The Polymath"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yTyFHaDOyS1a6QeVe9za1",
+        "Result Album Name": "Drum Machines Have No Soul"
     },
     {
         "ATC Track": "Clean Sweep",
         "ATC Artists": [
             "Pawcut"
-        ]
+        ],
+        "Result Track Name": "Clean Sweep",
+        "Result Artist Names": [
+            "Pawcut",
+            "Zen-Zin",
+            "DJ Access"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2aIBcpFqhjVBhIU4MMgeAB",
+        "Result Album Name": "Nightmare City"
     },
     {
         "Title": "A Week Late, Nigeria's Election Unfolds",
@@ -46,7 +68,15 @@
         "ATC Track": "Feed the Babies",
         "ATC Artists": [
             "Gary Clark Jr"
-        ]
+        ],
+        "Result Track Name": "Feed the Babies",
+        "Result Artist Names": [
+            "Gary Clark Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7AjbRQbdBovpcEzFLRSRWd",
+        "Result Album Name": "This Land"
     },
     {
         "Title": "R. Kelly Bond Set At $1 Million In Sexual Abuse Case",
@@ -56,13 +86,26 @@
     },
     {
         "ATC Track": "Fat B",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Bitter",
         "ATC Artists": [
             "Emily West"
-        ]
+        ],
+        "Result Track Name": "Bitter",
+        "Result Artist Names": [
+            "Emily West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yjrtpAbh5hsw303DTXf77",
+        "Result Album Name": "All For You"
     },
     {
         "Title": "Hollywood Culture Post-Weinstein",
@@ -86,12 +129,28 @@
         "ATC Track": "Deep In a Dream of You",
         "ATC Artists": [
             "Joey Pecoraro"
-        ]
+        ],
+        "Result Track Name": "Deep in a Dream of You",
+        "Result Artist Names": [
+            "Joey Pecoraro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:68vmQzJ9GZtADcimMpcUp6",
+        "Result Album Name": "Deep in a Dream of You"
     },
     {
         "ATC Track": "Restless Heart",
         "ATC Artists": [
             "Yasmin Williams"
-        ]
+        ],
+        "Result Track Name": "Restless Heart",
+        "Result Artist Names": [
+            "Yasmin Williams"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2P7WyK5HwXktx83qHdgl9Z",
+        "Result Album Name": "Unwind"
     }
 ]

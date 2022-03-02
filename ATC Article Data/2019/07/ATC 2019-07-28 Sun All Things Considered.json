@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-07-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:45:12"
+        "Scanned Date": "2022-02-07 04:45:12",
+        "Playlist URI": "6YA7tHHX1kwj18z6AmXdSl",
+        "Playlist Link": "https://open.spotify.com/playlist/6YA7tHHX1kwj18z6AmXdSl",
+        "Snapshot ID": "MSwwZmNiMmFjMTU1YzUwMjA5MTljYTZkYjU4NTg4NmZlYTM5ZjczNzBh",
+        "Playlist Name": "ATC 2019-07-28 Sun All Things Considered"
     },
     {
         "Title": "Director Of National Intelligence Dan Coats Resigns",
@@ -28,13 +32,29 @@
         "ATC Track": "Rappahannock",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Rappahannock",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3D8AeuoC0w5cK7Kt7p3KQf",
+        "Result Album Name": "Baralku"
     },
     {
         "ATC Track": "Paralyzed",
         "ATC Artists": [
             "Hanni El Khatib"
-        ]
+        ],
+        "Result Track Name": "Paralyzed",
+        "Result Artist Names": [
+            "Hanni El Khatib"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0XrR2xQjIIlout5j8W2uxL",
+        "Result Album Name": "Savage Times"
     },
     {
         "Title": "Armed With New Policies, Democratic Presidential Candidates Look To Debates ",
@@ -58,7 +78,12 @@
         "ATC Track": "Alibi",
         "ATC Artists": [
             "Maisonair"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "World War II Veteran Awarded Posthumous Purple Heart",
@@ -70,13 +95,31 @@
         "ATC Track": "Into Each Life Some Rain Must Fall (With Ella Fitzgerald)",
         "ATC Artists": [
             "The Ink Spots"
-        ]
+        ],
+        "Result Track Name": "Into Each Life Some Rain Must Fall - Single Version",
+        "Result Artist Names": [
+            "The Ink Spots",
+            "Ella Fitzgerald"
+        ],
+        "Result Track-Match Percent": 0.7368421052631579,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:70Hl6QYIJGmrR7NBl666Y6",
+        "Result Album Name": "20th Century Masters: The Millennium Collection: Best Of The Ink Spots"
     },
     {
         "ATC Track": "Sun Will Set",
         "ATC Artists": [
             "Zoe Keating"
-        ]
+        ],
+        "Result Track Name": "Sun Will Set",
+        "Result Artist Names": [
+            "Zoë Keating",
+            "Zoe Clare Keating"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7D0d3NwJ94vLlDJuGZ3Abt",
+        "Result Album Name": "One Cello X 16: Natoma"
     },
     {
         "Title": "Documentary: 'The Great Hack'",
@@ -94,12 +137,28 @@
         "ATC Track": "Trouble",
         "ATC Artists": [
             "Sugar Ray"
-        ]
+        ],
+        "Result Track Name": "Trouble",
+        "Result Artist Names": [
+            "Sugar Ray"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zHHHH9f9UQ6IYT9fowSY3",
+        "Result Album Name": "Little Yachty"
     },
     {
         "ATC Track": "Cruise",
         "ATC Artists": [
             "Your Song is Good"
-        ]
+        ],
+        "Result Track Name": "Cruise",
+        "Result Artist Names": [
+            "YOUR SONG IS GOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0HSthMRppfUwaYdlzpmTKY",
+        "Result Album Name": "Extended"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-10-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:39:57"
+        "Scanned Date": "2022-02-07 04:39:57",
+        "Playlist URI": "0fOpvnmnFYKwe4qrDqgfE0",
+        "Playlist Link": "https://open.spotify.com/playlist/0fOpvnmnFYKwe4qrDqgfE0",
+        "Snapshot ID": "MSw4MTI1ZTZlYWE0MjRmODA3MGZkMDNlODA0OWM1YjlmZjc4NDRlZTRk",
+        "Playlist Name": "ATC 2019-10-27 Sun All Things Considered"
     },
     {
         "Title": "ISIS Leader Killed In U.S. Raid. What's Next For The Terrorist Group?",
@@ -22,13 +26,29 @@
         "ATC Track": "Push It Up - Instrumental",
         "ATC Artists": [
             "DJ Drez"
-        ]
+        ],
+        "Result Track Name": "Push It Up - Instrumental",
+        "Result Artist Names": [
+            "DJ Drez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4DsQln7AWosnGmhSeLbWBd",
+        "Result Album Name": "Aficionados Instrumentals"
     },
     {
         "ATC Track": "'til You Can't Get Enough",
         "ATC Artists": [
             "Harem"
-        ]
+        ],
+        "Result Track Name": "'til You Can't Get Enough",
+        "Result Artist Names": [
+            "Harem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FD7U87tpDZgNbkyGDC1i7",
+        "Result Album Name": "Harem"
     },
     {
         "Title": "Mandatory Evacuations In Northern California As Wildfires Rage",
@@ -58,7 +78,12 @@
         "ATC Track": "Stories We Build, Stories We Tell",
         "ATC Artists": [
             "Jose Gonzales"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "House To Vote On Resolution Recognizing Armenian Genocide",
@@ -70,7 +95,15 @@
         "ATC Track": "Finally Moving",
         "ATC Artists": [
             "Pretty Lights"
-        ]
+        ],
+        "Result Track Name": "Finally Moving",
+        "Result Artist Names": [
+            "Pretty Lights"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3WS7spXVlbeC5kjePmHMQW",
+        "Result Album Name": "Taking up Your Precious Time"
     },
     {
         "Title": "Pittsburgh Memorial Marks 1 Year Since Synagogue Shooting",
@@ -95,12 +128,28 @@
         "ATC Artists": [
             "Smokey Robinson",
             "the Miracles"
-        ]
+        ],
+        "Result Track Name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
+        "Result Artist Names": [
+            "Smokey Robinson & The Miracles"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ifcJ5DDytGf8aITxmgsLN",
+        "Result Album Name": "OOO Baby Baby: The Anthlogy"
     },
     {
         "ATC Track": "Papa Was A Rolling Stone",
         "ATC Artists": [
             "The Temptations"
-        ]
+        ],
+        "Result Track Name": "Papa Was A Rolling Stone",
+        "Result Artist Names": [
+            "The Temptations"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Lno0hPhvo7BzXVLQzDIS3",
+        "Result Album Name": "Live As It Gets"
     }
 ]

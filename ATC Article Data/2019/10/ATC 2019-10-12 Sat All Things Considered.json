@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-10-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:39:09"
+        "Scanned Date": "2022-02-07 04:39:09",
+        "Playlist URI": "1XjwmJ7aVWCaUGAK2rFVPW",
+        "Playlist Link": "https://open.spotify.com/playlist/1XjwmJ7aVWCaUGAK2rFVPW",
+        "Snapshot ID": "MSwyNTY3ODM0MTdmNmQ2ZDVkMWUwNWVlYmQzZDcwYWI1MWUzNjFmYjU2",
+        "Playlist Name": "ATC 2019-10-12 Sat All Things Considered"
     },
     {
         "Title": "Former U.S. Ambassador To Ukraine's Congressional Testimony",
@@ -22,13 +26,29 @@
         "ATC Track": "Strive",
         "ATC Artists": [
             "Ollie Morris"
-        ]
+        ],
+        "Result Track Name": "Strive",
+        "Result Artist Names": [
+            "Ollie Morris"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7tYYTsmIYKfjK1St3JwrW4",
+        "Result Album Name": "Strive"
     },
     {
         "ATC Track": "Daisuke",
         "ATC Artists": [
             "El Huervo"
-        ]
+        ],
+        "Result Track Name": "Daisuke",
+        "Result Artist Names": [
+            "El Huervo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1hGRe4d3LJCg1VszAU8Cy1",
+        "Result Album Name": "Do Not Lay Waste To Homes..."
     },
     {
         "Title": "Southern California Wildfires Rage",
@@ -52,7 +72,15 @@
         "ATC Track": "Golden Light",
         "ATC Artists": [
             "STRFKR"
-        ]
+        ],
+        "Result Track Name": "Golden Light",
+        "Result Artist Names": [
+            "STRFKR"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4O2aCfXPP9FfPoIPixwVBz",
+        "Result Album Name": "Miracle Mile"
     },
     {
         "Title": "Yoga Instructors Are Unionizing",
@@ -64,13 +92,26 @@
         "ATC Track": "Frostbit",
         "ATC Artists": [
             "Oddosee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Arthur's Song",
         "ATC Artists": [
             "Atmosphere"
-        ]
+        ],
+        "Result Track Name": "Arthur's Song",
+        "Result Artist Names": [
+            "Atmosphere"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NYPbfyO0p0Te6jdiynhVS",
+        "Result Album Name": "Southsiders (Deluxe Version)"
     },
     {
         "Title": "Trump's Syrian Border Withdrawal Leaves Allies Nervous",
@@ -94,12 +135,28 @@
         "ATC Track": "Meant to Be",
         "ATC Artists": [
             "prod. twoface"
-        ]
+        ],
+        "Result Track Name": "Meant to Be",
+        "Result Artist Names": [
+            "Henrik Prod"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4mC8G06mYpsgGeifLoAlb6",
+        "Result Album Name": "Meant to Be"
     },
     {
         "ATC Track": "Awake",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Awake",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MhMXTuVODDF234VDvSxQx",
+        "Result Album Name": "Awake"
     }
 ]

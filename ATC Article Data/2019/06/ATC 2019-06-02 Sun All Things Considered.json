@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-06-02",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:45:53"
+        "Scanned Date": "2022-02-07 04:45:53",
+        "Playlist URI": "5AmlDJtKtJ9yUd7r2TVOP2",
+        "Playlist Link": "https://open.spotify.com/playlist/5AmlDJtKtJ9yUd7r2TVOP2",
+        "Snapshot ID": "MSwxMDFhMTA4MGJmNzJiOTg4ZWNlMzdlNWZiNzA2M2QxMWJhMDk3MTNh",
+        "Playlist Name": "ATC 2019-06-02 Sun All Things Considered"
     },
     {
         "Title": "Virginia Beach Officials Confirm Gunman Sent In Resignation On Day Of Shooting",
@@ -28,11 +32,27 @@
         "ATC Track": "Dream Chorus",
         "ATC Artists": [
             "TOKiMONSTA"
-        ]
+        ],
+        "Result Track Name": "Dream Chorus",
+        "Result Artist Names": [
+            "TOKiMONSTA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6kEZ1FCPDkCeaDeORgMzzZ",
+        "Result Album Name": "Dream Chorus"
     },
     {
         "ATC Track": "Interlude",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "worldstar money (interlude)",
+        "Result Artist Names": [
+            "Joji"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0baNzeUcPQnQSagpe8T0mD",
+        "Result Album Name": "In Tongues (Deluxe)"
     },
     {
         "Title": "'Superbugs' Book Chronicles Rise Of Antibiotic-Resistant Pathogens",
@@ -56,7 +76,12 @@
         "ATC Track": "Everybody",
         "ATC Artists": [
             "Kiah Victoria"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Stinking Rich? Malaysia Aims To Cash In On China's Durian Craze ",
@@ -68,13 +93,29 @@
         "ATC Track": "Nanjing Road East",
         "ATC Artists": [
             "Shanghai Restoration Project"
-        ]
+        ],
+        "Result Track Name": "Nanjing Road East - Instrumental",
+        "Result Artist Names": [
+            "The Shanghai Restoration Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fIZjUTjTIolsDSFYJ5t0q",
+        "Result Album Name": "Instrumentals"
     },
     {
         "ATC Track": "O, Astoria!",
         "ATC Artists": [
             "Musée Mécanique"
-        ]
+        ],
+        "Result Track Name": "O, Astoria! - Instrumental",
+        "Result Artist Names": [
+            "Musée Mécanique"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6df8z9vrkI3AT7tIIVcart",
+        "Result Album Name": "From Shores of Sleep (Instrumental)"
     },
     {
         "Title": "Leah Chase, The 'Queen Of Creole Cuisine,' Dies At 96 ",
@@ -98,12 +139,25 @@
         "ATC Track": "Algebra Mothers",
         "ATC Artists": [
             "Strawberry cheesecake"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Cecilia Ann",
         "ATC Artists": [
             "Pixies"
-        ]
+        ],
+        "Result Track Name": "Cecilia Ann",
+        "Result Artist Names": [
+            "Pixies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uzRCHfNOpf8qW6OHZWeTA",
+        "Result Album Name": "Bossanova"
     }
 ]

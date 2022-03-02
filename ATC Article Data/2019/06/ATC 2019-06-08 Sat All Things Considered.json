@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-06-08",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:46:38"
+        "Scanned Date": "2022-02-07 04:46:38",
+        "Playlist URI": "3pxJ8eXjuQLiOuX3YMJO1Q",
+        "Playlist Link": "https://open.spotify.com/playlist/3pxJ8eXjuQLiOuX3YMJO1Q",
+        "Snapshot ID": "MSw2MTVlMWI0MDU3YWM2MTc5NDY5M2FiNjZhZmY0MTdiNWVmNGUzOTdm",
+        "Playlist Name": "ATC 2019-06-08 Sat All Things Considered"
     },
     {
         "Title": "New U.S.-Mexico Border Agreement",
@@ -22,13 +26,29 @@
         "ATC Track": "Jungle",
         "ATC Artists": [
             "Tash Sultana"
-        ]
+        ],
+        "Result Track Name": "Jungle",
+        "Result Artist Names": [
+            "Tash Sultana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SkKLZFgKIY0DKX5Vro5jV",
+        "Result Album Name": "Jungle"
     },
     {
         "ATC Track": "X Ray Bear",
         "ATC Artists": [
             "The Cactus Channel"
-        ]
+        ],
+        "Result Track Name": "X-Ray Bear",
+        "Result Artist Names": [
+            "The Cactus Channel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vAd8OjWz8o5vqOVcR3WPC",
+        "Result Album Name": "Wooden Boy"
     },
     {
         "Title": "Dying Generation Of D-Day Veterans Feel An Urgency To Pass On History",
@@ -54,7 +74,16 @@
             "Cedella Marley",
             "Stephen Marley",
             "Damian Marley"
-        ]
+        ],
+        "Result Track Name": "Strike Hard",
+        "Result Artist Names": [
+            "Stephen Marley",
+            "Damian Marley"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1gJBlTX5k3FnGHU0qeuibM",
+        "Result Album Name": "Set up Shop, Vol. 2"
     },
     {
         "Title": "San Francisco Community Rallies To Save Historic Comedy Club",
@@ -66,13 +95,29 @@
         "ATC Track": "Brooklyn Slide",
         "ATC Artists": [
             "Los Straightjackets"
-        ]
+        ],
+        "Result Track Name": "Brooklyn Slide",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:4ug6QmOriJ7LjIJjIOKxvC",
+        "Result Album Name": "Brooklyn Slide b/w Wrong Way Inn"
     },
     {
         "ATC Track": "1976",
         "ATC Artists": [
             "RJD2"
-        ]
+        ],
+        "Result Track Name": "1976",
+        "Result Artist Names": [
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09aNhXGvfo8wAhUxcsDFlZ",
+        "Result Album Name": "Since We Last Spoke: Deluxe"
     },
     {
         "Title": "Barbershop: Republican Women And Abortion Rights",
@@ -90,13 +135,34 @@
         "ATC Track": "C.R.E.A.M.",
         "ATC Artists": [
             "Wu-Tang Clan"
-        ]
+        ],
+        "Result Track Name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
+        "Result Artist Names": [
+            "Wu-Tang Clan",
+            "Method Man",
+            "Raekwon",
+            "Inspectah Deck",
+            "Buddha Monk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:119c93MHjrDLJTApCVGpvx",
+        "Result Album Name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]"
     },
     {
         "ATC Track": "What Am I Supposed to Do?",
         "ATC Artists": [
             "Kero One",
             "Suhn"
-        ]
+        ],
+        "Result Track Name": "What Am I Supposed to Do? (feat. Suhn)",
+        "Result Artist Names": [
+            "Kero One",
+            "Suhn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6o4oixpfaPYyH1StB6Ke7w",
+        "Result Album Name": "Color Theory"
     }
 ]

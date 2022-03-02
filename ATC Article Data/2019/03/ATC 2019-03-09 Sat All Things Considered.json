@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-03-09",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:52:08"
+        "Scanned Date": "2022-02-07 04:52:08",
+        "Playlist URI": "791dEgL778jpfSqXeqZKtL",
+        "Playlist Link": "https://open.spotify.com/playlist/791dEgL778jpfSqXeqZKtL",
+        "Snapshot ID": "MSwwOTNmN2M2MGRjMDMxMzE5YjJmNTIxZWVhNDNjYzIzMTM3YWU3ZDk5",
+        "Playlist Name": "ATC 2019-03-09 Sat All Things Considered"
     },
     {
         "Title": "Power Outage Paralyzes Venezuela Amid Political Crisis",
@@ -28,13 +32,26 @@
         "ATC Track": "Film",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Good Side",
         "ATC Artists": [
             "Troye Sivan"
-        ]
+        ],
+        "Result Track Name": "The Good Side",
+        "Result Artist Names": [
+            "Troye Sivan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4qAHuJq5T4Q97EQZG47H0P",
+        "Result Album Name": "Bloom"
     },
     {
         "Title": "Barbershop: Rep. Ilhan Omar Divides Jewish Community",
@@ -52,7 +69,15 @@
         "ATC Track": "Can't Hang",
         "ATC Artists": [
             "Justin Jay"
-        ]
+        ],
+        "Result Track Name": "Can't Hang",
+        "Result Artist Names": [
+            "Justin Jay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1lhXCia7YlGas8f7r0vdKN",
+        "Result Album Name": "Home"
     },
     {
         "Title": "Reality TV Roundup",
@@ -64,13 +89,29 @@
         "ATC Track": "Jump (For My Love)",
         "ATC Artists": [
             "The Pointer Sisters"
-        ]
+        ],
+        "Result Track Name": "Jump (For My Love)",
+        "Result Artist Names": [
+            "The Pointer Sisters"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3L9ClO1W5KmebIXTrlKShF",
+        "Result Album Name": "Break Out"
     },
     {
         "ATC Track": "You Got Spirit, Kid",
         "ATC Artists": [
             "Coheed and Cambria"
-        ]
+        ],
+        "Result Track Name": "You Got Spirit, Kid",
+        "Result Artist Names": [
+            "Coheed and Cambria"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MGWKQv57m8tL6qfKhVPKk",
+        "Result Album Name": "The Color Before The Sun"
     },
     {
         "Title": "Amnesty International: New Twitter Feature Leaves Burden On Users Experiencing Abuse",
@@ -88,12 +129,28 @@
         "ATC Track": "Lunch",
         "ATC Artists": [
             "Stella Donnely"
-        ]
+        ],
+        "Result Track Name": "Lunch",
+        "Result Artist Names": [
+            "Stella Donnelly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6Y0dukjQ1dHv808rdruBYk",
+        "Result Album Name": "Beware of the Dogs"
     },
     {
         "ATC Track": "Point Breeze",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Point Breeze",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oa0R8u0QqHiK6vUk5011K",
+        "Result Album Name": "Fast Forward"
     }
 ]

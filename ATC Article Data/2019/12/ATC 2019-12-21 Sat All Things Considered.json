@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-12-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:36:28"
+        "Scanned Date": "2022-02-07 04:36:28",
+        "Playlist URI": "47YXGjD4idoLYhZwyHIH5j",
+        "Playlist Link": "https://open.spotify.com/playlist/47YXGjD4idoLYhZwyHIH5j",
+        "Snapshot ID": "MSwwOTlkZTQxOWZkZmQ5MzI2MjQyMGFjODZkNmVkNmNhNmIyZTEzNzUx",
+        "Playlist Name": "ATC 2019-12-21 Sat All Things Considered"
     },
     {
         "Title": "Predictable Outcomes Aside, Impeachment Acts As A Deterrent, Scholars Say",
@@ -22,13 +26,26 @@
         "ATC Track": "The Animal",
         "ATC Artists": [
             "9th Wonder"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Savane",
         "ATC Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Savane",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ya5bHuA3kyiePOhIQfQtW",
+        "Result Album Name": "Savane"
     },
     {
         "Title": "French Support For Roman Polanski Wanes",
@@ -46,7 +63,15 @@
         "ATC Track": "Peacock Tail",
         "ATC Artists": [
             "Boards of Canada"
-        ]
+        ],
+        "Result Track Name": "Peacock Tail",
+        "Result Artist Names": [
+            "Boards of Canada"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2HHAxkrJbuWZ7JWdxYbsWO",
+        "Result Album Name": "The Campfire Headphase"
     },
     {
         "Title": "Movie Review: 'Star Wars: The Rise Of Skywalker'",
@@ -59,13 +84,30 @@
         "ATC Artists": [
             "JOHN WILLIAMS",
             "THE LONDON SYMPHONY ORCHESTRA"
-        ]
+        ],
+        "Result Track Name": "Main Title",
+        "Result Artist Names": [
+            "John Williams",
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.9090909090909091,
+        "Result Track URI": "spotify:track:3ZSf1TJZyRb0rnWYuUtdX4",
+        "Result Album Name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)"
     },
     {
         "ATC Track": "Island, Is",
         "ATC Artists": [
             "Volcano Choir"
-        ]
+        ],
+        "Result Track Name": "Island, IS",
+        "Result Artist Names": [
+            "Volcano Choir"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0UG45r1E8VGzjzbB5BjnTW",
+        "Result Album Name": "Unmap"
     },
     {
         "Title": "The Emotional Toll Of Content Moderation",
@@ -83,12 +125,28 @@
         "ATC Track": "It's Christmas Time in Texas",
         "ATC Artists": [
             "Los Lobos"
-        ]
+        ],
+        "Result Track Name": "It's Christmas Time in Texas",
+        "Result Artist Names": [
+            "Los Lobos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5rpStVtUc6jbOf4OuxAafA",
+        "Result Album Name": "Llegó Navidad"
     },
     {
         "ATC Track": "Let It Snow! Let It Snow! Let It Snow!",
         "ATC Artists": [
             "Denis Solee"
-        ]
+        ],
+        "Result Track Name": "Let It Snow! Let It Snow! Let It Snow! (feat. Denis Solee)",
+        "Result Artist Names": [
+            "Denis Solee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2cDPXKhpNaTOPLfSoIgNvZ",
+        "Result Album Name": "Christmas Jazz"
     }
 ]

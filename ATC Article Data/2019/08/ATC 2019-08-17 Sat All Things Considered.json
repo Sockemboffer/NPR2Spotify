@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-08-17",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:42:49"
+        "Scanned Date": "2022-02-07 04:42:49",
+        "Playlist URI": "7bz0GYMliG6L3GWDdLCETx",
+        "Playlist Link": "https://open.spotify.com/playlist/7bz0GYMliG6L3GWDdLCETx",
+        "Snapshot ID": "MSw5MTlkMmRkMzk3OTc0NGI3MmQyZGVmZDgzNTAzZDFiNGQ2OTI5NTIy",
+        "Playlist Name": "ATC 2019-08-17 Sat All Things Considered"
     },
     {
         "Title": "Palestinian Activist On Rep. Tlaib: Nobody Should Be Humiliated For Visiting Homeland",
@@ -22,13 +26,30 @@
         "ATC Track": "Windmills Intro",
         "ATC Artists": [
             "Kero One"
-        ]
+        ],
+        "Result Track Name": "Windmills Intro",
+        "Result Artist Names": [
+            "Kero One"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6fHS2wyB2q1loDcP6qcQnt",
+        "Result Album Name": "Windmills of the Soul"
     },
     {
         "ATC Track": "Say My Name",
         "ATC Artists": [
             "ODESZA feat. Zyra"
-        ]
+        ],
+        "Result Track Name": "Say My Name (feat. Zyra)",
+        "Result Artist Names": [
+            "ODESZA",
+            "Zyra"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1LeItUMezKA1HdCHxYICed",
+        "Result Album Name": "In Return"
     },
     {
         "Title": "Pakistan Sees U.N. Meeting On Kashmir As Promising 1st Step",
@@ -46,7 +67,15 @@
         "ATC Track": "Song Cry",
         "ATC Artists": [
             "Jay-Z"
-        ]
+        ],
+        "Result Track Name": "Song Cry",
+        "Result Artist Names": [
+            "JAY-Z"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19ELgyBdMcEjGcbFHcY1ba",
+        "Result Album Name": "The Blueprint"
     },
     {
         "Title": "Critics Say Trump Administration Is Weakening Endangered Species Act",
@@ -56,13 +85,29 @@
     },
     {
         "ATC Track": "Alp Lugens and beyond",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Alp Lugens and beyond",
+        "Result Artist Names": [
+            "ef"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2JRvtNCXYRI8fQiMvEK8g1",
+        "Result Album Name": "Mourning golden morning"
     },
     {
         "ATC Track": "South American Folk Songs",
         "ATC Artists": [
             "The Modern Lovers"
-        ]
+        ],
+        "Result Track Name": "South American Folk Songs - Live",
+        "Result Artist Names": [
+            "The Modern Lovers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1jugWQyzmM3F7ob2opQiOz",
+        "Result Album Name": "Modern Lovers (Live)"
     },
     {
         "Title": "Documentary Review: 'One Child Nation'",
@@ -80,6 +125,14 @@
         "ATC Track": "Cool",
         "ATC Artists": [
             "Jonas Brothers"
-        ]
+        ],
+        "Result Track Name": "Cool",
+        "Result Artist Names": [
+            "Jonas Brothers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7yfi8B8opXjnRh4VZnOkz9",
+        "Result Album Name": "Happiness Begins"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-09-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:40:14"
+        "Scanned Date": "2022-02-07 04:40:14",
+        "Playlist URI": "3ZQ3YJrmjGor743Npwib14",
+        "Playlist Link": "https://open.spotify.com/playlist/3ZQ3YJrmjGor743Npwib14",
+        "Snapshot ID": "MSwyZGYzZjVjMzUwYWFjNmIxNDIzOTRkMWFlMGUyODkwODEzY2YzMjE5",
+        "Playlist Name": "ATC 2019-09-01 Sun All Things Considered"
     },
     {
         "Title": "Meteorologist On Category 5 Dorian",
@@ -28,13 +32,29 @@
         "ATC Track": "Tequesta",
         "ATC Artists": [
             "The Mercury Program"
-        ]
+        ],
+        "Result Track Name": "Tequesta",
+        "Result Artist Names": [
+            "The Mercury Program"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:669P22zk3bWwaXQh1dT9k8",
+        "Result Album Name": "A Data Learn the Language"
     },
     {
         "ATC Track": "Arrived/Departed",
         "ATC Artists": [
             "The Mercury Program"
-        ]
+        ],
+        "Result Track Name": "Arrived-Departed",
+        "Result Artist Names": [
+            "The Mercury Program"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6oXRyf0yyLPFgVLufmwsG6",
+        "Result Album Name": "Chez Viking"
     },
     {
         "Title": "Perspectives On The 'MeToo' Movement",
@@ -52,7 +72,16 @@
         "ATC Track": "Ao",
         "ATC Artists": [
             "Submotion Orchestra"
-        ]
+        ],
+        "Result Track Name": "Ao",
+        "Result Artist Names": [
+            "Submotion Orchestra",
+            "Catching Flies"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uZjZU1YxSgCOJ7KF5kYqx",
+        "Result Album Name": "Colour Theory"
     },
     {
         "Title": "Baltimore Chef Throws 1619 Dinner",
@@ -82,12 +111,28 @@
         "ATC Track": "Cedar Shed",
         "ATC Artists": [
             "Koloto"
-        ]
+        ],
+        "Result Track Name": "Cedar Shed",
+        "Result Artist Names": [
+            "Koloto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Zo9qZVD1Ha1nlr6UV2RHh",
+        "Result Album Name": "Mechanica"
     },
     {
         "ATC Track": "Alatheia",
         "ATC Artists": [
             "Koloto"
-        ]
+        ],
+        "Result Track Name": "Alatheia",
+        "Result Artist Names": [
+            "Koloto"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5K9fTNMtsi4z85TJ8M00ni",
+        "Result Album Name": "Alatheia"
     }
 ]

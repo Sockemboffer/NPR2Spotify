@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-06-01",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:45:50"
+        "Scanned Date": "2022-02-07 04:45:50",
+        "Playlist URI": "4XoeW18U1zAZ7jPtYli0Ho",
+        "Playlist Link": "https://open.spotify.com/playlist/4XoeW18U1zAZ7jPtYli0Ho",
+        "Snapshot ID": "MSwyMTVlM2YyZjhlY2Y5YTBmMzc5YTQwYTRkMWEzMDBlOThhNzk3MDhm",
+        "Playlist Name": "ATC 2019-06-01 Sat All Things Considered"
     },
     {
         "Title": "Latest On Virginia Beach Shooting",
@@ -26,7 +30,15 @@
     },
     {
         "ATC Track": "We Were Never There",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "We Were Never There",
+        "Result Artist Names": [
+            "Nym"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q8v2g0NIJaRZLL1Jbuexm",
+        "Result Album Name": "Convex"
     },
     {
         "Title": "At California Democratic Convention, 2020 Candidates Seek To Woo Prized Voters",
@@ -50,7 +62,15 @@
         "ATC Track": "Postcard from 1952",
         "ATC Artists": [
             "Explosions in the Sky"
-        ]
+        ],
+        "Result Track Name": "Postcard From 1952",
+        "Result Artist Names": [
+            "Explosions In The Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hIXmLxNIEwotaHu0R4shA",
+        "Result Album Name": "Take Care, Take Care, Take Care"
     },
     {
         "Title": "Why Are Gray Whales Dying? Researchers Cut Through The Blubber For Answers",
@@ -62,13 +82,29 @@
         "ATC Track": "City by the Sea",
         "ATC Artists": [
             "Chris Kasper"
-        ]
+        ],
+        "Result Track Name": "City by the Sea",
+        "Result Artist Names": [
+            "Chris Kasper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:44Q7JAsb1I6sMdxoO0ehHE",
+        "Result Album Name": "O, the Fool"
     },
     {
         "ATC Track": "Logan's Loop",
         "ATC Artists": [
             "Andrew Bird"
-        ]
+        ],
+        "Result Track Name": "Logan's Loop",
+        "Result Artist Names": [
+            "Andrew Bird"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1boaHHVRSOf7D1WVHwPrwk",
+        "Result Album Name": "I Want to See Pulaski at Night"
     },
     {
         "Title": "'Qualified' Documents Indy 500 Trailblazer Janet Guthrie's Roadblocks In Male-Dominated Sport",
@@ -84,12 +120,32 @@
     },
     {
         "ATC Track": "Pinkville",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Pinkville",
+        "Result Artist Names": [
+            "Rod Gator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4TpUYclx07yBrH6jDhkE4V",
+        "Result Album Name": "Pinkville"
     },
     {
         "ATC Track": "Something Like Bags",
         "ATC Artists": [
             "Wes Montgomery"
-        ]
+        ],
+        "Result Track Name": "Something Like Bags",
+        "Result Artist Names": [
+            "Wes Montgomery",
+            "Hank Jones",
+            "Ray Barretto",
+            "Ron Carter",
+            "Lex Humphries"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2qKI1QO1aaqMlq9iqr0GPC",
+        "Result Album Name": "So Much Guitar! [Original Jazz Classics Remasters]"
     }
 ]

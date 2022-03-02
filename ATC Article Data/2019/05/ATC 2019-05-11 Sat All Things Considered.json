@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-05-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:48:29"
+        "Scanned Date": "2022-02-07 04:48:29",
+        "Playlist URI": "0yIXYeLb0BSuT4ab0lvyGE",
+        "Playlist Link": "https://open.spotify.com/playlist/0yIXYeLb0BSuT4ab0lvyGE",
+        "Snapshot ID": "MSw1NzNkMjNiNWQ4ZDgyNjFlODYxN2QwOWQ1ZmUxYzJjMWQyNTg5ZDgz",
+        "Playlist Name": "ATC 2019-05-11 Sat All Things Considered"
     },
     {
         "Title": "Posturing Governs U.S.-Chinese Trade War",
@@ -26,11 +30,28 @@
     },
     {
         "ATC Track": "My God has a Telephone",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "My God Has A Telephone",
+        "Result Artist Names": [
+            "The Flying Stars Of Brooklyn NY",
+            "Aaron Frazer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0vOHWx4itwA0pQeWromAAx",
+        "Result Album Name": "My God Has a Telephone"
     },
     {
         "ATC Track": "Low Pressure",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "High Pressure Low",
+        "Result Artist Names": [
+            "Against Me!"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:64MiCSLRtCWnf8tde8qeW6",
+        "Result Album Name": "White Crosses"
     },
     {
         "Title": "Barbershop: How High Schoolers Are Thinking About Gun Violence",
@@ -42,7 +63,16 @@
         "ATC Track": "Chameleon",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Emancipator",
+            "9 Theory"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Mxb81Q382KxH7BUGjvfCr",
+        "Result Album Name": "Chameleon"
     },
     {
         "Title": "A New Spy Museum That Tackles Torture And Other Tough Questions",
@@ -54,13 +84,26 @@
         "ATC Track": "Goldeneye",
         "ATC Artists": [
             "Tina Turner"
-        ]
+        ],
+        "Result Track Name": "Goldeneye",
+        "Result Artist Names": [
+            "Tina Turner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:528QhCT2v3HgD71RmrSUNW",
+        "Result Album Name": "Goldeneye"
     },
     {
         "ATC Track": "Duet for Guitars, No. 3",
         "ATC Artists": [
             "M. Ward"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Remembering Federal Judge Damon Keith",
@@ -84,12 +127,28 @@
         "ATC Track": "Smoking Signals",
         "ATC Artists": [
             "Sean Hayes"
-        ]
+        ],
+        "Result Track Name": "Smoking Signals",
+        "Result Artist Names": [
+            "Sean Hayes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MDQJqyb4atAUbbRgsrwfh",
+        "Result Album Name": "This Is Happening"
     },
     {
         "ATC Track": "Friction",
         "ATC Artists": [
             "Tauk"
-        ]
+        ],
+        "Result Track Name": "Friction",
+        "Result Artist Names": [
+            "Tauk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:05VH3gIVLBlbQdwIxhhIoW",
+        "Result Album Name": "Collisions"
     }
 ]

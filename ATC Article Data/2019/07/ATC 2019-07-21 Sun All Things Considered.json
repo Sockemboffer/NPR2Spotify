@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-07-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:44:50"
+        "Scanned Date": "2022-02-07 04:44:50",
+        "Playlist URI": "78cSB8Rm3jRsMw6PHDFnas",
+        "Playlist Link": "https://open.spotify.com/playlist/78cSB8Rm3jRsMw6PHDFnas",
+        "Snapshot ID": "MSxmZGM2OTI0ODE2ODI2ZTEzOTRiZjRiNWUxMGY1NjNhMjIyY2YyMzgz",
+        "Playlist Name": "ATC 2019-07-21 Sun All Things Considered"
     },
     {
         "Title": "Mueller Hearing Lookahead",
@@ -22,13 +26,26 @@
         "ATC Track": "Coastal Break - Manual Remix",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Way Back When",
         "ATC Artists": [
             "RudeManners"
-        ]
+        ],
+        "Result Track Name": "Way Back When",
+        "Result Artist Names": [
+            "RudeManners"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eHVMo2IBSSaA4TGdhquPt",
+        "Result Album Name": "Do Not Disturb, Vol. 2"
     },
     {
         "Title": "What's Happening With New Abortion Regulations Under Title X",
@@ -58,13 +75,29 @@
         "ATC Track": "Surf",
         "ATC Artists": [
             "Common Tiger"
-        ]
+        ],
+        "Result Track Name": "Surf",
+        "Result Artist Names": [
+            "Common Tiger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:63QRe0qUrhp7fR3fTyR1SI",
+        "Result Album Name": "Surf"
     },
     {
         "ATC Track": "Heaven's Only Wishful",
         "ATC Artists": [
             "MorMor"
-        ]
+        ],
+        "Result Track Name": "Heaven's Only Wishful",
+        "Result Artist Names": [
+            "MorMor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gVD16pngRtQdSbAdaAgFI",
+        "Result Album Name": "Heaven's Only Wishful"
     },
     {
         "Title": "Book: Author Discusses Novel 'Copperhead'",
@@ -82,12 +115,28 @@
         "ATC Track": "Smile",
         "ATC Artists": [
             "Sampology"
-        ]
+        ],
+        "Result Track Name": "Smile",
+        "Result Artist Names": [
+            "Sampology"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:01fshn2AFIfmAsr6jFgnYB",
+        "Result Album Name": "Smile"
     },
     {
         "ATC Track": "Move on Up [Live]",
         "ATC Artists": [
             "Curtis Mayfield"
-        ]
+        ],
+        "Result Track Name": "Move on Up - Live in Europe",
+        "Result Artist Names": [
+            "Curtis Mayfield"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:23o3BGcq0sPNyNNxxSPjBs",
+        "Result Album Name": "Live in Europe"
     }
 ]

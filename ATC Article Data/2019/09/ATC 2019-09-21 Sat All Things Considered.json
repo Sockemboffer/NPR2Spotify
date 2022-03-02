@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-09-21",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:41:21"
+        "Scanned Date": "2022-02-07 04:41:21",
+        "Playlist URI": "4qPstyATR0sluu0IQrdj1U",
+        "Playlist Link": "https://open.spotify.com/playlist/4qPstyATR0sluu0IQrdj1U",
+        "Snapshot ID": "MSxiNmJjM2VjMmZkYmZkMWIzNWRhODM5YTQxY2NhMGVmZWYxMzlhZjJm",
+        "Playlist Name": "ATC 2019-09-21 Sat All Things Considered"
     },
     {
         "Title": "Leon Panetta Responds To The Whistleblower Scandal Surrounding President Trump",
@@ -22,13 +26,29 @@
         "ATC Track": "Asleep in the Desert",
         "ATC Artists": [
             "ZZ Top"
-        ]
+        ],
+        "Result Track Name": "Asleep in the Desert - Instrumental",
+        "Result Artist Names": [
+            "ZZ Top"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ukb39j9T97cToQVbxnn9a",
+        "Result Album Name": "Tejas"
     },
     {
         "ATC Track": "Mr White",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Mr. White",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EqGquh3ajBQjudpLLhJKy",
+        "Result Album Name": "The Universe Smiles Upon You"
     },
     {
         "Title": "LA Mayor Eric Garcetti Calls Homelessness The 'Humanitarian Crisis Of Our Lives'",
@@ -53,7 +73,15 @@
         "ATC Artists": [
             "Michael Miglio",
             "The Seafarin' Strangers"
-        ]
+        ],
+        "Result Track Name": "Never Gonna Let You Go",
+        "Result Artist Names": [
+            "Michael Miglio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:2Im4WHEm20ByCq5AhgshXr",
+        "Result Album Name": "Seafaring Strangers: Private Yacht"
     },
     {
         "Title": "Marines Charged With Human Smuggling At Camp Pendleton",
@@ -65,7 +93,15 @@
         "ATC Track": "All In Here",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "All In Here",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59rS6wE44hfcEBm23BkSQP",
+        "Result Album Name": "Seven Seas"
     },
     {
         "Title": "Barbershop: Andrew Yang And Shane Gillis",
@@ -89,6 +125,14 @@
         "ATC Track": "You",
         "ATC Artists": [
             "Petit Biscuit"
-        ]
+        ],
+        "Result Track Name": "You",
+        "Result Artist Names": [
+            "Petit Biscuit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gRuC34ZpRcpVXxMXM1csQ",
+        "Result Album Name": "You"
     }
 ]

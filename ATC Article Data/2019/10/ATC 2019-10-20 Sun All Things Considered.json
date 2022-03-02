@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-10-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:39:34"
+        "Scanned Date": "2022-02-07 04:39:34",
+        "Playlist URI": "0P2XbbxlVQlVAjYdbs6uTv",
+        "Playlist Link": "https://open.spotify.com/playlist/0P2XbbxlVQlVAjYdbs6uTv",
+        "Snapshot ID": "MSw2ZDg3MGQ5NWEwNzFiNzkxMmMwMDZkY2FmMzkwNDEzNDNmZGI4NWZj",
+        "Playlist Name": "ATC 2019-10-20 Sun All Things Considered"
     },
     {
         "Title": "Impeachment Inquiry: Witness Testimonies Continue This Week",
@@ -28,13 +32,29 @@
         "ATC Track": "Off and On",
         "ATC Artists": [
             "SALES"
-        ]
+        ],
+        "Result Track Name": "Off and On",
+        "Result Artist Names": [
+            "SALES"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40zaUOTsugX2NEBuJ6905s",
+        "Result Album Name": "Off and On"
     },
     {
         "ATC Track": "Hunnybee",
         "ATC Artists": [
             "Unknown Mortal Orchestra"
-        ]
+        ],
+        "Result Track Name": "Hunnybee",
+        "Result Artist Names": [
+            "Unknown Mortal Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AAYNz8jXvVlgG9IpYi42Z",
+        "Result Album Name": "Sex & Food"
     },
     {
         "Title": "Kara Swisher's Take On Mark Zuckerberg's 'Free Speech' Speech",
@@ -58,7 +78,15 @@
         "ATC Track": "Goodness",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Goodness",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5SdWubjtIdeLoy6YgFauko",
+        "Result Album Name": "Baralku"
     },
     {
         "Title": "'Sisters In Arms' Celebrates Women Kurdish Fighters In Anti-ISIS Fight",
@@ -70,14 +98,30 @@
         "ATC Track": "Pine Leaves.",
         "ATC Artists": [
             "Jinsang"
-        ]
+        ],
+        "Result Track Name": "Pine Leaves.",
+        "Result Artist Names": [
+            "Jinsang"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CCkeTnElxf19T7XRQ5zXh",
+        "Result Album Name": "Solitude."
     },
     {
         "ATC Track": "Getsomerest/sleepwell",
         "ATC Artists": [
             "quickly",
             "quickly"
-        ]
+        ],
+        "Result Track Name": "Getsomerest/sleepwell",
+        "Result Artist Names": [
+            "quickly, quickly"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2RycgtfFQZOPgEGrzBGE0j",
+        "Result Album Name": "Quickly Quickly, Vol. 1"
     },
     {
         "Title": "Roundtable: Suicide Rates Rise Among Teens And Law Enforcement Officers",
@@ -95,12 +139,28 @@
         "ATC Track": "Breathe Again [Radio Edit]",
         "ATC Artists": [
             "Toni Braxton"
-        ]
+        ],
+        "Result Track Name": "Breathe Again - Radio Edit",
+        "Result Artist Names": [
+            "Toni Braxton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1tLClJK4Ma2OrFbdhnnVzi",
+        "Result Album Name": "Ultimate Toni Braxton"
     },
     {
         "ATC Track": "The Optimist",
         "ATC Artists": [
             "Cory Wong"
-        ]
+        ],
+        "Result Track Name": "The Optimist",
+        "Result Artist Names": [
+            "Cory Wong"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iQzzNzwTCHNW0NO9EVRCO",
+        "Result Album Name": "The Optimist"
     }
 ]

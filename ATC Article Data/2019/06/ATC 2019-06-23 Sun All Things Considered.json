@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-06-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:47:29"
+        "Scanned Date": "2022-02-07 04:47:29",
+        "Playlist URI": "2IJJ9l7YUTfXGcs3NhidcF",
+        "Playlist Link": "https://open.spotify.com/playlist/2IJJ9l7YUTfXGcs3NhidcF",
+        "Snapshot ID": "MSw4YjdlZDM2OGUwODk4ZjczYzVkNjhlNzM5ZDZiMDgzMmQ2ZTJiNTIz",
+        "Playlist Name": "ATC 2019-06-23 Sun All Things Considered"
     },
     {
         "Title": "With Mass Deportations Looming, Advocates Organize To Offer Aid To Migrants",
@@ -28,13 +32,30 @@
         "ATC Track": "Different Now",
         "ATC Artists": [
             "Chastity Belt"
-        ]
+        ],
+        "Result Track Name": "Different Now",
+        "Result Artist Names": [
+            "Chastity Belt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0E1I6kwic9XnAfOdjPzRHS",
+        "Result Album Name": "I Used to Spend So Much Time Alone"
     },
     {
         "ATC Track": "WEIGHT OFF",
         "ATC Artists": [
             "KAYTRANADA feat. BadBadNotGood"
-        ]
+        ],
+        "Result Track Name": "WEIGHT OFF",
+        "Result Artist Names": [
+            "KAYTRANADA",
+            "BADBADNOTGOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:12s6FjStmOwWJrh0yalbKC",
+        "Result Album Name": "99.9%"
     },
     {
         "Title": "AFL-CIO President Says USMCA Trade Deal Still Needs Improvement",
@@ -52,7 +73,15 @@
         "ATC Track": "The Paisley Agreement",
         "ATC Artists": [
             "Common Tiger"
-        ]
+        ],
+        "Result Track Name": "The Paisley Agreement",
+        "Result Artist Names": [
+            "Common Tiger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TMjoePBysiakkEQjilDW5",
+        "Result Album Name": "The Paisley Agreement"
     },
     {
         "Title": "Brazilians Gather For Gay Pride Parade, Hoping To Send Message To Jair Bolsonaro",
@@ -64,11 +93,27 @@
         "ATC Track": "Superstition Future",
         "ATC Artists": [
             "TOPS"
-        ]
+        ],
+        "Result Track Name": "Superstition Future",
+        "Result Artist Names": [
+            "TOPS"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0ehZ3lmeMJP58aC6yHijW4",
+        "Result Album Name": "Picture You Staring"
     },
     {
         "ATC Track": "Finally Moving Remix",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Finally Moving Remix",
+        "Result Artist Names": [
+            "Pretty Lights"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4tqC1gj2METffAbxSOakOA",
+        "Result Album Name": "Filling Up The City Skies (disc 2)"
     },
     {
         "Title": "Palestinian Business Leaders Plan To Boycott White House Economic Workshop",
@@ -93,12 +138,25 @@
         "ATC Artists": [
             "Snarky Puppy",
             "Metropole Orkest"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Maria También",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Maria También",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3CT4U4jJEagjIHg5PPph8X",
+        "Result Album Name": "Con Todo El Mundo"
     }
 ]

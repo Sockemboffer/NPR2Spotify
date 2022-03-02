@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2019-07-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:44:00"
+        "Scanned Date": "2022-02-07 04:44:00",
+        "Playlist URI": "1UBShMF1BYGzWIzoGMJyaQ",
+        "Playlist Link": "https://open.spotify.com/playlist/1UBShMF1BYGzWIzoGMJyaQ",
+        "Snapshot ID": "MSxkOWQyNjNlMjQzNzEzZmY3NWMwNTJkODFjOTIxMjVkZjA1YjEyZGQ4",
+        "Playlist Name": "ATC 2019-07-06 Sat All Things Considered"
     },
     {
         "Title": "Aftershocks Rattle Southern California Following 2 Quakes",
@@ -22,14 +26,31 @@
         "ATC Track": "Phoenix",
         "ATC Artists": [
             "Rhye"
-        ]
+        ],
+        "Result Track Name": "Phoenix",
+        "Result Artist Names": [
+            "Rhye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66ESAYFSvXY16Lo97CtwU2",
+        "Result Album Name": "Blood"
     },
     {
         "ATC Track": "Say My Name",
         "ATC Artists": [
             "ODESZA",
             "Zyra"
-        ]
+        ],
+        "Result Track Name": "Say My Name (feat. Zyra)",
+        "Result Artist Names": [
+            "ODESZA",
+            "Zyra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LeItUMezKA1HdCHxYICed",
+        "Result Album Name": "In Return"
     },
     {
         "Title": "Family Separations Strain Overcrowded Migrant Shelters",
@@ -53,7 +74,15 @@
         "ATC Track": "They Are Night Zombies!! They Are Neighbours!! They Have Come Back from",
         "ATC Artists": [
             "Sufjan Stevens"
-        ]
+        ],
+        "Result Track Name": "They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!",
+        "Result Artist Names": [
+            "Sufjan Stevens"
+        ],
+        "Result Track-Match Percent": 0.8148148148148148,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pvwYMVs13EJ8jj4LMX0aV",
+        "Result Album Name": "Illinois"
     },
     {
         "Title": "Total Eclipse Hits Chile, Home To Half Of World's Telescopes",
@@ -65,13 +94,29 @@
         "ATC Track": "Sky Full of Stars",
         "ATC Artists": [
             "Coldplay"
-        ]
+        ],
+        "Result Track Name": "A Sky Full of Stars",
+        "Result Artist Names": [
+            "Coldplay"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FDzzruyVECATHXKHFs9eJ",
+        "Result Album Name": "Ghost Stories"
     },
     {
         "ATC Track": "Bridges",
         "ATC Artists": [
             "Koresma"
-        ]
+        ],
+        "Result Track Name": "Bridges",
+        "Result Artist Names": [
+            "Koresma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5GiEgcvmqbD1WgHzICDvOb",
+        "Result Album Name": "Bridges"
     },
     {
         "Title": "California Pay-To-Play Bill Pushes College Athlete Compensation",
@@ -96,12 +141,26 @@
         "ATC Artists": [
             "Luis Fonsi",
             "Daddy Yankee"
-        ]
+        ],
+        "Result Track Name": "Despacito",
+        "Result Artist Names": [
+            "Luis Fonsi",
+            "Daddy Yankee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6habFhsOp2NvshLv26DqMb",
+        "Result Album Name": "VIDA"
     },
     {
         "ATC Track": "Com Truise",
         "ATC Artists": [
             "Hyperlips"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]
