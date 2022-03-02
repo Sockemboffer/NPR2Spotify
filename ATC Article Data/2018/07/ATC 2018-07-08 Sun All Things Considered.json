@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-07-08",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:23:49"
+        "Scanned Date": "2022-02-07 04:23:49",
+        "Playlist URI": "3q0DSyMBGOVgCqxuBQPafv",
+        "Playlist Link": "https://open.spotify.com/playlist/3q0DSyMBGOVgCqxuBQPafv",
+        "Snapshot ID": "MSxjOTRjNzRjYjhlOWFmNWVhYjBiY2M4ZTA2OGNiMDc3MzE3OTMxZDg1",
+        "Playlist Name": "ATC 2018-07-08 Sun All Things Considered"
     },
     {
         "Title": "The Supreme Court Justice Confirmation Process",
@@ -22,13 +26,29 @@
         "ATC Track": "Blank Pages",
         "ATC Artists": [
             "The Album Leaf"
-        ]
+        ],
+        "Result Track Name": "Blank Pages",
+        "Result Artist Names": [
+            "The Album Leaf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5zLE545sY8nt7FCJ0LGyaB",
+        "Result Album Name": "A Chorus of Storytellers"
     },
     {
         "ATC Track": "Gettysburg",
         "ATC Artists": [
             "Ratatat"
-        ]
+        ],
+        "Result Track Name": "Gettysburg",
+        "Result Artist Names": [
+            "Ratatat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0i1NriVyiqng0Dmtlq2T6K",
+        "Result Album Name": "Classics"
     },
     {
         "Title": "4 Boys Rescued From Flooded Cave In Thailand",
@@ -52,7 +72,15 @@
         "ATC Track": "Traitor",
         "ATC Artists": [
             "Menahan Street Band"
-        ]
+        ],
+        "Result Track Name": "The Traitor",
+        "Result Artist Names": [
+            "Menahan Street Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bZH8L8V2m454tdcSPEIl7",
+        "Result Album Name": "Make the Road By Walking"
     },
     {
         "Title": "Federal Court Blocks ICE's 'Arbitrary' Detentions Of Asylum Seekers",
@@ -64,7 +92,15 @@
         "ATC Track": "Paper Trails",
         "ATC Artists": [
             "Darkside"
-        ]
+        ],
+        "Result Track Name": "Paper Trails",
+        "Result Artist Names": [
+            "DARKSIDE"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DK2JuYarBeNwcLNPw1Qyo",
+        "Result Album Name": "Psychic"
     },
     {
         "Title": "Lawmaker In 'Canvassing While Black' Incident: 'You Can't Legislate Humanity'",
@@ -88,12 +124,25 @@
         "ATC Track": "Daddy Lessons",
         "ATC Artists": [
             "Beyonce"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Apollo's Mood",
         "ATC Artists": [
             "The Olympians"
-        ]
+        ],
+        "Result Track Name": "Apollo's Mood",
+        "Result Artist Names": [
+            "The Olympians"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6j1GazXT78zw8orKRsZVt5",
+        "Result Album Name": "The Olympians"
     }
 ]

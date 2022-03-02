@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-04-15",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:29:22"
+        "Scanned Date": "2022-02-07 04:29:22",
+        "Playlist URI": "3Erhe9gFuzX86Lo4h2Q5KZ",
+        "Playlist Link": "https://open.spotify.com/playlist/3Erhe9gFuzX86Lo4h2Q5KZ",
+        "Snapshot ID": "MSw5ZDIyMTFmZjI5NjM2ZTU2ZjM2ODEzNTMwODU3ZGNhNGEzNGEzZjUw",
+        "Playlist Name": "ATC 2018-04-15 Sun All Things Considered"
     },
     {
         "Title": "Politics Roundup: From Comey's Book To Syria Strikes",
@@ -28,7 +32,15 @@
         "ATC Track": "Sama Chaka",
         "ATC Artists": [
             "Golden Dawn Orchestra"
-        ]
+        ],
+        "Result Track Name": "Sama Chaka",
+        "Result Artist Names": [
+            "Golden Dawn Arkestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:24xnw81ingN6oXDOiG9ql3",
+        "Result Album Name": "Stargazer"
     },
     {
         "Title": "Auschwitz Remembrance Is Tinged With Tension Over Poland's Holocaust Speech Law",
@@ -52,7 +64,15 @@
         "ATC Track": "When the Night is Over",
         "ATC Artists": [
             "Lord Huron"
-        ]
+        ],
+        "Result Track Name": "When the Night is Over",
+        "Result Artist Names": [
+            "Lord Huron"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4FE9SgxcOoCNuGnaaU8TXz",
+        "Result Album Name": "Vide Noir"
     },
     {
         "Title": "Refugee Women Cook Up Syrian Cuisine To Eke Out A Living In Turkey",
@@ -64,14 +84,27 @@
         "ATC Track": "Hembra",
         "ATC Artists": [
             "Jesse Cook"
-        ]
+        ],
+        "Result Track Name": "Hembra",
+        "Result Artist Names": [
+            "Jesse Cook"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VaWcwaQMjkV5BHNPV5cLO",
+        "Result Album Name": "Beyond Borders"
     },
     {
         "ATC Track": "Seeker",
         "ATC Artists": [
             "The Trio Project",
             "Hiromi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Can Poetry Be Translated?",
@@ -95,6 +128,14 @@
         "ATC Track": "Humbug Mountain Song",
         "ATC Artists": [
             "Fruit Bats"
-        ]
+        ],
+        "Result Track Name": "Humbug Mountain Song",
+        "Result Artist Names": [
+            "Fruit Bats"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HdcqQpq7zb5GbEKBDY34p",
+        "Result Album Name": "Absolute Loser"
     }
 ]

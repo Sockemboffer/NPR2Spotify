@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-11-11",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:16:59"
+        "Scanned Date": "2022-02-07 04:16:59",
+        "Playlist URI": "6Y0mYifswdqFJ1YAwOsJU8",
+        "Playlist Link": "https://open.spotify.com/playlist/6Y0mYifswdqFJ1YAwOsJU8",
+        "Snapshot ID": "MSxkYzc4YTA0YjNkZTdhNzA0ZjkzN2NhMGRkZDZmMzUxZjRkNGFkODNh",
+        "Playlist Name": "ATC 2018-11-11 Sun All Things Considered"
     },
     {
         "Title": "At Least 25 Killed In California Wildfires",
@@ -28,13 +32,27 @@
         "ATC Track": "North Korea",
         "ATC Artists": [
             "Blended Babies"
-        ]
+        ],
+        "Result Track Name": "North Korea (feat. Donnie Trumpet)",
+        "Result Artist Names": [
+            "Blended Babies",
+            "Donnie Trumpet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KgFcyKbaH3B96qYeLArIM",
+        "Result Album Name": "North Korea (feat. Donnie Trumpet)"
     },
     {
         "ATC Track": "Film",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Troll Watch: On Eve Of Midterm Elections, Misinformation Targets Bigger Political Issues",
@@ -58,7 +76,15 @@
         "ATC Track": "So Young",
         "ATC Artists": [
             "Portugal. The Man"
-        ]
+        ],
+        "Result Track Name": "So Young",
+        "Result Artist Names": [
+            "Portugal. The Man"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SNtyKNyYJ8ERT7YLlnFBr",
+        "Result Album Name": "Woodstock"
     },
     {
         "Title": "Arrival Of Thousands Of Troops At Southern U.S. Border Incites Both Fear And Calm",
@@ -70,13 +96,29 @@
         "ATC Track": "Setbacks",
         "ATC Artists": [
             "IV the Polymath"
-        ]
+        ],
+        "Result Track Name": "Setbacks",
+        "Result Artist Names": [
+            "IV The Polymath"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yTyFHaDOyS1a6QeVe9za1",
+        "Result Album Name": "Drum Machines Have No Soul"
     },
     {
         "ATC Track": "Bridges",
         "ATC Artists": [
             "Koresma"
-        ]
+        ],
+        "Result Track Name": "Bridges",
+        "Result Artist Names": [
+            "Koresma"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5GiEgcvmqbD1WgHzICDvOb",
+        "Result Album Name": "Bridges"
     },
     {
         "Title": "What A Democratic House Could Mean For Trump's Legislative Agenda",
@@ -100,10 +142,26 @@
         "ATC Track": "Simple Song",
         "ATC Artists": [
             "Passenger"
-        ]
+        ],
+        "Result Track Name": "Simple Song",
+        "Result Artist Names": [
+            "Passenger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70HWRkitkAKfos500LBk0T",
+        "Result Album Name": "The Boy Who Cried Wolf"
     },
     {
         "ATC Track": "New Slang",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "New Slang - 2021 Remaster",
+        "Result Artist Names": [
+            "The Shins"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0NslHuacjxQYfUTOW3HCIV",
+        "Result Album Name": "Oh, Inverted World (20th Anniversary Remaster)"
     }
 ]

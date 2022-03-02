@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-12-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:16:20"
+        "Scanned Date": "2022-02-07 04:16:20",
+        "Playlist URI": "2TgskbzzVKKB89AULs16ee",
+        "Playlist Link": "https://open.spotify.com/playlist/2TgskbzzVKKB89AULs16ee",
+        "Snapshot ID": "MSwyMjE0Nzc3YTYxOTc3ZjljY2NkYWJiZjhjNWEzZDNiMTFiNmNkOGQx",
+        "Playlist Name": "ATC 2018-12-30 Sun All Things Considered"
     },
     {
         "Title": "Politics Lookahead: A New Congressional Class",
@@ -20,13 +24,29 @@
     },
     {
         "ATC Track": "Missing You",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Missing You",
+        "Result Artist Names": [
+            "John Waite"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Qrdlkgg9I4J7r3P4kZNwr",
+        "Result Album Name": "No Brakes"
     },
     {
         "ATC Track": "Time for Space",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Time For Space",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XgF0A5QOQ834b2HjhBMP7",
+        "Result Album Name": "Baralku"
     },
     {
         "Title": "DR Congo Votes In Long-Delayed Election",
@@ -48,7 +68,15 @@
     },
     {
         "ATC Track": "City Music",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "City Music",
+        "Result Artist Names": [
+            "Kevin Morby"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:09Ch1J59rlCnAv5ojS77XJ",
+        "Result Album Name": "City Music"
     },
     {
         "Title": "Nice Things 2018 With NPR's Pop Culture Happy Hour Host Linda Holmes",
@@ -60,13 +88,30 @@
         "ATC Track": "Dog Days Are Over",
         "ATC Artists": [
             "Florence and the Machine"
-        ]
+        ],
+        "Result Track Name": "Dog Days Are Over",
+        "Result Artist Names": [
+            "Florence + The Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1YLJVmuzeM2YSUkCCaTNUB",
+        "Result Album Name": "Lungs (Deluxe Edition)"
     },
     {
         "ATC Track": "Keeper",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "The Keeper",
+        "Result Artist Names": [
+            "Bonobo",
+            "Andreya Triana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5hmf3hRQMaDIWuZT1zX3ue",
+        "Result Album Name": "Black Sands"
     },
     {
         "Title": "When She Fled Afghanistan, She Took Her Schoolbooks With Her",
@@ -84,12 +129,28 @@
         "ATC Track": "Good Time Charley",
         "ATC Artists": [
             "Charley Crockett"
-        ]
+        ],
+        "Result Track Name": "Good Time Charley's Got the Blues",
+        "Result Artist Names": [
+            "Charley Crockett"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3prvmMPcQ12AkjaOs9Mp52",
+        "Result Album Name": "Lil G.L.'s Blue Bonanza"
     },
     {
         "ATC Track": "Pressure Cooker",
         "ATC Artists": [
             "Clarence \"Gatemouth\" Brown"
-        ]
+        ],
+        "Result Track Name": "Pressure Cooker",
+        "Result Artist Names": [
+            "Clarence \"Gatemouth\" Brown"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0xJr24FUw3J88XVzAUCVcP",
+        "Result Album Name": "Pressure Cooker"
     }
 ]

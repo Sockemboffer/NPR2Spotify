@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-10-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:19:44"
+        "Scanned Date": "2022-02-07 04:19:44",
+        "Playlist URI": "5U3cZRowtR7T9P1yYvemAE",
+        "Playlist Link": "https://open.spotify.com/playlist/5U3cZRowtR7T9P1yYvemAE",
+        "Snapshot ID": "MSw2MDZiNjRmY2Q1N2JhYmFjNGRkYTVlZTM2NDE4NThiYzBiYTQ0ZTc3",
+        "Playlist Name": "ATC 2018-10-28 Sun All Things Considered"
     },
     {
         "Title": "Pittsburgh Mayor Responds To His City's Tragic Shooting",
@@ -20,11 +24,27 @@
     },
     {
         "ATC Track": "Laura the Explora",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Laura the Explora",
+        "Result Artist Names": [
+            "Ben Sollee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5nvFpluAIEFd0Rb0exfrVe",
+        "Result Album Name": "Maidentrip (Original Motion Picture Score)"
     },
     {
         "ATC Track": "Shut Up World",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Shut up World - Extended",
+        "Result Artist Names": [
+            "Ben Sollee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zuIQbsqZeBedMbp7JtFnl",
+        "Result Album Name": "Maidentrip (Original Motion Picture Score)"
     },
     {
         "Title": "Squirrel Hill's Tight-Knit Community Rocked By Synagogue Massacre",
@@ -48,7 +68,15 @@
         "ATC Track": "Flying & Flocking",
         "ATC Artists": [
             "Zoe Keating"
-        ]
+        ],
+        "Result Track Name": "Flying & Flocking",
+        "Result Artist Names": [
+            "Zoë Keating"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1gHGa9WUXUOEqhjvEsbZf8",
+        "Result Album Name": "Into The Trees"
     },
     {
         "Title": "What We Know About The Pittsburgh Synagogue Shooting Suspect",
@@ -60,14 +88,30 @@
         "ATC Track": "Narita",
         "ATC Artists": [
             "Lymbyc Systym"
-        ]
+        ],
+        "Result Track Name": "Narita",
+        "Result Artist Names": [
+            "Lymbyc Systym"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0x68cz4KrfXFuUDmcrpYki",
+        "Result Album Name": "Field Studies"
     },
     {
         "ATC Track": "Seven Days Of Falling",
         "ATC Artists": [
             "Ulf Wakenius",
             "Radio String Quartet Vienna"
-        ]
+        ],
+        "Result Track Name": "Seven Days of Falling",
+        "Result Artist Names": [
+            "Ulf Wakenius"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:60sTexixOxqR2IQpWZONQ3",
+        "Result Album Name": "Ulf Wakenius Edition"
     },
     {
         "Title": "Pittsburgh Holds Vigil To Honor Victims In Synagogue Shooting",
@@ -91,12 +135,28 @@
         "ATC Track": "Imagination",
         "ATC Artists": [
             "City of the Sun"
-        ]
+        ],
+        "Result Track Name": "Imagination",
+        "Result Artist Names": [
+            "City of the Sun"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7xHMlmomJBin65tKWB65l8",
+        "Result Album Name": "To The Sun And All The Cities In Between"
     },
     {
         "ATC Track": "Perfect Instance",
         "ATC Artists": [
             "City of the Sun"
-        ]
+        ],
+        "Result Track Name": "Perfect Instance",
+        "Result Artist Names": [
+            "City of the Sun"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69KvYHBTocvA6jLNN7WbQk",
+        "Result Album Name": "Untitled - EP"
     }
 ]

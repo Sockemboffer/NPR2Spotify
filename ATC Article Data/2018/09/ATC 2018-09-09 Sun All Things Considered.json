@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-09-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:20:18"
+        "Scanned Date": "2022-02-07 04:20:18",
+        "Playlist URI": "2fPtYWBGMrLUa9wQ5ztkr8",
+        "Playlist Link": "https://open.spotify.com/playlist/2fPtYWBGMrLUa9wQ5ztkr8",
+        "Snapshot ID": "MSw5MTEyNjEwNmI5NzM4YzA1NjQzMTllZjQwY2UzNjRhYTMxYWI0NjYz",
+        "Playlist Name": "ATC 2018-09-09 Sun All Things Considered"
     },
     {
         "Title": "Syrian Rebels' Last Stronghold: Why Idlib Matters",
@@ -20,13 +24,29 @@
     },
     {
         "ATC Track": "Hahahahaha?",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Hahahahaha",
+        "Result Artist Names": [
+            "Sophism"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4cz5YEgeERkRFrI3AP1d1K",
+        "Result Album Name": "Purple Hyacinth: II (Original Score)"
     },
     {
         "ATC Track": "Nightlife",
         "ATC Artists": [
             "Anitek"
-        ]
+        ],
+        "Result Track Name": "Nightlife",
+        "Result Artist Names": [
+            "Anitek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ytHptQungVGuLkaGKEUxM",
+        "Result Album Name": "Instrumentals, Vol. 1"
     },
     {
         "Title": "Sweden Election Results See Surge In Support For Anti-Immigrant Party",
@@ -50,7 +70,15 @@
         "ATC Track": "Cabin Fever",
         "ATC Artists": [
             "Lake Ruth"
-        ]
+        ],
+        "Result Track Name": "Cabin Fever",
+        "Result Artist Names": [
+            "Lake Ruth"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4JnqP8Mljul3L2URwAmQdj",
+        "Result Album Name": "Actual Entity"
     },
     {
         "Title": "Native Americans Propose Change To Yellowstone Landmark Names",
@@ -62,13 +90,29 @@
         "ATC Track": "Deer Creek Canyon",
         "ATC Artists": [
             "Sera Cahoone"
-        ]
+        ],
+        "Result Track Name": "Deer Creek Canyon",
+        "Result Artist Names": [
+            "Sera Cahoone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bjK4okiLjAPmGjvxEjEBY",
+        "Result Album Name": "Deer Creek Canyon"
     },
     {
         "ATC Track": "Georgia On My Mind",
         "ATC Artists": [
             "Piano Jazz Trio"
-        ]
+        ],
+        "Result Track Name": "Georgia On My Mind",
+        "Result Artist Names": [
+            "Nouveau Jazz Trio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:15c6okmVGsMQYb7PkKi5v3",
+        "Result Album Name": "Georgia On My Mind"
     },
     {
         "Title": "Catholic Clergyman Calls For Cardinal Wuerl To Resign",
@@ -86,6 +130,14 @@
         "ATC Track": "5-Sax Piece",
         "ATC Artists": [
             "Moon Hooch"
-        ]
+        ],
+        "Result Track Name": "5-Sax Piece",
+        "Result Artist Names": [
+            "Moon Hooch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0BA5KYfbeA8Y0LbjX0rHfp",
+        "Result Album Name": "This Is Cave Music"
     }
 ]

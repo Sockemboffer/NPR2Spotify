@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-01-13",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:34:22"
+        "Scanned Date": "2022-02-07 04:34:22",
+        "Playlist URI": "1cCEE00jXsQaeM3sRnfGUO",
+        "Playlist Link": "https://open.spotify.com/playlist/1cCEE00jXsQaeM3sRnfGUO",
+        "Snapshot ID": "MSxhMWEzYjBkMjg4Nzg2YzI2ODBkNzczNjFhODgzNmNhZmVlM2IyMzMz",
+        "Playlist Name": "ATC 2018-01-13 Sat All Things Considered"
     },
     {
         "Title": "DACA Extension And Bolstered Border Security Part Of Latest Negotiation Talks",
@@ -20,13 +24,31 @@
     },
     {
         "ATC Track": "Lonely God",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Hate U (feat. Sueco & Lonely God)",
+        "Result Artist Names": [
+            "chillpill",
+            "Sueco",
+            "Lonely God"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zpWJxfuyxqCYhpsAqH7Uh",
+        "Result Album Name": "Hate U (feat. Sueco & Lonely God)"
     },
     {
         "ATC Track": "Fall [Instrumental] [Instrumental]",
         "ATC Artists": [
             "Rhye"
-        ]
+        ],
+        "Result Track Name": "The Fall - Instrumental",
+        "Result Artist Names": [
+            "Rhye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sMalfxDfJOTb2B3FZrSNA",
+        "Result Album Name": "The Fall"
     },
     {
         "Title": "Trump's Latest Vulgar Comments Cast Shadow Over Legislative Agenda",
@@ -44,7 +66,15 @@
         "ATC Track": "Ukelele Blues",
         "ATC Artists": [
             "New Hawaiian All Star Band"
-        ]
+        ],
+        "Result Track Name": "Ukelele Blues",
+        "Result Artist Names": [
+            "New Hawaiian All-Star Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7GbIgex1CkjY1kMHfkhXaq",
+        "Result Album Name": "Waikiki Nights: Breezy Hawaiian Island Melodies"
     },
     {
         "Title": "How Trump's Corporate Tax Cut Is Playing Out For Wal-Mart",
@@ -56,14 +86,27 @@
         "ATC Track": "Kangaroo Court [Radio Edit]",
         "ATC Artists": [
             "Capital Cities"
-        ]
+        ],
+        "Result Track Name": "Kangaroo Court - Radio Edit",
+        "Result Artist Names": [
+            "Capital Cities"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3xbVLFFcodMTNlLb8wuPsC",
+        "Result Album Name": "Kangaroo Court EP"
     },
     {
         "ATC Track": "Babar, for tabla with banjo & double bass",
         "ATC Artists": [
             "Béla Fleck",
             "Zakir Hussain et. al."
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Rescues Continue In California Mudslide Zones",
@@ -87,12 +130,28 @@
         "ATC Track": "Into It",
         "ATC Artists": [
             "Camila Cabello"
-        ]
+        ],
+        "Result Track Name": "Into It",
+        "Result Artist Names": [
+            "Camila Cabello"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gxqozTaq2NYylvS8jd57G",
+        "Result Album Name": "Camila"
     },
     {
         "ATC Track": "The Soundmaker",
         "ATC Artists": [
             "Rodrigo y Gabriela"
-        ]
+        ],
+        "Result Track Name": "The Soundmaker",
+        "Result Artist Names": [
+            "Rodrigo y Gabriela"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:780ErBuX9zmXGzepTOQvVE",
+        "Result Album Name": "9 Dead Alive"
     }
 ]

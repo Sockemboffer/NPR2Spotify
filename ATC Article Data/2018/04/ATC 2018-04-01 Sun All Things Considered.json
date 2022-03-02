@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-04-01",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:28:33"
+        "Scanned Date": "2022-02-07 04:28:33",
+        "Playlist URI": "5keBh6RuVJMxy2SAz2iUqH",
+        "Playlist Link": "https://open.spotify.com/playlist/5keBh6RuVJMxy2SAz2iUqH",
+        "Snapshot ID": "MSwwODlhMGNjODhiNmUwYmRmYmRiYzAzNTE5Y2FiYTZlNGZiOTJiMGQz",
+        "Playlist Name": "ATC 2018-04-01 Sun All Things Considered"
     },
     {
         "Title": "Oklahoma Teachers To Strike This Week",
@@ -28,13 +32,27 @@
         "ATC Track": "Film",
         "ATC Artists": [
             "The Bad Plus"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Orisha (Bata)",
         "ATC Artists": [
             "Speedometer"
-        ]
+        ],
+        "Result Track Name": "Orisha (Bata Interlude) featuring Snowboy",
+        "Result Artist Names": [
+            "Speedometer",
+            "Snowboy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3pZ6DBhUPLxmrwNoMebm5T",
+        "Result Album Name": "The Shakedown"
     },
     {
         "Title": "White Evangelicals Discuss Intersection of Faith And Political Leadership",
@@ -52,7 +70,15 @@
         "ATC Track": "Nobody's Fool",
         "ATC Artists": [
             "Shakey Graves"
-        ]
+        ],
+        "Result Track Name": "Nobody's Fool",
+        "Result Artist Names": [
+            "Shakey Graves"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2zpLwNc2i0CAQoYfP9ki0u",
+        "Result Album Name": "Nobody's Fool"
     },
     {
         "Title": "A 'Ragged School' Gives U.K. Children A Taste Of Dickensian Destitution ",
@@ -64,13 +90,29 @@
         "ATC Track": "Time for Space",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Time For Space",
+        "Result Artist Names": [
+            "Emancipator"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XgF0A5QOQ834b2HjhBMP7",
+        "Result Album Name": "Baralku"
     },
     {
         "ATC Track": "\"Merry Go 'Round\"",
         "ATC Artists": [
             "Kacey Musgraves"
-        ]
+        ],
+        "Result Track Name": "Merry Go 'Round",
+        "Result Artist Names": [
+            "Kacey Musgraves"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5UDqWOgDdixYMAgAyNbpgh",
+        "Result Album Name": "Same Trailer Different Park"
     },
     {
         "Title": "#NPRPoetry Month: What Makes A Haiku A Haiku?",
@@ -94,12 +136,28 @@
         "ATC Track": "Oh, What A World",
         "ATC Artists": [
             "Kacey Musgraves"
-        ]
+        ],
+        "Result Track Name": "Oh, What A World",
+        "Result Artist Names": [
+            "Kacey Musgraves"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ToJzoVfLYyF7ohMOBNObi",
+        "Result Album Name": "Golden Hour"
     },
     {
         "ATC Track": "Deer Creek Canyon",
         "ATC Artists": [
             "Sera Cahoone"
-        ]
+        ],
+        "Result Track Name": "Deer Creek Canyon",
+        "Result Artist Names": [
+            "Sera Cahoone"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bjK4okiLjAPmGjvxEjEBY",
+        "Result Album Name": "Deer Creek Canyon"
     }
 ]

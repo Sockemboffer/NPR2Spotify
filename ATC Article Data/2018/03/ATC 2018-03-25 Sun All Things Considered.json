@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-03-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:31:42"
+        "Scanned Date": "2022-02-07 04:31:42",
+        "Playlist URI": "2RvbtphJCUlz6ue5615uo2",
+        "Playlist Link": "https://open.spotify.com/playlist/2RvbtphJCUlz6ue5615uo2",
+        "Snapshot ID": "MSw3NjYwMzQwMGM5OWFjMDk5MTdlM2ExOTgwOWU1YzYxNmZhOGRjMGQ0",
+        "Playlist Name": "ATC 2018-03-25 Sun All Things Considered"
     },
     {
         "Title": "New Gun Control Provisions Passed In Spending Bill",
@@ -22,13 +26,29 @@
         "ATC Track": "Hedron",
         "ATC Artists": [
             "BadBadNotGood"
-        ]
+        ],
+        "Result Track Name": "Hedron",
+        "Result Artist Names": [
+            "BADBADNOTGOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10lGufP5RmCsUwKDTcPpxs",
+        "Result Album Name": "Late Night Tales: Bonobo"
     },
     {
         "ATC Track": "Mr White",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Mr. White",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EqGquh3ajBQjudpLLhJKy",
+        "Result Album Name": "The Universe Smiles Upon You"
     },
     {
         "Title": "Words You'll Hear: Dow Jones Industrial Average",
@@ -52,7 +72,16 @@
         "ATC Track": "GymnopéDie No. 1 (The Magic Room Version)",
         "ATC Artists": [
             "Erik Satie"
-        ]
+        ],
+        "Result Track Name": "Gymnopédie No. 1",
+        "Result Artist Names": [
+            "Erik Satie",
+            "Philippe Entremont"
+        ],
+        "Result Track-Match Percent": 0.6,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5NGtFXVpXSvwunEIGeviY3",
+        "Result Album Name": "Erik Satie & Friends"
     },
     {
         "Title": "Cape Town's Water Crisis Marks Divide Between Rich And Poor",
@@ -64,13 +93,29 @@
         "ATC Track": "Beneath The Lights",
         "ATC Artists": [
             "Cool Company"
-        ]
+        ],
+        "Result Track Name": "Beneath the Lights",
+        "Result Artist Names": [
+            "Cool Company"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0g7lCmAdfG0ZrQfESATqga",
+        "Result Album Name": "Summer Daze EP"
     },
     {
         "ATC Track": "Electric Relaxation",
         "ATC Artists": [
             "A Tribe Called Quest"
-        ]
+        ],
+        "Result Track Name": "Electric Relaxation",
+        "Result Artist Names": [
+            "A Tribe Called Quest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eEXcw3JLVXcRxYrVYMy68",
+        "Result Album Name": "The Anthology"
     },
     {
         "Title": "A NASA Astronaut Stays In Orbit With SpaceX And Boeing",
@@ -94,6 +139,14 @@
         "ATC Track": "Maria También",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Maria También",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3CT4U4jJEagjIHg5PPph8X",
+        "Result Album Name": "Con Todo El Mundo"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-11-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:16:35"
+        "Scanned Date": "2022-02-07 04:16:35",
+        "Playlist URI": "6CCWl9cpICwAH0cUlSYcWz",
+        "Playlist Link": "https://open.spotify.com/playlist/6CCWl9cpICwAH0cUlSYcWz",
+        "Snapshot ID": "MSxhOTc2NmEyNWE5YjZmZjc5MWFiY2M0N2E5Y2Y3YTc1NDhmZjhmY2Zl",
+        "Playlist Name": "ATC 2018-11-04 Sun All Things Considered"
     },
     {
         "Title": "Midterm Elections: The Big Picture",
@@ -28,13 +32,26 @@
         "ATC Track": "Take My Time",
         "ATC Artists": [
             "Skinshape"
-        ]
+        ],
+        "Result Track Name": "Take My Time",
+        "Result Artist Names": [
+            "Skinshape"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ooWGAzXs3fU7eKHCrwZyd",
+        "Result Album Name": "Life & Love"
     },
     {
         "ATC Track": "Bagger",
         "ATC Artists": [
             "Ash Walker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Reimposes Sanctions Expected To Cripple Iranian Economy",
@@ -58,7 +75,16 @@
         "ATC Track": "Baralku",
         "ATC Artists": [
             "Emancipator"
-        ]
+        ],
+        "Result Track Name": "Baralku - Frameworks Remix",
+        "Result Artist Names": [
+            "Emancipator",
+            "Frameworks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2vlwPD9S5UDvKOtzU5h85q",
+        "Result Album Name": "Baralku (Frameworks Remix)"
     },
     {
         "Title": "Neuroscientists Debate A Simple Question: How Does The Brain Store A Phone Number?",
@@ -68,13 +94,29 @@
     },
     {
         "ATC Track": "Hanuman",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Aarti Keeje Hanuman Lala Ki (From \"Shree Hanuman Chalisa (Hanuman Ashtak)\")",
+        "Result Artist Names": [
+            "Hariharan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1rX6bS79M9XLClkFxl93Un",
+        "Result Album Name": "Shaniwar Special Bhajans"
     },
     {
         "ATC Track": "Barren Lands of the Modern Dinosaur",
         "ATC Artists": [
             "If These Trees Could Talk"
-        ]
+        ],
+        "Result Track Name": "Barren Lands of the Modern Dinosaur",
+        "Result Artist Names": [
+            "If These Trees Could Talk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7v7J8r7a5oExrgZqSvXZyI",
+        "Result Album Name": "Red Forest"
     },
     {
         "Title": "Issues Dividing Democrats And Republicans In Pennsylvania",
@@ -94,12 +136,28 @@
             "Medeski",
             "Martin",
             "Wood"
-        ]
+        ],
+        "Result Track Name": "Shine It",
+        "Result Artist Names": [
+            "Medeski, Martin & Wood"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:69xdPh6CEOpwcP4ZpReWmH",
+        "Result Album Name": "End Of The World Party (Just In Case)"
     },
     {
         "ATC Track": "Oyibo",
         "ATC Artists": [
             "Hypnotic Brass Ensemble"
-        ]
+        ],
+        "Result Track Name": "Oyibo",
+        "Result Artist Names": [
+            "Hypnotic Brass Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wnmq8r5uz4nO8hQfOyUuh",
+        "Result Album Name": "Sound Rhythm & Form"
     }
 ]

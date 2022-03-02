@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-08-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 04:22:14"
+        "Scanned Date": "2022-02-07 04:22:14",
+        "Playlist URI": "08sLL3tzTSoe5g9hNXMu45",
+        "Playlist Link": "https://open.spotify.com/playlist/08sLL3tzTSoe5g9hNXMu45",
+        "Snapshot ID": "MSxjNDEzMmQ4NTNjMjFhMGQ0OGE0NTMzYzMzOTVmOGU2ZjcxOWUxMjA0",
+        "Playlist Name": "ATC 2018-08-12 Sun All Things Considered"
     },
     {
         "Title": "Counterprotesters Outnumber White Supremacists Near White House",
@@ -28,13 +32,26 @@
         "ATC Track": "BADBADNOTGOOD",
         "ATC Artists": [
             "Hedron"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hang Tan",
         "ATC Artists": [
             "Toubab Krewe"
-        ]
+        ],
+        "Result Track Name": "Hang Tan",
+        "Result Artist Names": [
+            "Toubab Krewe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2uRKV1gBNv6qdpDqr0aGJh",
+        "Result Album Name": "Toubab Krewe"
     },
     {
         "Title": "Remembering Nobel Laureate And Author V.S. Naipaul",
@@ -46,7 +63,12 @@
         "ATC Track": "The Birds & Bees",
         "ATC Artists": [
             "Tülpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Entire West Virginia Supreme Court Faces Impeachment",
@@ -64,7 +86,15 @@
         "ATC Track": "Return of the Mack [C&J Street Mix]",
         "ATC Artists": [
             "Mark Morrison"
-        ]
+        ],
+        "Result Track Name": "Return of the Mack - C&J Street Mix",
+        "Result Artist Names": [
+            "Mark Morrison"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3W6NQSrqYV5yNpAAC2IiSQ",
+        "Result Album Name": "Return of the Mack (#25ROTM Deluxe Edition)"
     },
     {
         "Title": "Food Fare At Iowa State Fair",
@@ -76,7 +106,15 @@
         "ATC Track": "Fig in Leather",
         "ATC Artists": [
             "Devendra Banhart"
-        ]
+        ],
+        "Result Track Name": "Fig in Leather",
+        "Result Artist Names": [
+            "Devendra Banhart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Xx7wl3Na741ZuuF0pndp7",
+        "Result Album Name": "Ape in Pink Marble"
     },
     {
         "Title": "'Skate Kitchen' Follows Teenage Girls Skateboarding Their Way Through NYC",

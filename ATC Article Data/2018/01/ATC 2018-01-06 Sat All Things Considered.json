@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2018-01-06",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:34:00"
+        "Scanned Date": "2022-02-07 04:34:00",
+        "Playlist URI": "4ohLzYs6uiU6To5sCfMqPV",
+        "Playlist Link": "https://open.spotify.com/playlist/4ohLzYs6uiU6To5sCfMqPV",
+        "Snapshot ID": "MSw1NDBhMzQ1MjliYmFiZjlkYTUxNzJkMjc0MzQyYTVmNGJlN2M0ZDE2",
+        "Playlist Name": "ATC 2018-01-06 Sat All Things Considered"
     },
     {
         "Title": "The Political Implications Of 'Fire And Fury'",
@@ -20,13 +24,29 @@
     },
     {
         "ATC Track": "Search Warrant",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Search Warrant",
+        "Result Artist Names": [
+            "Do Or Die"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yrRKLimlKA66WLJB1oJKI",
+        "Result Album Name": "Picture This"
     },
     {
         "ATC Track": "Nanjing Road East",
         "ATC Artists": [
             "Shanghai Restoration Project"
-        ]
+        ],
+        "Result Track Name": "Nanjing Road East - Instrumental",
+        "Result Artist Names": [
+            "The Shanghai Restoration Project"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4fIZjUTjTIolsDSFYJ5t0q",
+        "Result Album Name": "Instrumentals"
     },
     {
         "Title": "Barbershop: Attitudes On Protest, Marijuana In The NFL",
@@ -44,7 +64,16 @@
         "ATC Track": "Farewell, Stars",
         "ATC Artists": [
             "Message to Bears"
-        ]
+        ],
+        "Result Track Name": "Farewell, Stars - The American Dollar Rework",
+        "Result Artist Names": [
+            "Message To Bears",
+            "The American Dollar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7oEKxSpVRJo4SgBMl6DAhR",
+        "Result Album Name": "Farewell, Stars (The American Dollar Rework)"
     },
     {
         "Title": "After The Death Of The Mormon Church's President, What's Next For The Church?",
@@ -56,7 +85,15 @@
         "ATC Track": "Postcard from 1952",
         "ATC Artists": [
             "Explosions in the Sky"
-        ]
+        ],
+        "Result Track Name": "Postcard From 1952",
+        "Result Artist Names": [
+            "Explosions In The Sky"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2hIXmLxNIEwotaHu0R4shA",
+        "Result Album Name": "Take Care, Take Care, Take Care"
     },
     {
         "Title": "How Marijuana Became Politicized",
@@ -72,12 +109,28 @@
     },
     {
         "ATC Track": "Blame",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Don’t Blame Me",
+        "Result Artist Names": [
+            "Taylor Swift"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1R0a2iXumgCiFb7HEZ7gUE",
+        "Result Album Name": "reputation"
     },
     {
         "ATC Track": "Brooklyn Slide",
         "ATC Artists": [
             "Los Straitjackets"
-        ]
+        ],
+        "Result Track Name": "Brooklyn Slide",
+        "Result Artist Names": [
+            "Los Straitjackets"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0YJ8oHche3u5Fbogm6mCCn",
+        "Result Album Name": "Jet Set"
     }
 ]
