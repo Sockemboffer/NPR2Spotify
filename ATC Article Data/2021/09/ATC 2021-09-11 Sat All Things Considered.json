@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-09-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:22:38"
+        "Scanned Date": "2022-02-07 05:22:38",
+        "Playlist URI": "4YIxPvB0kk1K66N8lm9OH9",
+        "Playlist Link": "https://open.spotify.com/playlist/4YIxPvB0kk1K66N8lm9OH9",
+        "Snapshot ID": "MSwzNmQ5NzBiYzA2OTVlYWJmYzNmZDIzMDE3MTQyZDUyYTNhNDI0ZWE1",
+        "Playlist Name": "ATC 2021-09-11 Sat All Things Considered"
     },
     {
         "Title": "The Legacy Of 9/11, Two Decades Later",
@@ -22,14 +26,30 @@
         "ATC Track": "Vladimir's Blues",
         "ATC Artists": [
             "Max Richter"
-        ]
+        ],
+        "Result Track Name": "Vladimir's Blues",
+        "Result Artist Names": [
+            "Max Richter"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4sh1JLjXMo6T9g0ULT4z78",
+        "Result Album Name": "My Brilliant Friend, Season 3 (Original Soundtrack)"
     },
     {
         "ATC Track": "Haupe",
         "ATC Artists": [
             "Duke Ellington",
             "His Orchestra"
-        ]
+        ],
+        "Result Track Name": "Haupe",
+        "Result Artist Names": [
+            "Duke Ellington"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:05d3KM9JTyNnnWIjo8PKvf",
+        "Result Album Name": "Anatomy of a Murder"
     },
     {
         "Title": "Journalist Who Fled Kabul On How 9/11 Haunts Afghans",
@@ -47,7 +67,15 @@
         "ATC Track": "Sailing the Solar Flares",
         "ATC Artists": [
             "Dirtwire"
-        ]
+        ],
+        "Result Track Name": "Sailing the Solar Flares",
+        "Result Artist Names": [
+            "Dirtwire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56ahkH80GMeXhe5dZWZLD1",
+        "Result Album Name": "DIRTWIRE"
     },
     {
         "Title": "Have The Taliban Changed In 20 Years?",
@@ -59,13 +87,30 @@
         "ATC Track": "Go with It",
         "ATC Artists": [
             "The Internet"
-        ]
+        ],
+        "Result Track Name": "Go with It (feat. Vic Mensa)",
+        "Result Artist Names": [
+            "The Internet",
+            "VIC MENSA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5cpB6MXX1RmdVHnTLcKtHC",
+        "Result Album Name": "Ego Death"
     },
     {
         "ATC Track": "You and I",
         "ATC Artists": [
             "Caribou"
-        ]
+        ],
+        "Result Track Name": "You and I",
+        "Result Artist Names": [
+            "Caribou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2np2e0pDBBmUgcdItVb6d3",
+        "Result Album Name": "Suddenly"
     },
     {
         "Title": "Islamophobia Continues To Follow Him In The Years Since 9/11 ",
@@ -89,12 +134,29 @@
         "ATC Track": "Skit 2",
         "ATC Artists": [
             "Deadly Avenger"
-        ]
+        ],
+        "Result Track Name": "Skit 2",
+        "Result Artist Names": [
+            "Deadly Avenger"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28krR9EJAdErBYDmJH6odc",
+        "Result Album Name": "Deep Red"
     },
     {
         "ATC Track": "Broadway Bossa Nova",
         "ATC Artists": [
             "Dave Brubeck"
-        ]
+        ],
+        "Result Track Name": "Broadway Bossa Nova - Remastered",
+        "Result Artist Names": [
+            "The Dave Brubeck Quartet",
+            "Dave Brubeck"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DnIXmcIpJbqj1gWv3bN4C",
+        "Result Album Name": "Jazz Impressions Of New York"
     }
 ]

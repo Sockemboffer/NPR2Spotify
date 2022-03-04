@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-06-26",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:29:18"
+        "Scanned Date": "2022-02-07 05:29:18",
+        "Playlist URI": "4Pm2ZyCEFbah9neQhxOSJB",
+        "Playlist Link": "https://open.spotify.com/playlist/4Pm2ZyCEFbah9neQhxOSJB",
+        "Snapshot ID": "MSwyMDdhZmZmNDYyNjA1ZTI4OTA5YzVlMDA0ODk2MzkxMWI0MzY2YjQz",
+        "Playlist Name": "ATC 2021-06-26 Sat All Things Considered"
     },
     {
         "Title": "Engineers Warned Of Widespread Structural Issues Before Surfside Collapse ",
@@ -28,13 +32,29 @@
         "ATC Track": "Pearls",
         "ATC Artists": [
             "KaspaHauser"
-        ]
+        ],
+        "Result Track Name": "Pearls",
+        "Result Artist Names": [
+            "KaspaHauser"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:78y2dHxu1868sAxwFopLk1",
+        "Result Album Name": "Pearls"
     },
     {
         "ATC Track": "Hunnybee",
         "ATC Artists": [
             "Unknown Mortal Orchestra"
-        ]
+        ],
+        "Result Track Name": "Hunnybee",
+        "Result Artist Names": [
+            "Unknown Mortal Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AAYNz8jXvVlgG9IpYi42Z",
+        "Result Album Name": "Sex & Food"
     },
     {
         "Title": "Rep. John Curtis On Hopes For The New Conservative Climate Caucus",
@@ -52,7 +72,12 @@
         "ATC Track": "Separation (Instrumental)",
         "ATC Artists": [
             "Kiana Lede"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "DOJ Says Georgia's New Voting Law Restricts The Black Vote",
@@ -65,13 +90,23 @@
         "ATC Artists": [
             "Glimlip",
             "Sling Dilly"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Homeshake",
         "ATC Artists": [
             "Just Like My"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "An Overview Of America's C- Infrastructure Report Card",
@@ -89,13 +124,30 @@
         "ATC Track": "Jet Black (instrumental)",
         "ATC Artists": [
             "Anderson.Paak"
-        ]
+        ],
+        "Result Track Name": "Jet Black - Instrumental",
+        "Result Artist Names": [
+            "Anderson .Paak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7D1YY4ofOKjX3wB9HkadLK",
+        "Result Album Name": "Ventura (Instrumentals)"
     },
     {
         "ATC Track": "The World (is going up in flames)",
         "ATC Artists": [
             "Charles Bradley",
             "Menahan Street Band"
-        ]
+        ],
+        "Result Track Name": "The World (Is Going Up in Flames)",
+        "Result Artist Names": [
+            "Charles Bradley",
+            "Menahan Street Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7a5xvCgoD8qFEQmO8Jjvtf",
+        "Result Album Name": "No Time For Dreaming"
     }
 ]

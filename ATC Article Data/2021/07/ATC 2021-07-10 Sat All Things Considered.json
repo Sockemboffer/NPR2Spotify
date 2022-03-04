@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-07-10",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:26:17"
+        "Scanned Date": "2022-02-07 05:26:17",
+        "Playlist URI": "4Y5Si3TxxbpWoW3BpWMUre",
+        "Playlist Link": "https://open.spotify.com/playlist/4Y5Si3TxxbpWoW3BpWMUre",
+        "Snapshot ID": "MSxjNTFlYTZhMzRkYzNiZDRjM2NmNTg5NmEzYzI3OWZkMDY0YWIyNmY4",
+        "Playlist Name": "ATC 2021-07-10 Sat All Things Considered"
     },
     {
         "Title": "COVID-19 Cases Rise In Southwest Missouri",
@@ -28,13 +32,29 @@
         "ATC Track": "Classic",
         "ATC Artists": [
             "Tony Bones The Producer"
-        ]
+        ],
+        "Result Track Name": "Classic",
+        "Result Artist Names": [
+            "Tony Bones The Producer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1oSACtYTXU47tpiYnPAgt5",
+        "Result Album Name": "Magic Roundabout"
     },
     {
         "ATC Track": "All for U",
         "ATC Artists": [
             "RJD2"
-        ]
+        ],
+        "Result Track Name": "All For U",
+        "Result Artist Names": [
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zx1ETNkblbF8I6hLb3RIr",
+        "Result Album Name": "Magnificent City Instrumentals"
     },
     {
         "Title": "What Might Happen To Guantánamo Now That U.S. Troops Are Leaving Afghanistan",
@@ -58,7 +78,15 @@
         "ATC Track": "Dream Big",
         "ATC Artists": [
             "DJ Agent M"
-        ]
+        ],
+        "Result Track Name": "Dream Big",
+        "Result Artist Names": [
+            "DJ Agent M"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AFPlDsgf5GGuET3M2myGC",
+        "Result Album Name": "Moving Forward"
     },
     {
         "Title": "Life Kit: How To Rein In Your Spending",
@@ -70,13 +98,33 @@
         "ATC Track": "Bills, Bills Bills (instrumental)",
         "ATC Artists": [
             "Destiny's Child"
-        ]
+        ],
+        "Result Track Name": "Bills, Bills, Bills",
+        "Result Artist Names": [
+            "Destiny's Child"
+        ],
+        "Result Track-Match Percent": 0.8571428571428571,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Oi2zpmL81Q0yScF1zxaC0",
+        "Result Album Name": "The Writing's On The Wall"
     },
     {
         "ATC Track": "Not Tonight",
         "ATC Artists": [
             "Lil Kim"
-        ]
+        ],
+        "Result Track Name": "Not Tonight (feat. Da Brat, Left Eye, Missy \"Misdemeanor\" Elliott and Angie Martinez) - Remix",
+        "Result Artist Names": [
+            "Lil' Kim",
+            "Angie Martinez",
+            "Lisa \"Left Eye\" Lopes",
+            "Da Brat",
+            "Missy Elliott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:42OhQBFNIbMyxRGxyPOvQA",
+        "Result Album Name": "Not Tonight EP"
     },
     {
         "Title": "What's Needed To Manage Wildfires",
@@ -96,12 +144,28 @@
             "David Baddiel",
             "Frank Skinner",
             "and The Lightning Seeds"
-        ]
+        ],
+        "Result Track Name": "Three Lions",
+        "Result Artist Names": [
+            "Baddiel, Skinner & Lightning Seeds"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.7272727272727273,
+        "Result Track URI": "spotify:track:1uvgJMboQtzRRWzc7PdkJp",
+        "Result Album Name": "Three Lions"
     },
     {
         "ATC Track": "Seven Nation Army",
         "ATC Artists": [
             "The White Stripes"
-        ]
+        ],
+        "Result Track Name": "Seven Nation Army",
+        "Result Artist Names": [
+            "The White Stripes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3dPQuX8Gs42Y7b454ybpMR",
+        "Result Album Name": "Elephant"
     }
 ]

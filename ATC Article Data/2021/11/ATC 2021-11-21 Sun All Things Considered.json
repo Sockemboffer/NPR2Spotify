@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-11-21",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:20:07"
+        "Scanned Date": "2022-02-07 05:20:07",
+        "Playlist URI": "1TPEiTFRPhAunbxauRT6Yu",
+        "Playlist Link": "https://open.spotify.com/playlist/1TPEiTFRPhAunbxauRT6Yu",
+        "Snapshot ID": "MSxmNDcwZDA2MWIxZTM0M2ViZDlhZjQ3NjU0NzllMzlhNjlkYmFjMDEy",
+        "Playlist Name": "ATC 2021-11-21 Sun All Things Considered"
     },
     {
         "Title": "NIH director says pandemic's toll is now on the shoulders of the unvaccinated",
@@ -22,13 +26,26 @@
         "ATC Track": "Everyday",
         "ATC Artists": [
             "Remember Poetry"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Autumn Rain",
         "ATC Artists": [
             "Freddie Joachim"
-        ]
+        ],
+        "Result Track Name": "Autumn Rain",
+        "Result Artist Names": [
+            "Freddie Joachim"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pVBcXNKtXqsjS739x868n",
+        "Result Album Name": "Midway"
     },
     {
         "Title": "As Georgia grows more Democratic, its members of Congress will not",
@@ -52,7 +69,15 @@
         "ATC Track": "Gamble",
         "ATC Artists": [
             "Tokimonsta"
-        ]
+        ],
+        "Result Track Name": "Gamble",
+        "Result Artist Names": [
+            "TOKiMONSTA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ahtfg7eIq70ftILthfSnr",
+        "Result Album Name": "Midnight Menu"
     },
     {
         "Title": "Chileans head to polls in polarized presidential election",
@@ -64,13 +89,29 @@
         "ATC Track": "Lovely",
         "ATC Artists": [
             "Tane"
-        ]
+        ],
+        "Result Track Name": "Lovely",
+        "Result Artist Names": [
+            "Tane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7xVgFMUpn9BsyviaKJt0qq",
+        "Result Album Name": "Lovely"
     },
     {
         "ATC Track": "Beat Goes On",
         "ATC Artists": [
             "Pete Rock"
-        ]
+        ],
+        "Result Track Name": "Beat Goes On",
+        "Result Artist Names": [
+            "Pete Rock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5656hnLbP07mPqNhYSmxLl",
+        "Result Album Name": "Petestrumentals 2"
     },
     {
         "Title": "Author interview: 'The Deeper the Roots'",
@@ -88,12 +129,26 @@
         "ATC Track": "The Way You Move",
         "ATC Artists": [
             "Outkast ft Sleepy Brown"
-        ]
+        ],
+        "Result Track Name": "The Way You Move (feat. Sleepy Brown)",
+        "Result Artist Names": [
+            "Outkast",
+            "Sleepy Brown"
+        ],
+        "Result Track-Match Percent": 0.7272727272727273,
+        "Result Artists-Match Percent": 0.8571428571428571,
+        "Result Track URI": "spotify:track:5z7mYFfhw6N6f23VwrokJD",
+        "Result Album Name": "Speakerboxxx/The Love Below"
     },
     {
         "ATC Track": "BOB",
         "ATC Artists": [
             "Outkast"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

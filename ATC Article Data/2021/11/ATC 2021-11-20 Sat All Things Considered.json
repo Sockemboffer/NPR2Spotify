@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-11-20",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:20:05"
+        "Scanned Date": "2022-02-07 05:20:05",
+        "Playlist URI": "5j3j4PAYMYrrvreklI70CF",
+        "Playlist Link": "https://open.spotify.com/playlist/5j3j4PAYMYrrvreklI70CF",
+        "Snapshot ID": "MSwxZjJhMzA1OWNlOTcwYTQ2MjkxODEzYjA5ZGM1YzI2NzExNzY2ZTgz",
+        "Playlist Name": "ATC 2021-11-20 Sat All Things Considered"
     },
     {
         "Title": "Sen. Robert Menendez on the SALT deduction dividing Democrats",
@@ -23,13 +27,30 @@
         "ATC Artists": [
             "Tommy Berre",
             "Peter Lainson"
-        ]
+        ],
+        "Result Track Name": "Starfish Dream",
+        "Result Artist Names": [
+            "Tommy Berre",
+            "Peter Lainson"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2t4hDj3pbtpH711kl1ZYnR",
+        "Result Album Name": "Starfish Dream"
     },
     {
         "ATC Track": "Kong",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Kong",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7Cg3F9ZsZ2TYUnlza49NYh",
+        "Result Album Name": "Black Sands"
     },
     {
         "Title": "Lawyers for men exonerated in Malcolm X killing discuss wrongful convictions",
@@ -48,7 +69,16 @@
         "ATC Artists": [
             "mnsgn",
             "sofie"
-        ]
+        ],
+        "Result Track Name": "Abeja",
+        "Result Artist Names": [
+            "Mndsgn",
+            "Sofie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:3mvaD4yyX71CV1idcd5lfJ",
+        "Result Album Name": "Sofie's SOS Tape"
     },
     {
         "Title": "Meet Latin Grammys winner Ruben Blades",
@@ -60,13 +90,27 @@
         "ATC Track": "Watch What Happens",
         "ATC Artists": [
             "Ruben Blades"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Come Through and Chill",
         "ATC Artists": [
             "Salaam Remi"
-        ]
+        ],
+        "Result Track Name": "Come Through And Chill (feat. Miguel)",
+        "Result Artist Names": [
+            "Salaam Remi",
+            "Miguel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1TskA35pmMcjFPPWstSVvO",
+        "Result Album Name": "Do It FoR ThE CulTuRe 2"
     },
     {
         "Title": "Director Maisie Crow on the making of new doc 'At The Ready'",
@@ -84,12 +128,26 @@
         "ATC Track": "Sesame Street Theme",
         "ATC Artists": [
             "The Sesame Street Kids"
-        ]
+        ],
+        "Result Track Name": "Sesame Street Theme",
+        "Result Artist Names": [
+            "The Sesame Street Kids",
+            "Sesame Street"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6LOPDOeKJSSaqaoeaoIdir",
+        "Result Album Name": "Sesame Street: Platinum All-Time Favorites"
     },
     {
         "ATC Track": "Get Me Some (instrumental)",
         "ATC Artists": [
             "Tokimonsta"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

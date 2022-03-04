@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-05-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:30:25"
+        "Scanned Date": "2022-02-07 05:30:25",
+        "Playlist URI": "1MFb5OrAc8Xo3Qx0Z1Ph7z",
+        "Playlist Link": "https://open.spotify.com/playlist/1MFb5OrAc8Xo3Qx0Z1Ph7z",
+        "Snapshot ID": "MSwwMDNmNmI3YmJmNmU4YjBkMDA5MTdjOTI0MTc0MTRmNGYwOWE4ZmM4",
+        "Playlist Name": "ATC 2021-05-16 Sun All Things Considered"
     },
     {
         "Title": "Palestinian Diplomat Criticizes International Complacence Amid Ongoing Violence",
@@ -22,13 +26,26 @@
         "ATC Track": "Ambient Gold",
         "ATC Artists": [
             "Harris Heller"
-        ]
+        ],
+        "Result Track Name": "Ambient Gold",
+        "Result Artist Names": [
+            "StreamBeats by Harris Heller"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6pj4OkmtopjsGBzXBvcHHH",
+        "Result Album Name": "Gold"
     },
     {
         "ATC Track": "Saltwater Sound",
         "ATC Artists": [
             "Zero 7"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Economics Correspondent Says Few People Opt For Unemployment Over Work",
@@ -46,7 +63,12 @@
         "ATC Track": "Neighborhood",
         "ATC Artists": [
             "Carl Dickman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Answers To Your CDC Mask Guidance Confusion",
@@ -58,13 +80,29 @@
         "ATC Track": "Mask Off",
         "ATC Artists": [
             "Future"
-        ]
+        ],
+        "Result Track Name": "Mask Off",
+        "Result Artist Names": [
+            "Future"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VgkVdmE4gld66l8iyGjgx",
+        "Result Album Name": "FUTURE"
     },
     {
         "ATC Track": "Electric Relaxation",
         "ATC Artists": [
             "A Tribe Called Quest"
-        ]
+        ],
+        "Result Track Name": "Electric Relaxation",
+        "Result Artist Names": [
+            "A Tribe Called Quest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eEXcw3JLVXcRxYrVYMy68",
+        "Result Album Name": "The Anthology"
     },
     {
         "Title": "Filmmakers Discuss New Documentary On 'March For Our Lives' Movement",
@@ -82,12 +120,28 @@
         "ATC Track": "April in Paris",
         "ATC Artists": [
             "Charlie Parker with Strings"
-        ]
+        ],
+        "Result Track Name": "April In Paris",
+        "Result Artist Names": [
+            "Charlie Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5rPMbUxXRXvWu89k0n6Sxj",
+        "Result Album Name": "April In Paris: The Genius Of Charlie Parker #2"
     },
     {
         "ATC Track": "Voyager",
         "ATC Artists": [
             "Daft Punk"
-        ]
+        ],
+        "Result Track Name": "Voyager",
+        "Result Artist Names": [
+            "Daft Punk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7cMFjxhbXBpOlais7KMF3j",
+        "Result Album Name": "Discovery"
     }
 ]

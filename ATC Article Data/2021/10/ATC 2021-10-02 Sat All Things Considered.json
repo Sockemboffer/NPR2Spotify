@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-10-02",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:20:39"
+        "Scanned Date": "2022-02-07 05:20:39",
+        "Playlist URI": "3gnz5Ge7dWvm8btHoD39SA",
+        "Playlist Link": "https://open.spotify.com/playlist/3gnz5Ge7dWvm8btHoD39SA",
+        "Snapshot ID": "MSw3Y2JhZGUxMWUyMDY4MDI3MWQwMjllNGI4MjJmY2U5YTU3MjRlMmE4",
+        "Playlist Name": "ATC 2021-10-02 Sat All Things Considered"
     },
     {
         "Title": "Tucson, Ariz., mayor nervously awaits passage of infrastructure bill",
@@ -22,13 +26,29 @@
         "ATC Track": "Schopenhauer's Garden",
         "ATC Artists": [
             "Mark Barrott"
-        ]
+        ],
+        "Result Track Name": "Schopenhauer’s Garden",
+        "Result Artist Names": [
+            "Mark Barrott"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1IfdvOfSXmWe3p0mQdOB0S",
+        "Result Album Name": "Music For Presence"
     },
     {
         "ATC Track": "Over the Moon",
         "ATC Artists": [
             "The Marías"
-        ]
+        ],
+        "Result Track Name": "Over the Moon",
+        "Result Artist Names": [
+            "The Marías"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:02wNtFxlr9dLmZXKT5TIF5",
+        "Result Album Name": "Superclean, Vol. II"
     },
     {
         "Title": "Andrew Yang discusses new book and big ideas in live forum",
@@ -46,7 +66,15 @@
         "ATC Track": "Deux en Un",
         "ATC Artists": [
             "Sébastien Tellier"
-        ]
+        ],
+        "Result Track Name": "Deux en un",
+        "Result Artist Names": [
+            "Sébastien Tellier"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iAaUTtyYACXkFG1hrHtiH",
+        "Result Album Name": "Marie et les naufragés (Original Motion Picture Score)"
     },
     {
         "Title": "The demand for sober-living residences as a path to addiction recovery",
@@ -58,7 +86,15 @@
         "ATC Track": "Daydreaming",
         "ATC Artists": [
             "Radiohead"
-        ]
+        ],
+        "Result Track Name": "Daydreaming",
+        "Result Artist Names": [
+            "Radiohead"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Rd5OVjqDAr5xC96MHt448",
+        "Result Album Name": "A Moon Shaped Pool"
     },
     {
         "Title": "Protesters across the U.S. march in opposition to Texas abortion law",
@@ -82,12 +118,25 @@
         "ATC Track": "Completed Tenth Symphony",
         "ATC Artists": [
             "Ludwig van Beethoven"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Pelican",
         "ATC Artists": [
             "Dan Deacon"
-        ]
+        ],
+        "Result Track Name": "Pelican",
+        "Result Artist Names": [
+            "Dan Deacon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VGdHIHbEALgyCC6UGaIW5",
+        "Result Album Name": "Rat Film (Original Soundtrack)"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-09-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:22:19"
+        "Scanned Date": "2022-02-07 05:22:19",
+        "Playlist URI": "3GdRaZcn6OwaB6eRH0XpY6",
+        "Playlist Link": "https://open.spotify.com/playlist/3GdRaZcn6OwaB6eRH0XpY6",
+        "Snapshot ID": "MSw4ZmFkODY0NjZiNWVlNDljM2Y5ZmUzYzllZmNjOTg5NDVkODgzYmZj",
+        "Playlist Name": "ATC 2021-09-04 Sat All Things Considered"
     },
     {
         "Title": "Driven By Delta Surge, August Hiring Dips Sharply",
@@ -22,13 +26,26 @@
         "ATC Track": "Wave",
         "ATC Artists": [
             "Tulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Reflection",
         "ATC Artists": [
             "Emapea"
-        ]
+        ],
+        "Result Track Name": "Reflection",
+        "Result Artist Names": [
+            "Emapea"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:33QIohjkHPcLc1sBBZdWXr",
+        "Result Album Name": "Reflection"
     },
     {
         "Title": "COVID Isn't The Only Reason Parents Are Hesitant To Send Their Kids Back To School",
@@ -47,7 +64,16 @@
         "ATC Artists": [
             "Black Star",
             "Common et. al."
-        ]
+        ],
+        "Result Track Name": "Respiration",
+        "Result Artist Names": [
+            "Black Star",
+            "Common"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5mxVKAuunOKqcBfR5ivbRf",
+        "Result Album Name": "Mos Def & Talib Kweli Are Black Star"
     },
     {
         "Title": "As Hurricane Ida Recovery Begins, New Yorkers Want A Permanent Solution",
@@ -59,13 +85,29 @@
         "ATC Track": "Emerging Light - Edit",
         "ATC Artists": [
             "Danny Keane"
-        ]
+        ],
+        "Result Track Name": "Emerging Light - Edit",
+        "Result Artist Names": [
+            "Danny Keane"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3htyWr5QDroTc7dMatMUGz",
+        "Result Album Name": "Emerging Light"
     },
     {
         "ATC Track": "I Don't Know Your Name",
         "ATC Artists": [
             "The Undercover Dream Lovers"
-        ]
+        ],
+        "Result Track Name": "I Don't Know Your Name",
+        "Result Artist Names": [
+            "The Undercover Dream Lovers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Ut32sBUoltcj0o1UTh9zP",
+        "Result Album Name": "In Real Time"
     },
     {
         "Title": "U.S. Campaign To Suppress Opium Trade Boosted Taliban Revenue, Says Economist",
@@ -89,6 +131,14 @@
         "ATC Track": "Cosmic",
         "ATC Artists": [
             "Florian Weber"
-        ]
+        ],
+        "Result Track Name": "Cosmic Girl",
+        "Result Artist Names": [
+            "Florian Weber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4M0sYBY8kkTAbMtvciExNz",
+        "Result Album Name": "Biosphere"
     }
 ]

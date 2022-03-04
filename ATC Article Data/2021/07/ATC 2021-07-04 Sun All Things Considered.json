@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-07-04",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:25:50"
+        "Scanned Date": "2022-02-07 05:25:50",
+        "Playlist URI": "0dgJrCsnBNpX5smIpS1B4t",
+        "Playlist Link": "https://open.spotify.com/playlist/0dgJrCsnBNpX5smIpS1B4t",
+        "Snapshot ID": "MSwxOTFkOGZiMjU4MGI0NDVlYzhmODg1ZTA2NTMyYmRlYTUyYzhlMzk5",
+        "Playlist Name": "ATC 2021-07-04 Sun All Things Considered"
     },
     {
         "Title": "Surfside Crews Turn To Condo Demolition As Elsa Threatens Florida",
@@ -23,13 +27,30 @@
         "ATC Artists": [
             "Funcc",
             "Epiphania"
-        ]
+        ],
+        "Result Track Name": "Serendipity",
+        "Result Artist Names": [
+            "Funcc.",
+            "Epifania"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7wv5ybUzYXGhig5gVBxpXS",
+        "Result Album Name": "Serendipity"
     },
     {
         "ATC Track": "August 10",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "August 10",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4I59UjiR1vDGGdLmdvFoJO",
+        "Result Album Name": "Con Todo El Mundo"
     },
     {
         "Title": "'We The People' Creator On Making A Kids' Show About American Democracy",
@@ -47,7 +68,15 @@
         "ATC Track": "DD.004",
         "ATC Artists": [
             "J.Dilla"
-        ]
+        ],
+        "Result Track Name": "DD.004",
+        "Result Artist Names": [
+            "J Dilla"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1iErrZ1LUOBjgzQV7mvLOR",
+        "Result Album Name": "J Dilla's Delights, Vol. 1"
     },
     {
         "Title": "Democrats Sidestep GOP Leaders To Expand Medicaid In Texas",
@@ -59,7 +88,12 @@
         "ATC Track": "SoulFortyFive",
         "ATC Artists": [
             "RudeManners"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Michael Pollan Talks New Book, 'This Is Your Mind On Plants'",
@@ -77,12 +111,25 @@
         "ATC Track": "I Do (ft. SZA)",
         "ATC Artists": [
             "Cardi B"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "TSOP",
         "ATC Artists": [
             "The Three Degrees"
-        ]
+        ],
+        "Result Track Name": "TSOP (The Sound of Philadelphia)",
+        "Result Artist Names": [
+            "The Three Degrees"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:50wtPW7qTqRCi78OxVn2ep",
+        "Result Album Name": "International (Expanded Edition)"
     }
 ]

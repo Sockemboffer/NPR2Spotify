@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-07-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:27:15"
+        "Scanned Date": "2022-02-07 05:27:15",
+        "Playlist URI": "4uehVskYSkllSczNCGnRG8",
+        "Playlist Link": "https://open.spotify.com/playlist/4uehVskYSkllSczNCGnRG8",
+        "Snapshot ID": "MSw4NDg4OWI0NDY5YmEwM2U4NWU3Y2UwZDM3MTRlN2Q0MmNmMzI0MTlk",
+        "Playlist Name": "ATC 2021-07-24 Sat All Things Considered"
     },
     {
         "Title": "LA County Public Health Director On Area's Spike In COVID-19 Cases",
@@ -22,13 +26,29 @@
         "ATC Track": "Pineapple Jam",
         "ATC Artists": [
             "Saib"
-        ]
+        ],
+        "Result Track Name": "Pineapple Jam",
+        "Result Artist Names": [
+            "Saib"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1bi3gfZsopfUgQIRCvwecz",
+        "Result Album Name": "Lo-Fi Music for Work"
     },
     {
         "ATC Track": "God Given Name",
         "ATC Artists": [
             "Solange"
-        ]
+        ],
+        "Result Track Name": "God Given Name",
+        "Result Artist Names": [
+            "Solange"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1s7sZQzz0U5ymKGcdhnDOe",
+        "Result Album Name": "Sol-Angel and the Hadley St. Dreams (Deluxe)"
     },
     {
         "Title": "Gun Violence In Austin, Texas, Reflects Broader National Pattern",
@@ -46,7 +66,12 @@
         "ATC Track": "Superhero",
         "ATC Artists": [
             "Keifer"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Ted Lasso' Is Back, And You Bet Your Biscuits Season 2 Is Just As Sweet",
@@ -59,7 +84,16 @@
         "ATC Artists": [
             "Marcus Mumford",
             "Tom Howe"
-        ]
+        ],
+        "Result Track Name": "Ted Lasso Theme",
+        "Result Artist Names": [
+            "Marcus Mumford",
+            "Tom Howe"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0OvmDL6jiAksoqs01EAq9A",
+        "Result Album Name": "Ted Lasso: Season 1 (Apple TV+ Original Series Soundtrack)"
     },
     {
         "Title": "Sen. Tammy Duckworth Wants To Remove Stigma Around Miscarriages",
@@ -83,12 +117,28 @@
         "ATC Track": "Kick, Push",
         "ATC Artists": [
             "Lupe Fiasco"
-        ]
+        ],
+        "Result Track Name": "Kick, Push",
+        "Result Artist Names": [
+            "Lupe Fiasco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6nz35DNIzbtj5ztpDEcW1j",
+        "Result Album Name": "Lupe Fiasco's Food & Liquor"
     },
     {
         "ATC Track": "Gamble",
         "ATC Artists": [
             "Tokimonsta"
-        ]
+        ],
+        "Result Track Name": "Gamble",
+        "Result Artist Names": [
+            "TOKiMONSTA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2ahtfg7eIq70ftILthfSnr",
+        "Result Album Name": "Midnight Menu"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-10-17",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:21:25"
+        "Scanned Date": "2022-02-07 05:21:25",
+        "Playlist URI": "2Np1UH4nbsDXCXlIkA1Y9D",
+        "Playlist Link": "https://open.spotify.com/playlist/2Np1UH4nbsDXCXlIkA1Y9D",
+        "Snapshot ID": "MSwzYzVmZmRkYjRhNDU5MGUyMzdlNjkyMzZmZTZiMmE4MTAzOWRlODFl",
+        "Playlist Name": "ATC 2021-10-17 Sun All Things Considered"
     },
     {
         "Title": "We help answer your questions about COVID-19 vaccine boosters",
@@ -28,13 +32,23 @@
         "ATC Track": "Neighborhood",
         "ATC Artists": [
             "Carl Dickman"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Out in Cali",
         "ATC Artists": [
             "Kino Da God"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "3 people share their experiences with gun-violence in D.C.",
@@ -46,7 +60,12 @@
         "ATC Track": "B Side",
         "ATC Artists": [
             "Nightowls"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Supply chain problems? Have no fear, we've got DIY Halloween costume ideas",
@@ -59,13 +78,29 @@
         "ATC Artists": [
             "Ray Parker",
             "Jr"
-        ]
+        ],
+        "Result Track Name": "Ghostbusters",
+        "Result Artist Names": [
+            "Ray Parker Jr."
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3m0y8qLoznUYi73SUBP8GI",
+        "Result Album Name": "Ghostbusters (Original Motion Picture Soundtrack) [2016]"
     },
     {
         "ATC Track": "Don't Wanna Fight",
         "ATC Artists": [
             "Alabama Shakes"
-        ]
+        ],
+        "Result Track Name": "Don't Wanna Fight",
+        "Result Artist Names": [
+            "Alabama Shakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4gm6JpO3YOcogcjdtPqHWK",
+        "Result Album Name": "Sound & Color (Deluxe)"
     },
     {
         "Title": "Lawyer says NFL needs to release Washington Football Team investigation findings",
@@ -83,12 +118,28 @@
         "ATC Track": "Family Business",
         "ATC Artists": [
             "Kanye West"
-        ]
+        ],
+        "Result Track Name": "Family Business",
+        "Result Artist Names": [
+            "Kanye West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5DBmXF7QO43Cuy9yqva116",
+        "Result Album Name": "The College Dropout"
     },
     {
         "ATC Track": "Coconuts",
         "ATC Artists": [
             "Fouk"
-        ]
+        ],
+        "Result Track Name": "Coconuts",
+        "Result Artist Names": [
+            "Fouk"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1TwGIP0mS6hndhipmYlNHM",
+        "Result Album Name": "Heavy on the Bacon"
     }
 ]

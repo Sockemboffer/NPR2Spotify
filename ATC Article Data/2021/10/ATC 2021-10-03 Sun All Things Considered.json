@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-10-03",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:20:41"
+        "Scanned Date": "2022-02-07 05:20:41",
+        "Playlist URI": "2hiz69frLlVrGrvWcLloFH",
+        "Playlist Link": "https://open.spotify.com/playlist/2hiz69frLlVrGrvWcLloFH",
+        "Snapshot ID": "MSxiNjZkZTE2MTNhY2UzZWMxMThjYTBlNTg4NThjYmIyMDJjYTM3MDEz",
+        "Playlist Name": "ATC 2021-10-03 Sun All Things Considered"
     },
     {
         "Title": "Why we need to prepare for the next pandemic",
@@ -22,13 +26,26 @@
         "ATC Track": "Fjarlaegur",
         "ATC Artists": [
             "Oskar Schuster"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Black Sands",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Black Sands",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uoM7KHsyJsHZqBQHKjQbc",
+        "Result Album Name": "Black Sands"
     },
     {
         "Title": "Anxiety hangs over Arizonans facing impending climate disasters",
@@ -46,7 +63,16 @@
         "ATC Track": "Opening",
         "ATC Artists": [
             "Philip Glass"
-        ]
+        ],
+        "Result Track Name": "Opening",
+        "Result Artist Names": [
+            "Philip Glass",
+            "Bruce Brubaker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QmhkjuUlosROqKk59sBSK",
+        "Result Album Name": "Hope Street Tunnel Blues: Music for Piano By Philip Glass and Alvin Curran"
     },
     {
         "Title": "Reporter unpacks 'Pandora Papers,' showing how the super-rich hide wealth",
@@ -58,13 +84,31 @@
         "ATC Track": "Cascade",
         "ATC Artists": [
             "Ryan Helsing"
-        ]
+        ],
+        "Result Track Name": "Cascade",
+        "Result Artist Names": [
+            "Ryan Helsing",
+            "Matthew Saltz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5U82v3no1Q8u6USA8ot2je",
+        "Result Album Name": "Visions"
     },
     {
         "ATC Track": "Sunset",
         "ATC Artists": [
             "DJ T-Rock and Squashy Nice"
-        ]
+        ],
+        "Result Track Name": "Sunset",
+        "Result Artist Names": [
+            "DJ T-Rock",
+            "Squashy Nice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4eeNceJgj0M2rHNYjHDIqI",
+        "Result Album Name": "Rock and Squash Techniques"
     },
     {
         "Title": "A preview of the Supreme Court's new, highly anticipated term",
@@ -88,12 +132,28 @@
         "ATC Track": "New York, New York",
         "ATC Artists": [
             "Frank Sinatra"
-        ]
+        ],
+        "Result Track Name": "Theme From New York, New York",
+        "Result Artist Names": [
+            "Frank Sinatra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3QksrtI9VFCBHWA4rgvcV8",
+        "Result Album Name": "Trilogy: Past, Present & Future"
     },
     {
         "ATC Track": "Toad Lick",
         "ATC Artists": [
             "East Forest"
-        ]
+        ],
+        "Result Track Name": "Toad Lick",
+        "Result Artist Names": [
+            "East Forest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OxGw9dt6g2GD7OjooGszU",
+        "Result Album Name": "Orbits"
     }
 ]

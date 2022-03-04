@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-02-28",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:36:12"
+        "Scanned Date": "2022-02-07 05:36:12",
+        "Playlist URI": "2ByISr8kWww2QwbWI5XuqA",
+        "Playlist Link": "https://open.spotify.com/playlist/2ByISr8kWww2QwbWI5XuqA",
+        "Snapshot ID": "MSxlMTViNjQ0NGQ4OTRiNDY3NDNmYzk0OTQ1Y2ZkMGZhMTYyYTk1YWNk",
+        "Playlist Name": "ATC 2021-02-28 Sun All Things Considered"
     },
     {
         "Title": "At CPAC, Trump Returns To Public Stage",
@@ -22,13 +26,31 @@
         "ATC Track": "The Last Maverick",
         "ATC Artists": [
             "Tommy Guerrero"
-        ]
+        ],
+        "Result Track Name": "The Last Maverick",
+        "Result Artist Names": [
+            "Tommy Guerrero",
+            "Marc Capelle",
+            "Tony Sevener"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5S3lsHClHrP0EDjEQ7a1iT",
+        "Result Album Name": "Lifeboats and Follies"
     },
     {
         "ATC Track": "Bees",
         "ATC Artists": [
             "Caribou"
-        ]
+        ],
+        "Result Track Name": "Bees",
+        "Result Artist Names": [
+            "Caribou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rN3BHWnlvRkXIhE7KGbSU",
+        "Result Album Name": "The Milk of Human Kindness"
     },
     {
         "Title": "A Chapter In U.S. History Often Ignored: The Flight Of Runaway Slaves To Mexico",
@@ -40,7 +62,15 @@
         "ATC Track": "Song 2",
         "ATC Artists": [
             "DJ Krush"
-        ]
+        ],
+        "Result Track Name": "Song 2",
+        "Result Artist Names": [
+            "DJ Krush"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6gJn2GouSKBuU1z1ydwDS8",
+        "Result Album Name": "Jaku"
     },
     {
         "Title": "Demetria Bannister, 28: Kirk Franklin's 'The Storm Is Over Now'",
@@ -53,14 +83,30 @@
         "ATC Artists": [
             "Kirk Franklin",
             "God's Property"
-        ]
+        ],
+        "Result Track Name": "The Storm Is Over Now",
+        "Result Artist Names": [
+            "Kirk Franklin"
+        ],
+        "Result Track-Match Percent": 0.8888888888888888,
+        "Result Artists-Match Percent": 0.5714285714285714,
+        "Result Track URI": "spotify:track:52pijIByRjpSluOWeona7T",
+        "Result Album Name": "Kirk Franklin Presents: Songs For The Storm, Volume 1"
     },
     {
         "ATC Track": "Nanã",
         "ATC Artists": [
             "Polo",
             "Pan"
-        ]
+        ],
+        "Result Track Name": "Nanã",
+        "Result Artist Names": [
+            "Polo & Pan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Psz3az3RIYfJpnsajBT8N",
+        "Result Album Name": "Caravelle"
     },
     {
         "Title": "Journalist Explores Challenges For 'Power Moms' In New Book",
@@ -78,12 +124,28 @@
         "ATC Track": "All of Me [Music From the Motion Picture \"The United States vs. Billie",
         "ATC Artists": [
             "Andra Day"
-        ]
+        ],
+        "Result Track Name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "Result Artist Names": [
+            "Andra Day"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4vYc0t7Ymz1LQoN7X3okfX",
+        "Result Album Name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")"
     },
     {
         "ATC Track": "April in Paris",
         "ATC Artists": [
             "Charlie Parker with Strings"
-        ]
+        ],
+        "Result Track Name": "April In Paris",
+        "Result Artist Names": [
+            "Charlie Parker"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5rPMbUxXRXvWu89k0n6Sxj",
+        "Result Album Name": "April In Paris: The Genius Of Charlie Parker #2"
     }
 ]

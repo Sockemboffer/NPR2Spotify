@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-08-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:25:00"
+        "Scanned Date": "2022-02-07 05:25:00",
+        "Playlist URI": "2BS0OTyU8XdPhcorh6Tu5k",
+        "Playlist Link": "https://open.spotify.com/playlist/2BS0OTyU8XdPhcorh6Tu5k",
+        "Snapshot ID": "MSxiM2Y0MDQ4ODgxZWQ3MzY1Y2NhN2Y3YmNiNjgyNDg3YzgzYWExMDY0",
+        "Playlist Name": "ATC 2021-08-28 Sat All Things Considered"
     },
     {
         "Title": "Biden Warns Another Kabul Attack Is Likely In Coming Hours",
@@ -22,13 +26,29 @@
         "ATC Track": "Thought 8",
         "ATC Artists": [
             "Thrupence"
-        ]
+        ],
+        "Result Track Name": "Thought 8",
+        "Result Artist Names": [
+            "Thrupence"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4uarXUhPpUbGUtpqCGePKS",
+        "Result Album Name": "Thoughts"
     },
     {
         "ATC Track": "Spoken",
         "ATC Artists": [
             "Hidden Orchestra"
-        ]
+        ],
+        "Result Track Name": "Spoken",
+        "Result Artist Names": [
+            "Hidden Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4xGDICSoSOZ9MKJO9U4z0G",
+        "Result Album Name": "Archipelago"
     },
     {
         "Title": "Flight Attendant Union Leader: Alcohol Is Big Factor In Rise Of Airline Incidents",
@@ -46,7 +66,12 @@
         "ATC Track": "Citruss",
         "ATC Artists": [
             "RRAREBEAR"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Turkey Seeks A Stable Afghanistan As It Bolsters Border Against Refugees",
@@ -58,7 +83,16 @@
         "ATC Track": "Firefly",
         "ATC Artists": [
             "Mura Masa"
-        ]
+        ],
+        "Result Track Name": "Firefly",
+        "Result Artist Names": [
+            "Mura Masa",
+            "Nao"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2s9C5THb9llwyVXtjveV4E",
+        "Result Album Name": "Someday Somewhere"
     },
     {
         "Title": "Life Kit: Steps To Make Receiving Feedback Easier",
@@ -71,7 +105,16 @@
         "ATC Artists": [
             "Aver",
             "Move 78"
-        ]
+        ],
+        "Result Track Name": "Faye - Village Live",
+        "Result Artist Names": [
+            "Aver",
+            "Move 78"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7A2Fpl8gfayOmCJSH0xFhm",
+        "Result Album Name": "Faye (Village Live)"
     },
     {
         "Title": "What The Gila River Means To A Latino Calling For Federal Protection",
@@ -95,6 +138,14 @@
         "ATC Track": "Memory",
         "ATC Artists": [
             "Tom Misch"
-        ]
+        ],
+        "Result Track Name": "Memory",
+        "Result Artist Names": [
+            "Tom Misch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6PVuMhSlLOt7QHhIkNyvii",
+        "Result Album Name": "Memory"
     }
 ]

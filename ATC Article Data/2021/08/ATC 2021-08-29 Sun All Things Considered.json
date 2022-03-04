@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-08-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:25:02"
+        "Scanned Date": "2022-02-07 05:25:02",
+        "Playlist URI": "7toWnz9MZxWLD9KBO4MPKb",
+        "Playlist Link": "https://open.spotify.com/playlist/7toWnz9MZxWLD9KBO4MPKb",
+        "Snapshot ID": "MSwzOTc3MzM3ZTM5M2VhZWVmYzRkNGM0Zjk4MTU2Y2I1MmU4M2U2NzUz",
+        "Playlist Name": "ATC 2021-08-29 Sun All Things Considered"
     },
     {
         "Title": "Hurricane Ida: What To Expect In The Next 24 Hours",
@@ -28,13 +32,29 @@
         "ATC Track": "Hedron",
         "ATC Artists": [
             "BadBadNotGood"
-        ]
+        ],
+        "Result Track Name": "Hedron",
+        "Result Artist Names": [
+            "BADBADNOTGOOD"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:10lGufP5RmCsUwKDTcPpxs",
+        "Result Album Name": "Late Night Tales: Bonobo"
     },
     {
         "ATC Track": "SoulFourtyFive",
         "ATC Artists": [
             "RudeManners"
-        ]
+        ],
+        "Result Track Name": "SoulFourtyFive",
+        "Result Artist Names": [
+            "RudeManners"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oMbRQixfQhRJ9AehMPYCC",
+        "Result Album Name": "Avant Garde"
     },
     {
         "Title": "FEMA Administrator Discusses Ida Preparations 16 Years After Katrina",
@@ -52,7 +72,12 @@
         "ATC Track": "acai",
         "ATC Artists": [
             "Casein"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "U.S. Ramps Up Wild Horse Roundups In Drought-Stricken West",
@@ -64,13 +89,30 @@
         "ATC Track": "Old Town Road (Remix)",
         "ATC Artists": [
             "Lil Nas X feat. Billy Ray Cyrus"
-        ]
+        ],
+        "Result Track Name": "Old Town Road - Remix",
+        "Result Artist Names": [
+            "Lil Nas X",
+            "Billy Ray Cyrus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.9230769230769231,
+        "Result Track URI": "spotify:track:2YpeDb67231RjR0MgVLzsG",
+        "Result Album Name": "7 EP"
     },
     {
         "ATC Track": "Mutt",
         "ATC Artists": [
             "blink-182"
-        ]
+        ],
+        "Result Track Name": "Mutt",
+        "Result Artist Names": [
+            "blink-182"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Q0yxw9mdycjnuORDvY5E6",
+        "Result Album Name": "Enema Of The State"
     },
     {
         "Title": "Texas OB/GYN: My Existence Is In Violation Of The New Abortion Law",
@@ -88,12 +130,28 @@
         "ATC Track": "JBS",
         "ATC Artists": [
             "Chaz Bundick Meets The Mattson 2"
-        ]
+        ],
+        "Result Track Name": "JBS",
+        "Result Artist Names": [
+            "Chaz Bundick Meets The Mattson 2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:60plprR64AqM3GzLGRLsl3",
+        "Result Album Name": "Star Stuff"
     },
     {
         "ATC Track": "A Million and One Things To Do",
         "ATC Artists": [
             "Time Machine"
-        ]
+        ],
+        "Result Track Name": "A Million and One Things To Do - Instrumental",
+        "Result Artist Names": [
+            "Time Machine"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:59vqOeRwV5wYevUCgyGxgX",
+        "Result Album Name": "Slow Your Roll Instrumentals"
     }
 ]

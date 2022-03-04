@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-07-25",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:27:17"
+        "Scanned Date": "2022-02-07 05:27:17",
+        "Playlist URI": "6GaXn8G1dwJrYb0kNiW3QP",
+        "Playlist Link": "https://open.spotify.com/playlist/6GaXn8G1dwJrYb0kNiW3QP",
+        "Snapshot ID": "MSw5ZjY5ZmZhZDFmNDlkOWUzNjBhNmQzYTk1ZTcwNTI1MzdiNGQ4YjFk",
+        "Playlist Name": "ATC 2021-07-25 Sun All Things Considered"
     },
     {
         "Title": "9/11 Commission Leader Says Jan. 6 Capitol Riot Panel May Be Too Partisan To Succeed",
@@ -24,13 +28,28 @@
             "Traditional",
             "Sweet Honey in the Rock",
             "James Horner"
-        ]
+        ],
+        "Result Track Name": "Eyes On The Prize (\"Hold On\") - Voice",
+        "Result Artist Names": [
+            "Traditional",
+            "Sweet Honey In The Rock",
+            "James Horner"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5NAQOsPYm2N1p3SjVPk9Vj",
+        "Result Album Name": "Freedom Song - Television Soundtrack"
     },
     {
         "ATC Track": "Amon Tobin",
         "ATC Artists": [
             "Bridge"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "A Looming Challenge In The Vaccination Campaign: Syringe Shortages",
@@ -48,7 +67,15 @@
         "ATC Track": "Marie",
         "ATC Artists": [
             "Mach Hommy"
-        ]
+        ],
+        "Result Track Name": "Marie",
+        "Result Artist Names": [
+            "Mach-Hommy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:41glcw7981FPbxErG2iee6",
+        "Result Album Name": "Pray For Haiti"
     },
     {
         "Title": "Life Kit: How To Host A Dinner Party",
@@ -60,13 +87,26 @@
         "ATC Track": "Party",
         "ATC Artists": [
             "Beyonce ft. Andre 3000"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "One Thing",
         "ATC Artists": [
             "Amerie"
-        ]
+        ],
+        "Result Track Name": "1 Thing",
+        "Result Artist Names": [
+            "Amerie"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ZyNjT2hYvfV5PuW84dp1E",
+        "Result Album Name": "Playlist: The Very Best Of Amerie"
     },
     {
         "Title": "Censorship Scholar On Book Bans And Critical Race Theory",
@@ -84,12 +124,29 @@
         "ATC Track": "Circus",
         "ATC Artists": [
             "Britney Spears"
-        ]
+        ],
+        "Result Track Name": "Circus",
+        "Result Artist Names": [
+            "Britney Spears"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7jk7gqyEonmVVYahZN5zhW",
+        "Result Album Name": "Circus (Deluxe Version)"
     },
     {
         "ATC Track": "Dang",
         "ATC Artists": [
             "Mac Miller"
-        ]
+        ],
+        "Result Track Name": "Dang! (feat. Anderson .Paak)",
+        "Result Artist Names": [
+            "Mac Miller",
+            "Anderson .Paak"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5iUQMwxUPdJBFeGkePtM66",
+        "Result Album Name": "The Divine Feminine"
     }
 ]

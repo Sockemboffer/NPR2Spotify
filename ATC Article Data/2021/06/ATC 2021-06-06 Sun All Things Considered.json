@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-06-06",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:28:01"
+        "Scanned Date": "2022-02-07 05:28:01",
+        "Playlist URI": "37t11uEH8k0YNC6dqYykva",
+        "Playlist Link": "https://open.spotify.com/playlist/37t11uEH8k0YNC6dqYykva",
+        "Snapshot ID": "MSw0ZDgyYjViODExOGRlZDNmM2ExNGQ2YjA1MDY3NTY5NzE3NWNhZWIz",
+        "Playlist Name": "ATC 2021-06-06 Sun All Things Considered"
     },
     {
         "Title": "Harris Heads To Guatemala",
@@ -22,13 +26,30 @@
         "ATC Track": "Respiration (Instrumental)",
         "ATC Artists": [
             "Black Star"
-        ]
+        ],
+        "Result Track Name": "Respiration",
+        "Result Artist Names": [
+            "Black Star",
+            "Common"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:5mxVKAuunOKqcBfR5ivbRf",
+        "Result Album Name": "Mos Def & Talib Kweli Are Black Star"
     },
     {
         "ATC Track": "Gidget (Instrumental)",
         "ATC Artists": [
             "Free Nationals"
-        ]
+        ],
+        "Result Track Name": "Gidget - Instrumental",
+        "Result Artist Names": [
+            "Free Nationals"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:557cyocFOOvB6LW8EPNiOi",
+        "Result Album Name": "Free Nationals (Instrumentals)"
     },
     {
         "Title": "How To Be A Citizen: Education",
@@ -46,7 +67,15 @@
         "ATC Track": "Electric",
         "ATC Artists": [
             "Tuva Sersh"
-        ]
+        ],
+        "Result Track Name": "Electric",
+        "Result Artist Names": [
+            "Tuva Sersh"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LxIw6qz9tcKfw5r32koKX",
+        "Result Album Name": "Electric"
     },
     {
         "Title": "Bill To Make Connecticut First State With Free Prison Phone Calls Heads To Governor",
@@ -58,13 +87,29 @@
         "ATC Track": "Bleach",
         "ATC Artists": [
             "Justice Der"
-        ]
+        ],
+        "Result Track Name": "Bleach",
+        "Result Artist Names": [
+            "Justice Der"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2quRZ1fs9tcR5sv7m6taSP",
+        "Result Album Name": "Favorites"
     },
     {
         "ATC Track": "It's Rainy",
         "ATC Artists": [
             "Eric Lau"
-        ]
+        ],
+        "Result Track Name": "It's Rainy",
+        "Result Artist Names": [
+            "Eric Lau"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mDWgBSArFOhAUp18l4DW9",
+        "Result Album Name": "Papa Ibiza Chill 2020"
     },
     {
         "Title": "'Atlantic' Editor Says America Has A Drinking Problem",
@@ -82,12 +127,28 @@
         "ATC Track": "Vacanes a la Mer",
         "ATC Artists": [
             "Kazam"
-        ]
+        ],
+        "Result Track Name": "Vacances à la mer",
+        "Result Artist Names": [
+            "Kazam"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4bvrghiA4hOOppRiNS11Oh",
+        "Result Album Name": "Vacances à la mer"
     },
     {
         "ATC Track": "Jazzy's Joint",
         "ATC Artists": [
             "Jazzinuf"
-        ]
+        ],
+        "Result Track Name": "Jazzy's Joint",
+        "Result Artist Names": [
+            "Jazzinuf"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3MonuiYoIeN3cYQ5WRuf5V",
+        "Result Album Name": "The Magic Carpet"
     }
 ]

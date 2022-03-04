@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-10-31",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:22:05"
+        "Scanned Date": "2022-02-07 05:22:05",
+        "Playlist URI": "6k6kzJKrqKLZSlOXyVXgb7",
+        "Playlist Link": "https://open.spotify.com/playlist/6k6kzJKrqKLZSlOXyVXgb7",
+        "Snapshot ID": "MSwwZjk5OGQ2MjAwNGJiZWY2MjMyYmQ3YTdhNDBkZDAyYTA5ODM4NGJm",
+        "Playlist Name": "ATC 2021-10-31 Sun All Things Considered"
     },
     {
         "Title": "'We're not where we need to be,' says U.N. climate chief",
@@ -22,13 +26,26 @@
         "ATC Track": "You, me and our Tommy Guns",
         "ATC Artists": [
             "Crwn"
-        ]
+        ],
+        "Result Track Name": "You, Me, and Our Tommy Guns - Instrumental",
+        "Result Artist Names": [
+            "crwn"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7ACa0d8EzS7qqwC7lzBBlB",
+        "Result Album Name": "Tommy Gun"
     },
     {
         "ATC Track": "Vanilla Fraise",
         "ATC Artists": [
             "L'imperatrice"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sen. Gillibrand isn't ready to give up on paid family leave",
@@ -48,7 +65,17 @@
             "Cloudchord",
             "Soul Food Horns",
             "Saib"
-        ]
+        ],
+        "Result Track Name": "Low Key",
+        "Result Artist Names": [
+            "Cloudchord",
+            "Soul Food Horns",
+            "Saib"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2rdlNy8ioOeyHNzcgp5lRw",
+        "Result Album Name": "Low Key"
     },
     {
         "Title": "Delicious Day of the Dead offerings",
@@ -60,13 +87,23 @@
         "ATC Track": "Coco - Dia De Los Muertos Sweet",
         "ATC Artists": [
             "Michael Giacchino"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Underwaterfalls",
         "ATC Artists": [
             "Bearcubs"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Biden recaps his G-20 meetings in press conference",
@@ -97,12 +134,30 @@
         "ATC Artists": [
             "Kyle Dixon",
             "Michael Stein"
-        ]
+        ],
+        "Result Track Name": "Stranger Things (Main Title Theme)",
+        "Result Artist Names": [
+            "Kyle Eric Dixon",
+            "Michael David Stein",
+            "Baltic House Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4puLvkOglizbEbflXuwjrF",
+        "Result Album Name": "The Best TV Themes, Vol. 1"
     },
     {
         "ATC Track": "Elope",
         "ATC Artists": [
             "DJ Poolboi"
-        ]
+        ],
+        "Result Track Name": "elope",
+        "Result Artist Names": [
+            "dj poolboi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4y6Xmu2yfPC5he71JTJjTH",
+        "Result Album Name": "elope"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-10-10",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:21:06"
+        "Scanned Date": "2022-02-07 05:21:06",
+        "Playlist URI": "0ealho9AAdNOM1nmA4A7ii",
+        "Playlist Link": "https://open.spotify.com/playlist/0ealho9AAdNOM1nmA4A7ii",
+        "Snapshot ID": "MSwxNjY1Mjg5YjRhMzgwMmViZDVmZDk5NDhjZTEyOTMzZTk3MTc5NzA5",
+        "Playlist Name": "ATC 2021-10-10 Sun All Things Considered"
     },
     {
         "Title": "Sen. Amy Klobuchar says we're behind other countries on Big Tech regulation",
@@ -22,14 +26,31 @@
         "ATC Track": "POWER",
         "ATC Artists": [
             "Kanye West"
-        ]
+        ],
+        "Result Track Name": "POWER",
+        "Result Artist Names": [
+            "Kanye West"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2gZUPNdnz5Y45eiGxpHGSc",
+        "Result Album Name": "My Beautiful Dark Twisted Fantasy"
     },
     {
         "ATC Track": "Say My Name",
         "ATC Artists": [
             "ODESZA",
             "Zyra"
-        ]
+        ],
+        "Result Track Name": "Say My Name (feat. Zyra)",
+        "Result Artist Names": [
+            "ODESZA",
+            "Zyra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1LeItUMezKA1HdCHxYICed",
+        "Result Album Name": "In Return"
     },
     {
         "Title": "Localities must redistrict, too. Santa Barbara County's plan is different this year",
@@ -47,7 +68,16 @@
         "ATC Track": "Innerspace",
         "ATC Artists": [
             "The Apples in Stereo"
-        ]
+        ],
+        "Result Track Name": "Innerspace",
+        "Result Artist Names": [
+            "The Apples In Stereo",
+            "Robert Schneider"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2XTjamhOEI6Q11PSvnVtNQ",
+        "Result Album Name": "Fun Trick Noisemaker"
     },
     {
         "Title": "Life Kit: What we can learn from our jealousy",
@@ -59,7 +89,15 @@
         "ATC Track": "Come Home",
         "ATC Artists": [
             "The Undercover Dream Lovers"
-        ]
+        ],
+        "Result Track Name": "Come Home",
+        "Result Artist Names": [
+            "The Undercover Dream Lovers"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6hLruWJrsiVewSsWWM052u",
+        "Result Album Name": "Come Home"
     },
     {
         "Title": "Rep. Schiff reveals impeachment regrets, tensions on Capitol Hill after insurrection",
@@ -77,6 +115,11 @@
         "ATC Track": "Crossroad [Original Mix]",
         "ATC Artists": [
             "Bone Thugs-N-Harmony"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

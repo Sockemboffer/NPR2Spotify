@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-06-27",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:29:21"
+        "Scanned Date": "2022-02-07 05:29:21",
+        "Playlist URI": "4axoDCgRSVFEPfbZNApylR",
+        "Playlist Link": "https://open.spotify.com/playlist/4axoDCgRSVFEPfbZNApylR",
+        "Snapshot ID": "MSw0NmFkZTY2NDkyNzYyYmE4MDFiNGQ0ZDFjY2M0NGFhZmRiMTMyZTU3",
+        "Playlist Name": "ATC 2021-06-27 Sun All Things Considered"
     },
     {
         "Title": "Vice Mayor Supports Investigation Into How Surfside Handled Condo Damage Warnings",
@@ -22,13 +26,26 @@
         "ATC Track": "Cafezinho",
         "ATC Artists": [
             "Lo Fi Coffee"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Vanille Fraise",
         "ATC Artists": [
             "L'imperatrice"
-        ]
+        ],
+        "Result Track Name": "Vanille fraise",
+        "Result Artist Names": [
+            "L'Impératrice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:5Z341Ft3mCaDoSqPfv7scV",
+        "Result Album Name": "Boys & Girls Want to Be Trendy (Cool Music for Cool People)"
     },
     {
         "Title": "A Look At New Hormone-Free Contraceptive Option",
@@ -46,7 +63,15 @@
         "ATC Track": "Palms Down",
         "ATC Artists": [
             "Blue Dot Sessions"
-        ]
+        ],
+        "Result Track Name": "Palms Down",
+        "Result Artist Names": [
+            "Blue Dot Sessions"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3yquBZDRtR3DKsjjA1rvwT",
+        "Result Album Name": "Confectionery"
     },
     {
         "Title": "Music Critic Picks Favorite Listens On Doja Cat's 'Planet Her'",
@@ -58,13 +83,23 @@
         "ATC Track": "Kiss Me More (Ft. Sza)",
         "ATC Artists": [
             "Doja Cat"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Say So (instrumental)",
         "ATC Artists": [
             "Doja Cat"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Trump Heads To U.S.-Mexico Border, Days After Kamala Harris Trip",
@@ -88,12 +123,25 @@
         "ATC Track": "The Bad Touch (instrumental)",
         "ATC Artists": [
             "Blood Hound Gang"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Shira",
         "ATC Artists": [
             "The Shaolin Afronauts"
-        ]
+        ],
+        "Result Track Name": "Shira",
+        "Result Artist Names": [
+            "The Shaolin Afronauts"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1o6teh4QuZAxe90lklwC87",
+        "Result Album Name": "Flight of The Ancients"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-09-25",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:23:21"
+        "Scanned Date": "2022-02-07 05:23:21",
+        "Playlist URI": "7MMrELQ8r2fICMh3xR58V1",
+        "Playlist Link": "https://open.spotify.com/playlist/7MMrELQ8r2fICMh3xR58V1",
+        "Snapshot ID": "MSw2MzIzN2YwN2Y5NGI2NDUyODBjMGUyNDEzYjgxZjdkOTA2NTMzODdh",
+        "Playlist Name": "ATC 2021-09-25 Sat All Things Considered"
     },
     {
         "Title": "Amid Nursing Shortage, Hospital CEO Says Vaccine Mandates Can Deter Staff",
@@ -22,13 +26,23 @@
         "ATC Track": "Violet",
         "ATC Artists": [
             "Bibio"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Trap Door Break",
         "ATC Artists": [
             "MF Doom"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Public And Media Feed Off Each Other's Obsession With Gabby Petito Case",
@@ -46,7 +60,15 @@
         "ATC Track": "Standing Ovation",
         "ATC Artists": [
             "Little Simz"
-        ]
+        ],
+        "Result Track Name": "Standing Ovation",
+        "Result Artist Names": [
+            "Little Simz"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3eMv1zl9vJhN5Lp7ol5NqM",
+        "Result Album Name": "Sometimes I Might Be Introvert"
     },
     {
         "Title": "Germans Can't Agree On Who Should Lead After Angela Merkel",
@@ -58,13 +80,26 @@
         "ATC Track": "Bright Idea",
         "ATC Artists": [
             "Advance Base"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Genesis",
         "ATC Artists": [
             "Grimes"
-        ]
+        ],
+        "Result Track Name": "Genesis",
+        "Result Artist Names": [
+            "Grimes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cjvqsvvU80g7WJPMVh8iq",
+        "Result Album Name": "Visions"
     },
     {
         "Title": "What To Know About The High-Stakes Congressional Standoff",
@@ -82,12 +117,28 @@
         "ATC Track": "Glowing Up",
         "ATC Artists": [
             "Cynthia Erivo"
-        ]
+        ],
+        "Result Track Name": "Glowing Up",
+        "Result Artist Names": [
+            "Cynthia Erivo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5aeUHbWlVXp0TZ0L1tuKsc",
+        "Result Album Name": "Ch. 1 Vs. 1"
     },
     {
         "ATC Track": "Mr. White",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Mr. White",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EqGquh3ajBQjudpLLhJKy",
+        "Result Album Name": "The Universe Smiles Upon You"
     }
 ]

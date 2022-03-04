@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-04-03",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:31:25"
+        "Scanned Date": "2022-02-07 05:31:25",
+        "Playlist URI": "4bHcpdB2pjZ7OTwRzxCxXv",
+        "Playlist Link": "https://open.spotify.com/playlist/4bHcpdB2pjZ7OTwRzxCxXv",
+        "Snapshot ID": "MSw4NmRkNmIxNjliNGZkNTIzOGQ2ZmM2YmRkYWYwNGJiYjRmZTdkMTQ3",
+        "Playlist Name": "ATC 2021-04-03 Sat All Things Considered"
     },
     {
         "Title": "Voices From The Trial Over George Floyd's Killing",
@@ -23,14 +27,31 @@
         "ATC Artists": [
             "The Roots",
             "D'Angelo"
-        ]
+        ],
+        "Result Track Name": "Break You Off",
+        "Result Artist Names": [
+            "The Roots",
+            "Musiq Soulchild"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:7CvjV9GN9uFM5HmIowua6Y",
+        "Result Album Name": "Phrenology"
     },
     {
         "ATC Track": "Zoom Zoom",
         "ATC Artists": [
             "Polo",
             "Pan"
-        ]
+        ],
+        "Result Track Name": "Zoom Zoom",
+        "Result Artist Names": [
+            "Polo & Pan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1gWnuGAiTk3Q4yrIbwymUK",
+        "Result Album Name": "Caravelle"
     },
     {
         "Title": "Capitol Security Task Force Member On Recommendations In Wake Of Latest Attack",
@@ -48,7 +69,12 @@
         "ATC Track": "Smokin' That S---!",
         "ATC Artists": [
             "Metal Fingers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "In Rural Tennessee, Conservatives Voice Vaccine Hesitancy",
@@ -60,13 +86,29 @@
         "ATC Track": "Crying Guitar (Aka Surfer's Lament)",
         "ATC Artists": [
             "The Lively Ones"
-        ]
+        ],
+        "Result Track Name": "Crying Guitar (aka Surfer's Lament)",
+        "Result Artist Names": [
+            "The Lively Ones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uNvF2zNyercjW6VEmZ46s",
+        "Result Album Name": "Surf Rider"
     },
     {
         "ATC Track": "Girl",
         "ATC Artists": [
             "Jamie xx"
-        ]
+        ],
+        "Result Track Name": "Girl",
+        "Result Artist Names": [
+            "Jamie xx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s2ziTuwyOfnpNbpctNwqO",
+        "Result Album Name": "In Colour"
     },
     {
         "Title": "South African Comedian On New Special 'Unlearning'",
@@ -84,12 +126,28 @@
         "ATC Track": "Second Line Girl",
         "ATC Artists": [
             "Cha Wa"
-        ]
+        ],
+        "Result Track Name": "Second Line Girl",
+        "Result Artist Names": [
+            "Cha Wa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00tPrXOCoHaNFn4D8Mxl31",
+        "Result Album Name": "My People"
     },
     {
         "ATC Track": "South",
         "ATC Artists": [
             "Prince"
-        ]
+        ],
+        "Result Track Name": "South",
+        "Result Artist Names": [
+            "Prince"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7I2tsPLQY5Fzbd3QUXZiL3",
+        "Result Album Name": "N.E.W.S"
     }
 ]

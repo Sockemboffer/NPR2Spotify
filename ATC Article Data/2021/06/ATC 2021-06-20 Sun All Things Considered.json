@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2021-06-20",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:28:49"
+        "Scanned Date": "2022-02-07 05:28:49",
+        "Playlist URI": "1EchoXfwfOtpoHnhed5ha2",
+        "Playlist Link": "https://open.spotify.com/playlist/1EchoXfwfOtpoHnhed5ha2",
+        "Snapshot ID": "MSw5YmJiN2I0MjUyMDYyY2ViZWE0MWZiZjc3MmMyYTNjOTIwZWUzMDg5",
+        "Playlist Name": "ATC 2021-06-20 Sun All Things Considered"
     },
     {
         "Title": "Faith Groups Wade Into Politics With Rules That Will Cost Membership, Priest Says",
@@ -22,13 +26,29 @@
         "ATC Track": "Rainey Streets",
         "ATC Artists": [
             "Blue in Green"
-        ]
+        ],
+        "Result Track Name": "Rainy Streets",
+        "Result Artist Names": [
+            "Blue In Green"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:27R3h4sOHv03aWMwNtu98L",
+        "Result Album Name": "The Break Of Dawn"
     },
     {
         "ATC Track": "Flash",
         "ATC Artists": [
             "Lewis Ofman"
-        ]
+        ],
+        "Result Track Name": "Flash",
+        "Result Artist Names": [
+            "Lewis OfMan"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:52d8baQxvV3AkHcAyXCkkO",
+        "Result Album Name": "Flash"
     },
     {
         "Title": "Former NCAA Athlete Fights For College Players To Profit From Own Names",
@@ -46,7 +66,12 @@
         "ATC Track": "Pennyroyal",
         "ATC Artists": [
             "Metal Fingers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Life Kit: How To Say Sorry",
@@ -58,13 +83,29 @@
         "ATC Track": "Coffee and Oranges",
         "ATC Artists": [
             "Marcin Dziembor"
-        ]
+        ],
+        "Result Track Name": "Coffee and Oranges",
+        "Result Artist Names": [
+            "Marcin Dziembor"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3HoivBGlaIoqxEyk8lOljN",
+        "Result Album Name": "Orange Album (Lofi Music for Stream and Chill)"
     },
     {
         "ATC Track": "Coming Into Los Angeles",
         "ATC Artists": [
             "Arlo Guthrie"
-        ]
+        ],
+        "Result Track Name": "Coming into Los Angeles - Remastered",
+        "Result Artist Names": [
+            "Arlo Guthrie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vCAPGfk46iIyikreugUay",
+        "Result Album Name": "Running Down the Road (Remastered)"
     },
     {
         "Title": "Organizers Who Are Honoring Pride In Small Towns",
@@ -82,12 +123,31 @@
         "ATC Track": "The Contender",
         "ATC Artists": [
             "Menahan Street Band"
-        ]
+        ],
+        "Result Track Name": "The Contender",
+        "Result Artist Names": [
+            "Menahan Street Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4evkhyjgx4eLgyvujGWSTc",
+        "Result Album Name": "Make the Road By Walking"
     },
     {
         "ATC Track": "Wow Thing",
         "ATC Artists": [
             "Soyeon"
-        ]
+        ],
+        "Result Track Name": "Wow Thing",
+        "Result Artist Names": [
+            "SEULGI",
+            "CHUNG HA",
+            "SinB",
+            "JEON SOYEON"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5MwfxCtqMFGYp9Nc1BkTrS",
+        "Result Album Name": "Wow Thing"
     }
 ]
