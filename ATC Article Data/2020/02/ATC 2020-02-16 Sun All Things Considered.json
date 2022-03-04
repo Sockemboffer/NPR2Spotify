@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-02-16",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:15:13"
+        "Scanned Date": "2022-02-07 05:15:13",
+        "Playlist URI": "60tIkHD6meylEq6hCQOhRl",
+        "Playlist Link": "https://open.spotify.com/playlist/60tIkHD6meylEq6hCQOhRl",
+        "Snapshot ID": "MSxhZmNlZGZhNWYxYTE1MDgyOGNmN2QyMTVlZDNlNjY3OGUzOGM0NTZh",
+        "Playlist Name": "ATC 2020-02-16 Sun All Things Considered"
     },
     {
         "Title": "Justice Department Alumni Call For Barr To Step Down",
@@ -20,13 +24,31 @@
     },
     {
         "ATC Track": "Sunny",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Just Friends (Sunny)",
+        "Result Artist Names": [
+            "Musiq Soulchild"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5jgEJXjECdlhzNgfITSTVm",
+        "Result Album Name": "Aijuswanaseing"
     },
     {
         "ATC Track": "Lokums & Matches",
         "ATC Artists": [
             "Palov"
-        ]
+        ],
+        "Result Track Name": "Lokums and Matches",
+        "Result Artist Names": [
+            "Palov",
+            "A.Angelides",
+            "Panos Dimitrakopoulos"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:216NXCLjFMQUmWznrkgCZX",
+        "Result Album Name": "He Hecho Mucho por Ti"
     },
     {
         "Title": "U.S. To Evacuate Quarantined Americans From Cruise Ship",
@@ -50,7 +72,15 @@
         "ATC Track": "Autumn Sweater",
         "ATC Artists": [
             "Yo La Tengo"
-        ]
+        ],
+        "Result Track Name": "Autumn Sweater",
+        "Result Artist Names": [
+            "Yo La Tengo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:19Qi2Cymjh7HDQESDrDBzs",
+        "Result Album Name": "I Can Hear The Heart Beating As One"
     },
     {
         "Title": "Amid Climate And Housing Crises, Cities Struggle To Place Housing Near Transit",
@@ -62,13 +92,26 @@
         "ATC Track": "Lebanese Blonde",
         "ATC Artists": [
             "Thievery Corporation"
-        ]
+        ],
+        "Result Track Name": "Lebanese Blonde",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:66KcXPDs1hr8T06KvlJCeA",
+        "Result Album Name": "The Mirror Conspiracy"
     },
     {
         "ATC Track": "Wander",
         "ATC Artists": [
             "Icebird"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'Black Patriots' Were Heroes Of The Revolution — But Not The History Books",
@@ -86,6 +129,14 @@
         "ATC Track": "Sugar",
         "ATC Artists": [
             "Dirty Art Club"
-        ]
+        ],
+        "Result Track Name": "Sugar",
+        "Result Artist Names": [
+            "Dirty Art Club"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5eGaQOCmgX2NxkzWCrvKXM",
+        "Result Album Name": "Basement Seance"
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-03-14",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:13:22"
+        "Scanned Date": "2022-02-07 05:13:22",
+        "Playlist URI": "1VbBG7ugvBd3xRz2EtPGPc",
+        "Playlist Link": "https://open.spotify.com/playlist/1VbBG7ugvBd3xRz2EtPGPc",
+        "Snapshot ID": "MSw1MjdiYjgzZmFkNWZiZTkwY2Q5YTZjZmI5YjRkOGQwYWY1MTQ1NmU0",
+        "Playlist Name": "ATC 2020-03-14 Sat All Things Considered"
     },
     {
         "Title": "Coronavirus: Trump Expands Europe Travel Ban",
@@ -22,13 +26,29 @@
         "ATC Track": "Never Sleep",
         "ATC Artists": [
             "PDP"
-        ]
+        ],
+        "Result Track Name": "Never Sleep",
+        "Result Artist Names": [
+            "PDP"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:22aXeYxE82MOOrsMnYG9z2",
+        "Result Album Name": "Floating Dream"
     },
     {
         "ATC Track": "Beatific",
         "ATC Artists": [
             "East Forest"
-        ]
+        ],
+        "Result Track Name": "Beatific",
+        "Result Artist Names": [
+            "East Forest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7MvmBrbUEn2ECihZgnsEvP",
+        "Result Album Name": "Love Bomb"
     },
     {
         "Title": "Politics In The Time Of The Coronavirus",
@@ -52,7 +72,15 @@
         "ATC Track": "ID",
         "ATC Artists": [
             "Kygo"
-        ]
+        ],
+        "Result Track Name": "ID - Ultra Music Festival Anthem",
+        "Result Artist Names": [
+            "Kygo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4SBqydJCEhcroni09XgT2c",
+        "Result Album Name": "ID (Ultra Music Festival Anthem)"
     },
     {
         "Title": "Coronavirus: Meal Planning",
@@ -64,13 +92,27 @@
         "ATC Track": "Turtle Soup",
         "ATC Artists": [
             "DJ Food"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tagada",
         "ATC Artists": [
             "Camel Power Club"
-        ]
+        ],
+        "Result Track Name": "Tagada",
+        "Result Artist Names": [
+            "Camel Power Club",
+            "Akin Yai"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73LUbEDV52eiiMXkFM2Ibg",
+        "Result Album Name": "Sputnik II"
     },
     {
         "Title": "Coronavirus Precautions For Foster Youth",
@@ -94,6 +136,14 @@
         "ATC Track": "Point Breeze",
         "ATC Artists": [
             "El Ten Eleven"
-        ]
+        ],
+        "Result Track Name": "Point Breeze",
+        "Result Artist Names": [
+            "El Ten Eleven"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3oa0R8u0QqHiK6vUk5011K",
+        "Result Album Name": "Fast Forward"
     }
 ]

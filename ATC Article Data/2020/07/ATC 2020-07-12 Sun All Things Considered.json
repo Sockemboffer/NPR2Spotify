@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-07-12",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:06:08"
+        "Scanned Date": "2022-02-07 05:06:08",
+        "Playlist URI": "6PecaJawd3Jifksa3CNlSi",
+        "Playlist Link": "https://open.spotify.com/playlist/6PecaJawd3Jifksa3CNlSi",
+        "Snapshot ID": "MSw5ZTRkNGE0MTI5NmExM2E5ZjIwOWJhNDM0MzI2ZmQwY2U1Nzc2N2E5",
+        "Playlist Name": "ATC 2020-07-12 Sun All Things Considered"
     },
     {
         "Title": "Tallahassee Mayor On Florida's Record Single-Day COVID-19 Increase",
@@ -22,13 +26,30 @@
         "ATC Track": "Past Is Prologue",
         "ATC Artists": [
             "Tycho"
-        ]
+        ],
+        "Result Track Name": "Past Is Prologue",
+        "Result Artist Names": [
+            "Tycho"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1fEO7Eq0wHpFdGaZV4NitC",
+        "Result Album Name": "Past Is Prologue"
     },
     {
         "ATC Track": "North Korea",
         "ATC Artists": [
             "Blended Babies"
-        ]
+        ],
+        "Result Track Name": "North Korea (feat. Donnie Trumpet)",
+        "Result Artist Names": [
+            "Blended Babies",
+            "Donnie Trumpet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3KgFcyKbaH3B96qYeLArIM",
+        "Result Album Name": "North Korea (feat. Donnie Trumpet)"
     },
     {
         "Title": "Florida Tech 'Will Suffer Significantly' With Student Visa Changes",
@@ -47,7 +68,16 @@
         "ATC Artists": [
             "Kero One",
             "Sam Ock"
-        ]
+        ],
+        "Result Track Name": "Shortcuts (feat. Sam Ock)",
+        "Result Artist Names": [
+            "Kero One",
+            "Sam Ock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1zkl4WBjBh1xUs5tYK8hfP",
+        "Result Album Name": "Color Theory"
     },
     {
         "Title": "Life Kit: Planning For The End Of A Life",
@@ -59,13 +89,29 @@
         "ATC Track": "Shingo",
         "ATC Artists": [
             "Anitek"
-        ]
+        ],
+        "Result Track Name": "Shingo",
+        "Result Artist Names": [
+            "Anitek"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7pwblGoCIISzRSctuPoE2b",
+        "Result Album Name": "Instrumentals, Vol. 1"
     },
     {
         "ATC Track": "Mr White",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Mr. White",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5EqGquh3ajBQjudpLLhJKy",
+        "Result Album Name": "The Universe Smiles Upon You"
     },
     {
         "Title": "Florida Shatters U.S. Record In Largest Single-Day Increase In COVID-19 Cases",
@@ -89,12 +135,25 @@
         "ATC Track": "Savage",
         "ATC Artists": [
             "Megan Thee Stallion"
-        ]
+        ],
+        "Result Track Name": "Savage",
+        "Result Artist Names": [
+            "Megan Thee Stallion"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:55CHeLEfn5iJ0IIkgaa4si",
+        "Result Album Name": "Suga"
     },
     {
         "ATC Track": "Wow Thing",
         "ATC Artists": [
             "Station Young"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

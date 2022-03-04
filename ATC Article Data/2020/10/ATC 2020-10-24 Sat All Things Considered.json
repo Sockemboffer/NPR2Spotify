@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-10-24",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:02:01"
+        "Scanned Date": "2022-02-07 05:02:01",
+        "Playlist URI": "5Ky7JJ8WLdLJXKHffZ11MF",
+        "Playlist Link": "https://open.spotify.com/playlist/5Ky7JJ8WLdLJXKHffZ11MF",
+        "Snapshot ID": "MSw3ZGFmMWI2ZWVhYTdhZjAxOTA2MWM3NjAxMDY3MmRiZTkwYjA4ZjU4",
+        "Playlist Name": "ATC 2020-10-24 Sat All Things Considered"
     },
     {
         "Title": "Mary Trump On The President's Habit Of Insulting Others",
@@ -22,13 +26,29 @@
         "ATC Track": "The Anointing",
         "ATC Artists": [
             "Patrick Lee"
-        ]
+        ],
+        "Result Track Name": "The Anointing",
+        "Result Artist Names": [
+            "Patrick Lee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:141UHEEp4X0x0OU6I4saM4",
+        "Result Album Name": "The Last Thing"
     },
     {
         "ATC Track": "I Got The...",
         "ATC Artists": [
             "Labi Siffre"
-        ]
+        ],
+        "Result Track Name": "I Got The... - 2006 Remaster",
+        "Result Artist Names": [
+            "Labi Siffre"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:20VuO95A8RxUPlShnfYArW",
+        "Result Album Name": "Remember My Song"
     },
     {
         "Title": "How Trump And Biden Differ On Energy Policy",
@@ -46,7 +66,12 @@
         "ATC Track": "Naoki",
         "ATC Artists": [
             "Guitar"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Life Kit: Tips To Strengthen Your Digital Privacy",
@@ -58,13 +83,29 @@
         "ATC Track": "Lifespan",
         "ATC Artists": [
             "Vaults"
-        ]
+        ],
+        "Result Track Name": "Lifespan",
+        "Result Artist Names": [
+            "Vaults"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:02hvaxZNKzTLmKURz9F9Nz",
+        "Result Album Name": "Lifespan"
     },
     {
         "ATC Track": "Electric Relaxation",
         "ATC Artists": [
             "A Tribe Called Quest"
-        ]
+        ],
+        "Result Track Name": "Electric Relaxation",
+        "Result Artist Names": [
+            "A Tribe Called Quest"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0eEXcw3JLVXcRxYrVYMy68",
+        "Result Album Name": "The Anthology"
     },
     {
         "Title": "New Book Examines How The 1st Amendment Sits At The Forefront In An Election Year ",
@@ -82,12 +123,28 @@
         "ATC Track": "Hear My Voice",
         "ATC Artists": [
             "Celeste"
-        ]
+        ],
+        "Result Track Name": "Hear My Voice",
+        "Result Artist Names": [
+            "Celeste"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2kF70ZmMlQZNxiTedaXtnN",
+        "Result Album Name": "Hear My Voice"
     },
     {
         "ATC Track": "Battle of the Species",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "Battle of the Species",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2tnLw4qQuxhtJWnmlPQudK",
+        "Result Album Name": "Liberation Afro Beat Vol.1"
     }
 ]

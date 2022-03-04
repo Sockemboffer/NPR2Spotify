@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-07-04",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:05:45"
+        "Scanned Date": "2022-02-07 05:05:45",
+        "Playlist URI": "3F9c4sFbmhAtCOGu9ajglV",
+        "Playlist Link": "https://open.spotify.com/playlist/3F9c4sFbmhAtCOGu9ajglV",
+        "Snapshot ID": "MSw1YmZjNTI4MGMwMDY4MTlhODIwNTUyN2I0MDEzNGM5NjBkZDZkYzVk",
+        "Playlist Name": "ATC 2020-07-04 Sat All Things Considered"
     },
     {
         "Title": "The Latest Economic And Health Effects Of Pandemic",
@@ -23,13 +27,29 @@
         "ATC Artists": [
             "Kero One",
             "Hero One"
-        ]
+        ],
+        "Result Track Name": "My Story",
+        "Result Artist Names": [
+            "Kero One"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:3WADaGMFHQzzyPf7eZkhlE",
+        "Result Album Name": "Windmills of the Soul"
     },
     {
         "ATC Track": "Take My Time",
         "ATC Artists": [
             "Skinshape"
-        ]
+        ],
+        "Result Track Name": "Take My Time",
+        "Result Artist Names": [
+            "Skinshape"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5ooWGAzXs3fU7eKHCrwZyd",
+        "Result Album Name": "Life & Love"
     },
     {
         "Title": "Behind Reddit's Decision To Boot 'The_Donald' Forum",
@@ -53,7 +73,15 @@
         "ATC Track": "We Were Never There",
         "ATC Artists": [
             "Nym"
-        ]
+        ],
+        "Result Track Name": "We Were Never There",
+        "Result Artist Names": [
+            "Nym"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3q8v2g0NIJaRZLL1Jbuexm",
+        "Result Album Name": "Convex"
     },
     {
         "Title": "A Competition To Finish Louisa May Alcott's Story",
@@ -65,13 +93,28 @@
         "ATC Track": "Maria Redowa",
         "ATC Artists": [
             "London Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Gidget",
         "ATC Artists": [
             "Free Nationals"
-        ]
+        ],
+        "Result Track Name": "Gidget",
+        "Result Artist Names": [
+            "Free Nationals",
+            "Anderson .Paak",
+            "T.Nava"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1UrxBDCv9kDRIBUc2oskNR",
+        "Result Album Name": "Free Nationals"
     },
     {
         "Title": "With Fleets Of Planes, Artists Take To Skies Nationwide To Protest Mass Detention",
@@ -89,12 +132,25 @@
         "ATC Track": "The Fall",
         "ATC Artists": [
             "Rhye"
-        ]
+        ],
+        "Result Track Name": "The Fall",
+        "Result Artist Names": [
+            "Rhye"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:35yZkNFNVosiHE6Uj0COVM",
+        "Result Album Name": "Woman"
     },
     {
         "ATC Track": "Feathers",
         "ATC Artists": [
             "Little Dragon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-11-29",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:00:41"
+        "Scanned Date": "2022-02-07 05:00:41",
+        "Playlist URI": "7crD1piMGYDGIePydc2EiG",
+        "Playlist Link": "https://open.spotify.com/playlist/7crD1piMGYDGIePydc2EiG",
+        "Snapshot ID": "MSw2MDY0YzllMTE1MGM4Y2Q5ODAwOGU1YTk5OTZlOGJjNzJjNWY3YTMw",
+        "Playlist Name": "ATC 2020-11-29 Sun All Things Considered"
     },
     {
         "Title": "Traveling Crisis Nurse Fears Post-Holiday COVID-19 Surge",
@@ -22,14 +26,31 @@
         "ATC Track": "Jeans No Mos",
         "ATC Artists": [
             "Hai Le"
-        ]
+        ],
+        "Result Track Name": "Jeans No Mos",
+        "Result Artist Names": [
+            "Hai Le"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3QE88QUpTideFViM4Occ6t",
+        "Result Album Name": "The Blossoming"
     },
     {
         "ATC Track": "All the Stars",
         "ATC Artists": [
             "Kendrick Lamar",
             "SZA"
-        ]
+        ],
+        "Result Track Name": "All The Stars (with SZA)",
+        "Result Artist Names": [
+            "Kendrick Lamar",
+            "SZA"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3GCdLUSnKSMJhs4Tj6CV3s",
+        "Result Album Name": "Black Panther The Album Music From And Inspired By"
     },
     {
         "Title": "The Doorbuster 'Black Friday' Stretches Into Online Sales Events",
@@ -54,7 +75,16 @@
         "ATC Artists": [
             "Galactic",
             "Princess Shaw"
-        ]
+        ],
+        "Result Track Name": "Going Straight Crazy (feat. Princess Shaw)",
+        "Result Artist Names": [
+            "Galactic",
+            "Princess Shaw"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0nmQsK1Rx4aifIIY8JLDXR",
+        "Result Album Name": "Already Ready Already"
     },
     {
         "Title": "Online Games For The Whole Family",
@@ -67,11 +97,24 @@
         "ATC Artists": [
             "George Thorogood",
             "the Destroyers"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Sandman",
-        "ATC Artists": " "
+        "ATC Artists": " ",
+        "Result Track Name": "Enter Sandman (Remastered)",
+        "Result Artist Names": [
+            "Metallica"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3VqHuw0wFlIHcIPWkhIbdQ",
+        "Result Album Name": "Metallica (Remastered)"
     },
     {
         "Title": "NFL Sees Fewer Injuries, More Recoveries In 2020",
@@ -89,12 +132,28 @@
         "ATC Track": "Candy Cane Lane",
         "ATC Artists": [
             "Sia"
-        ]
+        ],
+        "Result Track Name": "Candy Cane Lane",
+        "Result Artist Names": [
+            "Sia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4KevTcBXEIYxXVyPE78XXm",
+        "Result Album Name": "Everyday Is Christmas (Deluxe Edition)"
     },
     {
         "ATC Track": "Battle of the Species",
         "ATC Artists": [
             "Antibalas Afrobeat Orchestra"
-        ]
+        ],
+        "Result Track Name": "Battle of the Species",
+        "Result Artist Names": [
+            "Antibalas"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:2tnLw4qQuxhtJWnmlPQudK",
+        "Result Album Name": "Liberation Afro Beat Vol.1"
     }
 ]

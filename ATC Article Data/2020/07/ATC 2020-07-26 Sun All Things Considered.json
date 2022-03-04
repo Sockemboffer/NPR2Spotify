@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-07-26",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:06:46"
+        "Scanned Date": "2022-02-07 05:06:46",
+        "Playlist URI": "6zdm7trPOBiQ1VlBSFmCN4",
+        "Playlist Link": "https://open.spotify.com/playlist/6zdm7trPOBiQ1VlBSFmCN4",
+        "Snapshot ID": "MSwxOWRlNzZlNDdkYzM0OTVjYWUwNDA1NjVlYzdhNzI1NDA4NjQ1ZDBh",
+        "Playlist Name": "ATC 2020-07-26 Sun All Things Considered"
     },
     {
         "Title": "Late John Lewis' Final Trip Across The Edmund Pettus Bridge",
@@ -28,13 +32,29 @@
         "ATC Track": "Frostbit",
         "ATC Artists": [
             "Oddisee"
-        ]
+        ],
+        "Result Track Name": "Frostbit",
+        "Result Artist Names": [
+            "Oddisee"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:25nqS29EIpVoPv2c2fSrxA",
+        "Result Album Name": "Odd Seasons"
     },
     {
         "ATC Track": "'til You Can't Get Enough",
         "ATC Artists": [
             "Harem"
-        ]
+        ],
+        "Result Track Name": "'til You Can't Get Enough",
+        "Result Artist Names": [
+            "Harem"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0FD7U87tpDZgNbkyGDC1i7",
+        "Result Album Name": "Harem"
     },
     {
         "Title": "Bread For The World President On Asking Rep. Yoho To Resign",
@@ -52,7 +72,15 @@
         "ATC Track": "Life as One",
         "ATC Artists": [
             "Skinshape"
-        ]
+        ],
+        "Result Track Name": "Life as One",
+        "Result Artist Names": [
+            "Skinshape"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1QH0BPsNnfZWCV6TTE7rm8",
+        "Result Album Name": "Filoxiny"
     },
     {
         "Title": "On Zoom, Stand-Up Comedian Nore Davis Turns 'Pain Into A Joke'",
@@ -64,13 +92,30 @@
         "ATC Track": "Encore",
         "ATC Artists": [
             "Jay-Z"
-        ]
+        ],
+        "Result Track Name": "Numb / Encore",
+        "Result Artist Names": [
+            "JAY-Z",
+            "Linkin Park"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5sNESr6pQfIhL3krM8CtZn",
+        "Result Album Name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course"
     },
     {
         "ATC Track": "Coming into Los Angeles",
         "ATC Artists": [
             "Arlo Guthrie"
-        ]
+        ],
+        "Result Track Name": "Coming into Los Angeles - Remastered",
+        "Result Artist Names": [
+            "Arlo Guthrie"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7vCAPGfk46iIyikreugUay",
+        "Result Album Name": "Running Down the Road (Remastered)"
     },
     {
         "Title": "In Reopening, The Smithsonian Looks To Balance Safety And Disability Access",
@@ -94,12 +139,25 @@
         "ATC Track": "Tülpa",
         "ATC Artists": [
             "Summer Song"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Crying Guitar (AKA Surfer's Lament)",
         "ATC Artists": [
             "The Lively Ones"
-        ]
+        ],
+        "Result Track Name": "Crying Guitar (aka Surfer's Lament)",
+        "Result Artist Names": [
+            "The Lively Ones"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6uNvF2zNyercjW6VEmZ46s",
+        "Result Album Name": "Surf Rider"
     }
 ]

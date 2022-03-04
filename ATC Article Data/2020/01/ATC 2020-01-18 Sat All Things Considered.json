@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-01-18",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:16:58"
+        "Scanned Date": "2022-02-07 05:16:58",
+        "Playlist URI": "57BJoxtSdGzRZgiG4HFeRj",
+        "Playlist Link": "https://open.spotify.com/playlist/57BJoxtSdGzRZgiG4HFeRj",
+        "Snapshot ID": "MSwzYTY5NTk3MTdiZjJiODdmMTUwYzgzZWFmNjA0ZTRjOTIxOWQ4OWQz",
+        "Playlist Name": "ATC 2020-01-18 Sat All Things Considered"
     },
     {
         "Title": "White House Responds To Impeachment Trial Summons",
@@ -28,13 +32,26 @@
         "ATC Track": "We Are Never Ever Getting Back Together",
         "ATC Artists": [
             "Taylor Swift"
-        ]
+        ],
+        "Result Track Name": "We Are Never Ever Getting Back Together",
+        "Result Artist Names": [
+            "Taylor Swift"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0VwNdo84DaVYLIkbVO86ND",
+        "Result Album Name": "Red (Big Machine Radio Release Special)"
     },
     {
         "ATC Track": "Honeybee",
         "ATC Artists": [
             "Unknown Mortal Orchestra"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Migrant Caravan Met With Tougher Mexico Border Security",
@@ -52,7 +69,15 @@
         "ATC Track": "Firewalker",
         "ATC Artists": [
             "Jungle Fire"
-        ]
+        ],
+        "Result Track Name": "Firewalker",
+        "Result Artist Names": [
+            "Jungle Fire"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Z4XkmFoBssigIBXHGTP9S",
+        "Result Album Name": "Tropicoso"
     },
     {
         "Title": "How To Spot Misinformation In An Election Year",
@@ -65,14 +90,31 @@
         "ATC Artists": [
             "Amadou",
             "Mariam"
-        ]
+        ],
+        "Result Track Name": "M' Bife Balafon",
+        "Result Artist Names": [
+            "Amadou & Mariam"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5c0SnA0e8bWtNDBlreO2jx",
+        "Result Album Name": "Dimanche a Bamako"
     },
     {
         "ATC Track": "Empire Ants",
         "ATC Artists": [
             "Gorillaz",
             "Little Dragon"
-        ]
+        ],
+        "Result Track Name": "Empire Ants (feat. Little Dragon)",
+        "Result Artist Names": [
+            "Gorillaz",
+            "Little Dragon"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3a6PN6BRB8PP3ms48s7kU1",
+        "Result Album Name": "Plastic Beach"
     },
     {
         "Title": "U.S.-China Trade Deal Implications",
@@ -96,7 +138,15 @@
         "ATC Track": "Crazy in Love [Album Version]",
         "ATC Artists": [
             "Beyoncé"
-        ]
+        ],
+        "Result Track Name": "Crazy In Love - Remix",
+        "Result Artist Names": [
+            "Beyoncé"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2f4IuijXLxYOeBncS60GUD",
+        "Result Album Name": "Crazy In Love (Remix)"
     },
     {
         "ATC Track": "Wow Thing",
@@ -105,6 +155,17 @@
             "SinB",
             "CHUNG HA",
             "Soyeon of (G)I-dle"
-        ]
+        ],
+        "Result Track Name": "Wow Thing",
+        "Result Artist Names": [
+            "SEULGI",
+            "CHUNG HA",
+            "SinB",
+            "JEON SOYEON"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5333333333333333,
+        "Result Track URI": "spotify:track:5MwfxCtqMFGYp9Nc1BkTrS",
+        "Result Album Name": "Wow Thing"
     }
 ]

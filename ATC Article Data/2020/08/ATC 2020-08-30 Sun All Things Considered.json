@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-08-30",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:05:29"
+        "Scanned Date": "2022-02-07 05:05:29",
+        "Playlist URI": "5AVINWuPgltE97fqgvgJ51",
+        "Playlist Link": "https://open.spotify.com/playlist/5AVINWuPgltE97fqgvgJ51",
+        "Snapshot ID": "MSw2YjQzMWJlODVlMTk0ZTMxNTU3MzYwODZlY2UxMTk4ZDBkZjQ3Zjlj",
+        "Playlist Name": "ATC 2020-08-30 Sun All Things Considered"
     },
     {
         "Title": "Sen. Mark Warner On DNI's Move To End In-Person Election Security Briefings",
@@ -22,13 +26,29 @@
         "ATC Track": "Stars",
         "ATC Artists": [
             "Yosi Horikawa"
-        ]
+        ],
+        "Result Track Name": "Stars",
+        "Result Artist Names": [
+            "Yosi Horikawa"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0k7UbZFOcNSebBda0H52rT",
+        "Result Album Name": "Vapor"
     },
     {
         "ATC Track": "Lights Out",
         "ATC Artists": [
             "Menehan Street Band"
-        ]
+        ],
+        "Result Track Name": "Lights Out",
+        "Result Artist Names": [
+            "Menahan Street Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:5aqR0sE4AVaycHGVVjoZmx",
+        "Result Album Name": "The Crossing"
     },
     {
         "Title": "1 Fatally Shot As Pro-Trump Ralliers Clash With Protesters",
@@ -52,7 +72,12 @@
         "ATC Track": "Fairy Tale",
         "ATC Artists": [
             "Taku"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "How Climate Change Is Fueling Hurricanes And Wildfires",
@@ -65,13 +90,30 @@
         "ATC Artists": [
             "Emancipator",
             "9 Theory"
-        ]
+        ],
+        "Result Track Name": "Chameleon",
+        "Result Artist Names": [
+            "Emancipator",
+            "9 Theory"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5Mxb81Q382KxH7BUGjvfCr",
+        "Result Album Name": "Chameleon"
     },
     {
         "ATC Track": "Genesis",
         "ATC Artists": [
             "Grimes"
-        ]
+        ],
+        "Result Track Name": "Genesis",
+        "Result Artist Names": [
+            "Grimes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3cjvqsvvU80g7WJPMVh8iq",
+        "Result Album Name": "Visions"
     },
     {
         "Title": "Former White Nationalist On RNC's Racial Rhetoric",
@@ -95,12 +137,28 @@
         "ATC Track": "Buttered Popcorn",
         "ATC Artists": [
             "The Supremes"
-        ]
+        ],
+        "Result Track Name": "Buttered Popcorn - Mono Version",
+        "Result Artist Names": [
+            "The Supremes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:39xGNeoAhTcJTsLYB8xDMh",
+        "Result Album Name": "Meet The Supremes - Expanded Edition"
     },
     {
         "ATC Track": "People Everywhere (Still Alive)",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "People Everywhere (Still Alive)",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OQ1V0e2O56AeIo4ywuYKF",
+        "Result Album Name": "The Universe Smiles Upon You"
     }
 ]

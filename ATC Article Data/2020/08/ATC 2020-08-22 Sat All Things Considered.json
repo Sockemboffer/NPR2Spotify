@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-08-22",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:05:09"
+        "Scanned Date": "2022-02-07 05:05:09",
+        "Playlist URI": "0FBi899xT0cUOyYKgOmzYC",
+        "Playlist Link": "https://open.spotify.com/playlist/0FBi899xT0cUOyYKgOmzYC",
+        "Snapshot ID": "MSw4ODI0N2U0N2IzZDdhYzM4ZDYzNjM1YjlmNzE2YjhhYTcxMTZkZjMz",
+        "Playlist Name": "ATC 2020-08-22 Sat All Things Considered"
     },
     {
         "Title": "Senator Who Launched USPS Investigation Unsatisfied By DeJoy's Testimony",
@@ -22,13 +26,29 @@
         "ATC Track": "Silver Plain",
         "ATC Artists": [
             "Thrupence"
-        ]
+        ],
+        "Result Track Name": "Silver Plain",
+        "Result Artist Names": [
+            "Thrupence"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6yeqtMmavYxB7R342tsTVo",
+        "Result Album Name": "Unfinished Business"
     },
     {
         "ATC Track": "Roller",
         "ATC Artists": [
             "Quilt"
-        ]
+        ],
+        "Result Track Name": "Roller",
+        "Result Artist Names": [
+            "Quilt"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5di8kYa0GOK3wEI0ZECcXL",
+        "Result Album Name": "Plaza"
     },
     {
         "Title": "What Young DNC Delegates Want From Their Party's Platform",
@@ -47,7 +67,15 @@
         "ATC Artists": [
             "Protassov",
             "Kabanjak"
-        ]
+        ],
+        "Result Track Name": "Blues Encore",
+        "Result Artist Names": [
+            "Kabanjak"
+        ],
+        "Result Track-Match Percent": 0.8,
+        "Result Artists-Match Percent": 0.6666666666666666,
+        "Result Track URI": "spotify:track:0YcQD9fBH47XKEhgCgiKFV",
+        "Result Album Name": "Grow (feat. The Jungle Brothers)"
     },
     {
         "Title": "College Football This Fall Could Create Legal Troubles For NCAA",
@@ -60,13 +88,30 @@
         "ATC Artists": [
             "Fkj",
             "Tom Misch"
-        ]
+        ],
+        "Result Track Name": "Losing My Way",
+        "Result Artist Names": [
+            "FKJ",
+            "Tom Misch"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4yMT3mbUsiukLDRqPfQ9rN",
+        "Result Album Name": "Losing My Way"
     },
     {
         "ATC Track": "Colorvision",
         "ATC Artists": [
             "Com Truise"
-        ]
+        ],
+        "Result Track Name": "Colorvision",
+        "Result Artist Names": [
+            "Com Truise"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Q9OymR2MIpvRQAzRzjbb1",
+        "Result Album Name": "In Decay"
     },
     {
         "Title": "NAACP Legal Defense Fund Challenges Police Union Contracts",
@@ -84,12 +129,28 @@
         "ATC Track": "Who Lives, Who Dies, Who Tells Your Story",
         "ATC Artists": [
             "Hamilton Cast"
-        ]
+        ],
+        "Result Track Name": "Who Lives, Who Dies, Who Tells Your Story",
+        "Result Artist Names": [
+            "Original Broadway Cast of Hamilton"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EsSVPxaYoAZjQwhspJBs2",
+        "Result Album Name": "Hamilton (Original Broadway Cast Recording)"
     },
     {
         "ATC Track": "Oyibo",
         "ATC Artists": [
             "Hypnotic Brass Ensemble"
-        ]
+        ],
+        "Result Track Name": "Oyibo",
+        "Result Artist Names": [
+            "Hypnotic Brass Ensemble"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0wnmq8r5uz4nO8hQfOyUuh",
+        "Result Album Name": "Sound Rhythm & Form"
     }
 ]

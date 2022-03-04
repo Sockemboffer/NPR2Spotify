@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-12-12",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 04:57:45"
+        "Scanned Date": "2022-02-07 04:57:45",
+        "Playlist URI": "02vlwgihRF4Wml1I0RMvRv",
+        "Playlist Link": "https://open.spotify.com/playlist/02vlwgihRF4Wml1I0RMvRv",
+        "Snapshot ID": "MSw0NDIyZmEyZGE1Y2Q4MmUyNmE0N2VkNWMzYmNhYTJkNjk2NDdlZDBi",
+        "Playlist Name": "ATC 2020-12-12 Sat All Things Considered"
     },
     {
         "Title": "Finding A Way To Collectively Grieve The Lives Lost To COVID-19",
@@ -16,13 +20,29 @@
         "ATC Track": "Sanctum",
         "ATC Artists": [
             "Reki"
-        ]
+        ],
+        "Result Track Name": "Sanctum",
+        "Result Artist Names": [
+            "Reki"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:75z4OoyQdfGhfKJZIPrMhK",
+        "Result Album Name": "Endless Memories"
     },
     {
         "ATC Track": "Birds",
         "ATC Artists": [
             "Menahan Street Band"
-        ]
+        ],
+        "Result Track Name": "Birds",
+        "Result Artist Names": [
+            "Menahan Street Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0EvJu7hHKyr93ll3UQd2ay",
+        "Result Album Name": "Make the Road By Walking"
     },
     {
         "Title": "Distribution Begins For 1st Coronavirus Vaccine. What's Next?",
@@ -46,7 +66,15 @@
         "ATC Track": "Real Feast",
         "ATC Artists": [
             "Singularis"
-        ]
+        ],
+        "Result Track Name": "Real Feast",
+        "Result Artist Names": [
+            "Singularis"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7iB6JSX3Rk9a9Ltw3AC6gS",
+        "Result Album Name": "The Mood Section"
     },
     {
         "Title": "Canadians In 'Atlantic Bubble' Take Drastic Measures To Keep Infections Low",
@@ -58,13 +86,29 @@
         "ATC Track": "You Wish",
         "ATC Artists": [
             "Nightmares on Wax"
-        ]
+        ],
+        "Result Track Name": "You Wish",
+        "Result Artist Names": [
+            "Nightmares On Wax"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2MddqD0MryxIAKS03raHsz",
+        "Result Album Name": "In A Space Outta Sound"
     },
     {
         "ATC Track": "Merry Christmas Baby",
         "ATC Artists": [
             "Chuck Berry"
-        ]
+        ],
+        "Result Track Name": "Merry Christmas Baby",
+        "Result Artist Names": [
+            "Chuck Berry"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mBqSjoj9R22gct558sIgG",
+        "Result Album Name": "St. Louis To Liverpool"
     },
     {
         "Title": "What Jason Williams Wants To Accomplish As New Orleans District Attorney",
@@ -88,12 +132,30 @@
         "ATC Track": "Sleigh Ride",
         "ATC Artists": [
             "Atlanta Symphony Orchestra"
-        ]
+        ],
+        "Result Track Name": "Sleigh Ride",
+        "Result Artist Names": [
+            "Bing Crosby",
+            "London Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:21HibwdxGQB9cxNXNyUFrC",
+        "Result Album Name": "Bing At Christmas"
     },
     {
         "ATC Track": "Swingin' Joy",
         "ATC Artists": [
             "The Brian Setzer Orchestra"
-        ]
+        ],
+        "Result Track Name": "Swingin' Joy",
+        "Result Artist Names": [
+            "The Brian Setzer Orchestra",
+            "Brian Setzer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4mGd4HbKYBwIOr4Hc9bAXt",
+        "Result Album Name": "Rockin' Rudolph"
     }
 ]

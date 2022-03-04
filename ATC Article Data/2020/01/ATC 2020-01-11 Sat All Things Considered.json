@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-01-11",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:16:36"
+        "Scanned Date": "2022-02-07 05:16:36",
+        "Playlist URI": "3rrOzdfjM3rr39C7UTj4uh",
+        "Playlist Link": "https://open.spotify.com/playlist/3rrOzdfjM3rr39C7UTj4uh",
+        "Snapshot ID": "MSwwMjBmZGIzZjBmMTlkNmY3ZTE2YTBlMGY3NDBjOTA2YTcyYzMyN2I3",
+        "Playlist Name": "ATC 2020-01-11 Sat All Things Considered"
     },
     {
         "Title": "Iran Admits To Shooting Down Ukraine Plane By Mistake",
@@ -23,13 +27,31 @@
         "ATC Artists": [
             "Ghostface Killah",
             "Raekwon"
-        ]
+        ],
+        "Result Track Name": "Blackout",
+        "Result Artist Names": [
+            "Ghostface Killah",
+            "Adrian Younge",
+            "Raekwon"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 0.75,
+        "Result Track URI": "spotify:track:1OqzXJrCUWQOmouC9C0bMn",
+        "Result Album Name": "Adrian Younge Presents: 12 Reasons To Die II"
     },
     {
         "ATC Track": "Savane",
         "ATC Artists": [
             "Ali Farka Touré"
-        ]
+        ],
+        "Result Track Name": "Savane",
+        "Result Artist Names": [
+            "Ali Farka Touré"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Ya5bHuA3kyiePOhIQfQtW",
+        "Result Album Name": "Savane"
     },
     {
         "Title": "U.S. Protests Iraq's Call To Withdraw American Troops",
@@ -53,7 +75,15 @@
         "ATC Track": "Bad Bad News",
         "ATC Artists": [
             "Leon Bridges"
-        ]
+        ],
+        "Result Track Name": "Bad Bad News",
+        "Result Artist Names": [
+            "Leon Bridges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7FxzgizJRGTQ3fxUqfvljg",
+        "Result Album Name": "Good Thing"
     },
     {
         "Title": "You Don't Have To Go No-Carb: Instead, Think Slow Carb",
@@ -65,13 +95,29 @@
         "ATC Track": "Love Come Down",
         "ATC Artists": [
             "Evelyn \"Champagne\" King"
-        ]
+        ],
+        "Result Track Name": "Love Come Down",
+        "Result Artist Names": [
+            "Evelyn \"Champagne\" King"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0Of5lCNEqh62twRkQIOLuK",
+        "Result Album Name": "Love Come Down: The Best of Evelyn \"Champagne\" King"
     },
     {
         "ATC Track": "Approaching Pavonis Mons By Balloon (Utopia Planitia)",
         "ATC Artists": [
             "The Flaming Lips"
-        ]
+        ],
+        "Result Track Name": "Approaching Pavonis Mons by Balloon (Utopia Planitia)",
+        "Result Artist Names": [
+            "The Flaming Lips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zq5lyei1uoskShdtxQO1o",
+        "Result Album Name": "Yoshimi Battles the Pink Robots"
     },
     {
         "Title": "Troll Watch: AI Ethics",
@@ -89,6 +135,14 @@
         "ATC Track": "Odyssée",
         "ATC Artists": [
             "L'Impératrice"
-        ]
+        ],
+        "Result Track Name": "Odyssée",
+        "Result Artist Names": [
+            "L'Impératrice"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3vDJUlhCEqZLyRQVbsWsEI",
+        "Result Album Name": "Odyssée - EP"
     }
 ]

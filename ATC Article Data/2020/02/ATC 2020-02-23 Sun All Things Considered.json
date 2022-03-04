@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-02-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:15:37"
+        "Scanned Date": "2022-02-07 05:15:37",
+        "Playlist URI": "1iRacHExb1xkJcb9iqMOAc",
+        "Playlist Link": "https://open.spotify.com/playlist/1iRacHExb1xkJcb9iqMOAc",
+        "Snapshot ID": "MSxhMDg0NDMyN2YyNTVhMmJlZWFmMTkyNjExNzM5ZTE5YTZkZWZjZjgz",
+        "Playlist Name": "ATC 2020-02-23 Sun All Things Considered"
     },
     {
         "Title": "South Carolina Primary Lookahead",
@@ -22,7 +26,15 @@
         "ATC Track": "Babe",
         "ATC Artists": [
             "Evenings"
-        ]
+        ],
+        "Result Track Name": "Babe",
+        "Result Artist Names": [
+            "Evenings"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7nfGqsJl4A3lXApUI0YIFA",
+        "Result Album Name": "Yore"
     },
     {
         "Title": "Barbershop: AOC's Launches Progressive PAC",
@@ -40,7 +52,15 @@
         "ATC Track": "Night Trouble",
         "ATC Artists": [
             "Petit Biscuit"
-        ]
+        ],
+        "Result Track Name": "Night Trouble",
+        "Result Artist Names": [
+            "Petit Biscuit"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5LLtNp8qc3NaCIieZ2W4Dk",
+        "Result Album Name": "Night Trouble"
     },
     {
         "Title": "NAACP Image Awards Recognizes Artists Snubbed By Mainstream",
@@ -52,13 +72,29 @@
         "ATC Track": "Good As Hell",
         "ATC Artists": [
             "Lizzo"
-        ]
+        ],
+        "Result Track Name": "Good as Hell",
+        "Result Artist Names": [
+            "Lizzo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6KgBpzTuTRPebChN0VTyzV",
+        "Result Album Name": "Cuz I Love You (Super Deluxe)"
     },
     {
         "ATC Track": "Fig in Leather",
         "ATC Artists": [
             "Devendra Banhart"
-        ]
+        ],
+        "Result Track Name": "Fig in Leather",
+        "Result Artist Names": [
+            "Devendra Banhart"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Xx7wl3Na741ZuuF0pndp7",
+        "Result Album Name": "Ape in Pink Marble"
     },
     {
         "Title": "Pregnant Asylum-Seekers Barred From U.S. Entry For Court Hearings",
@@ -82,6 +118,14 @@
         "ATC Track": "Overture [Instrumental]",
         "ATC Artists": [
             "Original Soundtrack"
-        ]
+        ],
+        "Result Track Name": "Overture",
+        "Result Artist Names": [
+            "Original Soundtrack"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2BGw4uNKkTZJhomLUmpwVB",
+        "Result Album Name": "Sodom & Gomorrah"
     }
 ]

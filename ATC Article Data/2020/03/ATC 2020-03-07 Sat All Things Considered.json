@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-03-07",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:13:01"
+        "Scanned Date": "2022-02-07 05:13:01",
+        "Playlist URI": "0d8ikbAw1zo7ZMLkOJHfxa",
+        "Playlist Link": "https://open.spotify.com/playlist/0d8ikbAw1zo7ZMLkOJHfxa",
+        "Snapshot ID": "MSw4ODA3ZjRkNWNiZGRiMjg4MDEzM2RlNmEwZTgyMzNjMDYyMjgwODEx",
+        "Playlist Name": "ATC 2020-03-07 Sat All Things Considered"
     },
     {
         "Title": "Coronavirus: Seattle Mayor Jenny Durkan",
@@ -28,13 +32,30 @@
         "ATC Track": "Synchronicity",
         "ATC Artists": [
             "Castanea"
-        ]
+        ],
+        "Result Track Name": "Synchronicity",
+        "Result Artist Names": [
+            "Castanea",
+            "Rising Appalachia"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6w3ebsBeM2Zw80Ed6xMeYR",
+        "Result Album Name": "Remast"
     },
     {
         "ATC Track": "Bees",
         "ATC Artists": [
             "Caribou"
-        ]
+        ],
+        "Result Track Name": "Bees",
+        "Result Artist Names": [
+            "Caribou"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3rN3BHWnlvRkXIhE7KGbSU",
+        "Result Album Name": "The Milk of Human Kindness"
     },
     {
         "Title": "Student Voters In Washington State",
@@ -46,7 +67,15 @@
         "ATC Track": "I'm Green",
         "ATC Artists": [
             "RJD2"
-        ]
+        ],
+        "Result Track Name": "I'm Green (Instrumental Version)",
+        "Result Artist Names": [
+            "RJD2"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6NFBLortDTLtT4ZO59FftY",
+        "Result Album Name": "The Abandoned Lullaby - Instrumentals"
     },
     {
         "Title": "Iran Sanctions Aggravate Coronavirus Crisis",
@@ -58,13 +87,29 @@
         "ATC Track": "Ms. Ho",
         "ATC Artists": [
             "Onra"
-        ]
+        ],
+        "Result Track Name": "Ms. Ho",
+        "Result Artist Names": [
+            "Onra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6Ns2JyCa5xtANadq8gJ67u",
+        "Result Album Name": "Chinoiseries pt 2"
     },
     {
         "ATC Track": "Old Graffiti",
         "ATC Artists": [
             "Bibio"
-        ]
+        ],
+        "Result Track Name": "Old Graffiti",
+        "Result Artist Names": [
+            "Bibio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5XcDorvZjj05UPeU4NY3nu",
+        "Result Album Name": "Ribbons"
     },
     {
         "Title": "Congressional Candidate, Vancouver Democrat Carolyn Long",
@@ -88,12 +133,25 @@
         "ATC Track": "Rainbow Gratitute",
         "ATC Artists": [
             "Joy Harjo"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "People Everywhere (Still Alive)",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "People Everywhere (Still Alive)",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2OQ1V0e2O56AeIo4ywuYKF",
+        "Result Album Name": "The Universe Smiles Upon You"
     }
 ]

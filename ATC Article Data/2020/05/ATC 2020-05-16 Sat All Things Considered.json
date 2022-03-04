@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-05-16",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:09:35"
+        "Scanned Date": "2022-02-07 05:09:35",
+        "Playlist URI": "6s14u8buiyWv92LBSwza4Z",
+        "Playlist Link": "https://open.spotify.com/playlist/6s14u8buiyWv92LBSwza4Z",
+        "Snapshot ID": "MSw0ZmUzMjM0MDljMGM5MWJjMTA1ZDgzMWFiYzFlNGFlN2QyNTY3MGUx",
+        "Playlist Name": "ATC 2020-05-16 Sat All Things Considered"
     },
     {
         "Title": "Trump Slams China Over Coronavirus, Ratcheting Up Hostilities",
@@ -22,13 +26,30 @@
         "ATC Track": "Alma",
         "ATC Artists": [
             "il:lo"
-        ]
+        ],
+        "Result Track Name": "Alma - Frameworks Remix",
+        "Result Artist Names": [
+            "il:lo",
+            "Frameworks"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2fU3Sszh7UEYsNGoJyt9aw",
+        "Result Album Name": "Sloh Remixes"
     },
     {
         "ATC Track": "Outlier",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Outlier",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6BbFwwHnzY74a8GOsDg8Sn",
+        "Result Album Name": "Migration"
     },
     {
         "Title": "Policing During The Coronavirus Crisis",
@@ -58,13 +79,26 @@
         "ATC Track": "Kondor",
         "ATC Artists": [
             "Tribute to Nujabes"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Eyes on the Prize",
         "ATC Artists": [
             "Mavis Staples"
-        ]
+        ],
+        "Result Track Name": "Eyes On The Prize",
+        "Result Artist Names": [
+            "Mavis Staples"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1POYn5JlZxJsJnymfVVIZD",
+        "Result Album Name": "We'll Never Turn Back"
     },
     {
         "Title": "Intensifying U.S.-China Tensions Could Hurt American Bike Supply",
@@ -89,12 +123,26 @@
         "ATC Artists": [
             "Charlie Puth",
             "Selena Gomez"
-        ]
+        ],
+        "Result Track Name": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "Result Artist Names": [
+            "Charlie Puth",
+            "Selena Gomez"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:37FXw5QGFN7uwwsLy8uAc0",
+        "Result Album Name": "Nine Track Mind"
     },
     {
         "ATC Track": "Te'amir",
         "ATC Artists": [
             "Habesha"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

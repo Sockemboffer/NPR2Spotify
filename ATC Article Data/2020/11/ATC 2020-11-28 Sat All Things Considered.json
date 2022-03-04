@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-11-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:00:39"
+        "Scanned Date": "2022-02-07 05:00:39",
+        "Playlist URI": "4Wmk3K8BMcHjqkcxVFWVEF",
+        "Playlist Link": "https://open.spotify.com/playlist/4Wmk3K8BMcHjqkcxVFWVEF",
+        "Snapshot ID": "MSw0MzkyNTc0ZGIxZGVmMzExMDc4YzQ2OTNjZTU4OGI3MjEyMzdlNDdm",
+        "Playlist Name": "ATC 2020-11-28 Sat All Things Considered"
     },
     {
         "Title": "A Look At Biden's Cabinet Picks",
@@ -22,13 +26,26 @@
         "ATC Track": "Patience",
         "ATC Artists": [
             "Antony Blinken"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Shakedown",
         "ATC Artists": [
             "Valerie June"
-        ]
+        ],
+        "Result Track Name": "Shakedown",
+        "Result Artist Names": [
+            "Valerie June"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6vyVxWBHLIqNdhy4IGz1LN",
+        "Result Album Name": "The Order Of Time"
     },
     {
         "Title": "Border Crossings, Expulsions Surge During Pandemic",
@@ -52,7 +69,15 @@
         "ATC Track": "A Gentle Dissolve",
         "ATC Artists": [
             "Thievery Corp"
-        ]
+        ],
+        "Result Track Name": "A Gentle Dissolve",
+        "Result Artist Names": [
+            "Thievery Corporation"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:0uPBJolEn505OX2G3BV9Hf",
+        "Result Album Name": "The Cosmic Game"
     },
     {
         "Title": "The Tough Road To Rebuild A Historic Cabin, Memories After Wildfire Ruin",
@@ -64,13 +89,29 @@
         "ATC Track": "Sandusky",
         "ATC Artists": [
             "Uncle Tupelo"
-        ]
+        ],
+        "Result Track Name": "Sandusky",
+        "Result Artist Names": [
+            "Uncle Tupelo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0rib9hiYy1NWL0w8BUYgmd",
+        "Result Album Name": "March 16-20, 1992"
     },
     {
         "ATC Track": "Girl",
         "ATC Artists": [
             "Jamie xx"
-        ]
+        ],
+        "Result Track Name": "Girl",
+        "Result Artist Names": [
+            "Jamie xx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0s2ziTuwyOfnpNbpctNwqO",
+        "Result Album Name": "In Colour"
     },
     {
         "Title": "The U.S. And Equitable Access To Menstruation Products",
@@ -88,12 +129,28 @@
         "ATC Track": "Seeds",
         "ATC Artists": [
             "Rissi Palmer"
-        ]
+        ],
+        "Result Track Name": "Seeds",
+        "Result Artist Names": [
+            "Rissi Palmer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1NijLAZEVZAvJGHE1RO9if",
+        "Result Album Name": "Revival"
     },
     {
         "ATC Track": "Gimme All Your Love",
         "ATC Artists": [
             "Alabama Shakes"
-        ]
+        ],
+        "Result Track Name": "Gimme All Your Love",
+        "Result Artist Names": [
+            "Alabama Shakes"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0npvf0i2Ywk5bJSVIs3GNm",
+        "Result Album Name": "Sound & Color (Deluxe)"
     }
 ]

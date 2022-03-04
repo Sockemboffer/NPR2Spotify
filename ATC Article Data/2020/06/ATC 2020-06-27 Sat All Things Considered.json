@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-06-27",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:08:32"
+        "Scanned Date": "2022-02-07 05:08:32",
+        "Playlist URI": "2NzMWuhLjEwoAL2ZhuEKdc",
+        "Playlist Link": "https://open.spotify.com/playlist/2NzMWuhLjEwoAL2ZhuEKdc",
+        "Snapshot ID": "MSxkNWEzNTE3YmVkODhmYzQwMDEzM2IyNzkxOWRlN2NhMWE1YzY1YTA4",
+        "Playlist Name": "ATC 2020-06-27 Sat All Things Considered"
     },
     {
         "Title": "Missouri Rural Hospital Braces For 'A Worse Surge' In COVID-19 Cases",
@@ -22,13 +26,26 @@
         "ATC Track": "Wave",
         "ATC Artists": [
             "Tulpa"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Hunnybee",
         "ATC Artists": [
             "Unknown Mortal Orchestra"
-        ]
+        ],
+        "Result Track Name": "Hunnybee",
+        "Result Artist Names": [
+            "Unknown Mortal Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6AAYNz8jXvVlgG9IpYi42Z",
+        "Result Album Name": "Sex & Food"
     },
     {
         "Title": "For Sen. Tim Kaine Of Virginia, Presidential Power Has Gone Too Far",
@@ -46,7 +63,15 @@
         "ATC Track": "Wake Up!",
         "ATC Artists": [
             "DECAP"
-        ]
+        ],
+        "Result Track Name": "Wake Up!",
+        "Result Artist Names": [
+            "DECAP"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:17t7OexaCBldQP7rbC1ViS",
+        "Result Album Name": "Wake Up!"
     },
     {
         "Title": "Black Doctors Say Pandemic Reveals Enduring Racial Inequity Medicine Alone Cannot Fix",
@@ -58,7 +83,15 @@
         "ATC Track": "Emblica Officinalis",
         "ATC Artists": [
             "MF Doom"
-        ]
+        ],
+        "Result Track Name": "Emblica Officinalis",
+        "Result Artist Names": [
+            "MF DOOM"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Jph7VTcvnlEYYtM1QpMyL",
+        "Result Album Name": "Metal Fingers Presents: Special Herbs, The Box Set Vol. 0 - 9"
     },
     {
         "Title": "Why A History Professor Says 'Racist' Emancipation Memorial Shouldn't Come Down",
@@ -82,12 +115,25 @@
         "ATC Track": "Breezin'",
         "ATC Artists": [
             "Boris Gardiner"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Father Bird, Mother Bird",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Father Bird, Mother Bird",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5AaqYl3nQu2ktZbXOIRGXp",
+        "Result Album Name": "Mordechai"
     }
 ]

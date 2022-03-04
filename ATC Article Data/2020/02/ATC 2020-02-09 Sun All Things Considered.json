@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-02-09",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:14:49"
+        "Scanned Date": "2022-02-07 05:14:49",
+        "Playlist URI": "7iPHXVNYx9rmNb5DVPQNKY",
+        "Playlist Link": "https://open.spotify.com/playlist/7iPHXVNYx9rmNb5DVPQNKY",
+        "Snapshot ID": "MSw4MTQyNGUxZTkwMmM5YjI2MTBhYTk1ZTFjYWI3Y2EwM2I3MzMxYzYx",
+        "Playlist Name": "ATC 2020-02-09 Sun All Things Considered"
     },
     {
         "Title": "New Hampshire Primary Lookahead",
@@ -28,13 +32,30 @@
         "ATC Track": "Cirrus",
         "ATC Artists": [
             "Bonobo"
-        ]
+        ],
+        "Result Track Name": "Cirrus",
+        "Result Artist Names": [
+            "Bonobo"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2lJ4d8MCT6ZlDRHKJ1br14",
+        "Result Album Name": "The North Borders"
     },
     {
         "ATC Track": "Say My Name",
         "ATC Artists": [
             "ODESZA feat. Zyra"
-        ]
+        ],
+        "Result Track Name": "Say My Name (feat. Zyra)",
+        "Result Artist Names": [
+            "ODESZA",
+            "Zyra"
+        ],
+        "Result Track-Match Percent": 0.75,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:1LeItUMezKA1HdCHxYICed",
+        "Result Album Name": "In Return"
     },
     {
         "Title": "S.F. Mayor On Decision To Endorse Bloomberg",
@@ -58,13 +79,30 @@
         "ATC Track": "Off and On",
         "ATC Artists": [
             "SALES"
-        ]
+        ],
+        "Result Track Name": "Off and On",
+        "Result Artist Names": [
+            "SALES"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:40zaUOTsugX2NEBuJ6905s",
+        "Result Album Name": "Off and On"
     },
     {
         "ATC Track": "Tagada",
         "ATC Artists": [
             "Camel Power Club"
-        ]
+        ],
+        "Result Track Name": "Tagada",
+        "Result Artist Names": [
+            "Camel Power Club",
+            "Akin Yai"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:73LUbEDV52eiiMXkFM2Ibg",
+        "Result Album Name": "Sputnik II"
     },
     {
         "Title": "Tariffs On Nails Seek To Remedy Issues Caused By Earlier Tariffs",
@@ -77,7 +115,16 @@
         "ATC Artists": [
             "Khruangbin",
             "Leon Bridges"
-        ]
+        ],
+        "Result Track Name": "Texas Sun",
+        "Result Artist Names": [
+            "Khruangbin",
+            "Leon Bridges"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:24ntSW3QVJzR79lHAAOTaY",
+        "Result Album Name": "Texas Sun"
     },
     {
         "Title": "Colombia's FARC Rebels Laid Down Their Weapons, But A Growing Number Are Being Killed",
@@ -101,12 +148,28 @@
         "ATC Track": "Jungle",
         "ATC Artists": [
             "Tash Sultana"
-        ]
+        ],
+        "Result Track Name": "Jungle",
+        "Result Artist Names": [
+            "Tash Sultana"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3SkKLZFgKIY0DKX5Vro5jV",
+        "Result Album Name": "Jungle"
     },
     {
         "ATC Track": "Border on Border",
         "ATC Artists": [
             "Night Moves"
-        ]
+        ],
+        "Result Track Name": "Border On Border",
+        "Result Artist Names": [
+            "Night Moves"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7yhVm87pJ2vxvK9gntVcxm",
+        "Result Album Name": "Pennied Days"
     }
 ]

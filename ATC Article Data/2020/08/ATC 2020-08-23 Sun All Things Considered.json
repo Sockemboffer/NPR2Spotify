@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-08-23",
         "Day": "Sun",
-        "Scanned Date": "2022-02-07 05:05:11"
+        "Scanned Date": "2022-02-07 05:05:11",
+        "Playlist URI": "3IvAa1jYKYD5c0JrgXCS9C",
+        "Playlist Link": "https://open.spotify.com/playlist/3IvAa1jYKYD5c0JrgXCS9C",
+        "Snapshot ID": "MSxlYmM3OTgwZjI2ODYyYWNjYjY2YmE4ZmY4ODM3NmRkYzIwMTVkZDNh",
+        "Playlist Name": "ATC 2020-08-23 Sun All Things Considered"
     },
     {
         "Title": "Republican National Convention: What To Expect",
@@ -22,13 +26,29 @@
         "ATC Track": "Farewell",
         "ATC Artists": [
             "Little People"
-        ]
+        ],
+        "Result Track Name": "Farewell",
+        "Result Artist Names": [
+            "Little People"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6E8jmnPLecmLmMMaGHpO0S",
+        "Result Album Name": "We Are but Hunks of Wood"
     },
     {
         "ATC Track": "Thunder Chicken",
         "ATC Artists": [
             "The Mighty Imperials"
-        ]
+        ],
+        "Result Track Name": "Thunder Chicken",
+        "Result Artist Names": [
+            "The Mighty Imperials"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:30dT07fPNE28hqq8lZx2JH",
+        "Result Album Name": "Thunder Chicken"
     },
     {
         "Title": "Author Interview: 'True Or False'",
@@ -46,7 +66,15 @@
         "ATC Track": "Begin the Day",
         "ATC Artists": [
             "Yellowjacket"
-        ]
+        ],
+        "Result Track Name": "Begin the Day",
+        "Result Artist Names": [
+            "Yellowjacket"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3jDthIc8aKWOAUBygnS9xH",
+        "Result Album Name": "The Spectrum of Day"
     },
     {
         "Title": "Election Officials Work To Ease Fears Over Voting In A Pandemic",
@@ -58,7 +86,15 @@
         "ATC Track": "Peppy",
         "ATC Artists": [
             "The Mar-Keys"
-        ]
+        ],
+        "Result Track Name": "Peppy",
+        "Result Artist Names": [
+            "The Mar-Keys"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4Rlfq2exAf9FCSVWm3WVnF",
+        "Result Album Name": "Stax Instrumentals"
     },
     {
         "Title": "How Women Of Color In Politics Have Been Treated",
@@ -76,12 +112,25 @@
         "ATC Track": "Stand by Me",
         "ATC Artists": [
             "Prince Royce"
-        ]
+        ],
+        "Result Track Name": "Stand by Me",
+        "Result Artist Names": [
+            "Prince Royce"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0DQd0tWurMHUAv0cMnDELH",
+        "Result Album Name": "Prince Royce"
     },
     {
         "ATC Track": "Feathers",
         "ATC Artists": [
             "Little Dragon"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2020-03-28",
         "Day": "Sat",
-        "Scanned Date": "2022-02-07 05:14:08"
+        "Scanned Date": "2022-02-07 05:14:08",
+        "Playlist URI": "6VfQ2fjd499Ga8ZahNKe0o",
+        "Playlist Link": "https://open.spotify.com/playlist/6VfQ2fjd499Ga8ZahNKe0o",
+        "Snapshot ID": "MSw1ZTA1MTA2NmYyZjcyZTk2ZGY1ZjQ2Zjc4OTQwMTkzNzJhODdmZWU1",
+        "Playlist Name": "ATC 2020-03-28 Sat All Things Considered"
     },
     {
         "Title": "Trump Considers Quarantining East Coast Cities",
@@ -28,13 +32,26 @@
         "ATC Track": "Leo the Gemini, Pt. 1 [Leo, Pt. 1 2012 Update]",
         "ATC Artists": [
             "Damu the Fudgemunk"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "The Dap",
         "ATC Artists": [
             "The Cactus Channel"
-        ]
+        ],
+        "Result Track Name": "The Dap",
+        "Result Artist Names": [
+            "The Cactus Channel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:56jI8R386ma2EYRdeTZwTm",
+        "Result Album Name": "Pepper Snake / The Dap"
     },
     {
         "Title": "HHS Warns States Not To Put People With Disabilities At The Back Of The Line For Care",
@@ -59,7 +76,15 @@
         "ATC Artists": [
             "Daryl Hall",
             "John Oates"
-        ]
+        ],
+        "Result Track Name": "You Make My Dreams (Come True)",
+        "Result Artist Names": [
+            "Daryl Hall & John Oates"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4o6BgsqLIBViaGVbx5rbRk",
+        "Result Album Name": "Voices"
     },
     {
         "Title": "Who Feeds Fiona? Cincinnati Zookeepers Make Sure There Are No Hungry Hippos",
@@ -71,13 +96,29 @@
         "ATC Track": "Jungle",
         "ATC Artists": [
             "Jimi Hendrix"
-        ]
+        ],
+        "Result Track Name": "Jungle",
+        "Result Artist Names": [
+            "Jimi Hendrix"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4f5nUYzeUioPwNbz2mGx5S",
+        "Result Album Name": "Both Sides of the Sky"
     },
     {
         "ATC Track": "Approaching Pavonis Mons By Balloon (Utopia Planitia)",
         "ATC Artists": [
             "The Flaming Lips"
-        ]
+        ],
+        "Result Track Name": "Approaching Pavonis Mons by Balloon (Utopia Planitia)",
+        "Result Artist Names": [
+            "The Flaming Lips"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7zq5lyei1uoskShdtxQO1o",
+        "Result Album Name": "Yoshimi Battles the Pink Robots"
     },
     {
         "Title": "Joe Wicks' Fitness Tips For Self-Isolation",
@@ -101,12 +142,28 @@
         "ATC Track": "Stronghold",
         "ATC Artists": [
             "Habibi"
-        ]
+        ],
+        "Result Track Name": "Stronghold",
+        "Result Artist Names": [
+            "Habibi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0k3KHwVQN2sxZYv5lsGMCJ",
+        "Result Album Name": "Anywhere But Here"
     },
     {
         "ATC Track": "Lady and Man",
         "ATC Artists": [
             "Khruangbin"
-        ]
+        ],
+        "Result Track Name": "Lady and Man",
+        "Result Artist Names": [
+            "Khruangbin"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6sjxTY1gPbZXoF2h6YLZ9N",
+        "Result Album Name": "Con Todo El Mundo"
     }
 ]
