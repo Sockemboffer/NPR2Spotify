@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-02-19",
         "Day": "Sat",
-        "Scanned Date": "2022-03-08 08:22:40"
+        "Scanned Date": "2022-03-08 08:22:40",
+        "Playlist URI": "5nHfq2ktTGafCI4cE7JZnT",
+        "Playlist Link": "https://open.spotify.com/playlist/5nHfq2ktTGafCI4cE7JZnT",
+        "Snapshot ID": "MSw4YzA5OTYwOWIzNTlhZTgzOGQ5NWY3NWMyODM1ZTc2OTE2Mzc0ODQz",
+        "Playlist Name": "ATC 2022-02-19 Sat All Things Considered"
     },
     {
         "Title": "Harris meets with Zelensky in Munich",
@@ -22,7 +26,15 @@
         "ATC Track": "Gen Metal Grey",
         "ATC Artists": [
             "The Budos Band"
-        ]
+        ],
+        "Result Track Name": "Gun Metal Grey",
+        "Result Artist Names": [
+            "The Budos Band"
+        ],
+        "Result Track-Match Percent": 0.6666666666666666,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2xBMnos2JHuKgRGr0cSgK5",
+        "Result Album Name": "Gun Metal Grey"
     },
     {
         "Title": "Why Republicans are divided on support for Ukraine",
@@ -40,7 +52,15 @@
         "ATC Track": "Coolin'",
         "ATC Artists": [
             "Snazzy"
-        ]
+        ],
+        "Result Track Name": "Coolin'",
+        "Result Artist Names": [
+            "Snazzy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1FqyrPWyT5kPxS77IGkPku",
+        "Result Album Name": "Coolin'"
     },
     {
         "Title": "Women are the stars (and the victims) of the Beijing Olympics",
@@ -52,7 +72,12 @@
         "ATC Track": "Run the World",
         "ATC Artists": [
             "Beyonce"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Lawmakers want to ban discomfort in school. But Black history isn't always comfortable",
@@ -76,6 +101,17 @@
         "ATC Track": "Fidelio Op. 72",
         "ATC Artists": [
             "Beethoven"
-        ]
+        ],
+        "Result Track Name": "Fidelio op.72 - Edited Helga Lühning & Robert Didio / Act 1: Marsch",
+        "Result Artist Names": [
+            "Ludwig van Beethoven",
+            "Lucerne Festival Orchestra",
+            "Mahler Chamber Orchestra",
+            "Claudio Abbado"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:12VROyIddpneRzGIjBWvFg",
+        "Result Album Name": "Beethoven: An Exploration"
     }
 ]

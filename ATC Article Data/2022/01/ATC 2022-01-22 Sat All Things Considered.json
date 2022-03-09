@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-01-22",
         "Day": "Sat",
-        "Scanned Date": "2022-03-08 08:23:25"
+        "Scanned Date": "2022-03-08 08:23:25",
+        "Playlist URI": "3ZOdEH6n8vTDW4djFRtU57",
+        "Playlist Link": "https://open.spotify.com/playlist/3ZOdEH6n8vTDW4djFRtU57",
+        "Snapshot ID": "MSw1ZTJiNzEzY2RkMDU2ODA5NGM3OGMwZDM5YTY1ZGJiOTZiZjFmNjAx",
+        "Playlist Name": "ATC 2022-01-22 Sat All Things Considered"
     },
     {
         "Title": "Former NSA McMaster proposes climate policy to pressure Russia",
@@ -22,7 +26,15 @@
         "ATC Track": "It Was Warmer Then",
         "ATC Artists": [
             "Helios"
-        ]
+        ],
+        "Result Track Name": "It Was Warmer Then",
+        "Result Artist Names": [
+            "Helios"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0fJKwnxypaBAMEGEfCgEhQ",
+        "Result Album Name": "Yume"
     },
     {
         "ATC Track": "Woodstock",
@@ -30,7 +42,17 @@
             "Soul Food Horns",
             "dryhope",
             "yaspar"
-        ]
+        ],
+        "Result Track Name": "Woodstock",
+        "Result Artist Names": [
+            "Soul Food Horns",
+            "dryhope",
+            "Yasper"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.8,
+        "Result Track URI": "spotify:track:26vm8tYfXCHUxK8A3jFgBZ",
+        "Result Album Name": "Woodstock"
     },
     {
         "Title": "Catching up with the author of 'Journal For Jordan,' a memoir turned movie",
@@ -48,7 +70,15 @@
         "ATC Track": "Making Contact",
         "ATC Artists": [
             "Snazzy"
-        ]
+        ],
+        "Result Track Name": "Making Contact",
+        "Result Artist Names": [
+            "Snazzy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3TY9tPBry0wjW40ekQ6QWL",
+        "Result Album Name": "Making Contact"
     },
     {
         "Title": "What life is like for an 11-year-old",
@@ -60,13 +90,29 @@
         "ATC Track": "Albatross",
         "ATC Artists": [
             "Fleetwood Mac"
-        ]
+        ],
+        "Result Track Name": "Albatross - 2018 Master",
+        "Result Artist Names": [
+            "Fleetwood Mac"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3iTkd7x5X2LIVKu7JNwqHR",
+        "Result Album Name": "The Pious Bird of Good Omen"
     },
     {
         "ATC Track": "Them Changes",
         "ATC Artists": [
             "Thundercat"
-        ]
+        ],
+        "Result Track Name": "Them Changes",
+        "Result Artist Names": [
+            "Thundercat"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7CH99b2i1TXS5P8UUyWtnM",
+        "Result Album Name": "Drunk"
     },
     {
         "Title": "'Girl, Woman, Other' author Bernardine Evaristo on new memoir about perseverance",
@@ -85,13 +131,23 @@
         "ATC Artists": [
             "Blue Staeb",
             "Harleigh Blue"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Fall in Love (ft. Cicero)",
         "ATC Artists": [
             "Kaytranada",
             "Gold Link"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

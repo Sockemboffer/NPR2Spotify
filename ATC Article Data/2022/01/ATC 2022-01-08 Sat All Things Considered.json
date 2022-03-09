@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-01-08",
         "Day": "Sat",
-        "Scanned Date": "2022-03-08 08:23:01"
+        "Scanned Date": "2022-03-08 08:23:01",
+        "Playlist URI": "6pUJ8cQEAWi2jZQj3T7Gtt",
+        "Playlist Link": "https://open.spotify.com/playlist/6pUJ8cQEAWi2jZQj3T7Gtt",
+        "Snapshot ID": "MSw4ZjBiN2VmMjBkYjQ1MTE4Y2E4NmI2MTk3MmY3NzIwMGEwNTBkNzg1",
+        "Playlist Name": "ATC 2022-01-08 Sat All Things Considered"
     },
     {
         "Title": "Congress and the media after Jan. 6",
@@ -16,13 +20,30 @@
         "ATC Track": "Lost and Found",
         "ATC Artists": [
             "Dardust"
-        ]
+        ],
+        "Result Track Name": "Lost and Found (feat. Davide Rossi) - Piano and String Quintet",
+        "Result Artist Names": [
+            "Dardust",
+            "Davide Rossi"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3mOScU5PewyFED5zhzVSvd",
+        "Result Album Name": "Slow is (Piano and String Quintet)"
     },
     {
         "ATC Track": "Dark Side Riddim",
         "ATC Artists": [
             "Ezra Collective"
-        ]
+        ],
+        "Result Track Name": "Dark Side Riddim",
+        "Result Artist Names": [
+            "Ezra Collective"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5pIjTEPxQx4JJc14CkVlgf",
+        "Result Album Name": "Dark Side Riddim / Samuel L.Riddim"
     },
     {
         "Title": "CDC is criticized for failing to communicate, promises to do better",
@@ -40,7 +61,12 @@
         "ATC Track": "Kokoroko",
         "ATC Artists": [
             "Abusey Junction"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "CES and the future of tech",
@@ -52,13 +78,29 @@
         "ATC Track": "Screens",
         "ATC Artists": [
             "Weezer"
-        ]
+        ],
+        "Result Track Name": "Screens",
+        "Result Artist Names": [
+            "Weezer"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0b6hoafn69o0ckauawei7q",
+        "Result Album Name": "OK Human"
     },
     {
         "ATC Track": "Islands",
         "ATC Artists": [
             "The XX"
-        ]
+        ],
+        "Result Track Name": "Islands",
+        "Result Artist Names": [
+            "The xx"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6i5tYaGlOFDLILEB6HfJAa",
+        "Result Album Name": "xx"
     },
     {
         "Title": "The legacy of Lani Guinier",
@@ -76,12 +118,28 @@
         "ATC Track": "To Sir With Love",
         "ATC Artists": [
             "Lulu"
-        ]
+        ],
+        "Result Track Name": "To Sir with Love",
+        "Result Artist Names": [
+            "Lulu"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0gBFr7N2D1GfhkXIIepIGG",
+        "Result Album Name": "To Sir With Love"
     },
     {
         "ATC Track": "My Queen Is Albertina Sisulu",
         "ATC Artists": [
             "Sons of Kemet"
-        ]
+        ],
+        "Result Track Name": "My Queen Is Albertina Sisulu",
+        "Result Artist Names": [
+            "Sons Of Kemet"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:28uZjhU60BosFYSMJLJoQ3",
+        "Result Album Name": "Your Queen Is A Reptile"
     }
 ]

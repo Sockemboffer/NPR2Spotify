@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-02-27",
         "Day": "Sun",
-        "Scanned Date": "2022-03-08 08:22:49"
+        "Scanned Date": "2022-03-08 08:22:49",
+        "Playlist URI": "4qKT1mKh9yi3eLfPw0p4V6",
+        "Playlist Link": "https://open.spotify.com/playlist/4qKT1mKh9yi3eLfPw0p4V6",
+        "Snapshot ID": "MSxhYTdhZmE3MzgwOGY4NjkzZDg3NGM2ZjM4MDk5MThlYzAwYjFjOTc2",
+        "Playlist Name": "ATC 2022-02-27 Sun All Things Considered"
     },
     {
         "Title": "Fighting breaks out after Russian troops enter Ukraine's second-largest city",
@@ -22,7 +26,16 @@
         "ATC Track": "Lavender Blue",
         "ATC Artists": [
             "Damien Sebe"
-        ]
+        ],
+        "Result Track Name": "Lavender Blue",
+        "Result Artist Names": [
+            "Damien Sebe",
+            "Chill Moon Music"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1Yvmew5a9DyVwaX9WoaJIa",
+        "Result Album Name": "Lavender Blue"
     },
     {
         "Title": "The latest on Ukraine's 'gate to Eastern Europe,' from a former Odessa port official",
@@ -46,7 +59,15 @@
         "ATC Track": "Popular Tree",
         "ATC Artists": [
             "Men I Trust"
-        ]
+        ],
+        "Result Track Name": "Poplar Tree",
+        "Result Artist Names": [
+            "Men I Trust"
+        ],
+        "Result Track-Match Percent": 0.5,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4m2QnkXm7ZpPGxsExVp8h4",
+        "Result Album Name": "Oncle Jazz"
     },
     {
         "Title": "Biden sanctions spare Russia's energy sector. What that means for OPEC talks",
@@ -58,7 +79,12 @@
         "ATC Track": "Killer Shangri Lah",
         "ATC Artists": [
             "Killing Eve"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Sen. Sullivan supports sending more military aid to Ukraine",
@@ -76,6 +102,17 @@
         "ATC Track": "Piano Concerto No. 21",
         "ATC Artists": [
             "Mozart"
-        ]
+        ],
+        "Result Track Name": "Piano Concerto No. 21 in C Major, K. 467 \"Elvira Madigan\": II. Andante",
+        "Result Artist Names": [
+            "Wolfgang Amadeus Mozart",
+            "Ilmar Lapinsch",
+            "Gints Berzins",
+            "Mostar Symphony Orchestra"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:65M3CumJnOV1mPglUhH9Ct",
+        "Result Album Name": "The Top 100 In Classical Music"
     }
 ]

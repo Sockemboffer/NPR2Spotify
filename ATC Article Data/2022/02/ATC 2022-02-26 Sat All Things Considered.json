@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-02-26",
         "Day": "Sat",
-        "Scanned Date": "2022-03-08 08:22:48"
+        "Scanned Date": "2022-03-08 08:22:48",
+        "Playlist URI": "4UZH0EOWR3AbMKvq0uTtvR",
+        "Playlist Link": "https://open.spotify.com/playlist/4UZH0EOWR3AbMKvq0uTtvR",
+        "Snapshot ID": "MSwyZWFmMDE2N2RlMTE3OWFkZGE1YmZlNDQyNWY5OGM4NTI4YmQxN2Qw",
+        "Playlist Name": "ATC 2022-02-26 Sat All Things Considered"
     },
     {
         "Title": "Ukrainians are forced to adjust to life under martial law",
@@ -28,7 +32,12 @@
         "ATC Track": "We are Love",
         "ATC Artists": [
             "Lucaveitski"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Alabama leaders say their maps don't disfavor Black voters, but activists disagree",
@@ -40,7 +49,12 @@
         "ATC Track": "Evertide",
         "ATC Artists": [
             "Quiet Prophet"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Civil rights activists rally behind Supreme Court pick — and prepare for the backlash",
@@ -52,7 +66,12 @@
         "ATC Track": "Ripple",
         "ATC Artists": [
             "Alex DeGrassi"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "UN refugee chief: at least 150,000 in Ukraine cross into neighboring countries",
@@ -76,6 +95,14 @@
         "ATC Track": "Sweet Home Alabama",
         "ATC Artists": [
             "Lynyrd Skynyrd"
-        ]
+        ],
+        "Result Track Name": "Sweet Home Alabama",
+        "Result Artist Names": [
+            "Lynyrd Skynyrd"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7e89621JPkKaeDSTQ3avtg",
+        "Result Album Name": "Second Helping"
     }
 ]

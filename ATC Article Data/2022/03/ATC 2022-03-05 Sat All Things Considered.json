@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-03-05",
         "Day": "Sat",
-        "Scanned Date": "2022-03-08 08:22:18"
+        "Scanned Date": "2022-03-08 08:22:18",
+        "Playlist URI": "6StZSKkSzont32WV2eJVmc",
+        "Playlist Link": "https://open.spotify.com/playlist/6StZSKkSzont32WV2eJVmc",
+        "Snapshot ID": "MSxmZDBiMjE3YzhkMGYwNTlhNzJhMzkwMDY3OWM5YTZjOTcyY2JhYmFh",
+        "Playlist Name": "ATC 2022-03-05 Sat All Things Considered"
     },
     {
         "Title": "The latest on the Ukraine-Russia crisis",
@@ -22,7 +26,17 @@
         "ATC Track": "Sentiment",
         "ATC Artists": [
             "DESH"
-        ]
+        ],
+        "Result Track Name": "Sentiment",
+        "Result Artist Names": [
+            "DESH",
+            "Søren Søstrom",
+            "Noé Mina"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:1DXyi8J4qdD9rxqQ9bNMWS",
+        "Result Album Name": "Sentiment // Between Us"
     },
     {
         "Title": "What a Justice Ketanji Brown Jackson could bring to the Supreme Court",
@@ -46,7 +60,15 @@
         "ATC Track": "Flowy",
         "ATC Artists": [
             "Acrade Portal"
-        ]
+        ],
+        "Result Track Name": "Flowy",
+        "Result Artist Names": [
+            "Arcade Portal"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:6ydvFfruycfb2Fci1LLFs8",
+        "Result Album Name": "Flowy"
     },
     {
         "Title": "COVID-19 cases soar in New Zealand, in dramatic shift",
@@ -70,6 +92,14 @@
         "ATC Track": "Lost Memories",
         "ATC Artists": [
             "Formantx"
-        ]
+        ],
+        "Result Track Name": "Lost Memories",
+        "Result Artist Names": [
+            "FormantX"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5BqNFPv821SwKnBkjPDr0j",
+        "Result Album Name": "Lost Memories"
     }
 ]

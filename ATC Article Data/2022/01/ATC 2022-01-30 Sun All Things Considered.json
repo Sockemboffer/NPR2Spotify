@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-01-30",
         "Day": "Sun",
-        "Scanned Date": "2022-03-08 08:23:38"
+        "Scanned Date": "2022-03-08 08:23:38",
+        "Playlist URI": "7GULQZGIW7eStMJ8YBlvgU",
+        "Playlist Link": "https://open.spotify.com/playlist/7GULQZGIW7eStMJ8YBlvgU",
+        "Snapshot ID": "MSwyZWVhMGY4ZjI2Mjc3ZjliY2Q5OTczMDVlN2RjYTFlYmZkYzM0M2Y4",
+        "Playlist Name": "ATC 2022-01-30 Sun All Things Considered"
     },
     {
         "Title": "Michigan state official says W.Va. comments go against 2022 misinformation fight",
@@ -22,13 +26,29 @@
         "ATC Track": "I know",
         "ATC Artists": [
             "Mowli"
-        ]
+        ],
+        "Result Track Name": "I Know",
+        "Result Artist Names": [
+            "Mowli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7w24iV4ojJaHVKKa3C5wcF",
+        "Result Album Name": "I Know"
     },
     {
         "ATC Track": "Flowers",
         "ATC Artists": [
             "The Deli"
-        ]
+        ],
+        "Result Track Name": "Flowers",
+        "Result Artist Names": [
+            "The Deli"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6ugrRFZUNIpLiqhLUgC7ix",
+        "Result Album Name": "Vibes 3"
     },
     {
         "Title": "Pandemic spotlights problems with the child care industry",
@@ -46,7 +66,15 @@
         "ATC Track": "Tattered",
         "ATC Artists": [
             "Delicate Steve"
-        ]
+        ],
+        "Result Track Name": "Tattered",
+        "Result Artist Names": [
+            "Delicate Steve"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3Lzn8dplRjtSMCQwD3ic43",
+        "Result Album Name": "Cowboy Stories"
     },
     {
         "Title": "'We Don't Talk About Bruno,' the surprise hit from Disney's 'Encanto'",
@@ -58,13 +86,29 @@
         "ATC Track": "Surface Pressure (from the Encanto soundtrack)",
         "ATC Artists": [
             "Jessica Darrow"
-        ]
+        ],
+        "Result Track Name": "Surface Pressure - From \"Encanto\"/Soundtrack Version",
+        "Result Artist Names": [
+            "Jessica Darrow"
+        ],
+        "Result Track-Match Percent": 0.8333333333333334,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6K5ph5mq1qprHae3TrgTj5",
+        "Result Album Name": "Surface Pressure (From \"Encanto\")"
     },
     {
         "ATC Track": "What You Waiting For",
         "ATC Artists": [
             "Pete Rock"
-        ]
+        ],
+        "Result Track Name": "What You Waiting For",
+        "Result Artist Names": [
+            "Pete Rock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2K57CFvJgYEyKcfHWaoov3",
+        "Result Album Name": "Petestrumentals"
     },
     {
         "Title": "Progressive activist Ady Barkan says his ALS has increased his platform",
@@ -82,12 +126,22 @@
         "ATC Track": "The Food",
         "ATC Artists": [
             "Common (ft. Kanye West)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Nothing Like U",
         "ATC Artists": [
             "Kaytranada"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     }
 ]

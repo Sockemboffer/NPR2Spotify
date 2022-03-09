@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-01-23",
         "Day": "Sun",
-        "Scanned Date": "2022-03-08 08:23:27"
+        "Scanned Date": "2022-03-08 08:23:27",
+        "Playlist URI": "2vCa6ySY8eYF74aKS3oqbd",
+        "Playlist Link": "https://open.spotify.com/playlist/2vCa6ySY8eYF74aKS3oqbd",
+        "Snapshot ID": "MSxiMWZmOWU2NGJjMjU0ZjZkOTQ2NzMzMjc5ZGU5NDBiMTQzNmRiZjdk",
+        "Playlist Name": "ATC 2022-01-23 Sun All Things Considered"
     },
     {
         "Title": "As schools debate COVID safety, students stage walkouts to voice demands",
@@ -22,13 +26,26 @@
         "ATC Track": "Havana",
         "ATC Artists": [
             "Camila Cabello (ft. Young Thug)"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "Tired of Fighting",
         "ATC Artists": [
             "Menahan Street Band"
-        ]
+        ],
+        "Result Track Name": "Tired of Fighting",
+        "Result Artist Names": [
+            "Menahan Street Band"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4rNOFDkStRndjL08iV8f4D",
+        "Result Album Name": "Make the Road By Walking"
     },
     {
         "Title": "How antisemitic conspiracies drive violent attacks and harm democracy",
@@ -46,7 +63,15 @@
         "ATC Track": "Saint Thomas",
         "ATC Artists": [
             "Bibio"
-        ]
+        ],
+        "Result Track Name": "Saint Thomas",
+        "Result Artist Names": [
+            "Bibio"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:11fEJnYg66OiKzN4XPtooK",
+        "Result Album Name": "A Mineral Love"
     },
     {
         "Title": "Life Kit: How ethical investing works",
@@ -58,13 +83,29 @@
         "ATC Track": "For the Love of Money",
         "ATC Artists": [
             "The O'Jays"
-        ]
+        ],
+        "Result Track Name": "For the Love of Money",
+        "Result Artist Names": [
+            "The O'Jays"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:3p1JoOEhVkEnTaa4JzTMSk",
+        "Result Album Name": "Ship Ahoy (Expanded Edition)"
     },
     {
         "ATC Track": "Beat Goes On",
         "ATC Artists": [
             "Pete Rock"
-        ]
+        ],
+        "Result Track Name": "Beat Goes On",
+        "Result Artist Names": [
+            "Pete Rock"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:5656hnLbP07mPqNhYSmxLl",
+        "Result Album Name": "Petestrumentals 2"
     },
     {
         "Title": "West Virginia's plan to fight 2022 misinformation",
@@ -82,12 +123,29 @@
         "ATC Track": "Stay a While",
         "ATC Artists": [
             "The Cactus Channel"
-        ]
+        ],
+        "Result Track Name": "Stay a While",
+        "Result Artist Names": [
+            "The Cactus Channel"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:7EdFmnGr4QvCpuMtcP1AC0",
+        "Result Album Name": "Stay a While"
     },
     {
         "ATC Track": "Jet Black",
         "ATC Artists": [
             "Anderson.Paak"
-        ]
+        ],
+        "Result Track Name": "Jet Black (feat. Brandy)",
+        "Result Artist Names": [
+            "Anderson .Paak",
+            "Brandy"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:70pZIQqQ37SrNCADx0FiPN",
+        "Result Album Name": "Ventura"
     }
 ]

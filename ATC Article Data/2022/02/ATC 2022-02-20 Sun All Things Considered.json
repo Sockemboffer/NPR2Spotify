@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-02-20",
         "Day": "Sun",
-        "Scanned Date": "2022-03-08 08:22:41"
+        "Scanned Date": "2022-03-08 08:22:41",
+        "Playlist URI": "5wxRmT68I5vwrJnQeUyQH5",
+        "Playlist Link": "https://open.spotify.com/playlist/5wxRmT68I5vwrJnQeUyQH5",
+        "Snapshot ID": "MSw5MTNiMDE2NTRhOWQ0OWYyNmM3NWE1MWE3NDAzYTFhOGQ2MGVlMDIy",
+        "Playlist Name": "ATC 2022-02-20 Sun All Things Considered"
     },
     {
         "Title": "How an actor-turned-president found himself leading Ukraine during war",
@@ -22,7 +26,12 @@
         "ATC Track": "Everyone Has Deams",
         "ATC Artists": [
             "Zairis Tejion"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "Consumers beware: Personal tracking devices can track you, too",
@@ -40,7 +49,15 @@
         "ATC Track": "Deep in a Dream of You",
         "ATC Artists": [
             "Joey Pecoraro"
-        ]
+        ],
+        "Result Track Name": "Deep in a Dream of You",
+        "Result Artist Names": [
+            "Joey Pecoraro"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:68vmQzJ9GZtADcimMpcUp6",
+        "Result Album Name": "Deep in a Dream of You"
     },
     {
         "Title": "'A deep depression after the Olympics.' The challenges facing athletes at home",
@@ -52,7 +69,15 @@
         "ATC Track": "My Kind of Woman",
         "ATC Artists": [
             "Mac DeMarco"
-        ]
+        ],
+        "Result Track Name": "My Kind of Woman",
+        "Result Artist Names": [
+            "Mac DeMarco"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:6jgkEbmQ2F2onEqsEhiliL",
+        "Result Album Name": "2"
     },
     {
         "Title": "International court case pits mining interests against Indigenous land rights",
@@ -76,6 +101,14 @@
         "ATC Track": "A Time of Wonder",
         "ATC Artists": [
             "Alexis Ffrench"
-        ]
+        ],
+        "Result Track Name": "A Time of Wonder",
+        "Result Artist Names": [
+            "Alexis Ffrench"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:2SiUDrcdc9iewegA0TmH6s",
+        "Result Album Name": "The Piano Whisperer"
     }
 ]

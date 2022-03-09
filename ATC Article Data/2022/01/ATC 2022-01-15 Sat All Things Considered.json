@@ -4,7 +4,11 @@
         "Edition": "All Things",
         "Date Numbered": "2022-01-15",
         "Day": "Sat",
-        "Scanned Date": "2022-03-08 08:23:13"
+        "Scanned Date": "2022-03-08 08:23:13",
+        "Playlist URI": "7GXehoAMufENj7DZQ7G3Cv",
+        "Playlist Link": "https://open.spotify.com/playlist/7GXehoAMufENj7DZQ7G3Cv",
+        "Snapshot ID": "MSxmMjNkZTgyMzFhOGMwOTRhMmRlMjIzMTFmYjgxOGIyOGQyY2QxMDg0",
+        "Playlist Name": "ATC 2022-01-15 Sat All Things Considered"
     },
     {
         "Title": "With a new surge in cases comes another fierce debate about in-person learning",
@@ -22,13 +26,26 @@
         "ATC Track": "Remedy",
         "ATC Artists": [
             "Matt Loud"
-        ]
+        ],
+        "Result Track Name": "Remedy",
+        "Result Artist Names": [
+            "Matt Louda"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 0.5,
+        "Result Track URI": "spotify:track:1kXvmBrBtSTB1w0QyP4FpM",
+        "Result Album Name": "Remedy"
     },
     {
         "ATC Track": "Bagger",
         "ATC Artists": [
             "Ash Walker"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "'The End Of Burnout' and the changing nature of how we work",
@@ -46,7 +63,15 @@
         "ATC Track": "Anything You Synthesize",
         "ATC Artists": [
             "The American Dollar"
-        ]
+        ],
+        "Result Track Name": "Anything You Synthesize - Ambient",
+        "Result Artist Names": [
+            "The American Dollar"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:0OF6WSdeVmYEGBZlxvwvLq",
+        "Result Album Name": "Ambient One"
     },
     {
         "Title": "Before you open the calorie counter, consider the role of diet culture",
@@ -58,13 +83,23 @@
         "ATC Track": "Pretty Hurts",
         "ATC Artists": [
             "Beyonce"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "ATC Track": "You Deserve Them",
         "ATC Artists": [
             "Men I Trust"
-        ]
+        ],
+        "Result Track Name": null,
+        "Result Artist Names": [],
+        "Result Track-Match Percent": 0.0,
+        "Result Artists-Match Percent": 0.0,
+        "Result Track URI": null
     },
     {
         "Title": "After a week of failed diplomatic efforts, tension between Russia and the U.S. builds",
@@ -94,12 +129,28 @@
         "ATC Track": "Lemon Tea",
         "ATC Artists": [
             "Gyvus"
-        ]
+        ],
+        "Result Track Name": "Lemon Tea",
+        "Result Artist Names": [
+            "Gyvus"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:00RW0bhpba2Djqf8E65sXL",
+        "Result Album Name": "Chillhop Essentials Summer 2017"
     },
     {
         "ATC Track": "Cosmic",
         "ATC Artists": [
             "Florian Weber"
-        ]
+        ],
+        "Result Track Name": "Cosmic Girl",
+        "Result Artist Names": [
+            "Florian Weber"
+        ],
+        "Result Track-Match Percent": 1.0,
+        "Result Artists-Match Percent": 1.0,
+        "Result Track URI": "spotify:track:4M0sYBY8kkTAbMtvciExNz",
+        "Result Album Name": "Biosphere"
     }
 ]
