@@ -186,8 +186,12 @@ class NPRPageParser:
                     else:
                         updatedDict = {**newDict, **editionYearLinkCache}
                         editionYearLinkCache = updatedDict
-                leftOffDate = leftOffDate + timedelta(days=+(len(articleDayLinks) - int(leftOffDate.day) + 1))
-                NPRPageParser.SaveJSONFile(editionYearLinkCache, cachePath, cacheFileName)
+                if leftOffDate.month == 12:
+                    NPRPageParser.SaveJSONFile(editionYearLinkCache, cachePath, cacheFileName)
+                    break
+                else:
+                    leftOffDate = datetime(leftOffDate.year, leftOffDate.month+1, 1)
+                    NPRPageParser.SaveJSONFile(editionYearLinkCache, cachePath, cacheFileName)
         elif leftOffDate.year <= today.year and projectName == "MoWeEd":
             print("-- Are we redoing a past month of MoWeEd links???")
             return None

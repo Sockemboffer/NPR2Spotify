@@ -34,7 +34,10 @@ class NPRPlaylistCreator:
         # Playlist name limit is 100 char
         # time.sleep(1) # maybe a delay soon after the last search track but before we create playlist will help prevent 10054 error??
         request_body = json.dumps({"name": playlistName, "public": False})
-        query = "https://api.spotify.com/v1/users/{}/playlists".format(self.secrets.SPOTIFY_USER_ID_ATC)
+        if user_id == "SPOTIFY_USER_ID_MOWEED":
+            query = "https://api.spotify.com/v1/users/{}/playlists".format(self.secrets.SPOTIFY_USER_ID_MOWEED)
+        else:
+            query = "https://api.spotify.com/v1/users/{}/playlists".format(self.secrets.SPOTIFY_USER_ID_ATC)
         response = self.requestSession.post(query, data=request_body, headers={"Content-Type": "application/json", "Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id))})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response code: {0}, {1}'.format(response.status_code, response.text))
@@ -86,7 +89,10 @@ class NPRPlaylistCreator:
     @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
     def AddCoverArtToPlaylist(self, editionDayData, user_id):
         encoded_string = NPRPlaylistCreator.GetNewCover(editionDayData)
-        query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(self.secrets.SPOTIFY_USER_ID_ATC, editionDayData[0]['Playlist URI']) 
+        if user_id == "SPOTIFY_USER_ID_MOWEED":
+            query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(self.secrets.SPOTIFY_USER_ID_MOWEED, editionDayData[0]['Playlist URI']) 
+        else:
+            query = "https://api.spotify.com/v1/users/{}/playlists/{}/images".format(self.secrets.SPOTIFY_USER_ID_ATC, editionDayData[0]['Playlist URI'])
         response = self.requestSession.put(query, encoded_string, headers={"Authorization": "Bearer {}".format(self.secrets.GiveToken(user_id)), "Content-Type": "image/jpeg"})
         if response.status_code not in [200, 201, 202]:
             raise Exception('API response: {}'.format(response.status_code))
@@ -145,18 +151,18 @@ class NPRPlaylistCreator:
     
     # @on_exception(expo, RateLimitException, max_tries=8)
     # @limits(calls=NUMBER_OF_CALLS, period=IN_SECONDS)
-    def ChangePlaylistToPublic(self, leftOffDate: datetime, today: datetime, projectPrefix: str, projectName: str, user_id: str):
+    def ChangePlaylistToPublic(self, leftOffDate: datetime, today: datetime, projectPrefix: str, user_id: str):
         startDate = leftOffDate
         if projectPrefix != "ATC":
             while startDate <= today:
                 projectPath = projectPrefix + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
-                morningEditionFileName = projectPrefix + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), projectName)
-                weekendEditionFileName = projectName + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), projectName)
                 fileType = ".json"
                 # Load article data from disk
                 if startDate.weekday() <= 4:
+                    morningEditionFileName = projectPrefix + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Morning Edition")
                     editionDay = NPRPageParser.LoadJSONFile(projectPath + morningEditionFileName + fileType)
                 else:
+                    weekendEditionFileName = projectPrefix + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "Weekend Edition")
                     editionDay = NPRPageParser.LoadJSONFile(projectPath + weekendEditionFileName + fileType)
                 if editionDay == None:
                     startDate = startDate + timedelta(days=+1)
@@ -176,7 +182,7 @@ class NPRPlaylistCreator:
         else:
             while startDate <= today:
                 projectPath = projectPrefix + " Article Data/{0}/{1}/".format(startDate.year, startDate.strftime("%m"))
-                ATCFileName = projectPrefix + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), projectName)
+                ATCFileName = projectPrefix + " {0} {1} {2}".format(startDate.strftime("%Y-%m-%d"), startDate.strftime("%a"), "All Things Considered")
                 fileType = ".json"
                 # Load article data from disk
                 editionDay = NPRPageParser.LoadJSONFile(projectPath + ATCFileName + fileType)
