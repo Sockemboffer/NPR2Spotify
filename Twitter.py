@@ -23,3 +23,4 @@
 
 "ATC" "🤖 Created playlists for All Things Considered from January 1st, 1996 through December 31st, 1998. More to come! ❤️🌎📻 #Donate #NPR #AllThingsConsidered #VaccinesWork #SpotifyPlaylist #Spotify"
 "ATC" "🤖 Created All Things Considered playlists for the year 2005. More to come! ❤️🌎📻 #Donate #NPR #AllThingsConsidered #VaccinesWork #SpotifyPlaylists #Spotify"
+"ATC" "🤖 Created All Things Considered playlist for March 15th, 2022.❤️🌎📻 #Donate #NPR #AllThingsConsidered #VaccinesWork #SpotifyPlaylist #Spotify"

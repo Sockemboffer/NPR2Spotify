@@ -58,54 +58,45 @@ def createLeftOffDate(today: datetime, projectName: str):
 # July 25th 2000's seems to be when some morning edition interlude data is being documented
 # Used to create json output for each day with various article and track data
 # TODO Gotta be a cleaner way than this
-def ParseDayLinks(leftOffDate: datetime, today: str, projectPrefix: str):
-    while leftOffDate <= today:
-        leftOffYear = leftOffDate
-        editionDayData = list() 
-        editionYearLinkCache = NPRPageParser.LoadJSONFile(projectPrefix + " Article Link Cache/" + str(leftOffDate.year) + " " + projectPrefix + " Article Link Cache.json")
-        beginningOfYear = datetime(leftOffDate.year, 1, 1)
-        daysPassed =  leftOffDate - beginningOfYear
-        dayCount = 1
-        if editionYearLinkCache != None:
-            year = editionYearLinkCache # editionYearLinkCache[str(leftOffDate.month).zfill(2)]
-            for month, links in reversed(year.items()):
-                for link in links:
-                    # Skip days we've already done
-                    if dayCount > daysPassed.days:
+def ParseDayLinks(leftOffDate: datetime, today: datetime, projectPrefix: str):
+    missedDays = today - leftOffDate
+    dayCount = 0
+    editionDayData = list() 
+    editionYearLinkCache = NPRPageParser.LoadJSONFile(projectPrefix + " Article Link Cache/" + str(leftOffDate.year) + " " + projectPrefix + " Article Link Cache.json")
+    if editionYearLinkCache != None:
+        for month, links in editionYearLinkCache.items():
+            for link in reversed(links):
+                if dayCount <= missedDays.days:
+                    requestedHTML = NPRPageParser.RequestURL(link)
+                    while requestedHTML == None:
                         requestedHTML = NPRPageParser.RequestURL(link)
-                        while requestedHTML == None:
-                            requestedHTML = NPRPageParser.RequestURL(link)
-                        selectedHTML = NPRPageParser.SelectStory(requestedHTML.text) # select the returned HTML
-                        editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML)) # get various article data from this day
-                        for story in selectedHTML.xpath('.//div[@id="story-list"]/*'):
-                            if story.attrib['class'] == 'rundown-segment':
-                                editionDayData.append(NPRPageParser.GetArticleInfo(story))
-                            elif story.attrib['class'] == 'music-interlude responsive-rundown':
-                                for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
-                                    interlude = dict()
-                                    # ATCNPR Pass project names for keys
-                                    interlude[projectPrefix + " Track"] = NPRPageParser.GetInterludeSongName(songMETA)
-                                    interlude[projectPrefix + " Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
-                                    editionDayData.append(interlude)
-                                    print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
-                        editionYear = editionDayData[0]['Date Numbered'][0:4]
-                        editionMonth = editionDayData[0]['Date Numbered'].partition("-")[2].partition("-")[0]
-                        editionDate = editionDayData[0]['Date Numbered']
-                        editionDay = editionDayData[0]['Day']
-                        editionEdition = editionDayData[0]["Edition"][0:15]
-                        fileType = ".json"
-                        if editionEdition == "All Things":
-                            fileName = projectPrefix + " " + editionDate + " " + editionDay + " " + editionEdition + " Considered" + fileType
-                        else:
-                            fileName = projectPrefix + " " + editionDate + " " + editionDay + " " + editionEdition + fileType
-                        directoryPath = projectPrefix + " Article Data/{0}/{1}/".format(editionYear, editionMonth)
-                        NPRPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
-                        editionDayData.clear()
-                        leftOffDate = leftOffDate + timedelta(days=+1)
+                    selectedHTML = NPRPageParser.SelectStory(requestedHTML.text)
+                    editionDayData.append(NPRPageParser.GetEditionData(link, selectedHTML))
+                    for story in selectedHTML.xpath('.//div[@id="story-list"]/*'):
+                        if story.attrib['class'] == 'rundown-segment':
+                            editionDayData.append(NPRPageParser.GetArticleInfo(story))
+                        elif story.attrib['class'] == 'music-interlude responsive-rundown':
+                            for songMETA in story.xpath('.//div[@class="song-meta-wrap"]'):
+                                interlude = dict()
+                                interlude[projectPrefix + " Track"] = NPRPageParser.GetInterludeSongName(songMETA)
+                                interlude[projectPrefix + " Artists"] = NPRPageParser.GetInterludeArtistNames(songMETA)
+                                editionDayData.append(interlude)
+                                print(json.dumps(interlude, indent=4, sort_keys=True, ensure_ascii=False))
+                    editionYear = editionDayData[0]['Date Numbered'][0:4]
+                    editionMonth = editionDayData[0]['Date Numbered'].partition("-")[2].partition("-")[0]
+                    editionDate = editionDayData[0]['Date Numbered']
+                    editionDay = editionDayData[0]['Day']
+                    editionEdition = editionDayData[0]["Edition"][0:15]
+                    fileType = ".json"
+                    if editionEdition == "All Things":
+                        fileName = projectPrefix + " " + editionDate + " " + editionDay + " " + editionEdition + " Considered" + fileType
                     else:
-                        dayCount = dayCount + 1
-        else:
-            NPRPageParser.CreateLinkCacheJSONFile(projectPrefix)
+                        fileName = projectPrefix + " " + editionDate + " " + editionDay + " " + editionEdition + fileType
+                    directoryPath = projectPrefix + " Article Data/{0}/{1}/".format(editionYear, editionMonth)
+                    NPRPageParser.SaveJSONFile(editionDayData, directoryPath, fileName)
+                    editionDayData.clear()
+                    dayCount = dayCount + 1
+                    # leftOffDate = leftOffDate + timedelta(days=+1)
 
 
 # Step 3
@@ -265,7 +256,7 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
                 editionDay[0]["Playlist Link"] = response["external_urls"]["spotify"]
                 editionDay[0]["Snapshot ID"] = response["snapshot_id"]
                 editionDay[0]["Playlist Name"] = filename
-                nprPlaylistCreator.AddCoverArtToPlaylist(editionDay, projectName, user_id)
+                nprPlaylistCreator.AddCoverArtToPlaylist(editionDay, user_id)
                 nprPlaylistCreator.UpdatePlaylistDescription(editionDay, user_id)
                 NPRPageParser.SaveJSONFile(editionDay, projectPath, filename + fileType)
                 print(">> No interlude Tracks for {0} ".format(startDate.date()))
@@ -278,11 +269,11 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
 
 
 # ATC has music listed starting from January 2nd, 1996
-# projectPrefix = "MoWeEd"
-projectPrefix = "ATC"
-# user_id = "SPOTIFY_USER_ID_MOWEED"
-user_id = "SPOTIFY_USER_ID_ATC"
-today = datetime(2022, 3, 11)
+projectPrefix = "MoWeEd"
+user_id = "SPOTIFY_USER_ID_MOWEED"
+# projectPrefix = "ATC"
+# user_id = "SPOTIFY_USER_ID_ATC"
+today = datetime.today()
 leftOffDate = createLeftOffDate(today, projectPrefix)
 NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectPrefix)
 ParseDayLinks(leftOffDate, today, projectPrefix)

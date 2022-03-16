@@ -67,7 +67,7 @@ class NPRSpotifySearch:
             artistResponses.append(self.SearchImplicitTrackImplicitArtist(unidecode(track), unidecode(self.ReplaceAmpersand(artist)), user_id))
             artistResponses.append(self.SearchImplicitTrackAndArtistCombined(unidecode(track), unidecode(self.ReplaceAmpersand(artist)), user_id))
             trackResponses.append(artistResponses)
-        print("-- MoWeEd Track \"{0}\" by \"{1}\" searched.".format(track, str(artists)))
+        print("\"{0}\" by \"{1}\" searched.".format(track, str(artists)))
         bestChoice = self.ChooseBestMatch(trackResponses, track, artists)
         return bestChoice
 
