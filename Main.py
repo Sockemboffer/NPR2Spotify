@@ -269,10 +269,10 @@ def createPlaylists(leftOffDate: datetime, today: datetime, projectName: str, us
 
 
 # ATC has music listed starting from January 2nd, 1996
-projectPrefix = "MoWeEd"
-user_id = "SPOTIFY_USER_ID_MOWEED"
-# projectPrefix = "ATC"
-# user_id = "SPOTIFY_USER_ID_ATC"
+# projectPrefix = "MoWeEd"
+# user_id = "SPOTIFY_USER_ID_MOWEED"
+projectPrefix = "ATC"
+user_id = "SPOTIFY_USER_ID_ATC"
 today = datetime.today()
 leftOffDate = createLeftOffDate(today, projectPrefix)
 NPRPageParser.NPRArticleLinkCacheCreator(leftOffDate, projectPrefix)
