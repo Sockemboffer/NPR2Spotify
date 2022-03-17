@@ -10,7 +10,7 @@ Generally, this program parses NPR Morning Edition, Weekend Edition, and All Thi
 
 Morning and Weekend Edition playlists all public: [NPR MoWeEd](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=c8f7240012154a88)
 
-All Things Considered playlists for 1996-2005 now public: [NPR ATC](https://open.spotify.com/user/31eljfpkmh4v6xux7mu36s32cmzu?si=760639e4c5344320)
+All Things Considered playlists all now public: [NPR ATC](https://open.spotify.com/user/31eljfpkmh4v6xux7mu36s32cmzu?si=760639e4c5344320)
 
 Follow on Twitter: [@NPR2Spotify](https://twitter.com/MoWeEd2Spotify)
 
