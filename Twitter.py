@@ -6,7 +6,7 @@
 
 "1 W" "Created a playlist for NPR Weekend Edition January 22nd and January 8th, 2022. ❤️🌎📻#Donate #NPR #WeekendEdition #VaccinesWork #SpotifyPlaylists #Spotify"
 
-"1 M" "🤖 Created a playlist for NPR Morning Edition for January 22nd, 2022. ❤️🌎📻#Donate #NPR #MorningEdition #VaccinesWork #SpotifyPlaylists #Spotify"
+"1 M" "🤖 Created a playlist for NPR Morning Edition for January 22nd, 2022. ❤️🌎📻#Donate #NPR #MorningEdition #SpotifyPlaylists #Spotify"
 
 "2 Ws" "Created playlists for NPR Weekend Edition January 29th and January 30th, 2022. ❤️🌎📻#Donate #NPR #WeekendEdition #VaccinesWork #SpotifyPlaylist #Spotify"
 
@@ -23,4 +23,4 @@
 
 "ATC" "🤖 Created playlists for All Things Considered from January 1st, 1996 through December 31st, 1998. More to come! ❤️🌎📻 #Donate #NPR #AllThingsConsidered #VaccinesWork #SpotifyPlaylist #Spotify"
 "ATC" "🤖 Created All Things Considered playlists for the year 2005. More to come! ❤️🌎📻 #Donate #NPR #AllThingsConsidered #VaccinesWork #SpotifyPlaylists #Spotify"
-"ATC" "🤖 Created All Things Considered playlist for March 15th, 2022.❤️🌎📻 #Donate #NPR #AllThingsConsidered #VaccinesWork #SpotifyPlaylist #Spotify"
+"ATC" "🤖 Created All Things Considered playlist for March 15th, 2022.❤️🌎📻 #Donate #NPR #AllThingsConsidered #SpotifyPlaylist #Spotify"
