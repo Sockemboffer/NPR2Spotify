@@ -30,7 +30,7 @@ Follow on Twitter: [@NPR2Spotify](https://twitter.com/MoWeEd2Spotify)
 - [ ] Create a dependiencies manifest.
 - [ ] Make more pythonic all around.
 - [ ] Automate to run daily.
-- [x] On going, All Things Considered Archive
+- [ ] Automate twitter posts
 ----------------------------------------------------------------------------------------------------
 
 ## Problem
