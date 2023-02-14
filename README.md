@@ -2,6 +2,10 @@
 # NPR2Spotify
 Generally, this program parses NPR Morning Edition, Weekend Edition, and All Things Considered and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
 
+========= Notice #2 =====
+Sadly NPR has stopped putting up their  Artist and song title information last year. This project is sleeping for now. I might kick around the idea of trying again with some sort of Shazam API to id songs from their show audio recordings. 
+:(
+
 ========= Notice ========
 
 *** I've discovered that Spotify only shows the most recent 200 playlists publicly. If you use a link from the archive data you can view any of them. I'm working on a temperary solution in the meantime. If you're able, support with a vote here [All Platforms Playlists Get Rid of 200 Public Playlist Limit](https://community.spotify.com/t5/Closed-Ideas/All-Platforms-Playlists-Get-Rid-of-200-Public-Playlist-Limit/idc-p/5209926#M221568), voting can still help a closed issue. ***
