@@ -3,6 +3,7 @@
 Generally, this program parses NPR Morning Edition, Weekend Edition, and All Things Considered and creates a Spotify [Playlist](https://open.spotify.com/user/1tnm7cyegqffdjtsz6mt1ozcl?si=oQepJ6nKTVmZ6rYdRaEDTQ/) for that day's interlude music. It's not perfect at matching for various reasons like human error and my ad-hoc matching logic. Assumes you have a free spotify developer account, uses OAuth2, and spotify user permissions to create/modify playlists.
 
 ========= Notice #2 =====
+
 Sadly NPR has stopped putting up their  Artist and song title information last year. This project is sleeping for now. I might kick around the idea of trying again with some sort of Shazam API to id songs from their show audio recordings. 
 :(
 
